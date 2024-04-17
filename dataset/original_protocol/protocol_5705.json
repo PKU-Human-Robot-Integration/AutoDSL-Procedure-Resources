@@ -1,0 +1,15 @@
+{
+  "id": 6049,
+  "origin_website": "Bio",
+  "title": "KMnO<sub>4</sub> Footprinting",
+  "procedures": [
+    "Footprinting with 3'- or 5'-end-labeled DNA analyzed by piperidine-catalyzed strand scission.Add 4 μl of 160 mM KMnO4 solution to radiolabeled DNA fragments of interest (40 ng; 5,000 to 10,000 cpm) (in the presence or absence of a binding partner) in a total volume of 40 μl.Incubate samples for 2 min at 30 °C; mix gently.Stop reaction by the addition of 4.8 μl β-mercaptoethanol; mix again.Put samples on ice.Add 5.3 μl 500 mM EDTA.Extract samples three times with 100 μl phenol/chloroform by vigorous shaking on a vortex for 1 min each time.Centrifuge samples (5 min, 3,000 rpm) and take aqueous layer.Precipitate samples with 2.5 volumes absolute ethanol (-20 °C).Centrifuge tubes (10 min, 10,000 rpm, 4 °C).Dissolve wet ethanol pellets in 70 μl of 10% (v/v) piperidine.Incubate samples at 90 °C for 30 min.Lyophilize samples in a vacuum concentrator until dry.Add 30 μl distilled water and lyophilize again.Repeat step 9.Dissolve final pellets in 50 μl distilled water.Add 4 μl 300 mM NaOAc (pH 5.5).Add 1 μl glycogen (1 μg/μl) to aid precipitation.Precipitate samples with 2.5 volumes absolute ethanol (-20 °C).Wash pellets with 150 μl 70% ethanol.Dry samples briefly in a vacuum concentrator to get rid of excess ethanol and dissolve in 5 μl electrophoresis loading buffer.Separate on a 10% or 15 % denaturing polyacrylamide gel, respectively, depending on the size of the DNA fragment.Visualize radioactive bands by autoradiography (over-night X-ray exposure).Footprinting with non-labeled DNA analyzed by primer extensionAdd 4 μl of 160 mM KMnO4 solution to 40 μl non-labeled DNA fragments (~100 ng) in presence or absence of a binding partner.Follow steps 2 to 8 of procedure A.Dissolve pellet in 35 μl distilled water.Add 1 μl of an appropriate 15 to 20mer 5'-32P-labeled desoxyoligonucleotide primer complementary to the downstream sequence of interest (~ 5 x 105 cpm).",
+    "For convenient resolution the primer should not bind farther than 50 to 80 nucleotides downstream to the region of interest.Add 4 μl 10 mM NaOH.Incubate for 2 min at 80 °C.Put samples on ice for 5 min.Add 4.5 μl of neutralization solution and mix samples.Incubate for 3 min at 68 °C for hybridization.Put samples on ice and add 5 μl of all four dNTPs (5 mM each), 1 unit Klenow fragment of DNA polymerase I and mix gently.Extension reaction is carried out for 10 min at 50 °C.Put samples on ice and terminate the reaction by the addition of 17 μl stop mix.Samples are precipitated with 2.5 volumes ethanol (-20 °C).Wash pellets with 150 μl 70% ethanol.Dry samples briefly in a vacuum concentrator to get rid of excess ethanol and dissolve in 5 μl electrophoresis loading buffer.Separate on a 10% or 15% denaturing polyacrylamide gel, respectively, depending on the size of the cDNA fragments expected.Visualize radioactive bands by autoradiography (over-night X-ray exposure)."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 11732,
+  "origin_website": "Jove",
+  "title": "Control of Eating Behavior Using a Novel Feedback System",
+  "procedures": [
+    "All work on experimental subjects and patients has been approved by the Central Ethical Review Board of Stockholm, Sweden.\n1. Control of Eating Rate and Food Intake by Visual Feedback\nDownload the device application.\nTurn on the scale by pressing the red button on the bottom of the scale (Figure 1).\nOpen the application and select a meal by pressing Control to eat without visual feedback or by pressing Training to eat with visual feedback (Figure 2).\nConnect the scale to the smartphone by selecting one of the scales found and pressing CONNECT (Figure 3).\nPlace a plate on the scale. Press Done to continue (Figure 4).\nPut food on the plate (0%).\n\t\nPut more food on the plate (72%).\nPress Start when ready to eat (100%) (Figure 5).\nAdapt rate of eating to the dashed blue reference curve (Figure 6).\nRate feeling of fullness when the rating scale appears on the screen. Adapt rating of fullness to the s-shaped dashed purple reference curve. Press Done to continue eating (Figure 7).\nSlow down if eating too quickly (Figure 8).\nWith no food left on plate, press No when finished eating (Figure 9).\nAs the meal duration is shown when meal is finished, press Done to exit (Figure 10)."
+  ],
+  "subjectAreas": [
+    "Behavior"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology"
+  ]
+}

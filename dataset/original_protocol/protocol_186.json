@@ -1,0 +1,21 @@
+{
+  "id": 191,
+  "origin_website": "Nature",
+  "title": "Targefect-BAC mediated Efficient Transfection of Bacterial Artificial Chromosomes into mammalian cells",
+  "procedures": [
+    "The Targefect-BAC transfection kit is a combination of the Targefect-BAC) with  enhancer reagents  for optimal\ntransfection of BAC-DNAvectors \\(greater than 150 Kb).  Two protocols are presented.  One protocol uses the Targefect-BAC reagent in combination iwht teh Peptide enhancer, an enhancer reagent that improves gene transfer by escorting genes to the mucleus.  A major advantage of the Peptide enhancer protocl \\(see writeup below) is that it uses significantly less BAC DNA than the the second protoocl which uses Targefect-BAC in combination with the Virofect enhancer.  We suggest testing both protocols to see which works beter with your cell type.  \nPlease use antibiotic-free media for both protococls.  Use serum-free media for complexing DNA with Targefect-BAC and enahncer.\nPEPTIDE ENHANCER PROTOCOL FOR BAC DNA TRANSFECTION\nPreparation of cells:\nSet up cells so they are approx.60- 70% confluent the day of the experiment.  \nPreparation of transfection complexes:\nTo 1 ml of serum-free DMEM add 1 ug DNA,  5 ul of Targefect-BAC\\(Targefect F-2) and 15 ul of the peptide enhancer.  Mix well after each addition and incubate at 37 o C for 20 mins to form complexes. \nAspirate off all culture media form the cells to be transfected and wash cells once with serum-free DMEM.",
+    "Add 1 ml of transfection complex per well of a 6-well dish, Add 0.4 ml transfection complex per well of a 12-well dish or 0.2 mal transfection complex per well of a 24-well dish. Swirl the dish to make sure transfection complexes cover cells well.   Incubate 2 hrs at 37 o C . Aspirate transfection complex after 2 hrs and replace with appropriate volume of complete media  ie media with serum \\(2 ml for a 6-well dish, 1 ml for a 12-well dish or 0.5 ml for a 24-well dish.  If possible we recommend using complete media that have 5 or 10% serum)\nAssay at 24 hrs post transfection. If cells need to go longer replace media the next day\nNote: It is important to use antibiotic free media. As this reduces toxicity.\nVIROFECT ENHANCER PROTOCOL FOR BAC DNA TRANSFECTION\nSet up cells to be transfected so that they are about 70% confluent at the time of the experiment.\nStore Virofect at -20oC or -70 o C. Store the Targefect-BAC reagent at 4oC. Do not vortex it and freeze it.\nUse clear plastic tubes for complex formation.\nUse serum-free DMEM \\(Dulbecco’s modified eagle’s medium containing 4500 mg/liter\nglucose). Make additions as follows \nPrepare transfection complexes as follows :\nTube #1:  To 0.5 ml of high glucose DMEM ass 10 ug of BAC DNA, Mix well by flicking the tube to create a vortexign action \\(do not vortex).  Next add 25 ul of Targefect-BAC and mix well again.\nTube 2:   To 0.5 ml of high glucose DMEM ass 6 ug ug of BAC DNA, Mix well by flicking the tube to create a vortexign action \\(do not vortex).  Next add 12.5 ul of Targefect-BAC and mix well again.  Next add 25 ul of Virofect and mix well again",
+    "Incubate the tubes at 37 o C for 25 minutes to form the transfection complexes.\nAdd 0.25 ml of the transfection mix to 2 ml of complete media for 1 well for a 6-well dish \\(or for a 35 mm dish). Prepare 0.5 ml of transfection complex per 60 mm dish and 1 ml of transfection complex per 100mm dish. Swirl the dish to mix transfection complexes with the cell culture media \\(with 5-10% serum). \nIncubate overnight at 37 o C in CO2 incubator. Replace the media with fresh complete media the next morning and assay at 36-48 hrs post-transfection."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Cell Biology",
+    "Molecular Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

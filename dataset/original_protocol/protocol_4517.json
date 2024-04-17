@@ -1,0 +1,16 @@
+{
+  "id": 4762,
+  "origin_website": "Bio",
+  "title": "Expression and Purification of the <em>Arabidopsis</em> E4 SUMO Ligases PIAL1 and PIAL2",
+  "procedures": [
+    "ExpressionThe protein coding sequence for the E4 ligases was obtained from cDNA and inserted between the BamHI and SalI restriction sites in the vector pMAL-c2 as described in Tomanov et al. (2014). Thus, the sequence formed a continuous reading frame which was to be expressed as an N-terminal fusion to MBP (maltose binding protein).The plasmids were heat-shock transformed into the Rosetta DE3 pLysS strain. A culture of 5 ml LB with 15 mg/L chloramphenicol and 100 mg/L ampicillin was inoculated and grown overnight at 37 °C with shaking at 200 rpm.On the next morning, 500 µl from the overnight culture were inoculated into 200 ml fresh LB with the same antibiotics.The culture was incubated at 37 °C with shaking at 200 rpm until OD600 reached 0.6 (around 3 h). A 500 µl sample was withdrawn for electrophoretic analysis and stored at 4 °C. The culture was induced by adding IPTG to a final concentration of 1 mM.After three hours at 37 °C, another 500 µl sample was withdrawn and stored at 4 °C. The culture was harvested by centrifuging it at 4 °C and 4,500 x g for 20 min.The pellet was resuspended in PBS (pH 7.4) and centrifuged again at 4 °C and 4,500 x g for 20 min.The pellet was frozen at -20 °C overnight.PurificationThe frozen pellet was thawed on ice. Five milliliters of pre-cooled column buffer were added, together with aprotinin and leupeptin at a final concentration of 1 µg/ml.After 15 min on ice, the bacteria were lysed using a Bandelin Sonoplus HD70 sonicator with an MS 73 tapered probe (on ice). The ultrasound bursts were applied three times for 30 sec with intermediate cooling on ice and had 60% intensity, 50% on-time. The suspension was centrifuged for 20 min at 4,300 x g, 4 °C.",
+    "During the centrifugation, a BioRad PolyPrep Chromatography column (2 ml bed volume) was prepared by adding 200 µl amylose resin. The resin was washed with 3 column volumes (cv) water and equilibrated with 6 cv column buffer. The lower end of the column was capped and the centrifugation supernatant was added, along with 10 µg DNase I. Pre-incubation with DNase I is not necessary.The column was sealed and incubated for 30-60 min on a rotating wheel at 4 °C.The flow-through was collected and the column was washed with 24 cv column buffer. The protein was eluted with 3 x 1 cv elution buffer and glycerol was added to the eluates to a final concentration of 20% v/v.The purity and concentration of the eluted protein was checked with SDS-PAGE, and the fractions were snap-frozen in liquid nitrogen and kept at -80 °C."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

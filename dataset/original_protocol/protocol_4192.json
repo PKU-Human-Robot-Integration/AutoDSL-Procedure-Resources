@@ -1,0 +1,15 @@
+{
+  "id": 4399,
+  "origin_website": "Bio",
+  "title": "Determination of Oxygen Respiration Rates in Wetted Developmentally Arrested Spores of <em>Streptomyces</em> Species",
+  "procedures": [
+    "Streptomyces coelicolor was grown on SFM agar plates at 30 °C until colonies sporulated (Kieser et al., 2000). Spores were isolated by using cotton swabs and were washed with water and filtered twice through cotton wool (Kieser et al., 2000). Subsequently they were adjusted to an OD450nm of 10 or 20 (1 ml of an OD450 = 1 is equivalent to 3.5 x 108 spores ml−1 or 2.37 x 108 cfu.).   The oxygen reduction rate by spores was measured in 16 ml gas tight Hungate vials in a 30 °C room or chamber.   The vials were filled with 5 ml of 50 mM MOPS buffer (pH 7.2), containing chloramphenicol (400 μg ml−1) and spore suspension with an OD450nm of 25 (Fischer et al., 2013).   The spore suspension was stirred continuously with a magnetic stirrer at 800 rpm upto an oxygen saturation in the spore suspension. Oxygen saturation was determined empirically for each experiment performed and this process generally took approximately 2 min based on a stirring speed of 800 rpm. The vials were closed with a gas-tight rubber plug and simultaneously the pressure was equalized with a needle one time and the on-line measurement cycle was initiated, exactly as indicated in the protocol delivered by the manufacturer. An image of the experimental setup is available at http://www.pyro-science.com/optical_oxygen_meter_firesting_O2.html[href=http://www.pyro-science.com/optical_oxygen_meter_firesting_O2.html].   The oxygen level in the remaining 11 ml headspace was monitored non-invasively and continuously over a period of 15 h using the oxygen-measuring system of Pyro Science GmbH and documented using the Firesting Logger Software. To do this, oxygen-dependent luminescence sensor spots were affixed to the glass wall of the tube within the headspace and the signals were measured through the vial’s glass wall using an optical oxygen meter (FirestingO2).",
+    "The oxygen respiration rate was calculated as the moles of oxygen reduced per volume oxygen in the headspace with respect to the dry weight of spores (1 OD ml−1 = 0.12 mg dry weight). A representative example of data is shown in Fischer et al. (2013)."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

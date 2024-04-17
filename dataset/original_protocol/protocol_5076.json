@@ -1,0 +1,15 @@
+{
+  "id": 5398,
+  "origin_website": "Bio",
+  "title": "Cell Survival Rate Assay",
+  "procedures": [
+    "Suck out medium, wash once with 5 ml PBS. Add 2 ml tryLE express. After cells become detached, add 10 ml complete medium. Pipette the cell suspension with 5-10 ml pipette to become single cell suspension. This step is very important (to get single cell suspension, put the pipette tip onto the bottom of the flask, then push out the cell suspension through squeezing the cell suspension out of pipette).Count the cells and dilute to 1 x 10/ml, place cells in 96-well plate in 100 μl (1 x103/well).Interested medication was diluted in a series of concentrations and was added in wells in 100 μl (the medication was prepared in 2 times of final concentration).Put the plate in 37 °C, 5% CO2 for 1 week.Remove media from plate by shaking the plate in sink. Then tap on towel to remove the remaining of media.Wash with PBS 200 μl/well twice. Remove PBS by shaking plate. Tap plate on towel.Add 100 μl deionized water to each well. Place the plate in incubator 37 °C, 5% CO2 for 1 h.Dilute PicoGreen in deionized water 1:200 (will need 100 μl/well). Make sure to calculate how much you will need. Wrap the plate with foil and let sit for 1 h at RT (this step can be done overnight if you are busy).Measure the plate with spectrophotometer for fluorescence intensity.Process the data: Survival Rate =Average fluorescence intensity in experimental wells x 100%Average fluorescence intensity in control wellsNote: PicoGreen is a fluorochrome that selectively binds dsDNA and has characteristics similar to that of SYBR-Green I. It has a maximum excitation at 480 nm and emission at 520 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

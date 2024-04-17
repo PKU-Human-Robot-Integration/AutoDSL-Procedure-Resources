@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "origin_website": "Nature",
+  "title": "A rapid one-step kinetics-based immunoassay procedure for the highly-sensitive detection of C-reactive protein",
+  "procedures": [
+    "**Preblocking   TIMING ~ 30 min**\n1. Block the MTP wells by incubating with 300 μL of 5% \\(w/v) BSA for 30 min a 37 °C and wash with 300 μL of wash buffer five times. Washing can also be performed with an automatic plate washer. The preblocking is essential to prevent non-specific binding of IA reagents to the MTP wells<sup>49</sup>.  **CRITICAL STEP** Use filtered BSA or filter the BSA solution prior to use to remove any microbial or other contaminants. **?TROUBLESHOOTING**\n  \n**One-step kinetics-based CRP sandwich ELISA    TIMING 30 min**\n2. Dispense in the BSA-blocked MTP wells sequentially 2 µL of the diluted stock solution of anti-CRP capture Ab-bound Dynabeads<sup>®</sup> \\(diluted 1:10 in binding buffer), 38 µL of the binding buffer and 40 µL of biotinylated anti-CRP detection Ab \\(0.17 µg mL<sup>-1</sup>) pre-conjugated to SA-HRP \\(diluted 1:3000). Finally, dispense 40 µL of CRP \\(varying concentrations; 0.3-81 ng mL<sup>-1</sup>) in the respective MTP wells in triplicate. Place the MTP on the magnetic holder and incubate at 37 °C for 15 min so that the magnets capture the Dynabead<sup>®</sup>-bound sandwich immune complex. Take out the excess reagents by sucking back the solution using a 300 µL multi-channel pipette. **?TROUBLESHOOTING**\n  3. Wash the magnetically-captured sandwich immune complex-bound Dynabeads<sup>®</sup> twice by dispensing and sucking back 300 µL of the washing buffer using a 300 µL multi-channel pipette. Thereafter, suspend the washed magnetically-captured sandwich immune complex-bound Dynabeads<sup>®</sup> in 50 µL of the binding buffer. \n  4. Add 100 µL of the TMB-H<sub>2</sub>O<sub>2</sub> mixture to each MTP well and incubate at RT for 4 min to allow the enzymatic reaction to develop color. **?TROUBLESHOOTING**\n  5. Stop the enzymatic reaction by adding 50 µL of 2N H<sub>2</sub>SO<sub>4</sub> to each MTP well.",
+    "6. Measure the absorbance at a primary wavelength of 450 nm and 540 nm as the reference wavelength in the Tecan Infinite M200 Pro microplate reader.  **CRITICAL STEP** Determine the absorbance within 10 min of stopping the enzymatic reaction."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

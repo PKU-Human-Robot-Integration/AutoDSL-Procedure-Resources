@@ -1,0 +1,17 @@
+{
+  "id": 5199,
+  "origin_website": "Bio",
+  "title": "Ear Inflammation and Whole-mount Ear Staining",
+  "procedures": [
+    "Apply 20 μl of freshly prepared 1% croton oil (in acetone) on the dorsal side of each ear with a pipette.Sacrifice mice after 3 h. Remove hair on dorsal side of ear with Veet using a cotton swab (Figure 1A). Wash away Veet with PBS using a cotton swab after 3 min. Repeat until Veet is completely removed (Figure 1B).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161010/20161010233509_9820.jpgFigure 1. Removal of hair from mouse ear. A. Application of Veet on the dorsal side of ear using a cotton swab. B. After 3 min, Veet is completely removed with PBS using a cotton swab.Harvest ear. Split ears into halves on a Petri dish using forceps, and collect the dorsal side (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161010/20161010233611_8673.jpgFigure 2. Harvesting of ear sample. A. Harvest ear with scissors and forceps. B. Ear is split into halves using forceps.Transfer the dorsal ear halves into a 24-well plate and fix with 1 ml acetone at -20 °C for 20 min.Remove the acetone and wash 3 times with 1 ml of stain and wash buffer in the 24-well plate at room temperature.Stain the ear halves in a 24-well plate by adding 50 μl of Ly6G PE/Isotype control PE and CD31 APC (1:100 in stain and wash buffer) directly onto the ear halves. Incubate for 1 h at room temperature with shaking.Wash 3 times with 1 ml of stain and wash buffer in the 24-well plate at room temperature.Transfer ear halves onto cover glass. Mount with 10 μl mounting medium containing DAPI (1:1,000) onto glass slides and seal with clear nail polish (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161010/20161010233859_5988.jpgFigure 3. Mounting of ear sample onto glass slide. A. Mounting medium is added onto ear halves. B. Ear halves on cover glasses are mounted onto a glass slide.Visualize under confocal microscope.",
+    "Image under 20x objective, with the HeNe 543 (Cy3) and HeNe633 (Cy5) laser (Figure 4).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161010/20161010233945_4941.jpgFigure 4. Immunofluorescence staining of neutrophils in whole-mount ear 3 h after topical application of croton oil. Neutrophils were visualized with anti-Ly6G (red), and blood vessels with anti-CD31 (green). Scale bar, 50 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

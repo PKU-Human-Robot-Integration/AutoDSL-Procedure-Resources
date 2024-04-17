@@ -1,0 +1,14 @@
+{
+  "id": 738,
+  "origin_website": "Nature",
+  "title": "Preparation of cultured cells for transmission electron microscope",
+  "procedures": [
+    "1.  Pre-warm fixative solution \\(2.5% glutaraldehyde in 0.05 M cacodylate buffer with 0.1M NaCl, pH 7.5) to 37 &#xB0;C.\n  2.  Remove no more than two dishes at a time from incubator and pour off media.\n  3.  Add glutaraldehyde fixative solution.  Leave 20 minutes at room temperature.\n  4.  Rinse 2 times with PBS.\n  5.  Add osmium tetroxide solution and incubate 30 minutes.\n  6.  Rinse once with PBS.\n  7.  Put on 30%, 50%, 70% and 90% hexylene glycol with swirling, 15 minutes each.\n  8.  Wash with 100% hexylene glycol with swirling, 3 times, 10 minutes each.\n  9.  Combine resin and hexylene glycol at 1:2 ratio, add to dish, mix on rotor for 2 hours.\n  10. Combine resin and hexylene glycol at 2:1 ratio, add to dish, mix on rotor for 2 hours.\n  11. Replace with 100% resin and place on rotor to mix for 4-6 hours.\n  12. Replace with fresh 100% resin and mix as above.\n  13.   Replace with 100% resin, adjust level to ~1-2 mm depth, and bake 8-12 hours.\n  14. Break dish with hammer, peal dish pieces away from cast containing sample.\n  15. Bake epoxy cast for an additional 16-24 hours.\n  16. Cut small pieces from the epoxy cast making note of the side with the cells.\n  17. Glue pieces to blocks for sectioning, using commercial 5-minute epoxy glue."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,17 @@
+You are a helpful assistant.
+Task:
+You will receive a protocol in some format.
+Please use a JSON format to describe the protocol (Only output a json).
+
+Note: 
+1. Read the protocol carefully.
+2. Choose items and conditions from the protocol to describe the protocol.
+3. The allowed data types are only: -*-*-*
+4. Your desired output json resembles this: {"action": ..., "params": [[Datatype, Data], ... , [Datatype, Data]], "output": ...}.
+5. In your output format, [Datatype, null] indicates a missing value in protocol, but it should be supplemented during the experimental protocol execution.
+
+Output Example (Only output a json).:
+{"action": "GROW", "params": [['REG', 'GFP-fusion'], ["REG", "solid media"], ["Device", null]], "output": "Z-stack images"}
+
+The experimental protocol is as follows:
+*-*-*-

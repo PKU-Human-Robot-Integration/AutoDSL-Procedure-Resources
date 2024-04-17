@@ -1,0 +1,16 @@
+{
+  "id": 8113,
+  "origin_website": "Bio",
+  "title": "Measurement of IFN-α Subtype Concentrations (Virus-free, Cell-based Bioassay)",
+  "procedures": [
+    "Different murine IFN-α subtypes (IFN-α1, -α2, -α4, -α5, -α6, -α9, -α11) were produced as already described (Gerlach et al., 2009).Day 1:Seed Mx/RAGE7 cells in a 96 well cell culture plate (2 x 104 cells per well in 200 μl medium).Grow the cells for 24 h at 32 °C.Day 2:Perform serial dilutions (log10) of produced IFN-α subtypes in medium in 1.5 ml tubes.Perform serial dilutions (log2) of recombinant IFN-α subtypes (PBL) with known concentrations from 1,000 U/ml to 31.25 U/ml (= standards) in 1.5 ml tubes.Decant medium of Mx/RAGE7 cells.Add 200 μl of the IFN-α solutions with known (standards) and unknown concentrations to the cells.As negative control add 200 μl of medium without IFN-α.Incubate the samples for 24 h at 37 °C.Day 3:Decant the medium. Add 200 μl fresh medium to the cells.Incubate the samples for 48 h at 37 °C.Day 5:Decant the medium.Wash cells with 200 μl PBS.Add 50 μl of trypsin EDTA (1x) 0.05% to the cells at room temperature until they suspend.Harvest suspended cells in FACS tubes containing 1 ml of PBS.Centrifuge cells (300 x g; 5 min).Resuspend cells with 250 μl FACS buffer.Add 2.5 μl 7AAD or 0.5 μl propidium iodide per sample to exclude dead cells.Immediately analyze cells with flow cytometer.IFN-α treated Mx/RAGE7 cells express eGFP (Figure 1). Perform standard curve with samples treated with known IFN-α concentrations (graph the data for the standard curve (Figure 2), the IFN-α titer can be determined by comparison). Calculate concentrations of unknown samples.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130617/20130617193332_0697.jpgFigure 1. Representative dot plots of Mx/RAGE7 cells without IFN-α (upper panel) and with IFN-α (lower panel)imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130617/20130617192803_0807.jpg Figure 2. Standard curve of IFN-α"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

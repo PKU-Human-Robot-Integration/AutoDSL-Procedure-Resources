@@ -1,0 +1,14 @@
+{
+  "id": 613,
+  "origin_website": "Nature",
+  "title": "qPCR of Genomic DNA to assess DNA contamination of extracellular RNA samples",
+  "procedures": [
+    "1. Use input RNA samples normalized to a concentration of 1 ng/μl RNA.\n  2. Thaw frozen qPCR kit components on ice. Mix and centrifuge briefly.\n  3. Swirl mastermix bottle gently to mix.\n  4.  Calculate number of samples, including the no-template control.\n  5. Set up duplicate PCR reactions for each template/assay combination, using the \"attached spreadsheet\":http://www.nature.com/protocolexchange/system/uploads/4033/original/Master_Mixes.xlsx?1447058311 to scale the following per reaction mixture:\n  <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4041/original/SOP_DNAqPCR_v1_Table_1.png?1447061677\">See figure in Figures section.</a>\n \n2.14 Mix and centrifuge briefly. \n2.15 Distribute into 0.2 ml qPCR wells, 10 μl per well.\n2.16 Seal, mix, and centrifuge briefly.\n2.17 Place in qPCR machine and run the following program:\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4045/original/SOP_DNAqPCR_v1_PCR_Program.png?1447062126\">See figure in Figures section.</a>"
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

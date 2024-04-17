@@ -1,0 +1,16 @@
+{
+  "id": 4419,
+  "origin_website": "Bio",
+  "title": "Seed Coat Permeability Test: Tetrazolium Penetration Assay",
+  "procedures": [
+    "Prepare 1% (w/v) aqueous solution of tetrazolium red and store in a brown bottle. Set the incubator temperature at 30 °C.   Weigh 50 ± 1 mg of dried seeds for each sample and place them in a 1.5 ml microcentrifuge tube. There should be at least three replicates for each sample. To measure the permeability over a time course, choose at least 5 time points (such as 4 h, 24 h, 48 h, 72 h, 96 h) and distribute the seed samples (with replicates) accordingly.   Add 1 ml of 1% tetrazolium red solution to each tube containing seeds. Place these tubes in a microfuge tube rack and cover them with aluminium foil (incubation must be done in darkness). Place them in the air incubator at 30 °C for the specific time periods chosen. A negative control using water instead of tetrazolium red should be performed when doing the assay for the first time.     After completion of incubation for each time period, remove the tubes with seeds for observation. Observe the seeds change in color (look for formation of red color) and image some seeds using a stereomicroscope (Figure 1). The seeds can be kept at room temperature for microscope imaging but they should be imaged within 1 h. If longer, keep seeds at 4 °C.    For the extraction of formazans, transfer the tube contents (seeds and the 1% tetrazolium red solution) into a mortar using a 1 ml pipette.  Notes:   Use cut tips to avoid clogging tip with seeds.   The extractions should be performed immediately after each time point (do not store time points and do all at once).     Remove the 1% tetrazolium red solution from the mortar using a glass pasteur pipette and discard. Wash the seeds with distilled water twice by rinsing using the pasteur pipette.",
+    "Remove the water from the mortar and discard.   Add 1 ml of 95% ethanol to the seeds in the mortar and finely grind the seeds using a pestle. Transfer the whole ground seed material in ethanol solution to a fresh microfuge tube using the pasteur pipette and adjust the final volume to 1.5 ml with 95% ethanol.   Immediately centrifuge the tubes at 15,000 x g for 3 min. Collect the supernatant into a spectrophotometer cuvette (Figure 2).  Note: Steps 7 and 8 must be performed quickly to avoid reaction of tetrazolium salts with the embryo cells after seed disruption.   Using a spectrophotometer, measure the absorbance of the formazan extracts at 485 nm (Figure 2) and plot the readings. Use 95% ethanol as the reference (blank)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

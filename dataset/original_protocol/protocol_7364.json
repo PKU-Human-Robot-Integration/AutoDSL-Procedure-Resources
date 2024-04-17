@@ -1,0 +1,16 @@
+{
+  "id": 7747,
+  "origin_website": "Bio",
+  "title": "Stimulation of Human Periodontal Ligament Fibroblasts Using Purified Dentilisin Extracted from <em>Treponema denticola</em>",
+  "procedures": [
+    "Human periodontal ligament cell cultures (hPDL)  As described previously (Scanlon et al., 2011), prepare the primary culture of human periodontal ligament cells via the direct cell outgrowth method, by isolating cells from the periodontal ligament tissue around the middle third of healthy human teeth extracted. Maintain cells in approximately 10 mL of MEM-α augmented with 10% FBS, 1% P/S, and 1% amphotericin B in 10 cm Falcon tissue culture plates in a humid atmosphere with 95% air and 5% CO2  at 37 °C.Passage cell outgrowths when they reach approximately 90% confluency using 0.25% trypsin and a Thermo Sorvall ST16R refrigerated centrifuge. Although variation will be observed from patient to patient, cells usually take approximately three to four days to become confluent after seeding cells at approximately 70%.Use cells passaged three to six times for experimentation.Validate human periodontal ligament cell parameters by 1) measuring mRNA expression of a specific isoform of the POSTN gene, which is exclusively expressed by periodontal ligament cells, 2) evaluating cell morphology, and 3) examining expression of other confident cell biomarkers, such as vimentin (general fibroblast marker) and  CD45  , which ensure cultures are free of macrophages (Marchesan et al., 2011).If cultures are contaminated with other cell types, hPDL cells can be further purified via FACS sorting using the biomarkers reported above (Basu et al., 2010).Seed approximately 9 × 105  cells into 6-well clear multi-well plates and allow them to adhere in the presence of MEM-α with 10% FBS, 1% amphotericin B, and 1% P/S for approximately 24 h before stimulating or challenging the cells. Stimulation of human periodontal ligament cells using purified dentilisin  Use a BCA protein assay kit according to the manufacturer’s recommendations to determine purified dentilisin (UniProt Accession #: P96091) sample concentrationsScan the plates using a 96-well SpectraMax Plus Microplate Reader.",
+    "Determine enzymatic activity using gelatin zymography as described previously (Cathcart, 2016).Wash cells with PBS 2–3 times.Add the purified dentilisin/PBS solution to MEM-α media with no phenol red, no serum, and no antibiotics to a final concentration of 1 μg/mL.Add this dentilisin solution to healthy human periodontal ligament cell cultures and incubate in a humid atmosphere containing 95% air and 5% CO2  at 37 °C for 2 h.Stimulation with purified dentilisin will cause significant changes to the cells’ morphology (Figure 2).Gently wash cells with PBS twice and incubate in a humid atmosphere containing 95% air and 5% CO2  at 37 °C for an additional 22 h in MEM-α with no FBS, P/S, or amphotericin B."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

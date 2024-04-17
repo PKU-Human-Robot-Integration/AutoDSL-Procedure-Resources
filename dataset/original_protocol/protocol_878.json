@@ -1,0 +1,16 @@
+{
+  "id": 937,
+  "origin_website": "Nature",
+  "title": "An alternatively spliced isoform of t\\(8;21) transcript promotes leukemogenesis",
+  "procedures": [
+    "**RNA preparation and RT-PCR:**\n1. Purify total RNA using the RNeasy mini kit \\(Qiagen) from the patient samples  \\(numbers of cells are variable) according to the manufacturer&#x2019;s protocol. DNase treatment can be performed to eliminate the DNA contamination. \n  \n2. cDNA synthesis: Perform the reverse transcription reaction in a 20 &#xB5;l reaction volume assembled in a thin-walled 0.2 ml PCR tube containing:\n  1 &#xB5;g of total RNA\n1 &#xB5;l Oligo \\(dT)20 primer \\(50 &#xB5;M)\n2 &#xB5;l 10 mM dNTP\nadd DEPC-treated dH<sub>2</sub>O to 12 &#xB5;l \nincubate at 65 &#xB0;C for 5 min for denature and place on ice.\nAdd following mix to each tube\n4 &#xB5;l 5x cDNA synthesis buffer\n1 &#xB5;l 0.1m DTT\n1 &#xB5;l Rnase OUT\n1 &#xB5;l DEPC-treated dH<sub>2</sub>O\n1 &#xB5;l ThermoScript RT\nTransfer the tubes to the PCR machine and incubate at 55 &#xB0;C for 1 hour and terminate the reaction at 85 &#xB0;C for 5 minutes. \n3. To distinguish AML1-ETO fusion transcripts containing ETO exon 9 or exon 9a from endogenous ETO transcripts, perform PCR to only amplify the fusion transcripts: \n  With 1 &#xB5;l of cDNA template and AML1 exon 4/5 boundary sense primer and ETO exon 9 antisense primer, perform PCR amplifications with the FailSafeTM PCR system \\(Epicentre Biotechnologies) for 40 cycles in a volume of 50 &#xB5;l as follows: denaturating 45 s at 94 &#xB0;C, annealing 45 s at 58 &#xB0;C, and extension 90 s at 72 &#xB0;C.\n**Relative quantitation of the AE9a and the AE transcripts:**\n1. Dilute PCR products from step 3 1:30 in nuclease free dH<sub>2</sub>0. For relative quantitation of AE9a or AE transcripts, real-time PCR should be performed with fluorescent probes specific for either exon 9 or exon 9a of ETO.",
+    "To assemble 20 &#xB5;l reactions prepare the following mastermix: pipet 10 &#xB5;l of 2x iQ Supermix with sense and antisense primers specific for either exon 9 or exon 9a \\(see reagents). In a separate mastermix, add 1 &#xB5;l 30x diluted PCR products from step 3 above as template and H<sub>2</sub>0. Add the fluorescent probe last since it is light sensitive.  \n2. Seal the plate with optical film and place in a 96-well thermocycler.\n  Program the thermocycler as follows: 95 &#xBA;C 2&#x2019;, 95 &#xBA;C 1&#x2019; and 55 &#xBA;C 25 cycles, 4 &#xBA;C hold.\n3. Check for product amplification on a 1% agarose gel and perform quantification with the BioRad iQ software. \n  \n4. To confirm and correct for the relative efficiency of probe and primer pairs for exon 9 and exon 9a transcripts, perform a standard curve using serial dilutions of MigR1-A/E or MigR1-A/E9aP DNA as the template."
+  ],
+  "subjectAreas": [
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48,
+  "origin_website": "Nature",
+  "title": "Cloning of amplified miRNA target sites into 3'-UTR of luciferase reporter vector.",
+  "procedures": [
+    "1. The oligonucleotide duplex containing predicted 43 nt Hox-A11 target sequence for miR-181a, 5&#x2019;-Sac I, Spe I, 3&#x2019;-XbaI  restriction sites and 5&#x2019; Sac I and 3&#x2019;Xba I sticky ends was cloned into Sac I/Xba I sites of pISO vector. This construct &#xAB; 1Target plasmid &#xBB;, was sequenced and used for further cloning. Notice that Sac I and Xba I sites in extremities of fragment have been destroyed after ligation.\n  2. &#xAB;1 Target plasmid&#xBB; was either linearized by SacI/SpeI restriction or cut by SacI/XbaI to obtain the fragment containing 1 target. The fragment was gel-purified and ligated into linearized plasmid. Resulting construct containing duplicated target site, &#xAB; 2 Targets plasmid &#xBB;, has been used for further target amplification.\n  3. &#xAB;2 Targets plasmid &#xBB; was linearized by SacI/SpeI restriction. SacI/XbaI fragment, containing 2 targets was cut, gel-purified and ligated into linearized &#xAB; 2 Targets plasmid &#xBB;. Resulting construct contained 4 target sites."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

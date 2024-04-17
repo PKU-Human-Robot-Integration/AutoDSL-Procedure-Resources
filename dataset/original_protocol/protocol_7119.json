@@ -1,0 +1,16 @@
+{
+  "id": 7498,
+  "origin_website": "Bio",
+  "title": "Measuring Oligonucleotide Hydrolysis in Cellular Lysates via Viscosity Measurements ",
+  "procedures": [
+    "Obtaining the cell lysateCentrifuge 20 mL of DLF_R004 (or other E. coli strain) cell culture, after growing them as previously described (Menacho-Melgar et al., 2020).Resuspend the cells in 1× Lysis buffer.Freeze the cells for 1 hour in the -80°C freezer.Thaw the cells at 37°C for 1 h. For additional details, refer to our published article describing our method (Menacho-Melgar et al., 2020).If not using DLF_R004 or a derivative E. coli strain, the cells can be lysed using lysis buffer supplemented with lysozyme and repeated freeze-thaw cycles. If hydrolyzed oligonucleotides are desired, a nuclease (e.g., DNase I or BenzonaseTM) can be added, according to the manufacturer’s instructions. In this case, complete lysis should not be expected.Serological pipette preparationUsing the tube cutter, cut the pipette at the 3 mL mark (Figure 1A).Seal the bottom of the serological pipette with parafilm.Fill the serological pipette with 1 mL of water to make sure no leaking will occur.Empty the serological pipette.Secure the serological pipette to a vertical surface, ensuring there is enough contrast between the surface and the pipette to facilitate the data analysis (Figure 1B).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4304/bioprotoc-12-02-4304-g001.jpgFigure 1. Setup preparation for lysate viscosity measurements. (A) A serological pipette is cut at the 3 mL mark using a tube cutter. (B) After sealing the bottom of the serological pipette with parafilm, the filled serological pipette is taped vertically and filled with the sample to be measured.Measuring viscosityFill the serological pipette with at least 2.5 mL of cell lysate. One can increase the volume of cell lysate up to 6 mL, if the serological pipette is cut at the 6 mL mark in step B1.Measure the distance from the 2 mL mark to the 1 mL mark. If using the serological pipette listed in this protocol, the distance is 3.6 cm.",
+    "Position your cell phone camera just far enough to ensure the top and bottom of the serological pipette are visible. Start recording a video of the pipette.Drop a glass bead inside the serological pipette.Repeat step C3 two more times.Stop recording the video once the third glass bead has dropped to the bottom of the serological pipette.Remove the parafilm seal.Empty the serological pipette and rinse with water.Fill the serological pipette with the next sample and repeat steps C1-C7 two more times to obtain triplicates.As examples, Videos 1 and 2 are provided.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Glass bead dropping through a non-viscous lysate sample, wherein DNA/RNA has been hydrolyzed.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Glass bead dropping through a viscous lysate sample, wherein DNA/RNA has not been hydrolyzed."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

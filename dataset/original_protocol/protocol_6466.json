@@ -1,0 +1,15 @@
+{
+  "id": 6824,
+  "origin_website": "Bio",
+  "title": "Sequence Alignment Using Machine Learning for Accurate Template-based Protein Structure Prediction",
+  "procedures": [
+    "The primary purpose of the training phase is to generate k-NN model that will be used for substitution score prediction in the prediction and alignment generation phase. The prediction phase consists of score prediction and alignment generation. Figure 1 shows the overview of the method. More detailed step-by-step commands and the example are available at source code repository (https://github.com/shuichiro-makigaki/exmachina[href=https://github.com/shuichiro-makigaki/exmachina]).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200424/20200424073204_2607.pngFigure 1. Overview of the proposed method Model trainingDownload SCOP40 database.Generate structural alignments of every domain pair in the same SF by TM-align.Select only pairs that the TM-score is ≥ 0.5.Generate a PSSM of the domain by three-iteration PSI-BLAST with the UniRef90 database.Generate training data and labels.As a hyper-parameter, window size is 5.Reduce training dataset to 1/10 by random sampling.Because the original training dataset became too large to process within a reasonable computation time.Save the training dataset and the labels as FLANN-acceptable data format.Score prediction and sequence alignment generationPrepare two homologous amino acid sequencesAs a current limitation, our implementation expects that the inputs are sub-domains. When the protein consists of multiple domains, it should be split into domains. Usually, the domain regions can be predicted by homology detection.Generate PSSMs of each sequence by three-iteration PSI-BLAST with the UniRef90 database.Predict all substitution scores of each residue pairs.Query vector format is the same as the training phase, and the k-NN's classification scores are used for the substitution score directly.As hyper-parameters, the window size is 5, and the number of the neighbor is 1,000.Save predicted substitution score matrix.Generate local sequence alignment by Smith-Waterman algorithm implemented in Biopython (https://biopython.org/[href=https://biopython.org/]).During the dynamic-programming, the predicted substitution scores are used for score calculation."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "origin_website": "Nature",
+  "title": "Collecting and processing single-particle cryo-EM data with tilts",
+  "procedures": [
+    "**Grid Preparation**\n1) All sample preparation and vitirifcation steps are performed in accordance to conventional single-particle cryo-EM analysis.\n2) The only salient difference is the requirement of gold grids over carbon grids. At the time of writing, gold grids have provided superior results, but any grid substrate that minimizes beam-induced movement can be employed in the future. For the most part, vitrification is identical between holey carbon and holey gold grids, although some differences might be observed, most notably that blotting times tend to be shorter for gold grids. We have also observed slight differences in particle concentration and extent of preferred particle orientation on grids, both of which are specimen dependent. \n**Data Collection**\nThis utilizes the latest Leginon system for data collection. See troubleshooting section for other variations.\n3) When grid is in microscope, obtain correct eucentric height for the square.\n4) Tilt the stage to desired tilt angle by changing the stage alpha parameter.\n5) Acquire low-magnification square image and queue up holes, at tilt.\n6) Collect high-magnification images of the queued up locations at the specified tilt angle.\nSee troubleshooting section for alternative approaches to data collection.\n**Data Processing**\n7) Data processing can be performed conventionally, as per general single-particle cryo-EM procedures.\n8) Per-particle CTF estimation must be performed in order to account for the gradient of defocus values present within each micrograph taken at a tilt angle. Per-particle estimation of CTF can be performed using \"GCTF\":http://www.mrc-lmb.cam.ac.uk/kzhang/. Examples of the commands can be found in the GCTF user guide. In addition to the generic options \\(-apix, -kV, -cs, -ac, -dstep, etc), the options relevant for tilted images would be: \n-do_local_refine 1 \n-do_validation 1 \n-boxsuffix .box \\(or .star)",
+    "Whereby the command assumes that all micrographs are located in the \"Micrographs\" directory, and that GCTF is run in the parent directory \\(one directory above). \n9) 2D classification, 3D classification, and 3D refinement can be performed as per conventional processing in all software packages using per-particle defocus values as input.\n**Results Analysis**\n10) Euler angle distribution serves as a direct evaluation of the degree of preferred orientation \\(still) present.\n11) For a more quantitive directional resolution anisotropy assessment, 3DFSC can be used. 3DFSC can be downloaded from \"here\":https://github.com/nysbc/Anisotropy. The resulting volume is essentially a collection of 1D FSC samples conically along all directions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Structural Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

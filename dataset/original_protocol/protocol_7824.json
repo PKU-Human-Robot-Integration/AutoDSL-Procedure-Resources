@@ -1,0 +1,15 @@
+{
+  "id": 8232,
+  "origin_website": "Bio",
+  "title": "Virus Overlay Assay (Far-Western blotting)",
+  "procedures": [
+    "The protein concentrations of the purified virus are determined using the BCA protein assay kit. 100 micrograms of the sample are boiled in 2x SDS-PAGE sample loading buffer for 5 min.    30 μl (100 micrograms) denatured product is resolved in two parallel 12% SDS-PAGE gels.    After electrophoresis, the viral structural proteins in one gel are transferred to a PVDF membrane by electroblotting using the Bio-Rad wet transfer Blotter (50 V for 2 h), whereas the other gel is stained with Coomassie brilliant blue G-250 for a parallel experiment.    The membrane is washed twice in TBST at room temperature (RT) under constant rotation for 5 min each.    The blots are then blocked overnight in renaturing buffer at 4 °C, and then incubated with 10 μg/ml MBP or MBP-mCav-1 protein for 2 h at RT.   The membrane is incubated with anti-MBP antibodies (1:2,000 dilution) in TBST for 2 h at RT after washing three times in TBST under constant rotation for 10 min each.    The membrane is washed as described in step 4, and the antigen-antibody complexes are then detected using HRP-conjugated goat anti-mouse secondary antibodies (1:5,000 dilution) in TBST for 1 h under constant rotation.    The membrane is washed as described in step 4, the immobilized conjugates on the membrane are subsequently visualized using an HRP substrate solution. When the member reaches desired intensity, pour off the HRP substrate solution and rinse in several changes of distilled water. Incubate in ddH2O for ~20 min, see an example of the results in Figure 1.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130928/20130928210536_7629.jpg Figure 1. A. Far-Western blot analysis; B. Purified ISKNV particles (100 μg) were isolated using SDS-PAGE, and then stained with Coomassie brilliant blue R-250."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

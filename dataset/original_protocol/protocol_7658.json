@@ -1,0 +1,17 @@
+{
+  "id": 8061,
+  "origin_website": "Bio",
+  "title": "Primary Culture of Cortical Neurons",
+  "procedures": [
+    "Coating and washing culture plates.Dilute poly-L-lysine stock solution with sterile PBS to 100 μg/ml. Add optimal volume of solution to each well of culture plates. In case of 24 well culture plate, 0.5 ml solution is enough. Coating allows neurons to adhere to the culture plates.Leave the plates in incubator for at least 1 h. After that, wash the wells twice with 1 ml/well of sterile PBS. Completely remove the PBS before use. It is not necessary to dry the plate after PBS washing.Choose appropriate anesthesia according to the recommendations of your Institutional Animal Care and Use Committee. After anesthetization, cut the scalp and remove the skull. We use postnatal day 1 mice to measure the length of corticospinal neuron. Pick up whole brain from pups and place it in cold PBS on ice (Chen et al., 2007).Under a microscope, dissect out the cerebral cortex of brains. Remove meninges and blood vessels. The tissues are cut into as small piece (1 mm cubes) as can with sterile knives.Transfer tissues to a 50 ml tube. The tissues are trypsinized in 10 ml of the trypsin solution (0.25% trypsin, 100 μg/ml DNase in PBS), and are incubated at 37 °C for 15 min.Add an equal amount of 10% FBS-DMEM, and pipettes up and down a few times to help with tissues dissociation. Centrifuge at 300 x g for 3 min at room temperature, discard the supernatant, and resuspend the pellet in fresh DMEM (not 10% FBS-DMEM).The cells are filtered through a 70 μm nylon cell strainer to obtain single cell suspension. Centrifuge the resulting cell suspension at 300 x g for 3 min at room temperature. Resuspend the cell pellet in fresh DMEM (not 10% FBS-DMEM). Count the number of cells and adjust the concentration using 10% FBS-DMEM.",
+    "To measure the neurite length, plate the cells on a 4-well chamber slide at a density of 5 x 104 cells/well. Transfer the cell suspension to culture plates and incubate for 24 h at 37 °C with 5% CO2. To investigate the effect of pharmacological agents, change to the medium containing each agent 2 h after cell plating. Representative image shows the neuronal class III β-Tubulin (Tuj-1) labeled cortical neuron obtained 1 day culture. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130410/20130410045638_9559.jpgFigure 1. Image of cultured cortical neuron. Representative image shows the neuronal class III β-Tubulin (Tuj-1) labeled cortical neuron obtained 1 day culture."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

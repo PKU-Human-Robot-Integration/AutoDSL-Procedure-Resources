@@ -1,0 +1,16 @@
+{
+  "id": 4333,
+  "origin_website": "Bio",
+  "title": "3D Mammary Colony-Forming Cell Assay",
+  "procedures": [
+    "The 8-well chamber slide is placed on ice and loaded with 80 µl of Matrigel per well. The Matrigel drop is positioned in the centre of each well, taking care to avoid air-bubble formation.  Note: To prevent gelation, it is recommended to handle Matrigel on ice.   Next, the chamber slide is secured onto a pre-cooled adapter for swing-bucket rotor and centrifuged at 300 x g (with a slow acceleration ramp) for 10 min at 4 °C. The Matrigel layer is now flat and uniformly distributed onto the bottom of the chamber wells. Note: It is convenient to use some plastic paraffin film to keep the lid of the culture slide in place during step 2.   The chamber slide is then transferred to a cell culture incubator to allow Matrigel solidification for at least 15 min.    Meanwhile, freshly prepared single mouse mammary cells are resuspended in Complete EpiCult-B Medium and counted.  Note: Trypan Blue stain is one of several methods recommended for viable cell counting.   The cell suspension is diluted in Complete EpiCult-B Medium to obtain a final concentration of 25,000 viable cells/ml.   A stock of Complete EpiCult-B Medium supplemented with 5% Matrigel is prepared by adding 50 µl of Matrigel per ml of Complete EpiCult-B Medium and mixing by pipetting repeatedly.   The cell suspension from step 5 is mixed with the medium from step 6 in a 1:1 ratio. 400 µl of this mixture, which correspond to 5,000 cells in Complete EpiCult-B Medium 2.5% Matrigel, are gently plated per well onto the solidified Matrigel from step 3 (Figure 1).    The chamber slide is placed in the cell culture incubator. The cells will settle onto the solid Matrigel layer.   The overlay liquid medium is replaced with fresh Complete EpiCult-B Medium supplemented with 2.5% Matrigel every 3 days.",
+    "To avoid damaging the bottom gel layer, the medium is aspirated from the corner of each well and the fresh medium is gently dispensed along the walls.    Colonies will be generated after 10-14 days of culture. Representative images are shown in Figure 2.   The number of colonies can be determined, using an inverted microscope, either by manual counting or with the support of image analysis programs, such as Image J software.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140329/20140329011348_7437.jpg Figure 1. Schematic diagram depicting the procedure described above as step 7  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140329/20140329011405_8881.jpg Figure 2. 3D mammary colony-forming cell assay. Phase-contrast image of colonies derived from 3D culture (day 10) of mouse mammary single cells. This image was obtained by using a Zeiss Observer Z.1 microscope (5x/0.12 objective) and the AxioVision Rel 4.8 software. Scale bar, 100 µm"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

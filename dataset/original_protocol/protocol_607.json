@@ -1,0 +1,17 @@
+{
+  "id": 644,
+  "origin_website": "Nature",
+  "title": "A Simple and Rapid System for DNA and RNA Isolation from Diverse Plants Using Handmade Kit",
+  "procedures": [
+    "<p>Extraction buffer preparation</p><p>Add CTAB (0.5 g), EDTA (1 g), Tris base (2.5 g), and NaCl (5 g) as tetrad components of the extraction buffer to 100 ml autoclaved water and then gradually dissolve it by shaking at room temperature.</p><p>CRITICAL Add 10 µl βME to 1 ml of the extraction buffer before using to decrease the possible oxidation only for tissues with high polysaccharides and secondary metabolites.</p><p>CRITICAL Add 15 mg PVPP per 1 ml of extraction buffer only for tissues with high polyphenolic pollution.</p><p>Homogenization of Tissues (TIMING 10 min for 5 samples)</p><p>1 Ground samples (leaf, shoot, root, and recalcitrant samples, approximately 0.5-1 g) using 1 ml of the extraction buffer with or without liquid nitrogen in mortar and pestle that are sterilized.</p><p>CRITICAL STEP The procedure are carried out at room temperature except the centrifugation steps (at 4℃) as well as the time of precipitating of the nucleic acid using the isopropanol (on ice).</p><p>CRITICAL STEP Severely disrupt the tissues to create the glaze mode of samples.</p><p>2 Transfer the resulting solution to a sterile centrifuge tube (size=2 ml), and then mix sample by briefly vortexing until the sample is thoroughly resuspended.</p><p>Triple Phase Separation (TIMING 25 min)</p><p>3 In this step, incubate samples at 65℃ for 10 min for lysing cells completely.</p><p>4 Add 600 µl of chloroform: isoamyl alcohols (24:1) to each tube, homogenize them by vortexing.</p><p>5 Centrifuge at 13700 g at 4℃ for 10 min.</p><p>CRITICAL STEP The PH of the extraction buffer is about 8-9, resulting in DNA and RNA precipitation, however, it could result in lower DNA and higher RNA concentrations in case of reducing the PH to around 6-7.</p><p>Precipitation of Nucleic Acid (TIMING 15 min)</p><p>6 Transfer the upper aqueous phase to a new tube (size= 1.5 ml).",
+    "</p><p>7 Add 700 µl of cold isopropanol to precipitate RNA or DNA and then invert tubes 3-4 times to mix the solution.</p><p>8 Centrifuge tubes at 13700 g at 4℃ for 10 min. The white pellet will be visible on the bottom of the tubes.</p><p>CRITICAL STEP Do not disturb bottom phases of the solution when you pipet the upper phase.</p><p>Purification of Nucleic Acid (TIMING 5 min)</p><p>9 Discard the supernatant and wash the precipitate nucleic acid gently with 70% EtOH.</p><p>10 After centrifuging at 5400 g at 4˚C for 5 min, remove the supernatant and then air-dry the pellet.</p><p>Dissolving and Storage Condition (TIMING 5 min)</p><p>11 Dissolve the pellet in 20-30 µl of RNase free water (commercial) or autoclaved water.</p><p>12 After incubating at room temperature for a few minutes, keep the solubilized nucleic acid in −20˚C for a short time storage or in −80˚C for a longtime storage. Figure 1 shows a schematic model of all the DNA and RNA isolation steps of this procedure.</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Plant Sciences"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Ecology & Environmental Biology"
+  ]
+}

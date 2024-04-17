@@ -1,0 +1,16 @@
+{
+  "id": 7995,
+  "origin_website": "Bio",
+  "title": "A Rapid and Simple Procedure for the Isolation of Embryonic Cells from Fish Eggs",
+  "procedures": [
+    "This protocol has been tested on fertilized nelma eggs of medium size            (3–4 mm in diameter) among teleost fish (including zebrafish). Before            the procedure, rinse the eggs with PBS: place the eggs in a centrifuge tube            (15 mL) and pour 10–20 mL of cool PBS solution into it. Drain the            liquid and repeat this step to prevent any contamination that could affect            further analysis. This step can also be done in any way available in the            laboratory: using a tea strainer, beakers, gauze, etc.Using a pestle, pop the eggs (or single egg) in the tube. It is better to add            eggs and process them gradually. Do not homogenize nor strongly push the            pestle to avoid damage to the cells: it is enough to break the shell. The            sample volume from the processed eggs should not exceed 2/3 of the tube. A            1.5 mL centrifuge tube can be fitted with a different number of eggs,            depending on their size. Thus, approximately 30 eggs of 3–4 mm            diameter can be sequentially placed in the tube during the process.Fill the tube with eggs with cold PBS and shake it on a vortex for 5 s or            mechanically using a pestle or dissecting needle to release the contents of            all eggs outside the visible shell.Mechanically remove all shells from the tube using a dissecting needle. It is            very important to ensure that there are no residual shells in the resulting            translucent medium to avoid cell loss.Centrifuge at 300–500× g for 5 min at 4 °C.Discard the supernatant without affecting the precipitate. Add 1–1.5 mL            of cold PBS and centrifuge again.(Optional) Repeat step 6 1–2 times to wash the cells out of small            debris and resuspend the pellet in 100 μL of cold PBS.Following these steps, we obtain a pellet containing the cells.",
+    "The volume of            PBS can be changed as desired (50–500 μL). This suspension contains            a certain amount of small suspended non-cellular particles. After the            procedure, the total proportion of cells among other floating non-cellular            particles in the suspension is at least 10%.The cell suspension is ready to use for any analysis. It can also be fixed            for long-term cell storage using standard protocols such as using chilled            ethanol (Ciancio et al., 1988)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

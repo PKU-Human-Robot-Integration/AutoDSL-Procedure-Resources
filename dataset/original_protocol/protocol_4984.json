@@ -1,0 +1,16 @@
+{
+  "id": 5302,
+  "origin_website": "Bio",
+  "title": "Bacterial Growth Inhibition Assay for <em>Xanthomonas oryzae</em> pv. <em>oryzae</em> or <em>Escherichia coli</em> K12 Grown together with Plant Leaf Extracts",
+  "procedures": [
+    "Notes: All work with bacterial cultures is carried out under sterile conditions using a laminar flow hood. Culture medium for E. coli is LB-medium and incubation temperature is 37 °C. For X. oryzae pv. oryzae (Xoo) modified Wakimoto medium is used and bacteria are incubated at 28 °C. Streak bacterial cells from glycerol stocks (see Note 1) stored at -80 °C on appropriate media agar plates and incubate overnight for E. coli (on LB-medium agar plates; incubation at 37 °C) or until colonies get visible for Xoo (after 2-3 days at 28 °C on modified-Wakimoto medium agar plates). Day 1E. coliInoculate 3 ml liquid LB-medium in a test tube with a single colony picked with a sterile toothpick or an inoculation loop from the overnight incubation plate.  Shake culture at 210 rpm and 37 °C. Day 2E. coli Harvest bacteria from overnight culture by centrifugation and re-suspend pellet in sterilized tap water. Determine the OD600 using a spectrophotometer. Using the measured OD600 value dilute to a calculated OD600 of 1.25 x 10-6 (equivalent to approximately 1 x 103 cells ml-1 when assuming that OD600 = 1.0 is equivalent to approximately 8 x 108 cells ml-1 for E. coli) in sterilized tap water.Xoo: Scrape off bacteria from modified Wakimoto-medium plates (see Note 2) using a sterile inoculation loop, re-suspend the bacteria in sterilized tap water and measure OD600 in the linear absorption range of the spectrophotometer.Dilute to approximately OD600 1.25 x 10-6 in sterilized tap water (see above).Plant leaf extracts:Snap freeze 0.3 g leaf material from transgenic or wild-type rice plants in liquid nitrogen and grind to a fine powder using a mortar and pestle. Transfer the frozen powder to a 1.5 ml safe lock reaction tube and mix with 1 ml sterilized tap water.",
+    "After centrifugation at 16,000 x g at 4 °C in a cooled benchtop centrifuge, the supernatant is transferred to a fresh safe lock reaction tube and mixed 1:2 (v/v) with the bacterial suspension (100 µl supernatant + 100 µl diluted bacterial suspension). Controls consist of bacterial suspension and leaf extracts from wild-type plants. The mixtures (100 µl) are plated in triplicates on agar plates of the appropriate media. Plates with E. coli are incubated overnight at 37 °C. Xoo plates are incubated at 22 °C for 4-5 days (see Note 3).Day 3Count the number of cfu on E. coli plates. Day 6-7Count the number of cfu on Xoo plates."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

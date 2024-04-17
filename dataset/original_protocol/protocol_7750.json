@@ -1,0 +1,17 @@
+{
+  "id": 8153,
+  "origin_website": "Bio",
+  "title": "Determination of Ferric Chelate Reductase Activity in the <em>Arabidopsis thaliana</em> Root",
+  "procedures": [
+    "Col-0 and frd3-1 seeds were placed on media containing 1/4 Murashige and Skoog (MS) salts, 50   μM Fe-EDTA, 0.5% sucrose, and 1.5% agar (basal medium).After stratification for 2 days at 4 °C, the plates were kept in a growth incubator under a long-day photoperiod (16 h light, 8 h darkness) at 25 °C. Fe deficiency was applied by transferring 7-day-old seedlings to basal medium without Fe-EDTA but containing 300 μM ferrozine [3-(2-pyridyl)-5,6-diphenyl-1,2,4-triazine sulfonate]. Then, the plants were grown for additional three days on this medium.700 μl of assay solution is placed in a 1.5 ml eppendorf tube, tube is placed onto scale and the weight of the tube is tared (zeroed).Both primary and lateral roots of five plants are soaked totally in this assay solution in order to prevent their drying, the tube is weighed again and the fresh weight of the sample is recorded. Notes: The assay solution should be kept at dark during the experiment.Maximum fresh weight of the roots recommended for this assay is 200 mg.Roots are not cut into pieces. The tube is mixed by tapping several times for increasing the contact of roots with assay solution, and incubated for 30 min in darkness at room temperature. At the end of the incubation, purple-colored Fe(II)-ferrozine complex formation is observed around the roots in the solution (Figure 1a).Note: Much deeper purple color formation is observed around the roots of the plants treated with Fe deficiency (Figure 1b). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130728/20130728200918_4395.jpgFigure 1. Purple-colored Fe(II)-ferrozine complex formation of assay solution before and after Fe deficiency.The absorbance of the assay solution is determined in a spectrophotometer at 562 nm against an identical assay solution without any plants (blank). Purple-colored Fe(II)-ferrozine complex formation is quantified using a molar extinction coefficient of 28.6  mM-1 cm-1 as in the equation ofimgsrc:https://en-cdn.bio-protocol.org/attached/image/20160229/20160229185327_4164.",
+    "pngThe experimental results are presented in the unit of μM Fe(II)/g root FW/hr as the mean of three biological repeats with six technical replicates each (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130728/20130728201030_7300.jpgFigure 2. Ferric Chelate Reductase activity in roots of Col-0 and frd3-1 under Fe-sufficient or -deficient conditions."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

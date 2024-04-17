@@ -1,0 +1,16 @@
+{
+  "id": 8112,
+  "origin_website": "Bio",
+  "title": "IFN-α Inhibition Assay <em>in vitro</em>",
+  "procedures": [
+    "Day 1:Seed 7.5 x 103 Mus dunni fibroblast cells in 500 μl media per well in 24-well plates. Add IFN-α in increasing concentrations to the cells (use concentrations between 50 pg/ml to 10,000 pg/ml).Controls: Without IFN-α; without virus.Incubate the cells for 24 h at 37 °C (5% CO2).Day 2:Decant media.Add 1 ml fresh media supplemented with polybrene (8 μg/ml) to increase the infection efficiency.Add 50 FFU (focus-forming units) F-MuLV to the wells.Incubate for 3 days.Day 5:Decant media.Fix cells with 500 μl 96% ethanol for 5 min at room temperature (RT).Wash wells twice with 500 μl washing buffer (PBS + 0.1% BSA).Add 250 μl supernatant of antibody 720 (mAB against FVenv) per well for 2 h.Wash twice with 500 μl washing buffer.Add 250 μl 2nd antibody (goat anti-mouse HRP) to wells (diluted 1 to 500 in PBS).Incubate for 1 h at RT.Wash twice with 500 μl washing buffer.Freshly prepare AEC substrate solution as indicated in Recipes section.Add 250 μl substrate solution per well.Incubate for 10-15 min at RT in the dark.Decant supernatant in special waste container for toxic solvents.Wash with 500 μl water.Dry plates overnight.Day 6:Count foci Treatment with IFN-α should significantly decrease the numbers of foci compared to unstimulated cells (Figure 1). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130617/20130617084813_5037.jpgFigure 1. Representative example of Interferon-α Inhibition assay with Interferon-α (left picture without foci) and without Interferon-α (right picture with foci)"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

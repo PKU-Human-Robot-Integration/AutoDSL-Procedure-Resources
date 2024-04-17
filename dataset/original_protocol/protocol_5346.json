@@ -1,0 +1,17 @@
+{
+  "id": 5677,
+  "origin_website": "Bio",
+  "title": "Extraction of Soluble and Insoluble Protein Fractions from  Mouse Brains and Spinal Cords",
+  "procedures": [
+    "Notes: The following protocol has been used to extract soluble and insoluble protein fractions from mouse brain and spinal cord samples from mouse models of Alzheimer’s disease (see Härtig et al. [2014] and Saul and Wirths [2017]). The user might need to modify the amount of solutions (e.g., lysis buffer) depending on the particular downstream application (e.g., Western blotting or ELISA). For Western blots, we recommend using 20 to 50 µg of total protein per well. This procedure will yield soluble protein fractions with concentrations of approx. 2-4 µg/µl and SDS-soluble fractions of approx. 5-8 µg/µl. Depending on the initial tissue weight, protein amounts > 2 mg (soluble fraction) and > 4 mg (SDS-soluble fraction) will be usually achieved. For mouse brain and/or spinal cord preparation, animals were anesthetized by CO2 and sacrificed by cervical dislocation. Tissues were carefully dissected and either directly used or kept at -80 °C until further use. Tissue homogenizationMechanically homogenize fresh or deep-frozen brain or spinal cord tissue in a weight:volume ratio of 1:7 using cold lysis buffer (700 µl buffer per 100 mg tissue, see Recipes) with 10 strokes in glass-Teflon homogenizer (Figure 2) at 800 rpm (Figures 3A and 3B). The homogenate should have a milky appearance without visible particles.Note: Our lab uses one brain hemisphere with cerebellum and olfactory bulb removed and flash frozen on a plate of dry ice. We do not remove the meninges upon harvesting the tissue.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170727/20170727014655_6349.jpgFigure 2. Motor-driven homogenizerimgsrc:https://en-cdn.bio-protocol.org/attached/image/20170727/20170727014757_3801.jpgFigure 3. Exemplary images illustrating the different homogenization and centrifugation stepsProtein extractionTransfer the entire homogenate to 1.5 ml reaction tubes (Figure 3C). Spin the samples at 17,000 x g for 20 min at 4 °C.Note: Centrifuge should be pre-chilled to 4 °C.Remove the supernatant (soluble fraction) and store at -80 °C until further use (Figure 3D).",
+    "Resuspend pellet 1 (Figure 3E) in either 800 µl (brain hemisphere) or 200 µl (spinal cord) 2% SDS (see Recipes) with a few short ultrasound pulses via sonication on ice. The pellet should dissolve upon this treatment (Figure 3F).Note: We use 5 short ultrasound pulses of approx. 1 sec length at level 2 in 1.5 ml reaction tubes. The clear SDS solution will turn turbid. Be careful to prevent foam formation.Add 1 µl of Benzonase, gently mix and incubate at room temperature for 5 min to remove DNA.Spin the samples at 17,000 x g for 20 min at 4 °C.Transfer the supernatant (insoluble fraction) to a fresh 1.5 ml reaction tube and store at -80 °C until further use (Figure 3G). Pellet 2 could be stored at -80 °C for further extraction using e.g., formic acid."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

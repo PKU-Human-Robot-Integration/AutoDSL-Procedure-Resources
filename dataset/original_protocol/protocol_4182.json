@@ -1,0 +1,17 @@
+{
+  "id": 4389,
+  "origin_website": "Bio",
+  "title": "Protocol for Preparation of Nuclear Protein from Mouse Lungs",
+  "procedures": [
+    "For each group, 2-3 mice at the age of 10-12 weeks old (about 25-30 g per mouse) were sacrificed and the pulmonary vasculatures were perfused with PBS until the lungs turned white.    After the mice have been euthanized with CO2 exposure, open the chest widely, taking care not to puncture the lungs.   In brief, the sacrificed mouse is placed in the supine position and secured to the table. Prepare a 10 ml 1x PBS in a syringe with a number 22 needle connected.   After the right femoral artery is cut, introduce the needle into the left heart ventricles and slowly inject the PBS until the lungs are well perfused. Meanwhile the blood-PBS mixture flow out through the cut femoral artery.     Lungs were collected, minced with scissors into small pieces (∼1 mm), and then incubated in 2 ml of 0.25% trypsin with DNase I (100 mg/ml) at 37 °C for 30-45 min with continuous mixing. FCS at 1% final concentration was added to inactivate trypsin and was chilled on ice. Note: In all subsequent steps lung preparations and solutions were kept at 4 °C.    Lung homogenates were adjusted to 20 ml with PBS containing 0.05% BSA and DNase I (100 mg/ml) filtered through gauze followed by filtration through nylon filters with 100 μm and 40 μm, respectively. The cell concentration is kept at 1 x 106 to 1 x 107 per ml after filtration.   The final filtrates were centrifuged at 300 x g for 10 min at 4 °C.    Then, CD45+ cell depletion (remove hematopoietic cells) was performed following the manufacturer’s protocol (Miltenyi Biotec).   Briefly listed the protocol as below. After resuspending cell pellet in 90 µl of buffer per 107 total cells, add 10 µl of CD45 micro beads. Then mix well and incubate for 15 min at 4-8 °C.",
+    "Wash cells with 2 ml of and centrifuge at 300 x g for 10 min. Pepette off supernatant completely.   Proceed to magnetic separation using Miltenyi magnetic device and collect unlabeled cells which pass through the column. This is the CD45- lung cells.     Finally, the nuclear and cytoplasmic proteins from purified lung cells were to be prepared in the following steps.   The lung cells were washed with cold PBS twice and were collected by spinning at 450 x g for 5 min.    Then, 200-500 μl of cytoplasmic extract buffer plus protease inhibitor were added into the cell pellets.    The pellets were gently mixed, kept on ice for 5 min, and then centrifuged at 3,000 x g for 5 min.    The supernatants were collected as the cytoplasmic extract. Normally the final protein concentrations are around 2.5-4 µg/µl.    The pellets were washed once with 500 μl of cytoplasmic extract buffer, suspended in 100-200 μl of nuclear extract buffer, gently mixed on ice for 5 min, and centrifuged at 14,000 x g for 5 min.    The supernatants were collected as the nuclear extract. We usually monitor the purity of extracted proteins by running western blot with antibodies against HDAC-1 or histone 3 as nuclear control and Betta actin as cytoplasmic protein control."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Systems Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

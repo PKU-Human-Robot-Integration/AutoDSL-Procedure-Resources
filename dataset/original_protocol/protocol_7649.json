@@ -1,0 +1,15 @@
+{
+  "id": 8052,
+  "origin_website": "Bio",
+  "title": "Culture and Detection of <em>Mycobacterium tuberculosis</em> (MTB) and <em>Mycobacterium bovis</em> (BCG)",
+  "procedures": [
+    "Culture   Preparing 7H9 liquid medium    Day 1: Resuspend 1 frozen vial of 1 ml (450 million) MTB or BCG (stored in 15% glycerol and 85% 7H9 liquid medium) in 20 ml 7H9 liquid medium in a T75 flask.   Culture horizontally in an incubator humidified at 37 °C without CO2 for 5 - 14 days.   Measure the OD600 every 5 days, till OD600 reaches 2.0.   Viable MTB/BCG colonies can be counted by plating bacterial suspensions at different dilutions on Middlebrook 7H11 agar plates supplemented with OADC, and then counting colonies after two weeks.    Harvest the bacteria through spin-down at room temperature, 3,000 x g for 7 min.      Detection: Ziehl-Neelsen acid-fast staining detection procedure   Pipet 10 μl MTB/BCG culture on a glass microscope slide and heat on top of a Bunsen flame until it is completely dry to fix the bacteria.    Flood the slide with carbol fuchsin stain (BD kit reagent A).    Heat the slide gently until it steams (5 min).    Pour off the carbol fuchsin.    Wash slide thoroughly with tap water (5 min).    Decolorize with acid-alcohol (5 min).    Wash slide thoroughly with tap water (5 min).    Flood slide with methylene blue (BD kit reagent B) counterstain (1 min).    Wash with tap water.    Blot excess water and dry in hand over Bunsen flame.    The slide is now ready to observe under a standard light microscope."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

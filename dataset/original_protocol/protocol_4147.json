@@ -1,0 +1,16 @@
+{
+  "id": 4354,
+  "origin_website": "Bio",
+  "title": "Histochemical Detection of Superoxide and H<sub>2</sub>O<sub>2</sub> Accumulation in <em>Brassica juncea</em> Seedlings",
+  "procedures": [
+    "Brassica juncea seedlings grown on vermiculite for 15 days at 22 °C, 75 % relative humidity, and a photoperiod of 16 h light and 8 h dark are treated with a stress inducing agent [for e.g. 200 mM NaCl (for salinity stress), 200 mM mannitol (for drought stress), or 20 mM CdCl2 (for heavy metal stress) for 3 days]. The untreated seedlings grown under the same conditions serve as the experimental control.   Remove the seedlings from the pot and wash them with distilled water to remove any extraneous material associated with the tissues.   Place the seedlings in test tubes and immerse them in DAB or NBT staining solution for detection of H2O2 or O2-, respectively. Wrap the tubes with aluminium foil and keep overnight at room temperature.   Drain off the staining solution from the test tubes.    Remove the chlorophyll for proper visualization of the stain. This is done by immersing the seedlings in absolute ethanol and heating in a boiling water-bath for 10 min (or more if necessary, with intermittent shaking).   Transfer the seedlings on a paper towel saturated with 60% glycerol.   Photograph the stained seedlings against a contrast background for proper documentation. H2O2 is visualized as reddish brown stain formed by the reaction of DAB with the endogenous H2O2 (Figure 1a). The O2- content is detected as dark blue stain of formazan compound formed as a result of NBT reacting with the endogenous O2- (Figure 1b).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140414/20140414180224_3326.jpg  Figure 1. Detection of Hydrogen peroxide (a) and superoxide anion (b) accumulation in Brassica juncea seedlings exposed to 200 mM NaCl stress for 3 days. Seedlings grown in the presence of water served as the untreated control."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

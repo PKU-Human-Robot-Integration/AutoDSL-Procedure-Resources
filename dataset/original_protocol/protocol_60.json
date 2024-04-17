@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "origin_website": "Nature",
+  "title": "Mass spectrometric analysis of 3&#8217;-terminal nucleosides of non-coding RNAs",
+  "procedures": [
+    "The following procedure describes the determination of 3' terminal nucleosides in yeast tRNA<sup>Phe</sup> and mouse piRNAs as described previously<sup>5</sup>. This method can be applied to any RNA molecule that does not possess a 3'-phosphate at its 3' terminus.\n**RNA hydrolysis with RNase T<sub>2</sub>**\n1) Dissolve &gt;0.8 &#xB5;g of yeast tRNA<sup>Phe</sup> or mouse piRNAs in 13.4 &#xB5;l of Milli-Q water.\n2) Add 1.6 &#xB5;l of 500 mM ammonium acetate buffer \\(pH 5.3) and mix gently\n3) Add 5 &#xB5;l of 5 units/ml RNase T<sub>2</sub> and mix gently\n4) Incubate the mixture at 37 &#xB0;C for 3 hours.\n**LC/MS analysis of the hydrolysate**\n5) Analyze the hydrolysate by using the LC/MS system"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Structural Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

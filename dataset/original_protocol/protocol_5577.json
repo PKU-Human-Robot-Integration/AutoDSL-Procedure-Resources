@@ -1,0 +1,18 @@
+{
+  "id": 5918,
+  "origin_website": "Bio",
+  "title": "Detection of CLEC5A-JEV Interaction by ELISA",
+  "procedures": [
+    "Infected C6/36 cells (1 x 107) with JEV (M. O. I. = 0.1) for 2 h followed by removing virus and replenishing fresh RPMI 1640 medium containing 5% fetal bovine serum.After three days, supernatants were harvested and stocked; cells were further refilled with new fresh medium for another three days.Collect viral supernatant (10 ml/tube) and centrifuging supernatant at 8,000 rpm for 30 min at 4 °C.Add 10 ml of supernatant into centrifuge tube followed by 1 ml of adding 20% sucrose cushion at the bottom of centrifuge tube by using Pasteur pipette adding sucrose solution into bottom of the centrifuge tube.Centrifuge supernatant at 28,000 rpm (SW28) for 3.5 h at 4 °C.Remove supernatant and suspending the JEV particles in 0.5 ml PBS, and viral titer was determined by typical plaque assay using BHK21 cell line.30 μg of pcDNA3/CLEC5A_ECD.Fc plasmid or extracellular domain of other C-type lectin receptor (CLR) plasmid were transfected into suspended FreeStyle 293-F cells (3 × 107/30 ml) by using 30 μl of 293 fectin? Transfection Reagent.Supernatants were harvested at 48 h of post transfection and subjected to protein purification by protein A sepharose beads.For Fc.funsion prtoen purification, supernatants were passed through a protein A column [pre-equilibrated with 0.05 M Tris-HCl (0.1 M, pH 7.0 )], after binding, washed column with 20 ml of Tris-HCl (0.1 M, pH 7.0) and eluted with 4 ml of Tris-Glycine (0.1 M, pH 3.0) buffer.50 μl of sucrose-cushion-purified JEV particles (5 × 106 pfu) in PBS were coated on microtiter plates for overnight at 4 °C, and washed with 250 μl of PBS for 3 times before adding CLR fusion proteins and control protein. Plate was filled with blocking buffer containing 1% BSA and 1% fetal bovine serum in PBS at room temperature for 1 h to reduce the detection background.",
+    "Both human and murine CLEC5A.Fc fusion proteins (0.05 mg/ml in PBS; 100 μl/well) and hu-IgG1 control fusion proteins were added at the amount of 0.05 mg/ml; 100 μl /well in room temperature for 2 h to interact with coated JEV particle.Remove unbound JEV particle by gentle washing with 250 μl of PBS twice.HRP-conjugated anti-human IgG (Fc) (1:5,000) were used to detect fusion proteins for 1 h at room temperature followed by washing with 250 μl of PBS twice and using 100 μl of 3,3,5,5-tetramethylbenzidine (TMB) as substrate and detecting the absorbance at 450 nm in ELISA reader."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

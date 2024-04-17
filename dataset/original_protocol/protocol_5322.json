@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "origin_website": "Bio",
+  "title": "Separation of Plant 6-Phosphogluconate Dehydrogenase (6PGDH)  Isoforms by Non-denaturing Gel Electrophoresis",
+  "procedures": [
+    "Plant extractsSurface-sterilize Arabidopsis thaliana ecotype Columbia seeds for 5 min in 70% (v/v) ethanol containing 0.1% (w/v) SDS at room temperature and with a slight shaking. Then, place for 20 min in sterile water containing 20% (w/v) commercial Bleach and 0.1% (w/v) SDS and then wash four times in sterile water.Grow seeds on Petri plates over commercial Murashige and Skoog medium (Sigma-Aldrich) with a pH of 5.5, containing 1% (w/v) sucrose and 0.8% (w/v) phyto-agar (Corpas and Barroso, 2014). Then, keep the seedlings for 14 days with a photoperiod of 16 h (light intensity of 100 μE m-2 sec-1) and 8 h dark, with a temperature of 22 °C and 18 °C, respectively. Sweet green pepper fruits were provided by Syngenta Seeds S.A. (El Ejido, Spain) from plants grown in experimental greenhouses. Homogenize plant samples in a mortar and pestle with grinding buffer (see Recipes) in a ratio 1:3 (w/v) for Arabidopsis and ratio 1:1 for pepper fruits. Perform these operations at 0-4 °C (on ice).Centrifuge extracts at 27,000 x g at 4 °C for 20 min.Use the supernatants for the enzymatic assays. Determine protein concentration with the Bio-Rad Protein Assay (Bio-Rad Laboratories, Hercules, CA) using bovine serum albumin as standard.6PGDH activity stainingSeparate plant proteins by non-denaturing polyacrylamide gel electrophoresis (PAGE) on 6% acrylamide gels at 4-7 °C. Usually, it takes around 2 h and 30 min.After electrophoresis, incubate gels in staining solution (see Recipes) at room temperature (RT). Keep in the dark with shaking until blue-purple bands appear over a colorless background. It takes around 15 min (Figure 1).Remove the staining solution and add stop solution (see Recipes) to cover gels.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170712/20170712204648_1012.jpgFigure 1. Analysis of 6-phosphogluconate dehydrogenase (6PGDH) isoforms by non-denaturing gel electrophoresis. A. 6PGDH isoforms activity were separated by native PAGE (6%) and identified by activity staining.",
+    "Lane 1, Arabidopsis thaliana 14-day-old seedlings. Lane 2, sweet green pepper fruits. B. Densitometric scans of 6PGDH isoforms and its relative quantification (%) made by the ImageJ program.Note: It is recommended to use fresh vegetable extracts because they provide better defined bands of activity."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

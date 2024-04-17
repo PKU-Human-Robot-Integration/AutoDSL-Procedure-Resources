@@ -1,0 +1,18 @@
+{
+  "id": 6337,
+  "origin_website": "Bio",
+  "title": "Flow Cytometry Assay for Recycling of LFA-1 in T-lymphocytes",
+  "procedures": [
+    "Labeling of surface LFA-1 (see Figure 1 for an overview)Take 3.4 x 107 cells and wash in 15 ml ice cold HBSS wash buffer (Recipe 1). Centrifuge at 300 x g for 10 min at 4 °C.Remove 1 x 106 cells for unstained control and fix these in 200 μl 3% PFA in migration buffer (Recipe 2) for 20 min on ice and wash in 1 ml ice cold migration buffer twice and resuspend in 200 μl ice cold 2% FBS in PBS and store until analysis at 4 °C.Resuspend 3.3 x 107 cells (Note 2) in 1 ml of ice cold 10 μg/ml TS2/4.1.1 antibody in migration buffer. Incubate on ice for 30 min.Wash once with 10 ml ice cold migration buffer.Centrifuge at 300 x g for 10 min at 4 °C.Resuspend in 6 ml ice cold migration buffer and keep on ice until being used.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181129/20181129010225_4764.jpgFigure 1. An overview of the assay for recycling of LFA-1Labeling of intracellular LFA-1Take 1 ml of TS2-stained cells and divide into 3 microcentrifuge tubes (330 μl cells/tube) and add 0 μl from freshly made 30 mM PQ (Note 3) to one tube (control, 0 μM PQ) and 1.1 μl PQ to the second tube (100 μM PQ) and finally 3.3 μl PQ to the third tube (300 μM PQ).Take 110 μl into each well in a 96-well plate from each condition in Step B1 to make triplicates for time point 150 min and incubate for 30 min at 37 °C.Note: We repeat this procedure for the 120 min, 90 min, 60 min, 30 min, and 0 min time-points. Two minutes before each time point (Note 4), we prepare the PQ samples as described in Step B1.",
+    "Precisely at the time points we take out the 96-well plate and add 110 μl into each well to make triplicates. The 96-well plate is returned to the 37 °C incubator after each step.  After final incubation take out the 96-well plate and put on ice and add the last triplicates (110 μl/well) for the 0 min time point.Add 100 μl of ice cold migration buffer into all wells and centrifuge the plate at 300 x g, 4 °C for 2 min.Resuspend cells in ice cold 2 μg/ml donkey anti-ms-AF647 in ice cold migration buffer with 0.1% BSA for 20 μl/sample.Incubate on ice for 20 min.Wash twice each with 200 μl ice cold migration buffer and centrifuge the plate at 300 x g, 4 °C for 2 min.Fix cell with 3% PFA in ice cold migration buffer for 20 min at 4 °C.Wash twice each with 200 μl ice cold migration buffer and centrifuge the plate at 300 x g, 4 °C for 2 min.Resuspend in 200 μl 2% FBS in PBS and transfer to FACS tube.Analyze samples using flow cytometry or store at 4 °C until analysis."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

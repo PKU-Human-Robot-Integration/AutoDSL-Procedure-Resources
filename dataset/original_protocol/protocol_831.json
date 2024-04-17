@@ -1,0 +1,15 @@
+{
+  "id": 886,
+  "origin_website": "Nature",
+  "title": "Immunofluorescent staining for the laser microdissection of individual cells.",
+  "procedures": [
+    "During the course of this procedure, a number of precautions are suggested to minimize RNA degradation.  The first is to use as freshly cut tissue sections as possible, which are stored on dry ice until they are to be stained.  Wear gloves at all times, and wipe down all surfaces with 75% ethanol prior to performing this technique.  Also recommended is to prepare fresh solutions prior to each dissection session.  The incubations involving washes in dH<sub>2</sub>O or PBS were done in 50ml conical tubes.  Xylene washes must be done in crystal slide washing dishes.  \n Cut fresh serial sections of tissue of interest using a cryostat. Tissues should be 4-6&#x3BC;m thick, and stored on dry ice.  For maximal preservation of RNA integrity, tissues should be sectioned the same day as the dissection.  For our studies, we dissected samples from approximately 30 serial slides, which were then pooled together.  However, the number of slides required for a given experiment depended on the amount of the sample collected.\n1. Fix slides in 75% ethanol for 30 seconds.\n  2. Wipe off excess ethanol, taking care not to touch the tissue, and air dry the slides using an aerosol duster can.  Outline the tissue section using a hydrophobic marker.\n  3. Rehydrate the slide in PBS.\n  4. Place the rehydrated slide in a dark box, and add 100-200&#x3BC;l antibody cocktail, so that the tissue section is completely covered with the cocktail.  Incubate in the dark at room temperature for 30 seconds.\n  5. Wipe away excess antibody cocktail, taking care not to disturb the tissue, and rinse the slide in fresh PBS.\n  6. Wipe away the excess PBS, and incubate the slide in 75% ethanol for 30 seconds.  \n  7. Wipe away the excess 75% ethanol, and incubate the slide in 95% ethanol for 30 seconds.",
+    "8. Wipe away the excess ethanol, and incubate in xylene for 1 minute.  Xylene should be in crystal slide dishes with lids, as this chemical is extremely volatile and reacts with plastics.\n  9.   Repeat xylene wash for 1 minute with fresh xylene.\n  10.   Prop the slide up at an angle with a rack to let it air dry for 1 minute.  Next, remove the remaining liquid with blasts from an aerosol duster can.  The slides are ready to be dissected.  LCM in particular is highly sensitive to humidity, so it is recommended to keep a dehumidifier running in the procedure room at least 24 hours prior to dissection.\n  While performing the microdissection, over-exposure of the laser due to either laser intensity or duration of pulse can lead to RNA degradation.  Therefore, it is important to find the lowest power of laser that efficiently melts plastic."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4972,
+  "origin_website": "Bio",
+  "title": "<em>Campylobacter jejuni</em> γ-glutamyltranspeptidase Activity Assay",
+  "procedures": [
+    "Dilute a Campylobacter preculture in 5 ml Heart Infusion (HI) broth to an optical density 600 nm of 0.05. Growth the culture in vertically standing 25 mm culture flasks with vent cap in a microaerobic atmosphere (MART) at 42 °C, 160 rpm in HI broth for until stationary phase ~20 h.Note: If other bacterial species are assayed use species specific growth conditions.Pellet ~1.109 bacteria of the bacterial culture, remove the supernatant and store the pellet at -80 °C for at least 1 h.Note: The -80 °C freezing step will help to disrupt the cells, shorter incubation will lead to less disrupted cells.Resuspend the pellet in ice cold 250 μl lysis buffer, and incubated for 30 min on ice.Sonicate 6 times (5 sec each, with 15 sec intervals on ice) at 40 mV and the output control set at 80%. Centrifuge the cell lysate for 10 min at 12,000 x g at 4 °C.Harvest the supernatant and keep on ice before use.Measure the protein concentration of 20 μl supernatant (BCA kit with standard) in a 96 wells plate according to the kit’s protocol. Make a serial dilution in a range between 0 and 200 µM of the standard pNA [4-nitroaniline (stock solution 1 mM)] in 50 mM Tris/HCl (pH 7.6).Mix 20 μl supernatant or standard pNA in a 96 wells plate with 180 μl of reaction buffer.Measure the optical density of the samples and standard in the 96 wells plate at a wavelength of 405 nm (OD405) every 60 s during an incubation period of 30 min at 37 °C (Figures 3 and 4). Calculate the slope of all values in a linear range of the obtained graphs (see below). GGT activity is expressed as nmol min-1 mg protein-1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160304/20160304190950_5027.jpgFigure 3. A typical pNA standard curveimgsrc:https://en-cdn.bio-protocol.org/attached/image/20160304/20160304191008_0839.jpgFigure 4.",
+    "Graph showing in time the pNA increase in the bacterial lysates made of C.jejuni wt (red) and racRS mutant (blue)To calculate the GGT activity first plot the pNA standard curve. Calculate the Δabsorbance (A time x - A time y) in a linear range. Next, compare the calculated Δabsorbance of each sample to the standard pNA curve to determine the amount of pNA generated between time x and time y (nmol pNA).The GGT activity is calculated by the formula: (nmol pNA) T x MT = the time incubated (in min)M = mg protein determined by BCA protein kitGGT activity is reported as nmole/min-1/mg protein-1Example:Δabsorbance(wt) = 0.58 (15 min) - 0.43 (5 min)=0.15Δabsorbance 0.15 = 40 nmole pNATime x - time y = 10 min M = 0.02 mg protein GGT activity is: 40/(10 x 0.02) = 200 nmole/min-1/mg protein-1"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

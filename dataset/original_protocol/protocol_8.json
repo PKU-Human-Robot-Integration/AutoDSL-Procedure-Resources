@@ -1,0 +1,14 @@
+{
+  "id": 8,
+  "origin_website": "Nature",
+  "title": "Indirect immunofluorescence with preextraction \\(<em>in situ</em> cell fractionation)",
+  "procedures": [
+    "1)Prepare poly-D-lysinated coverslips \\(poly D lysine 50&#x3BC;g/ml)\n2)Plate 15-20x10<sup>3</sup> cells on coverslips 1 day before the staining\n**Preextraction and fixation**\n3)Wash cells grown on coverslips gently 2x with ice-cold PBS 1x\n4)Treat the cells with ice-cold cytoskeleton buffer 5&#x2019; on ice\n5)Aspirate and add an ice-cold cytoskeleton stripping buffer for 5&#x2019; on ice\n6)Wash 3x with ice-cold PBS\n7)Fix the cells in fixative for 30&#x2019; RT\n8)Wash in 2x PBS 1x\n9)Permeabilize for 15&#x2019; at RT with permeabilization buffer\n10)Wash 3x in PBS 1x\n**Blocking and Staining**\n11)Block cells for 30&#x2019; with PBG 1X\n12)Stain with primary antibody diluted in PBG 1X at indicated concentration for 1h at RT \n13)Wash cells gently 3X5&#x2019; in PBG 1X\n14)Stain with secondary antibody diluited in PBG 1X for 1h at RT \n15)Wash cells gently 2X5&#x2019; in PBG 1x and 2X5&#x2019; in PBS 1X\n16)Stain with Dapi for 5' in the dark\n17)Mount the coverslips with 3 &#x3BC;l of Mowiol mounting medium\n18)Let the coverslips dry before microscope analysis"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

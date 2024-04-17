@@ -1,0 +1,16 @@
+{
+  "id": 6574,
+  "origin_website": "Bio",
+  "title": "<em>Rhodobacter capsulatus</em> Gene Transfer Agent Transduction Assay",
+  "procedures": [
+    "Day 1Streak Rhodobacter capsulatus Y262 containing plasmid containing gene to be transferred (or other gene donor), and DW5 (or other desired recipient strain) on RCV agar plates with appropriate antibiotics.Incubate plates aerobically at 30 °C for 2 days (or until colonies form)Day 3In a 17 ml screwcap tube (should contain sterile glass beads to help with mixing the cells during growth) inoculate 17 ml of YPS broth (NO antibiotic) with Y262 (containing plasmid) from a single colony. Grow photosynthetically at 30 °C until culture is well into the stationary phase (cell density should be around 450-500 Klett units).Day 4In test tubes inoculate 7 ml RCV broth with R. capsulatus DW5 or recipient strain(s) from a single colony.Incubate at 30 °C, shaking at 250 RPM for 2 days (cell density should be around 300-350 Klett units).Day 6Spin down 7 ml of DW5 and recipient cultures at ~20,000 x g (5,000 rpm in a Beckman JA-20 rotor) for 5 min.Decant and resuspend cell pellets in 3.5 ml G-buffer.Spin down 17 ml of Y262 (plasmid) donor strain at ~20,000 x g for 5 min to pellet most of the cells.Filter the remaining culture supernatant with a 0.45 μm pore-size filter into a sterile plastic (polystyrene) tube (not glass because it is suspected that RcGTA particles stick to glass).Prepare the transduction mix in a 10 ml plastic culture tube:0.1 ml filtrate (donor)0.2 ml recipient0.4 ml G-buffer0.7 ml total volume(Negative controls: 1) lacking the recipient and 2) lacking the RcGTA donor; positive control: DW5 with photosynthetically capable donor RcGTA).Incubate the transduction mix for 1-1.5 h at 30-35 °C with slow shaking (150 rpm).Add 0.9 ml RCV broth to each tube and incubate for 3-4 h at 30-35 °C with slow shaking (~150 rpm).Transfer transduced culture to a 1.",
+    "7 ml microcentrifuge tube and pellet cells at maximum rpm for 30 sec.Decant the majority of the supernatant leaving about 50 μl.Resuspend cells in remaining supernatant and spread cells on an agar plate appropriate for selection (for DW5 positive control may use YPS medium).Incubate plates in conditions appropriate for selection for 3-4 days (for positive control, select for anaerobic photosynthetic growth).Test colonies for desired insertion."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 760,
+  "origin_website": "Nature",
+  "title": "Cell adhesion assay to determine the interaction between NGL-3 with LAR cell adhesion molecules",
+  "procedures": [
+    "1. Prepare L cells at 50% confluency in 6-well plates.\n  2. In the next day, transfect a group of L cells with 1 &#x3BC;g of NGL-3 and 0.5 &#x3BC;g of EGFP by the lipofectamine method. In parallel, transfect another group of L cells with 1 &#x3BC;g of LAR and 0.5 g of DsRed. EGFP and DsRed coexpressions are to differentially visualize the two groups of cells. \n  3. After 48 hrs, wash L cells twice with PBS, followed by trypsin treatment of the cells.\n  4. After trypsin treatment, add 2 ml of DMEM containing 10% fetal bovine serum to inactivate trypsin. \n  5. Spin down the L cells at 1,000 rpm for 5 min.\n  6. Resuspend the cell pellet in 1 ml of serum-free DMEM to disperse cells. \n  7. Transfer 500 &#x3BC;l of the DMEM containing L cells to a 1.5 ml microtube and rotate it for 1hr at room temperature. This 1-hr incubation is thought to help cells recover damaged adhesion proteins.\n  8. Mix 500 &#x3BC;l of NGL-3-expressing cells with 500 &#x3BC;l of LAR-expressing cells in a microtube and rotate it for 30 min at room temperature to allow cell aggregation to occur.\n  9. Carefully transfer 100 &#x3BC;l of the cell mixture to a well of culture slide containing 400 &#x3BC;l of serum-free DMEM.\n  10. Capture Z-stacked images by confocal microscopy \\(20x objective).\n  11. For quantification, count the number of cell aggregates from a single Z-stacked frame. Cell aggregates are defined by a group of four or more clustered cells that contain at least one red and green cell."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4275,
+  "origin_website": "Bio",
+  "title": "ADCC Assay Protocol",
+  "procedures": [
+    "Preperation of Target CellsInfect Raji cells at a MOI 2, 48 h before assay with A/California/04/2009 (H1N1) influenza virus in BSL-3 facility at a multiplicity to give about 80-95% infected cells. Detail procedure in Note 4.Take a sample of target cells 48 h after infection in order to assess the incidence of infected cells through its ability to produce hem-agglutination with Turkey red blood cells and binding with polyclonal antibodies. Detail procedure in Note 5.2 x 106 cells washed twice with PBS.PKH67 cell labelling performed as per the protocol for General Cell Membrane Labelling by Sigma-Aldrich. Preparation of Effector Cells (Isolation of PBMCs)Isolate PBMCs from Blood samples of healthy volunteers, according to method given by Panda and Ravindran (2013).Wash twice isolated PBMCs with PBS. Antibody-dependent cell-mediated cytotoxicity assays (ADCC)Antibody-dependent cell toxicity was determined using the flow-cytometry based method employing the principle of live and dead cell discrimination (Srivastava et al., 2013).Dispense 5.0 x 104 labelled target cells in 50 μl RPMI 1640 media in each well as per the layout given bellow in round-bottomed 96 well plate in duplicate.Add 50 μl of antibodies (total IgGs from plasma of infected patients 1μg/ml and/or 5 μg/ml resulting in 0.5 μg/ml and 2.5 μg/ml) to the wells as per layout.Incubate for 15 min at 37 °C in CO2 incubator.Add unlabelled normal PBMC effector cells in 100 μl of RPMI 1640/0.5% Pen/Strep at a concentration of 2.5 x 107 cells/ml to each well as per the layout.Incubate cells for 2 h at 37 °C in CO2 incubator.After 2 h add 1 µl of the fluorescent dead cell dye 7-amino-actinomycin-D (7-AAD).Incubate at 4 °C in dark for 20 min.Analyse cells on FACS machine. A total of 5,000 target cells acquire.",
+    "Determine percentage cell death by software analysis of four identifiable cell populations, live effector cells (no dye), dead effector cells (7-AAD only), live target cells (PKH-67 only) and dead target cells (PKH-67 and 7-AAD).table:",
+    "﻿0,1,2,3,4,5,6\n1,2,3,4,5,6,7\nUnstained Target Cells,Unstained Effector Cells,PKH67 Stained Target Cells,7AAD Stained Target Cells,PKH67 Stained Target Cells + media + 7AAD Stain,PKH67 Stained Target Cells + 5 µl 1% Triton X-100 + 7AAD Stain,PKH67 Stained Target Cells + Antibody + 7AAD Stain\nFACS analysis stepIdentify total (Live and dead) target cell zone (FSC Vs SSC) (5,000) (Well no 1).Identify effector cell zone (FSC Vs SSC) (5,000) (Well no 2).Acquire PKH67 positive cells (5,000) (Well no 3).Acquire 7AAD positive cells (5,000) (Well no 4).Acquire all wells 5, 6 and 7 (5,000 PKH67 positive cells).Locate double positive population (PKH67 and 7AAD) by gating PKH67 cells and then gating 7AAD positive cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

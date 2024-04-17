@@ -1,0 +1,16 @@
+{
+  "id": 5050,
+  "origin_website": "Bio",
+  "title": "MNase Digestion for Nucleosome Mapping in Neurospora",
+  "procedures": [
+    "Inoculate ~ 2 x 108 conidia of Neurospora crassa to 200 ml liquid medium in a 500 ml flask. Grow the culture with 100 rpm shaking under desired light and temperature conditions. Representative cultures were grown for three days at 24 °C and at 80 µE light intensity. In order to crosslink, add paraformaldehyde to the culture to a final concentration of 1% and incubate for 10 min shaking at 24 °C.Quench paraformaldehyde for 5 min with glycine at final concentration of 125 mM. Filter liquid medium through Buhner funnel and rinse mycelia with 500 ml of water (room temperature). Squeeze mycelia between tissue paper to get rid of all water and then place the mycelia in Eppendorf tube and immediately freeze in liquid nitrogen. At this step mycelia can be stored at -80 °C. Cool mortar and pestle by submerging in liquid nitrogen for 5 min. Take the mortar and pestle out and then place frozen mycelia immediately into mortar and grind mycelia with pestle until it is finely ground powder. At this step one should avoid warming mycelia/ground mycelia powder. Resuspend ~400 mg ground mycelia in 3.75 ml of lysis buffer with freshly added 0.5 mM DTT, 0.5 mM spermidine and EDTA-free protease inhibitor tablets. Mix the suspension well by vortexing and incubate on ice for 5 min.Distribute the suspension into five 1.5 ml Eppendorf tubes (750 μl per tube). Resuspend the MNase powder in 850 μl of MNase resuspension buffer (estimated concentration=0.58 U/μl). Aliquots can be stored at -20 °C. Avoid freeze-and-thaw cycles.Add respectively 0 [control], 0.75, 1.5, 3, 6 Units of MNase to each tubes. Incubate all samples at 25 °C for 1 h while shaking at 400 rpm in a Thermo-mixer.",
+    "Add 85 μl of stop buffer to each sample to stop digestion and centrifuge at 20,000 x g for 20 min to pellet the cell debris. Transfer supernatants to new tubesAdd 2 μl of RNase cocktail enzyme mix to each supernatant and incubate at 37 °C for 45 min shaking at 400 rpm in a Thermo-mixer.Add 15 μl of Proteinase K solution to each sample and incubate at 65 °C for 2 h shaking at 400 rpm in a Thermo-mixer. Add 40 μg glycogen and 1,250 μl of 100 % EtOH to each sample and incubate at -20 °C for 30 min. Perform centrifugation at max speed (~20,000 x g) for 30 min at 4 °C. Discard supernatant. Wash the DNA pellet with 700 μl 70 % ice-cold ethanol. Remove the ethanol slowly without disturbing the pellet. Drying the pellet is not required.Dissolve the washed DNA pellet in 100 μl DNAse/RNAse free H2O. Further purify DNA samples by using PCR-clean up kit. Load samples on 1.7% agarose gel (80 volts for 1 h) to analyze nucleosomal ladder (Figure1)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

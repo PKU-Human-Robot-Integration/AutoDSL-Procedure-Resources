@@ -1,0 +1,16 @@
+{
+  "id": 8263,
+  "origin_website": "Bio",
+  "title": "H<sub>2</sub>O<sub>2</sub> Kill Assays of Planktonic Stationary Phase Bacteria",
+  "procedures": [
+    "Day 0. Streak P.aeruginosa cells from the freezer stock onto a LB agar place and incubate statically overnight at 37 °C.    Day 1. Pick 4-5 single colonies from the P.aeruginosa agar plate with a sterile wired-loop and inoculate 15 ml liquid LB medium in a 150 ml Erlenmeyer flask. Grow liquid bacterial cultures overnight for 16-18 hours at 37 °C, with shaking at 250 rpm.    Day 2. Inoculate 15 ml liquid LB medium in a 150 ml flask with 1:100 of overnight bacterial culture. Grow cells to for 16-18 hours at 37 °C, with shaking at 250 rpm.    Day 3. Determine the OD600 of the culture and dilute the bacterial suspension to a starting concentration of ~2.5 x 106 cells/ml (in total volume 1 ml LB). Depending on the bacterial strain used, the OD600 to CFU ratio will differ and needs to be determined for each strain: for example, for the PAO1 wild type strain, 108 cells/ml = ~OD600 0.1.   To confirm the correct starting bacterial density (at ~2.5 x 106 cells/ml), aliquot 100 μl of the above bacterial suspension into 96-well plate. Serially dilute cells 1:10 in PBS to approximately ~2.5 x 102 cells/ml, then plate 100 μl on LB agar plates for CFU count. This will also be the CFU count for time zero measurement.   Set up ~2.5 x 106 cells/ml x 1 ml per sample in sterile glass tubes, with at least 3 replicates per strain per condition. For H2O2 treated samples, add H2O2 (1 mM (2 μl) to 5 mM (10 μl) or other desired final concentration) to each samples in test tubes. Include untreated controls that are challenged with PBS. Each condition should be done at least in triplicates. Incubate cells for 2 hours with shaking at 250 rpm at 37 °C.",
+    "After H2O2 or PBS challenge, add 0.2% sodium thiosulfate to all samples to neutralize any remaining H2O2. Add even when samples are only challenges with PBS as a control.    To determine the viable cell count in H2O2 or PBS treated samples, aliquot 100 μl of bacterial samples into 96-well plate, serially dilute cells 1:10, then plate 100 μl of each dilution on LB agar plates for CFU count. Incubate CFU count plates at 37 °C overnight.   Day 4. Count CFU on LB agar plates and calculate the viable CFU per biofilm based on the dilution factors applied.   Determine hydrogen peroxide killing by comparing the viable CFU count in the PBS treated and the H2O2 treated conditions."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

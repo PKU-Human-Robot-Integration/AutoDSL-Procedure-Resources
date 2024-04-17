@@ -1,0 +1,16 @@
+{
+  "id": 6581,
+  "origin_website": "Bio",
+  "title": "A Novel Dual Lentiviral CRISPR-based Transcriptional Activation System for  Gene Expression Regulation in Neurons",
+  "procedures": [
+    "First, validate in vitro that a gene-specific sgRNA successfully induces your gene of interest (See Part V).Produce large-scale lentivirus preparations in a T225 for each construct and resuspend in only 30-50 µl sterile 1x DPBS.Titer viruses as described above and dilute sgRNA viruses with 1x sterile DPBS as necessary so that all sgRNAs used in the study are the same titer.Infuse a mixture of the sgRNA and the dCas9-VPR construct into the brain area of interest at a rate of 0.25 µl/min. For our studies, we used a total volume of 1.5 µl, with 0.5 µl of the sgRNA plasmid mixed with 1.0 µl of dCas9-VPR.Expression of the transgenes has been validated in rats 2 weeks after infusion."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

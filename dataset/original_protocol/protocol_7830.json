@@ -1,0 +1,17 @@
+{
+  "id": 8238,
+  "origin_website": "Bio",
+  "title": "MAPK Phosphorylation Assay with Leaf Disks of <em>Arabidopsis</em>",
+  "procedures": [
+    "Leaf disks are cut from adult Arabidopsis (Arabidopsis thaliana) leaves using the cork borer. Try to take leaves of similar age and fitness but from different plants.   Weigh one exemplary leaf disk and note the weight (usually ~ 20 mg).   Float disks on distilled water in small petri dishes or 6-well plates (at least 3 per dish or well in approximately 5 ml of water).    Wait overnight (usually 16 h, dishes closed) and keep the dishes in an undisturbed and controlled place (e.g. growth chamber of origin). This will lead to dephosphorylation of MAPKs which have been phosphorylated upon harvesting.   Next morning perform the treatment, for example add an elicitor peptide of which you would like to know if it triggers MAPK phosphorylation. We add it to a final concentration of 1 μM, mix carefully to not mechanically stress the leaf tissue and in most cases wait for 15 min. As a proper control use a mock treatment (e.g. solvent only) and also incubate for 15 min. This is critical, since MAPK phosphorylation is triggered very easily by many different stresses. Thus you need to show that your control treatment does not lead to phosphorylation of MAPKs. Other treatments could be addition of chemicals, wounding stress, UV-treatment etc. Note: Phosphorylation and activation of MAPKs happens very quickly and is transient. It starts roughly 2-5 min after treatment and lasts at least for 1 h or longer.   Harvest all disks from one well after the desired incubation time quickly with a forceps and dry them briefly on a paper towel (residual water will dilute your sample and interfere with the grinding procedure). Place them into a microcentrifuge tube (preferably safe lock) that contains 5 glass beads and shock-freeze them in liquid nitrogen. Repeat this procedure for each well.",
+    "Note: Here you have to be quick! Harvesting the disks (mechanical stress) will induce MAPK phosphorylation, thus you should not take longer than 1 min for each sample to avoid false positive phosphorylation results!   Grind tissue to fine powder (the tissue should not thaw before the next step!). You can do this by using a mortar and pestle (cooled in liquid nitrogen) but we do not recommend this. Especially if you have many samples grind the tissue by using a Silamat S6 (or similar machine) that grinds the tissue in the tube due to rapid movement and the previously added glass beads.    Add extraction/loading buffer. For example for 60 mg of tissue, use 60 μl and use the same ratio depending on sample weight.   Vortex vigorously until the sample has completely thawed and potential buffer precipitates have been dissolved again. Keep at room temperature and continue with further samples.   Spin all samples 15 sec at 11,000 x g to get down the sample from the lid.    Boil (95 °C) for 5-10 min.   Let cool for 3 min.   Centrifuge at 11,000 x g for 5 min to precipitate glass beads and debris.   Take supernatant from the top (do not disturb the pellet) and load 15 μl on an SDS-PAGE gel (10% or 12%, 1 mm thickness).   Perform your standard Western Blotting method (for us wet and semi-dry worked, and similarly both Alkaline Phosphatase and Horseradish peroxidase worked). We use the primary antibody at 1:2,000 dilutions."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

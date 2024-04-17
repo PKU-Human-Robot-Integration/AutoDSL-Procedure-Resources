@@ -1,0 +1,17 @@
+{
+  "id": 5462,
+  "origin_website": "Bio",
+  "title": "Screening for Novel Endogenous Inflammatory Stimuli Using the Secreted Embryonic Alkaline Phosphatase NF-κB Reporter Assay",
+  "procedures": [
+    "Cell culture conditionsThaw a vial containing 3-7 x 106 THP1-BlueTM NF-κB cells in a 37 °C water bath.Transfer cells to a 15 ml sterile tube containing 10 ml of pre-warmed ThP1 NF-κB medium without blasticidin (see Recipes). Centrifuge tube at 320 x g for 5 min.Remove supernatant and resuspend cells in 10 ml of ThP1 NF-κB medium without blasticidin. Count the cells using a hemocytometer. Transfer 1 x 106 cells in 10 ml of ThP1 NF-κB medium without blasticidin to a 75 cm2 cell culture flask and place the culture at 37 °C in 5% CO2.The cells grow in suspension. To passage the cells, transfer cells to a sterile 15 ml tube and measure cell concentration using a hemocytometer. Centrifuge tube at 320 x g for 5 min at room temperature, remove cell supernatant and resuspend cells in fresh media. Passage the cells every 3 days and do not let the cell concentration in the flask exceed 2 x 106 cells/ml.For the first two passages, cells should be cultured in medium without blasticidin to allow recovery from freezing. After the second passage, culture the cells in ThP1 NF-κB medium with blasticidin (see Recipes) to maintain selection pressure.Cell stimulationTransfer cells to a 15 ml sterile tube. Centrifuge cells at 320 x g for 5 min. Remove supernatant and resuspend cells in new ThP1 NF-κB medium with blasticidin.Plate 1 x 105 cells per well in a flat-bottom 96 well plate in a final volume of 100 µl. Immediately after plating, stimulate cells by adding LPS or recombinant protein (e.g., FBG) diluted in 100 µl of media in duplicate or triplicate wells. The final volume in each well is 200 µl.Incubate the cells for 24 h at 37 °C in 5% CO2 (see Note 3).",
+    "To measure NF-κB-induced secreted alkaline phosphatase, collect cell supernatant.At this stage cells can be taken for assessment of viability for example by MTT assay.Measurement of NF-κB activationWarm QUANTI-BlueTM solution (see Recipes) at 37 °C for 10 min.Add 180 µl of QUANTI-BlueTM per well to a flat-bottom 96 well plate. Add 20 µl of THP1-BlueTM cell supernatant to each well.Incubate the plate at 37 °C for 2 h. The media will change color from pink to blue in the presence of secreted embryonic alkaline phosphatase (Figure 1).Determine SEAP levels by reading the optical density (OD) at 620 nm using a spectrophotometer plate reader.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170328/20170328195829_8429.jpgFigure 1. Detection of secreted embryonic alkaline phosphatase using QUANTI-BlueTM. Activation of THP1-BlueTM NF-κB cells with decreasing doses of LPS plus negative control (NC) performed in duplicates. In the presence of SEAP the QUANTI-BlueTM media changes color from pink to blue. The blue color intensity correlates with NF-κB activation at different doses."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

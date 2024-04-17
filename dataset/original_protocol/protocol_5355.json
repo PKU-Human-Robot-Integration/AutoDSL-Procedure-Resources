@@ -1,0 +1,15 @@
+{
+  "id": 5686,
+  "origin_website": "Bio",
+  "title": "Purification of FLAG-tagged Secreted Proteins from Mammalian Cells",
+  "procedures": [
+    "Generation of stable cell lines using the Flp-In T-rex 293 cell line (Figure 1) Note: The Flp-In T-rex 293 cell line is suitable for inducible, stable, and homogenous high expression of your 3xFLAG-tagged protein of interest. Transiently transfected cell line can be used as long as the transfection efficiency (determined by immunofluorescence) is more than 50%.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170730/20170730203742_7375.jpg Figure 1. Diagram of how to prepare stable Flp-in T-rex 293 cell lines. Transfect Flp-in T-rex 293 cells with plasmids (pcDNA5 FRT TO with gene of interest and pOG44 that contains a gene for flippase). The following day, the cells are cultured with hygromycin B to select cells that have incorporated the gene of interest at FRT site of genomic region. The polyclonal stable cell lines are homogeneous expression.    Seed 1 x 105 Flp-In T-rex 293 cells in each well of a 12-well plate.   Incubate overnight when cells have reached approximately 50% of confluency, and transfect Flp-In T-rex 293 cells with pcDNA5 FRT TO containing your FLAG-tagged gene of interest and pOG44 plasmids.   After 4-5 days of transfection, treat cells with 100 μg/ml hygromycin B and 15 μg/ml blasticidin for approximately 2 weeks.       Purification of FLAG-tagged protein   Grow five 100 mm dishes of Flp-In T-rex 293 cells expressing the 3xFLAG-tagged protein in growth medium (see Recipes) supplemented with 10 μg/ml doxycycline for 1 day until cells are approximately 80% confluent.   Change cell culture media to 10 ml DMEM containing 5% FBS with 10 μg/ml doxycycline and culture for 2 days. Note: 10% FBS medium may clog an Amicon centrifuge filter during the concentration step.   Harvest the cell culture media (conditioned media) from all five 100 mm dishes of step B2 into a 50 ml Falcon tube.   Centrifuge the conditioned media at 2,000 x g for 5 min at 4 °C.",
+    "Transfer the supernatant into an Amicon centrifuge filter unit. Spin at 4,000 x g for 30-40 min.   Repeat step B5 until the retention volume is less than 2 ml.   Transfer the concentrated conditioned media into two 1.5 ml tubes (1 ml per tube).   Add 100 μl pre-washed 50% FLAG M2 beads slurry to each tube.   Incubate the beads at least 2 h while rotating at 4 °C.   Wash the beads with 0.5 ml cold wash buffer (see Recipes) 4 times by spinning at 100 x g for 1 min. After the last wash, remove as much buffer as possible with minimal disruption of the beads using syringe needles.   Incubate the beads with 0.2 ml elution buffer (see Recipes) for 1 h at room temperature and collect the purified FLAG-tagged protein after centrifugation."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

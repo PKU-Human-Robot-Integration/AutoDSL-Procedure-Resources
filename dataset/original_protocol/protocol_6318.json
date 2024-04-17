@@ -1,0 +1,16 @@
+{
+  "id": 6674,
+  "origin_website": "Bio",
+  "title": "An Optimized Method to Isolate Human Fibroblasts from Tissue for <em>Ex Vivo</em> Analysis",
+  "procedures": [
+    "Tissue dissociationSample collectionTransport the tissue sample in “empty” DMEM (Recipe 2) on icePrepare working solutionsIn a 50 ml Falcon tube, add 100 μl Collagenase P and 40 μl DNase stock solutions to 5 ml “complete” DMEM (Recipe 1)Make PBS-A: add 1 μl Amphotericin to 10 ml PBS in a 15 ml Falcon tube Mechanical dissociationIn a polystyrene Petri dish, incise the tissue 10-12 times to relax the tissueWash sample in PBS-AAdd 5 ml PBS-A to incised tissue, leave at room temperature for 5 minThis process may be repeated if the sample is particularly congestedEnzymatic dissociationUsing scissors, cut the Pasteur pipette bulb at a 45-degree angle to create a scoop.",
+    "Use this to remove the tissue from the PBS-ATransfer to the 50 ml Falcon tube containing the Collagenase P/DNase solutionTransfer the 50 ml Falcon tube to the orbital shaker Incubate at 37 °C with agitation (200 rpm) for 15 minAfter 15 min, remove from the orbital shaker and sequentially pipette with 50 ml, 10 ml and 5 ml pipette tips to promote dissociationReturn to the orbital shaker for a further 15 min, then repeat sequential pipettingReturn to the orbital shaker for a further 30 min, then repeat sequential pipettingTrypLE treatmentCentrifuge the sample at 450 x g for 5 minRemove the supernatant and re-suspend the resulting pellet in 1 ml of undiluted TrypLE Incubate at 37 °C for 10 minRemoving non-digested tissue fragmentsAdd tissue strainer to a new 50 ml Falcon tube on ice Strain tissue/enzyme suspension, pressing through with plunger of 5 ml syringe, simultaneously washing with “empty” DMEMKeep the sample on ice from this pointRed blood cell lysisCentrifuge the sample at 450 x g for 5 min at 4 °CAspirate the mediumRe-suspend the pellet in 1 ml red blood cell lysis solutionIncubate at 4 °C for 10 minCentrifuge at 450 x g for 5 min at 4 °CSample collectionAspirate the red cell lysis bufferRe-suspend the pellet in 1 ml of “complete” DMEMThe cells are now ready for quantification (if necessary) and use"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

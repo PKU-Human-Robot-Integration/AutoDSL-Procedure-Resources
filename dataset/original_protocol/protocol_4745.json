@@ -1,0 +1,15 @@
+{
+  "id": 5042,
+  "origin_website": "Bio",
+  "title": "Extraction and Quantification of Sphingosine 1-Phosphate (S1P)",
+  "procedures": [
+    "S1P extraction protocolNote: All following steps are performed at room temperature if not stated otherwise. Transfer the sample (plasma, medium, cell suspension) into a glass centrifuge vial and adjust the volume to 1 ml with PBS. Samples were prepared as follows:50-200 µl plasma was taken from heparinized blood.1 ml medium was directly taken from cell culture.Cells were trypsinized, washed once in PBS and taken up in 1 ml PBS.Note: All samples can be processed directly or stored at -20 °C to -80 °C until use. Add 10 µl of the internal standard (10 μM C17- S1P in MeOH).Add 300 µl of 18.5% HCl.Add 1 ml MeOH and 2 ml CHCl3.Vortex for 10 min at maximum speed.Centrifuge the sample for 3 min at 1,900 x g.Transfer the lower CHCl3 phase into a new glass centrifuge vial by directly placing the pipet into the lower phase (see Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160519/20160519012243_6335.pngFigure 1. Formation of phases after centrifugation. As an example, S1P extraction from a plasma sample is shown in step A7. The CHCl3-phase is extracted by directly pipetting through the upper aqueous phase.Add 2 ml of CHCl3 to the remaining aqueous phase and repeat vortexing and centrifugation. Add this CHCl3-phase to the transferred CHCl3-phase of step A7. Vacuum-dry the CHCl3 in the vacuum rotator at 60 °C for 45 min. Alternatively, the samples can be dried under nitrogen gas flow.Resuspend the sample in 100 µl MeOH:CHCl3 (4:1, vol/vol).Vortex the sample for 1 min at maximum speed.Transfer the sample into an autosampler vial and store it at -20 °C.MS protocolHPLC-programSolution A: ddH2O containing 1% formic acid.Solution B: MeOH.Use a flow-rate of 0.3 ml/min.Equilibrate the column for 5 min with 90% Solution A and 10% solution B.From 0-0.5 min: Change to 100% solution B.From 0.5-15 min: Hold 100% solution B.From 15.",
+    "1-20 min: Re-equilibrate with 90% solution A and 10% solution B.10 µl of the sample is applied onto the column 1 min after starting the HPLC program.The column is kept at 35 °C during the whole procedure.The spectrum is acquired with an electrospray ionization (ESI) ion source in the positive mode and following settings:Ion spray voltage: 4,500Ion source heater temperature: 450 °CCollision gas setting: MediumIon source gas 1: 30 psiIon source gas 2: 60 psiCurtain gas: 45 psiFor acquisition the multiple reaction monitoring (MRM) mode and the Analyst 1.6.2 software is used. S1P is analyzed with the mass transition 380 m/z -> 264 m/z, and the internal standard C17- S1P with the mass transition 366 m/z -> 250 m/z.For quantitative analysis a standard curve with S1P amounts of 1 pmol to 100 pmol and 10 pmol C17- S1P as the internal standard is generated.S1P concentrations are calculated using Analyst 1.6.2 software."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

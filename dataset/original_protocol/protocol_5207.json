@@ -1,0 +1,16 @@
+{
+  "id": 5533,
+  "origin_website": "Bio",
+  "title": "Murine Bronchoalveolar Lavage",
+  "procedures": [
+    "Sacrifice a mouse by CO2 inhalation in a CO2 chamber.Bring the mouse to a biosafety cabinet.Dampen the mouse with 70% ethanol.Place the mouse front side up on styrofoam panel and fix the arms and legs with needles or tapes (Figure 1A).Use scissors to make incision in the skin from abdomen to neck, and tear skin with forceps to expose thoracic cage and neck (Figure 1A).Gently remove the muscle around the neck to expose trachea (Figure 1B).Use forceps to put a ~10 cm-long nylon string under the trachea (Figure 1C).Carefully cut the ribs to expose the heart and the lungs (Figure 1D).Note: Do not cut the trachea and lungs.Insert a 22 G x 1” Exel Safelet Catheter into the trachea, remove the stylet hub, and tie the catheter and the trachea together firmly with a nylon string (Figures 1E-1G).Load a 1 ml syringe with 0.8 ml of PBS and place it in the end of the catheter (Figure 1H).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170512/20170512013016_3637.jpgFigure 1. Mouse bronchoalveolar lavage stepsSlowly inject and aspirate the PBS 4 times, remove the syringe from catheter, and save the recovered lavage fluid in 1.5 ml Eppendorf (EP) tubes on ice.Repeat steps 10-11 for additional three times.Record BAL volume according to the scales on the 1.5 ml EP tubes.Centrifuge at 800 x g for 10 min at 4 °C.Transfer the supernatant to a new 5 ml tube, add protease inhibitor cocktail to a final concentration of 1x and PMSF to a final concentration of 1 mM, and mix well. Store at -80 °C if not used immediately. Pathogens, proteins such as cytokines/chemokines, and other components in the supernatants of BAL fluid (BALF) can be analyzed by bicinchoninic acid protein assay, ELISA, luminex assays, and/or other assays.Resuspend BAL cell pellets in 200 µl of PBS and combine the cell suspensions.",
+    "Centrifuge at 800 x g for 10 min at 4 °C.Resuspend BAL cell pellets in 100-200 µl ACK lysis buffer, lyse red blood cells on ice for 10 min, and then add 1 ml of PBS to stop lysis.Centrifuge at 800 x g for 10 min at 4 °C.Resuspend BAL cell pellets in 400 µl of PBS, count the cells by taking about 20 µl of the cell sample to a hemocytometer and counting the cells under a microscope. Record the cell number. These BAL cells can then be used for FACS analysis, spun onto slides for staining (Figure 2), and/or lysed for RNA or protein extraction.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170512/20170512013132_6234.jpgFigure 2. Hema3-staining of immune cells in murine BAL. White arrow: macrophage; grey arrow: lymphocyte; black arrow: neutrophil. Scale bar = 10 µm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

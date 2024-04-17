@@ -1,0 +1,16 @@
+{
+  "id": 5592,
+  "origin_website": "Bio",
+  "title": "Extraction and Activity of O-acetylserine(thiol)lyase  (OASTL) from Microalga <em>Chlorella sorokiniana</em>",
+  "procedures": [
+    "Algal culture conditionGrow Chlorella sorokiniana culture in batch in basal medium (see Recipes) at 35 °C and under continuous illumination (fluorescent lamps, 250 μmol photons m-2 sec-1). Bubble the culture with air containing 5% CO2. Under these conditions, the algal growth rate constant (µ) is 3 d-1.Preparation of microalgae extractsHarvest 200 ml of algal culture by centrifugation (4,500 x g for 10 min). Collect the cells during the exponential growth phase (culture OD550 between 0.5 and 1.0).Discard the supernatant and re-suspend the pellet in 5 ml of cold (4 °C) extraction buffer (see Recipes).Lyse the cells by passing twice through a French pressure cell (1,100 psi).Note: Other methods and procedures can be used to lyse microalgae; among the most common methods, there are the use of magnetic stirrer, microwave radiation, ultrasonication and enzyme treatment (Dvoretskyet al., 2016; Farooq et al., 2016; Huang et al., 2016). The breaking of the cells can be observed with an optical microscope.Centrifuge cell homogenate at 11,000 x g for 15 min at 4 °C. Use the resulting supernatant as crude extract (CE) and assay it for enzyme activity.Keep the crude extract on ice or freeze the sample in liquid nitrogen and store at -80 °C for future assays.Note: Store the samples at -80 °C for a maximum period of six months. The frozen sample can be thawed at room temperature.OASTL assayAdd the following solutions as shown in Table 1 to Eppendorf tubes (1.5-2.0 ml)Table 1. OASTL protocol assayimgsrc:https://en-cdn.bio-protocol.org/attached/image/20170614/20170614203508_5847.jpgNotes:   For the preparation of the reaction mix, it is important to respect the order of the solutions as shown in Table 1.The volume of Milli-Q water in the sample depends on the amount of CE used, considering a final volume of the reaction mix of 100 µl. OAS (O-acetylserine) needs to be prepared fresh before use.",
+    "DTT and Na2S can be prepared, aliquoted and stored at -20 °C for six months.After preparation of the reaction mix, vortex the samples and incubate the tubes in a thermomixer at 50 °C for 5 min.Stop the reaction by adding 50 µl of 20% (v/v) trichloracetic acid (TCA). Spin at 13,000 x g and transfer the supernatants to clean tubes.Note: TCA can be stored at 4 °C for six months.Add to the tubes 100 µl of glacial acetic acid and 200 µl of ninhydrin solution (see Recipes).Incubate the samples at 100 °C for 5 min and then cool them in a Thermo bath at 10 °C for 5 min.Note: As an alternative to Thermo bath, the samples can be incubated in a thermomixer at 99 °C.Add 550 µl of ethanol, vortex and read the absorbance spectrophotometrically at 560 nm."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

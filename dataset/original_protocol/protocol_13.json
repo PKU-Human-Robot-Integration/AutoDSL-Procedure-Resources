@@ -1,0 +1,21 @@
+{
+  "id": 13,
+  "origin_website": "Nature",
+  "title": "Quantification of ARF-GTP in HepG2 by pulldown with GST-GGA3\\(1-316)",
+  "procedures": [
+    "1. 10<sup>7</sup> cells seeded into five 120 mm cell culture dishes and incubated overnight at 37&#xB0;C, 5% CO<sub>2</sub> in full medium \\(EMEM/10% FCS)\n  2. cells washed twice with PBS and medium exchanged for EMEM w/o FCS \n  3. grown overnight\n  4. inhibitors added to dishes and further incubated for 3 hrs at 37&#xB0;C, 5% CO<sub>2</sub>: dishes 1 and 2: 0.2% DMSO; dish 3: SecinH3 12.5 &#xB5;M; dish 4: SecinH3 6.25 &#xB5;M; dish 5: D5 25 &#xB5;M\n  5. stimulation with 100 nM insulin 10&#x2019; at 37&#xB0;C\n  6. cells washed twice with ice cold PBS\n  7. cells harvested with rubber policeman in 1.5 mL lysis buffer\n  8. incubated 20&#x2019; on ice\n  9. sonicated 7&#x2019;&#x2019;, 40%, cycle 50\n  10. centrifuged 10&#x2019; at max. speed, 4 &#xB0;C\n  11. 1200 &#xB5;L supernatant incubated with GST-GGA3 beads \\(50 &#xB5;g GST-GGA3\\(1-316) per tube)\n  12. incubated 2 hrs at 4 &#xB0;C under mild agitation\n  13. centrifuged for 1&#x2019; at 500 x g and supernatant discarded\n  14. pellets washed 3x with lysis buffer\n  15. 50 &#xB5;L Laemmli loading buffer added to pellet and incubated 5&#x2019; @ 95 &#xB0;C\n  16. proteins separated by 15% SDS-PAGE; loading normalized to protein content in cell lysates\n  17. blotted on nitrocellulose with semi-dry blotting method \n  18. nitrocellulose blocked for 20&#x2019; with 5% milk powder in TBS/0.1% Tween-20\n  19. nitrocellulose washed twice with TBST\n  20. Anti-ARF6-antibody \\(1:100 dilution in 5% BSA/TBST) added and incubated overnight at 4 &#xB0;C\n  21. nitrocellulose washed three times with TBST\n  22. goat-anti-mouse-HRP conjugate \\(1:20,000 dilution in 5% milk powder/TBST) added and incubated for one hr at RT\n  23. nitrocellulose washed with TBST\n  24. nitrocellulose covered with ECL-solution, incubated 3 min at RT; luminescence visualized with VersaDoc 5000 \\(BioRad)"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

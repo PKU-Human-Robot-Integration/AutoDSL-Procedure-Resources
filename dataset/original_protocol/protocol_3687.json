@@ -1,0 +1,19 @@
+{
+  "id": 3890,
+  "origin_website": "Cell",
+  "title": "Quantifying interfacial substrate interactions via surface energy analyses",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nContact angle measurements\nTiming: 1 – 2 h\nThe following sessile drop method is a classic goniometric experiment designed to determine the contact angle of a liquid when applied to a substrate. The contact angle is the interior angle formed at the air-liquid-substrate interface. Static measurements of the contact angles produced via two or three fully characterized liquids yields the surface energy of the substrate which can then be related to Gibbs energy (i.e., the spontaneity of interfacial interaction).\nNote: Ideally, the fully characterized liquids (i.e., solvents) should be nonspreading solvents.\nNote: The spreading nature of the solvent should be investigated prior to application. Spreading solvents, where wetting occurs quickly and/or the contact angle is very small, should be avoided if possible; however, if a spreading solvent is selected, the suggested equilibration time should allow for the contact angle measurement though the reliability may be reduced.\nPlace a 2 μL droplet on the substrate.\nAllow the droplet to equilibrate for 10–15 seconds to avoid evaporation.\nFollowing equilibration, photograph the drop using a mounted second generation iPad Mini equipped with a macrolens. DO NOT ZOOM.\nObtain left and right contact angle measurements via a protractor app, e.g., Photo Protractor (Figure 3[href=https://www.wicell.org#fig3]).\nimgsrc:https://prod-shared-star-protocols.s3.amazonaws.com/protocols/613-Fig3.jpg\nFigure 3. Example contact angles and measurement via a screenshot of the Photo Protractor app\nNote: The baseline of the angles often needs to be slightly adjusted to ensure planarity with substrate (i.e., contact angle adjusts to 54.284°).\nA minimum sample size of (N ≥ 6) is necessary for each liquid used.\nObtain statistical averages for each contact angle measurement (N ≥ 6) by averaging all measurements.\nRepeat steps 1–6 for the other two liquids.\nInput contact angle data into the calculation template (Data S1[href=https://prod-shared-star-protocols.s3.amazonaws.com/protocols/613-Mmc1.xlsx]).",
+    "Note: The three recommended liquids for contact angles on biological materials include bromonaphthalene, formamide, and deionized water based on their 1) relatively high surface energies (Table 1[href=https://www.wicell.org#tbl1]), 2) low volatility, and 3) potential for diverse intermolecular interactions with the substrates.\ntable:files/protocols_protocol_613_2.csv"
+  ],
+  "subjectAreas": [
+    "Material Sciences",
+    "Energy",
+    "Physics",
+    "Microbiology",
+    "Biophysics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

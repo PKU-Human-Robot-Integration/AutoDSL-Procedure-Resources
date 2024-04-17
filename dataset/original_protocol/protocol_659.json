@@ -1,0 +1,19 @@
+{
+  "id": 698,
+  "origin_website": "Nature",
+  "title": "izMiR: computational ab initio microRNA detection",
+  "procedures": [
+    "Training\n1) KNIME installation\na. Download: https://www.knime.org/downloads/overview\nb. Installation: https://tech.knime.org/installation-0 \nc. Update extensions: https://www.knime.org/downloads/update \n2) Importing workflows \n- Download workflows from http://bioinformatics.iyte.edu.tr/supplements/izmir\n- Open KNIME\n- On the left side of KNIME window, there is a box with LOCAL \\(Local Workspace) \\(Figure 1), right click to that area and “select import KNIME workflow” \\(https://tech.knime.org/workbench)\n- In the pop-up window select the directory where the downloaded workflows are and load them \n- Open the loaded workflow\n- The workflow has the input data \\(human miRNAs as positive and pseudo as negative)\nIf you do not want to generate new models or results you can explore already computed results by right clicking on the nodes and choosing the output table for display. \nIf you want to make modifications to the workflow you can click on the nodes and change their settings. Some example changes could be:\n- Change input data by clicking on File Reader nodes \\(positive or negative)\n- Change number of iterations for loop by going into Loop x-times meta-node and clicking on Counting Loop Start then setting the number\n- Changing sampling ratio by going into Loop x-times meta-node and in sampling meta-node changing partitioning node’s settings \n- Using your desired feature set; go into Loop x-times/studies. If you want to add another study with different feature set copy paste one of the meta-nodes \\(e.g. Ng) connect it in the same way as the existing ones. Right click and select Reconfigure to change meta-node name. Then go into your meta-node select filter \\(feature selection). Inside that meta-node, there are two column filter nodes; one for learning another for testing data, in these nodes select your choice of features. In classifier and CombineLearnedStats meta-nodes you should do renaming since they would be set to Ng in this instance. \nPrediction",
+    "The prediction workflow requires a column named \"Accession\" for joining. If your data has no such columns you can use RowID node to create unique accession values.\nFigures\nFigure 1. Overall training workflow \nFigure 2. MCCV and model generation\nFigure 3. Sampling.\nFigure 4. Studies \\(feature groups).\nFigure 5. Feature selection and application of 3 classifiers.\nFigure 6. Model sorting, selection and saving as PMML files. \nFigure 7. Prediction workflow.\nFigure 8 Prediction Meta-node\n \nFigure 9 Decision Tree/Naïve Bayes Meta-node\n \nFigure 10 Consensus Result Meta-node\n \nFigure 11 Consensus Model Meta-node\n \nFigure 12 Visualization Meta-node"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Genetics",
+    "Computational Biology And Bioinformatics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

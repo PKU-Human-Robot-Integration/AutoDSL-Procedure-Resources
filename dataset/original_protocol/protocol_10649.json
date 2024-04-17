@@ -1,0 +1,15 @@
+{
+  "id": 11060,
+  "origin_website": "Jove",
+  "title": "An Improved Method for the Preparation of Type I Collagen From Skin",
+  "procedures": [
+    "Here we will demonstrate the isolation of COL1 from lamb skin.  As written, this protocol can also be used to successfully isolate COL1 from rabbit and human skin.\n1. Prepare Dermal Sample\nEquilibrate all reagents to 4 °C prior to use.\nRinse dermal sample (25-50 g) in ice-cold dH2O and remove any wool, fur, or hair with depilatory cream.\nUse a single-edge razor blade to scrape the sample clean of connective tissue and fat.\nRinse the sample in ice-cold dH2O.\nSlice the skin sample into 1 cm x 1 cm pieces with a single-edge razor blade.\n2. Remove Noncollagenous Solubilized Material\nWeigh out 5 g of sample per 50 ml conical tube and add 30 ml of ice-cold 0.5 M sodium acetate.\nMix tubes for 1 min at the 6 m/sec setting using a 50 ml tube adaptor in the bench-top homogenizer.\nDiscard supernatant and repeat for a total of 7 sodium acetate wash cycles.\nRinse the sample in ice-cold dH2O and mix once to remove residual sodium acetate.\nUse a spatula to compress the sample against the side of the tube to remove excess liquid and then transfer to a fresh 50 ml conical tube.\n3. Type I Collagen Extraction\nWash the sample twice in 2 ml/g 0.075 M sodium citrate buffer for 1 min at 6 m/sec in the bench-top homogenizer compressing the sample and discarding the supernatant after each wash.\nAdd a fresh 2 ml/g aliquot of 0.075 M sodium citrate buffer to the sample.\nPerform 6 sequential 1 min, 6 m/sec bench-top homogenizer mix cycles of agitation without removing the buffer between each cycle.\nTransfer the thick, clear supernatant to a collection tube.\nAdd an additional 1 ml/g 0.075 M sodium citrate buffer to the sample and perform one final bench-top homogenizer agitation cycle.",
+    "Add this final supernatant to a collection tube.\nCentrifuge the collection tube at 3,200 x g for 10 min at 4 °C.\nTransfer the supernatant to the top compartment of a 100,000 molecular weight cut off centrifugal filter device.\nCentrifuge at 3,200 x g for 30 min at 4 °C.\nTransfer the purified COL1 from the upper compartment to a clean conical tube and store at 4 °C.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Bioengineering"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

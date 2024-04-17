@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "origin_website": "Nature",
+  "title": "Serum Collection Procedure \\(Small Scale) for the analysis of extracellular RNA",
+  "procedures": [
+    "1. Sample should be processed, aliquoted and placed into the freezer within 2 hours of collection.  \n  2. Collect 10 ml whole blood by peripheral venipuncture using a 21 gauge butterfly needle into a serum vacutainer tube.\n  3. Store tube upright for 10-30 minutes at room temperature<sup>1</sup>, to allow blood to clot.\n  4.  Centrifuge tubes at 500 xg for 10 minutes at room temperature.\n  5. Transfer the serum to a fresh 15 ml centrifuge tube.  Avoid the red cell layer \\(the dark layer at the bottom).\n  6.   Centrifuge tubes at 2000 xg for 10 minutes at room temperature.\n  7.   Using a fresh pipet, transfer the top 80% of the serum, avoiding any material at the bottom of the tube, to a fresh 15 ml tube.\n  8.  Transfer 1 ml of serum into each screw-cap microcentrifuge tube. \n  9. Place the 1 ml aliquots into a -80°C freezer for storage."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 934,
+  "origin_website": "Nature",
+  "title": "Biotinylation by antibody recognition",
+  "procedures": [
+    "Day 1:\n1. Fix sample with 4% formaldehyde in PBST for 10 minutes at RT.\n  2. Wash twice with PBST.\n  3. For SILAC: Calculate cell number or protein concentration and mix equal amounts into a single tube.\n  4. Permeabilize for 7 minutes in PBS with 0.5% triton X-100.\n  5. Wash with PBST.\n  6. Add H2O2 to 0.5% for 10 minutes, wash twice with PBST.\n  7. Block with 1% BSA in PBST for 2 hours, shaking.\n  8. Stain with primary antibody \\(for example MAB3211 \\(1:500)) overnight at 4C.\n  \nDay 2:\n9. Wash samples over 1 hour in PBST with at least 3 buffer changes.\n  10. Add Secondary HRP antibody at 1:1000 in 1% BSA for 1 hour.\n  11. Wash samples over 2 hours in PBST with at least 3 buffer changes.\n  12. Pre-incubate with 3ul TSA \\(Tyramide Signal Amplification) reagent for 5 minutes. Replace buffer with 150ul reaction buffer and incubate for 1-7m \\(longer incubation will result in stronger signal, but also more non-specific binders). Stop reaction with 1ml 500 mM sodium ascorbate.\n  13. Wash three times with PBST.\n  14. Validate labeling by immunofluorescence of subsamples. Add a red secondary fluorescent ab, DAPI, and FITC-streptavidin and incubate for 30 minutes at RT. Wash samples over 1 hour in PBST with at least 3 buffer changes. Mount subsamples on slides with vectashield. Labeling worked if strong green \\(biotin) signal is seen co-localizing with the red signal from the secondary fluorescent antibody.\n  15. Adjust volume to 0.1ml PBST, add 30ul of 10% SDS and 20ul of sodium deoxycholate 10% \\(optional), heated for 99C for 1 hour with mild shaking.\n  16. Centrifuge at max speed for 5 minutes.",
+    "17. Adjust supernatant volume to 1ml with PBST and add 250ul of pre-washed streptavidin beads. Incubate for 2 hours at RT. Keep unbound. For beads: wash once with PBST, twice with PBST with 1M NaCl, and twice more with PBS \\(Not PBST).\n  18. Move beads to new tube. Reduce volume to 100ul, subsamples \\(~10%) can be used for Western validations. For westerns with streptavidin-HRP, a very strong signal, either of multiple bands or of a smear, is expected.\n  19. Precipitate unbound proteins by adding 6 volumes of cold acetone with 10mM NaCl and placing in -20C for 1 hour, followed by centrifugation at 14,000 rpm for 15 minutes.\n  \nMass-spectrometry:\n20. Resuspend beads/pellet in 90 µl 50 mM ABC \\(ammonium bicarbonate) and add 2 µl 500 mM DTT. Incubate beads for 30 minutes at 37C with mixing, unbound for 30 minutes at 56C. For TMT use TAEB instead of ABC.\n  21. Spike all samples with 10 µl 550 mM Iodoacetamide and leave a further 20 minutes at RT, with mixing and in the dark.\n  22. Pellet beads and wash twice with 200 µl 50 mM ABC. Spike unbound with 20 µl 100 mM DTT.\n  23. Resuspend beads in 200 µl of 50 mM ABC containing 2 µg of trypsin and incubate overnight at 37°C with mixing. Add 2 µg of trypsin to unbound.\n  \nNext day:\n24. Add an additional 1 µg of trypsin to each sample and incubate for a further 2 hours at 37°C.\n  25. Pellet the beads at low speed and transfer the supernatant to a fresh tube.\n  26. Rinse the beads with 150 µl of HPLC-grade H20 and combine with the rest of the supernatant.",
+    "27. \\(Optional - no longer recommended; can rinse again with water instead) Rinse the beads with 150 µl 1% trifluoroacetic acid \\(in H2O) and combine with the rest of the supernatant. Add 5 µl 100% trifluoroacetic acid to the unbound.\n  28. Spin the pooled eluant at 14,000 rpm for 2 minutes and transfer supernatant to a fresh tube.\n  29. Reduce sample volume in the vacuum centrifuge, Zip Tip.\n  Send for mass spec or keep at -80C."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

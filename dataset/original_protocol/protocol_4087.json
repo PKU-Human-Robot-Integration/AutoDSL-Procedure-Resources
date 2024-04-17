@@ -1,0 +1,16 @@
+{
+  "id": 4292,
+  "origin_website": "Bio",
+  "title": "DNA PCR Assays for Igh Rearrangement",
+  "procedures": [
+    "Genomic DNA was prepared for PCR by lysing mouse spleen cells (1-4 x 104) or ES-derived hematopoietic cells (3-5 x 105) in 75 µl elution solution. See the manufacturer's protocol (http://www.5prime.com/media/3415/perfectpure dna cultured cell manual_5prime_1064553_122010.pdf[href=http://www.5prime.com/media/3415/perfectpure dna cultured cell manual_5prime_1064553_122010.pdf]).20 µl PCR reactions contained 5.5 µl template (82.5 ng or less), 10 mM Tris-HCl, 50 mM KCl, 2.0 mM MgCl2, 1 µM primers (25 mers), 200 µM dNTPs and 1 U Taq DNA polymerase.PCR programa.94 °C – 2 minb.94 °C – 1 minc.60 °C – 1 mind.72 °C – 1.75 mine.Repeat steps b-d, 35xf.72 °C – 10 minHalf of each PCR products were electrophoresed on 1% agarose gels, and their amounts were evaluated by staining with ethidium bromide.DH-JH recombination was detected as amplified fragments of 1,033 bp, 716 bp and 333 bp using a primer DHL(5’) and J3(3’). Germline alleles were detected as an amplified fragment of 1,259 bp using a primer Mu0(5’) and J3(3’)."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8139,
+  "origin_website": "Bio",
+  "title": "Analyzing Inhibitory Effects of Reagents on <em>Mycoplasma</em> Gliding and Adhesion",
+  "procedures": [
+    "M. mobile Cultivate M. mobile cells in a growth medium (Aluotto medium) at 25 °C incubator to mid log phase.Collect the cells in mid log phase at 0.03-0.08 of OD600, by centrifugation at 13,000 x g for 4 min at RT and suspend them in the Aluotto medium to be OD600 = 1.0.Wash the cells three times by centrifugation followed by suspension, and resuspend the cells with PBS-G buffer by the same volume with the Aluotto medium used in A-2.Prepare a tunnel chamber (5 mm interior width, 18 mm length, 60 μm wall thickness) composed of a coverslip, a glass slide, and double-sided tapes (see Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130714/20130714050011_2237.pngFigure 1. Tunnel chamberimgsrc:https://en-cdn.bio-protocol.org/attached/image/20130714/20130714050401_9949.pngFigure 2. Appearance of Mycoplasma cells (Bar 10 mm) Insert 10-50 μl of the cell suspension into the tunnel chamber to fill the tunnel.Observe the cells bound to the coverslip with microscope with a 100x phase-contrast objective lens with video recording (see Figure 2 left).Replace the PBS-G buffer with the buffer containing the interested reagents (i.e. sialylated compounds, monoclonal antibody, etc.). Put the buffer on one side of tunnel and suck the buffer from the other side using a filter paper.Count the number of bound cells by a command “analyze > analyze particles” of ImageJ, an image analyzing software. Unbound cells are in Brownian motion and cannot be counted by this Image J command, owing to the insufficient image density.M. pneumoniae Cultivate M. pneumoniae cells in Aluotto medium at 37 °C incubator to mid log phase. The density of cells is not detectable because the cells are not floating in the medium. However, the density in mid log phase should be 0.02-0.05 at OD600, if the cells are suspended into the medium.Replace the medium by 2-5 times smaller volume of PBS containing 10% horse serum.",
+    "Scrape the bottom of culture flask to release Mycoplasma cells into the solution, because the cells adhere to the flask bottom tightly.Recover the cell suspension.Filter the suspension through a membrane filter unit with a 0.45 μm-pore size.Prepare a tunnel chamber.Insert 10-50 μl of the cell suspension into the tunnel chamber to fill the inside.Incubate the tunnel chamber for 60 min, with facing of coverslip-side to the stage heater. The water evaporates only slightly in Japanese climate, but the tunnel chamber should be cover by a lid of Petri dish.Observe the cells bound to the coverslip by the microscope with a 100x phase-contrast objective lens heated by the lens heater, with video recording (see Figure 2 right).Replace the buffer with the buffer containing the interested reagents. Put the buffer on one side of tunnel and suck the buffer from the other side using a filter paper. Count the number of bound cell by a command “analyze > analyze particles” of ImageJ, an image analyzing software."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

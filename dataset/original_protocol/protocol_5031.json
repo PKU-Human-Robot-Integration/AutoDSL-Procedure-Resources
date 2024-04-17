@@ -1,0 +1,16 @@
+{
+  "id": 5351,
+  "origin_website": "Bio",
+  "title": "Quantification of Triphenyl-2H-tetrazoliumchloride Reduction Activity in Bacterial Cells",
+  "procedures": [
+    "Growth of bacterial cellsPure cultures of S. meliloti 1021 stored at -80 °C were taken by sterile loops, inoculated in 15-ml round-botton tubes containing 2.0 ml of TYR medium and incubated for 24 h at 30 °C on a rotary shaker (200 rpm). Aliquots of the cultures (0.15 ml) were transferred into 50-ml conical centrifuge tubes containing 15 ml of fresh TYR medium (OD600 = 0.2) and the optical density measured at 600 nm using a spectrophotometer and cuvettes for spectrophotometry application in the visible spectrum. When the cultures reach the exponential growth phase (OD600 = 0.7), which requires about 4 h of incubation, stop the growth and split the cultures in 10 ml for biomass evaluation and 1.5 ml for TTC reduction measurement.TTC assayCentrifuge the 10 ml bacterial cultures in 15-ml polypropylene round-bottom at 5,000 x g for 20 min (at room temperature) and discard the supernatant.Incubate the cells at 65 °C in an oven for 4 h until dryness and weigh the cells with a balance.Centrifuge the 1.5 ml bacterial cultures in 2-ml Eppendorf tubes at 8,000 x g for 5 min (at room temperature) and discard the supernatant.Wash the bacteria with 1 ml of 50 mM sodium phosphate buffer (pH 7.5), centrifuge at 8,000 x g for 5 min (at room temperature) and discard the supernatant.Resuspend the cells in 1 ml of 50 mM sodium phosphate buffer (pH 7.5) containing 24 mM 2,3,5-triphenyl-2H-tetrazolium chloride (TTC) and incubate at 30 °C for 1 h on a rotary shaker at 200 rpm (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170117/20170117191351_4597.jpgFigure 1. Picture of the cell suspensions after 1 h of incubation at 30 °CCollect the cells by centrifugation at 8,000 x g for 5 min (at room temperature) and discard the supernatant (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170117/20170117191514_0930.jpgFigure 2.",
+    "Picture of the bacterial cells after the centrifugation step Resuspend the cells thoroughly in 1 ml 99.5 % DMSO (at room temperature) to dissolve the produced formazan.Spin down the bacterial cells by one-minute centrifugation at 13,000 x g (at room temperature) and collect the supernatants.Prepare formazan standard solutions at different known concentrations dissolving the powder in 99.5 % DMSO.Read the absorbance of the samples (supernatants) and formazan standards at 510 nm using a spectrophotometer. Use the 99.5 % DMSO as blank control.Plot the calibration curve of the formazan standards (mg/ml) against the absorbance of the solutions at 510 nm. Determinate the amount of formazan produced from reactions with the bacterial cells directly from the formazan calibration curve.Normalize the data to cell biomass (g) corresponding to 1.5 ml bacterial cells and determine the amount of formazan produced per g cells."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1363,
+  "origin_website": "Nature",
+  "title": "<p>Mouse Behavior in Virtual Reality System under Optogenetic Manipulation via UCNPs</p>",
+  "procedures": [
+    "<p>1. Mouse was injected with viruses in M2 area.</p><p>2. Titanium alloy head bar was implanted opposite to the virus injection side with two skull screws and dental cement before behavior training. </p><p>3. After 3-day recovery, mice were trained to run on a jetball with one-dimension corridor or two-dimension open field scene displayed on VR system screens. The one-dimension corridor was 200 m long and two-dimension open field was 20 m x 20 m. </p><p>4. Head-fixed mice ran on the jetball for 2 min per session under the conditions of no NIR light, NIR light at 808 nm, 980 nm, 808&amp;980 nm, and 808&amp;980&amp;1532 nm, respectively. </p><p>5. For independent multi-color modulation, the power density of NIR light at 980 nm was increased while the power density of NIR light at 808 nm was constant. </p><p>6. Mice would rest for more than 5 min for next trials, and the trial orders were randomly chose. Running distances of mice were recorded and measured.</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

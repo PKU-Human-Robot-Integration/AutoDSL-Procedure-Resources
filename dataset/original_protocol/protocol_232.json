@@ -1,0 +1,19 @@
+{
+  "id": 246,
+  "origin_website": "Nature",
+  "title": "A simple protocol for extraction, derivatization, and analysis of tomato leaf and fruit lipophilic metabolites using GC-MS",
+  "procedures": [
+    "**Harvesting of plant tissue  \\(leaves or fruits)**\n1) Harvest the tissue \\(500mg-1.0g) from plant under the desired experimental condition.\n2) Immediately freeze the tissue by immersing in liquid nitrogen.\n3)  Frozen tissues can be freeze dried. Lyophilized tissue can be stored at -80°C for several weeks or processed immediately.\n **Organic extraction**\n1) Transfer a known amount of lyophilized tissue, typically 300-500mg in a glass vial with cap.\n2) Add 10µl of internal standard 5α -cholest 7en-3β-ol \\(1mg/ml stock) to the vial. \n3) Add 3.75ml of CHCl3: methanol \\(1:2) and vortex vigorously. \n4) Add 1.25 ml of CHCl3 and vortex well. \n5) Add 1.25 ml of dH2O and vortex once again. \n6) Transfer bottom organic phase to a fresh vial with the help of a pipette. The solvent should be allowed to evaporate completely at 35⁰C.\n**Critical step**: Weighing of the tissue should be done immediately to avoid thawing.\n**Alkaline hydrolysis**\n1) Add 500 µl of 6% methanolic KOH \\(w/v) to the dried residue and incubate at 85⁰C for ½ -1 hrs. \n2) To it, add half the volume i.e. 250 µl of dH2O and then equal volume i.e. 750 µl of n-heptane and vortex well. \n3) Allow it to stand for sometimes till the layers get separated. Transfer upper phase to a fresh vial. Repeat the above step twice.\n4) Allow heptane to evaporate completely \\(16- 24hrs).\n**Derivatization**\nTo the dried residue, add 100 µl of derivatization reagent \\(80 µl BFSTA+20 µl TMCS) and incubate at 65⁰C for 1 hrs and inject in to GC-MS.\n**Critical step**: The most critical point is to avoid any water or moisture during derivatization especially the silylating step is highly vulnerable. \n**GC-MS analysis**",
+    "For GC-MS analysis 1µl of the sample is injected in split mode in the instrument. Use a Rtx5MS- 30m column with 0.25-mm ID and 0.25µm df. Following are the parameters standardized for GC-MS run:\n• Injection temperature: 300°C,\n• Interface temperature: 300°C, \n• Ion source should be adjusted to 250°C.\n• Carrier gas: Helium \\(flow rate of 1 ml min-1).\n• Perform the analysis using the following temperature program:\n1 min. of isothermal heating at 100⁰C followed by heating at 300⁰C for 20 mins.\n• Mass spectra were recorded at 2 scan sec-1 with a scanning range of 40 to 850 m/z. Quantify each component based on peak areas and normalization based on the internal standard."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Plant Sciences"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Ecology & Environmental Biology",
+    "Molecular Biology & Genetics"
+  ]
+}

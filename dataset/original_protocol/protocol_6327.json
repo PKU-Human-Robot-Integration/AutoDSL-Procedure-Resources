@@ -1,0 +1,15 @@
+{
+  "id": 6683,
+  "origin_website": "Bio",
+  "title": "Quantification of Mitochondrial Dynamics in Fission Yeast",
+  "procedures": [
+    "Preparation of S. pombe cells for imagingCulture the yeast cells overnight by adding a loopful of cells (that have grown for at least a day in solid YE media) into 1 ml of liquid YE with appropriate supplements. Grow the cells at 30 °C for 12 h at 200 rpm to OD600 of 0.4-0.9.Subculture 200 μl from the overnight culture into 1 ml of fresh medium and grow at 30 °C for ~2 h prior to imaging at 200 rpm. Cover the surface of a 35 mm (No. 1) glass bottom dish with 25% NaOH solution for ~2 h to make the surface hydrophilic. Wash the dish twice with sterilized water and wipe the surface with Kimwipes.Drop 2 μl of lectin (2 mg/ml in PBS) onto the dish and spread evenly using an inoculation loop.Allow the lectin to dry completely inside the laminar airflow at room temperature for 10-15 min.Meanwhile, wash cells once by spinning them down and resuspending them in 1 ml of EMM liquid medium.If cells are already expressing fluorescently-labeled mitochondria (e.g., Cox4-GFP/RFP), proceed directly to Step A10, else follow Steps A7-A9 below to stain mitochondria with MitoTracker dye.Dissolve MitoTracker Orange/DeepRed in DMSO at a concentration of 1 mM and dilute it in liquid EMM to a stock solution of 1 µM. This stock solution can be stored at -20 °C.On the day of the experiment, freshly prepare 200 nM of MitoTracker Orange/DeepRed from the stock solution by diluting with EMM. Incubate cells with 1 ml of 200 nM MitoTracker Orange/DeepRed solution for 15-30 min at 30 °C. After incubation, wash the cells thrice in 1 ml of liquid EMM to eliminate background fluorescence from unincorporated dye, and finally resuspend cells in 1 ml of liquid EMM medium.",
+    "Transfer 200 μl of cells resuspended in liquid EMM to the lectin-coated glass bottom dish.Incubate the cell suspension on the glass bottom dish for 10 min at room temperature.Wash out unbound cells and add 200 μl of liquid EMM to the dish.Image at room temperature (~25 °C).Obtaining time-lapse images to observe mitochondrial dynamicsTransfer cells to the stage of the confocal microscope.Visualize mitochondria labeled with GFP or RFP using the 488 nm and 561 nm laser lines along with 525/20 and 605/52 nm bandpass emission filters respectively. Alternatively, visualize mitochondria stained with the MitoTracker Orange using the 561 nm laser line along with the 605/52 nm bandpass emission filter. The signal-to-noise ratio must be at least 1.5.Capture mitochondrial dynamics by obtaining time-lapse images that are 12 s apart, for a total time of ~4 min, with Z-stacks for each timepoint with 0.5 µm step-size encompassing the full cell (~5 steps).Save the time-lapse images in an appropriate format, such as TIFF."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

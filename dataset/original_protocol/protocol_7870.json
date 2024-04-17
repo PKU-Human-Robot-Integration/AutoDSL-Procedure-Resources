@@ -1,0 +1,16 @@
+{
+  "id": 8279,
+  "origin_website": "Bio",
+  "title": "Immunocytochemical Detection of Recombinant Biomphalysin  on <em>Schistosoma mansoni</em> Sporocysts",
+  "procedures": [
+    "Collect 100 sporocysts and transfer to culture slide coated with poly-D-Lysine.    Centrifuge culture slide at 800 x g for 2 min.   Aspirate supernatant and fix sporocysts with 200 μl 4% PAF during 1 h at room temperature.   Centrifuge culture slide at 800 x g for 2 min and aspirate supernatant.   Wash twice with 200 μl PBS and repeat step 4.   Add 200 μl PBS/3% BSA and incubate for 2 h at room temperature without agitation.   Centrifuge culture slide at 800 x g for 2 min and aspirate supernatant.   Add 200 μl anti-His antibody diluted at 1:500 in PBS and incubate 1.5 h at room temperature with a shaking speed of approximately 12 oscillations per minute.   Wash three times with 200 μl PBS during 5 min with a shaking speed of 12 oscillations per minute and between wash, centrifuge culture slide.   Incubate sporocysts with 200 μl Alexa Flour 594-conjugated anti-mouse IgG diluted 1:1,000 in PBS/1% BSA for 45 min at room temperature and protect slides from light with a shaking speed of 12 oscillations per minute.   Repeat step 9.   Place 2 drops of Dako fluorescent mounting medium on slide and cover with a coverslip.   Leave mounted slide overnight at 4 °C and protect slides from light before observation.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131114/20131114060348_9193.jpg Figure 1. Immunolocalization of recombinant Biomphalysin on S. mansoni sporocyst. Sporocysts were treated or not with recombinant Biomphalysin (A : positive and B ; negative control, respectively) and immunostained using anti-His primary IgG and Alexa Fluor 594-conjugated secondary antibodies. Images 1 and 3 were taken under Nomarski light microscopy; images 2 and 4 under using a fluorescence confocal laser-scanning microscope (Zeiss LSM 700)."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

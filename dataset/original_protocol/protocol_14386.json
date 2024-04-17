@@ -1,0 +1,15 @@
+{
+  "id": 18212,
+  "origin_website": "Jove",
+  "title": "A Detailed Protocol for Physiological Parameters Acquisition and Analysis in Neurosurgical Critical Patients",
+  "procedures": [
+    "This protocol was approved by the Institutional Review Board of Renji Hospital, Shanghai Jiaotong University School of Medicine.\n1. Preparation of the Patient\nNOTE: ICP sensor is placed in the patient by a surgical operation (Figure 1). The sensor is placed in the epidural space, subdural space, parenchyma, or ventricular system.\nConnect the ICP monitoring machine with the bedside monitor via a specific communication cable.\nAdjust the reference of patient's bedside monitor, so that the data from the bedside monitor are in accordance with the ICP monitoring machine.\nPerform an arterial line placement on patient's left or right radial artery20.\nConnect the arterial line with the baroreceptor.\nConnect the pressure transducer with patient's bedside monitor via a communication cable.\nZero adjust the bedside monitor so that the measured blood pressure coincides with the actual value.\n2. Recording of Physiological Parameters\nConnect the patient's bedside monitor with the data collecting and storing device via a network cable.\nPress the power button to turn on the data collecting device.\nWait for a few seconds until the multimodality monitoring software runs automatically.\nEnter the information of the patient, including the name, ID, diagnosis, and initial Glasgow Coma Scale (GCS).\nClick the \"Save and start monitoring\" button to start data collecting and storing.\nClick the \"Turn off\" button on the screen at the end of the data acquisition (Figure 2).\nEnter the final GCS.\n3. Parameter Analysis\nDump the stored data to a U-disk through universal serial bus (USB) interfaces on the host.\nEnter a user name and password to log in to the analysis server.\nClick the \"Create new record\" button and select the data file in the U-disk to start uploading.\nWait for around 10 to 20 min before the data are analyzed (depending on the data size).",
+    "Click the \"Detail\" button of each record to see the result.\nClick the \"Chart viewing\" to see the final diagram.\nDrag the timeline to see more detail.\nClick the \"scattergram\" button to see the distribution of the parameters.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

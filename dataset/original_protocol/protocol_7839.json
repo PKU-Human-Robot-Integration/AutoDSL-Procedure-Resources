@@ -1,0 +1,14 @@
+{
+  "id": 8247,
+  "origin_website": "Bio",
+  "title": "Hypertrophy Analysis and Quantification in Embryonic Cardiomyocites",
+  "procedures": [
+    "Embryos are fixed in 4% PFA and embedded in paraffin. (Mouse embryos are fixed ON at 4 °C and embedded in paraffin after dehydration with Ethanol and Xylene. E16.5 embryos were dehydrated 45 min ethanol 50%, 45 min ethanol 70%, 45 min ethanol 80%, 45 min ethanol 90%, 45 min ethanol 95%, 30 min ethanol 100%, 30 min ethanol 100%, 30 min xylene and 3 times 1-hour paraffin before orientation. Everything at room temperature but the paraffin which is done in a stove at 65 °C)Rehydrate the sections (65 °C 20 min, xylene 5 min, xylene 5 min, ethanol 100% 5 min, ethanol 100% 5 min, ethanol 96% 5 min, ethanol 90% 5 min, water 5 min). Wash with Distilled water 5 minutes three times at room temperature.Wash with 1x PBS 5 min twice at room temperature.Incubate WGA (1:100) 45 min at room temperature in humid chamber.Wash with 1x PBS 5 min three times.Incubate with DAPI (1:1,000) 10 min at room temperature in humid chamber and in darkness.Wash with 1x PBS 5 min twice.Mount with fluorescence mounting media (store at 4 °C in darkness before analysis).Make pictures under the microscope.Analyse pictures measuring the cell area using ImageJ. Measure at least 100 cells per section and three sections per embryo. Below image example of compact myocardium with the membranes stained with WGA where the relative area was measured. Myocites are identified ignoring the endocardial and endothelial cells, these cells form a monolayer covering the cardiomyocites. Cells within the myocardial wall are measured.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131012/20131012051302_1095.jpgFigure 1. 7 µm transverse sections of a E15.5 WT heart stained with fluorophore-coupled wheat-germ agglutinin (WGA)"
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

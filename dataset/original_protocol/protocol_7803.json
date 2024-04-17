@@ -1,0 +1,15 @@
+{
+  "id": 8210,
+  "origin_website": "Bio",
+  "title": "Choline Uptake Assay in Bacterial Cells ",
+  "procedures": [
+    "For radioactive choline uptake analyses, cultures of bacteria grown in an appropriate minimal medium (MM) at mid log phase were harvested, washed three times with ice-chilled MM and adjusted to an optical density at 600 nm (OD600) of 0.5 with fresh MM. Note: Bacterial culture is harvested at OD600= 1-1.2 that correspond to a mid log phase for Brucella under this growth conditions.    Reactions were initiated by addition of [3H]-choline chloride (80.6 Ci/mmol) to a final concentration of 3.3 μM, incubated at 37 °C and aliquots (around 300 μl) were taken at different time points (0 to 30 min).    Samples were immediately chilled on ice, washed five times with the same volume of ice-chilled MM, centrifuged at 10,000 x g, 15 min at 4 °C and cell pellets were resuspended in 500 μl of scintillation liquid.    The radioactivity in the cell pellet was determined with a liquid scintillation spectrometer.    To assess uptake kinetics at different choline concentrations, bacteria were incubated 7 min at 37 °C in MM with a mix of [3H]-choline/cold choline (1:100) ranging from 6.25 x 10-2 μM to 64 μM (total choline concentration) and incorporated radioactivity in the cell pellet was determined as describe above."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

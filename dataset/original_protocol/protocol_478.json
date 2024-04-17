@@ -1,0 +1,15 @@
+{
+  "id": 512,
+  "origin_website": "Nature",
+  "title": "Analysis and prediction of antibacterial peptides.",
+  "procedures": [
+    "Type the following URL in your web browser \"http://www.imtech.res.in/raghava/antibp/\":http://www.imtech.res.in/raghava/antibp. Now a user can choose either to do prediction of antibacterial peptide or map known antibacterial peptides onto his query sequence. \nAntibacterial peptide prediction: \n1. Click on \"Submit\" button in menu on the left.\n  2. Now the user is required to fill the submission form as follows:\n  a) Name of the Peptide sequence: This field is optional.\nb) Paste your sequence: Paste your query peptide sequence in any of the standard format \\(FASTA, PIR, EMBL etc.) or amino acid sequence in single little code. \nc) Or Upload sequence file: User can also upload the peptide sequence directly from a file.\nd) Terminus: The user shall select a terminus \\(N, C or N+C) for which the prediction shall be made for.\ne) Method: The user must also select the method of prediction to be implemented.\nf) Click the Submit button to get the results.\nPeptide Mapping:\n1. Click on &#x201C;Peptide mapping&#x201D; button in the menu on the left.\n  2. Paste your peptide sequence in plain single letter amino acid code.\n  3. Enter the similarity cut off percentage on which you want to perform the mapping. \n  4. Click the submit button."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

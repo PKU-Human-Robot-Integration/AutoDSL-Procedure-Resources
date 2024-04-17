@@ -1,0 +1,16 @@
+{
+  "id": 6484,
+  "origin_website": "Bio",
+  "title": "Transient Expression Assay in Strawberry Fruits",
+  "procedures": [
+    "Grow strawberry plants in the growth room for 3 to 4 months until the flowers open.Pollinate the flowers manually; wait until the fruits develop to the large green stage, at about 15-20 days post pollination when the receptacle starts to turn soft. Transform the 35S::FveMYB10 construct (binary vector pK7WG2D) into the Agrobacterium tumefaciens strain GV3101, or use the Agrobacterium stock stored in the ultra-low temperature refrigerator. Pick a single positive colony and put into 2 ml of the liquid LB medium with the appropriate selective antibiotics, in this case, Gent + Rif + Spec. Shake the culture overnight (~12-16 h) at 28 °C at the rate of 220 rpm. (Optional) Amplify the fragments in the vector by regular PCR to make sure that the culture is correct. Spin down the culture at 2,500 x g for 5 min, discard the supernatant. Suspend the culture with the injection buffer (MS salt + 2% sucrose) to reach a final OD600 of 0.8.Note: One milliliter cell suspension is enough for injecting 5-8 fruits. Two milliliters of culture usually makes 4 ml of cell suspension. The volume of the Agrobacterium culture could be increased if more injections are required. Use a 1 ml hypodermic syringe to do the injection immediately. Suck up the solution into the syringe, insert the needle tip into the center of the fruit from the apex, and gently press the syringe to release the solution. For a big fruit, such as that of the cultivated strawberry, more injections in other parts of the fruit are sometimes required to make the entire fruit soaked with the solution (Video 1).Note: Inject at least 10 fruits for each construct. Use fruits infiltrated only with the injection buffer as the negative control.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1.",
+    "Procedure for the fruit injection as stated in Step 7 Write down the construct name and the date on the tag, and tie the tag around the fruit stem. Put the plants back to the growth room, and let the fruit grow for about one week.Note: Fruit coloration may start to show at about 3 days post injection. Examine the fruit color and the GFP signal (if necessary) using the fluorescence dissecting stereomicroscope. Take pictures or collect tissues for downstream analysis.Note: Cut the fruit in order to observe the internal phenotypes. If necessary, the GFP fluorescence can be used as a guide for collecting tissues for downstream analysis."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

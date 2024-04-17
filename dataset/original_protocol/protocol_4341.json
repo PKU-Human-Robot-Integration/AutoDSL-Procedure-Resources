@@ -1,0 +1,16 @@
+{
+  "id": 4558,
+  "origin_website": "Bio",
+  "title": "Induction of Tigecycline Resistance in <em>Acinetobacter baumannii</em>",
+  "procedures": [
+    "Fetch the A. baumannii ATCC 17978 stock stored at -80 °C, scrape the surface of the frozen stock, and plate it on a LB agar.   Put the LB agar in the 37 °C incubator overnight.   Dissolve a single colony of A. baumannii from the overnight culture in 3 ml LB broth and incubate overnight at 37 °C, 220 rpm.   On day 1, 3 ml of LB broth containing tigecycline at the MIC, which is determined by the protocol “Minimal Inhibitory Concentration (MIC) Assay for Acinetobacter baumannii[href=http://www.bio-protocol.org/e1308]” (Lin et al., 2014b), is inoculated with 30 μl broth containing A. baumannii (step 1), and the cultures are incubated at 37 °C with shaking (220 rpm) overnight.  Note: The choice of the volumes 30 μl and 3 ml is aimed to keep 1:100 dilutions. If other volumes or dilution ratios are used, it may lead to the change of tigecycline resistance induction time.   On day 3, 30 μl of the culture is transferred to 3 ml of LB broth containing tigecycline at 8x MIC (step 2), and the cultures are again incubated at 37 °C with shaking (220 rpm). If no bacterial growth is noted from step 1, lower the tigecycline concentration to half of the 8x MIC, then repeat step 1.   On day 5, 30 μl of the culture is transferred into LB broth containing tigecycline at 16x MIC (step 3), and the cultures are again incubated at 37 °C with shaking (220 rpm).    This passaging is repeated on day 7 (step 4).    On day 9, aliquots (0.5 ml) of the cultures are mixed with 0.5 ml 20% glycerol and stored at -80 °C until use.",
+    "Daily passaging in tigecycline-free LB is conducted for 30 days after the tigecycline resistant strain is obtained to make sure the induction of tigecycline resistance is successful and long-lasting."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

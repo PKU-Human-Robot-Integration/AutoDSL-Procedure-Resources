@@ -1,0 +1,15 @@
+{
+  "id": 5917,
+  "origin_website": "Bio",
+  "title": "Behavioral Assays to Study Oxygen and Carbon Dioxide Sensing in <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "Growth and synchronization of C. elegans populationsRecommendation: For each strain, pick 4 larval stage 4 (L4) hermaphrodites onto 4 maintenance plates every day (4 worms per plate), and use the following generation in the assay: For transgenic extrachromosomal strains, more than 4 transgenic L4s should be picked to ensure enough transgenic worms are available for the assay. In addition, for mutants with a lower brood size than wild type, a higher number of worms must be picked for synchronization.Pick approximately 150 L4/young adult worms to a starvation plate (not seeded with OP50 E. coli). So that bacteria are not transferred to the empty plate, do not pick using bacteria, instead use the worm pick as a spoon to transfer worms that have crawled off the bacterial lawn.Note: Worms should not be prepared by washing off a plate with M9 buffer, as behavioural assays are very sensitive to stress.Allow worms to starve for 1 h. Feeding status strongly affects behavioral responses to O2 and CO2, therefore, the starvation must be conducted for the same length of time for each strain tested. Furthermore, well-fed N2 worms do not respond to downshifts in O2 (Zimmer et al., 2009).Prepare the assay plate (Figure 5)Cut a 56 x 56 mm squared area (a hole puncher may be used) in the center of the Whatman filter paper. Place the filter paper on top of the behavioral assay plate (14 cm NGM assay plate).Soak the filter paper at the border of the square with 20 mM CuCl2 to corral worms within the assay area.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180103/20180103021748_9307.jpgFigure 5. Illustration of the assay plate. 14 cm NGM assay plate containing a 56 x 56 mm arena of Whatman filter paper soaked in 700 μl of 20 mM CuCl2.",
+    "Hermaphrodites are placed in the arena and the assay chamber is carefully positioned on top of the plate.Spoon the worms from the starvation plate to the centre of the assay plate. Note: Be careful not to damage the agar as worms will burrow.Place the assay chamber on top of the assay plate. It is important that the 56 x 56 mm square within which the worms are located fits within the square of the chamber.Connect gas tubes to the chamber and start the gas flow with atmospheric concentrations (or alternatively with your desired starting conditions). Allow the gas to flow for at least 5 min prior commencing your experiments. Record videos while running the chosen gas concentration test. Note: To assay O2 and CO2 sensing, balance the concentrations with N2. For testing acute O2 sensing, we suggest the following timings for each condition: 6 min 21%O2/79%N2–6 min 10%O2/90%N2–6 min 21%O2/79%N2. For testing acute CO2 sensing, we suggest the following timings for each condition: 6 min 21%O2/79%N2–6 min 21%O2/78%N2/1%CO2–6 min 21%O2 79%N2."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

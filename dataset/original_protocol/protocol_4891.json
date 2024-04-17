@@ -1,0 +1,16 @@
+{
+  "id": 5203,
+  "origin_website": "Bio",
+  "title": "Detection of Wnt5 in Media Conditioned by Mouse Embryonic Fibroblast",
+  "procedures": [
+    "Cell culture/transfectionCulture wild type MEF and Rab8a-/- MEF cell lines in DMEM + 10% FBS until 90-95% confluent in a 10 cm Petri dish.Replace DMEM + 10% FBS with DMEM supplemented with 12 ml of 1x lactalbumin hydrolysate solution (LAH).Monitor the morphology of cells over the next 48 h. After 48 h, collect the conditioned media in a 50 ml centrifuge tube and spin down at 10,000 x g at 4 °C for 10 min. Transfer the supernatant into a clean tube and immediately proceed with step B1 for maximum yield. Supernatant can be frozen and used after thawing but is generally not recommended. Wash Petri dish with 1 ml of 1x PBS. Repeat wash.Subsequently add 1 ml of 1x lysis buffer to Petri dish and lay flat on ice for 15 min.Keeping the Petri dish on ice, collect the cell lysate using a cell scraper and transfer to a 1.5 ml microcentrifuge tube.Sonicate cell lysate briefly (no more than 1 or 2 sec at a time for 3 cycles) and then centrifuge at 13,300 x g at 4 °C for 10 min.Transfer supernatant to a clean microcentrifuge tube and store at -80 °C.Centrifugation of conditioned mediaTake the conditioned media and add it to the Amicon Ultra-15 centrifugal filter.Centrifuge the filtration device at 4,000 x g at room temperature for 90 min.Use a 200 µl pipette to recover the concentrate. For maximum recovery, collect the concentrate immediately. Expect roughly, 180 µl of concentrated media from collection.Save the concentrate at -80 °C. Aliquot can remain frozen for up to a year.Western blot detectionMeasure protein concentrate using Bradford assay (Bio-Rad reagent protocol). Use lysis buffer as a blank for protein measurements.Prepare 30 µg of total protein samples in 1x LDS sample buffer.",
+    "Run samples in 10% SDS-PAGE gel at 80 V and immediately stop when dye runs off gel.Transfer protein onto a 0.45 µm PVDF membrane. Setup a transfer apparatus and run at 300 mA for 90 min.After transferring, take the PVDF membrane and block using 5% skim milk in PBST. Leave the membrane for blocking at room temperature on a shaker for 1 h.Subsequently, take the membrane and incubate overnight in a 1:1,000 dilution of anti-mWnt5a/b antibody at 4 °C. Dilute antibody in 5% skim milk in PBST.After 16 h of incubation in primary antibody, wash membrane in PBST and place on a shaker for 10 min. Repeat two more times for a total of three washes.Incubate with anti-rabbit antibody at a 1:2,000 dilution at room temperature for 1 h. Dilute antibody in 5% skim milk in PBST.Wash membrane in PBST and place on a shaker for 10 min. Repeat two more times for a total of three washes.Apply ECL reagent to membrane for 5 min.Proceed to expose x-ray film for 30 sec and develop."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6200,
+  "origin_website": "Bio",
+  "title": "Plastic Embedding and Sectioning of Plant Tissues",
+  "procedures": [
+    "Fixation: Cut and fix plant tissues in fixative solution for 2 h, then vacuum for 15 min without shaking. If the tissues did not sink, re-infiltrated for another 10 min. The tissues can be stored at 4 °C over night.   Rinse: Rinse the entire samples in 0.5 M NaPO4 buffer, and then wash tissues in 0.5 M NaPO4 buffer for 3 times; 15 min each at 4 °C. Add enough NaPO4 buffer to cover the entire tissues.   Post-fix: Transfer samples to 1% Osmium (OsO4) in 0.5 M NaPO4 buffer for 1 h in the dark. The samples should be immersed in the post-fixative solution. The tissues can be kept for another hour in post-fixative solution until they all turned black.   Wash without changing container: 3 times in ddH2O; 10 min each at 4 °C on a rotating shaker.    Dehydration without shaking: Dehydrate the tissues in a graded ethanol series as below: 12.5% ethanol, 10 min 25% ethanol, 10 min 35% ethanol, 10 min 50% ethanol, 10 min 70% ethanol, 10 min 80% ethanol, 10 min 95% ethanol, 10 min 100% ethanol, 10 min (twice) 100% acetone, 10min (twice)   Infiltration: To damp the old solution and exchange the 100% ethanol with acetone-resin mixture as following steps: Acetone: resin (1:1) 1 h Acetone: resin (1:2) 1/2 h 100% resin 1 h 100% resin over night on shaker   Polymerize: Put samples in gelatin capsules filled with 100% fresh resin, leave samples at 50 °C for 60 h. Once the resin was solidified, the capsules can be kept at 4 °C for a few weeks.   Blocks can be trimmed and cut with glass blade or jewelers saw depending on what shapes were required for light or electron microscopy. To position the blocks depend on the dimension (cross, transverse, longitudinal) section layout was required.",
+    "The sections were picked up and floated out on 30% acetone on a warmer plate (42 °C) until dry."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7704,
+  "origin_website": "Bio",
+  "title": "Assay for Protealysin-like Protease Inhibitor Activity ",
+  "procedures": [
+    "Prepare assay buffer and substrate and protein (PLN and M4in) stock solutions.Add 120 μL of the substrate solution into the wells of a black 96-well plate (see Note 1).Incubate the plate in a microplate reader at 37 °C for 10 min (see Note 2).Remove 30 µL of the substrate solution from each well.Preheat the assay buffer and protein stock solutions in a thermostat at 37 °C.Add inhibitor solution or assay buffer into the wells according to Table 1:15 μL of inhibitor solution for inhibition test.15 μL of assay buffer for enzyme activity control (see Note 3).30 μL of assay buffer for substrate control (see Note 4).Incubate the mixtures in the reader at 37 °C for 1 min.Start the reaction in inhibition test and enzyme activity control with 15 μL of PLN solution (Table 1). Immediately after adding the enzyme, mix the solutions once with a micropipette set at 80 μL. This operation reduces possible signal distortions in the beginning of the reaction.Place the plate into the reader at 37 °C and record time-related fluorescence changes every 10 s for 15 min, at the excitation and emission wavelengths of 320 and 420 nm, respectively (see Note 5).Transfer the substrate solution from the substrate control well into a spectrophotometer cell to measure the optical density at 365 nm. Use the concentration calculated from the obtained optical density as the initial substrate concentration in the hydrolysis reactions (see Note 6).Table 1. Composition of the assay mixturestable:\n﻿0,1,2,3,4\nSample,Reagent,Concentration,Concentration,Volume (μL)\nSample,Reagent,In the reaction mixture,In the added solution,Volume (μL)\nSubstrate control,Substrate,30 or 90 μM,40 or 120 μM,90\nSubstrate control,Assay buffer,,,30\n,Total:,,,120\nEnzyme activity control,Substrate,30 or 90 μM,40 or 120 μM,90\nEnzyme activity control,Assay buffer,,,15\nEnzyme activity control,Protease,50 pM,400 pM,15\n,Total:,,,120\nInhibition test,Substrate,30 or 90 μM,40 or 120 μM,90\nInhibition test,Inhibitor,0.5–3.5 nM,4–28 nM,15",
+    "Inhibition test,Protease,50 pM,400 pM,15\n,Total:,,,120"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 93,
+  "origin_website": "Nature",
+  "title": "Quantitative proteomic assessment of very early cellular signaling events: qPACE",
+  "procedures": [
+    "\\(1) Label your cells with SILAC \\(at least 5 population doublings to ensure complete incorporation of isotope-labeled amino acids).\n\\(2) Serum-starve your cells before pumping for approximately 12 h.\n\\(3) Connect pumps with tubing as outlined in **Figure 1**: pump P1 and P2 run with the same speed \\(in our case 800 &#xB5;l/min), P1 delivers medium containing the stimulus, P2 delivers cells \\(in suspension or growing on microcarrier beads). Pump P3 delivers the quenching reagent, in our case 80% ethanol prechilled to -20&#xB0;C and further cooled by -20&#xB0;C cooling aggregates. To reach proper quenching, pump P3 should run approximately 5 to 10 times faster than pumps P1 and P2 \\(in our case 8 ml/min). It is possible to place pumps P1, P2, and the stimulation tube in an incubator to perform experiments at 37&#xB0;C.\n\\(4) Adjust the tube length determining the time of stimulation according to your pumping speed \\(speed of pump P1 + speed of pump P2) and the tubing diameter to reach the desired stimulation time: volume \\(V) = &#x3C0; &#xD7; r<sup>2</sup> &#xD7; length \\(L). We used 1 mm i.d. Teflon tubes with the following lengths:\\(a) 1 s: 3.4 cm, \\(b) 5 s: 17 cm, \\(c) 10 s: 34 cm, and \\(d) 60 s: 204 cm.\n\\(5) Prepare cell suspension and double concentrated stimulation medium. We used 1.5-4&#xD7;10<sup>8</sup> cells per time point resuspended in 5 or 10 ml of medium and medium containing 300 ng/ml EGF \\(150 ng/ml final concentration).\n\\(6) Pump sample through the system.\n\\(7) Pellet your cells by centrifugation.\n\\(8) Discard supernatant, wash pellet with ice-cold PBS, and pellet again.\n\\(9) Lyse cells with lysing buffer containing protease and phosphatase inhibitors.",
+    "\\(10) Immunoprecipitate your complexes of interest, separate them by SDS-PAGE and digest them enzymatically, e.g. with trypsin. We used preconjugated 4G10 antibody to precipitate phosphotyrosine containing proteins.\n\\(11) Analyze resulting peptide mixture by LC-MS. In the case of phosphopeptide analysis, phosphopeptides should be enriched prior LC-MS analysis, e.g. by TiO<sub>2</sub>.\n\\(12) Analyse your data and quantitate peptides of interest, e.g. by MSQuant software."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Structural Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8296,
+  "origin_website": "Bio",
+  "title": "ATP and Lactate Quantification",
+  "procedures": [
+    "For intracellular ATP content evaluation   MEF are plated at 60-70% cell confluency.   Cells are washed twice with PBS   Cells are lysed with a cell scraper in 35 μl of lysis buffer containing phosphatase inhibitors (1 mM final concentration of glycerophosphate, sodium orthovanadate and sodium fluoride) for 30 min at 4 °C.   Centrifuge at 13,000 rpm for 15 min at 4 °C.   Supernatant is isolated.    The sample is diluted at 1:1,000 (1 μl of sample is added to 1,000 μl of Biorad solution) in a Biorad solution (200 μl of Biorad and 800 μl of water).   Optical Density (OD) is read at the spectrophotometer at 595 nm.   The concentration of the sample is determined using a standard curve from BSA.   Samples are diluted at a final concentration of 25 ng/ml.   250 ng of total proteins in parallel of the ATP standard curve (0 nM, 1 nM, 10 nM, 100 nM, 1,000 nM of ATP) in 10 μl is added to 90 μl the Standard Reaction Solution.   Luciferase activity is measured with a luminometer.    ATP is quantified for each sample using the ATP standard curve.       Lactate quantification   Cells are plated in 6 wells plates with 3 ml of medium (10% DMEM-FCS-1% Penicillin/Streptamycin).   The medium is changed when the cells reach 100% cell confluence.   The medium is collected after 24 h.    Cells are trypsinized and alive cells are counted with Trypan blue 1:1.   The medium collected is centrifuged at 13,000 rpm for 10 min    The supernatant (clean medium) is diluted 1:10 in DMEM.    20 μl of each sample and of the standard curve (0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.8 and 1 mM of Lactate in DMEM) is put in wells of a 96 wells plate.   80 μl of assay buffer from EnzyChrom L-Lactate Assay Kit is added in each well.",
+    "Mix well (Pipetting up and down).    D0 is absorbed 565 nm at the beginning of the incubation ( t0) and after 20 min (t20).   The difference of absorbtion (delta OD) is determined for the samples and the standard curve.   The concentration of lactate for each sample is obtained from the standard curve.    The quantity of lactate is normalized by the final number of cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

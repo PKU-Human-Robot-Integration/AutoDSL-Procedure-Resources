@@ -1,0 +1,16 @@
+{
+  "id": 1283,
+  "origin_website": "Nature",
+  "title": "<p>A research protocol of an observational study on efficacy of microsoft kinect azure in evaluation of static posture in normal healthy population</p>",
+  "procedures": [
+    "<p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Obtain informed consent, approach participants and screen for eligibility (N=132)</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">              ⇩</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Baseline attention bias assessment (N=132)</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">              ⇩</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Orientation to application of Kinect Azure for posture evaluation</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">              ⇩</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Administration and assessment of posture by Kinect Azure</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;⇩</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Statistical Analysis</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\"><br></p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">We will collect data of 132 participants (both male and female). They will be instructed to stand normally in such a way that frontal plane of posture comes under sensor coverage. Sensor will record and interpret the data with the markings of normal posture landmarks. The Kinect sensor is mounted at each experiment to captures the subject image. The distances are compatible with the recommendation for achieving the highest data quality.</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\">Also, the age, weight, height, sex, and profession of the individuals (example undergraduate, businessman, dietician, or software developer) will be recorded as additional information for better annotation of the collected data. This data is useful in better understanding the results that need to be derived and in drawing conclusions from analysis.</p><p style=\"font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;\"><br></p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Health Humanities"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

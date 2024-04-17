@@ -1,0 +1,16 @@
+{
+  "id": 4360,
+  "origin_website": "Bio",
+  "title": "Detection of Tumor Cell Surface-reactive Antibodies",
+  "procedures": [
+    "Culture of tumor cells   Coat the 10 mm culture plates with 3 ml of matrigel solution, gently rock to completely cover the plate and set aside for 30 min for gel polymerization.   Mince canine tumor samples (2-5 cc depending on the size of the tumor) with a scalpel blade into 1 mm pieces, digest with 10 ml of TrypLE Express for 15 min at 37 °C on a shaker table, pass the suspension through a 100 μm filter, wash with 20 ml NSC medium centrifuge at 500 x g for 5 min, and resuspend with 1 ml of NSC medium.   Add 1 ml of canine tumor cell suspension and 6 ml of NSC medium to the plate and place in a 37 °C humidified incubator with 5% O2 and 5% CO2.   Supplement the NSC media plates with 10 μl each of rh-EGF stock solution and rh-FGF basic stock solution every Monday, Wednesday and Friday, and the media should be changed at least once a week or if the medium indicator changes to a orange-yellow color due to rapid cell proliferation.      Harvest of tumor cells   When the tumor cells have grown to 100% confluency, the cells should be harvested.   Aspirate all of the remaining NSC medium, then add 3 ml of medium back to the plate.   Add 500 μl of Dispase to the plate and gently rock to spread over the cells to solubilize the matrigel coating and detach the cells. Prepare 1 ml aliquots of the Dispase to prevent excessive freeze-thaw cycles.   Incubate the plate at 37 °C for 20-30 min or until all cells are detached.   Decant the tumor cell suspension into a 15-ml conical tube and add 1x PBS to a final volume of 10 ml.",
+    "Centrifuge the cells at 500 x g for 5 min, decant supernatant, resuspend in 1x PBS (1 ml).   The cells are counted by placing 10 μl of cell suspension into an Eppendorf microcentrifuge tube and adding 10 μl of Trypan Blue.   Count cells using a Neubauer hemocytometer.      Serum antibody: tumor cell binding experiment   Place 105 tumor cells into a FACS tube and add PBS to a total volume of 200 μl (produce triplicate samples).    Add 2 μl of serum (pre or post-treatment sera from the canine patient) into the cell suspension (1:100 dilution of serum to cells).    Incubate at 4 °C for 30 min.   After incubation, dilute cell suspension with 2 ml of FACS buffer, vortex, and centrifuge at 1,000 rpm for 5 min.   Decant the supernatant, repeat the wash with FACS buffer and decant.   Add 1 μl of the conjugated 2° antibody [goat anti-canine IgG (H&L) f(ab’)2-fluorescein isothiocyanate] and incubate at 4 °C for 30 min.   After incubation, add 2 ml of FACS buffer, vortex, and centrifuge at 1,000 rpm for 5 min, decant, repeat the wash and decant.   Resuspend the labeled cells in 200 μl FACS buffer and analyze using flow cytometer.      Observations Use as controls tubes:   2° Ab only - tumor cells + conjugated 2° antibody (no serum)   Unstained - tumor cells + serum (no 2° conjugated Ab)   Normal dog serum - tumor cells + serum from normal dog + 2° conjugated Ab"
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

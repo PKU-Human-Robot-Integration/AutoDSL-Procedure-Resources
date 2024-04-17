@@ -1,0 +1,17 @@
+{
+  "id": 1046,
+  "origin_website": "Nature",
+  "title": "Rapid and Efficient Induction of Functional Astrocytes from Human Pluripotent Stem Cells",
+  "procedures": [
+    "Lentiviral production:\nLentiviruses were produced in HEK 293T cells by co-transfecting pMD2.G, pRSV-Rev and pMDLg/pRRE helper vectors together with the vector for one transcription factor using 2.5 M CaCl2. 75 μg of transcription factor plasmids was used together with 30 μg of PMDLg/pRRE, 22 μg of pMD2.G and 15 μg of pRSV-Rev plasmids for two T175 flasks. Medium was changed 16 hours after transfection and viruses were harvested 48 hours after transfection, pelleted by centrifugation \\(20,000 x g for 2 hours at 4°C) resuspended in 100 μl DMEM, aliquoted and kept at -80°C. \niAs generation:\nDay -2\nDissociate hESC or hiPSC with Accutase and replate 5x105 cells in Matrigel-coated 6-well plates with mTeSR1 containing 10 μM Rock inhibitor.\nDay -1\nAspire medium and add 2 ml of fresh mTeSR1 containing 8 μg/ml of Polybrene per well. Add 1 μl of each virus per well.\nDay 0\nAspire medium and add 2 ml of fresh mTeSR1 containing 2.5 μg/ml of Doxycycline per well.\nDays 1 and 2\nAspire medium and add 2 ml of Expansion Medium containing 2.5 μg/ml of Doxycycline, 1.25 μg/ml of Puromycin and 200 μg/ml of Hygromycin per well.\nDay 3\nAspire medium and add 2 ml of 3:4 of Expansion Medium and 1:4 of FGF Medium containing 2.5 μg/ml of Doxycycline and 200 μg/ml of Hygromycin per well.\nDay 4\nAspire medium and add 2 ml of 1:1 of Expansion Medium and FGF Medium containing 2.5 μg/ml of Doxycycline and 200 μg/ml of Hygromycin per well.\nDay 5\nAspire medium and add 2 ml of 1:4 of Expansion Medium and 3:4 of FGF Medium containing 2.5 μg/ml of Doxycycline and 200 μg/ml of Hygromycin per well.\nDay 6\nAspire medium and add 2 ml of FGF Medium containing 2.5 μg/ml of Doxycycline.\nDay 7",
+    "Dissociate cells with Accutase and pellet at 300g for 5 min. Replate cells in Matrigel-coated coverslips, petri dishes or wells according to desired output. Use the necessary amount of FGF Medium containing 2.5 μg/ml of Doxycycline.\nDay 8\nAspire medium and add fresh FGF Medium containing 2.5 μg/ml of Doxycycline.\nDay 10\nAspire half of the medium and add the same amount of Maturation Medium containing 2.5 μg/ml of Doxycycline. From here, change half of the medium every 2-3 days."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

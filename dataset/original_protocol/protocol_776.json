@@ -1,0 +1,17 @@
+{
+  "id": 822,
+  "origin_website": "Nature",
+  "title": "Generation of mouse bone marrow-derived dendritic cells \\(BM-DCs)",
+  "procedures": [
+    "1.Flush mouse tibiae and femurs with ice-cold PBS through a 70 &#x3BC;m-wide cut-off cell strainer.\n2.Centrifuge 5&#x2019; at 1400 rpm. Resuspend pelleted cells in conditioned medium \\(supplemented with 10% of growth supernatant of GM-CSF-transduced B16 cells).\n3.Seed 7 x 10<sup>6</sup> cells in 100 x 20 mm non-treated cell culture plates in 10 ml of conditioned medium.\n4.Incubate at 37 &#xB0;C &#x2013; 5% CO2.\n5.On day 4 and 7 add 5 ml of pre-warmed conditioned medium.\n6.At day 8/9 the percentage of CD11c+ cells should be higher than 90% as measured by FACS analysis. BMDCs are then ready for experimental use.\n7.Harvest the supernatant and gently wash the plate once with 5 ml of pre-warmed PBS.\n8.Incubate 2&#x2019; with 5 ml of 2mM EDTA at 37 &#xB0;C &#x2013; 5% CO<sub>2</sub>.\n9.Collect cells, wash once with PBS.\n10.Centrifuge 5&#x2019; at 1200 rpm and resuspend pelleted cells in conditioned medium."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

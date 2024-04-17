@@ -1,0 +1,14 @@
+{
+  "id": 618,
+  "origin_website": "Nature",
+  "title": "Metaphase preparation from murine bone marrow",
+  "procedures": [
+    "1. Warm 0.06M potassium chloride in a 37&#xB0;C water bath.\n  2. Inject 250&#xB5;L of 200&#xB5;g/mL colcemid into the peritoneum of mice and arrest cell cycle for 30 minutes.\n  3. Flush bone marrow cells with 30mL pre-warmed 0.06M potassium chloride into 50mL tube through 40&#xB5;m cell strainer and rock sample tubes gently in 37&#xB0;C incubator for 20 min.\n  4. Make fixative solution \\(methanol \\[100%]:glacial acetic acid=3:1) during hypotonic incubation.\n  5. Add 2mL Fixative into samples, mix gently. Centrifuge at 1500rpm for 7 min and discard supernatant. \n  6. Resuspend cells thoroughly with 0.5mL 0.06M potassium chloride.\n  7. Add few drops of fixative to cells and mix well. Keep adding and mixing fixative drops into cells until reaching 3mL. Add fixative up to 20mL in total, mix by inversion, and incubate at room temperature for 10 min. \n  8. Run the sample mixtures through 40&#xB5;m cell strainer. Centrifuge at 1500rpm for 7 min and discard supernatant.\n  9. Resuspend pellets in 20 mL fixative and incubate at room temperature for 10 min. Centrifuge at 1500rpm for 7 min and discard supernatant.\n  10. Repeat step 9 once.\n  11. Resuspend cell pellets in 2mL fixative and store at -20&#xB0;C for long-term storage.\n  12. To determine chromosome quality, use the flame method or other ways to spread and stain chromosomes on slides. Drop 30&#xB5;L fixed cells onto pre-cleaned and wet slides tilted at a 45 degree angle. Put slides in burner flame for 2 seconds to allow chromosomes to spread out. Let slides dry.\n  13. dilute 20x Giemsa stain with water to 1x Giemsa solution. Stain chromosome spread slides with 1x Giemsa solution for 5 minutes. Wash off Giemsa solution and let slides dry. Check chromosome quality under microscope."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

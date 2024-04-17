@@ -1,0 +1,15 @@
+{
+  "id": 4252,
+  "origin_website": "Bio",
+  "title": "Measurement of Acetylcholine from Cell Lines",
+  "procedures": [
+    "A549 cells were grown in 5ml serum-free RPMI (SF-RPMI) to 90%-95% confluence in 60 mm cell culture dishes in a cell culture incubator set at 5% CO2 and 37 °C (Lau et al., 2013; Song et al., 2008; Song et al., 2003).    On the day of the assay, 100 μM neostigmine (a chemical inhibitor of AChE in cells) was added to each plate for four hours at 37 °C. The plate contained 3 ml of media. Please see Notes section about optimization of the concentration of neostigmine.   Four hours after the addition of neostigmine, the relevant concentration of test compund (which promotes/inhibits the secretion of ACh) was added and the cells were incubated at 37 °C for 36 h. An example of a compound which promotes the production of ACh is 100 nM nicotine.    The supernatant (medium) was collected and spun at 800 x g.   The supernatants were frozen at -80 °C and then lyophilized. The lyophilizer was set to a pressure of 10 micron Hg or below that value. The samples were lyophilized overnight.   Subsequently, the lyophilizate was reconstituted with 1/5 volume autoclaved water (600 μl autoclaved water), snap frozen in liquid nitrogen and stored at -80 °C until further analysis.   The amount of ACh in the sample was measured using the Choline/acetylcholine Quantification Kit, according to manufacturer’s instructions (http://www.biovision.com/choline-acetylcholine-quantification-colorimetric-fluorometric-kit-2910.html[href=http://www.biovision.com/choline-acetylcholine-quantification-colorimetric-fluorometric-kit-2910.html]). The protocol outlined in the assay kit will be attached here[href=https://en-cdn.bio-protocol.org/attached/file/20131219/20131219230748_5470.pdf]. Each sample was assayed in triplicate."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

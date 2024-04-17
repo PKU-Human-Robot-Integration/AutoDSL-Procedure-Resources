@@ -1,0 +1,16 @@
+{
+  "id": 4471,
+  "origin_website": "Bio",
+  "title": "Determination of D-galactofuranose Content of Galactomannoproteins in <em>Aspergillus nidulans</em>",
+  "procedures": [
+    "Streak Aspergillus nidulans conidia from frozen stock onto Minimal medium (MM) plate and cultivate for 3 days at 30 °C. Collect the formed conidia with a spreader.Spread Aspergillus nidulans conidia (1 x 105) onto MM plates and cultivate for 3 days at 30 °C.Inoculate the collected conidia (2 x 107) into 100 ml of MM in 500-ml Sakaguchi flasks. Shake the flasks at 126 rpm at 30 °C for 24 h.Collect the mycelial cells by paper filtration.Wash the cells twice with approximately 30 ml of distilled water (Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Collection and washing of the mycelial cells  Resuspend the cells (approx. 2 g of wet cells) in 10 ml of 100 mM citrate buffer (pH 7.0). Autoclave the sample at 121 °C for 120 min.Remove cell debris by paper filtration (Video 2).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Removing cell debris by paper filtration Collect the resultant sample (approx. 10 ml) in a 50-ml plastic centrifuge tube.Add 30 ml of cold 99.5% ethanol and keep the sample on ice for 30 min.Centrifuge at 14,000 x g at 4 °C for 10 min.Dry the pellet at room temperature using a centrifugal evaporator at 1,500 x g. Resuspend the pellet in 2 ml of distilled H2O (dH2O).Dialyze the sample with a dialysis membrane (15.5 mm x 300 mm) against 5 L of dH2O for 24 h at 4 °C. The resultant sample is designated as the extracted galactomannnoproteins.Incubate part (2.4 µg) of the extracted galactomannoproteins in 500 µl of 4 M trifluoroacetic acid (TFA) at 100 °C for 4 h in a 1.5-ml conical screw cap tube.Dry the resultant sample at room temperature using a centrifugal evaporator at 1,500 x g.Resuspend the sample in 10 µl of dH2O. Label the hydrolysates with fluorescent p-aminobenzoic acid ethyl ester (ABEE) using an ABEE labeling mixture.",
+    "Add 40 µl of the ABEE labeling mixture (preheating at 70 °C for 5 min) to the sample.Incubate the sample for 1 h at 80 °C.Cool the sample to room temperature.Add 200 µl of dH2O and 200 µl of chloroform to the sample.Vigorously vortex the sample and then centrifuge it at 14,000 x g for 5 min at room temperature.Collect the upper aqueous layer.Analyze the ABEE-labeled D-galactopyranose using an HPLC system. Inject 20 µl of the sample into the column at a flow rate of 1.0 ml/min at 45 °C. ABEE-D-galactopyranose can be detected with a fluorescence detector at an excitation wavelength of 360 nm and an emission wavelength of 305 nm.Note: Use solvents containing acetonitrile and potassium borate buffer (see the Recipes section for solvents A and B). Set the gradient program at a flow rate of 1.0 ml/min (expressed as a percent of solvent A) and apply the following gradient to analyze the ABEE-D-galactopyranose: 0-45 min, isocratic 100%; 45-50 min, 100-0%; 50-55 min, 0-100%; 55-75 min, isocratic 100%. Use D-galactose as a standard for quantification purposes."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

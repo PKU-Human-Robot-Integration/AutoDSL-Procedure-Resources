@@ -1,0 +1,17 @@
+{
+  "id": 688,
+  "origin_website": "Nature",
+  "title": "A protocol for lentiviral infection of primary patient pancreatic tumors",
+  "procedures": [
+    "**Tissue Dissociation.**\n_\\(the procedures below are performed on mice bearing patient-derived pancreatic tumors)_\n1. Euthanize tumor-bearing mouse.\n  2. Spray mouse and surgical tools with 70% Ethanol.\n  3. Remove pancreatic tumor and immediately place into ice cold RPMI 1640 \\(no additives). Proceed with the following steps immediately following resection.\n  4. In RPMI 1640 \\(no additives), dissect and discard necrotic tissue.\n  5. In 1ml freshly prepared Miltenyi tissue dissociation media* \\(from the Human Tumor Dissociation Kit), finely mince tumor into 2-4 mm pieces.\n  6. Place minced tumor tissue into remaining 4 ml of dissociation medium in a gentleMACS C-tube.\n  7. Follow Miltenyi protocol 2.2.3 for the dissociation of tough tumors.\n  _*\\(Optional) To improve the recovery of viable cells, add Soybean Trypsin Inhibitor to a final concentration of 0.2 mg/ml to Miltenyi tissue dissociation media._\n**Lentiviral infection Protocol.**\n1. Immediately following dissociation, re-suspend cells in culture media \\(RPMI 1640 media supplemented with 20% FBS, 1x non-essential amino acids, 100 IU/ml penicillin, 100 μg/ml streptomycin, 1x Glutamax).\n  2. Count single cells using a hemocytometer. \n  3. Dilute cells to a concentration of 2.5x105 cells per 200 ul of culture media.\n  4. Plate 200 ul of cells per well into an Ultra-Low attachment 24 well plate.\n  5. Add polybrene to each well for a final concentration of 5 ug/ml.\n  6. Add shRNA lentivirus at an MOI >10 \\(~25 ul virus per condition).\n  7. Culture cells for 24 hours at 37°C 5% CO2.\n  8. After 24 hours, collect cells, spin for 5 min at 300g, and wash twice with culture media.\n  9. Following the second wash, suspend cells in 50 ul of RPMI 1640 media \\(no additives).",
+    "10. **Pre-transplantation analysis:** determine the percentage of tumor cells infected by lentivirus by assessing viral tagged GFP reporter expression in epithelial cells. To this end, stain 5 ul of uninfected/infected cells with anti-mouse EpCAM-PE antibody and analyze for GFP expression by flow cytometry on a FACSAria III machine.\n  11. Mix the remaining 45 ul of uninfected/infected cells with 45 ul of BD Matrigel Matrix Growth Factor Reduced and place on ice until transplantation.\n  12. Inject cells subcutaneously into the left or right flank of 5-8 week-old NOD/SCID Il2ry-/- \\(NSG) recipient mice.\n  \n**Post-transplantation Analysis.**\n1. Euthanize mice at 3 months post-transplant.\n  2. Collect, weigh, and dissociate tumors as described above.\n  3. Stain tumor cells with anti-mouse EpCAM-PE antibody and analyze for GFP expression by flow cytometry on a FACSAria III machine.\n  4. Calculate GFP contribution to the tumor mass:\n  Tumor wet weight \\(g) x EpCAM+;GFP+ \\(%) = Weight EpCAM+;GFP+ tumor cells \\(g)"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

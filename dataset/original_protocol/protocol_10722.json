@@ -1,0 +1,15 @@
+{
+  "id": 11133,
+  "origin_website": "Jove",
+  "title": "Anatomical Reconstructions of the Human Cardiac Venous System using Contrast-computed Tomography of Perfusion-fixed Specimens",
+  "procedures": [
+    "Procedure\nTable 1 summarizes the materials used during the process. Figure 1 provides an overview of the process.\n1. Specimen and Scan Preparation\nObtain the isolated human hearts fresh and subsequently perfusion fix them in 10% buffered formalin in their end-diastolic state.\nRinse the hearts to be scanned in water the day before scanning in order to remove the majority of the formalin.\nBefore heading to the scanner, cannulate the coronary sinus (CS) vein within each heart with a venogram balloon catheter. Obtain access to the CS through either the superior or inferior vena cava under direct visualization or the use of videoscopes.\nOnce in place, inflate the balloon of this venogram catheter to anchor the catheter in the CS.\nPlace each heart within a sealable polymer container on top of a sponge that has been designed so that the heart can sit in its attitudinally correct anatomical position.\n2. Computed Tomography Scans\nPosition a given heart on the CT scanner bed as if a patient was lying supine and head first on the scanner.\nConnect the proximal end of the venogram catheter to an injector that contains two injection syringes: one for contrast and one for saline.\nAutomatically inject 40 ml of contrast into the cardiac venous system at 5 ml/sec.\nCT scan the heart 8 sec after the contrast injection is initiated. Set the CT scan to 512 x 512 pixel resolution with 0.6 mm slice thickness.\nAutomatically inject 40 ml of saline into the cardiac venous system at 5 ml/sec to flush out the contrast.\nExport the CT dicom images onto an external hard drive.\n3. Reconstruction and Measurements\nUpload CT dicom images into Mimics Software.",
+    "Generate a mask for the CT images that only contains pixels with high Hounsfield units to highlight only the contrast present in the heart.\nRemove contrast that has leaked into the chambers or diffused into the tissue so that the mask only contains the contrast within the major cardiac veins.\nManually fill in air pockets within a given vein frame by frame.\nGenerate a 3D object from the resultant mask.\nSmooth and wrap this object to eliminate rough geometries. Video 1 presents one of these 3D models rotating in space.\nGenerate centerlines for each created 3D model.\nUsing these centerlines, measure the arc length, branching angle, tortuousity (arc length/linear distance), and diameters for each major vessel in each heart. Our employed anatomical nomenclature is displayed in Figure 2.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Bioengineering"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

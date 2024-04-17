@@ -1,0 +1,16 @@
+{
+  "id": 4778,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Colorimetric Method to Measure Plant Glutamate Dehydrogenase Enzyme Activity",
+  "procedures": [
+    "Material harvest and homogenization   In a 96 deepwell (1.2 ml) plate, place 2 glass beads (4 mm diameter) into each well.     Weigh approximately 20 mg of fresh leaves or roots and place them in a 96-deepwell plate, half-submerged in liquid nitrogen. Store sealed with EVA Capband at -80 °C until use.   Grind frozen tissue two times with a TissueLyser for 60 sec at 27 Hz frequency. Plates are coupled to the TissueLyser with a TissueLyser Adapter Set 2 x 96. (Ensure sealing of the wells during homogenization).      Extraction   Add around 3-5 mg PVPP per well (this approximately corresponds to a level micro spatula).    Add 500 µl of cold extraction buffer to each well and rapidly mix by inverting the plate (avoid thawing the samples prior to adding the buffer).    Homogenize the samples again with TissueLyser two times for 60 sec at 27 Hz frequency.   Centrifuge the plate at 4,000 rpm and 4 °C for 30 min in a plate centrifuge.    Recover the supernatants (400 µl) in a new 96 deepwell plate and keep the samples on ice.      Determination of protein content by Bradford method   In a 96-well spectrophotometer plate, place 1 µl of extract per well and add ultrapure water up to 10 µl. Make a blank with 1 µl of extraction buffer.   For the calibration curve place BSA standards in a range of 0 to 6 µg of BSA/well using a 1 µg/µl BSA stock and complete volume up to 10 µl.    Add in every well 240 µl of Bradford solution and incubate for 5 min at room temperature in the dark.   Read absorbance at 595 nm.      Enzyme activity measurement   Place 20 µl of supernatant per well.    Add 280 µl of reaction buffer.",
+    "This step should be performed rapidly since the reaction starts as soon as the buffer is added. Thus, if measuring 96 samples the use of a multichannel pipette is strongly advised to ensure reproducibility.   Immediately monitor NADH evolution kinetic at 340 nm in the spectrophotometer for 10 min at 30 °C (Figure 1). Ensure spectrophotometer is already at 30 °C before adding the reaction buffer to the sample.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150814/20150814023714_1097.jpg Figure 1. Graph showing NADH consumption by GDH aminating activity    For NADH calibration curve, place 300 µl NADH dilutions from 0-0.2 mM in a microplate and read at 340 nm. (NADH dilutions must be prepared just prior to the measurement of the calibration curve to avoid the oxidation of NADH)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

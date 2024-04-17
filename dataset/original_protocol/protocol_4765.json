@@ -1,0 +1,16 @@
+{
+  "id": 5065,
+  "origin_website": "Bio",
+  "title": "Isolation and Culture of the Islets of Langerhans from Mouse Pancreas",
+  "procedures": [
+    "Please view Video 3 for trypsinization of islets.Add 300 µl trypsin to the islet pellet. Incubate for 5 min at 37 °C in a waterbath. Pipette the islets up and down 10 times using a 1 ml Gilson pipette. The islets should disperse and this can be visualized. See Video 3.Add 3-5 ml complete CMRL to stop the trypsin reaction.Centrifuge at 305 x g for 5 min to pellet the single cells.Pour off the media and replace with 1 ml of complete CMRL.Incubate the tube containing trypsinized islets at 37 °C in a 5% CO2 incubator for 1-2 h to allow recovery of the cells before further experiment/analysis.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 3. Trypsinization of islets to single cells"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

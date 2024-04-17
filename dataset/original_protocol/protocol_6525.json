@@ -1,0 +1,17 @@
+{
+  "id": 6884,
+  "origin_website": "Bio",
+  "title": "Microscopy-based Methods for Rosetting Assay in Malaria Research",
+  "procedures": [
+    "Plasmodium falciparum parasites were cultured using RPMI 1640 medium enriched with at 20% blood group type-matching serum (For P. vivax, McCoy’s 5A medium can be used).When majority of the parasite population has reached late stages, the culture suspension can be used for experiments.Prepare an aliquot of the culture suspension, and process with either of the three methods (Steps 4-6), according to the feasibility of the techniques in the laboratory.Stain the suspension with Giemsa (5% working concentration volume by volume) for 15 min prior to wet mount preparation for rosetting assay.Alternatively, add Acridine Orange (working concentration 2 µg/ml) into the suspension and allow staining for 15 min prior to wet mount preparation for rosetting.The third method is to use the suspension for wet mount preparation without staining.Wet mount is prepared by pipetting small volume of the suspension above onto a clean glass slide, and cover the droplet with a clean glass coverslip by landing the coverslip slowly to minimize trapment of air bubbles.The Giemsa-stained and unstained wet mount can be viewed with light microscope (of any model), whereas the Acridine Orange-stained wet mount can only be viewed with fluorescence microscope (of any model).Determine the rosetting rates by recruiting 200 infected erythrocytes. Rosetting rate is the percentage of infected erythrocytes that adhere to uninfected erythrocytes."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

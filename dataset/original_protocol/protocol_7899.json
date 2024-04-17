@@ -1,0 +1,16 @@
+{
+  "id": 8310,
+  "origin_website": "Bio",
+  "title": "ImmunoFISH for Adherent Cultured Mammalian Cells",
+  "procedures": [
+    "Grow cells on glass coverslips (e.g. BJ normal human fibroblasts).   Transfer the coverslip to a 12 multiwell plate.   Wash briefly with 1x PBS.   Fix with either 4% PFA, 10 min, RT or methanol/acetone 1:1, 2 min, RT (it depends on the antibody, does not affect the FISH signal; use methanol/acetone for 53BP1 staining).   Wash with 1x PBS, 3 times, 5 min.   Only for PFA-fixed cells, incubate with 0.2% TritonX100 in PBS, 10 min, then wash with 1x PBS, 3 times, 5 min.   Block with 1x PBG, 1 h, RT.   Incubate with primary antibody diluted in 1x PBG, 50 μl for each coverslip. Incubation time depends on the antibody, most work in 1 h, RT, or overnight at 4 °C. (For 53BP1 dilute 1:200 and incubate 1 h at RT).   Wash with 1x PBG, 3 times, 5 min.   Incubate with secondary antibody diluted in 1x PBG, 45 min, RT.   Wash with 1x PBG, twice, 5 min.   Wash with 1x PBS, twice, 5 min.   Re-fix cells with PFA 4% + triton 0.1%, 10 min RT (use PFA also if you have previously fixed cells with methanol/acetone).   Incubate with glycine 10 mM in H2O, 30 min, RT.   Wash with 1x PBS, 3 times, 5 min.   Prepare the hybridization mixture and put 20 μl on a glass slide for each coverslip.   Transfer the coverslip carefully on the drop without making bubbles.   Put the slide directly on a metal thermoblock at 80 °C, 5 min.   Hybridize in a humidified chamber, 2 h, RT.   Remove coverslip from the slide and put it back in the 12 wells plate.   Wash with Wash solution I, twice, 15 min.   Wash with Wash solution II, 3 times, 5 min.   Incubate with DAPI, 2 min, RT.   Wash briefly with 1x PBS.   Mount with mowiol.",
+    "Store the slides at 4 °C for short time storage (2 weeks) or at -20 °C. It is recommended to analyze the fluorescence as soon as possible to avoid fluorophore fading.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131214/20131214045110_8302.jpg Figure 1. An image of ImmunoFish stained human fibroblasts cells. DAPI is in blue, 53BP1is in green and telomeric PNA probe is in red."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

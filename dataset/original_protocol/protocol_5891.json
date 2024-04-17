@@ -1,0 +1,15 @@
+{
+  "id": 6240,
+  "origin_website": "Bio",
+  "title": "Classic Labyrinth Test for Neurobehavioral Evaluation in Wistar Rats",
+  "procedures": [
+    "Several exercises are performed for the rat (about four to five times as needed) before the final data are recorded, Animals should be allowed at least one week for habituation to the home cage, as they tend to present high anxiety levels upon arrival from the animal breeder facility (Leo et al., 2014), During the training period, rewards with an odor cue (bread, grease, cheese, processed food, etc.) are used to attract the rats and help them quickly reach the end of the maze (the target). However, on the test day, nothing is left at leaves nothing at the stopping point. We do this because it eliminates external factors and variables (e.g., odor) between experiments (Gasmi et al., 2017b).The apparatus (labyrinth) is placed in an isolated room away from any external interferences and noises with a low-intensity white light source.The experimenter must avoid making any excessive noises during the test and from wearing products with a strong smell because it could act as an anxiogenic stimulus for the mice.The illumination in the lit chamber must be 200-400 lux.The rats are transferred in their home cages to the behavioral testing room for at least 60 min before the experiment.Clean both compartments of the apparatus with 70% ethanol (Serchov et al., 2016).Turn on the camera and place the first rat in the starting point of labyrinth.The experimenter stays as far away as possible from the box and out of sight of the test animal.The rats are allowed to move freely within the labyrinth for 10 min (between the starting point and the stopping), but in exceptional cases 10 min is added to the test for a total of 20 min. After each trial, all urine and fecal matter are removed, and the maze is cleaned with 70% ethanol.",
+    "The recorded videos can be analyzed by automated computer software (Ethovision video tracking system software, Spink et al., 2001) or manually with the aid of a chronometer.The duration of time required for the animal to move from the starting point to the stopping point (Arrival Time) is recorded (Figure 2). If the animal takes significantly longer to arrive at the stopping point, this delay might be explained by external factors that lead to decreased cognition. The arrival time is determined by when the rat reaches the stop point and then stays there for at least 10 sec.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180909/20180909185943_4717.jpgFigure 2. Representative data (mean ± SD) of the Arrival Time of control rats in the classical labyrinth test (C) and rats treated with a mixture of pesticides (D+A)"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

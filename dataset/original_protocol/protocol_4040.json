@@ -1,0 +1,15 @@
+{
+  "id": 4244,
+  "origin_website": "Bio",
+  "title": "Scratch Wound Healing Assay",
+  "procedures": [
+    "Grow cells in DMEM supplemented with 10% FBS.   Seed cells into 24-well tissue culture plate at a density that after 24 h of growth, they should reach ~70-80% confluence as a monolayer.   Do not change the medium. Gently and slowly scratch the monolayer with a new 1 ml pipette tip across the center of the well. While scratching across the surface of the well, the long-axial of the tip should always be perpendicular to the bottom of the well. The resulting gap distance therefore equals to the outer diameter of the end of the tip. The gap distance can be adjusted by using different types of tips. Scratch a straight line in one direction.    Scratch another straight line perpendicular to the first line to create a cross in each well.   After scratching, gently wash the well twice with medium to remove the detached cells.   Replenish the well with fresh medium. Note: Medium may contain ingredients of interest that you want to test, e.g., chemicals that inhibit/promote cell motility and/or proliferation.   Grow cells for additional 48 h (or the time required if different cells are used).    Wash the cells twice with 1x PBS, then fix the cells with 3.7% paraformaldehye for 30 min.   Stain the fixed cells with 1% crystal violet in 2% ethanol for 30 min.   Take photos for the stained monolayer on a microscope. Set the same configurations of the microscope when taking pictures for different views of the stained monolayer. The gap distance can be quantitatively evaluated using software such as Photoshop or ImageJ (http://rsb.info.nih.gov/ij/download.html[href=http://rsb.info.nih.gov/ij/download.html]). To reduce variability in results, it’s suggested that multiple views of each well should be documented, and each experimental group should be repeated multiple times."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

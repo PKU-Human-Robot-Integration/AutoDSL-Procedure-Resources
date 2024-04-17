@@ -1,0 +1,15 @@
+{
+  "id": 7504,
+  "origin_website": "Bio",
+  "title": "Flow Cytometric Detection of Reactive Oxygen Species",
+  "procedures": [
+    "Cells were cultured with complete medium in a 6 cm dish at 37 °C and 5% CO2.Cells were treated with NAC or H2O2 after reaching 70-90% confluency. ROS scavenger NAC is a precursor to cysteine and glutathione which are strong antioxidants; while H2O2 is a compound with an oxygen-oxygen single bond and is known as a strong oxidizer.(For negative control) Incubate cells with freshly prepared 5 mM NAC in culture medium for 1 h at 37 °C after three time washes of pre-warmed DPBS.(For positive control) Incubate cells with freshly prepared 0.1 mM H2O2 from 1 M stock in DPBS for 20 min at 37 °C after three time washes of pre-warmed DPBS.Dilute the H2DCFDA stock solutions into DPBS to make 0.1 μM working solution.Cells were harvested by trypsinization.Suspend cells in working solution at a density of 1 x 106 cells/ml and incubate at 37 °C for 30 min and protect from light.Centrifuge the tubes at 130 x g for 5 min. Remove the supernatant and gently resuspend the cells in pre-warmed DPBS.Repeat the wash steps 8 and 9 twice.Submit samples to flow cytometry for ROS detection using the 488 nm laser for excitation and detected at 535 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

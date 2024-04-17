@@ -1,0 +1,15 @@
+{
+  "id": 4976,
+  "origin_website": "Bio",
+  "title": "Isolation of Genomic DNA from <em>Mycobacterium</em> Species",
+  "procedures": [
+    "Harvest mycobacteria by centrifuging 20-40 ml log phase culture (O.D.600 ≈ 0.8) at 2,000 x g for 10 min, room temperature. Carefully discard culture medium and add 10 ml TE (at room temperature) buffer to pellet. Mix gently with a pipette. Note: If isolating DNA from pathogenic mycobacteria such as M. tuberculosis, step 1 and 2 must be performed in a BSL-3 facility.   Incubate mycobacterial suspension at 80 °C for 1 h in a water bath. This step will facilitate loosening of the mycobacterial cell wall and will also inactivate pathogenic mycobacteria.    Bring down temperature of suspension to ~30 °C and add 20 µl of 100 mg/ml lysozyme solution (final concentration, 2 mg/ml) to it. Incubate suspension at 37 °C for 6 h to overnight in a water bath. Note: In case of fast-growing mycobacteria such as Mycobacterium smegmatis (M. smegmatis), go directly to step 7. However, if DNA is to be isolated from slow-growing species, follow steps 4-6 which involve lysis of cells by a physical method. Because of enhanced disruption of cells, this would significantly enhance yield.    Pellet down bacilli by centrifugation at 2,000 x g for 10 min, room temperature and carefully discard supernatant.   Snap freeze pellet in liquid N2 and immediately transfer to a mortar. Using a pestle, crush bacteria while repeatedly adding liquid N2 (~20 ml) to it.    Add 10 ml TE buffer into the mortar and carefully bring mycobacteria in suspension. Transfer this suspension to a 50 ml polypropylene tube.   Add 1 ml of 10% SDS solution (final concentration, ~1%) and 20 µl of 10 mg/ml Proteinase K solution (final concentration 20 µg/ml). Incubate for 2 to 4 h at 60 °C in a hot water bath.",
+    "Add an equal volume of PCI mixture to the tube and mix contents by gently inverting tube for 5-10 min.   Centrifuge suspension at 12,000 x g for 10 min, 4 °C. Carefully transfer upper aqueous phase to a new 50 ml tube.   Repeat steps 6 to 8 for achieving a higher purity of DNA.   Add 100 µl 3 M sodium acetate solution per ml of aqueous phase obtained in step 10. Mix gently by inverting tube.    Add an equal volume of isopropanol to tube. Mix contents gently and keep undisturbed for 5-10 min. The white thread-like structure of precipitated DNA will be seen in suspension (Figure 1).   Centrifuge tube at 12,000 x g for 10 min, 4 °C. Discard liquid carefully.   Wash DNA pellet by adding 10 ml of 75% ethanol. Centrifuge at 12,000 x g for 10 min, 4 °C.   Aspirate liquid without disturbing pellet. Keep tube open to air dry pellet. Do not over dry pellet, as over dried DNA will be difficult to dissolve.    Dissolve pellet in molecular biology grade water and analyze DNA by agarose gel electrophoresis and spectrophotometer for its purity and integrity.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160229/20160229160756_9226.jpg Figure 1. Precipitated mycobacterial DNA (as seen after step 12)"
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

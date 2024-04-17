@@ -1,0 +1,15 @@
+{
+  "id": 10452,
+  "origin_website": "Jove",
+  "title": "Colorimetric Analysis of Alkaline Phosphatase Activity in S. aureus Biofilm",
+  "procedures": [
+    "1. Medium Preparation\nPrepare 1 L of Tryptic Soy Broth (TSB): Into 1 L of distilled water, add 15 g of pancreatic digest of casein, 5 g of papaic digest of soybean meal, 3 g of sodium chloride, 2.5 g of dextrose, and 2.5 g of dipotassium phosphate. Sterilize before use.\nFor Tryptic Soy Agar (TSA), add 15 g of agar to 1 L of TSB, autoclave. Then let it cool down to room temperature. Next, pour at a ratio of 20 mL per Petri dish (100 mm x 15 mm).\nBiofilm culture medium: Add 10 g of glucose to 1 L of autoclaved TSB. Sterilize by filtration using a 0.2 µm filter.\n2. S. aureus Biofilm Formation in 96 well Tissue Culture Plate\nNOTE: The S. aureus biofilm is cultured as previously described6,21.\nInoculate one individual colony of S. aureus from TSA in 10 mL of TSB and grow overnight at 37 °C.\nDilute the overnight culture into 10 mL of TSB/glucose (10 g/L) at a 1:100 (v/v) ratio. Vortex gently to mix for a consistent concentration.\nTransfer 200 μL of diluted culture into a total of 18 wells (more for experimental groups, such a non-biofilm control to suggest a relationship to ALP activity6) from one 96 well plate. Use triplets for each time point: 0 min, 15 min, 30 min, 45 min, 60 min, and 75 min. See step 3.2.\nIncubate the 96 well plate at 37 °C for 24 h for biofilm formation6,21.\nDecant the supernatant by aspiration.\nWash each well with 1x phosphate buffered solution (PBS, pH 7.4), centrifuge for 5 min at 15,000 x g and decant the supernatant by aspiration.\n3. Measurement of ALP Activity in S. aureus Biofilm\nNOTE: ALP activity was measured as described6,18.",
+    "Add 75 μL of buffered ALP substrate consisting of commercially available pNPP to each well from step 2.6 and begin recording the time. Record each time point in triplicate.\nAfter incubation for a varied time: 0 min (control), 15 min, 30 min, 45 min, 60 min, and 75 min respectively, add 75 µL of 5 M NaOH to stop the reaction.\nCentrifuge the plate for 5 min at 15,000 x g.\nTransfer 100 µL of supernatant into a new 96 well plate for colorimetric measurement.\nMeasure the absorbance of each well at 405 nm using a 96 well plate reader. Use the 0 min time point wells to control for 405 nm background noise.\nRepeat the entire experiment in three individual 96 well plates.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Bioengineering"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

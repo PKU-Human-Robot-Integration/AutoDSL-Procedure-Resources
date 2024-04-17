@@ -1,0 +1,16 @@
+{
+  "id": 8222,
+  "origin_website": "Bio",
+  "title": "<em>In vivo</em> Chick Chorioallantoic Membrane (CAM) Angiogenesis Assays",
+  "procedures": [
+    "Fertilized E6 chicken embryos (48 ± 5 g) were cleaned with 0.1% Benzalkonium Bromide and preincubated at 37.5 °C in 85% humidity for 2 days.    Egg morphology appears like a meta-ellipse, with a relatively larger side and a smaller one, and the air sac is usually located on the larger side right behind the shell. After disinfection of the shell center outside the air sac with 0.1% Benzalkonium Bromide, a hole highlighted with marker pen was buffed and drilled gently over the air sac with a nipper not to break the shell, and the vascular zone was easy to be identified on the CAM (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130918/20130918010714_7556.jpg Figure 1. The vascular zone of the CAM     Two drops of normal saline were then added to moisten the inner shell membrane adjacent to the CAM so that the membrane was easy to be separated from CAM.    After being clamped and raised by ophthalmic forceps, the membrane and the CAM separated unforcedly, and then a 1 x 1 cm window on the membrane was sectioned to expose the vascular zone.    A 5 mm x 5 mm sterilized filter-paper disks, which were used as a carrier for being directly loaded with indicated concentrations of chemicals or virus, were then directly applied and adhere to the vascular zone with right density of vascular.    Upon sealing the openings with sterile flexible packing film, the eggs were further incubated for indicated periods.    Finally, a mix of methanol and acetone (1:1 in volume) was directly added to immerse and fix the blood vessels of the experiment zone.",
+    "After being clamped and raised by ophthalmic forceps, the CAM was easy to be separated from the embryo, and it was cut and spread on glass slide, and the blood vessels were viewed, photographed and quantified by counting the number of blood vessel branch points (Figure 2).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130914/20130914050222_2385.jpg Figure 2. Blood vessel branch points on CAM. Arrow indicates new-formed blood vessel branches."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

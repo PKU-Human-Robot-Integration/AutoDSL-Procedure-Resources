@@ -1,0 +1,17 @@
+{
+  "id": 4407,
+  "origin_website": "Bio",
+  "title": "Bone Marrow Derived Eosinophil Cultures",
+  "procedures": [
+    "Collect femur/tibia from 6-8 mice.  Note: Mice between 6-8 weeks old will give the highest yield of low-density bone marrow fraction.   Flush the bone marrow from femur/tibia with PBS, pipet up and down to break up the bone marrow into single cell suspension.   Spin down the cells at 300 x g 8 min at 4 °C.   Resuspend cells in 15 ml of RBC lysis buffer, incubate for 2 min at 37 °C.  Note: If less than 6-8 mice were used, there is no need to adjust the volume of RBC lysis buffer. If more than 6-8 mice were used, we recommend scaling up the RBC lysis buffer accordingly and also scaling up the amount of PBS used to neutralize the RBC lysis buffer in step 5.   Add 30 ml of PBS to neutralize the RBC lysis buffer.    Spin down the cells at 300 x g 8 min at 4 °C.   Resuspend the cells in 16 ml of PBS.   Add 4 ml of histopaque 1083 to each of 15 ml centrifuge tube.   Carefully layer 4 ml of cells from step 7 to 4 ml of histopage 1083 prepared in step 8. Must use very slow speed to ensure that the layers are not disturbed. At the end of this step, there should be two layers: bottom clear layer contains histopage 1083, and top cloudy layer contaning cells.   Centrifuge at 400 x g for exactly 30 min at room temperature. The brake on the centrifuge needs to be in the off position.   Collect the low density fraction with a 1 ml micropipette. The low density fraction is at the interface between upper and lower layers. The approximate volume of this fraction is 0.5 ml to 1 ml.",
+    "Note: The low-density fraction is cloudy due to the low-density bone marrow cells at this fraction. The upper layer immediately above it is clear. The lower layer immediately below it should be significantly less cloudy compared to the low-density fraction.   Wash the cells with 30 ml of PBS and spin down at 300 x g 8 min.   Resusped the cells in IMDM with Glutamax-1 with 10% FBS, 100 U/ml penicillin, and 100 μg/ml streptomycin supplemented with 100 ng/ml stem cell factor and 100 ng/ml FLT-3 ligand at a concentration of 1 x 106/ml.   Plate 3 x 106 cells per well in 6 well plates (3 ml).    Change culture media on day 2 by aspirating 1.5 ml of media from each well and adding 1.5 ml of new media (see Recipes).  Note: Be careful not to aspirate the cells as the cells are settled to the bottom of the plate but are not attached.   On day 4 , collect all the cells, spin down the cells at 300 x g 8 min at 4 °C, wash once with 30 ml of PBS, then resuspend the cells at a concentration of 1 x 106/ml in IMDM with Glutamax-1 with 10% FBS, 100 U/ml penicillin, and 100 μg/ml streptomycin supplemented with 10 ng/ml of IL-5.   Change the culture culture media every other day. Cells should be counted and concentration adjusted to 1 x 106/ml during each media change.    At day 14, collect mature eosinophils for further studies. Eosinophil maturity can be assessed by FACS staining for CCR3 and Siglec-F and/or Diff-Quik staining of cytospin preparations following the manufacturer’s protocol (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140614/20140614085842_3028.jpg Figure 1. Morphology of mature bone marrow derived eosinophils. Morphology determined by Diff-Quik staining following the manufacturer’s protocol."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

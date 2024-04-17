@@ -1,0 +1,14 @@
+{
+  "id": 779,
+  "origin_website": "Nature",
+  "title": "Constraint-driven docking: a logistic docking approach for deriving protein-protein complex structure",
+  "procedures": [
+    "**Part-I \\(Benchmarking known crystal structure 1YCS)**\n1. First, separate the guest \\(BP2) and host \\(p53DBD) molecules in the complex crystal structure \\(PDB code: 1YCS) and save as .pdb files.\n  2. Select amino-acid constraints from analysis of the crystal structure \\(for known protein-protein pair)/ mutational studies or similar experiments \\(for unknown protein-protein pair).\n  3. Dock the guest structure back into the host structure by different protein-protein docking algorithms, e.g. ZDOCK version 3.0.2   \\(http://zdock.umassmed.edu/), PIPER \\(https://www.schrodinger.com/piper) and ClusPro 2.0 \\(https://cluspro.bu.edu/login.php); and constraint-driven docking is carried out. \n  4. Of many predicted guest-host complexes, only the top 5 models with strongest interaction energies \\(according to the energy scoring function) are compared to the corresponding crystal structure of the complex.\n  5. All atoms Root-mean square deviation \\(RMSD) values are calculated for each of the poses with respect to the crystal structure \\(command: fit 1YCS, complex.1).\n  6. If the RMSD values are found to be <2.0Å or 1Å, the crystal structure is said to be reproduced or accurately reproduced \\(Hevener et al., 2009). Number of successful structures reproduced are counted.\n   \n**Part-II \\(Derivation of p53:G-actin complex)**\n7. Crystal structures \\(PDB Code: 4MZR for p53, fragment: 94-356 and 3HBT for G-actin) are selected for p53:G-actin protein-protein docking calculation. \n  8. Considering the mutational data, Arg249 \\(p53) has been specified as amino-acid constraint for p53:G-actin docking calculation \\(similar to p53Arg248/Ser241/Met243/Asn247/Ser183/His178/Arg181/His179 constraint in p53:BP2 docking study). \n  9. By the ranking of the model and the fact whether it appears multiple times among the top 5 models with varied docking algorithms, model-1 \\(ZDOCK) is selected.\n  10. Model-1 is undergone All atoms molecular dynamics simulation in implicit solvent for 50ns in AMBER14 and the crucial amino acid contacts are analysed.\n  11. Using the similar parameters, docking calculations are done for both 1YCS and p53:G-actin complex in PIPER and ClusPro 2.0."
+  ],
+  "subjectAreas": [
+    "Structural Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

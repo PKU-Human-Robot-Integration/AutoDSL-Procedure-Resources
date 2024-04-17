@@ -1,0 +1,15 @@
+{
+  "id": 18908,
+  "origin_website": "Jove",
+  "title": "Noninvasive Intratracheal Intubation to Study the Pathology and Physiology of Mouse Lung",
+  "procedures": [
+    "The following protocol describes a noninvasive, simple, and quick method to deliver materials of interest to mouse lungs. This procedure was approved by the National Cancer Institute Animal Care and Use Committee.\n1. Anesthesia\nFirst, anesthetize the mouse using a mixture of ketamine and xylazine (100 mg/kg body weight and 10 mg/kg body weight, respectively). This is the ACUC recommended anesthesia and dose. With this amount, mice are unconscious at least for ~20 min.\nApply vet ointment to the eyes of the mouse in order to prevent drying of the eyes during anesthesia.\nAfter several minutes, pinch a foot of the mouse to check for consciousness. Once confirmed unconscious, place the mouse on an intubation stand angled at ~60° and hold it in place by hooking its upper incisors over a small rubber band located at the top of the stand.\n2. Intratracheal Intubation\nGently retract the mouse's tongue to one side using a Q-tip.\nWhen using the BioLITE Intubation Illumination System, carefully insert the intubation system until the larynx is visualized with the aid of the fiber-optic light guide.\nOnce the epiglottis and the arytenoid cartilages are visualized, insert the fiber over the epiglottis and between the arytenoid cartilages, and advance until the proper length of catheter has been inserted.",
+    "Note: In order to obtain the proper length of catheter to be inserted, initially measure the length between the mouth and the bronchial bifurcation point by using a practice mouse of a similar size in advance (Figure 1). The length largely depends on the size of the mouse. Insertion of the catheter should stop above the bifurcation point (~1.5 cm for mouse with ~25 g of body weight). This ensures that the intubated material will go to all lobes. At least 50 practice mice may be required for a person performing the intubation to become proficient in the technique (Proficient means that the success rate of intubation is more than 95%).\nOnce the catheter is inserted, quickly remove the fiber-optic light guide from the catheter to allow the animal to breathe normally. When the Intubation Illumination System is not used, directly insert a catheter as described.\nAdd a solution containing materials of interest to a catheter. Make sure that the solution is sucked into the lung immediately after addition. Fifty microliters for ~25 g mouse body weight is routinely used.\n3. Animal Recovery\nAs soon as the solution is sucked into the lung, take down the mouse from the stand, and put it back into the original cage.\nObserve the mouse until it starts moving.\nOnce confirmed that the mouse is in good condition, return the cage to a rack.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

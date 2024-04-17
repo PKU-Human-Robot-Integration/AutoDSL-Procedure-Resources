@@ -1,0 +1,16 @@
+{
+  "id": 5644,
+  "origin_website": "Bio",
+  "title": "Isolation of <em>Ustilago bromivora</em> Strains from Infected Spikelets  through Spore Recovery and Germination",
+  "procedures": [
+    "Harvest the infected spikelets from the plant by cutting them off using a pair of scissors. Figure 1 shows the appearance of the infected spikelets. Spikelets should be stored in a paper bag for ~10 days at 28 °C to dry out. They can then be stored at room temperature until use.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170711/20170711204952_1040.jpgFigure 1. Spikelets of B. distachyon infected by U. bromivora. The black masses of fungal spores are clearly visible in both the hydrated (right) and dehydrated (left) spikelet. The scale bar represents approximately 1 cm. The image background of the spikelets was digitally removed.Carefully grind the spikelets filled with spore material with a micro-homogenizer in 1.5 ml microcentrifuge tubes to break up the spikelet. The spores are very robust to survive harsh environments and will not be damaged by the grinding.Add 500 µl ddH2O and continue to grind softly. It is best to use a rotating motion to grind the spikelet as pushing into the microcentrifuge tube will cause the liquid to splash out. The liquid will turn black as it is ground, indicating that the spores have been released and are properly suspended.Incubate the ground spores in ddH2O for 1 h at room temperature to allow faster-germinating, contaminating, fungal spores to germinate. This will leave them more susceptible to the sterilisation treatment and reduce overall contamination levels.Add 500 µl 3% CuSO4 and mix the solution either by pipetting up and down or by using a vortex. This will kill most, if not all, of the contaminating spores that have germinated but not the U. bromivora spores which can take up to 17 h to germinate. Note: CuSO4 is a heavy metal and should be handled and discarded according to its MSDS.Incubate the spore/CuSO4 mixture for 15 min at room temperature.",
+    "Centrifuge the spore mixture at 1,200 x g for 5 min. This will cause the spores to pellet. Carefully pour out the liquid and re-suspend the spores in 1 ml ddH2O.Repeat step 7 three times but, on the third time, instead of re-suspending the spores in ddH2O, proceed to step 9.Re-suspend the spores in 300 µl ddH2O with antibiotics (ampicillin, tetracycline and chloramphenicol). These will kill any non-fungal cells that might have survived the CuSO4 treatment.Make a dilution series of the fungal spore suspension (100-10-4) in ddH2O with the three antibiotics. Plate 100 µl of each dilution on a PDAmp, Tet, ChlA plate (see Recipes), spread using glass beads and incubate at 21 °C for several days to obtain colonies.As U. bromivora spores contain tetrads, the original colonies should be singled out on PD plates (with or without antibiotics) to obtain colonies derived from a single cell."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

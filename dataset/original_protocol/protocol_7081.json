@@ -1,0 +1,15 @@
+{
+  "id": 7459,
+  "origin_website": "Bio",
+  "title": "A Method to Induce Brown/Beige Adipocyte Differentiation from Murine Preadipocytes",
+  "procedures": [
+    "Note: Pre-warm media (see Recipes) to 37°C for 10 min prior to the procedure. Seed cellsSeed 1 × 105 preadipocytes per well in a 12-well plate and culture in 1 ml of “Maintenance medium” (see Recipes: B1 for pro-browning induction, or C1 for pro-whitening).Change media every 2 days until 90% confluence.Adipocyte differentiationDay 0: Once cells reach 90% confluence, change media and culture for 2 days with “Maintenance medium”.Day 2: Replace media with 1 ml of “Differentiation medium day 2” (see Recipes: B2 for pro-browning, or C2 for pro-whitening) and culture for 2 days.Day 4: Remove media and replace with 1 ml of “Differentiation medium day 4” (see Recipes: B3 for pro-browning, or C3 for pro-whitening).Day 6: After 2 days, replace the media with 1 ml of “Differentiation medium day 6” (see Recipes: B4 for pro-browning, or C4 for pro-whitening).Day 8: Cells are fully differentiated and ready to use."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 469,
+  "origin_website": "Nature",
+  "title": "Isolation of Treg cells and Treg cell suppression/death assay",
+  "procedures": [
+    "**Magnetic Sorting of Treg cells**\n1) Harvest 5 Spleens from 5 to 12 week old mice.\n2) After mashing the spleens, pass the cells through the nylon strainer in the medium.\n3)After washing the cells with PBS/BSA, osmotically lyse the erythrocytes and incubate the single cell suspensions with FITC-conjugated anti-CD4 and biotin-conjugated anti-CD25 for 30 minutes on ice. \\(each 2&#xB5;g/ml concentration in 3ml volume of PBS/BSA)\n4) After washing in 40ml of PBS/BSA, resuspend the cells in 2ml of PBS/BSA and incubate with 120&#xB5;l of anti-FITC microbeads for 15 minutes in the refrigerator. This is followed by washing with PBS/BSA. \n5) Purify CD4+ T cells by magnetic isolation using the Auto MACS sorter \\(Miltenyi Biotec) using POSSELD2 program. Every incubation step is followed by PBS/BSA washing. \n6) Release the Anti FITC beads by incubating with release reagent \\(available in the multisort kit) followed by the depletion of cell that are bound to beads. This is performed by the DEPLETE program in the sorter. The negative fraction after this sort is used for further sorting.  \n7) For isolation of CD4+CD25+ Tregs, after releasing the beads, incubate the purified CD4+ T cell suspension \\(500&#xB5;l) with 2.5&#xB5;l of &#x3B1;-biotin microbeads followed by POSSELD2 separation using the Auto MACS.\n8) In all the experiments 90 to 95% of these cells were positive for CD4 and CD25. The negative fractions were depleted of CD25+ cells to obtain CD4+CD25&#x2013; cells\\(used as Tcon or Tresp cells in the assay). \n**Assay setup**\n1) Culture CD4+CD25- responder T cells \\(Tresp) \\(3&#xD7;10<sup>4</sup>) in U-bottom 96-well plates with Tcon \\(CD4+CD25-) \\(3&#xD7;10<sup>4</sup>) or Treg \\(CD4+CD25+) in the presence of soluble 0.5-0.75 &#xB5;g/ml &#x3B1;-CD3 and 2.5 - 4 &#xB5;g/ml &#x3B1;-CD28 for 2-4 days. 3&#xD7;10<sup>4</sup> irradiated \\(3000 Rad) T cell-depleted splenocytes can be added as APCs instead of &#x3B1;-CD28 in the co-culture.",
+    "2) Label Tresp cells with CFSE to distinguish them from Tcon or Treg cells in co-culture. Use Treg or Tcon cells in the co-culture with responders directly \\(fresh) or after pre-activation with plate-bound &#x3B1;-CD3 \\(5&#xB5;g/ml) recombinant IL-2 \\(100U/ml) for 2-3 days.\n3) Measure proliferation of T cells  by incorporation of 3H- thymidine for the last 6-16 h of culture or by CFSE dilution. \n4) Measure death at 0 hr and after 1, 2 and 3 days. Cell death analyses of CFSE+ responders should be performed based on forward scatter or Annexin V and propidium iodide staining.  Assess cell death with events acquired at constant time, in order to count the live events in flow cytometry analyses."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

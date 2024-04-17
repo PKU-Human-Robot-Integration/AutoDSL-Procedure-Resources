@@ -1,0 +1,15 @@
+{
+  "id": 7137,
+  "origin_website": "Bio",
+  "title": "Assay for Assessing Mucin Binding to Bacteria and Bacterial Proteins",
+  "procedures": [
+    "Protein preparationDialyze sample proteins at 100 μM into incubation buffer, prepared according to the recipe below. Adjust the final protein concentration after dialysis to 10 μM.Mucin preparationPrepare both type II and type III porcine stomach mucin solutions in carb/bicarb buffer according to the recipe below.IncubationStatically incubate an Immulon 2-HB 96-well plate with 50 μl of either type II porcine stomach mucin, type III porcine stomach mucins, or PBS overnight in a 4 °C incubator. Repeat every condition in triplicate.Remove the mucin solution and block the wells with 200 μl of blocking buffer, according to the recipe below, statically for 1 h in a 24 °C incubator.Remove the blocking buffer and wash once by adding 200 μl of incubation buffer and incubating statically on the bench for 5 min. Next incubate the wells statically for 3 h in a 24 °C incubator with 50 μl of purified protein samples or PBS.Wash with 200 μl of incubation buffer as described above and repeat for a total number of 4 washing steps.DetectionRemove the buffer and incubate the wells with 50 μl of anti-His-HRP antibody, diluted 1:2,000 in incubation buffer, statically for 1 h in a 24 °C incubator.Wash four times as described above with 200 μl of incubation buffer.Add 150 μl of o-Phenylenediamine dihydrochloride to each well and leave the plate in a 24 °C incubator without shaking for 30 min in the dark.Record at 450 nm using a plate reader."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 656,
+  "origin_website": "Nature",
+  "title": "Analysis of murine lamina propria TH17 cells",
+  "procedures": [
+    "**Isolation of LP lymphocytes \\(see also ref. 1)**\n1. Open intestines longitudinally, and wash in PBS to remove faecal content. \n  \n2. Shake in HBSS containing 5 mM EDTA for 20 min at 37&#xB0;C.  \n  \n3. After removal of epithelial cells and fat tissue, cut the intestines into small pieces and incubate with RPMI1640 containing 4% FBS, 1 mg/ml collagenase type II, 1 mg/ml dispase and 40 &#x3BC;g/ml DNase I for 1 h at 37&#xB0;C in a shaking water bath.  \n  \n4. Wash the digested tissues with HBSS containing 5 mM EDTA, resuspend in 5 ml of 40% Percoll \\(GE Healthcare) and overly on 2.5 ml of 80% Percoll in a 15-ml Falcon tube.  \n  \n5. Centrifuge the samples at 2,000 rpm for 20 min at room temperature. \n  \n6. Collect LP lymphocyte from the interface of the Percoll gradient and wash with PBS containing 0.5% BSA and 2 mM EDTA) or RPMI1640.  The cells can be used immediately for further experiments. \n  \n**Intracellular cytokine staining**.  \n1. Incubate LP lymphocytes with 50 ng/ml PMA, 5 &#x3BC;M Calcium Ionophore A23187 and Golgistop in complete media at 37&#xB0;C for 4 h.  \n  \n2. Incubate the cells with a corresponding cocktail of fluorescently labeled antibodies, such as anti-CD4 and anti-TCR-&#x3B2;, for 20 min at 4&#xB0;C.\n  \n3.  Permeabilize the cells with Cytofix/Cytoperm solution for 20 min at 4&#xB0;C.\n  \n4.  Incubate cells with fluorescently labelled cytokine antibodies, e.g. anti-IL-17 and anti-IFN-&#x3B3;, for 20 min at 4&#xB0;C.\n  \n5. Wash cells with PBS containing 0.5% BSA and 2 mM EDTA buffer.\n  \n6.  Analyze with Flow cytometer."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

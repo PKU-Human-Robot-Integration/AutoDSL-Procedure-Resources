@@ -1,0 +1,17 @@
+{
+  "id": 482,
+  "origin_website": "Nature",
+  "title": "Monitoring solid phase peptide synthesis",
+  "procedures": [
+    "**Fmoc determination**\n1. Collect neatly the piperidine solution \\(12 mL/mg) used for deprotection \\(steps 4-5 of the standard protocol) in a small flask or glass vial.\n  2. Dilute 1/20 with 20% piperidine in DMF \\(in a small vial: 100 &#x3BC;L collected solution + 1.9 mL 20% piperidine). Mix.\n  3. Fill the UV cell with 2.7 mL of 20% piperidine in DMF \\(reference solution), place the cell into the spectrophotometer and zero at &#x3BB;=301 nm.\n  4. Add 300 &#x3BC;L of the solution prepared at step 2 into the cell, mix and measure the absorbance.\n  5. Calculate the loading using the following equation:\n  Loading \\(mmol/g) = Abs<sub>sample</sub> x 0.4<sup>a</sup>\nabased on &#x3B5;<sub>301</sub>=6000 M<sup>-1</sup>cm<sup>-1</sup> \\(&#x3B5; depends also on the specifications of the spectrometer\\!); 3 mL deblocking solution, 1/200 dilution, 250mg resin.\nConstance \\(or slight progressive decrease) of loading is an indication of good progress of the synthesis. If loading values vary irregularly or decrease drastically, a microcleavage test \\(described below) should be performed.\n**Kaiser Test**\n1. Transfer a few resin beads to a small glass tube and wash several times with ethanol.\n  2. Add 100 &#x3BC;L of each of the solutions above.\n  3. Mix well and place the tube in a pre-heated oven \\(115 &#xB0;C) for 5 min.\n  &#x25B2; CRITICAL STEP To reduce the incidence of false negative results, it is recommendable to carry out a parallel positive control. The test is not applicable to N-terminal proline residues \\(secondary amine) and N-alkyl amino acids. The test may give false negative results when applied to aggregate sequences.\n**Microcleavage**\n1. Transfer a sample containing ~1-2 mg dry peptide-resin to a small syringe \\(2 mL).",
+    "2. Add 300 &#x3BC;L of the cleavage cocktail \\[TFA/ H<sub>2</sub>O/ phenol/ TIPS 8.5/ 0.5/ 0.5/ 0.5] to the dried peptide resin, stir gently for 30 sec and wait for 3 h \\(stir gently in-between).\n  3. Collect the solution in a small HPLC vial, dilute with 400 &#x3BC;L ACN/water 1/1, mix.\n  4. At this point the solution can be analyzed in an analytical HPLC system \\(inject 20 &#x3BC;L) and/or further diluted \\(1/10) to be injected \\(2 &#x3BC;L) in LC-MS."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Synthetic Chemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4799,
+  "origin_website": "Bio",
+  "title": "Determination of Quinone Reductase Activity",
+  "procedures": [
+    "Mix 970 µl of 20 mM Tris-Cl (pH 7.5), with 10 µl of 100 mM NADPH (final concentration 1 mM) and 10 µl of 100 mM p-benzoquinone (final concentration 1 mM) in a cuvette and equilibrate at 30 °C.   Zero the spectrophotometer and start the reaction at 30 °C by adding purified quinone reductase and immediately start recording the decrease in absorbance at 340 nm due to the oxidation of NADPH to NADP (approximately a 0.1 OD increase at 340 nm in 10 min should be observed, requiring 1 to 10 µg of purified enzyme). In a double-beam spectrophotometer, the measurement can be conducted in the reference beam, which will result in an apparent increase in absorbance. Since YaiB is an enzyme from L. lactis which grows best at 30 °C, this temperature was chosen for the assay,    A linear absorbance change should be observed within a few seconds. Let the reaction proceed for 5 to 10 min or until a steady reaction rate is observed. Calculate the activity as nmol/min, using an extinction coefficient for NADPH of 6,220 M-1 cm-1.  Enzyme kinetics   Both, NADPH and quinones are substrates of the enzyme reaction. NADPH is the reductant and quinones are the substrates being reduced. To determine the Km for a substrate (either quinones or NADPH), run enzyme reactions with one substrate at 1, 3, 10, 30, 100, 300 and 1,000 µM, while keeping the other substrate at 1 mM.   Determine the initial reaction rates, v0, from the slopes of the earliest linear regions of the recordings and plot v0 versus the substrate concentrations, S.   Fit the curve to obtain the affinity for the substrate, Km, and the maximal velocity, vmax. Alternatively, plot v0 versus 1/S to obtain a Lineweaver-Burk plot, from which Km and vmax can be determined."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

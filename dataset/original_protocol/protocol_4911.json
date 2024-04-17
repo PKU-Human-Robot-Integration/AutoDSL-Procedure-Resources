@@ -1,0 +1,16 @@
+{
+  "id": 5224,
+  "origin_website": "Bio",
+  "title": "Allogeneic Transplantation of Testicular Hyperplasia in <em>rag1</em> Mutant Zebrafish",
+  "procedures": [
+    "Subcutaneous transplantationMaintain all adult male recipients of rag1 mutant zebrafish without food 1 day prior to transplantation.Remove normal testes or spontaneous testicular hyperplasia from a donor fish as described in (Sakai, 2006), and cut to approximately 2-3 mm square containing the testis epithelium in L-15 medium.Place a paper towel in a 100 mm dish and pour a small amount of 0.4x PBS into the dish.Anesthetize the recipient zebrafish with 0.01% ethyl p-aminobenzoate.Place the anesthetized recipient fish into the 100 mm dish.Cover the head and tail of the recipient fish with wet paper towels (Figure 1A, Video 1).Descale the site of transplantation.Make an abdominal incision of approximately 5 mm in length with a razor blade.Insert the tips of a pair of forceps between the muscle and skin to prepare for the transplantation (Figure 1B, Video 1).Insert a fragment of the testis or testicular hyperplasia containing a small portion of adjacent tissue (Figure 1C, Video 1).Transfer the recipient zebrafish to a tank containing 0.4x PBS supplemented with 10 μg/ml gentamicin.Wrap the tank with aluminum foil to prevent the entry of light and incubate the tank at 26 °C for 4 days to promote wound healing.Rear the transplanted fish 4 days after surgery. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030231058_7491.jpgFigure 1. View of subcutaneous transplantation. A. Preparation of the recipient fish. The recipient fish is protected from drying by covering the head and tail with wet paper towels. B. Separation of the skin and muscle. The inserted forceps (arrow) separate the abdominal muscle from the skin of the recipient fish. C. View of the transplanted testis fragment. The testis fragment (arrowhead) is inserted into the treated area shown in (B). Scale bar = 5 mm.    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Procedures of subcutaneous transplantation  Serial transplantation of testicular hyperplasiaAfter growth of the testicular hyperplasia graft, anesthetize the recipient with 0.",
+    "01% ethyl p-aminobenzoate.Remove the testicular hyperplasia and transfer to a 60 mm dish containing L-15 medium.Cut the graft into approximately ten fragments of equal size.To confirm the condition of the testicular hyperplasia graft, set aside several fragments for histology.Re-transplant the remaining fragments, which contain epidermis of the hyperplasia, as outlined in Procedure A: Subcutaneous transplantation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

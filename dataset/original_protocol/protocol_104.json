@@ -1,0 +1,16 @@
+{
+  "id": 108,
+  "origin_website": "Nature",
+  "title": "Organotypic explant culture of adult rat retina for _in vitro_ investigations of neurodegeneration, neuroprotection and cell transplantation",
+  "procedures": [
+    "See PDF file \"Explant Protocol Procedure\":http://www.nature.com/protocolexchange/system/uploads/1741/original/Explant_Protocol_Procedure.pdf?1299089460 \nThis document includes full details for performing the following steps: \n1. Prepare an organotypic adult retinal explant culture and maintain this culture.  TIMING: 45-60 minutes per rat \\(i.e. pair of eyes) for tissue dissection; 20-30 minutes for bi-daily medium exchanges\n  \n2. Co-culture retinal explants with dissociated cell types \\(e.g. stem cells).  TIMING: cell transplantation 15-30 minutes \\(add approximately 10 minutes more for each additional plate).\n  \n3. Perform the pharmacological screen of neuroprotective drugs using retinal explants.  TIMING: treating explants approximately 10 minutes per plate\n  \n4. Preserve the retinal explants for histological analysis.  TIMING: approximately 24 hour\n  \n5. Perform cryostat sectioning of the retinal explants and label the sections by fluorescent immunohistochemistry.  TIMING: cryoprotection and embedding ~24 hours; cryostat each explant block approximately 40-60 minutes; immunohistochemistry requires 2 days.\n  \n6. Perform fluorescent immunohistochemical labelling of the whole-mount explants.  TIMING: approximately 3 days"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

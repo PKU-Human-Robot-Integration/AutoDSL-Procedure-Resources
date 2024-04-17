@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "origin_website": "Nature",
+  "title": "_In vitro class_ switching staining for flow cytometry",
+  "procedures": [
+    "Perform the following steps at 4 <sup>o</sup>C unless indicated otherwise.\n1 Harvest splenocytes by grinding of spleens in RPMI-1640 medium between two frosted microscope slides. Spin cells at 1000 RPM for 5 min. Remove erythrocytes by adding one equivalent volume of ACK Lysing Buffer to the remaining pellet. Gently resuspend, swirl tube for 1 min. Fill tube with 10 ml of RPMI-1640, centrifuge at 1000 RPM for 5 min. Resuspend in 10 ml of RPMI-1640. Filter through 70 &#x3BC;m nylon cell strainer. Centrifuge at 1000 RPM for 5 min. Resuspend 1 × 107 cells in 500 &#x3BC;l of FACS buffer. Obtain B cells by CD43 negative purification using anti-CD43 magnetic beads.\n2 Dilute CD43- B cells to a concentration of 5×105 cells/ml in B cell complete medium. Use 24-well plates. Incubate 5×105 B cells in presence of 10 &#x3BC;g/ml of anti-CD40 \\(clone 3/23), plus 10 ng/ml of recombinant mouse IL-4 for IgG1 analysis \\(6). Incubate for 4 d in a humidified 37 <sup>o</sup>C, 5% CO2 incubator.\n3 Wash cells with FACS buffer. Preincubate cells on ice for 10 min in presence of Fc blocker \\(anti-CD16/CD32). We usually use 0.5 &#x3BC;l of Fc blocker/ 5×105 cells in a total volume of 100 &#x3BC;l. CRITICAL STEP: Good Fc blockade.\n4 Stain cells with biotinylated anti-IgG1, anti-IgG2a-2b \\(we used the antibodies at a dilution of 1:200 in a total volume of 100 &#x3BC;l). Incubate on ice for 20 min. Wash 2x with FACS buffer.\n5 Stain cells with streptavidin conjugate of your choosing. Wash 2x with FACS buffer.\n6 Analyze by flow cytometry."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

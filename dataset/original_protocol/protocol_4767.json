@@ -1,0 +1,16 @@
+{
+  "id": 5069,
+  "origin_website": "Bio",
+  "title": "Protocol for Microfluidic System to Automate the Preparation and Fractionation of the Nucleic Acids in the Cytoplasm Versus Nuclei of Single Cells",
+  "procedures": [
+    "Filling and preparation of microfluidic systemEach experiment should start with a new microfluidic system to avoid contaminating the sample. The washing protocol further decontaminates the microfluidic system and the associated platinum wire electrodes. Precondition the microchannel by filling reservoirs cytoplasmic nucleic acids out (cNA), nuclear nucleic acids out (nNA), and vacuum (V) with washing solutions (see below) and applying vacuum at reservoirs input (I) and branch (B) using a Y-connection and a single vacuum line. The washing solutions and the process are as follows (Video 1):1 M NaOH with 0.1% Triton X-100 for 1 min. Wash platinum wire electrodes by dipping them into the same solution.1 M HCl with 0.1% Triton X-100 for 1 min. Wash platinum wire electrodes by dipping them into the same solution.Deionized water with 0.1% Triton X-100 for 1 min. Wash platinum wire electrodes by dipping them into the same solution.Dry the microchannel by applying vacuum to reservoirs I and V for 1 min.Load LE to reservoirs cNA, nNA and V, and apply vacuum to reservoirs I and B for approximately 1 min.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Filling and preparation of microfluidic system Loading single cell and extraction (Video 2)The protocol described here ends up with 20 μl of cytoplasmic RNA sample. The protocol for 10 μl of cytoplasmic RNA sample is also available using the volumes in parentheses.Remove the residual solution from all the reservoirs and load 20 μl (10 μl) of LE to reservoirs cNA, nNA, and V, and 20 μl (10 μl) of TE to reservoir B.Load a 2 μl (1 μl) cell suspension (approximately 5 cells/μl) into reservoir I. Introduce individual cells from this low concentration solution by applying a vacuum to reservoir V.",
+    "Visually confirm an isolated single cell in the section a of the channel, between reservoir I and the cross-junction, and add 20 μl (10 μl) of the TE buffer to reservoir I. Place platinum wire electrodes into reservoirs I, B, cNA, and nNA, and initiate the voltage sequence for lysis, extraction and fractionation.Extract a nucleus from DNA Out with a 1 μl micropipette and transfer to a PCR tube containing 19 μl of the qPCR master mix.Extract 20 μl (10 μl) of RNA sample from RNA Out and transfer to a PCR tube.Mix 9 μl of RNA sample with an 11 μl of the RT-qPCR master mix.Perform RT-qPCR and qPCR analysis with 20 μl of total assay volume.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Loading single cell and extraction"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

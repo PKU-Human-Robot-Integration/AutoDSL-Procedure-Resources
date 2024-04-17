@@ -1,0 +1,23 @@
+{
+  "id": 1932,
+  "origin_website": "Cell",
+  "title": "Protocol for generating a mouse model of gastric MALT lymphoma and the identification of MALT lymphoma cell populations by immunostaining",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nPreparing a frozen block of mouse stomach\nTiming: 6 months\nSix months after H. suis infection, sacrifice all mice through cervical dislocation under anesthesia.\nResect the stomachs, opening at the outer curvature (Figure 2[href=https://www.wicell.org#fig2]).\nimgsrc:https://prod-shared-star-protocols.s3.amazonaws.com/protocols/1414-Fig2.jpg\nFigure 2. Preparing frozen samples of mouse stomach\nPhotograph after resecting the stomach, opened at the outer curvature. Scale bar; 1.0 cm\nFree half of the stomach in cryo-embedding compound (O.C.T) to be cut into sections (Sakura Finetek, Tokyo, Japan).\nCritical: The OCT compound is added according to the size of the Cryomold (15 mm × 15 mm × 5 mm).\nCritical: The cryomolds are stored at −80°C until sectioning.\nPreparing a frozen sliced sample\nTiming: ∼1 h\nThe objective of this step was to create a sliced sample of 10-μm thickness.\nSet the inside temperature of the device between −15°C and −20°C.\nCritical: When preparing a sliced sample, ensure that the tissue does not crack or break after sectioning\nAfter slicing, immediately place the tissue sections in a staining vat containing 200 mL of acetone for about 1 s, dry the sections using an air dryer, and store at −30°C until staining.\nCritical: If the sliced sample is not stored at −30°C, start the staining immediately using the following procedure.\nImmunostaining protocol\nTiming: ∼24 h\nAir dry the tissue sections for 1–2 h at room temperature.\nUse a staining vat containing 200 mL of acetone to fix tissue sections. Fix the sections in acetone for 5–10 min.\nCritical: This fixation step should be done inside the chemical hood.\nAllow the sections to stand in a staining vat containing 200 mL of 1× PBS for 3 min, for each wash. Repeat the wash thrice.\nRemove the excess 1× PBS from the section using a wipe.",
+    "Add 100 mL of 10% goat serum drop-wise onto the section and incubate for 30 min for blocking, in a humid chamber.\nWash the sections thrice with PBS, incubating for 3 min each time.\nAfter removing excess 1× PBS from the section, add 100 μL of primary antibody (diluted 1:20–50 with 1× PBS) drop-wise and incubate at room temperature for 2 h (or at 4°C for 12–24 h in a humid chamber.\nCritical: Be careful not to let the sample dry out, because this could affect the staining. After removing excess PBS from the section, it is highly recommended to stain the samples immediately with the respective antibody.\nWash the sections thrice with 1× PBS, incubating for 3 min each time.\nRemove the excess 1× PBS from the section. Add 100 μL of secondary antibody (diluted in 1× PBS) drop-wise and incubate at room temperature for 1 h in a dark room in a humid chamber.\nCritical: Be careful not to let the sample dry out, because this could affect the staining.\nWash the sections thrice with 1× PBS incubating for 3 min each time.\nAfter removing the excess 1× PBS from the section, add 100 μL of fluorescent mounting medium drop-wise, and cover the tissue section with a coverslip (Size; 24 × 32 mm).\nCritical: Be careful not to let the sample dry out, because this could cause the fading of the fluorescence.\nCritical: After adding the mounting medium, ensure there are no bubbles in the sample. If there are air bubbles, use a PIPETMAN®pipetman to completely remove them by aspiration.\nCritical: After encapsulating the mounting medium, the sample can be stored at 4°C for 2–3 days.\nObserve fluorescence signals under a confocal laser-scanning microscope.",
+    "Use a suitable software, such as LSM Image Browser, to analyze the images. Set the pixels in the x-y plane to 1024 × 1024 pixels at a pixel size of 0.83 μm/pixel."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Microscopy",
+    "Cancer",
+    "Cell Biology",
+    "Microbiology",
+    "Model Organisms"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

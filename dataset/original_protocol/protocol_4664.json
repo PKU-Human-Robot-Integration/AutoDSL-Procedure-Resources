@@ -1,0 +1,15 @@
+{
+  "id": 4945,
+  "origin_website": "Bio",
+  "title": "Culture, Differentiation and Transfection of C2C12 Myoblasts",
+  "procedures": [
+    "Grow cells from frozen stock   Briefly thaw cells in a 37 °C pre-warmed water bath.   Once cells are thawed, pipette into Eppendorf tube and spin for 5 min at 1,000 rpm. Aspirate media. Resuspend cells in 10 ml growth media and plate in 100 mm dish.    Split the cells when they grow to 80% confluency.   Refreeze the cells: freeze the cells in freezing media.      Passage cells   Once cells reach 80% confluency, split as 1:40 to a new dish. 3-4 days later, it will be 80% confluency again.   Never let cells grow confluency. They will differentiate.      Transfection   Day 0: seed cells (low density, < 50%).   Day 1: transfection: (optimum 20% FBS, NO P/S).   Day 2: change media (growth media for regular growth or differentiation media for differentiation purpose).   4-5 days for complete differentiation under confluency.   3-4 days for complete differentiation under starvation media, but growth is restricted.   Example:   For 6-well plate: Seed 100,000-150,000 cells total in all 6 plates (10-15,000/cm2).   Transfect 1 μg DNA/6-wells (total)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

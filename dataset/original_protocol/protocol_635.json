@@ -1,0 +1,15 @@
+{
+  "id": 673,
+  "origin_website": "Nature",
+  "title": "Parallel DNA Polymerase Chain Reaction \\(PD-PCR)",
+  "procedures": [
+    "1. Obtain PAGE purified single stranded DNA of 120 bp. In our work this was commercially obtained at a scale of 1 O.D. from Sigma Aldrich, USA. \n  \n2. Purchase PCR oligonucleotide primers at a scale of 0.05 O.D. Ours were purchased from Sigma Aldrich. \n  \nThe sequence of custom synthesized template DNA and oligonucleotide primers used in the study are availaible at http://f1000research.com/articles/3-320/v1. \n3. In the PD-PCR reaction, use \\(PD-PCR-1) and \\(PD-PCR-2) primer set while for conventional PCR use \\(PCR-1) and \\(PCR-2) primers. Rest of the reaction remains the same.\n  \nThe details of PCR reaction mix used in our lab is as follows: total reaction mix=50µl, primers=1µl each \\(50 picomole), Taq DNA polymerase=0.5µl \\(5U/µl), dNTP mix=0.5µl \\(10mM), 10X PCR buffer=5µl, water=39µl and template DNA=3µl \\(0.114 ng).Taq DNA polymerase \\(M0273S) and dNTP mix \\(N0447S) were purchased from NEB \\(New England Biolabs). PCR analysis was performed using Veriti® Thermal Cycler \\(Applied Biosystem) by taking single stranded template DNA and amplifying it for 30 cycles at varying annealing temperature viz. 45°C, 50°C, 55°C, 58°C, 60°C, 65°C. \nPCR programming included 30  cycles of denaturation at 95°C for 15 seconds, annealing at varying \ntemperatures for 30 \\(as explained \nabove) and extension at 72°C for 30 seconds.\n4. Separate the PCR products obtained in two reactions on 1% agarose gel containing ethidium bromide. In our lab these were run and observed in gel-doc \\(DNR Bioimaging system, Jerusalem, Israel\n  \n5. Perform Real time PCR  with 2X SYBR Green master mix \\(K0221, Thermo Scientific, Pittsburgh, USA). \n  \nThe details of real time PCR reaction mix were as follows: total reaction",
+    "mix=10µl, primers=0.25µl each, \\(50 picomole), 2X SYBR green mastermix=5µl, water=4µl and template=0.5µl \\(1:1000 dilution from original stock of 0.96 picomole). In the PD-PCR reaction, we used \\(PD-PCR-1) and \\(PD-PCR-2) primer set while for conventional PCR we used \\(PCR-1) and \\(PCR-2) primers. Negative control included reaction mix without template DNA. \nReactions were incubated at 94°C for 5 minutes, followed by 30 PCR cycles of 94°C for 15 seconds, 50°C for 30 seconds and 72°C for 60 seconds using Mx3005P qPCR System - Agilent Technologies, Inc. \n6. Analyse the data were analyzed by using 2−ΔCt method. In our lab, the products were also run on agarose gel and visualised on gel doc system as previously described. \n  \nFor more information visit http://f1000research.com/articles/3-320/v1"
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

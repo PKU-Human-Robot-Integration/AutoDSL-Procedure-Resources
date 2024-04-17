@@ -1,0 +1,14 @@
+{
+  "id": 1346,
+  "origin_website": "Nature",
+  "title": "<p>An organic solvent-based protocol for depletion of abundant proteins in plasma of Leprosy patients</p><p><br></p>",
+  "procedures": [
+    "<p>TCA/Acetone and Chloroform : Methanol : Isopropanol (2:1:1) method for Plasma Protein Purification.</p><p>&nbsp;</p><p>&nbsp;</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200µl of plasma was taken in an Eppendorf tube and 1ml of Chloroform: Methanol: Isopropanol (500 µl: 250 µl: 250 µl) was added and kept it for 15 minutes. (Invert the tube 10 times to mix the solution).</p><p>&nbsp;</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tube was centrifuged at 12000 rcf for 10 minutes at 4°C and the supernatant was discarded.</p><p>&nbsp;</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, 800 µl TCA/Acetone (50%) was added and incubated overnight at -20°C.</p><p>&nbsp;</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tube was centrifuged at 12000 rcf for 10 minutes at 4°C and the supernatant was discarded.</p><p>&nbsp;</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add 1ml of Isopropanol in each Eppendorf tube and centrifuged at 12000 rcf for 10 minutes at 4°C and the supernatant was discarded.</p><p>&nbsp;</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let the Eppendorf tubes (protein) dry for 15-20 minutes.</p><p>&nbsp;</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then add 200µl of sample buffer for protein (SBP) in each tube and let the protein dissolve in it completely.</p><p>&nbsp;</p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Purified protein was estimated by Bradford assay.</p><p>&nbsp;</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the purified protein samples of leprosy and healthy individual were checked in 12% SDS-PAGE. </p><p>&nbsp;</p><p>10.&nbsp;&nbsp;The purified protein bands were observed by staining and de-staining procedure. </p><p>&nbsp;</p><p>11.&nbsp;&nbsp;Clear gel images were observed through gel documentation system.&nbsp;</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

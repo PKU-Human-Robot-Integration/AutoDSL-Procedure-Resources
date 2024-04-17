@@ -1,0 +1,17 @@
+{
+  "id": 509,
+  "origin_website": "Nature",
+  "title": "Prediction and mapping of promiscuous MHC class II binders in an antigen sequence",
+  "procedures": [
+    "To run prediction, follow these stepwise instructions. \nStep 1: Type the following URL address in your web browser \"http://www.imtech.res.in/raghava/propred\":http://www.imtech.res.in/raghava/propred \n                  \nStep 2:  The user is required to fill the sequence submission form. A brief  description of each of the field is as follows : \nName of Antigen: This is an optional field. \nPaste your sequence below: Paste your antigen sequence in one of the standard format \\(FASTA, EMBL, PIR etc.) or amino acid sequence only in single letter code.  \nOr submit from file: The user can also upload the antigen sequence directly from a file.  \nNOTE: Care should be taken that  the server accepts input from either of two options, not both.  \nInput sequence format: The user has to select the appropriate format according to the input sequence. \nSelection of parameters",
+    "Threshold: The threshold is an important parameter which is defined as the 'percentage of best scoring natural peptides'. For example, a threshold of 1% would predict peptides in any given protein sequence which belong to the 1% best scoring natural peptides.   The % threshold parameter allows the user to select for different stringency levels, in order to modulate the prediction results: a lower threshold corresponds to a high stringency prediction, i.e. to a lower rate of false positives and to a higher rate of false negatives. In contrast, a higher threshold value \\(low stringency) corresponds to a higher rate of false positives and a lower rate of false negatives. In short, from the same protein sequence input, a threshold setting of 1% will predict a lower number of peptide sequences and for a lower number of HLA-II alleles, compared to 2% or higher thresholds; however, this will also ensure a higher likelihood of positive downstream experimental results. Normally, at least for a first round of screening, threshold values higher than 3% are not desirable, since the rate of false positives can increase the size of the predicted repertoire to an amount unacceptable for later experimental testing. \nDisplay top scorer: Value in this field represent the number of top scorer in query antigen, to be displayed in tabular format. The peptide score of each nanomer in an antigen is calculated using quantitative matrices. The higher the score of any peptide frame the greater is the probability of it's binding to given MHC molecule. Default value is 5 % of the total number of nanomeric frames in query antigen. \nAllele: The user can select single/multiple allele form a list of 51 HLA-DR alleles. Multiple allele option is helpful in locating promiscuous binding regions",
+    "Result Display Format: The server offers different result display formats to ease the identification of promiscuous binders. The server display the binding peptides in sequence for selected alleles. User can select desired format.\nStep 3: Finally click on \"Submit\" button."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

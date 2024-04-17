@@ -1,0 +1,21 @@
+{
+  "id": 138,
+  "origin_website": "Nature",
+  "title": "FACS-based calcium mobilization assay",
+  "procedures": [
+    "1. Label peripheral blood-derived neutrophils \\(106 cells/mL) with fluo-4 AM \\(0.9 &#xB5;M) in assay buffer for 45 min at 37&#x2DA;C. \n  2. Wash and resuspend cells at 2&#xD7;10<sup>6</sup> cells/mL.\n  3. Keep cell solutions at 37&#x2DA;C.\n  4. Add stimulus to the cells, and directly record the change in mean fluorescent intensity \\(MFI) for 120 s using the BD FACSAria System. In a typical experiment, add the chemokine at its optimal concentration, e.g. as determined by chemotaxis assay. The MFI is a measure of the cytosolic Ca<sup>2+</sup> concentration.\n  5. For determining desensitization, add a second stimulus at time 130 s and measure another 120 s.\n  6. Analyze experiments via FlowJo Software \\(Tree Star, OR)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

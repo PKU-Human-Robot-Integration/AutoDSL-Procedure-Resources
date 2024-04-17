@@ -1,0 +1,15 @@
+{
+  "id": 4446,
+  "origin_website": "Bio",
+  "title": "Fluorometric Estimation of Viral Thermal Stability",
+  "procedures": [
+    "Each of the VLP and recombinant virus samples were diluted into PBS or the citrate-phosphate buffer to obtain concentrations between 0.1-0.24 mg/ml. A sample of lysozyme, at a concentration of 0.24 mg/ml, was included in each run as a positive control. The concentrations of the samples were varied to obtain similar fluorescence intensities on the instrument.   Aliquots of the concentrated 5,000x SYPRO Orange was stored at -20 °C and gently and completely thawed out to room temperature before every reaction setup.   1 µl of the SYPRO Orange was diluted into 100 µl of distilled water to obtain a 1% 50x working stock. As SYPRO Orange is light sensitive, the working stock was covered with aluminum foil and kept in the dark till right before distribution.   2.5 µl of the working stock was added to each of the above samples. The remaining working stock, if any, was discarded if not used after 4 h.   The samples were kept in an aluminum foil covered box to prevent exposure to light till they were transferred into the qPCR machine.   The assays were conducted with a temperature ramping from 30 to 99 °C, increasing 1 degree every 1 min.   The data was exported into a text (.csv) file and transferred into Microsoft Excel 2007 for data analysis."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

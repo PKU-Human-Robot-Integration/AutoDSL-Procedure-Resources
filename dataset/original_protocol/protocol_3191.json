@@ -1,0 +1,19 @@
+{
+  "id": 3380,
+  "origin_website": "Cell",
+  "title": "Protocol to visualize the distribution of exogenously administered small molecules in the mouse brain",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nProbe injection into a live mouse brain and keeping the mouse free to move\nTiming: 1 day\nThe probe of MOI is injected into a live mouse brain under anesthesia.\nCraniotomy.\nInject 200 μL of anesthetic solution into the mouse intraperitoneally.\nWait for the mouse to be anesthetized. Ensure the loss of the pedal withdrawal response.\nRemove hairs around the head moistened with 70% EtOH with a shaving knife.\nFix the head to the stereotactic apparatus.\nMake an incision in the skin of the head using small surgical scissors.\nPlace the mouse under the CCD camera.\nDetermine the target position on the skull using a CCD camera, monitor, and ruler.\nMake a small hole in the target area of the skull using a hand drill.\nCritical: Apply the drill gently, and be careful not to damage anything other than the skull.\nMicroinjection.\nFill the glass capillary with paraffin liquid.\nUsing a microinjector, load the 4.5 μL of probe solution into the glass capillary.\nPBS (–) and saline are available as solvents for probe injection.\nInsert the glass capillary into the target position.\nInject the whole amount of probe solution into the brain with a microinjector at 600 μL/min.\nRecovery from anesthesia.\nRemove the mouse from the stereotactic apparatus.\nClose the scalp with clips.\nInject an anesthetic antagonist solution intraperitoneally.\nLet the mouse move freely in the cage.\nCritical: Keep the mouse on the heating pad until it wakes up and moves around on its own. Monitor and keep the mouse in the cage.",
+    "Note: To inject a probe into the mouse brain, orient the capillary perpendicular to the surface of the brain, drill a hole in the skull, and insert the capillary following the information in the mouse brain atlas according to the age of the week.2[href=https://www.wicell.org#bib2],3[href=https://www.wicell.org#bib3]\nPerfusion fixation with 4% PFA solution\nTiming: 30 min\nPFA penetrates the mouse body to fix tissues and simultaneously immobilize small molecules of interest.\nAnesthesia.\nPlace the mouse in a sealed cage filled with 4% isoflurane.\nWait for the mouse to be anesthetized. Ensure the loss of the pedal withdrawal response.\nPFA perfusion (must be done in a fume hood).\nPlace the mouse on its back on a corkboard in a bat.\nAttach an inhaler to the head and flush 4% isoflurane.\nFix both hands and one leg to the corkboard with needles.\nPerform a thoracotomy to access the heart.\nInsert a needle connected to a peristaltic pump into the left atrium of the mouse.\nMake an incision in the right atrial appendage and perfuse with ice-cold 4% PFA 60 mL (three volumes of mouse body weight) in 10 min.\nEnsure that the entire body of the mouse is rigid.\nIsolate the whole brain using surgical scissors and transfer to 4 mL of ice-cold 4% PFA solution in a 5 mL-size tube.\nPost-fixation and sucrose substitution\nTiming: 2 days\nSoak the tissue in 4% PFA solution overnight at 4°C.\nReplace with 30% sucrose solution and soak until the tissue is submerged.\nSlice preparation with the cryostat\nTiming: 2 h\nImmerse tissue block into Tissue-Tek OCT compound in Tissue-Tek Cryomold.\nFreeze the sample in the cryostat.\nSlice the sample with 20 μm of thickness.\nCLSM imaging\nTiming: 2 h\nPut brain slices on a glass slide and enclose them with cover glass and Fluoromount/Plus.",
+    "Image slides with confocal laser scanning microscope."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Molecular/Chemical Probes",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

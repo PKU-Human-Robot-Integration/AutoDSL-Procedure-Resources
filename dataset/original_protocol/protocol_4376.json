@@ -1,0 +1,18 @@
+{
+  "id": 4598,
+  "origin_website": "Bio",
+  "title": "Isolation of CNS-infiltrating and Resident Microglial Cells",
+  "procedures": [
+    "Naïve and virus (Theiler’s Murine Encephalomyelitis Virus)-infected mice (3-5 vs. 2-3, respectively) are anesthetized by Isoflurane at 7 days post infection.   Anesthetized mice are transcardially perfused with 30 ml of sterile HBSS through left ventricle using 50 ml syringe.    Decapitate the mice and excise the brain. Flush the spinal cord from the spinal column using the 10 ml syringe filled with HBSS.   Excised brains and spinal cords are grinded separately or together using rubber-attached disposable syringe plunger through a steel mesh to prepare single-cells suspensions.    Grinded brain and spinal cords are subjected to 300 μg/ml collagenase type IV plus 20 μg/ml and incubated at 37 °C for 45 min.    Carefully decant the collagenase-containing supernatant after spinning the cell suspension at 630 x g (1,800 rpm) for 10 min at room temperature.  Isolation of CNS infiltrating cells using continuous gradient A continuous 100% Percoll gradient is used to enrich CNS mononuclear cells. 10 ml of 100% Percoll is added to 20 ml of cell suspension in complete RPMI and then gently mixed by inverting the tube. Centifuge without braking, at 25,000 x g (15,000 rpm) and 37 °C for 30 min using a J2-21 centrifuge. Collect mononuclear cells in the bottom one-third by aspirating out the cell debries in the top 15-20 ml.   Transfer the cells in the bottom Percoll gradient (10-15 ml) to v-bottom 50 ml tube.   Bring up the volume to 50ml with HBSS or RMPI, gently mix and then centrifuge at 630 x g (1,800 rpm) for 10 min.    Resuspend cells in complete RPMI medium.    Approximately 1-2 x 106 cells are obtained from the brain and spinal cord per mouse at 7 days post TMEV infection. Approximately 2-5 x 105 cells are obtained from the CNS of a naïve mouse.",
+    "Isolation of CNS infiltrating cells using discontinuous gradient  Alternatively, microglia and infiltrating mononuclear cells are isolated at the interface of 70% and 30% Percoll. In particular, microglia from naïve mice are isolated using this more defined method. Single-cell suspensions of 3-5 brains and spinal cords from naïve mice or 2-3 brains and spinal cords from infected mice, which are prepared as described above (steps 1-6), are subjected to a discontinuous Percoll gradient (70 and 30%) at 2,800 x g (5,000 rpm) and 20 °C for 20 min (resuspend cells in 15 ml 30% percoll and underlay 20 ml 70% Percoll). The cells that accumulated in the interface of the gradient are collected and transferred to v-bottom 50 ml tube to wash.    Isolated CNS-infiltrating mononuclear cells (5 x 105) are stained and analyzed by flow cytometry after gating live cells based on FSC and SSC (see Notes). The expression of CD45 and CD11b was measured using anti-CD45-allophycocyanin (APC) and anti-CD11b-phycoerythrin (PE) antibodies to distinguish CNS-resident CD45int microglia from infiltrating CD45hi leukocytes, in conjunction with their expression of CD11b (macrophages) or lack of it (lymphocytes). Specific cell populations such as B cells, CD4 and CD8 T cells are also either isolated or characterized in conjunction with flow cytometry using cell-specific markers.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150119/20150119182447_0965.jpg Figure 1. Continuous and discontinuous Percoll gradient centrifugations"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

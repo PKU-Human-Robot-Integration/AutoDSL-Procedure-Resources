@@ -1,0 +1,15 @@
+{
+  "id": 13608,
+  "origin_website": "Jove",
+  "title": "Imaging of Cell Shape Alteration and Cell Movement in Drosophila Gastrulation Using DE-cadherin Reporter Transgenic Flies",
+  "procedures": [
+    "NOTE: The transgenic flies used in this study include the following: DE-cad::GFP 10.\n1. Preparation of Apple Plate\nPrepare a mixture of 12.5 g agar, 125 mL 100% commercially available apple juice, 12.5 g glucose, and 375 mL H2O. Heat the mixture in a microwave and pour it into a 3 cm cell culture dish. Store the mixture at 4 °C for future use.\nAfter preparing the apple plate, add a thin layer of kneaded yeast paste on top of it to allow the flies to lay egg.\n2. Embryo Preparation and Live Imaging Protocol\nPlace approximately 50 flies (25 males and 25 females) in a bottle to mate and subsequently lay eggs overnight on an apple plate covered in kneaded yeast. Set the apple juice plate at the mouth of the bottle. Keep the bottle upside down in an incubator. Wrap the plastic Drosophila stock bottles with aluminum foil to prompt the flies to lay more eggs.\nThe next morning, replace the old apple juice plate with a new one.\nLet the flies lay eggs for 3 to 4 h by wrapping the bottle with aluminum foil.\nThree to four hours later, collect the embryos in an embryo strainer from the apple juice plate using a brush or cotton bad and wash them with PBS. Wash the embryos 2 to 3 more times with PBS in 12-well culture dishes.\nDechorionate the embryos with 50% bleach for 5 min in 12-well culture dishes.\nFollowing the dechorionation process, wash the embryos 2 to 3 more times with PBS.\nTransfer the embryos to a 3 cm cell culture dish containing PBS and select stage 5 embryos under the microscope based on the level of transparency at their borders. Pipette the staged embryos using a 200 µL pipette tip.",
+    "Next, place two selected embryos on a glass coverslip, and remove excess PBS with finely twisted tissue paper. Orient the embryos dorsal side up on the coverslip using a finely twisted tissue paper. After that, attach the embryos to the glass coverslip with silicon grease using a fine needle and twisted tissue paper.\nAdd a small drop of halocarbon oil 700 on the embryos and place the coverslip containing the embryos upside down on the indented slide, leaving some space at the bottom of the slide.\nExamine the embryos using a confocal imaging system, an Argon/488 laser, and an oil-immersion objective (63X).\n\tNOTE: Identifying the embryo at the appropriate developmental stage is important to capture images of the gastrulation event. Under these conditions, observe almost all embryos develop normally up to at least stage 14. The analyzed embryo can be cultured further to develop as an adult.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

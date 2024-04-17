@@ -1,0 +1,15 @@
+{
+  "id": 4664,
+  "origin_website": "Bio",
+  "title": "Measurement of Nucleotide Triphosphate Sugar Transferase Activity via Generation of Pyrophosphate",
+  "procedures": [
+    "Measurement of enzyme activitySet up the spectrophotometer and electronic cooling and heating cuvette holder. Hold a cuvette in the holder to keep the temperature (usually 37 °C).Prepare the assay kit solutions as written in the product manual and keep them on ice. The instruction states component A should be used within 4 h when melted.Prepare reaction mixtures according to Table 2.Preincubate the mixture at 22 °C for 20 min to react the contaminated pyrophosphate and phosphate in the block incubator. We usually incubate the mixture for another 10 min at 37 °C (the measuring temperature) to warm up the mixture. The original instruction recommends the preincubation for 10 min at 22 °C.Put the reaction mixture into the cuvette in the spectrophotometer and record the absorbance at 360 nm in a time-scan mode for 5 ~ 10 min. Usually, the linear time course of the color development was obtained often initial lag time of 10 ~ 20 sec. Therefore, it may be sufficient to record time points every 30 ~ 60 sec.Data analysisMeasure the rate of absorbance change (∆A360/sec).Convert the reaction rate (∆A360/sec) to the velocity (molar concentration/sec) by the difference of final A360 between the positive control and the negative control 1 (see the formula below).table:\n﻿0,1\nV (M / sec) =,∆A360 (cm-1) / sec - ∆A360 (cm-1) / sec (negative control)\nV (M / sec) =,ε (M-1 cm-1)\nWe experimentally determine the molar extinction coefficient of ~ 11,000 (M-1 cm-1) at 360 nm every time based on the final absorption of the positive control as follows.table:\n﻿0,1\nε (M-1 cm-1) =,\"final A360 (cm-1, positive control) - final A360 (cm-1, negative control 1)\"\nε (M-1 cm-1) =,\"pyrophosphate concentration (M, positive control)\"",
+    "The kit provides standard solution of 50 mM pyrophosphate (component D). We obtained fairy reproducible value for ε in our hands although the instruction does not mention about the known ε value, the original literature (Upson et al., 1996) states ε (M-1 cm-1) = 11,000 at pH 7.6.Table 2. Preparation of reaction mixtures imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150416/20150416021947_3808.jpgThe asterisk represent the kit components A~E. I~IV: The order of addition for preparation of reaction mixtures."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

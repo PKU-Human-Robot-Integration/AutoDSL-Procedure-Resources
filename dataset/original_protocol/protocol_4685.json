@@ -1,0 +1,16 @@
+{
+  "id": 4971,
+  "origin_website": "Bio",
+  "title": "Laser Microirradiation and Temporal Analysis of XRCC1 Recruitment to Single-strand DNA Breaks",
+  "procedures": [
+    "HeLa cells were seeded in 35 mm glass bottom Petri dishes (250,000 cells per dish) and transfected 24 h later with the XRCC1-GFP plasmid using Lipofectamine 2000 according to manufacturer recommendations.24 h after transfection, microirradiation was carried out with a 405 nm diode laser set to 5% power. The laser power at the exit of the fiber was of 4 mW, and around 1 mW watts at the exit of the 10x Obj.Measurements were performed by immobilizing the laser at 100% in a point bleach with the Digital Handheld Optical Power PM100D from THORLABS.Stimulation and acquisition were performed with the 60x objective at a zoom of 4 using an image size of 512 x 512.A stimulation line of 5 µm was defined and microirradiation performed for 6 sec. Six images were taken before micro-irradiation, to calculate the basal level of fluorescence. After micro- irradiation, an image was taken every 2 sec during 1 min.Between 10 and 20 cells are micro-irradiated in each experiment.  Note: To determine the intensity of the lasers to be used in each different microscope it may be useful to monitor the recruitment of proteins involved in Single Strand Break Repair (SSBR) such as XRCC1 and proteins involved in the repair of Double Strand Breaks (DSBR), such as 53BP1 or NBS1 and keep the conditions that induce recruitment of XRCC1 but not of the DSBR proteins. In our case, only after addition of the DNA intercalant Hoechst 33342 we could observe the recruitment of DSBR proteins so we could validate that in our conditions we were mainly inducing SSB."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

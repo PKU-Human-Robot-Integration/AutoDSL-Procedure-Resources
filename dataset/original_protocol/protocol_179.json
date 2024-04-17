@@ -1,0 +1,15 @@
+{
+  "id": 184,
+  "origin_website": "Nature",
+  "title": "Bacteria  Cryopreservation Protocol",
+  "procedures": [
+    "Bacteria Preparation\nFollow the laboratory protocol for bacterial growth and preparation.  \nRefer to CDC \\(Centers for Disease Control and Prevention) guidelines for utilization of pathogens in specific BSL \\(Biosafety Level).  Pathogens are infectious agents and should be manipulated in a controlled and safe environment.\nBacteria Freezing\n1. As a general rule, maintain the bacterial preparation at 4°C by placing it in a boat-reservoir in CoolSinkBX50 and/or ThermalTray on ice.\n  \n2. Prepare a bacteria glycerol stock by diluting the bacterial preparation with a sterile glycerol solution for a final 15-50% v/v glycerol concentration.  Dispense 1 ml of stock \\(or desired amount) in a pre-labeled TrueCool cryovial.  To avoid titer reduction maintain the vials on a CoolRackCFT30 in the CoolBox at 4°C.  The CoolRackCFT30 reduces contamination and spill accidents by allowing one-handed opening/closing of the cryovials. \n  \n3. While bacteria samples are kept cold at 4°C in the CoolRackCFT30, equilibrate a CoolRackCF on dry-ice for 10 minutes. Note: with this protocol, there is no need to make a dry-ice/ethanol slurry. Place the cryotubes directly on the pre-equilibrated CoolRackCF and snap-freeze the samples for 3-5 minutes.\n  \n4. Transfer the frozen samples to a storage box and place it in the -80°C freezer for long-term storage.  \n  \nBacteria Thawing\n1. Place the cryovials from the -80°C freezer in a CoolBoxCFT30 with a -12°C frozen cartridge inside to maintain the vials at the correct temperature and allow transport of the vials in a safe manner.\n  \n2. Place the vials directly in a 37°C water bath, and manually slowly agitate the vials to enable the thawing process. Just before the whole liquid is completely thawed, remove the vial from the 37°C water bath and place it on a CoolRackCFT30 previously equilibrated on ice. Samples are ready for experimental procedures or titer assessment."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

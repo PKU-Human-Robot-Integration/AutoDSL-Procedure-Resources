@@ -1,0 +1,15 @@
+{
+  "id": 4284,
+  "origin_website": "Bio",
+  "title": "Microsome Isolation from Tissue",
+  "procedures": [
+    "Make a 0.25 M sucrose solution that contains protease inhibitor cocktail, phosphatase inhibitor cocktails II and III, and PMSF as follows:Per 100 μl of Sucrose master mix add:a.  96 μl of 0.25 M sucroseb.  1 μl of protease inhibitor cocktailc.  1 μl of phosphatase inhibitor cocktail IId.  1 μl of phosphatase inhibitor cocktail IIIe.  1 μl of PMSFWeigh tissue to be analyzed and add 10x its mass in volume of sucrose master mix (see step 1; i.e. 100 mg = 1,000 μl of sucrose solution).While keeping all solutions on ice, add the appropriate amount of sucrose solution to tissue and dounce homogenize until a completely homogenous solution is obtained.Spin the homogenate at 10,000 x g for 10 min at 4 °C.Transfer the supernatants to a new microfuge tube (save the pellet at -20 °C) and spin at 30,000 x g for 90 min in a fixed angle rotor (or at 25,800 x g for 2 h).Transfer the supernatant to a different microfuge tube and save at -20 °C. The remaining pellet corresponds to the microsomal fraction.Pipette gently to resuspend the microsome pellet in 200 μl of the following mix (per 100 μl):a.96 μl of MPER bufferb.1 μl of protease inhibitor cocktailc.1 μl of phosphatase arrest cocktail IId.1 μl of phosphatase arrest cocktail IIIe.1 μl of PMSF"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

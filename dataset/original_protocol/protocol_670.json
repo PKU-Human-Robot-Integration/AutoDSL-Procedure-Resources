@@ -1,0 +1,16 @@
+{
+  "id": 710,
+  "origin_website": "Nature",
+  "title": "Detection of phosphorylation on large proteins by western blotting using Phos-tag containing gel",
+  "procedures": [
+    "**Preparation of SDS-PAGE gel containing Phos-tag**\n1. Assemble minigel glasses and spacers. We use 100 mm x 100 mm x 1 mm minigel apparatus from Nihon Eido \\(Tokyo, Japan).\n  2. Prepare Phos-tag separation gel solution by mixing solutions A+B+D+E with DW. We normally use 5% gel with 3.5 &#x3BC;M Phos-tag and 7 &#x3BC;M MnCl<sub>2</sub> for <sub>150 kDa protein. Add TEMED and solution F. Mix then pour. Allow to polymerize for </sub> 1 h.\n  3. Prepare stacking gel solution by mixing solutions A+C with DW. Add TEMED and solution F. Mix then pour. Allow to polymerize for ~ 1 h.\n  \n**Running the gel**\n4. Prepare sample by mixing whole cell lysate \\(or immunoprecipitates) with sample buffer. \n  5. Load samples onto the gel. Avoid loading dissimilar samples \\(i.e. salt concentrations etc.) to two adjoining wells, since this will cause severe distortion of the bands. It is necessary to set a vacant lane between samples and molecular weight markers to avoid such problems.\n  6. Run the gel at very slow speed with low constant current \\(~5 mA). It will require a long time; for our apparatus, it takes about 12 h to finish separation. It seems important to spend a long time for electrophoresis to obtain good separation. It is also important to use the separation gel buffer with appropriate pH \\(8.8). We experienced strong effect on gel running speed due to small fluctuations in the buffer pH.\n  \n**Western transfer**\n7. Equilibrate the gel with transfer buffer supplemented with 1 mM EDTA for 10 min. This is required to enhance efficiency of transfer. Then continue equilibration with transfer buffer without EDTA for additional 10 min.\n  8. Wet PVDF membrane with the transfer buffer.\n  9. Assemble gel-membrane stack with 3MM filter paper.",
+    "10. Transfer in a submarine-type apparatus for 60 min at 100 V constant voltage. Keep the apparatus at low temperature with plenty of ice.\n  \n**Blocking and detection**\n11. This can be done with a standard Western protocol. We found it important not to block too strongly; this may erase faint bands. We normally use 2% BSA/TBS-T overnight at 4&#xB0;C. Dilution and incubation length should be optimized with each antibody used. Quality of the antibody is particularly important, since non-specific bands may confound interpretation of the data. Thus it is desirable to include appropriate control \\(i.e. expression of mutant protein lacking phosphorylation sites)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

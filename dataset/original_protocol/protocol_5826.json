@@ -1,0 +1,17 @@
+{
+  "id": 6173,
+  "origin_website": "Bio",
+  "title": "Measurement of TLR4 and CD14 Receptor Endocytosis Using Flow Cytometry",
+  "procedures": [
+    "Day 1, Cell cultureCollect cultured bone marrow-derived macrophages (BMDMs) by gentle scraping. Disperse the cells into a single-cell suspension by repeatedly running the pipetted cell suspension along the test tube walls. Centrifuge cells (400 x g, 5 min, 23 °C), aspirate supernatant, and resuspend cell pellet in BMDM media. Count live cells via trypan blue exclusion assay.Plate 0.5 x 106 cells/well in a 6-well, non-treated, tissue culture plate. Culture the cells overnight in 2 ml/well of BMDM media. After 16 h of incubation (37 °C, 5% CO2), cells should be adherent and ready for the experiment.Day 0, Preparation before LPS stimulationPrepare Culture and Treatment Media as described in Recipes. Warm the LPS-containing treatment media to 37 °C prior to use.Chill sterile PBS, 1.5 ml Eppendorf tubes, and FACS buffer to 4 °C, prior to use. After LPS treatment, the cells will be collected using these solutions and tubes.Day 0, LPS stimulation of cellsAspirate BMDM media and wash 3 x with 3 ml of HBSS (room temperature) to remove dead cells and debris from each well. Add HBSS down the wall of the culture well and gently swirl plate to wash.Gently add 2 ml of Culture Media to wells labeled “Unstained BMDMs” and “t = 0 min/Untreated” treatment groups.Gently add 2 ml of Treatment Media to each well by pipetting the media along the side of the wells. Gently swirl the plate to ensure that the media is evenly distributed in the wells.Incubate at 37 °C for desired time points. Repeat Steps 3a to 3c as necessary for remaining LPS-treatment groups. Stagger the LPS treatment such that all samples are harvested at the same time.Day 2, Cell collection and antibody stainingNote: All reagents should be cold and the procedure should be performed at 4 °C (cold room).",
+    "Transfer plates treated in Step 3 to 4 °C for 5 min prior to collection – this is required to arrest endocytosis. Aspirate media from each well. Wash 2 x each with 2 ml of sterile, pre-chilled PBS.Add 1 ml of sterile, pre-chilled PBS to each well. Gently scrape to detach cells and pipette-mix to disperse the cells into a single cell suspension.Transfer the cell suspension to 1.5 ml Eppendorf tubes and centrifuge (400 x g, 5 min) to pellet the cells. After aspirating and discarding the supernatant, resuspend the cell pellet in 50 μl of cold FACS Buffer premixed with TruStain fcXTM antibody (1 μg/ml), for 10 min.Add 50 μl of the 2x-concentrate of antibody (anti-TLR4 or anti-CD14; see Table 1) in FACS Buffer to the cell suspension. Add 50 μl of FACS Buffer to “Unstained BMDMs” samples.Table 1. Antibodies used for measuring TLR4 and CD14 endocytosisimgsrc:https://en-cdn.bio-protocol.org/attached/image/20180713/20180713035407_2371.jpgPipette gently to mix and stain for 20 min in the dark.Add 1 ml of FACS Buffer, collect cells by centrifugation (400 x g, 5 min) and aspirate supernatant to remove excess antibody.Resuspend the cell pellet in 200 μl of FACS Buffer and transfer the cell suspension to FACS tubes. Keep samples on ice and in the dark (e.g., cover with aluminum foil) prior to measurement by flow cytometry.Analyze samples via flow cytometry within 1 h."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

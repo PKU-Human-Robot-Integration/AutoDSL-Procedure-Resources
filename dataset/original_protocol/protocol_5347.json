@@ -1,0 +1,17 @@
+{
+  "id": 5678,
+  "origin_website": "Bio",
+  "title": "Preparation of Crude Synaptosomal Fractions from Mouse Brains and Spinal Cords",
+  "procedures": [
+    "Notes:    The following protocol has been used to extract crude synaptosomal and free mitochondria fractions from mouse brain samples from mouse models of Alzheimer’s disease (see Breyhan et al. [2009] and Saul and Wirths [2017]). The user might need to modify the amount of solutions (e.g., lysis buffer) depending on the particulate downstream application (e.g., Western blotting or ELISA). For Western blots, we recommend to use 20 to 50 µg of total protein per well. This procedure will yield crude synaptosomal fractions with concentrations of approx. 7-10 µg/µl and microsomal and soluble enzyme fractions of approx. 4-6 µg/µl.     For mouse brain preparation, animals were anesthetized by carbon dioxide (CO2) and sacrificed by cervical dislocation. Tissues were carefully dissected and either directly used or kept at -80 °C until further use. No differences were noted in yield or quality of the protein fractions if fresh or frozen tissue has been used.      Mechanically homogenize fresh or deep-frozen brain hemispheres in a weight:volume ratio of 1:10 using cold lysis buffer (1,000 µl buffer per 100 mg tissue, see Recipes) with 10 strokes in a glass-Teflon homogenizer at 800 rpm (Figure 2).  Note: Our lab uses one brain hemisphere with cerebellum and olfactory bulb removed and flash frozen on a plate of dry ice, however the presence of cerebellum or olfactory bulb does not compromise the procedure. For convenience, we do not remove the meninges upon harvesting the tissue.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170727/20170727022642_1465.jpg Figure 2. Motor-driven homogenizer    Transfer the homogenate to 1.5 ml reaction tubes.   Spin the samples at 1,000 x g for 10 min at 4 °C to separate nuclei (Pellet P1). Note: Centrifuge should be pre-chilled to 4 °C.   Remove the supernatant (S1) and transfer to a new 1.5 ml reaction tube. The pellet (P1) can be discarded.",
+    "Spin the supernatant at 12,000 x g for 10 min at 4 °C and transfer the resulting supernatant (S2) containing the light membrane fraction and soluble enzymes to a new 1.5 ml reaction tube.    Resuspend the pellet (P2) containing crude synaptosomes and mitochondria in 500 µl PBS (see Recipes).   Homogenates can be stored at -80 °C until further use."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

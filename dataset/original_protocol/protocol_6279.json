@@ -1,0 +1,16 @@
+{
+  "id": 6635,
+  "origin_website": "Bio",
+  "title": "Immunohistochemical Identification of Muscle Fiber Types in Mice <em>Tibialis Anterior</em> Sections",
+  "procedures": [
+    "Sample preparationDissect hind limb tibialis anterior muscle and remove the surrounding connective tissue.Holding the tendon side of the muscle, place the tissue on the flat side of the syringe plunger.Cover the tissue with OCT compound and immediately snap-freeze the tissue by immersing in isopentane cooled with liquid nitrogen for 30-40 s.Store the frozen tissues at -80 °C for future use.Cut 10 μm transverse serial sections at the mid-belly region of the muscle in a cryostat maintained at -20 °C.Support the sections while cryosectioning with a brush and pick the sections by placing a glass slide (kept at room temperature) in very close proximity to the sections.Immunostaining of the muscle sectionsDraw a perimeter around the tissue section with a liquid blocker pen. This helps in staining multiple tissue sections on a glass slide and also reduces the volume of diluent required. Add freshly prepared blocking solution (minimum of 200 μl/section) onto sections to completely cover it and incubate at room temperature for an hour on low speed orbital shaker.Prepare 1:25 dilutions of Myh fast 2A, Myh fast 2B and Myh slow (type I) primary antibody in separate 1.5 ml microcentrifuge tubes with the diluent and incubate the sections overnight at 4 °C on a low speed orbital shaker.Wash the sections with 1x PBS 3 times for 5 min each to remove the non-specific antibody bound to the sections.Fix the primary antibody staining with 10% buffered formalin for 5 min and then wash three times with 1x PBS for five min each. It is recommended (specifically for DSHB MyHC primary antibodies) that the fixation should not be performed before primary antibody incubation, as this would disrupt the efficient binding of primary antibodies to different MyHC in the frozen sections. Hence fixation is performed after primary antibody incubation step.",
+    "Incubate the sections with 1:200 dilution of biotinylated sheep anti-mouse IgG secondary antibody made in diluent for one hour at room temperature with shaking.Wash the sections with 1x PBS 3 times for 5 min each and incubate with 1:400 dilution of streptavidin Alexa Fluor 488 conjugate tertiary antibody in 0.2% BSA and 0.1% PBS-Tween 20 (0.1% Tween 20 made in 1x PBS) for one hour at room temperature in the dark.Wash the sections with 1x PBS twice for 5 min each.Stain the myonuclei with DAPI made in 1x PBS diluted at 1:5,000 for 5 min and rinse thoroughly with 1x PBS.Air-dry the slides completely to mount with ProLong Gold Anti-fade mountant solution and allow it to dry overnight in the dark.Visualize using Leica CTR 6500 fluorescent microscope, equipped with the Leica DFC 310 FX camera under the FITC channel with wavelengths of excitation at 488 nm and emission at 536 nm."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

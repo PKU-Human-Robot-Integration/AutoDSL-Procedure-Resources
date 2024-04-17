@@ -1,0 +1,15 @@
+{
+  "id": 5685,
+  "origin_website": "Bio",
+  "title": "Stable Interference by shRNA with pSUPER.retro Vectors and Lipofectamine",
+  "procedures": [
+    "Design RNAi oligos to specifically interfere your favorite gene and clone them in the pRetroSUPER vector (according to pSuper RNAi System manual, OligoEngine) or use commercially available shRNAs vectors interfering your favorite gene.24 h before transfection, plate RKO or H1299 cells in 10 cm dish (about 8 x 105 cells and 10 ml of growth medium, i.e., DMEM plus 10% FBS and antibiotics) so that the cells will be 70-80% confluent at the time of transfection, to reduce toxicity.Pre-complex vector DNA (4 μg) with the PLUS reagent (20 μl) into DMEM medium without serum (750 μl) and antibiotics, and incubate at Room Temperature (RT) for 15 min.Dilute 10 μl of Lipofectamine into DMEM (750 μl) without serum and incubate at RT for 15 min.Note: We use less Lipofectamine reagent than indicated in the Invitrogen instructions to avoid toxicity. Combine pre-complexed DNA and diluted lipofectamine reagent, mix and incubate for 15 min at RT. Meanwhile replace growth medium on the cells with DMEM without serum and antibiotics (5 ml).Add the DNA-plus-lipofectamine complexes on cells and mix gently by rocking the plate. Incubate at 37 °C at 5% CO2 for 4 h.Replace medium with fresh growth medium after incubation (10 ml).Add puromycin to a final concentration of 2 μg ml-1 24 h after transfection. Every 48 h, replace growth medium adding fresh puromycin. Note: Maintain puromycin selection for ten days to obtain cells containing stably integrated shRNA expression constructs. Ten days after puromycin treatment, single colonies should be visible. You can choose to pick single colonies (picking with a pipet tip and plating in 24-well cluster plates), or pool all the colonies depending on your purpose.Allow for the cells to grow to 80-90% confluence. Verify cell confluence in between to avoid cell being over-crowded.",
+    "Once the cells reach 80~90% confluence, transfer them to appropriate dishes. Note: It is possible that colonies do not reach 80-90% confluence at the same time. In this case each clonal population will be transfer independently from the others. Once the cells reach 80~90% confluence, make liquid nitrogen stock and save some cells for measurement of shRNA-induced silencing (by Real Time PCR or Western blot).To maintain cells containing stably integrated vector, we use puromycin to a final concentration of 2 μg ml-1. However, we make large number of frozen vials to avoid keeping the cells in culture longer than 3 weeks, and start each new experiment from a new thawed vial."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

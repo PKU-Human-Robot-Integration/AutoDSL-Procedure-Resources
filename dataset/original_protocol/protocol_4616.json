@@ -1,0 +1,15 @@
+{
+  "id": 4882,
+  "origin_website": "Bio",
+  "title": "Skin Wound Healing Model - Excisional Wounding and Assessment of Lesion Area",
+  "procedures": [
+    "Creation of skin excisional wounds in miceAnesthetize mice as approved in your animal study proposal. We suggest intraperitoneally injecting a mixture of ketamine 100 mg/kg and xylazine 10 mg/kg, diluted in 100 µl of saline solution. It gives about twenty minutes of surgical anesthesia.Remove hair from the mice dorsum by using a hair removal machine.Prepare the surgical site with an appropriate skin disinfectant. We suggest 70% alcohol.Fold and raise the dorsal skin cranially and caudally at midline using the index fingers and thumbs to form a sandwiched skinfold (Figure 1A). Then, place the animal in a lateral position and press down the 5-mm diameter sterile biopsy punch to completely remove the two skin layers (Figure 1B) and create symmetrical full-thickness excisional wounds (Figure 1C). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151119/20151119052935_2261.jpgFigure 1. Stepwise skin excisional wounding surgery. Fold and raise the dorsal skin cranially and caudally at midline to form a sandwiched skinfold (A). Place the animal in a lateral position and punch through the folded skin (B) to create symmetrical full-thickness excisional wounds (C).After surgery, move the animal to a warm area and monitor its recovery from anesthesia. Return the fully recovered animal to its routine housing. Cage individually.Wound closure monitoring after surgeryAnimals are anesthetized as described in step A1 and the wound area is assessed every 2-3 days until full closure of the lesions.By using a digital caliper, measure the larger and minor diameters of the lesions (Figure 2) and determine the wound area by applying the following formula: (diameter A/2) x (diameter B/2) x π. Calculate the percentage of wound closure as follow: [(area of original wound-area of actual wound)/area of original wound] x 100.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151119/20151119053000_3422.jpgFigure 2. Assessment of the wound area. Measure the larger (A) and the minor (B) diameter of the lesion.",
+    "Calculate the area as follows: (diameter A/2) x (diameter B/2) x π."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

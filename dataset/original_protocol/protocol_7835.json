@@ -1,0 +1,16 @@
+{
+  "id": 8243,
+  "origin_website": "Bio",
+  "title": "Surface Polysaccharide Extraction and Quantification",
+  "procedures": [
+    "Extraction of surface polysaccharides from Gram-negative bacteriaGrow bacteria to desired growth phase (generally stationary phase) in desired growth medium.Note: Growth medium may affect surface polysaccharide levels, so the same media should be used for all experiments if possible.Measure OD650 of culture; dilute to < 1 OD if necessary to get an accurate measurement.Normalize cultures to OD650 of 2.0 (or to maximum OD that bacterial culture will grow to if it is less than 2.0).Harvest 1 ml of each normalized culture by centrifugation at 14,500 x g for 5 minutes in a microcentrifuge.Carefully remove supernatant with a pipette, discard tip.Wash cells by re-suspending in 1 ml of 50 mM NaCl, pellet by centrifugation at 14, 500 x g for 5 minutes, remove supernatant.Repeat step A6 four additional times (5 total washes).Re-suspend cells in 1 ml of 50 mM EDTA, and incubate at 37 °C for 60 minutes (EDTA causes LPS to dissociate, thus releasing the OM from cells).Pellet cells by centrifugation at 14,500 x g for 5 minutes, carefully remove supernatant and transfer to fresh microfuge tube (supernatant contains all surface polysaccharides, including LPS, capsule etc.).Quantification of surface polysaccharidesPrepare carbohydrate standards by diluting carbohydrate stock solution into 1 ml aliquots of: 0, 30, 60, 90, and 120 μg/ml of carbohydrate (e.g. 970 μl of dH2O + 30 μl of 1 mg/ml stock solution to generate a 30 μg/ml standard).Prepare clean, acid washed glass test tubes (for a suggested protocol, see Reference 4). Pipette 200 μl of standards, a 200 μl control of 50 mM EDTA, and all test samples into separate tubes.Move to fume hood.Add 200 μl of 5% phenol to all tubes, mix well by shaking.Add 1 ml of 93% sulfuric acid; mix well by swirling (use caution).",
+    "Allow colour to develop for 10 minutes at room temperature (reaction should turn yellow; intensity depends on carbohydrate concentration). Additional mixing by gentle swirling every 2-3 minutes may help reaction proceed faster. Measure OD490 of all reactions in a spectrophotometer; concentration of carbohydrates can then be calculated from the standard curve. Note: If necessary, dilute reactions in dH2O to get accurate spectrophotometer readings."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

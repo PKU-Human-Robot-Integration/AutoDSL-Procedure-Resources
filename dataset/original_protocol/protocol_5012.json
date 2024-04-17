@@ -1,0 +1,17 @@
+{
+  "id": 5331,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Treatment of Mouse and Human Cells with Endogenous  Ligands for Activation of the Aryl Hydrocarbon Receptor",
+  "procedures": [
+    "Treatment with Kyn or FICZ (each sample is usually prepared in triplicate to assess reproducibility)Seed MEFs or primary human monocytes to 12-well plate as 1 x 106 cells/well with 500 μl of DMEM (FBS+) and culture them at 37 °C in a 5% CO2-incubator.After 24 h, MEFs are washed once with 1 ml of pre-warmed PBS, and incubated with 500 μl of Trp-free DMEM (FBS+) for 24 h at 37 °C. This step is performed to cultivate cells under Trp-free conditions. This Trp-free culturing does not affect the growth of MEFs at least under these conditions.Remove medium, and incubate cells with 500 μl of Trp-free DMEM (FBS+) containing Kyn (0, 50, 100 or 200 μM) or FICZ (0, 0.1, 1 or 25 nM) for 2 h at 37 °C.To evaluate the effect of AHR ligands, the mRNA induction of TIPARP, one of the AHR-inducible genes, is analyzed by qRT-PCR as below: At 2 h after treatment of AHR ligands, cells are washed with PBS and dissolved by directly adding 500 μl of ISOGEN. Total RNA is then extracted according to the manufacturer’s protocol and adjusted to 1 μg/μl with nuclease free-H2O.In this step, total RNA is purified by degrading contaminated DNA with DNase I treatment. Make a mixture in the following order:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161229/20161229192512_2820.jpgIncubate the mixture samples at 37 °C for 15 min.Add 1 μl EDTA to each sample and incubate the samples at 65 °C for 10 min. This step is needed to stop the activity of DNase I.To next synthesize cDNA with a ReverTra Ace qRT-PCR Kit, make a mixture with each premixed reagent that is included in the kit, in the following order:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170102/20170102223208_5564.jpgIncubate the mixture samples at 37 °C for 15 min, and then incubate them at 98 °C for 5 min.",
+    "Make a 4-fold dilution of the cDNA samples with nuclease free-H2O for each qPCR template.Expression levels of reverse-transcribed mRNA, that is, cDNA, in each sample are next evaluated by qPCR analysis, wherein SYBR, a DNA-binding fluorescent dye, is used for the measurement of the levels of amplified DNAs, while ROX is used as a reference dye. Set up the following reaction mixture to amplify cDNA:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161229/20161229192138_6240.jpgNote: Use 1 μl of nuclease free-H2O or no-RT samples instead of a DNA sample as a negative control to confirm the procedure works as expected.The PCR plate is covered with an adhesive transparent cover, and then centrifuged shortly.Set the plate in the real-time instrument and start the real-time PCR following the program as below:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161229/20161229192200_4484.jpg"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

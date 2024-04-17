@@ -1,0 +1,17 @@
+{
+  "id": 6634,
+  "origin_website": "Bio",
+  "title": "ELISpots Assay to Measure the Number of Murine Plasma Cells Producing  Anti-dsDNA Antibodies",
+  "procedures": [
+    "Make double stranded salmon sperm DNA by passage though a 45 μm filter.    Add 100 μl/well of 100 μg/ml salmon sperm DNA to a 96-well Microtest assay plate.   Wrap the plate with plastic wrap and incubate at 4 °C for overnight.   Discard the coating antibody solution and wash the plate with 1x PBS-Tween 6 times.   Dry the plate and add 100 μl of blocking solution per well to the plate.   Incubate the plate at room temperature (RT) for 1.5 h.   Discard the blocking solution and wash the plate with 1x PBS-Tween 5 times.   Dry the plate and keep it at 4 °C for later use.   Harvest the spleen and create single cell suspension by gently smashing spleen pieces with the frosted surface of a pair of microscope slides in 5 ml of DMEM.   Transfer the cells into 50 ml conical tubes and spin down the cells at 300 RCF for 5 min at 4 °C.    Discard the supernatant with aspiration without disturbing the pellet.   Resuspend the cells with 5 ml of 0.17 M ammonium chloride and keep the cells on ice for 5 min.   Add 15 ml DMEM to the cells and spin at 300 RCF for 5 min at 4 °C.   Discard the supernatant and resuspend the cells with 20 ml of DMEM and count the cells.   Resuspend 2 x 107 cells in 2 ml of 10% DMEM and make three fold serial dilution (a total of 8 dilutions) with 10% DMEM.   Add 50 μl/well of the serial dilutions on the DNA coated plate and centrifuge at 300 RCF for 5 min at 4 °C.    Incubate the cells at 30 °C for 2 h in a cell-culture incubator with 6% CO2.    Add 50 μl/well of biotin-conjugated anti-IgM or anti-IgG (1:350 in 10% DMEM) to the cells.",
+    "Centrifuge the cells at 300 RCF for 5 min at 4 °C and incubate the cells overnight a cell-culture incubator with 6% CO2.   Discard the cells and wash the plates 10 times with 10x PBS-Tween 20.   Dry the plates and add 50 μl of streptavidin alkaline phosphatase (1:1,000 in 1% BSA/PBS) to the plate.   Incubate the plate at RT for 1 h and wash the plate 10 times with 10x PBS-Tween 20.   Dry the plate and add 50 μl/well of 1 mg/ml BCIP in AMP buffer to develop the plate.    When the spots are clearly visible under a dissecting microscope, stop the development by discarding the BCIP solution and rinsing the plate with tap water thoroughly.    Spots can be counted using a dissecting microscope or using an ELISpot reader."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 5064,
+  "origin_website": "Bio",
+  "title": "Measurement of Mitochondrial DNA Release in Response to ER Stress",
+  "procedures": [
+    "Prepare the SYBR qPCR master reaction mix as follows in Table 1 for mitochondrial genes of interest and internal control (housekeeping gene for used here is 18S rDNA) in 1.5 ml microcentrifuge tubes:Table 1. Master Mix recipe for quantifying mtDNA release into cytosol via qPCRimgsrc:https://en-cdn.bio-protocol.org/attached/image/20160614/20160614042935_5981.jpgThe following primers were used:Cytochrome c oxidase I (mt gene) Forward: 5’-GCCCCAGATATAGCATTCCC-3’ Reverse: 5’-GTTCATCCTGTTCCTGCTCC-3’ 18S rDNA (internal control)Forward: 5’-TAGAGGGACAAGTGGCGTTC-3’Reverse: 5’-CGCTGAGCCAGTCAGTGT-3’Mix gently but thoroughly by pipetting. Incubate reaction mix on ice until ready to use.Aliquot DNA samples (1 µl) into wells (run in triplicates) (Bronner et al., 2015).Aliquot corresponding Master Mix (19 µl) into the corresponding wells (Bronner and O'Riordan, 2014).Use the thermal cycler program as seen below in Table 2:Table 2. Thermal cycler program for mtDNA release qPCRimgsrc:https://en-cdn.bio-protocol.org/attached/image/20160614/20160614040210_4972.jpgOnce qPCR is complete, calculate relative fold change in cytochrome c oxidase I from the Ct values."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

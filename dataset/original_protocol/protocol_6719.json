@@ -1,0 +1,14 @@
+{
+  "id": 7082,
+  "origin_website": "Bio",
+  "title": "A Simple Microplate Assay for Reactive Oxygen Species Generation and Rapid Cellular Protein Normalization ",
+  "procedures": [
+    "Cell seedingCoat 96 well plate plates with extracellular matrix solution if required for desired cell type.Dissociate and count cells with cell counting device.Seed at appropriate density in 100 µl in phenol red-free complete media overnight (typically 20,000-30,000 cells/cm2).Incubate for up to 0.5 h at room temperature (~24 °C) to prevent uneven seeding.Plate plate(s) within humidifier chamber in CO2 incubator.Dye loading and incubationPrepare 20 µM H2DCFDA in pre-warmed base medium (DMEM/F12, no phenol red) on day of experiment.Empty plate into waste container (inversion and flicking can be utilized if cells are strongly adherent, otherwise carefully remove media with a multichannel, for suspension cells centrifuge prior to this).Add 100 μl 20 µM H2DCFDA to each well using a multichannel pipette.Return plate to incubator for 30 min.Empty plate into a waste container.Add phenol-red free media and treatment including hydrogen peroxide as a positive control (e.g., 90 µl media, 10 µl compound).Return plate to a humidified chamber in incubator for desired treatment period (e.g., 1 h or 24 h incubation).AcquisitionAcquire with fluorescence plate spectroscopy with appropriate filter set closest to excitation 494 nm/emission 522 nm.Empty plate and add 35 µl TCA-SRB (0.004% w/v SRB in 10% w/v TCA) (2-8 °C) for 15 min in a fridge or cold room. Empty plate into an appropriate corrosives waste container and wash with 200 µl of 1% acetic acid. A second wash may be required if the background is higher than expected, particularly with automated pipetting devices that cannot completely remove liquid from the corner of the well.Empty plate and replace with 100 µl 10 mM Trizma base solution, incubate at ambient temperature for 5 min, and gently manually agitate plate for 5 s to redistribute dye following incubation.Acquire by fluorescence plate spectroscopy with appropriate filter closest to excitation 565 nm/emission 586 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

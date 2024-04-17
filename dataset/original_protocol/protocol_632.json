@@ -1,0 +1,19 @@
+{
+  "id": 670,
+  "origin_website": "Nature",
+  "title": "Analysis of flow-cytometry microbial biofilm datasets with viSNE and Matlab",
+  "procedures": [
+    "Data Import and Transformation\n1. Run cyt in Matlab \\(select cyt directory as working directory and type run_cyt into Matlab prompt) and choose add data \\(plus sign) in the GUI. Cyt enables import in the .fcs \\(default, standard flow-cytometry format) as well as .csv format. To import from the .csv format, change file filter to *.csv. The .csv file needs to be formatted with the columns representing the measured parameters and each row representing a different measured particle/cell. \n  2. Transform the data using hyperbolic arcsin transformation, with cofactor of 150. \n  3. Merge or subsample the datasets. \n  \nRunning viSNE and post-processing in cyt\n4. Select the samples and measurements that you want analyzed by choosing the appropriate Gates and Channels in cyt. Right-click on the selected ones and run viSNE \\(bh-SNE). Once the algorithm is finished, new channels, named bh-SNE1 and bh-SNE2, appear. These are the SNE coordinates used for visualization of the data.\n  5. Visualize viSNE maps as scatter plots \\(select bh-SNE1 and bh-SNE2 channels and click scatterplot), and play with the visualization options. \n  6. Categorize visual clusters into subpopulations, based on expert knowledge and optical and autofluorescent properties. For example, by comparing the optical scatter and fluorescence intensities at different wavelengths it is possible to assign a category \\(e.g. cells with low forward scatter and high 660 nm intensity is likely to consist of cyanobacteria).  \n  7. For quantification, the identified subpopulations need to be delineated, using the polygonal region selection tool in cyt. Counting the number of particles/cells in each delineated region is done automatically by cyt. \n  \nPost-processing in Matlab\n8. The analysis can be exported from cyt into Matlab by saving the session in cyt and then loading the session .mat file into Matlab prompt.",
+    "9. To calculate the similarity between different viSNE maps, you can use maximum mean discrepancy as described in the file mmd_visne.m \\(https://github.com/anzezupanic/FC_analysis ). The compared maps should be of equal number of cells, and obtained from the analysis of the same parameters obtained from the same instrument. \n  10. To see where particles/cells NOT used during viSNE would be projected onto a viSNE map, use the script in overlay_visne.m \\(https://github.com/anzezupanic/FC_analysis )."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology",
+    "Cell Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

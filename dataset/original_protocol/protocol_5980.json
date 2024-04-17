@@ -1,0 +1,16 @@
+{
+  "id": 6332,
+  "origin_website": "Bio",
+  "title": "UV Cross-linking Assay and Competition Assay",
+  "procedures": [
+    "UV cross-linking assayPrepare the following mixture on ice:2.5 μl 4x binding buffer0.5 μl RNase inhibitor (10 units/μl)1.0 μl BSA (1 μg/μl)1.0 μl Yeast total RNA (1 μg/μl)0.5 μg purified protein25 fmol 32P-labeled RNA probeAdjust the final volume to 10 μl with Nuclease-free water and mix the reaction.Note: The amount of protein used in the reaction depends on the RNA binding affinity. Therefore the amount of protein, either purified one or from cell extract, needs to be tested.Incubate at room temperature (RT) for 10 min.Place the cap-opened tube containing the reaction mixture on ice, and illuminate under a UV lamp at 254 nm wavelength for 20 min.Note: The distance between the sample and UV source is about 10 cm.Add 1 μl of 10 mg/ml protease-free RNase A and 1 μl of 0.5 unit/μl RNaseT1 to the reaction mixture. Incubate at 37 °C for 30 min.Note: A reaction (as shown in procedure 1a) excluding the protein addition needs to be done as the negative control to make sure the unbound RNA probe is complete digested.Add 3 μl of 5x protein sample buffer to the reaction mixture. Incubate the sample in a boiling water bath for 5 min.Analyze the sample by electrophoresis with a standard SDS-PAGE gel.Dry the gel by the using of Bio-Rad model 583 Gel dryer and place an imaging plate over the dried gel. Expose overnight to visualize the radioactive signals of cross-linked proteins.Scan the radioactive images by the using of Fujifilm BAS-1500 Image Analyzer.Competition assayThe procedures are the same as UV cross-linking assay described above except that the unlabeled competitor RNA is pre-incubated with the protein at RT for 10 min prior to the addition of 32P-labeled RNA probe.Prepare the following mixture on ice:2.5 μl 4x binding buffer0.5 μl RNase inhibitor (10 units/μl)1.0 μl BSA (1 μg/μl)1.",
+    "0 μl Yeast total RNA (1 μg/μl)0.5 μg purified protein50 fmole (2x), 250 fmole (10x), or 1,250 fmole (50x) competitor RNA.Adjust the final volume to 10 μl with Nuclease-free water and mix the reaction.Incubate at RT for 10 min.Add 1 μl 32P-labeled RNA probe (25 fmole) and Incubate at RT for 10 min.The following steps are the same as UV cross-linking assay described above (from procedure 1c-1 h)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

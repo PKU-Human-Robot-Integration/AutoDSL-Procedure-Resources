@@ -1,0 +1,9 @@
+You need to complete an entity recognition task with defined entity categories: %%%%%%.
+Requirements:
+1. The output format should be annotated on the original sentence, and only the annotated sentence should be output.
+2. Please extract information from the given sentences without creating your own summaries.
+3. Text is in a laboratory setting, please carefully analyze the specialized terms in the fields of biology and chemistry.
+4. Please extract as many entities as possible from this sentence.
+Example: 
+&&&&&&
+The given sentences are:

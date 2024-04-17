@@ -1,0 +1,16 @@
+{
+  "id": 4935,
+  "origin_website": "Bio",
+  "title": "Detection of Hydroxyproline O-galactoside by LC/MS",
+  "procedures": [
+    "Ba(OH)2 hydrolysis   Dissolve galactosylated peptide in 500 μl 0.22 M Ba(OH)2 in a glass vial with cap.   Incubate at 105 °C, 6 h.   Incubate on ice for 5 min.   Add 500 μl of 0.32 M sulfuric acid on ice.   Centrifuge at 20,000 x g for 5 min.      Partial purification of Ba(OH)2 hydrolysate (Figure 1)   Plug a 1 ml micropipette tip with a small amount of cotton.   Pack 200 mg AG 50W-X8 resin into the tip column.   Wash the column with 1 ml of 1 M NaOH by gravity flow.   Wash the column with 1 ml of 1 M HCl by gravity flow.   Wash the column with 1 ml of water by gravity flow.   Apply supernatant of the Ba(OH)2 hydrolysate of the galactosylated peptide to the tip column.   Wash the column with 1 ml of water by gravity flow.   Elute with 1 ml of 10% aqueous ammonia by gravity flow.   Evaporate the sample to dryness.   Dissolve in 100 μl 80% acetonitrile containing 0.1% formic acid.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160119/20160119185755_6054.jpg Figure 1. Partial purification of Ba(OH)2 hydrolysate. Supernatant of the Ba(OH)2 hydrolysate of the galactosylated peptide was applied to the tip column.       LC/MS analysis  10 μl aliquots of the assay solution will be analyzed by LC-MS using a micro HPLC (high pressure liquid chromatography) system connected to an LCQ Deca XP-plus ESI ion-trap mass spectrometer. Chromatographic separation is performed by normal-phase HPLC on a TSK-gel Amide-80 (3 μm) column (2 x 150 mm).   The mobile phase is composed of HPLC grade water containing 0.1% formic acid (eluent A) and HPLC grade acetonitrile containing 0.1% formic acid (eluent B). The column temperature is maintained at 25 °C.   The HPLC flow rate is 100 μl/min, and the elution gradient was 60 to 40% B over 10 min.",
+    "Subject the HPLC eluate to coupled electrospray ionization (ESI) in the positive ionization mode.    MS source parameters are as follows:   Capillary temperature: 200 V   Capillary voltage: 42 V   Source voltage: 5 kV   Source current: 8.5 μA   Sheath gas flow: 50   Aux gas flow: 0   Sweep gas flow: 0   The mass range: m/z 500-2000  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160119/20160119185809_9262.jpg Figure 2. Detection of Hyp O-galactoside in Ba(OH)2 hydrolysates of in vitro galactosylated AGP14 by LC-MS. The sample was analyzed by selected ion monitoring of Hyp (m/z 132.1) and Gal-Hyp (m/z 294.1). Ba(OH)2 hydrolysis yields a diastereomeric pair of amino acids.      The mass spectra are obtained by selected ion monitoring in zoom scan mode (Hyp: m/z 132.1, Gal-Hyp: m/z 294.1)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6322,
+  "origin_website": "Bio",
+  "title": "Use of Gas Chromatography to Quantify Short Chain Fatty Acids in the Serum, Colonic Luminal Content and Feces of Mice",
+  "procedures": [
+    "Sample preparationCollect blood from cardiac puncture or axillary plexus. Maintain blood at room temperature (RT) for 30 min and centrifuge (3,000 x g, 8 min). Collect the serum and freeze at -80 °C in 1.5 ml microtubes.Collect fecal pellets directly from each mouse in microtubes. For this, raise the animal holding the tail, position the microtube in the proximity of the anus and collect the pellets that are excreted. Two or three pellets from each animal are adequate.After euthanasia, collect the colons and gently remove the luminal contents of the proximal part. To do this, use the forceps to collect directly into microtubes and freeze at -80 °C.Keep all biological samples frozen at -80 °C until the day of analysis.For feces and colonic luminal content, transfer 20 mg of these into 1.5 ml microtubes and add 200 µl of distilled water. Homogenize using a metal spatula. In 1.5 ml microtubes, add the sample (200 µl serum or homogenate of feces with water, see Step A5), a 200 µl mixture of organic solvents composed of N-butanol, tetrahydrofuran and acetonitrile in a 50:30:20 ratio, 40 µl HCl 0.1 M, 20 mg citric acid and 40 mg sodium chloride. Shake the microtubes vigorously using the vortex stirrer for 1 min.Centrifuge the samples at 14,870 x g at room temperature for 10 min.Using an automatic pipette, transfer the supernatant to chromatographic vials equipped with 200 µl inserts and analyze by GC-FID (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181113/20181113222540_9503.jpgFigure 1. Sample preparation. A. Liquid-liquid extraction procedure of samples. Serum samples (200 µl) were extracted with the same volume of a mixture of solvents. B. Liquid-liquid extraction procedure for feces and colonic luminal content samples. Fecal samples (20 mg) were previously homogenized with distilled water and subjected to the extraction procedures described in Steps A5-A8 of Sample preparation section.",
+    "GC procedureAdjust the temperature of the injector to 250 °C.Inject contents (5 µl) in a split ratio of 25:1, using the DB 23 capillary column Agilent, 60 m x 0.25 mm of internal diameter (i.d.), and coated with a film of 0.15 µm composed of 80.2% 1-methylnaphthalene.The mobile phase is composed of N2 at an initial flow rate of 1 ml/min and maintaining this for 1 min, then changing to 0.8 ml/min for 1 min, changing to 0.6 ml/min for 1 min and then reverting to 1 ml/min for 9.2 min.Adjust and maintain the temperature of the FID detector at 260 °C.Adjust the flow of the H2 and the synthetic air to 30 ml/min and 350 ml/min, respectively.Adjust the temperature program of the oven to100 °C, maintain for 7 min and increase to 200 °C at a rate of 25 °C/min and maintain for 5 min."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

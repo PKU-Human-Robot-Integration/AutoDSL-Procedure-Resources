@@ -1,0 +1,17 @@
+{
+  "id": 6441,
+  "origin_website": "Bio",
+  "title": "Quantification of the Humidity Effect on HR by Ion Leakage Assay",
+  "procedures": [
+    "Grow 12 plants per genotype on soil for 3 weeks under 22 °C, 50% RH 12 h light/12 h dark condition.In a 15 ml tube, prepare Pst AvrRpt2 (OD600nm = 0.002) in 10 mM MgCl2 (or MgSO4).Using a 1 ml needle-less syringe, pressure-infiltrate 3 fully expanded leaves (leaves 4, 5 and 6) per plants with the Pst AvrRpt2. Note: It is much easier to infiltrate from the abaxial side of the leaf. Dry excess of Pst AvrRpt2 inoculum gently using Kimwipes. Move plants to chambers set to conditions being compared. Keep 6 plants per genotype under 50% RH 22 °C 12 h light/12 h dark and the other 6 plants per genotype 90% RH 22 °C 12 h light/12 h dark conditions for 36 h.Note: We use Pst AvrRpt2 at OD600nm = 0.002 to capture the effect of the environment on the developing ETI. At this inoculant, the hypersensitive response becomes visible to the eye at around 24 hpi in plants under 50% RH. Collect dH2O in a 1 L beaker and confirm that the conductivity is below 1.5 µS/cm. Note: High dH2O conductivity generates high noise and can result in failure of the experiment. Using the EMS Rapid-core 6.0 puncher, collect 3 leaf discs per plant (1 disc per leaf) in a 50 ml tube (i.e., 6 tubes per genotype).Label each tube individually if interested to report data as a percentage (see Step 15)Add 30 ml dH2O to each tube and rinse discs by inverting tube 3 times.Using dH2O, prepare 100 ml of 400 mM mannitol (7.3 g mannitol in 100 ml dH2O) per genotype.Note: Confirm ion measurement of the 400 mM mannitol is not greater than 3 µS/cm. For each tube containing leaf discs, replace all dH2O with 6 ml 400 mM mannitol.",
+    "Make a blank by adding 6 ml 400 mM mannitol to an empty 50 ml tube for measurement correction during data analysisShake tubes at 100 rpm for 2 h at room temperature.Using the Thermo Scientific Orion Star A322 electro-conductivity meter, measure initial ion leakage (see Figure 1) and proceed to data analysis.Note: When measuring, be careful not to hurt leaf discs or move discs across tubes during measurement. (Optional Step) If presenting data as percent ion leakage.For 10 min, boil samples by moving tubes to a water bath set at 100 °C.Cool tubes to RT.Measure total ion leakage and proceed to data analysis.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190331/20190331013748_3574.jpgFigure 1. Picture describing ion leakage measurement using the Thermo Scientific Orion Star A322 Electro-conductivity meter"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

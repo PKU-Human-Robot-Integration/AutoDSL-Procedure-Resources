@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "origin_website": "Nature",
+  "title": "Immunostaining of DDR proteins in senescent cells",
+  "procedures": [
+    "1) Prepare poly-D-lysinated coverslips \\(poly D lysine 50&#x3BC;g/ml)\n2) Plate 15-20 x 10<sup>3</sup> cells on coverslips 1 day before the staining\n3) Wash cells gently 2x5&#x2019;in PBS1x\n4) Fix and permeabilize cells for 2&#x2019; with methanol/aceton 1:1 at RT\n5) Block cells for 30&#x2019; with PBG1x\n6) Stain with primary antibodies diluted in PBG1x at indicated concentration for 1h at RT in a humidified chamber\n7) Wash cells gently 3x5&#x2019;in PBG1x\n8) Stain with secondary antibodies diluted in PBG1x for 1h at RT in a dark humidified chamber\n9) Wash cells gently 2x5&#x2019; in PBG1x and 2x5&#x2019;in PBS1x\n10) Stain with Dapi for 5&#x2019; in the dark\n11) Mount coverslips with 3&#x3BC;l of Mowiol mounting medium\n12) Let the coverslips dry before microscope analysis"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

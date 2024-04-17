@@ -1,0 +1,15 @@
+{
+  "id": 4349,
+  "origin_website": "Bio",
+  "title": "Purification and Fluorescent Labeling of Exosomes",
+  "procedures": [
+    "Purification of exosomes   Burkitt’s Lymphoma cell lines are grown up from 1 x 107 (in one 10 cm dish) to 2 x 108 cells (in twenty 10 cm dishes) in 200 ml RPMI 1640 medium containing 10% exosome-depleted FBS in the 5% CO2 incubator at 37 °C.   Culture medium containing exosomes are harvested and centrifuged in 50 ml conical tubes at 1,500 rpm for 10 min at room temperature to remove cells.    The supernatant is centrifuged in 50 ml conical tubes at 3,500 rpm for 15 min at room temperature to remove cell debris.   The supernatant is ultracentrifuged in polyallomer centrifuge tubes at 25,000 rpm for 1 h at 4 °C with an SW28 rotor.    The pelleted exosomes are resuspended in 100 µl TNE buffer over night at 4 °C.   The exosomes are fractionated by use of a 0.25-2.5 M sucrose gradient in TNE buffer in polyallomer centrifuge tubes at 25,000 rpm for 4 h at 4 °C with an SW40Ti rotor. After that, you will see a band derived from exosomes (if you collect 1 ml of each fraction from the top, exosome fraction usually locates around 6th fraction from the top).    The band is collected (about 1 ml) carefully with an autopipette.    Fractionated exosomes are ultracentrifuged at 25,000 rpm for 1 h at 4 °C with an SW40Ti rotor.   The pelleted exosomes is resuspended in 100 ~ 200 µl TNE buffer over night at 4 °C.   The total protein concentration in the fractions is determined by the Bradford protein assay.   The fraction containing exosomes (4 µg, each) is confirmed by western blot analysis with anti-CD63 monoclonal antibody (1:1,000 dilution) (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140411/20140411042557_9606.jpg Figure 1. Purified exosomes derived from Burkitt’s lymphoma Mutu cell lines.",
+    "Exosomes were purified from culture medium of Mutu- (1st lane), Mutu I (2nd lane), and Mutu III (3rd lane) cells. 4 µg of exosomes were analyzed by western blot with anti-CD63. The arrow indicates the bands that correspond to CD63.      Fluorecent labeling of exosomes   1 ml of fractionated exosomes (100 ng/ml) is incubated with 6 µl of 10 µM stock solution of 1, 1'-Dioctadecyl-3, 3, 3', 3'-Tetramethylindocarbocyanine Perchlorate (DiI) in methanol for 1 h in the dark at room temperature with gentle agitation.   Confirm the efficiency of labeling with small amount of exosomes under fluorescent or confocal laser scanning microscope.   Aliquot, stored at -80 °C."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

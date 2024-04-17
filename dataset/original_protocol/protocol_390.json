@@ -1,0 +1,19 @@
+{
+  "id": 415,
+  "origin_website": "Nature",
+  "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(4) Confocal microscopy",
+  "procedures": [
+    "**Histology and immunohistochemical analysis**\n1|  Euthanize adult mice \\(C57bl/6 strain) by CO<sub>2</sub> and embed globes in cryomolds containing Tissue-Tek OCT compound and frozen on dry ice.\n2|  Cut frozen sections \\(10 &#xB5;m thickness) with a Leica 3060S cryostat and collect on SuperFrost/ Plus slides and store at -70&#xB0;C. \n3|  Prior to immunolabeling, allow slides to air dry under vacuum for 20 minutes. \n4|  Fix sections for 10 minutes in 4% formaldehyde in 1X PBS, wash repeatedly in 1X PBS, prior to blocking in 5% normal goat serum in immunolabeling buffer \n5|  For paraffin embedded sections fix eyes in 10% Formalin \\(overnight) \n6|  Embed globe in paraffin and cut 5&#x3BC;m sections with a microtome \n7|  Paraffinize sections used for antibody staining as follows: \n- Incubate in xylene for 3 minutes each \\(3X). \n- Incubate in 100% ethanol for 2 minutes \\(2X). \n- Hydrate by placing slide in 95% ethanol for 2 minutes \\(2X) \n- Then 70% ethanol for 2 minutes \\(2X)\n- Then 50% ethanol for 2 minutes \\(2X)\n- Then 30% ethanol for 2 minutes \\(2X)\n- Transfer sections to distilled water.\n8|  Block with normal rabbit serum for 1 hr.\n9|  Dilute rabbit polyclonal antibody to IL-27 to 5 and 10&#xB5;g/ml in immunolabeling buffer \\(stock antibody =500ug/ml/ working dilutions of 1:50 and 1:100). \n10|  Incubate sections in diluted primary antibody overnight at 4&#xB0;C in a humidified chamber. \n11|  Rinse sections in immunolabeling buffer \\(3X) \n12|  Then incubate in Alexa 568 conjugated goat anti-rabbit secondary antibody containing DAPI \\(1&#xB5;g/ml) for 1hr at room temperature in an opaque chamber. \n13|  Wash sections in immunolabeling buffer \\(3X) \n14|  Then mount in anti-fading agent and cover with cover-slip. Primary antibody was omitted from sections used as negative controls. \n15|  Examine sections on a Leica SP2 laser scanning confocal microscope",
+    "16|  All images were collected under identical PMT detector settings."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Genetics",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

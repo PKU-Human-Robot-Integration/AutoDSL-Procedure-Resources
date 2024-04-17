@@ -1,0 +1,17 @@
+{
+  "id": 4928,
+  "origin_website": "Bio",
+  "title": "Quantification of Low Molecular Weight Thiols in <em>Arabidopsis</em>",
+  "procedures": [
+    "Preparation of samples and standardsFresh tissues are sampled into a 1.5 ml microcentrifuge tube and weighed with an analytical balance. 50-100 mg is sufficient for each biological sample.Samples are ground in the microcentrifuge tube with a mortar and a pestle with 2 volumes of 0.15 M HCl added by 200 μl pipette (for example, 100 mg tissue needs 200 μl).The homogenate is centrifuged at 12,000 x g, 4 °C, for 15 min and the supernatant is transferred into a new 1.5 ml microcentrifuge tube. This step can be repeated if necessary to remove insoluble substances. Prepare 10 mM stock solutions of L-cysteine, gamma-glutamylcysteine, and glutathione, and then prepare the following standards: 0, 50, 100, 200, 500, 1,000 μM of L-cysteine, gamma-glutamylcysteine, and glutathione by diluting the stocks with 0.15 M HCl. 100 μl of the supernatant from step A3 (or standards) is transferred to 1.5 ml microcentrifuge tubes containing 2 μl of 0.5 M EDTA, 2.6 μl of 300 mM mBBr in acetonitrile, and 100 μl of 1.75 M MES (pH 7.4). The mixture was incubated in the dark at 37 °C for 1 h to allow the derivatization reaction to completed.The mixture is centrifuged as in step A3 for 5 min before quantification.Quantification by HPLC (refer to Agilent 1200 HPLC ChemStation Operation)Select “Edit entire method” from “Method” menu and set parameters according to the following text. For quantification, 50 μl sample from step A6 is injected into the sample chamber of the HPLC system and separated using a reverse-phase C18 column and a flow rate of 0.8 ml/min on an Agilent 1200 HPLC system. Solvents A and B are used to elute the fluorescent derivatives with the gradient shown in the table below.",
+    "The fluorescent derivatives (mBSR) are detected using fluorescence detector with excitation wavelength at 260 nm and emission at wavelength 474 nm.Table 1. HPLC elution programtable:",
+    "﻿0,1,2,3\nTime (min),A (%),B (%),Rate of flow (ml/min)\n0.0,90,10,0.8\n0.3,85,15,0.8\n14.0,80,20,0.8\n15.0,0,100,0.8\n19.0,0,100,0.8\n20.0,90,10,0.8\n24.0,90,10,0.8\nAnalyze standards and samples using the HPLC program above with at least 3 replicates.Peak areas are integrated using the ChemStation software.Select “Data analysis” from the “View” menu to enter the picture data analysis. Select “Load signal” from the “File” menu to select your data file.Select “Integrate” from the “Integration” menu, and then the data is integrated.Calculations Prepare standard curves by plotting the concentration (μM) of the standards (Y-axis) vs the peak areas (X-axis) and add a trendline.Determine the peak area for each sample and determine concentration using the trendline. Concentration (μM) = a * peak area + b (a and b are already calculated in the trendline)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

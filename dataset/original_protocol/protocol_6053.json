@@ -1,0 +1,16 @@
+{
+  "id": 6405,
+  "origin_website": "Bio",
+  "title": "<em>Rhodobacter capsulatus</em> Gene Transfer Agent (RcGTA) Activity Bioassays",
+  "procedures": [
+    "Preparation:3 days prior to the assay, inoculate GTA donor strains in RCV broth and grow aerobically overnight at 35 °C (200-250 rpm).2 days prior, measure optical densities (OD) of overnight cultures of GTA donor strains and normalize them by dilution with RCV broth. It is simplest to dilute all ODs to match the lowest, as the actual OD is irrelevant so long as all cultures are at the same final density. Use a 1% v/v inoculum of normalized donor to inoculate YPS broth without antibiotics to grow anaerobically and photosynthetically over two days at 35 °C without shaking, mixing occasionally by inverting the culture tubes. These culture tubes should be filled to the brim with YPS broth and sealed tightly, to create anaerobic conditions, and placed equidistant from the light source. Incandescent bulbs are better than fluorescent bulbs, but the heat generated from the bulbs must be dissipated (e.g. by having the culture tubes in a water tank) in order to maintain culturing temperature. 1 day prior, inoculate recipient strain in RCV broth and grow aerobically overnight at 35 °C (200-250 RPM).Assay:Pass donor strain cultures through a 0.45 μm filter, collecting the filtrates in polypropylene tubes.Centrifuge 1 ml of recipient cultures, decant the supernatant and re-suspend in an equal volume of GTA buffer.Mix the following in a polypropylene tube:-Filtrate Controls (for each Donor filtrate): 0.5 ml GTA buffer, 0.1 ml filtrate.-Recipient Controls (for each Recipient Strain): 0.5 ml GTA buffer, 0.1 ml recipient cells.-Experimental samples: 0.4 ml GTA buffer, 0.1 ml filtrate, 0.1 ml recipient cells.Incubate tubes at 35 °C for 1 h with no shaking.Add 0.9 ml RCV broth to each tube.Incubate tubes at 35 °C for 3 h with shaking at ~200 rpm.Transfer the 1.5 ml mixtures from the polypropylene tubes to individual 1.5 ml microcentrifuge tubes.",
+    "Plate 150 μl of each filtrate + recipient mix on plates to represent 10% of the total. This is not necessary for the recipient and filtrate controls.Centrifuge all tubes, decant supernatant, and resuspend pellets in the small (~100 μl) volume that remains. Spread these resuspensions on plates to represent 90% and 100% for experimental and control assays, respectively. These plates should be selective for the transfer of the marker, or grown in conditions that select for a transferred marker.Grow for 2-3 days at 30-35 °C.Count colonies. Determine ratios of colonies on experimental plates over the number of colonies found on a positive control (e.g. a wild type strain)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

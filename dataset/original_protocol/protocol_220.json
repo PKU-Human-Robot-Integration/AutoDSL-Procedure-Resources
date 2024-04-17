@@ -1,0 +1,18 @@
+{
+  "id": 231,
+  "origin_website": "Nature",
+  "title": "The protocol for the direct reprogramming therapy of human liver cancer cells with only chemicals",
+  "procedures": [
+    "Step 1: Preparation of human samples\n # Obtain human liver cancer samples.\n \n\\(10 liver cancer samples were obtained with informed consent from patients who underwent a liver transplantation at our institutions <6> ). \n \nStep 2: The evaluation of AKR1B10 expression\n # Evaluate AKR1B10 expression in the human HCC samples according to the number of positively stained tumor cells. \n # If none of the tumor cells demonstrated AKR1B10 immunostaining, the sample is\nconsidered to be AKR1B10-negative. \n # Use an AKR1B10 antibody \\(monoclonal rabbit anti-human AKR1B10 antibody, clone 1A6; Abnova Corporation). \nStep 3: In vitro anticancer drug sensitivity testing for the 10 patients with HCC \n# Incubate the liver cancer cells in a flask coated with collagen gel in a CO2 incubator at 37°C for 24 h. \n# Only the viable cells adhering to the collagen gel should be collected and resuspended in the reconstituted type 1 collagen solution for a final density of 1 × 1000000 cells/mL. \n# Three drops of the collagen-cell mixture should be placed in each well of a 6-well plate in a 60 mm dish, and the plates were allowed to reach 37°C in a CO2 incubator for 1 h. \n# The final concentration is approximately 3 × 100000 cells/collagen gel droplet. \n# Culture medium should be added to each well, and the plate should be incubated in a CO2 incubator at 37°C overnight. \n# The anticancer drugs \\(i.e., 10 μM ACR alone, 10 μM zopolrestat alone or 10 μM ACR plus 10 μM zopolrestat) must be added to the cells for 2 days. \nStep 4: Determination of albumin and alpha fetoprotein \\(AFP) in the culture media　\n# The albumin protein concentration should be determined by an enzyme-linked immunosorbent assay \\(ELISA) using goat anti-human albumin \\(Cosmo Bio Co., Tokyo, Japan).",
+    "# The quantitative analysis of AFP secretion should be performed with the AFP Amerlex-M RIA detection kit \\(Ortho Clinical Diagnostics, Issy les Moulineaux, France).\nStep 6: Measurement of oxygen consumption in the liver cancer cells\n# The oxygen consumption \\(mean ± SD, nmol min-1 mg-1 protein) in the AKR1B10-positive or negative liver cancer cells should be measured by a Clark-type oxygen microelectrode. \n# Measurements should be conducted 3 days after the administration of 10 μM of ACR alone, 10 μM of zopolrestat alone, and 10 μM of ACR plus 10 μM zopolrestat. \nStep 7: Statistical analyses\n# All statistical tests should be performed with Dr. SPSS II for Windows \\(SPSS Japan, Inc, Tokyo), and statistical significance must be defined as p<0.05. \nStep 8: Clinical application;\nDirect reprogramming therapy was used for the following patient.\n Patient who had advanced hepatocellular carcinoma \\(HCC) beyond Milan criteria \\(single tumor </=5 cm in size or </=3 tumors each </=3 cm in size, and no macrovascular invasion) and had experienced the recurrence of HCC in 12 months after liver transplantation, and had sorafenib resistance."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Chemical Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

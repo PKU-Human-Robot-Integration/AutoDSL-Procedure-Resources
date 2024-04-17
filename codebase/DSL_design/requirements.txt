@@ -1,0 +1,14 @@
+openai
+tqdm
+numpy
+matplotlib
+nltk
+gensim
+gdown
+spacy
+scispacy
+pandas
+statsmodels
+wordcloud 
+huggingface_hub
+openpyxl

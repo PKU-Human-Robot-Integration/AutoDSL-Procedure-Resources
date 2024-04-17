@@ -1,0 +1,14 @@
+{
+  "id": 8160,
+  "origin_website": "Bio",
+  "title": "Dharmacon siRNA Transfection of HeLa Cells",
+  "procedures": [
+    "Carry Hela cells in Eagle's Minimum Essential Medium with 10% FBS.   Trypsinize, count cells and reseed cells 12-16 h before knockdown (see Note 1).    Resuspend siRNA in 1x siRNA buffer to reach a final concentration of 5 μM.   Add 5 μl of the 5 μM siRNA to 95 μl of serum-free medium in a low-adhesion tube 1, mix by gently tapping the tube or pipetting up and down.   Add 0.5~5 μl DharmaFECT 1 reagent (see Note 2) to 99 μl of serum-free medium in a separate tube 2, mix by gently tapping the tube or pipetting up and down (see Note 3).   The two tubes in steps 4-5 are incubated at room temperature for 5 min.   Add the content of tube 1 from step 4 to tube 2 from step 5 (siRNA into DharmaFECT), mix gently by pipetting up and down, and incubate at room temperature for an additional 20 min.   Add 800 μl of complete medium to the resulting mixture of step 7 (final siRNA concentration is 25 nM.).   Remove culture medium from the 12-well tissue culture plate. Add the medium mixture of step 8 (total of 1 ml) to each well (see Note 4).   Grow Hela cells for additional 24-48 h before mRNA analysis, or >48 h for protein analysis.   Cytotoxicity should always be carefully monitored throughout the knockdown process. Experimental conditions should always be determined empirically.   Each experiment should have “control groups” including Non-treated cells, Positive control siRNA (e.g., GAPD), Negative control siRNA (e.g., “Non-targeting”). Perform experiments in triplicates as a minimum."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

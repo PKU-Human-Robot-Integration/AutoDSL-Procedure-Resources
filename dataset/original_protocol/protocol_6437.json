@@ -1,0 +1,16 @@
+{
+  "id": 6795,
+  "origin_website": "Bio",
+  "title": "Determination of Flavin Potential in Proteins by Xanthine/Xanthine Oxidase Method",
+  "procedures": [
+    "For this assay, we utilized the conventional optical cuvette with argon shown in Figure 2B (bottom). In the cuvette add 50 mM potassium phosphate buffer (pH 7.0, 25 °C), and reagents to indicated final concentration: 10 mM glucose, 5 µg/ml catalase, 0.3 mM xanthine, 50 µg/ml glucose oxidase, and benzyl viologen (10-20 µM). A low flow of argon/nitrogen is layered on the top of the cuvette (no bubbling). Record the baseline spectra.Add sufficient flavoprotein (SdhA) to give an absorbance of 0.1-0.5 at 450-460 nm, which corresponds to 8-40 µM FAD (mix carefully). The maximum absorbance should be similar between the FAD at ~460 nm and the dye (ITS at 614 nm). The spectrum is scanned between 350 and 750 nm, and recorded. This spectrum corresponds to the oxidized states of the flavoprotein and the dye.Wait about 15 min to establish anaerobic conditions and then add xanthine oxidase in an air tight syringe (10-50 nM is the usual range). The concentration of xanthine oxidase should be adjusted so that electron transfer is sufficiently slow so that the overall system remains in equilibrium at all times. Set the spectrophotometer to record spectra with 1-3 min intervals. The concentration of reagents should be such that complete reduction of the flavin and dye occur within 1-4 h.The reaction is stopped when spectra show no further changes or the benzyl viologen begins to be reduced as indicated by an increase in absorbance in the 550-600 nm region.Finally, transfer the individual spectra (wavelength vs absorbance) from the spectrophotometer and combine them in an Excel spreadsheet. Figure 4 demonstrates the set of spectra of a single experiment for the reduction of SdhA with ITS.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200330/20200330113437_1958.jpgFigure 4. Optical changes observed during anaerobic reduction of SdhA and ITS in the presence of xanthine/xanthine oxidase. A. Graph combining individual spectra. B.",
+    "An example of the Excel spreadsheet that combined 5 spectra taken during the measurement.Troubleshooting Major contributors for the incomplete reduction (or lack thereof) of the flavin and the dye are an oxygen leak and/or low xanthine oxidase activity. A suggested test to check the anaerobic conditions, i.e., the reduction of benzyl viologen by XO is to omit the flavoprotein and dye from the assay. Reduction of BV (Em = -359 mV) should be observed under anaerobic conditions. The oxidized form of BV is colorless and a broad peak forms at 550-600 nm when BV begins to undergo reduction.If the almost complete reduction of either the flavin or dye precedes the reduction of the second partner, then the difference in reduction potentials between the flavin and the dye has exceeded the requirements for this method and different dye should be chosen. The component with the higher potential will be reduced first and this will help to determine the reduction potential of the next dye to try."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

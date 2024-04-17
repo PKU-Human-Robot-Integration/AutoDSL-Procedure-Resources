@@ -1,0 +1,15 @@
+{
+  "id": 17791,
+  "origin_website": "Jove",
+  "title": "Monitoring PD-1-Blocking Antibodies Bound to T Cells Derived from a Drop of Peripheral Blood",
+  "procedures": [
+    "Sampling was performed during routine clinical procedures. All human samples were obtained after informed consent was provided by the subjects, in accordance with the Declaration of Helsinki and with the approval of the ethical review board of the Graduate School of Medicine, Osaka University, Japan (15383 and 752).\n1. Whole Blood Sample Preparation and Staining\nCollect whole blood samples into blood collection tubes containing ethylene diamine tetra-acetic acid (EDTA).\n\tNOTE: Blood collection can be performed using either a regular needle or a blood lancet.\nTransfer 20 µL of whole blood samples to 5 mL round-bottom polystyrene flow cytometry tubes.\n\tNOTE: To reduce non-specific binding of cells to tubes, 1 mL of 2% fetal bovine serum (FBS) in phosphate buffered saline (PBS) is added into tubes and vortexed for 10 s before application to samples.\nAdd 20 µL of 2% FBS in PBS.\nAdd 10 µL of human-specific FcR blocking reagent. Mix well and incubate for 15 min at room temperature.\nAdd 500 µL of red blood cell lysis buffer. Mix well and incubate for 10 min at room temperature.\nAdd 4 mL of 2% FBS in PBS and spin down cells at 400 x g (1,500 rpm) for 5 min at 4 °C. Remove supernatant by aspiration.\nRepeat the wash and aspiration process described in step 1.6.\nRe-suspend cells in 100 µL of 2% FBS in PBS and divide into two tubes of 50 µL each.\nAdd surface marker antibodies (Table 1). Mix well and incubate for 20 min at room temperature in the dark.\n\tNOTE: When profiling the T cell immune status, the number of markers can be increased based on the flow cytometry machine quality.\nWash samples 2x as described in step 1.6.\nResuspend cells in 200 µL of 2% FBS in PBS.\n2. Flow Cytometric Analysis",
+    "Insert tubes into the flow cytometer and acquire cells, basically following the recommended protocol9.\nRecord 10,000 events as the lymphocyte gate (Figure 1A) and export flow data as .fcs files for analysis.\nOpen files in the analysis software. Visualize the cells on a forward scatter (FSC) (A) vs. side scatter (SSC) (A) plot and gate lymphocytes (Figure 1A).\nAfter selecting single cells using FSC (H) vs. FSC (W) and SSC (H) vs. SSC (W) (Figure 1B) and displaying them on a CD3 vs. CD8 or CD3 vs. CD4 plot, gate the CD8 T cells and CD4 T cells, respectively (Figure 1C).\nAfter selecting the gated cells and displaying them on a PD-1 vs. human IgG4 plot, identify PD-1–blocking antibody–bound CD8 and CD4 T cells based on isotype control (Figure 1D).\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

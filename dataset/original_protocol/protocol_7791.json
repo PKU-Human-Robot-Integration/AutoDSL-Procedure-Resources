@@ -1,0 +1,17 @@
+{
+  "id": 8198,
+  "origin_website": "Bio",
+  "title": "<sup>3</sup>H-Penciclovir (<sup>3</sup>H-PCV) Uptake Assay",
+  "procedures": [
+    "Mammalian HEK293T and HEK293T cells stably expressing sr39-HSV1-TK (HEK293T-sr39TK) should be plated at a confluency of 60-80% in 12 well culture plates (150,000 cells/well in 1 ml DMEM). Incubate at 37 °C with 5% CO2 for 24 h.   Twenty-four hours after initial plating remove the medium and add 0.5 μl of 3H-Penciclovir/well (0.5 mCi/ml of 8-3H-Penciclovir; specific activity 14.9 ci mmol-1) in 0.5 ml of respective culture medium.   Incubate at 37 °C for 3 h. Maintain the incubation time consistent between samples.   Keep the same cells (HEK293T) plated in equal number express no HSV1-TK as control.   After 3 hours of incubation remove the medium carefully without disturbing cells, and wash the plates twice with 0.5 ml each of ice cold PBS. Pool the medium and wash solutions from respective well to measure the remaining total activities.   Add 0.5 ml of 0.1 N NaOH to each well and leave it for 10 min at room temperature in a shaker to lyse the cells.   Transfer 20 μl of homogenous cell lysate to measure total protein concentration by using Bradford protein assay reagent. In brief, to each 20 μl of cell lysate add 1 ml of 1x Bradford protein assay reagent and read the absorbance at 595 nm (A595) 5 min after incubation at room temperature in a spectrophotometer. Use standard graph prepared with the standards (BSA) diluted in 0.1 N NaOH to calculate the total protein present in 0.5 ml of cell lysate.    Transfer the remaining cell lysate (480 μl) to scintillation vial and 5 ml of biodegradable scintillation fluid (Cytoscint fluid). Cells lacking HSV1-TK expression exposed to 3H-Penciclovir serve as negative control.",
+    "The total remaining activity from each sample should be measured by using 480 μl of solution taken from the pooled medium and the wash solution, and also measured from 0.5 μl of 3H-Penciclovir diluted in 480 μl of medium.   Measure the radioactivity from different samples in a Scintillation counter by taking an average reading/min by reading for 5 min. Normalize the results with protein concentration and relate with total activity.   Results should be expressed as the percentage conversion of 3H-PCV per milligram of protein/total count, or as the conversion of 3H -PCV in moles per milligram of protein/total activity (Radioactivity within cells/[Radioactivity remained in medium + Radioactivity within cells])."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

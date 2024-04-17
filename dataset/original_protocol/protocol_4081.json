@@ -1,0 +1,14 @@
+{
+  "id": 4285,
+  "origin_website": "Bio",
+  "title": "Phosphoinositides Coated Beads Binding Assay",
+  "procedures": [
+    "Before starting a.Prepare or thaw the purified GST-protein.b.Pre-cool the centrifuge.c.Prepare the wash/binding buffer.d.Make aspiration tips by cutting the tip of a needle with pliers or a similar tool (Figure 1). This will minimize the needle diameter.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140126/20140126171958_1114.jpgFigure 1. Aspiration tipsUse 50 µl of PI-beads per protein. Echelon provide beads suspended in buffer 50/50.Briefly wash three times the beads with 500 μl of precooled wash/binding buffer at 300 x g, 30 sec.Centrifuge the beads at 300 x g, 4 °C.Add 1 ml of wash/binding buffer to each tube with PI-beads.Add 2 µg of the interest GST-tagged protein to the PI-beads.Incubate the GST-tagged protein or protein domains with the beads rotating for 2 h at room temperature. For some protein domains longer incubation time or overnight 4 °C incubation may be required, depending on the affinity of the selected domain for the phosphoinositide.Wash the beads by pelleting them by centrifugation (300-400 x g at 4 °C). Then add 1 ml of wash buffer and resuspend the beads. Invert the tube 5 times and centrifuge at 4 °C, 300-400 x g. Aspirate carefully the supernatant, without touching the beads with the tip of the needle. Repeat this process 5 times.After last wash, dry the beads by aspiration and immediately add 100 μl of 2x Laemli buffer.Boil the sample at 95 °C for 5-10 min.The sample now can be kept at -20 °C upon analysis in SDS-PAGE.Centrifuge the samples 5 min at 27,000 x g before loading in SDS-PAGE gel. This will pellet the beads.The binding can be analyzed by western-blot, detecting the interest protein or domain by anti-GST antibody. GST control alone should not produce any kind of binding."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

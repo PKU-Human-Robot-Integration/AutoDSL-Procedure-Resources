@@ -1,0 +1,14 @@
+{
+  "id": 8212,
+  "origin_website": "Bio",
+  "title": "Immunoprecipitation of ROR1",
+  "procedures": [
+    "107 cells (such as RCH-ACV, Kasumi-2, 697 cells) are pelleted, washed 1x in PBS, pelleted, and thoroughly resuspended in 500 μl ice-cold lyses buffer supplemented with protease inhibitor cocktail and phosphatase inhibitor cocktail II (according to manufacturers’ instruction) using a P1000 pipette.    The lysis reaction is kept on ice and vortexed at max speed 3 times for 3-second bursts. The reaction is kept on ice for 5 min between each vortexing.    Following lysis, samples are centrifuged at max-speed for 15 min at 4 °C.    Following pelleting, the supernatant is transferred to a fresh tube, kept on ice, and subjected to Bradford protein concentration analysis. Lysate is diluted to 2 mg/ml in lysis buffer for IP.    3 μg of antibody specific for ROR1 or an isotype matched control was incubated with cell extracts (500 μl at 2 mg/ml) by rotating overnight.    Protein G Agarose beads were prepared for precipitation by washing twice in lysis buffer and blocking for 1 h (nutating) at 4 °C in lysis buffer containing 0.5% BSA.    Following blocking, beads were pelleted and resuspended in lysis buffer to a 50% slurry, and 40 μl 50% slurry was added to lysate and rocked at 4 °C for 1 h.    Following precipitation, beads were washed in 500 μl lysis buffer 3x by nutating at 4 °C for 20 min.    Proteins were eluted from the beads by boiling in an aqueous solution with 2% SDS and 25 mM DTT."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

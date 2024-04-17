@@ -1,0 +1,16 @@
+{
+  "id": 4365,
+  "origin_website": "Bio",
+  "title": "Immunostaining Protocol: P-Smad2 (Xenograft and Mice)",
+  "procedures": [
+    "Stove samples at 65 °C just before starting the immunostaining technique. Remove the samples from the oven when the wax present in sections is completely undone.   De-waxing and rehydration: Place slides in a rack to perform following washes (bath).   XILOL: 10 min   XILOL: 10 min   XILOL: 5 min   100% EtOH: 10 min    100% EtOH: 5 min   96% EtOH: 5 min   90% EtOH: 10-15 times   80% EtOH: 10-15 times   70% EtOH: 10-15 times   50% EtOH: 10-15 times    25% EtOH: 10-15 times   H2O MilliQ: 10-15 times     Antigen retrieval.   Citrate Buffer (pH 6)   Time: 20 min autoclave (121 °C)     3 washes 5 min with 1 ml 1x wash buffer.   Blocking endogenous peroxidase.    200 ml Peroxidase Blocking Solution   Time: 10 min     3 washes 5 min with 1ml 1x wash buffer.   Incubation with primary antibody.   Antibody: Rabbit anti-P-Smad2   Dilution 1/200 in Envision FLEX antibody diluent   200 µl/sample   O/N 4 °C     3 washes 5 min with 1 ml 1x wash buffer.    Incubation with antibody BrightVision.    Antiboby: BrightVision anti-Rabbit   150 µl/sample   Time: 45 min at room temperature     3 washes 5 min with 1 ml 1x wash buffer.    Revealed with ImmPACT DAB.    200 µl/sample   Time: 10 min     3 washes 5 min with distilled water.   Hematoxilin (1 ml) counterstaining, time: 2 min.    Rinse in distilled water bath.   Rinse in TAP water bath.   Dehydration and mounting with DPX."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

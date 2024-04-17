@@ -1,0 +1,17 @@
+{
+  "id": 7047,
+  "origin_website": "Bio",
+  "title": "Treadmill Running of Mouse as a Model for Studying Influence of Maternal Exercise on Offspring",
+  "procedures": [
+    "Setting target intensitiesBefore mating and initiating exercise training, female mice need to be accustomed with treadmill running by either training daily or every alternative days for one week (10 m/min for 10 min once)Measuring the maximal oxygen consumption rates (VO2max)Before mating, female mice are subjected to VO2max measurement. The body weight (g) and age of mice need to be recorded, which are needed for normalization of oxygen consumption rate by the software.Before treadmill running, mice are put on the treadmill with indirect open circuit calorimetry system for 5 min to calm down.Treadmill running (without incline) is initiated following the progressive loading in intensity shown in Table 1.Running is stopped when mice exhibit exhaustion: When mice touch the electric shock bar three times within five seconds, those mice are regarded as exhaustion.The target intensities (40%, 65%, and 50% of VO2max) will be calculated (Zavorsky and Longo, 2011).Table 1. The intensity of single bout of exhaustive treadmill exercise for maximal oxygen consumption ratesimgsrc:https://en-cdn.bio-protocol.org/attached/image/20201201/20201201020350_2903.png Exercise during pregnancyAfter mating which is confirmed in the morning by the presence of vaginal smear and designated as embryonic day 0.5 (E0.5), pregnant mice are subjected to treadmill exercise training without incline every morning starting at E1.5.Based on the guideline for pregnancy (Zavorsky and Longo, 2011), a three stage exercise is used: the early stage (E1.5 to E7.5), mid-stage (E8.5 to E14.5), and late stage (E15.5 to birth) with target intensity of 40%, 65%, and 50% VO2max, respectively.As an example, the target intensities of healthy or obese adult C57BL/6J female mice (16-week-old) are shown in Table 2 (Son et al., 2019 and 2020).During exercise training, electric shocks are used to motivate individual mouse which may be reluctant to run, but the usage for pregnant mice should be avoided in order to minimize stress.",
+    "Instead, tail touching is recommended to encourage run.In a single training session, individual mice will only be allowed to be tail-touched twice without being stopped. If mice refuse to run upon 2nd touch, mice will be allowed to rest for 5 min before resuming the training/testing protocol. Mice will be removed from the trial if a 4th touch occurs.To encourage mice to rum, a black cover in the front end of treadmill can be used, which creates a dark area (see Video 1).Table 2. The target intensities for adult C57BL/6J pregnant mice imgsrc:https://en-cdn.bio-protocol.org/attached/image/20201201/20201201020408_6258.png*Obese adult mice are fed a high-fat diet (HFD, 60% energy from fat;  D12492  , Research Diets) for 8 weeks. The mice had gained over 25% of initial body weight due to HFD.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Mice during treadmill exercise training"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

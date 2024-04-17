@@ -1,0 +1,17 @@
+{
+  "id": 4747,
+  "origin_website": "Bio",
+  "title": "Stereotaxic Injection of LPS into Mouse Substantia Nigra",
+  "procedures": [
+    "Animal anesthesia Nembutal 50 mg/kg intraperitoneal injection.    Analgesic Buprenorphine, 0.1 mg/kg subcutaneous injection given at the time of surgery.    Animal preparation   Clip hair from the top of the head.   Decontaminate skin with betadine followed by 70% ethanol.   Administer the analgesic.    Apply an ocular lubricant to prevent drying of the eyes.      The coordinates used for the injection   3.0 mm posterior to the bregma.   1.3 mm lateral to the midline.   4.7 mm ventral to the surface of the skull. Note: Differences in mouse age and body weight might require an adjustment to the coordinates for the injection.      Surgical procedure   Stabilize the head of the mouse in the stereotaxic frame by using the ear bars. It is critical for the head to be positioned correctly by the ear bars. This can be verified by moving the nose right to left and the eye on the opposite side will squint. Note: There is no need to puncture eardrums for proper positioning.   Make a 5 mm incision in the midline of the scalp.   To prevent bleeding, gently scrape away the periosteal connective tissue that adheres to the bone with the blunt edge of the scalpel handle.   The cranial sutures, bregma and lambda will be identified and a hole will be drilled with a small dental drill in the parietal skull plate (coordinates to be determined by stereotaxic atlas of rat brain).   The hole will penetrate the full skull but not the dura mater. The dura is a very tough membrane but can easily be sliced with a sharp hypodermic needle.   A pre-loaded 30 g a microinjection syringe attached to the microinjection apparatus is slowly inserted into the brain to predetermined depth through the opening in the skull. The injection will be conducted over a period of 2 min and controlled by a motorized microinjection pump.",
+    "Repeat step 4 to step 6 to injection 2 µl of sterile normal saline (0.9%) into the opposite side of the brain.    After the injection, the needle will be kept in place for 2 min.   Remove the needle slowly out of the brain.    Close the skin incision with autoclips or silk suture.      Post-operative care   Monitor animal until recovered from anesthesia.   Monitor incision daily for any discharge, swelling or dehiscence.   If animal appears unthrifty, inactive or reluctant to move, contact the Veterinary Medicine Section immediately.    Authclip/suture removal in 10-14 days.   At desired time points, rat will be anesthetized and transcardially perfused with PBS, followed by PBS-buffered 4% paraformaldehyde for Immunohistochemistry."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

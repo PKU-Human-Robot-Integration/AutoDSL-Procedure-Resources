@@ -1,0 +1,19 @@
+{
+  "id": 623,
+  "origin_website": "Nature",
+  "title": "Human Umbilical Vein Endothelial Cells \\(HUVEC) Label Free Single Cell Photonic Fingerprinting",
+  "procedures": [
+    "**Biochip preparation**\nFull details of the V-SCA-EC BDT have been provided in D3.2. \n1. To assure complete and bubble-free filling, place the device in a vacuum prior to introducing the liquids for a minimum of 30 minutes. \n  2.  To prime the biochip, load PBS \\(phosphate buffer saline) buffer with 1% bovine serum albumin \\(BSA) via the loading chamber on the top right section of the biochip. Once the chip has been primed, introduce the cells  via the loading chamber on the top left section of the biochip.\n  \n**Biochip Microfluidic Testing**\n3. Once the chip has been primed, introduce the cells via the loading chamber on the top left section of the biochip. All pumping is performed using the previously described centrifugal test stand \\(Table 2) and a 3D printed chip holder which allows three biochips to be tested in parallel \\(Fig. 1). Since the sedimentation takes place with the liquid bulk at rest, i.e. in the absence of flow, the cell capture efficiency of the V-cup array system is significantly higher than that of typical flow-driven systems. Initial cell capture tests were performed using 20-μm polystyrene beads to emulate cell behaviour and then these tests were repeated using HUVEC and EA.hy926 cells. In all cases, a high V-cup occupancy rate \\(> 95%) was observed \\(Fig. 2).\n  \n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4149/original/Table_2.jpg?1450264842\">See figure in Figures section.</a>\nTable 2: Centrifugal Test Stand Testing Protocol\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4145/original/Figure_1.jpg?1450264545\">See figure in Figures section.</a>\nFigure 1: LiPhos single cell viewgraph. \\(a) Biochip schematic. \\(b) Three biochips under centrifugal microfluidic testing. \\(c) Single cell capture, analysis and PIN readout principles.\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4155/original/Figure_2.jpg?1450264984\">See figure in Figures section.</a>",
+    "Figure 2: V-cup array occupancy distribution for 20-µm polystyrene beads, HUVEC and EA.hy926 cells. Each test case shows an occupancy rate \\(one bead / cell per cup) of >95%. An empty V-cup or V-cup containing more than one bead / cell is classified as an error. N = 10, p < 0.05."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Cell Biology",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

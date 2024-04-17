@@ -1,0 +1,15 @@
+{
+  "id": 4980,
+  "origin_website": "Bio",
+  "title": "Testing the Effect of UV Radiation on the Survival of <em>Burkholderia glumae</em>",
+  "procedures": [
+    "Note: For handling bacterial cultures, aseptic techniques must be used and each step should be carried out in a sterile laminar flow hood when practicable.Day 1Streak the bacterial cells from glycerol stock on an LB agar plate supplemented with nitrofurantoin (100 µg/ml), an antibiotic to which B. glumae is naturally resistant. 500x stock solution of nitrofurantoin (50 ml/ml) should be prepared by dissolving in dimethylformamide (DMF).Incubate the LB plate at 37 °C (optimal temperature for bacterial growth) overnight (~ 18 h).Day 2Streak the overnight-grown bacterial cells from a single colony on a CPG agar plate, using a metal inoculation needle or a sterile toothpick. Incubate the inoculated CPG agar plate at 30 °C (optimal temperature for the production of pigment, which is a main determinant for bacterial tolerance to UV) for 48 h (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160229/20160229061111_9425.pngFigure 1. Strains of Burkholderia glumae grown on CPG agar plates. The upper-left and bottom plates: Pigment-producing strains of B. glumae. The upper-right plate: A pigment-deficient strain of B. glumae. Photo was taken after 48 h of incubation at 30 °C.Day 4Resuspend the bacterial colonies grown on CPG agar in sterile water in a sterile microcentrifuge tube by flicking with hands. Adjust the bacterial concentration to OD600 = 0.1 (~0.5 x 107 CFU/ml), using a spectrophotometer.Dilute the bacterial suspension with 1:10 ratio in sterile dH2O. Spread 100 µl of the diluted B. glumae cells on a CPG plate.Expose B. glumae cells to UV light from a G15T8 germicidal fluorescent bulb, 15 W in a laminar hood at the distance of 70 cm with 253.7 nm wave length for various durations (Figure 2). The lid should be off during the UV exposure. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160304/20160304184349_4547.jpgFigure 2.",
+    "An image showing the UV irradiation procedure To determine the number of CFU accurately, serial dilutions up to 1:1,000 should be made and spread on CPG agar plates Incubate the inoculated plates at 30 °C for 48 h.Day 6Count the surviving bacterial colonies (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160229/20160229062125_1328.pngFigure 3. An image of bacterial colonies that survived UV exposure. The upper two rows: pigment-producing strains of Burkholderia glumae. The botton row: A pigment-deficient strain of B. glumae. From left to right: Each vertical row represents the CPG agar plates exposed to UV for 0, 10, 20, 40, and 60 sec, respectively. Convert the data to percentage of survival in different time of exposure to UV radiation.Survival rate (%) = # colonies from UV-exposed cells/# colonies from non UV-exposed cells x 100"
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

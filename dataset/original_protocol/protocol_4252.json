@@ -1,0 +1,16 @@
+{
+  "id": 4464,
+  "origin_website": "Bio",
+  "title": "Vaccine-induced Cytokine Production Detected by Luminex Multiplex Analysis",
+  "procedures": [
+    "Experimental protocol   C57BL/6 mice were immunised with 10 μg OVA257-264 and 10 μg OVA323-339 peptides in 100 μl PBS subcutaneously at the base of the tail: Briefly, mice were restrained in a holding tunnel with an opening at the end to access the base of the tail. About half the length of the needle of the tuberculin syringe was inserted into the subcutaneous layer of skin just above and to the side of the tail. The correct depth can be confirmed by visualizing the bevel just below the skin. The vaccine is slowly injected while keeping pressure at the needle entry point. A bubble of liquid should become visible under the skin. The needle should be withdrawn carefully and the exit point massaged slightly with the fingertip to prevent escape of the vaccine.   Peptides were injected alone or in combination with 50 μg of one of the following adjuvants: CpG-ODN (CpG), HMW Poly (I: C), imiquimod, or Quil A.    Either 12 or 24 h later, mice were euthanised by CO2 asphyxiation followed by cervical dislocation, and dLN (both inguinal LN) were excised.   LNs were rapidly transferred to a 24 well plate containing 250 μl of pre-warmed cIMDM + 5% FBS over a small square of 45 μm nylon gauze. A second piece of gauze was placed on top of the LN tissue, which was then dissociated by gently crushing with the rubber end of a 1 ml syringe plunger, while holding the mesh squares in place with forceps.    The cell suspension was then immediately pipetted into a 96 well u-bottom plate for incubation at 37 degrees for 1, 6 or 12 h.   The plate was centrifuged at 300 x g for 1 min before removing 65 μl of supernatant and freezing it at -20 degrees for later analysis.",
+    "Note: Samples collected from multiple time-points for combined analysis should always be frozen rapidly to preserve the cytokines. However, analysis can be performed immediately if only a single time-point is to be analysed.      Luminex analysis   Cytokine production was measured with the mouse 10-plex Luminex panel [granulocyte macrophage colony–stimulating factor (GM-CSF), IFN-γ, IL-1b, IL-2, IL-4, IL-5, IL-6, IL-10, IL-12p40/p70 and TNF-α], and analysed using the Luminex 200 system with xPONENT software.    On the day of analysis, samples were thawed at room temperature.   The protocol outlined in the Luminex manual was followed exactly.   Standards were reconstituted with a mixture composed of 50% assay diluent and 50% of cIMDM.   50 μl of thawed sample was added to the luminex plate along with 50 μl of assay diluent during the analyte capture phase.   The samples were run on the Luminex® 200™ system with xPONENT® software according to the manufacturer’s instructions."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

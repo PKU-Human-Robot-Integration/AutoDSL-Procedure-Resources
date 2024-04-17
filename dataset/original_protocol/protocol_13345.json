@@ -1,0 +1,15 @@
+{
+  "id": 17171,
+  "origin_website": "Jove",
+  "title": "Using Multiple Light Scattering to Examine the Stability of Phyllanthus emblica L. Extracts Obtained with Different Extraction Methods",
+  "procedures": [
+    "1. Extract preparation\nAccurately weigh an appropriate amount of PE, and add 10x (weight) of deionized water for reflux extraction.\nSet five samples for reflux extraction for 0 h (E1), 0.5 h (E2), 1 h (E3), 1.5 h (E4), and 2 h (E5) after weighing.\nAfter extraction, cool the samples to room temperature, and weigh to make up for the lost weight to ensure consistency with the pre-extraction weights.\nCentrifuge the samples at 8,581 × g for 10 min to ensure the removal of insoluble material and herbal residues from the sample solution.\nUse a pipette to add 20 mL of sample solution into the sample bottle to ensure that the solution added each time is at the same height.\n\t​NOTE: Avoid contamination, such as fingerprints, on the scanning part of the sample bottle, ensure that the sample bottle is clean, and check whether there are visible scratches on the bottle surface. When adding the sample solution, be careful not to spill or splash on the sample bottle, and ensure that the liquid level is at the same height in each bottle.\n2. Instrument operation\nTurn on the MLS detection instrument, and warm it up for 30 min.\nClick on the Create file button in the top menu (or click on the File | New file function) to create a new test file.\nClick on the Show Turbiscan Lab Temperature button in the top menu to set the instrument target temperature to 25 °C.\n\tNOTE: The set temperature of the instrument must be higher than the room temperature; otherwise, the sample temperature will be affected by the room temperature.",
+    "Click on Program Scan in the top menu to enter the setup analysis program. Add the program to the list, and in the taskbar, add 5 min as a cycle, scan for 48 h to the analysis sequence, and set the balance time to 20 min. Select this analysis program for all the subsequent measurements.\nMove the prepared sample bottle into the MLS detection system. After setting up the program, click on Start to start the measurement.\n\t​NOTE: Be careful not to shake the glass bottle when loading the sample. The measurement can only be started after the sample temperature and setting temperature are balanced.\n3. Multiple light scattering analysis program setting\nAfter the data collection, click on the calculation parameters list to set the optical parameters to calculate the stability index (SI), particle size, and particle migration speed.\nSet the optical parameters as follows: the continuous phase light transmission intensity (T0) as 99.99% (water), the dispersed phase refractive index (np) as 1.36, and the continuous phase refractive index (nf) as 1.33.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

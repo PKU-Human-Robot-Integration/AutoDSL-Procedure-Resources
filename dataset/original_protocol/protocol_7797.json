@@ -1,0 +1,16 @@
+{
+  "id": 8204,
+  "origin_website": "Bio",
+  "title": "Mouse Macrophage Differentiation by Induction with Macrophage Colony-Stimulating Factor ",
+  "procedures": [
+    "Mouse bone marrow (BM) cells are harvested from femurs by syringe and needle (Gauge #25) with 5 ml 1x DPBS. (Cut two ends of femurs and rinse out the cells by 1x DPBS)   Centrifuge the cell suspension at 200 x g at room temperature (RT) for 5 min.   Remove the supernatant and suspend the cell pellet with 2 ml ACK lysing buffer for 1 min to deplete red blood cells.    The cell suspension is directly filtered through a 40 μm nylon strainer (observe the cell lysate under the microscope to determine whether red blood cells are depleted completely. If there are still too many red blood cells, add more ACK lysing buffer until there are very few red blood cells).    Wash the strainer with 2 ml 1x DPBS and centrifuge the filtered cell suspension at 200 x g at RT for 5 min.   The cell pellet is washed once again with 1x DPBS and re-suspended in 15 ml complete DMEM medium with 20 ng/ml murine M-CSF in a 100 mm Petri dish (one femur cells per dish) in an incubator (37 °C, 5% CO2).    After 3 days, half of the medium is replaced with fresh complete DMEM medium.    On Day 4, the cells containing more than 80% CD11b+/F4/80+ macrophages are ready for further characterization and functional experiments."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

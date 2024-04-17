@@ -1,0 +1,17 @@
+{
+  "id": 6456,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Culture of Human PBMCs",
+  "procedures": [
+    "Collect about 4 ml of human venous blood sample in heparinised vials and mix well by gently inverting the tubes several times.Isolate human PBMCs by gradient centrifugation using Ficoll-Histophaque.Wash cells (centrifuge at 100 x g for 10 min) with 10 ml of sterile DMEM (without FBS) twice.Note: Cold DMEM is not used routinely for washing lymphocytes from culture cavities while setting up cultures. Rather when monocytes bound tightly to plastic cavities are needed to be harvested pre-chilled DMEM can be used.Discard medium and re-suspend the cell pellet in 1 ml of sterile Dulbecco's modified eagle medium. Count cells by haemocytometer using W.B.C. diluting fluid: Add 10 µl of cell suspension to 190 µl of W.B.C. diluting fluid and mix well. Load the cell suspension in a haemocytometer and count the cells. Adjust cell concentration at 1 x 106 cells/ml with Dulbecco's modified eagle medium supplemented with 1% of Pencillin-streptomycin solution and 10% FBS. The approximate yield of cells from 4 ml of blood varies between 107-108.Seed 500 µl of cell suspension in a 24 well culture plate.Note: Monocytes in PBMCs get attached to the plastic in about 2-3 h when incubated at 37 °C. Longer incubation will result in firm attachement. Lymphocytes are not glass adherent and they will be mostly in suspension and can be removed by mildly flushing the wells with medium and/or buffer. Such treatment will keep the monocytes firmly attached to the surface of culture plates.Cells can be treated with different antigens for different period of times and the supernatants can be analysed for cytokine levels. The cells can be analysed for phenotypic change, apoptosis or proliferation.Note: PBMCs are primary cells and cannot be cultured for more than one passage under normal conditions. Lymphocytes of PBMCs can be made to proliferate in vitro by mitogens e.",
+    "g., Phytohaemagglutin or Concanavin-A etc over a period to 72-96 h. Monocytes generally are end cells and do not proliferate. In absence of mitogens the proliferation of PBMCs will be negligible."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

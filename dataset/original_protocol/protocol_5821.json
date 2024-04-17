@@ -1,0 +1,16 @@
+{
+  "id": 6168,
+  "origin_website": "Bio",
+  "title": "Isolation of Epithelial Cells from Mouse Gastrointestinal Tract for Western Blot or RNA Analysis",
+  "procedures": [
+    "Make sure to prepare all the solutions including PBS at least 1 h before the start of killing the mice and store them on ice so they are cold when you start to work with them.   Sacrifice the mouse (18-25 grams) by CO2 asphyxiation according to American Veterinary Medical Association (AVMA) guidelines on Euthanasia, 2007 (https://www.avma.org/KB/Policies/Documents/euthanasia.pdf). Briefly, first carbon dioxide’s anesthetic properties are used by exposing rodents to a slowly rising concentration of carbon dioxide until they become unconscious. A chamber fill rate of 20%, or 1/5 th of the cage volume per minute is recommended. Slower, uncoordinated movements occur after about 1 min, animals stop moving after about 2 min, and unconsciousness occurs after about 2.5 min. After unconsciousness is achieved, flow can be increased to hasten death. Two-step euthanasia is used to ensure death. Once the animal has lost consciousness and is unresponsive to a toe pinch, a follow-up method is utilized. This can include decapitation with sharp scissors, cervical dislocation, or thoracotomy.   Open the abdomen and dissect the gastrointestinal tract from the stomach to anus by pulling gently on the stomach and removal of the mesentry (the peritoneal folding around the intestine which connects the intestinal tract to the dorsal abdominal wall. It contains fat, blood vessels and lymph nodes).   Cut the intestine into pieces of interest (Jejunum, Ileum and large intestine).   Keep the pieces in cold PBS on ice and work with them one at a time.   Flush the content of the intestine with cold PBS to a 3 m clean it using l insulin syringe. Alternatively, invert the intestine on a glass rod and swirl in cold PBS   Wash intestinal pieces in cold PBS and keep them until you are done with all pieces (to synchronize your work).",
+    "Incubate pieces in 50- 100 ml of 0.04% sodium hypochlorite on ice for 15 min (this works well using a small beaker). This step removes bacterial contaminants.   During this time prepare three 15-ml conical tubes for every tissue piece and put 5-10 ml of solution B in each tube (if you are using glass rods. 10 ml will be necessary). Mark the tubes and leave them on ice.   Remove intestinal pieces from the sodium hypochlorite and rinse in PBS.   Put the intestinal pieces in the 15 ml conical containing solution B for 15 min on ice.   Remove solution B and add 5 ml PBS (or solution B). I do this by holding the intestinal piece with a long forceps, decanting the solution B then adding back the intestinal piece and add PBS.   Vortex for 15 sec.   Take the intestinal pieces and put them in another 15 ml conical with solution B.   Repeat steps 11-14 twice (you will have 3 tubes per piece).   Suspend the cells from all tubes for every piece and mix them in one tube.   Centrifuge at 1,000 rpm (1,000 x g, 10 min at 4 °C).   Take the fluid off and suspend the cells in lysis buffer (5 ml for Jejunum and Ileum or 1 ml for colon) for total cell lysate or Trizol (Invitrogen) 1 ml for RNA extraction."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

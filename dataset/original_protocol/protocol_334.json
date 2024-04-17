@@ -1,0 +1,17 @@
+{
+  "id": 356,
+  "origin_website": "Nature",
+  "title": "Monitoring extra-vascular migratory metastasis \\(EVMM) of migrating cancer cells using an in vitro co-culture system",
+  "procedures": [
+    "For details on passaging of human umbilical vein endothelial cells, preparation of basal membrane and tubule formation, please refer to Nature Protocols \\(16) \nEndothelial Cell Culture:\n Human umbilical vein endothelial cells \\(HUVEC-2) were maintained in MCDB-131 Complete Media \\(VEC Technologies) and passaged 1:10 every 72-96 hours at 90% confluency in 10cm2 tissue culture plates. Cells were split using 2mL of 0.25% Trypsin-EDTA \\(Invitrogen). At passage four, HUVEC-2 cells were expanded into multiple 15cm2 plates and frozen in 10% DMSO/MCDB-131 freezing media. \nTubule Formation:\n 50μl of liquefied Basement Membrane Extract or BME \\(Trevigen) or Matrigel \\(bdbiosciences) was added to wells of a clear-bottom 96-well tissue culture plate. The basement membrane was permitted to solidify for thirty minutes at 37°C, at which time HUVEC-2 cells were seeded atop the membrane at a density of 15,000 cells/well in 100μl of MCDB-131 enriched with 2mM L-glutamine, 1mg/mL hydrocortisone \\(Sigma), and 10ng/mL EGF  \\(Invitrogen). Cells were cultured overnight at 37°C in a humidified 5% CO2/95% air atmosphere to allow for tubule formation. Tubule formation was observed 12-16 hours post-seeding. \nCancer Cell Co-Culture:\nUsing standard procedures to passage GFP-labeled Human melanoma cancer cells \\(C8161), split nearly confluent flasks of C8161-GFP such that cells will be ~80% confluent in 24 h.  \\(Day before assay)\nHarvest 80% confluent C8161-GFP from 25-cm2 flask, TIMING 25 min.  Warm PBS, trypsin–EDTA  in the 37 °C water bath.",
+    "Remove and discard the media from 25-cm2 flask with C8161-GFP and rinse cells with PBS. Add 1 ml of trypsin–EDTA to the flask, incubate at 37 °C for a few minutes to release the cells. Tap the side of the flask to be sure that the cells are detaching. Add 1 ml of supplemented growth medium; gently pipette the solution up and down to make a single cell suspension. Transfer cell suspension in a sterile 15 ml conical tube. Determine cell number and viability by mixing 5 μl of cell suspension with 5 μl of Trypan blue and using a hemocytomoter. Centrifuge cells at 200 g for 3 min in a centrifuge with a swing-bucket rotor. Aspirate supernatant and resuspend cell pellet in MCDB-131 Complete Media The cells should be gently pipetted up and down a few times to obtain a single cell suspension.  GFP-transfected C8161 human melanoma cells were independently added to wells containing HUVEC-2 tubules and BME at a density of 3500 cells/well in 50μl of MCDB-131 Complete Media\nQuantitative Fluorescence Real Time Imaging.\n \nTime-lapse images of human migratory cancer cell lines can obtained post-seeding using the Nikon Eclipse Ti live-cell imaging microscope.  Single cell tracking can also employed to monitor cellular path length and velocities.  Different objectives can be used \\(higher magnification) to determine changes in cell morphology."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

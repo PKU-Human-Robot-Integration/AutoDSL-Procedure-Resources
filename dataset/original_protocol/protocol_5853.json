@@ -1,0 +1,16 @@
+{
+  "id": 6201,
+  "origin_website": "Bio",
+  "title": "Isolation of LYVE-1<sup>+</sup> Endothelial Cells from Mouse Embryos",
+  "procedures": [
+    "Dynabead PreparationPipette 500 μl of Dynabead solution (50 μl/embryo) into a microcentrifuge tube.Place on microcentrifuge tube magnet and remove the solution.Wash the Dynabeads with 1 ml PBS/0.1% BSA for 3 min on gentle rotation.Place the tube on microcentrifuge tube magnet and discard supernatant. Repeat Steps A3-A4 once.Add 1 ml PBS/0.1% BSA. Add 100 μg LYVE-1 mAb (10 μg of antibody/embryo) to the resuspended Dynabead solution.Incubate for 30-45 min at 4 °C with gentle rotation.Place the tube on magnet and discard supernatant.Resuspend Dynabeads by gently pipetting (100 μl/embryo) in 1 ml of PBS/BSA solution. Store at 4 °C until needed.Embryo Dissection and Endothelial Cell IsolationEuthanize pregnant mouse at E14.5; Remove uterus and isolate embryos.Expose the abdomen of the embryo and remove as much liver tissue as possible (see Notes).Cut embryo into 4-5 smaller pieces and digest tissue in 1 ml of enzyme solution for 30 min at 37 °C. Pipette mixture up and down several times every 10 min.Using a sterile 12-well cell culture plate and a 40 μm strainer, filter each mixture to remove debris; flush with 0.5-1 ml cold HBSS.Transfer each filtered solution to a separate microcentrifuge tube.Spin down cell solution at 600 x g for 1 min at 4 °C. Discard supernatant. Resuspend in 500 μl RBC lysis buffer, pipet up and down several times. Let rest on countertop for 5 min. Spin down cells at 600 x g for 1 min at 4 °C.Resuspend cells in 1 ml cold PBS/0.1% BSA.Add 100 μl prepared Dynabead-LYVE-1 solution (from Step A10) to each sample. Incubate for 45 min-1 h at 4 °C with gentle rotation.Place each tube on magnet for 5 min; discard supernatant. Wash pellet twice with 1 ml cold PBS/BSA by gentle pipetting up and down several times using a 1 ml pipette tip.",
+    "Place each tube on magnet for 5 min; discard supernatant. Add 0.5 ml Trizol solution to each tube. Use immediately or freeze at -80 °C for later use. Isolate RNA using QIAGEN prep kit."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 579,
+  "origin_website": "Nature",
+  "title": "A protocol for the role of TNF-α on regulatory T cell function",
+  "procedures": [
+    "**Isolation of Treg and Teff cells**\n1.  Obtain fresh blood specimens from healthy donors and isolate PBMC by Lymphoprep density gradient medium. \n  2. Isolate total CD4<sup>+</sup> T cells using the CD4<sup>+</sup> T cell Isolation Kit as the following steps in brief. \n  \\(1) Resuspend total PBMC in 40 µl of MACS buffer per 10<sup>7</sup> cells, and incubate with 10 µl of Biotin-Antibody Cocktail per 10<sup>7</sup> cells for 10 min at 4°C. \n\\(2) Subsequently, add 30 µl of MACS buffer per 10<sup>7</sup> cells, and incubate cells with 20 µl of MicroBead Cocktail per 10<sup>7</sup> cells for 15 min at 4°C. \n\\(3) Wash cells with MACS buffer and resuspend cells in 1 ml of MACS buffer.\n\\(4) Prepare LS column by rinsing with 3 ml of MACS buffer. \n\\(5) Apply cell suspension onto the column and collect unlabeled cells that passed through.\n3. Wash CD4<sup>+</sup> T cells \\(negative fraction) with MACS buffer. \n  4. Resuspend CD4<sup>+</sup> T cells with 100 µl of FACS buffer, and add 10 µl anti-CD4, anti-CD25, anti-CD127, respectively, mix and incubate for 15 min at 4°C.\n  5. Wash cells twice with 3 ml of FACS buffer, follow by FACS sorting for CD4<sup>+</sup>CD25<sup>hi</sup>CD127<sup>low/-</sup> as Treg cells and CD4<sup>+</sup>CD25<sup>-</sup> T cells as Teff cells. The purity of Treg cells and Teff cells ranged 95%-98%. \n  \n**Assay setup**\n6. Treat Treg cells with TNF-α \\(50 ng/ml) or leave them in medium alone \\(control) in 96-well U-bottom plates \\(0.5-1.0×10<sup>5</sup> cells per well) in the presence of IL-2 \\(100 U/ml) for 24 hs.\n  7. Wash the resulting Treg cells twice with culture medium, and count the cells.\n  8. Label Teff cells with CFSE at 2 µM, 37°C for 8 min, then wash for three times with culture medium.\n  9. Inhibition assay in different conditions as follows.",
+    "\\(1) TNF-α pre-treatment assay: culture CFSE labeled Teff cells \\(1×10<sup>4</sup> cells per well) alone or with Treg cells \\(1×10<sup>4</sup> cells per well) that were either untreated or pretreated with TNF-α \\(50 ng/ml) in 96-well U-bottom plates. Maintain the culture in the presence of 2×10<sup>3</sup> anti-CD3/CD28 beads for 4 days.\n\\(2) TNF-α co-culture assay: culture CFSE labeled Teff cells \\(1×10<sup>4</sup> cells per well) alone or with Treg cells \\(1×10<sup>4</sup> cells per well) which were not pre-exposed to TNF-α, in the presence or absence of TNF-α \\(50 ng/ml) in 96-well U-bottom plates. Maintain the culture in the presence of 2×10<sup>3</sup> anti-CD3/CD28 beads for 4 days.\n10. Measure proliferation of Teff cells by CFSE dilution in flow cytometry analyses. Express the results as percent inhibition: \\(1 − \\(experimental CFSE dilution/control CFSE dilution)) × 100%."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

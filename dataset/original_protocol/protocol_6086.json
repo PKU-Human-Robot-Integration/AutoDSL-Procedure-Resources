@@ -1,0 +1,15 @@
+{
+  "id": 6439,
+  "origin_website": "Bio",
+  "title": "Consummatory Successive Negative Contrast in Rats",
+  "procedures": [
+    "See Figure 3 for the Timeline of daily experimental procedure.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190329/20190329235855_7400.pngFigure 3. Timeline of daily experimental procedure. *High/low value sucrose depending on each experimental group.Individualize each animal in polycarbonate standard cages with free access to water and maintain under controlled standard conditions (12 h dark/light cycles starting at 08:00 h, 24 °C temperature, and 50%-60% humidity). Deprive animals of food to 82%-85% of their ad lib weights throughout the experiment. Once animals reach the required weight, feed daily with 9 g (±1.5 g) of rat chow to maintain body weight. All manipulations must be carried out at the same time every day and preferably by the same person. Efforts must be made to minimize suffering and reduce the number of animals used in the experiments. To maintain the animal’s body weight as assessed before the start of the experiment, it is important to weigh each specimen every day and provide supplementary food no less than 30 min after the end of each session. Moreover, sucrose solution must be prepared fresh daily to avoid contamination. cSNC training lasts 19 daily sessions: 16 preshift sessions followed by 3 postshift sessions. In the cSNC task, at least two experimental groups are required. During the preshift sessions, one of them has access to a large reward (e.g., 32% sucrose solution) and the other to a small reward (e.g., 4% sucrose solution). During postshift sessions, both groups are exposed to the small reward (4% sucrose solution).Before each session, animal racks must be moved into a different room where the experiment will be held, allowing the rats 15 min in their home cages to settle down, before placing them the consumption chambers. The contrast session lasts 5 min from the first contact with the sipper tube.",
+    "The position of the bottle is counterbalanced daily to minimize the effects of side preference. The animal is placed back in its home cage at the end of the session. Session duration for each box can be measured manually with digital clocks (Digital Onstart 100). Sucrose consumption is recorded for each animal weighing the bottles before and after the session, and then transforming the weight to milliliters (having accounted for the density of each solution) using the formula: Grams of solution consumed/density (grams per milliliter). All animals receive training every day in groups of 4, with the order of groups counterbalanced across days. At the end of every session, contrast chambers must be wiped with a wet paper towel and feces removed as needed.Animals must be fed with the proper amount of rat chow to maintain body weight no less than 30 min after the end of each session."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

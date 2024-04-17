@@ -1,0 +1,14 @@
+{
+  "id": 4423,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> EBV Infection of Mononuclear Cells that Have Been Cryo-preserved",
+  "procedures": [
+    "Note about sample handling: Gentle and fast processing of samples during isolation of mononuclear cells contributes to higher B cell viability, which is central for successful in vitro infection.    Thaw CBMCs or PBMCs quickly at room temperature and wash two times with incomplete RPMI-1640 at 350-400 x g and 5-10 min at room temperature.    Determine cell numbers, and if applicable, divide cells to fractions that will be EBV infected and those that will serve as non-infected controls.  Note: Remember that the cell numbers and concentrations in each well should be matched for the infected and non-infected fractions.   Wash an additional time with RPMI 1640.   For non-infected control cultures: Re-suspend cells in complete cell-culture medium to a concentration of 106 cells/ml and allocate to the appropriate wells in the plate. Incubate at 37 °C and 5% CO2.   For EBV infection, discard supernatant completely and resuspend 106 cells per 100 μl B95-8 virus–containing supernatant in a small tube. Incubate at 37 °C and 5% CO2 for 90 min with gentle mixing by swirling the tube every 30 min.    Wash the cells once with complete cell-culture medium, discard supernatant and re-suspended in complete cell-culture medium to a concentration of 106 cells/ml and then allocate to the appropriate wells in the plate.    Feed cells with complete medium on a weekly basis. The proportion of EBV-transformed B cells will increase with time and eventually these cells take over the entire culture. As we assessed the dynamics of NK and T cell and their functional capacity (Sohlberg et al., 2013; Saghafian-Hedengren et al., 2013) in our previous experimental settings, we found a 1-2 week-period of time suitable for this purpose.   The presence of EBV-infected cells can be confirmed by immunofluorescence staining for latent membrane protein-1 and EBV nuclear Ag 2 (Rasul et al., 2012)."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

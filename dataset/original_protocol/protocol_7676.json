@@ -1,0 +1,15 @@
+{
+  "id": 8079,
+  "origin_website": "Bio",
+  "title": "<sup>32</sup>P Radioactive Probe Synthesis and Preparation",
+  "procedures": [
+    "Labeling reaction   Place 25 ng of template in 28 μl TE or water in tube. Add 5 μl of primer solution from kit.   Denature by incubating at 100 °C for 5 min.   Spin tube briefly to bring contents of tube to bottom.   At room temperature, add 10 μl of labeling buffer, 5 μl of dCTP, and 2 μl of enzyme.   Mix and incubate at 37 °C for 10 min.   Stop reaction by addition of 5 μl of 0.2 M EDTA. .     Probe purification   Prepare column by vortexing to resuspend matrix. Loosen cap ¼ turn and insert into 1.5 ml screw cap tube.    Spin 1 min at 735 x g. Start timer and centrifuge simultaneously.   Place column in a new 1.5 ml screw cap tube and slowly apply 50 μl of sample to center of column matrix.    Do not disturb the column bed. Do not let sample flow around the sides of the bed.   Spin column for 2 min at 735 x g.   Purified sample is now at the bottom of the tube.   Heat to 100 °C and chill on ice prior to adding to hybridization.   Count 1 μl of probe in scintillation counter."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 438,
+  "origin_website": "Nature",
+  "title": "Cold tolerance assay for studying cultivation-temperature-dependent cold habituation in C. elegans",
+  "procedures": [
+    "Assay for cold-tolerance induced by temperature experience \\(Fig. 1, 2).\n1. Cultivate C. elegans to adults under well-fed conditions. Place two adult nematodes \\(P0) onto the NGM in 60-mm diameter plates, which are the assay plates in the following procedure. \n  \n2. Incubate the assay plates at each experimental temperature for 8–12 h, until the P0 adults have laid about 100 eggs.\n  \n3. Remove all P0 adults to synchronize the stages of nematodes\n  \n4. Incubate the assay plates until the progeny develop to the adult stage at their respective temperatures, e.g.: \n  15°C, cultivate for 144–150 hours\n20°C, cultivate for 85–90 hours\n25°C, cultivate for 60–65 hours\n5. Place the assay plates containing fully matured—but not old—adult animals directly onto ice for 20 min. Note that assay plates must be sealed by Parafilm with only half of their agar bottoms in contact with the ice.  \n  \n6. Place the assay plates into a plastic container with a lid and transfer them to the refrigerator at 2°C.\n  \n7. Incubate the assay plates at 2°C for 48 h.\n  \n8. Store the assay plates at 15°C overnight.\n  \n9. Count the numbers of dead and live adult animals, and calculate the survival rate. \n  \nAt least nine assays \\(steps 1 to 9) are performed for each strain. Calculate mean survival rates and the standard error of the mean \\(SEM) for the data from more than nine assay plates.\nIf the growth rates of mutants are slower or faster than wild types, shift the laying day \\(step 2) to synchronize the start of the cold exposures of wild-types and mutants.\nIf the mutants have the constitutive dauer-formation phenotype \\(daf-c), cultivate them at 15°C from eggs to L4 larvae and then cultivate them overnight at the designated temperature \\(20°C or 25°C) before cold shock. \nCultivation temperature-shifted cold-tolerance assay",
+    "In this assay, the animals are cultivated from eggs to young adults or L4 larvae at one temperature and then cultivated at a second temperature for some hours before cold shock. \n1. Cultivate C. elegans to adults under well-fed conditions. Place two adult animals \\(P0) onto the NGM in 60-mm diameter plates, which are the assay plates in the following procedure. Three assay plates of the same strain are used for one assay. \n  \n2. Incubate the assay plates at the first temperature for 8–12 hours until the P0 adults have laid about 100 eggs.    \n  \n3. Remove all P0 adults to synchronize the stages of the nematodes.\n  \n4. Incubate the assay plates until the progeny develop into young adults or adults at the first temperature, e.g.: \n   15°C, cultivate for 132–150 h\n20°C, cultivate for 72–90 h\n  25°C, cultivate for 52–65 h\nIf step 5 involves 18 h incubation above 20°C, it is best to move to this step when the animals are L4 larvae.\n5. Transfer the assay plates to another incubator kept at the second temperature and incubate for several hours \\(e.g., 0, 3, 5, 8, or 18 h).\n    \n6. After incubation at the second temperature, place the assay plates on ice for 20 min. Note that the assay plates must be sealed by Parafilm with only half of their agar bottoms in contact with the ice.  \n  \n7. Place the assay plates into a plastic container with a lid and transfer them to the refrigerator at 2°C\n  \n8. Incubate the assay plates at 2°C for 48 h.\n  \n9. Store the assay plates at 15°C overnight.\n  \n10. Count the numbers of dead and live adult animals, and calculate the survival rate.",
+    "Repeat the assay three times with three assay plates each and calculate the mean survival rates and the standard error of the mean \\(SEM) for the data from more than nine assay plates."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

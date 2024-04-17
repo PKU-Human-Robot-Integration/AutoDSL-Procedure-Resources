@@ -1,0 +1,14 @@
+{
+  "id": 1216,
+  "origin_website": "Nature",
+  "title": "<p>Insertion of PATC-rich <em>C. elegans</em> introns into synthetic transgenes by golden-gate-based cloning</p>",
+  "procedures": [
+    "<p><strong>1. Mix plasmids for reaction</strong></p><p>Add 150 ng of the synthetic transgene and an equimolar amount of the plasmids containing introns. Add molecular biology quality water to 12 ul. Mix plasmids in a PCR tube placed on ice.</p><p><br></p><p><strong>2. Add enzymes to the reaction</strong></p><p>Add the following enzymes to the reaction.</p><p>1.0 ul&nbsp;BsaI-HF</p><p>1.5 ul&nbsp;10x Ligase buffer&nbsp;(supplied with ligase)&nbsp;&nbsp;&nbsp;</p><p>0.5 ul T4 Ligase</p><p>for a total volume of 15 ul.</p><p>&nbsp;</p><p>Mix the enzymes in a PCR tube placed on ice.</p><p><br></p><p><strong>3. Perform Golden Gate reaction in a PCR machine.</strong></p><p>Program a thermocycler for 50x cycles of:</p><p>5 min @ 37°C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(digestion)</p><p>5 min @ 16°C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ligation)</p><p>&nbsp;</p><p>Let the reaction run overnight (it takes ~ 8 hours)</p><p><br></p><p><strong>4. Remove background plasmids with recBCD enzyme.</strong></p><p>Add the following enzymes to the reaction mix</p><p>2 ul&nbsp;&nbsp;&nbsp;10 mM ATP (supplied with recBCD)</p><p>1 ul&nbsp;&nbsp;&nbsp;recBCD enzyme (Exonucleave V or \"PlasmidSafe\")</p><p>2 ul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEB buffer 4&nbsp;(supplied with recBCD)</p><p>0.5 ul&nbsp;BsaI-HF</p><p>Incubate in a thermocycler at 37°C for 30 minutes, followed by 80°C for 30 minutes.</p><p><br></p><p>Note: recBCD digests linear double-stranded DNA but not closed circular plasmids.</p><p><br></p><p><strong>5. Purify the reaction with the gel purification kit.</strong></p><p>To clean up the reaction and concentrate the mix, add 200 ul of the ADB buffer from the Zymo gel purification kit. Run over a gel purification column and wash twice with 200 ul of the wash buffer. Make sure to completely eliminate the wash buffer in the last spin by emptying the tube with the flow-through and repeating the spin for 1 minute at the highest speed.</p><p><br></p><p><strong>6. Transform Top10 chemically competent bacteria with 2 ul and plate on an antibiotic plate.</strong></p><p>Perform standard transformation into Top10 cells. Shake for 1 hour before the transformation. Plate on the appropriate antibiotic resistance plate (Kan or Amp).</p><p><br></p><p><strong>7. Pick colonies and digest plasmids.</strong></p><p>Pick 2-4 colonies and verify plasmid by restriction enzyme digest.</p>"
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

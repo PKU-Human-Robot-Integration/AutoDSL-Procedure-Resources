@@ -1,0 +1,19 @@
+{
+  "id": 0,
+  "origin_website": "Nature",
+  "title": "In vivo evaluation of drug lead candidates by intravenous continuous infusion",
+  "procedures": [
+    "1) Virulent _S. aureus_ MB 2865 \\(Smith strain) was grown overnight with aeration in TSB medium.  \n2) Bacteria were harvested and washed with fresh TSB and serially diluted to achieve an infective inoculum of 4 x 10<sup>3</sup> CFU/mL in 5% hog gastric mucin, and 0.5 mL was used to infect intraperitoneally.  \n3) The infected mice were anesthetized using isoflurane \\(Abbott).  0.5 inch hollow connectors were attached to the external section of the JVC catheter and the mice were subsequently harnessed to the counter-balance arm inside a mouse cage.  \n4) Fluid primed PE 20 tubings attached to individual syringes on the infusion pump were connected to the mice through the 0.5 inch hollow connector.  \n5) The infusion pump was initiated for 24 hours at a flow rate of 0.1 mL/hour.  \n6) Blood samples are taken by tail vein to determine serum drug concentration during the infusion.  \n7) After the 24 hour period, the mice were euthanized and the kidneys were aseptically removed and homogenized.  \n8) Serial dilutions of the homogenates were plated on Mannitol plates and incubated overnight at 37 °C.  \n9) Bacterial counts were enumerated \\(ref. 2)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology",
+    "Chemical Biology",
+    "Drug Discovery"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

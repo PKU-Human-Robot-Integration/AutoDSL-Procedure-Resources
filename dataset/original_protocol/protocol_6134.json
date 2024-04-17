@@ -1,0 +1,15 @@
+{
+  "id": 6489,
+  "origin_website": "Bio",
+  "title": "Tryptophan Fluorescence Quenching Assays for Measuring  Protein-ligand Binding Affinities: Principles and a Practical Guide",
+  "procedures": [
+    "Experimental RationaleThe binding assay should have at least ten titration points that span from ~0.1x to 5-10x the final Kd (Figure 6). We made Haem stock solutions at four concentrations (Table 1) to avoid diluting the target by more than 5% during the titration to simplify data analysis. For the HusA experiment, previous work had suggested that haem was bound with a Kd of ~10 μM. However, due to the significant inner filter effect, the final titration point was chosen to be ~5x the final Kd. The 11 titration points were designed using stock solutions (Table 1), and these are outlined in Table 2.Table 1. Haem stock solutions prepared. Haem powder is dissolved in 0.1 M NaOH, pH 12, by gentle pipetting and inversion for 5 min, and incubation at room temp for 10 min before use.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190530/20190530021121_3155.jpgTable 2. Titration protocol for haem into HusA using four stock solutions. 11 titration points chosen are listed below. Target concentration is diluted by less than 5%, and ligand concentration should span up to at least 5x estimated Kd.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190530/20190530021157_9462.jpgimgsrc:https://en-cdn.bio-protocol.org/attached/image/20190530/20190530021356_6115.jpgFigure 6. Experimental rationale where at least ten titration points were chosen to allow the titrant to span the estimated Kd by a factor of fiveControl titrations and accounting for the inner filter effectFluorimeter settings used:Selective excitation: 295 nmPhoton emission: 310 nm to 500 nmPath length: 5 mmPhotomultiplier effect (PME): 850 Note: The PME was set to 850 in this protocol to record a starting intensity of ~900 with 1 μM of HusA between 300 nm and 500 nm. If you want to use a higher concentration of protein, or your protein has more tryptophan residues, you should be able to get a starting intensity that high without activating PME. Blank the spectrophotometer with 0.5 ml binding buffer in a 5 mm Quartz cuvette.",
+    "Prepare a 1 μM solution of NATA in 0.5 ml binding buffer in a cuvette.Excite and record emissions on NATA.Titrate ligand into the NATA and mix by gentle pipetting for 1 min. After 10 min of incubation following mixing, excite and record emissions.Continue according to your titration protocol, with pipetting and incubating for 10 min after each ligand addition.After the final titration point, export data into Microsoft Excel for data processing.Tryptophan fluorescence quenching of a protein by haemRepeat Steps B1-B2 from above.Prepare a solution of protein into 0.5 ml buffer in the cuvette where the starting fluorescence intensity is ~900 to ensure that the intensity is above 0 by the final titration point. For the HusA experiment, 1 μM HusA was dissolved into binding buffer in the cuvette.Repeat Steps B4-B8 from above."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

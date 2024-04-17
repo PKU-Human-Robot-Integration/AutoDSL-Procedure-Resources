@@ -1,0 +1,17 @@
+{
+  "id": 5617,
+  "origin_website": "Bio",
+  "title": "Oxidative Stress Assays (arsenite and tBHP) in <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "Day 0 (Monday): Pick L4 worms onto fresh NGM culturing plate (He, 2011) seeded with OP50 bacteria. Note: You need 60 L4 worms per strain; 20 worms per tBHP plate, triplicates.Day 1 (Tuesday): Prepare tBHP plates (see Recipe 1).Place agar in dH2O to get a 4% agar solution (100 ml agar = 6 plates) and heat up to solve. Let agar solution cool down (50-60 °C) until you can hold it with your hand and hold it against your wrist, put gloves on, then add all solutions (phosphate buffer, CaCl2, MgSO4, and cholesterol). Shake this briefly to avoid the formation of CaSO4 precipitate and in the end the tBHP in the fume hood. Pour the plates by hand (equal amounts, so that bottom is filled). Place the plates in an airtight box to seal them, and they will be ready for use the next day.Day 2 (Wednesday): Pick 20 two-day-old adults onto the tBHP plates (Figure 5). Remember to wear protective gloves, safety goggles, and face mask.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170627/20170627014921_5072.jpgFigure 5. Materials for the tBHP-survival assayImportant: Worms will try to run off the plate (Figure 6). Hence, for the first two hours you need to shuffle worms back into the center of the plate. Therefore, immediately after you put the worms on the tBHP plates, start looking at your first plates again for ‘escaping worms’. We typically assay 4 strains in parallel allowing enough time to shuffle worms back into the center of all 12 plates in a reasonable time. Score survival every hour. (Exclude exploded animals from the statistics.)imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170627/20170627015018_7644.jpgFigure 6. Scoring tBHP plates. A. Shows starting place of worms with a scoop of OP50 bacterial food that attracts them so that they stay a little bit longer in the center of the plate. B.",
+    "Shows how worms start to run off the plates after several minutes. They try to get away from the tBHP in the plate and usually run off the agar onto the plastic of the petri dish, where they dry out. After two hours, wild-type worms on tBHP will cease crawling around."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

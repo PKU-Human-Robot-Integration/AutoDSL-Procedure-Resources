@@ -1,0 +1,18 @@
+{
+  "id": 883,
+  "origin_website": "Nature",
+  "title": "Fabrication of elastic micro-cavity chips for use in Elastic Resonator Interference Stress Microscopy",
+  "procedures": [
+    "1. Blow clean glass coverslips from dust with air gun and clean in ultrasonic bath for 3 min in acetone and 3 min in isopropyl alcohol. Subsequently, dry thoroughly with airbrush and on hotplate at 125 °C for 10 min.\n  \n2. Deposit micro-cavity bottom mirror consisting of layered structure of 0.5 nm Cr \\(adhesion layer), 10 nm Au and 50 nm SiO<sub>2</sub> \\(surface energy modification) on whole surface area of cleaned coverslips either in e-beam evaporator or sputter machine.\n  \n3. Clean and dry coverslips with bottom mirror structure again as in 1.\n  \n4. Mix same volumes of the two elastomer precursors, stir for 10 min and degas under vacuum for 1 min.\n  \n5. Spin-coat mixed elastomer precursors onto coverslip with bottom mirror structure for 1 min \\(300 µL per coverslip). Use 3000 rpm spin speed for 8 µm-thick micro-cavities and 5000 rpm spin speed for 5 µm-thick micro cavities. Bake samples at 125 °C on hotplate for 60 min to crosslink elastomer.\n  \n6. Expose the elastomer on coverslips to mild oxygen plasma to partially oxidize the elastomer surface and increase its surface energy. This step can be done either in a plasma oven or in a sputter machine that is capable of generating an oxygen plasma with a power of about 15 W at a process pressure of about 3 mtorr. We use the RF plasma generated over a Si target in an Angstrom Engineering Nextdep sputter machine with a target to sample distance of 10 cm, with the following parameters: Power: 15 W; duration: 30 s; process pressure: 3 mtorr; process gas flows: 20 sccm O<sub>2</sub> and 5 sccm Ar.\n  \n7. Directly transfer the oxidized elastomer coverslips into a thermal evaporator and evaporate 15 nm Au as top mirror to complete the micro-cavity.",
+    "8. Carefully mount silicone chamber onto the surface of the micro-cavity chip. The inner dimension of a single chamber is 0.75 x 0.75 cm<sup>2</sup> and covers about ¼ of the surface of the micro-cavity chip. If different cell types should be measured on one micro-cavity chip, four wells \\(2x2) can be mounted onto the chip. If more space is needed for one sample group, the inner silicone wall of 2x2 wells can be cut away before mounting the silicone chamber onto the surface of the micro-cavity chip forming an area of 1.60 x 1.60 cm<sup>2</sup>.\n  \n9. If required, incubate micro-cavity chip with protein suspension to apply protein coating to the surface of the micro-cavity. When removing the suspension or washing the chip, care needs to be taken, that the surface of the micro-cavity is always covered with liquid, as the large surface tensions generated when drying-out would case the micro-cavity to crack. Therefore, never completely remove the solution from the silicone well but wash several times with the new solution if the medium needs to be changed."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Physics",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

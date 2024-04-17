@@ -1,0 +1,17 @@
+{
+  "id": 1229,
+  "origin_website": "Nature",
+  "title": "<p>Evaluation of plasmatic extracellular vesicles by size</p>",
+  "procedures": [
+    "<p><strong>Isolation of extracellular vesicles from blood plasma by ultracentrifugation.</strong></p><p>1. Draw blood into 7.5 mL EDTA tubes.</p><p>2. Separate plasma by centrifugation at 1300×g for 15 minutes at room temperature.</p><p>3. Remove cell debris from plasma by serial centrifugation at 1000, 2000, and 3000×g for 15 minutes at 4 °C.</p><p>4. Use a 2.5 ml syringe (needle dimension 0,9 mm x 25 mm) to transfer 1.5 mL of fresh plasma into a Quick-Seal ultra-clear centrifuge tube and fill up with PBS filtered with a 0.10 μm pore size polyether sulfone filter (StericupRVP, Merck Millipore; Burlington, MA, USA). (Figure 1)</p><p>5. Seal tube using the cordless tube topper (Beckman Coulter).</p><p>6. Ultracentrifuge sample at 110,000×g for 75 minutes at 4 °C on Optima Max-XP Ultracentrifuge, equipped with a MLA-55 rotor (Beckman Coulter).</p><p>7. Discard the supernatant using a 10 ml syringe (needle dimension 0.9 mm x 25 mm).</p><p>8. Dry the wall of the tube using a sterile cotton swab.</p><p>9. Resuspend EVs-rich pellet in 500 µL of 0.10 μm triple-filtered PBS with 0.10-μm pore-size filter.</p><p>&nbsp;</p><p><strong>Nanosight NS300 method</strong></p><p>1. Use 100μL of PBS-resuspended EVs for NTA analysis.</p><p>2. Bring to a 400μL volume using 0.10 μm triple-filtered PBS.</p><p>3. Use 1mL insulin syringe to carry the sample on the syringe pump.</p><p>4. Set syringe pump at infusion rate 30 to have the same constant flow for</p><p>all samples.</p><p>5. The acquisition for each sample is performed at camera level 13. Five 30-s recordings for each sample (Supplementary FIle).</p><p>6. Check the analysis setting before going on with the batch process. The number of particles per frame must be 20–120. Set detection threshold to have &lt; 5 not valid track per frame. The ratio between total particles track and valid track must be &lt; 5.</p><p>7. Collected data are analyzed with NTA software (Malvern Panalytical Ltd.",
+    "), which provided high-resolution particle-size distribution profiles as well as measurements of the EVs concentration.</p><p>&nbsp;</p><p><strong>Statistical method to analyze data from Nanosight</strong></p><p>To compare EVs concentration for each size in different groups (i.e. cases vs controls) we apply generalized multivariable linear models, using the appropriate logit link function. We estimate adjusted EV mean concentration or EV geometric mean concentration as appropriate. For each size, from 30nm to 700nm, we compare the EV mean differences between groups. Due to the high number of comparisons, we apply a multiple comparison method based on Benjamini-Hochberg False Discovery Rate (FDR) to calculate the FDR P-value. Results are reported as a series graph for EV mean concentrations of each size by group and vertical bar charts to represent the size-specific p-values obtained comparing groups. For all the graphs, X-axis is the size of EVs. In Figure 2 we report an example of this analysis.</p>"
+  ],
+  "subjectAreas": [
+    "Biomarkers",
+    "Environmental Sciences",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

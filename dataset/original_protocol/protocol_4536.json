@@ -1,0 +1,15 @@
+{
+  "id": 4782,
+  "origin_website": "Bio",
+  "title": "Labeling of the Intestinal Lumen of <em>Caenorhabditis elegans</em> by Texas Red-dextran Feeding ",
+  "procedures": [
+    "Place synchronized L1 larvae on an Escherichia coli (E. coli) OP50-seeded plate and incubate them for 3 days at 20 °C.   Pick approximately 30-40 young adult animals from an OP50-seeded plate and transfer them into 500 μl of egg buffer in 1.7 ml siliconized tubes.    Allow the animals to settle with gravity for a few minutes. Remove the supernatant and wash with 500 μl of egg buffer 3 times.   Remove most of the supernatant, leaving approximately 10-20 μl of worm suspension and add 100 μl of egg buffer containing 1 mg/ml Texas Red-dextran.   Incubate the animals for 90 min at room temperature with occasional gentle agitation every 30 min.   Collect the animals by centrifuging at 400 x g for 2 min and discard the supernatant. Wash with 1 ml of egg buffer at least 3 times.  Note: Remove as much Texas Red-dextran in the worm suspension as possible.   Add 1 M levamisole hydrochloride to the worm suspension to a final concentration 10~20 mM.   Transfer the worm suspension to a 1.5% agarose pad on a glass slide and cover it with a coverslip.   Observe the animals with confocal laser scanning microscopy (see Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150814/20150814201702_0354.jpg Figure 1. Animals expressing GFP-PGP-1 were fed Texas Red-dextran. GFP-PGP-1 and Texas Red-dextran labeled the intestinal apical membrane (large arrowheads) and the intestinal lumen (large arrows), respectively. Texas Red-dextran that is taken up by feeding is restricted to the intestinal lumen when the junctional seals of intestinal epithelium cells are intact (Carberry et al., 2012). A. RNAi-mediated knockdown of C. elegans chaperonin subunit (CCT-5) disorganized the microvillus actin filament and microtubules, leading to aberrant morphology of the intestinal apical membrane (Saegusa et al., 2014). B. In such animals, the apical membrane, labeled by GFP-PGP-1 (C.",
+    "elegans P-glycoprotein homolog), formed bubble-like membrane structures invaginated from the apical membrane (B, small arrows). Such structures contain Texas Red-dextran (B, small arrows). By contrast, GFP-PGP-1-containing vesicles underneath the apical membrane (B, small arrowheads) did not contain Texas Red-dextran, indicating that these are exocytic vesicles. Images were obtained using an FV1000 confocal microscopy system. GFP-PGP-1; excitation: 473 nm, detection: 490-540 nm. Texas-Red dextran; excitation: 559 nm, detection: 575 to 675 nm. The scale bars indicate 10 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

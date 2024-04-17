@@ -1,0 +1,16 @@
+{
+  "id": 19993,
+  "origin_website": "Wiley",
+  "title": "Simple, Fast, and Efficient Method for Derivation of Dermal Fibroblasts From Skin Biopsies",
+  "procedures": [
+    "This protocol describes how to perform a skin biopsy on a patient and the different steps for obtaining a primary fibroblast cell line from the biopsy (Fig. 1[href=https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.714#cpz1714-fig-0001] and Fig. 2[href=https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.714#cpz1714-fig-0002]). The method is straightforward and does not require the use of enzymatic digestion; moreover, fibroblast cultures can be easily established in less than a month. The operator needs to be trained in basic tissue culture techniques.",
+    "In this section, we describe how to expand the newly derived fibroblast line (passage 0) using enzymatic digestion. Once the cells reach 100% confluency, they can be passaged at 1:6 (1 confluent well of a 6-well plate into 6 wells of a 6-well plate) for further expansion (passage 1). When they reach confluency, cells can be trypsinized and collected to make frozen stocks for long-term storage in liquid nitrogen. Live or frozen cells can be used for further culturing (we have expanded these cells up to passage 5 only; as they are primary cultures, we try to minimize population doubling) and reprogramming.",
+    "The dermal fibroblasts generated from the skin biopsy can be characterized by confirming the expression of specific markers such as Serpin H1 (Hsp-47), F-actin, and Vimentin using immunocytochemistry. Moreover, given the invaluable role of fibroblasts for downstream experiments (for example reprogramming), it is important to regularly test the newly generated cells for the absence of mycoplasma contamination."
+  ],
+  "subjectAreas": [
+    "Stem Cell Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

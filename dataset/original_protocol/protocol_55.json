@@ -1,0 +1,19 @@
+{
+  "id": 55,
+  "origin_website": "Nature",
+  "title": "Mitochondrial respiration measurement",
+  "procedures": [
+    "1)  Isolate mitochondria by gently crushing 40 to 80 flies in a 10 ml Kontes homogenizer with 7 strokes of the pestle in 3 ml homogenization buffer consisting of 225 mM mannitol, 75 mM sucrose, 10 mM MOPS, 1 mM EGTA, 0.5% BSA, pH 7.2 at 4&#xB0;C 38. \n2)  Filter the extracts through 8 layers of cheese cloth, and then centrifuge at 300 x G for 3 min in a Beckman Avantis-J25. \n3)  Centrifuge the supernatant at 6000 x G for 10 min to obtain a mitochondrial pellet. \n4)  Measure the mitochondrial protein concentration by the Bradford method, using Bio-Rad reagents, corrected for the BSA content in the homogenization buffer. \n5)  Determine the respiration rates by measuring oxygen consumption using a Clark-type electrode and metabolic chamber containing 0.65 ml of reaction buffer consisting of 225 mM mannitol, 75 mM sucrose, 10 mM KCl, 10 mM Tris-HCl, 5 mM KH<sub>2</sub>PO<sub>4</sub>, pH 7.2 at 25&#xB0;C. \n6)  Calculate the mitochondrial ATP production rates from ADP consumption rates during state III respiration."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

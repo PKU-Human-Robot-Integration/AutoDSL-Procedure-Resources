@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "origin_website": "Nature",
+  "title": "Nuclear envelopes show cell-type specific sensitivity for the permeabilization with digitonin.",
+  "procedures": [
+    "**CELL CULTURE**\nCulturing of cells on poly-lysine coated coverslips has been described previously<sup>7,8</sup>.\n**INDIRECT IMMUNOFLUORESCENCE**\nAll incubations are carried out in a humidity chamber at room temperature.\n1. Dissolve digitonin in DMSO; prepare stock solutions in DMSO that are 1,000 fold concentrated. Immediately before use, dilute digitonin into buffer B.\n  2. Incubate cells for 3 min at room temperature and remove liquid.\n  3. Wash once with cold buffer B, rinse with PBS and fix with 3.7% formaldehyde in PBS for 25 min.\n  4. Rinse with PBS; then move to step 5 or permeabilize with 0.1% Triton X-100 in PBS/2 mg/ml BSA/1 mM NaN<sub>3</sub> for 5 min.\n  5. Block with PBS/2 mg/ml BSA/1 mM NaN<sub>3</sub> \\(blocking solution) for 1 h.\n  6. Incubate overnight with anti-lamin B antibodies \\(0.5 μg/ml) in blocking solution.\n  7. Wash 3 times for 10 min with blocking solution, then incubate for 2 h with Cy3-labeled secondary antibodies \\(3 μg/ml) in blocking solution.\n  8. Wash 3 times for 10 min with blocking solution, then incubate with 1 μg/ml DAPI in blocking solution for 2 min.\n  9. Mount specimen and seal with nail polish.\n  \n**IMAGE ACQUISITION**\nAcquire images by confocal microscopy \\(for example, Zeiss LSM510) using a 63x objective \\(oil, NA = 1.4), pixel resolution of 0.65 μm, scan speed 5, four-line averaging<sup>9</sup>.\n**PROCESSING OF IMAGES**\nProcess images with appropriate software such as Adobe Photoshop 8.0."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

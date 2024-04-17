@@ -1,0 +1,17 @@
+{
+  "id": 4736,
+  "origin_website": "Bio",
+  "title": "Stereotaxic Infusion of LPS into Rat Substantia Nigra via Osmotic Minipump",
+  "procedures": [
+    "Animal anesthesia Nembutal, 50 mg/kg intraperitoneal injection.    Analgesic Carprofen, 5 mg/kg subcutaneous injection given at the time of surgery.    Animal preparation   Clip hair from the top of the head.   Decontaminate skin with betadine followed by 70% ethanol.   Administer the analgesic.   Apply an ocular lubricant to prevent drying of the eyes.      The coordinates used for the infusion   4.8 mm posterior to the bregma.   1.7 mm lateral to the midline.    8.0 mm ventral to the surface of skull (Paxinos and Watson, 1986). Note: Differences in rat strains and age might require an adjustment to the coordinates for the injection.      Surgical procedure   Stabilize the head of the rat in the stereotaxic frame by using the ear bars. It is critical for the head to be positioned correctly by the ear bars. This can be verified by moving the nose right to left and the eye on the opposite side will squint. Note: There is no need to puncture eardrums for proper positioning.   Make a 10 mm incision in the midline of the scalp.   To prevent bleeding, gently scrape away the periosteal connective tissue that adheres to the bone with the blunt edge of the scalpel handle.   The cranial sutures, bregma and lambda will be identified and a hole will be drilled with a small dental drill in the parietal skull plate (coordinates to be determined by stereotaxic atlas of rat brain).   The hole will penetrate the full skull but not the dura mater. The dura is a very tough membrane but can easily be sliced with a sharp hypodermic needle.   The cannula is lowered into the hole to a depth previously determined by stereotaxic atlas.    To secure the cannula to the skull, mix dental cement and slowly build a base, making sure that the side is smooth next to the cut scalp.",
+    "Remove cement from any adhering skin.   Implant an Alzet osmotic minipump under the skin on the back of the animal.    A specialized cannula (30 gauge, Plastics One) with a side port, which allows for attachment of a polyethylene tube, is connected to the Alzet minipump.    The tube is tunneled to the back of the animal where the minipump is implanted subcutaneously.    Close the skin incision with autoclips or silk suture.      Post-operative care   Monitor animal until recovered from anesthesia.   Administer Carprofen (5 mg/kg subcutaneous injection) for post-operation pain upon recovery from anesthesia.    Monitor incision daily for any discharge, swelling or dehiscence.   If animal appears unthrifty, inactive or reluctant to move, contact the Veterinary Medicine Section immediately.    Authclip/suture removal in 10-14 days.   At desired time points, rat will be anesthetized and transcardially perfused with PBS, followed by PBS-buffered 4% paraformaldehyde for immunohistochemistry."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

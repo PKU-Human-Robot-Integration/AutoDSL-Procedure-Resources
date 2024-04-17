@@ -1,0 +1,17 @@
+{
+  "id": 4282,
+  "origin_website": "Bio",
+  "title": " <em> In vitro </em>Biomineralization Assay",
+  "procedures": [
+    "Detection of calcium depositsVon Kossa StainingCardiac ventricular fibroblast cells (2 x 104 cells/well in 48-well plates) are cultured in 500 μl of DMEM containing 10% FBS in the absence or presence of 3 mM inorganic phosphate (Pi; pH 7.4) for 6 days in 37 °C, 5% CO2  cell culture incubator for inducing mineralization. The media are freshly changed every 2 days.Note: For inducing ectopic calcification in cardiac fibroblasts by high concentration of inorganic phosphate. The cultured cells are rinsed twice with 250 μl DPBS and fixed in 250 μl of ice-cold 70% ethanol for 1 h at room temperature without any agitation. After fixation, DPBS and ethanol are removed and rinse with DDW carefully.After aspirating DDW on top of the fixed cells, add 250 μl of 5% silver nitrate solution and place the cell container in bright light such as sunlight, UV light or high-watt lamp until calcium deposits turns proper black (or dark brown).Rinse in 3 changes of 250 μl DDW briefly by gentle shaking.Rinse un-reacted silver with 250 μl of 5% sodium thiosulfate and keep for 5 min at room temperature (optional).Rinse in 3 changes of 250 μl DDW briefly by gentle shaking.Alizarin red S stainingFix the cultured cells with 250 μl of ice-cold 70% ethanol for 1 h at room temperature.After 3 changes of washing with 250 μl of DDW, stain the cells with 250 μl of 2% alizarin red S stain solution for 30 to 60 min at room temperature.Rinse in 2 changes with 250 μl of DDW.After removal of unincorporated excess dye with DDW, the mineralized nodules were stained as red spots.Calcium quantificationCalcium content of the supernatants is determined colorimetrically with use of the QuantiChrome Calcium Assay Kit as described by manufacturer’s instructions.",
+    "Briefly,Cultured cells are washed twice with 250 μl of DPBS and decalcified with 250 μl of 0.6 N HCl for 12 h. Prepare working reagent by mixing equal volume of reagent A and B. Equilibrate to room temperature before use.Transfer 5 μl of diluted standards or samples into each wells of a clear bottom 96-well plate.Add 200 μl of working reagent and tap lightly to mix.After incubation for 3 min at room temperature, read the absorbance at 570-650 nm with 96-well reader.The remaining cells are washed three times with 250 μl of DPBS and solubilized in 200 μl of lysis solution containing 0.1 N NaOH and 0.1% sodium dodecyl sulphate (SDS) at room temperature for 5 min.The protein content is measured with a Bio-Rad DC protein assay kit.Calcium content is normalized to the total protein content of the whole cells (μg of Ca2+/mg protein of whole cells, see Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140126/20140126064346_4667.jpgFigure 1. The synergic effect of RANKL on Pi-induced cardiac fibroblast calcification (Lee et al., 2013). Primary cardiac fibroblast cells were treated with 3 mM Pi in the absence or presence of 100 ng/ml RANKL for 3 d. Calcium content in cells was measured, and calcium deposits were visualized by von Kossa staining. A representative image is presented in the top panel. Scale bar, 100 μm (upper panel). Calcium contents were measured by QuantiChrome Calcium Assay kit (lower panel). Quantitative data are means ± SD (n = 3)."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

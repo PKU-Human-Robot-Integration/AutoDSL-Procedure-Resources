@@ -1,0 +1,17 @@
+{
+  "id": 5555,
+  "origin_website": "Bio",
+  "title": "Kinetic Lactate Dehydrogenase Assay for Detection of Cell Damage in Primary Neuronal Cell Cultures",
+  "procedures": [
+    "Preparation of solutions (see Recipes)MeasurementWarm up NADH and an appropriate aliquot of Na-pyruvate-solution (for one 96 well plate you need about 2.5 ml Na-pyruvate-solution) to room temperature or max. 37 °C, thaw appropriate amount of LDH-standard aliquots.Pipette 50 µl cell culture medium (probe) in each well. A duplicate measurement of each cell culture well is recommended.Pipette 25 µl LDH standard in 2 wells per plate. It is very important that you perform a standard measurement on each 96 well plate.Add 200 µl NADH solution to each well and remove bubbles if necessary. The final concentration of NADH in the assay is 153.8 µM.Add 25 µl Na-pyruvate solution to each well. The enzymatic reaction starts promptly. The final concentration of Na-pyruvate in the assay is 2.063 mM. Do not mix samples with pipets. Mixing should be initiated by using automated shaking by the plate reader before and in between of each measurement cycle. The reaction is within the linear range, if excess NADH is available for the enzymatic reaction. This lasts about 7-10 min. Ideally, pipetting of pyruvate and measurement of all cycles should be accomplished within this period. Do not start the reaction in more than one plate at once. It might be necessary to dilute the sample as specified in Figure 3.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170530/20170530195604_4991.jpgFigure 3. Representative graph of a measurement. The blue line indicates an undiluted and the red line a diluted (F1:4, red) kinematic curve. Note that the undiluted sample shows a non-linear decrease in absorption at 340 nm.Immediately start measurement of absorption with following parameters:Wavelength: 340 nm.Measurement cycles: 10.Cycle time: 30 sec.Shaking time: 5 sec.Temperature: 37 °C (see also Notes).Total lysisAdd Triton X-100 to the rest of cell culture medium. The final concentration should be 0.5%.Incubate on 37 °C for 20 min.",
+    "It is possible to incubate a longer time until to 4-6 h or overnight. This is not critical as long as you treat all groups equally.Repeat steps 2b-2f from paragraph 2 (Measurement)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

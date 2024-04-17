@@ -1,0 +1,16 @@
+{
+  "id": 4919,
+  "origin_website": "Bio",
+  "title": "Preparation of Recombinant Galectin-3 for Cancer Studies",
+  "procedures": [
+    "On ice, add 500 μl PBST to 100 μl of the 50% v/v rGST-Gal3 bound agarose beads in CHAPS buffer in microfuge tubes (600 µl total volume/tube).On ice, prepare a thrombin solution by diluting 375 U of thrombin into 800 µl PBST.Add 400 µl of thrombin solution to each microfuge tube for a final volume of 1 ml per microfuge tube.Place tubes on rotating platform (24 rpm) and allow incubation overnight at room temperature.The next day, wash p-aminobenzamidine beads in 1x PBS by adding necessary amount of p-aminobenzamidine slurry (250 µl bead slurry per 100 µl rGST-Gal3 bound agarose beads) into a 15 ml centrifuge tube then filling the tube to 15 ml with 1x PBS. Mix by inverting then centrifuge briefly without exceeding 1,000 rpm.Remove 1x PBS then repeat wash with fresh 1x PBS.Remove PBS, then add enough fresh 1x PBS so that beads and 1x PBS form a 50% v/v solution. Centrifuge the bead/thrombin solution at 3,500 rpm for 1 min in tabletop microfuge. Remove supernatant and place into fresh 1.5 ml microfuge tubes. Add 250 µl p-aminobenzamidine agarose bead slurry to each supernatant-containing microfuge tube in order to remove thrombin from the solution.Incubate the p-aminobenzamidine beads with supernatant for 1.5 h at room temperature on rotating platform (24 rpm).Microfuge tubes at 3,500 rpm for ~30 sec. Collect supernatant. Proteins will be in supernatant while thrombin, attached to the beads, will be eliminated with the pellet.Assess supernatant protein composition with a Coomassie-stained SDS-PAGE and Western blot (Figures 1-2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160103/20160103180549_2622.jpgFigure 1. Galectin-3 is successfully cleaved from GST through incubation with thrombin protease. Lanes 1-3 show increasing volumes of Galectin-3 (1 µl, 2 µl, 4 µl; approximately 150, 300, 600 ng) cleaved from GST through thrombin treatment. Lane 5 shows commercial Galectin-3.",
+    "Samples were analyzed by SDS-PAGE on 12% polyacrylamide gel, followed by Western blot. Immunoblot was performed with Rabbit, anti-galectin-3 primary antibody (1:800 in PBST with 2.5% BSA), and chicken anti-rabbit secondary antibody (1:10,000 in PBST with 2.5% BSA).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160103/20160103180559_4490.jpgFigure 2. Analysis of thrombin cleavage of rGST-Gal3 by Coomassie-stained gel electrophoresis. Lane 1 shows positive control human Galectin-3 at ~25 kDa. Lane 2 shows GST-Gal3 without cleavage by thrombin. The size of the GST-Galectin3 fusion protein is approximately 50 kDa. Lanes 4-6 show increasing amounts of Galectin-3 cleaved from GST (0.94 µg, 1.88 µg, 3.75 µg as determined by Bradford Assay)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

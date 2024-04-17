@@ -1,0 +1,15 @@
+{
+  "id": 6342,
+  "origin_website": "Bio",
+  "title": "Histone Methyltransferase Assay <em>in vitro</em>",
+  "procedures": [
+    "Substrate Purified recombinant Histones (Ding et al., 2007), histone H3, core histones, mononuclosome and oligonucleosome (from Hela cells or recombinant ones from E.coli). Note: The mononucleosomes and oligonucleosomes prepared from Hela cells were gifts from Yi Zhang (UNC Chapel Hill, USA). The recombinant oligonucleosomes from E. coli were gifts from Bing Zhu (NIBS, Beijing, China).    Reaction A mixture containing 1-5 μl enzyme (such as SDG725), 5 μl 4x MAB buffer, 250 nCi 14C labeled SAM and 1 μg substrates to 20 μl volume, is kept at 37 °C for 1-2 h. The reaction is stopped by adding 5 μl 5x SDS-PAGE loading buffer and boiling at 100 °C for 5 min, and 5 μl samples will be analyzed by 15% SDS-PAGE gel electrophoresis and visualized by Coomassie brilliant blue R-250. The SDS-PAGE gel is dried and exposed to X-ray films or scanned by Typhoon (GE) (15% refers to the concentration of Acr/Bis. Different histones can be separated more clearly by 15% SDS-PAGE)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6010,
+  "origin_website": "Bio",
+  "title": "Microbial Mutagenicity Assay: Ames Test",
+  "procedures": [
+    "Before performing the experiment, inoculate a single fresh colony of standard strains of S. typhimurium TA 98, 100 and 102, in oxoid nutrient broth-2 and incubate for 10-12 h at 37 °C in an incubator shaker at 120 rpm to ensure sufficient aeration for 1 x 109 bacterial cells. Each strain of S. typhimurium is grown separately in Erlenmeyer flasks (10 ml).Prepare fresh mutagen for each experiment (see Recipes). Negative control: Autoclaved distilled waterPositive controls for TA 98, TA 100 and TA 102 without S9 metabolic activation (S9 mix): sodium azide (1 μg/ml) 2-nitrofluorine (1 μg/ml) and mitomycin (0.125 μg/ml)For TA 98, TA 100 and TA 102 with S9 metabolic activation (S9 mix): 2-Anthramine (2 μg/ml)Preparation of minimal glucose agar (MGA) plates: Mix the medium of minimal glucose agar plates (Recipe 9) and pour 25 ml into each Petri dish. Prepare the plates freshly before use. Label all minimal glucose agar plates and Eppendorf tubes prior to experiment.To the 2 ml sterile Eppendorf tubes, add the following each:0.1 ml fresh culture of Salmonella strains0.2 ml of His/Bio solution 0.5 ml sodium phosphate buffer (absence of S9 mix) or 0.5 ml S9 (presence of S9 mix)0.1 ml of test sample or 0.1 ml of positive or negative controlMake up to 1 ml with autoclaved distilled water.Mix the contents of Eppendorf tubes and pour onto Petri plates and spread using L-shaped spreader on the surface of MGA plates. Cover the Petri plates with sterile aluminum foil to protect the testing sample from photo reactive substances.After incubation of 48 h at 37 °C, spontaneous revertants colonies appear and are clearly visible with unaided eyes. All plates are run in triplicates.Revertants form a uniform lawn of auxotrophic bacteria on the surface the background of medium."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3762,
+  "origin_website": "Cell",
+  "title": "Live imaging of microtubule dynamics at excitatory presynaptic boutons in primary hippocampal neurons and acute hippocampal slices",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nLive cell imaging in primary hippocampal neurons\nTiming: 6–12 h pretreatment + 2–6 h imaging time depending on number of replicates\nHere we describe how to perform live imaging of MT dynamics at presynaptic boutons before and after pharmacological induction of neuronal activity.\nLive cell imaging of EB3 comets in hippocampal neuronal culture is performed 24–72 h after transfection.\nPrepare complete HBSS as recording medium and warm it up in a 37°C water bath.\nFor presynaptic MT dynamics we use an IX83 Andor Revolution XD Spinning Disk Confocal System with 37°C incubator and 5% CO2. Stabilize the temperature and humidity of incubator before imaging. The microscope is equipped with a 100×/1.49 oil UApo objective, a multi-axis stage controller (ASI MS-2000), and a controlled temperature and CO2 incubator.\nNote: Axons are selected based on morphology (smaller diameter than dendrites and no spine structures along the neurite) and uniformly anterograde movement (toward the distal tip of the neurite) of EB3 comets. Proximal axonal segments (within 100 μm from the cell body according to our definition) are determined by first locating the cell body and then tracing the distance from cell body based on the real distance in μm in a still image taken with the camera.\nMovies are acquired with an Andor iXon Ultra EMCCD camera and Andor iQ 3.6.2 live cell imaging software at 1 frame/3–4 s, 3 z-stacks at 0.4 μm step size for 3 min for dual channel acquisition.",
+    "For pharmacological induction of neuronal activity, neurons are pretreated with 50 μM D-AP5 for 6–12 h prior to live imaging in complete neurobasal medium, then changed to complete HBSS medium supplemented with 50 μM D-AP5. To induce neuronal activity, neurons are washed 3× with complete HBSS medium prior to addition of complete HBSS medium supplemented with 20 μM bicuculline or DMSO vehicle control. For BDNF induction of neuronal activity, 50 ng/mL BDNF is directly added to complete HBSS medium during live imaging.\nAlways acquire movies starting 1 min after induction of neuronal activity to ensure consistency among different experimental groups and to allow temperature and CO2 flow to stabilize after addition of inducing medium.\nMaximum intensity projections of movies are performed by Image Math within Andor software, exported as Tiff files, and analyzed in ImageJ.\nLive cell imaging in acute hippocampal slices\nTiming: 2–3 h\nHere we describe how to perform live imaging of MT dynamics at presynaptic boutons in acute hippocampal slices. This is based on the protocol from (Yasumatsu et al., 2008[href=https://www.wicell.org#bib3])\nAcute slices are inspected under fluorescence illumination to identify the expressing regions of interest (CA1 and CA3) in the hippocampus.\nAcute slices are transferred onto millicell membrane upside down in MatTek dishes with 1 mL of warm fresh sterile medium.\nThe MatTek dish is transferred in a temperature-controlled chamber attached to the microscope. Both temperature (37°C) and CO2 flow (5%) are controlled and maintained to promote cell viability and optical stability during live imaging.\nElectroporated hippocampal neurons from the CA1 region are selected and imaged using an inverted Nikon Ti-E microscope operated by Nikon Elements Software.\n488 and 561 nm lasers are used as light sources and shuttered by Acousto-Optic Tunable Filters (AOTF).",
+    "Live-imaging acquisition of EB3 comets relative to vGlut1 positive stable puncta within 50–100 μm of cell bodies is performed for 300 s using a 60× oil-immersion objective (NA1.4) at 1 frame/3 s."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience",
+    "Microscopy"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

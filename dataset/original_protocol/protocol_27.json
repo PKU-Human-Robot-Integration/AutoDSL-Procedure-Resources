@@ -1,0 +1,20 @@
+{
+  "id": 27,
+  "origin_website": "Nature",
+  "title": "Generation of deletion and insertion mutants",
+  "procedures": [
+    "1)  Clone AtAMT1;1 into pDRf1-GW using GATEWAY<sup>TM</sup> technology. Generate all amino acid substitutions by site-directed mutagenesis of the wild type AtAMT1;1 sequence<sup>1</sup>. Also generate AtAMT1;1 variants by site-directed\nmutagenesis. \n2)  For the C-terminal truncation mutants, use single strand DNA of pDRf1-AtAMT1;1 as a template to insert a short DNA fragment coding for a stop codon and carrying XhoI restriction site \\(5&#x2019;tgagtcgac). \n3)  Remove the remaining part of the Cterminus by XhoI digestion.\n4)  For all insertion mutants, use single stranded DNA from pDRf1-AtAMT1;1 carrying a 3x cmyc-tag at the very end of the AtAMT1;1 C-terminus as template. \n5)  Insert the C-terminal insertion of 5&#x2019;atcgatggacgt, encoding IDGR, at positions 443, 444, 445, 446, 448, 455 or 456 into the AMT1;1 protein. For the L3-4 \\(Ins150) and L5-6 \\(Ins 231) insertions, insert a 5&#x2019;ggttggagctcccgggggcgcc DNA fragment, encoding GGAPGGA, at position 150 or 231 into the AMT1;1 protein.\n**Insertions:**\nIns150: &#x2026;IAER_GGAPGGA_TQFV&#x2026;\nIns231: &#x2026;FDN_GGGAPGGA_GRAI&#x2026;\nIns443: &#x2026;ILKK_IDGR_LLRI&#x2026;\nIns444: &#x2026;LKKM_IDGR_KLLR&#x2026;\nIns445: &#x2026;KKMK_IDGR_LLRIS&#x2026;\nIns446: &#x2026;KMKL_IDGR_LRIS&#x2026;\nIns448: &#x2026;KLLR_IDGR_SSED&#x2026;\nIns455: &#x2026;EDEM_IDGR_AGMD&#x2026;\nIns456: &#x2026;DEMA_IDGR_GMD&#x2026;"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

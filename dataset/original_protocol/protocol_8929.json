@@ -1,0 +1,15 @@
+{
+  "id": 9340,
+  "origin_website": "Jove",
+  "title": "Whole Mount Immunolabeling of Olfactory Receptor Neurons in the Drosophila Antenna",
+  "procedures": [
+    "1. Prepare apple plate\nMix 12.5 g agar, 125 ml 100% commercially available apple juice, 12.5 g glucose, and 375 ml H2O. Microwave the mixture for 1 to 2 minutes and pour to the 3 cm cell culture dish. Store at 4 °C.\n2. Genetic cross\nUse the following representative genetic cross:\nOr49a-mCD8::GFP/CyO x w1118\n3. Dissection and staining protocol\nAnesthetize the fly and then cut the fly head vertically by holding it using a forceps.\nCarefully place the antennae containing portion on an apple plate.\nCut the third segment of the antenna using fine dissection scissors.\nPlace 90 µl of the fixation solution (4% paraformaldehyde in 0.1% PBST (PBS with 0.1% Triton X-100)) to the middle of a glass bottom culture dish.\nGently transfer the dissected antennae with a sharp needle directly to the fixation solution. If necessary, physically submerge the antennae into the solution using needle.\nIncubate for 40 minutes at room temperature (RT). Wash the antennae in 0.4% PBST (PBS with 0.4% Triton X-100), 3x 10 minutes in each, keeping them in the same dish. Use yellow tips to remove and add PBST solution. Use 90 µl of the wash solution each time.\n\tNOTE: Do not place the dish into a shaker during immunohistochemistry. Before removing or adding the solution into the dish, bring all the antennae into the center of the dish using the needle and carefully add or remove the solution from the edge of the dish.\nBlock the antennae with 90 µl of 5% normal horse serum in 0.1% PBST for 20 minutes at RT.\nAfter removing the blocking solution, incubate the antennae with 90µl of primary antibodies in 0.1% PBST containing 5% horse serum for 48 hr at 4 °C in a moistened container as described previously8.",
+    "Wash the antennae 6x 10 minutes in 0.4% PBST.\nIncubate the antennae with 90 µl of secondary antibodies in 0.1% PBST containing 5% horse serum for 48 hr at 4 °C. Wash 6x 10 minutes using 0.4% PBST.\nTo mount the antennae, remove PBST from the culture dish as much as possible and gradually introduce two different concentrations of glycerol to the antennae. First add 40% glycerol to the dish for 1 to 2 minutes; then remove this and add 80% glycerol.\nCarefully extract the antennae (including 80% glycerol) from the culture dish using yellow tip and place them onto a slide. Gently place a coverslip on top and seal the coverslip edges with nail polish. The antennae are now ready to be imaged by fluorescence microscopy.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

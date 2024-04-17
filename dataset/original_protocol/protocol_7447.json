@@ -1,0 +1,16 @@
+{
+  "id": 7837,
+  "origin_website": "Bio",
+  "title": "E15.5 Mouse Embryo Micro-CT Using a Bruker Skyscan 1172 Micro-CT",
+  "procedures": [
+    "Mice mating Keep mice on a 12:12 h light/dark cycle with unrestricted access to food and water. Use animals aged 2–4 months for mating.For mating, put a male and two females in a cage after 6 pm.Before 9 am on the next day, check for the formation of vaginal plug: lift a female by her tail, slightly dilate the vaginal opening with a blunt forceps, and check for a white mass.Consider the day of plug detection as day E0.5. House the mated females separately from the male. Repeat mating procedure with non-mated females the following days.Embryo dissection Embryo dissection is performed as described in Zeeb et al. (2012).At day E15.5, euthanize the pregnant female.Place the mouse on a supine position and spray 70% ethanol on the abdomen.Make a V-formed incision on the skin and abdominal cavity and lift the tissue to expose the internal organs.Identify the V-shaped uterus with the string of embryos inside, cut at the proximal (cervical) and distal (ovaries) ends, and remove the uterus to a tube with ice-cold PBS.Dissect the embryos in a dish with PBS on ice. First, cut the uterus into single embryos-containing pieces. Place each embryo in a 35 mm dish with PBS and remove the uterine tissues and yolk sac. Keep yolk sac membranes for genotyping if required.Embryo fixation Place single embryos in 15 mL tubes with 5 mL of 4% PFA and incubate at 4 °C for 24 h.After fixation, keep the embryos in PBS at 4 °C. If needed, the samples can be kept at 4 °C for several days.Micro-CT sample preparation Prepare fresh staining solution of 20% Lugol’s solution + 0.5% Tween-20 pH 7.3.Keep samples in staining solution in constant gentle agitation.Change solution daily for 10 days.Micro-CT acquisition Perform acquisition at 80 kV using a 0.",
+    "5 mm Al filter at a resolution of 3 µm, 0.4° of rotation step, 360° scan, and 4× frame averaging.Micro-CT image reconstruction Obtain image reconstruction using NRecon software (Bruker), with proper misalignment compensation, no smoothing, 5 ring artifacts reduction, and 30% beam-hardening correction."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

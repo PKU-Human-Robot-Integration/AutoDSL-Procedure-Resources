@@ -1,0 +1,19 @@
+{
+  "id": 660,
+  "origin_website": "Nature",
+  "title": "Cell Labeling via Photobleaching",
+  "procedures": [
+    "1. Find the location of the confocal scanning region relative to the camera coordinates: let dry a drop of B4F solution on a glass bottom dish to produce a fluorescent thin layer on the cover slip. After focusing the sample with epifluorescence, set the confocal microscope to scan a square region of <sub>10 x 10µm2 with </sub>1mW power after the objective for 3-10 seconds. Switch back to epifluorescence mode, and note the position of the photobleached area within the camera image.\n  TIP: Alternatively, a fluorescent thin layer can be fabricated using a mix of fluorescein and transparent nail polish. Spread the mix on a cover glass using a razor blade to obtain a thin coating. After drying, the cover glass can be mounted on a microscope slide using aqueous mounting medium for long term use.\n2. Use a power meter to adjust the power of the confocal laser between 100μW to 350μW at the exit of the objective. \n  3. Plate cells on a glass bottom dish and allow them to attach and spread for 12-24h. Keep the culture healthy since unstable cell membranes can uptake the tag non-specifically. \n  4. Dilute 20 µL of B4F stock solution into 980 µL of cell culture media, and add to the cells.\n  5. Use bright field microscopy to find the cell of interest, and move the stage until the scanning region \\(step 1) falls within the cell. Refine the cell position ensuring the scanning region does not overlap with neighboring cells. Focus near the cell top membrane.\n  6. Irradiate with 100 μW to 350 μW during 2 seconds.\n  7. Go back to step 5 to tag other cells.\n  8. Rinse 3 times with pre-warmed cell culture media at 37ºC.",
+    "9. Dilute 20µL of Alexa-647-streptavidin stock solution into 680µL of cell culture media, add to the cells and incubate at 37ºC, 5% CO2 during 15 minutes. \n  10. Rinse 3 to 6 times with pre-warmed cell culture media. \n  11. For multi-color staining, go back to step 4. At step 9, replace Alexa-647-streptavidin with a different color streptavidin-conjugate.\n  \nTIP: In order to observe also non-CLaPped cells, the sample can be incubated with wheat germ agglutinin \\(WGA) fluorescent conjugates to stain the cell membrane of all cells."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

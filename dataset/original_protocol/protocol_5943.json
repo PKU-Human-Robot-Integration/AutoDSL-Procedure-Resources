@@ -1,0 +1,16 @@
+{
+  "id": 6294,
+  "origin_website": "Bio",
+  "title": "Nuclear Extraction from <em>Arabidopsis thaliana</em>",
+  "procedures": [
+    "Grow Arabidopsis seeds on MS for 2 weeks or on soil for 4 weeks. Collect approximately 1 g of Arabidopsis tissue (seedlings of about 50 plate-grown plants, leaves of approximately 20 soil-grown plants), freeze in liquid nitrogen, and then follow the steps listed below.Note: Always keep the sample on ice. Grind the tissue to a fine powder in liquid nitrogen using a cold mortar and pestle. Collect the powder into a 50 ml conical tube.Add 2 ml cold Lysis buffer into the powder and homogenize the mixture by gentle shaking or pipetting. Note: If the sample is frozen from excess liquid nitrogen, wait until it is thawed enough that it can be homogenized.Filter the homogenate through a 100 μm and 40 μm nylon mesh sequentially.Centrifuge the filtered homogenate at 1,500 x g at 4 °C for 10 min to pellet the nuclei.Discard the supernatant and add 3 ml NRBT to the pellet. Re-suspend the nuclei by pipetting.Centrifuge the sample at 1,500 x g at 4 °C for 10 min. Repeat step 5 and 6 twice more.Discard the supernatant and add 3 ml NRB to the pellet. Re-suspend the nuclei by pipetting.Centrifuge at 1,500 x g at 4 °C for 10 min to pellet the nuclei, and discard the supernatant. The purpose of this step is to remove the Triton X-100. The nuclei can now be used for any purpose. For example, they can be used to detect nuclear protein using a western blot. If the nuclei cannot used immediately, they should be re-suspended in 400 μl NSB buffer, quickly frozen in liquid N2, and stored at -80 °C. The nuclei can last for at least half a year."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

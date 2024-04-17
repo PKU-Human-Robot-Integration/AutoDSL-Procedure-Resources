@@ -1,0 +1,15 @@
+{
+  "id": 945,
+  "origin_website": "Nature",
+  "title": "Immunohistochemical detection of viral-infected terminals",
+  "procedures": [
+    "1.Using a cryostat, cut the lumbar segments where the double-infected cell bodies reside \\(e.g. L2 for L2-L5 interneurons). Cut the tissue at 30 µm in sets of 5, mounting the sequential cross-sections across each slide until there are five cross-sections per slide \\(e.g. first section cut mounted to slide A1, second section – B1, third section, C1, etc). Store slides at -20ºC.\n2.Preheat the slide warmer to 37ºC. Once at temperature, remove a complete set of slides from -20ºC and warm for 20 minutes \\(e.g. one set is slides A1, A2, A3, etc).\n3.After warming, outline the sections using a hyprophobic pen \\(e.g. Pap Pen) and liberally apply 0.1 M TBS \\(pH 7.4). Cover the slides to block out ambient light and gently shake at room temperature for 10 minutes \\(all incubations will be with the slides covered and shaking at room temperature unless otherwise noted).\n4.During the hydration step, prepare the blocking solution \\(0.1-0.3% Triton x-100 in 0.1 M TBS at pH 7.4, 0.05% BSA, 10% normal donkey serum; final concentrations listed).\n5.Apply the blocking solution, let incubate for 1 hour. \n6.Rinse the sections in 0.1 M TBS for 10 minutes.\n7.Prepare the primary antibody solution \\(0.1-0.3% Triton x-100 in 0.1 M TBS at pH 7.4, 0.05% BSA, 5% normal donkey serum). Make a cocktail solution with the following primary antibodies: 1:5,000 rabbit anti-GFP \\(abcam ab290) and 1:500 guinea pig anti-NeuN \\(Millipore ABN90P).\n8.Add the primary antibody to the sections and incubate overnight at 4ºC with gentle shaking.\n9.If detecting synaptic co-localization of GFP-enhanced viral eTeNT.EGFP, perform the following steps: \\(a) rinse the slides in 0.1 M TBS three times, each 5 minutes, \\(b) prepare the aforementioned primary antibody solution, using mouse anti-synaptophysin at a 1:10,000 \\(Millipore MAB5258-50UG), and \\(c) incubate slides overnight at 4ºC with gentle shaking.",
+    "10.If not detecting synaptic co-localization, proceed to rinse the slides in 0.1 M TBS \\(three washes, 10 minutes each). \n11.Prepare the secondary antibody solution \\(0.1-0.3% Triton x-100 in 0.1 M TBS at pH 7.4, 0.05% BSA, 5% normal donkey serum) with corresponding secondary antibodies, each at 1:200 concentration \\(donkey anti-rabbit AlexaFluor 488, Invitrogen A21206; donkey anti-guinea pig AlexaFluor 594; Jackson Immunoresearch 706-585-148). If staining is for synaptic co-localization, include anti-mouse AlexaFluor647 at 1:200 \\(JacksonImmunoresearch 715-605-151).\n12.Add the secondary antibody to the sections and incubate for one hour.\n13.Perform three, 10 minute washes with 0.1M TBS. During the second wash, add hoechest \\(1:1,000) to stain for nuclei. \n14.Coverslip with FluoroMount-G and store at 4ºC overnight until ready for imaging."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

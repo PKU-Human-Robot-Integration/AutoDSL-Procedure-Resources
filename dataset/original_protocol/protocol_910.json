@@ -1,0 +1,20 @@
+{
+  "id": 969,
+  "origin_website": "Nature",
+  "title": "Primary isolation of vascular cells from murine brain for single cell sequencing",
+  "procedures": [
+    "1. Preparation: From the Neural Tissue Dissociation kit, mix 2850 µl of buffer 2 with 75 µl of buffer 1 for 600 mg of tissue \\(a full adult brain weighs roughly 500-600 mg). This will yield enzyme mix 1. Warm the enzyme mix 1 for 10 minutes at 37 ºC.\n  2. Kill the mouse using an approved method of euthanasia \\(terminal anesthesia followed by heart perfusion with HBSS, or cervical dislocation). Remove the brain from the skull.\n  3. Transfer the brain to a Petri dish and chop it with sharp scissors for about 30 seconds, or until no large pieces are visible. The pieces should be small enough to pass through a cut pipette tip \\(see next step).\n  4. Transfer the brain pieces to a 5 ml tube and mix them with enzyme mix 1. Use a p1000 with cut tip and wash the petri dish.\n  5. Incubate for 17 minutes at 37 ºC with slow rotation \\(around 20 rotations/minute). \n  6. During incubation: Prepare enzyme mix 2: Mix 30 µl of buffer 3 with 15 µl of buffer 4.\n  7. Take the suspension from the rotator and add enzyme mix 2 \n  8. Mix the solution with a Pasteur pipette and a rubber bulb 10 times. When clogging occurs, remove the clog by tapping the tip of the Pasteur pipette on the bottom until the clog resolves. The solution should pass the Pasteur pipette without clogging before proceeding to the next step.\n  9. Incubate for 12 minutes at 37 ºC with slow rotation.\n  10. Pass the brain suspension firmly, but without creating bubbles or foam, through a 20 G needle \\(use a 1 ml syringe). Do this a minimum of 10 times. The suspension should pass the needle without clogging, and no major tissue pieces should be visible after this step.",
+    "11. Incubate 10 minutes at 37 ºC. \n  12. Transfer the suspension to a 50 ml tube, add 20 ml of cold PBS \\(with Mg and Ca) and pass through a 70 µm mesh. From this moment on, the cell suspension should stay on 4 ºC.\n  13. Spin down 300g for 5 minutes at 4 ºC. \n  14. Resuspend the pellet in 1800 µl of MACS buffer and 200 µl of Myelin removal beads.\n  15. Incubate at 4 ºC for 15 minutes, no agitation.\n  16. Add 18 ml of MACS buffer to a total of 20 ml.\n  17. Spin down at 300g for 5 minutes, 4 ºC. \n  18. Preparation: Place 3 LS columns on the Myltenyi QuadroMACS Separator. Rinse each LS column with 3 ml of MACS buffer. Discard eluent.\n  19. Resuspend the pellet in 3 ml of MACS buffer.\n  20. Add 1 ml of the cell suspension on each column. Collect the eluent containing the cells\\!\n  21. After the suspension has run through, wash the column twice with 1 ml of MACS buffer. Collect the eluent\\!\n  22. Spin down the eluent at 300g for 5 minutes.\n  23. Dissolve the pellet in 500 µl of FACS buffer \\(volume depending on the size of the pellet).\n  24. Incubate with FACS antibodies or proceed straight with FACS."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Molecular Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8301,
+  "origin_website": "Bio",
+  "title": "Measurement of Potassium Content in <em>Arabidopsis</em>",
+  "procedures": [
+    "Arabidopsis seedlings are germinated for 10 days on GM agar and then cultivated hydroponically with milliQ H2O in plates for 5 days.   Plants are dissected into shoots and roots by cutting the bottom of the shoots with ceramic scissors and tweezers.   Samples are dried in disposable centrifugation tubes (50 ml) at 70 °C for 12 h. A paper or aluminum foil is placed over the samples during the drying process.   Dried samples (between 15 and 20 plants, corresponding to between 5 and 10 mg as dry weight) are placed into PFA cups with ceramic tweezers and weighed.   The PFA cups are placed in PTFE vessels, and nitric acid (1 ml) is added to the PTFE vessels outside the PFA cups. To avoid contamination of impurities in nitric acid, samples are decomposed by nitric acid vapor (not nitric acid liquid).   The PTFE vessels are set in stainless-steel vessels (HU-25) and heated at 150 °C for 10 h.   The decomposed samples in the PFA cups are diluted with 0.1 M nitric acid and poured into a volumetric flask (100 ml). The sample solution is filled up with 0.1 M nitric acid and subjected to analysis.   Potassium content in plants is measured with an atomic absorption spectrometer in emission mode. Standard solutions at concentrations of 0, 1, 2, 4, 8 ppm are prepared from a 1,000 ppm reference solution diluted with 0.1 M nitric acid (It also can be measured by ICP-OES)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

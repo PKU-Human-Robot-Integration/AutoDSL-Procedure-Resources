@@ -1,0 +1,16 @@
+{
+  "id": 6809,
+  "origin_website": "Bio",
+  "title": "Fibrin Breakdown Assay",
+  "procedures": [
+    "Maintenance of cell linesProgate the cells in growth media containing Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 0.1% penicillin/streptomycin (10,000 U/ml), 2 mM glutamine and 10% newborn calf serum (NCS).The cells were passaged when approximately 70-90% confluence was reached.To passage the cells, remove the growth media and add 5 ml of sterile pre-warmed phosphate buffer saline (PBS) to gently wash the cells to get rid of the remaining growth media.Note: Remaining media will reduce the efficiency of trypsin. Remove the PBS and add 5 ml of trypsin-EDTA solution. Incubate the cells for 5 min at 37 °C.Agitate the cells vigorously and then analyze the cells under the microscope to ensure complete cell detachment.Add 5 ml of growth media containing NCS to inactivate the trypsin-EDTA solution.Collect the cells by centrifugation at 80 x g for 3 min at room temperature.Remove the growth media and trypsin-EDTA solution. Re-suspend the cell pellet in 5 ml of fresh growth media.Once fully resuspended, add 1 ml of cells to fresh growth media in sterile flasks, 100 mm dishes or six well plates.Incubate the cells at 37 °C in an atmosphere of 95% humidity, 5% CO2 and ambient O2 until required or confluent.Fibrin matrices preparationAdd 0.1 U/ml thrombin into a 50 ml Falcon tube with a mixture of 2.5 U factor XIII, 2 mg fibrinogen, 2 mg Na-citrate, 0.8 mg NaCl, and 3 μg plasminogen per ml DMEM medium without indicator (Lansink et al., 1998).Add 300 μl of the mixture into each well of a 12-well plate. Let mixture clot at room temperature.Cell seeding and measurementAdd 0.5 ml DMEM supplemented with 10% NCS and 1% penicillin/streptomycin.Weigh out the fibrin matrices with 12-well plate before adding medium and seeding cells.",
+    "Seed the cells at 1 x 105 per well of a 12-well plate containing fibrin matrices, in order to obtain confluent monolayers cultured in DMEM (without indicator) supplemented with 10% NCS, 2 mM -glutamine and 1% penicillin/streptomycin.Incubate the plates for 8-12 days at the same environment as described above.Add test compounds together with fresh medium every 2-3 days.Collect the medium and replace with new media every 2 to 3 days along with new test compounds.Use phase contrast microscope to analyze invading cells in three-dimensional fibrin matrix, take 10x magnification images of the fibrin gels and lytic zones.Aspirate the fibrin degradation supernatant, weigh out the remaining gel with 12-well plate using an analytical balance.Decrease in gel weight corresponds to increased fibrin degradation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

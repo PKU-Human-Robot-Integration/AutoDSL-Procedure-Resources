@@ -1,0 +1,15 @@
+{
+  "id": 1020,
+  "origin_website": "Nature",
+  "title": "Kinase annotation for helminths",
+  "procedures": [
+    "1. Download the Kinase domain models file from the Kinomer website \\( \" http://www.compbio.dundee.ac.uk/kinomer/allPK.hmm\":http://www.compbio.dundee.ac.uk/kinomer/allPK.hmm).\n  2. Kinase class specific score thresholds are determined by starting with those used in the Kinomer paper<sup>3</sup> and then adjusting them until an hmmpfam search \\(HMMER v2.3.2) comes as close as possible to identifying all known _C._ _elegans_ kinases using the Kinomer allPK.hmm profile database.  e.g. The final cutoffs used for the associated publication were: TK, 5.5e-03; CAMK, 9.6e-07; CK1, 1.1e-02; CMGC, 6.7e-03; AGC, 1.1e-14; STE, 3.4e-03; RGC, 4.8e-05; TKL, 8.7e-03; PDHK, 4.7e-160; PIKK, 1.4e-06; Alpha, 8.5e-66; and RIO, 7.5e-10.\n  3. Hmmpfam is used with default settings to map the user provided gene protein sequences against the Kinomer models.\n  4. Genes with hmmpfam 'hits' meeting the kinase class specific custom cutoffs are then annotated as a putative kinase of the given class."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

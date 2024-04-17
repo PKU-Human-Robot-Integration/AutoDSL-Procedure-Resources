@@ -1,0 +1,16 @@
+{
+  "id": 6128,
+  "origin_website": "Bio",
+  "title": "Analysis of Autophagic Activity Using ATG8 Lipidation Assay in <em>Arabidopsis thaliana</em>",
+  "procedures": [
+    "Incubate 0.2 g 5-day Arabidopsis thaliana seedlings in MS liquid medium with and without 100 µM BTH (10 mM stock in methanol) for 8 h (see Notes 1 and 2).Freeze the seedlings in the mortar using liquid nitrogen and grind the plants thoroughly. Add 2x extraction buffer containing PIC without detergent into the mortar on ice.After defrost slowly on ice, transfer the liquid to a 1.5 ml tube and centrifuge at 1,000 x g for 5 min, 4 °C.Transfer the supernatant to an ultracentrifuge tube (7 x 20 mm) and centrifuge at 100,000 x g for 45 min, 4 °C.Transfer the supernatant (Cell Soluble fraction, CS) into a labeled new Eppendorf tube and keep on ice.Wash the pallet (Cell Membrane fraction, CM) slightly with the 1x extraction buffer containing 1x PIC for 2-3 times. Note: In this step, add the 1x extraction buffer slightly without touching the surface of the pallet, and the centrifuge and re-suspend are not required. The main purpose of this step is washing out the remaining CS liquid on the CM surface.Resuspend the pallet using 1x extraction buffer containing 1x PIC and 1% (v/v) Triton X-100 to solubilize the membranes.Add the 5x sample loading dye to both of the CS and CM samples. Boil the samples at 100 °C for 10 min.Prepare the 15% SDS-PAGE gel with 6 M urea. Note: Only add the urea in the separating gel. Load the CM samples and run at 90 V for 3 h with 1x running buffer. Run for additional 30 min at 90 V after the blue band reaches the bottom of the gel (see Notes 3 and 4).Transfer the proteins from the gel to PVDF membrane at 55 V for 2.5 h with 1x transfer buffer.",
+    "After blotting, soak the blotted membrane in 1x PBS with 5% milk powder for 1 h. Wash with PBS-T for 3 times.Incubate with ATG8 specific primary antibody (4 μg/μl in PBS-T) for 1 h. Wash with PBST for 3 times.Incubate with the secondary antibody (1:5,000 in PBS-T) for 1 h. Wash with PBS-T for 3 times.Add Western blotting detecting reagents onto the membrane, and expose it to the X-ray film or use an imaging machine. (Figure1)"
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

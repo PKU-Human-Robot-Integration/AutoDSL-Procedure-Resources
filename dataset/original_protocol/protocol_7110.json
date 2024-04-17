@@ -1,0 +1,16 @@
+{
+  "id": 7489,
+  "origin_website": "Bio",
+  "title": "Fractionation and Extraction of Crude Nuclear Proteins From <em>Arabidopsis</em> Seedlings ",
+  "procedures": [
+    "Nuclei isolationTransfer 2.0 g of the 10-day-old Arabidopsis seedlings into a mortar, which is prechilled with liquid nitrogen. Grind in liquid nitrogen for about 5 min until a fine powder is obtained. Transfer the frozen seedling powder into a 50 mL tube filled with 4 mL of precooled Honda buffer (2 mL/g), mix by vortex, then incubate on ice for 10 min.Filter the homogenate through a 100-μm and then a 40-μm mesh nylon cell stainer sequentially, take 100 μL of the flow-through as the total protein extract (control 1), then centrifuge the remaining flow-through at 1,500 × g for 5 min at 4°C.Transfer 100 μL of the supernatant to a new tube, then centrifuge at 12,000 × g for 10 min at 4°C, collect the supernatant as the cytosol fraction (control 2).Discard the remaining supernatant, wash the dark-green pellet containing a crude nuclear fraction with 5 mL of nuclei isolation buffer (NIB). Gently pipet up and down with a 5 mL-sterile pipette. Centrifuge at 1,500 × g for 10 min at 4°C, discard the supernatant, and pellet the nuclei.Repeat Step A4 three or four times, until the color of the nuclear pellet becomes white, with as little green coloration as possible. The white nuclear pellet is regard as the crude nuclei fraction.Nuclear protein extractionGently resuspend the nuclear pellet in 30 μL of prechilled glycerol buffer and 30 μL of nuclei lysis buffer, then mix the nuclei pellet by vortexing, and incubate on ice for 10 min, to obtain the lysis of the nucleus as the nuclear fraction.Add 12 μL of 6× SDS protein loading buffer and mix with the nucleus fraction by vortexing, then boil at 100°C for 10 min. Centrifuge at 12,000 × g for 10 min at room temperature.",
+    "Aspirate the supernatant (nuclear proteins) to a new tube, store the sample at -80°C untill use."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

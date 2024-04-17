@@ -1,0 +1,16 @@
+{
+  "id": 4562,
+  "origin_website": "Bio",
+  "title": "Infection Assays of Tomato and Apple Fruit by the Fungal Pathogen <em>Botrytis cinerea</em>",
+  "procedures": [
+    "Fruit disinfection   The fruits with uniformity and without physical injuries were used as experimental materials.   These fruits were immersed in 2% sodium hypochlorite solution for 2 min, rinsed with sterile tap water, and air-dried in a clean bench (approximately 2 h).   After being air dried, the fruits were wounded (approximately 4 mm in depth) at the equator with sterile nail (sterilized with alcohol lamp) prior to inoculation with pathogen (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141204/20141204011216_3291.jpg Figure 1. Wounding of apple fruit A and tomato fruit B with sterile nail      Pathogen inoculum preparation   Five microliter spore suspension (5 x 106/ml in 15% glycerol, stored at -80 °C) of B. cinerea was inoculated on PDA plates and cultured for 2 weeks at 22 °C.   Fungal spores were harvested by flooding the surface of the culture with KH2PO4-glucose solution containing 0.05% (v/v) Tween-80, then filtered through four layers of sterile cheesecloth. The concentration of spore suspension was determined by observing under optical microscope using hemacytometer. Then, the concentration of spore suspension was adjusted to 5 x 104 per milliliter by KH2PO4-Glucose solution.      Inoculation Tomato and apple fruits were inoculated with 10 μl spore suspension (the suspension was mixed by Vortexer before inoculation) in each wounded site using a pipette, respectively, KH2PO4-Glucose solution was used as control. Ten inoculated fruits were put into plastic basket (40 cm x 30 cm x 10 cm) and sealed with plastic film, about 5mL sterile water was sprayed into the plastic film to maintain a high relative humidity (about 95%), and stored at 25 °C.    Disease scoring Two days after inoculation, the lesion diameters were measured daily. Two diameter values of each lesion in two mutually perpendicular directions were recorded. The average of the two values was defined as the diameter of the lesion (Figure 2).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141204/20141204011246_9364.jpg Figure 2.",
+    "Lesions caused by B. cinerea and buffer. A. lesions on apple fruits (four days after inoculation). B. lesions on tomato fruits (3 days after inoculation). Buffer, KH2PO4-Glucose solution. (Source: Zhang et al., 2014)"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

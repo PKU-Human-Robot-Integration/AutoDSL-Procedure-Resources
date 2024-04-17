@@ -1,0 +1,14 @@
+{
+  "id": 7355,
+  "origin_website": "Bio",
+  "title": "HIV-1 Single Cycle Infection",
+  "procedures": [
+    "P4C5 cells are HeLa cells, stably expressing CD4 and CCR5. Additionally, they express the lacZ gene under the control of HIV-1 Long Terminal Repeat (LTR) promoter. They are grown like normal HeLa cells, in DMEM, 10% heat-inactivated FBS, 10% PS, and kept at 5% CO2 and at 37 °C.   8 x 104 P4C5 cells were plated in flat-bottom 96-well plates in a final volume of 100 μl of complete medium for 24 h.   Cells were infected in triplicate with HIV-1 Δenv, using 1 or 5 ng of Gag p24 per well. Specifically, 100 μl of virus-containing medium were added to the 100 μl of complete medium already in the well. Viral titers have to be previously determined using a Gag p24 ELISA assay (either home-made or commercial). The use of two different viral inputs is required to make sure that the saturation levels are not reached.   At 36 h post-infection, cells were lysed in 80 μl of lysis buffer, then incubated for 1 min at room temperature with 80 μl of lysis buffer, containing CPRG at a final concentration of 3.65 mg/ml. CPRG, the substrate of the β-galactosidase enzyme, allows to monitor the levels of infection. OD (570 nm) was measured every 15 min and normalized against background levels of OD (690 nm).    Infection levels - as monitored by percentage of Gag+ cells by flow cytometry, or quantification of Gag p24 in the culture supernatants by ELISA - are proportionnal to the normalized OD (570 nm). The assay is linear from 0.1 to 3 units of OD (570 nm). Representative results are shown in Figure 3B of Roesch et al. 2012."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4266,
+  "origin_website": "Bio",
+  "title": "Cell Surface Protein-protein Binding on COS-7 Cells",
+  "procedures": [
+    "Production of the medium containing the extracellular protein.   Seed COS-7 cells in a 10-cm dish.   Transfect the cells with the plasmid encoding the extracellular protein fused to the human IgG Fc (we use Lipofectamine 2000: 1 μg of DNA + 2 μl of Lipofectamine 2000 for one well in a 6-well plate, and follow the manufacturer’s instruction).   One day after transfection, remove all the medium, wash the culture with 6 ml of DPBS twice and add 10 ml of VP-SFM containing 2x GlutaMAX-I.   Two days later, collect all the medium and add 10 ml of fresh VP-SFM/2x GlutaMAX-I to the culture.   Centrifuge the harvested medium at 3,000 x g for 3 min, collect the supernatant and neutralize it by adding to a final concentration 10 mM HEPES-Na+, pH 8.0.   Repeat steps 1d and 1e.   Pool two batches of the medium and concentrate with a protein concentrator to 1/10x the original volume. The concentrated medium can be stored at -80 °C(we usually store the concentrated medium in 1-ml aliquots. For our fusion proteins, the binding activity is still good even after 5 freeze-thaw cycles. If freezing and thawing are a concern, it is recommended to first test the binding activity from unfrozen preparations).     Seed COS-7 cells directly into the 6-well plates containing glass coverslips (no treatment required) and the culture medium.   Transfect the cells with the plasmid encoding the membrane protein.   Two days later, thaw the concentrated medium containing the Fc fusion protein from step 1.   For the binding assay on one coverslip of cells, take 100 μl of the concentrated medium and add the goat anti-human Fc antibodies conjugated with a fluorophore at a final concentration of 7.5 ng/ml. Incubate on ice for 30 min (cover with foil to protect the fluorophore from the light).",
+    "Transfer the coverslips with cells from the original 6-well plate to a new empty 6-well plate and add the mixture from step 5 onto the coverslips carefully (the 100-μl mixture stays on the top of the coverslip.) Incubate at room temperature for 30 min (cover with foil).   Remove the mixture of the concentrated medium and goat anti-human Fc antibodies and rinse with 2 ml of ice-cold DPBS three times.    Fix the cells on coverslips and follow the regular immunostaining procedure. The fixation and staining conditions depend on the properties of the primary and secondary antibodies. For most of our antibodies, the following procedure is performed: (protect from light for the whole procedure).   Add 2 ml of ice-cold 4% PFA per well and incubate for 20 min at 4 °C.   Rinse with 2 ml of room-temperature PBS three times.   The cells on the coverslips are ready for blocking/permeabilizing and immunostaining to visualize the expression of the membrane protein.    imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131231/20131231220135_7693.jpg Figure 1. An example of the binding assay. COS-7 cells were transfected with an NF186-expressing plasmid and then incubated with a mixture of goat anti-human Fc antibodies and  concentrated medium containing Fc or BcG3-Fc. The nuclei were visualized by Hoechst. Fc does not interact with NF186 and is the negative control. BcG3-Fc specifically interacts with NF186 and does not bind to untransfected cells. Scale bar = 16 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

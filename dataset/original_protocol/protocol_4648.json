@@ -1,0 +1,16 @@
+{
+  "id": 4926,
+  "origin_website": "Bio",
+  "title": "Fluoro-Jade B Staining for Neuronal Cell Death",
+  "procedures": [
+    "Mount tissue sections (20-35 μm cut on microtome or cryostat) on Superfrost plus slide and let the slide dry overnight under vacuum.Fix the tissue on slide warmer 30 min at 60 °C and/or 20 min in paraformaldehyde 4%.Follow by 2 min in KPBS. Note: All the following steps are done at room temperature.Dehydrate in 50%-70%-100% Ethanol 2 min each. Rehydrate by going back in 70%-50% Ethanol and KPBS, 2 min each. Incubate in potassium permanganate 0.06% (dilute in water) 5 min at room temperature. Rinse in water 1 min. Incubate in Fluoro-Jade solution at room temperature for 10 min and gently shake on orbital shaker or by doing several dips during incubation (three dips of few seconds 3 times during incubation). Use opaque cup for the Fluoro-Jade incubation and keep the slide in shelters from light for the rest of the procedure. Note: Fluoro-Jade solution and potassium permanganate 0.06% must be prepared fresh. Follow by three rinses of 1 min each in water.Dry the slides overnight under vacuum at room temperature.Clear the slide in Xylene (3 x 2 min).Cover slip with DPX and dry 24-48 h under hood before microscope analysis.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160103/20160103233749_2960.jpgFigure 1. Example of the setup use for incubation and/or dipping of the slides in different solutions"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

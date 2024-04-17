@@ -1,0 +1,15 @@
+{
+  "id": 8122,
+  "origin_website": "Bio",
+  "title": "Analysis of the Incorporation of Carbon Atoms from Radioactive Lactate into Proteins ",
+  "procedures": [
+    "Count cells using Burker chamber.   Plate 30,000 cells in each plate (six inches diameter).    Add to culture medium [U-14C] lactate (2 μCi/ml, final concentration).   Place the cells in incubator at 37 °C, 5% CO2 for 24 h.   Wash cells with 2 ml of PBS.   Add to cells 1 ml of 20% trichloroacetic acid.   Rupture the cells with the scrapers.   Recover the cells and put them in an Eppendorf tube.   Leave in ice for 30 min.   Centrifuge at 12,000 x g for 15 min at room temperature.    Remove the supernatant and resuspend the pellet with 200 μl of water.    Put 2 ml of scintillation liquid in a vial for scintillation.   Transfer an equal volume of resuspended pellet in the vial containing the scintillation liquid.   The resuspended pellet was assayed for [14C] labelled proteins by liquid scintillation counting."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

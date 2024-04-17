@@ -1,0 +1,15 @@
+{
+  "id": 6230,
+  "origin_website": "Bio",
+  "title": "Cell Synchronization by Double Thymidine Block",
+  "procedures": [
+    "Plate H1299 cells at 20-30% confluence in a 10 cm culture dish (2 x 106-3 x 106 cells per dish) containing 10 ml of Roswell Park Memorial Institute (RPMI) 1640 Medium supplemented with 10% Fetal Bovine Serum (FBS).Incubate cells at 37 °C overnight.Add thymidine to a final concentration of 2 mM.Culture cells in a tissue culture incubator at 37 °C for 18 h.Remove thymidine by washing cells through addition of 10 ml pre-warmed 1x PBS and discard PBS.Add 10 ml of pre-warmed fresh medium and incubate for 9 h in a tissue culture incubator at 37 °C.Add second round of thymidine to a final concentration of 2 mM.Culture cells at the tissue culture incubator for another 18 h at 37 °C.Cells are now in G1/S boundary.Release cells by washing with pre-warmed 1x PBS and incubating cells in pre-warmed fresh media. Cells are collected at 0, 2, 6, 8, 10, 12, 14, 24 h for analysis of cell cycle by DNA staining using PI, or analysis of protein by Western blot using cyclin A, cyclin D and β-Actin antibodies (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180828/20180828014120_6185.jpgFigure 1. G1/S phase synchronized H1299 cells enter into normal cell cycle progression after release into fresh medium. A. Cell cycle profiles at indicated time points after release following double thymidine block. B. Expression levels of Cyclin A, Cyclin B and β-actin in cells at indicated time points after release."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

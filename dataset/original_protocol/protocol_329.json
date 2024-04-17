@@ -1,0 +1,17 @@
+{
+  "id": 351,
+  "origin_website": "Nature",
+  "title": "Critical functions of L-selectin-mediated lymphocyte homing and recruitment",
+  "procedures": [
+    "**Fixation**\n1. Fix lymph node frozen sections with acetone for 15 min at room temperature.\n  2.  Wash the sections with PBS 3 times and treated with the following enzymes.\n  \n**N-glycanase treatment**\n3. Incubate the fixed lymph node frozen sections with 100 mU/ml N-glycosidase F in 10 mM HEPES-NaOH, pH 7.4, 0.1% Triton X-100, 0.1 M 2-mercaptoethanol and complete protease inhibitor \\(Roche) at 37&#xB0;C for 2 h.  Proceed to 6.\n  \n**_O_-sialoglycopeptidase treatment**\n4. Incubate the sections with 0.1 ~ 1 mg/ml O-sialoglycoprotein endopeptidase<sup>1</sup> for in 10 mM HEPES-NaOH, pH 7.4 at 37&#xB0;C for 2 h \\(ref. 1). Proceed to 6.\n  \n**Heparitinases**\n5. Incubate the sections with 25 mU/ml Heparitinase I and II and heparinase in PBS containing 1 mg/ml BSA, 1 mM CaCl<sub>2</sub> and the protease inhibitor at 37 &#xB0;C for 2 h. Proceed to 6.\n  \n**Washing**\n6. The digested sections were washed with PBS containing 0.1 mg/ml BSA at least 3 times and subjected to further staining.\n  \n**Staining**\n7. Stanadard immunostaining technique using antibodies specific for appropriate glycans can be done to evaluate the digestions.  Lectin staining including L/E/P-selectin-IgM staining may be also applicable<sup>2</sup>."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

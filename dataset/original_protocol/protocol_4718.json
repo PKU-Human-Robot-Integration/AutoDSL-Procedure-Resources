@@ -1,0 +1,17 @@
+{
+  "id": 5012,
+  "origin_website": "Bio",
+  "title": "Aβ Extraction from Murine Brain Homogenates",
+  "procedures": [
+    "Note: The following protocol has been used to extract Aβ from multiple mouse models of Alzheimer’s disease [please see Cramer et al. (2012) and Casali et al. (2015)]. The user may need to modify dilutions of the final extracted product depending on the particular application (e.g., ELISA and/or Western blotting). Our lab usually dilutes DEA and FA fractions for Aβ ELISAs at least five-fold to fall within our in-house ELISA detection limits. For Western blots of Aβ and modified APP fragments, we recommend 10 to 50 micrograms protein per well, and for more details about Western blotting using the DEA-soluble extraction, please see Morales-Corraliza et al. (2012). Mechanical homogenization Mechanically homogenize brain tissue (see Note 1) in 850 µl cold THB buffer containing fresh protease inhibitor cocktail on ice. If using flash-frozen brains, immediately homogenize. Freshly dissected brains may also be used. Homogenize thoroughly enough such that a homogenous mixture results.Aliquot 250 µl of homogenate into 1.5 ml Eppendorf tubes for DEA/FA extraction on ice (see Note 2). Proceed to DEA/FA extraction below. If not immediately extracting, flash freeze samples on dry ice and store at -80 °C (Note 3).DEA/FA Aβ extraction To 250 µl homogenate, add 250 µl (Note 4) 0.4% DEA and vortex rigorously until mixture appears homogenous. Transfer 500 µl of the homogenate/DEA sample to a tube capable of undergoing high-speed centrifugation. Using a swinging-bucket rotor (Note 5), perform a high-speed spin at 135,000 x g for 1 h at 4 °C. Remove 425 µl supernatant and neutralize with 42.5 µl 0.5 M Tris-HCl (pH 6.8). Vortex. Divide into 220 µl aliquots and flash-freeze on dry-ice. Store at -80 °C (Note 3).",
+    "There will be a residual amount of soluble fraction remaining in the tube with the pellet that will not affect the downstream extraction-only remove 425 µl supernatant.Using the homogenate pellet that remains from step B4, add 125 µl cold formic acid (Note 6). Keep tubes on ice.Sonicate each sample on ice for 1 min continuously between output amplitude of 30-50 (Note 7). The pellet should dissolve after this amount of time. If not, sonicate until the pellet dissolves.Perform another high-speed spin at 109,000 x g for 1 h at 4 °C.Remove 105 µl sample, and add 1.895 ml of formic-acid neutralization buffer. Vortex and then divide into 2 x 1 ml aliquots and flash-freeze on dry-ice. Store at -80 °C (Note 3).Note: For the expected yield of DEA soluble extracts and FA fractions, our lab routinely obtains between 1.0 to 3.0 mg/ml protein and approximately 0.1 to 0.5 mg/ml protein respectively."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

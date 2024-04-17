@@ -1,0 +1,17 @@
+{
+  "id": 4276,
+  "origin_website": "Bio",
+  "title": "Binding to Secreted Bone Matrix <em>in vitro</em>",
+  "procedures": [
+    "MSC are rinsed gently one time with 2 ml of PBS and trypsinized. For cells trypsinization: add 0.5 ml of trypsin on the rinsed cells. Wait 3 to 5 min until cells peel off the plastic surface. Transfer cells in a 15 ml tube and add quickly 10 ml of DMEM containing 10 % FBS in order to inhibit trypsin action.    The cells are pelleted at 435 x g for 5 min at 4 °C.   The supernatant is removed and the cells are incubated in 6 wells plate at a density of 5,000-10,000 cells per well, in 2 ml of DMEM complemented with 10% FBS.   The cells are incubated in the 5% CO2 incubator at 37 °C overnight.   MSC are washed twice with PBS by adding and removing gently 2 ml of PBS per well without any agitation. Cells must be still adherent to the bottom of wells after washes. The adherent cells are then incubated with osteogenic differentiation medium.   The osteogenic differentiation medium is changed every 2 days for 10 days.   At day 10, the differentiated cells are washed with PBS and exposed to Alizarin red S preparation for 5 min at room temperature without any agitation.   Cells are rinsed with distilled water and the red coloration indicating an osteogenic differentiation is assessed by microscopy (see Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140111/20140111015049_3236.jpg Figure 1. Multipotent stromal cells were differentiated into osteocytes for 10 d. Osteocyte differentiation was detected by Alizarin red S staining (Tormo et al., 2013). (Copyright 2013. The American Association of Immunologists, Inc)    Each well is incubated with 1 μg IL-27 (or other molecules being tested) in 500 μl serum-free DMEM for 1 h on ice without agitation (verify that all the well is recovered by medium). DMEM alone is used as negative control.",
+    "Cells are washed 5 times with 1 ml of ice-cold serum-free DMEM without agitation and scraped in 100 μl urea/phosphate lysis buffer supplemented with protease and phosphatase inhibitors.   Lysates are transferred in 1.5 ml tubes and diluted 10 times with bromophenol blue-free and DTT-free SDS-PAGE loading buffer.   Protein concentration is quantified using a BCA kit (follow manufacturer protocol) and 50 μg of the total protein is analysed by SDS-PAGE (after adding 5% b-mercaptoethanol to each tubes) and Western blot.   IL-27 is detected after blocking the Western blot membrane 30 min at room temperature in TBS-Tween containing 3% BSA followed by successive incubation with biotinylated goat anti-mouse p28 Ab (incubated over-night at 4 °C) and HRP-labelled streptavidin (incubated 1 h at room temperature). All incubations are performed in TBS-Tween containing 3% BSA. Washes are performed following incubation with Ab or streptavidin. These membrane washes consist of 3 incubations of 10 min at room temperature in 20 ml of TBS-Tween with agitation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

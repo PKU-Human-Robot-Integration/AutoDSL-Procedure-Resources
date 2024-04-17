@@ -1,0 +1,16 @@
+{
+  "id": 5469,
+  "origin_website": "Bio",
+  "title": "Rapid Isolation of Total Protein from <em>Arabidopsis</em> Pollen",
+  "procedures": [
+    "Grow Arabidopsis plants in a growth room at 21 °C under long-day conditions (16 h light/8 h dark) for 6 to 8 weeks. Normally, the Col-0 ecotype will produce many flowers under these conditions. The plant growth time can be changed to adapt to the flowering time of other Arabidopsis ecotypes.Quickly collect more than 100 freshly opened flowers (stage 13-15, Figure 1) in one 1.5 ml Eppendorf tube and add 1 ml K-HEPES protein extraction buffer (see Recipes). This step can be done at room temperature.Note: Collect Arabidopsis flowers around 10 AM. At this time the flowers will be fully opened, allowing easier access to the pollen.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170412/20170412232150_8631.jpgFigure 1. An opening Arabidopsis flower at stage 13-15 (Müller, 1961; Smyth et al., 1990)Vortex the flowers at the highest speed for 2-5 min in order to thoroughly separate the pollen from the flowers (Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Procedure for the isolation of pollen from flowers by vortex in step 3 Centrifuge at 350 x g for 1 min at 4 °C (Video 2).Note: Under low speed, most of the flowers will be suspended in the upper layer of buffer, but the pollen will be centrifuged to the bottom of the tube.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Procedure for the isolation of protein as stated in step 4-7 Slowly and thoroughly remove all the flower debris with small forceps (Video 2).Note: If necessary, you can repeat steps 4 and 5 several times for total removal of the flower debris, but you should be careful to avoid touching the pollen at the bottom of the tube.Completely remove the supernatant (Video 2).Note: Make sure the pollen is still at the bottom of the tube.Put the tube on ice and thoroughly grind the pollen with a small pestle for 1-3 min (Video 2).",
+    "The liquid mixture will turn yellow color if the pollen is homogenized completely.Note: If your lab doesn’t have suitable pestles for 1.5 ml tubes, you can use a 1 ml pipette tip, sealed by melting it in a flame, as a substitute.Add 50 μl K-HEPES protein extraction buffer into the tube and keep the tube on ice for about 1 h.Centrifuge at 18,000 x g for 20 min at 4 °C, then transfer the supernatant to a new 1.5 ml tube (keep the tube on ice). Repeat this step twice. The supernatant is the final pollen protein sample and the protein concentration can be measured by standard Bradford assay."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 988,
+  "origin_website": "Nature",
+  "title": "A Hybridization Chain Reaction-based Method for Amplifying Immunosignals",
+  "procedures": [
+    "Tissue section preparation\n1. Anesthetize mice with an overdose of pentobarbital and perfuse intracardially with PBS, followed by paraformaldehyde \\(PFA, 4% wt/vol in PBS). \n  2. Dissected out tissues and postfix them in 4% PFA for 4 h at room temperature or 1 d at 4°C.\n  3. Dehydrate tissue samples in 30% sucrose solution.\n  4. Prepare thin tissue sections on a Cryostat microtome.\n  \nImmunostaining\n1. Wash and permeablize sections in 0.3% Triton X-100 in PBS \\(PBST) and blocked them in 2% BSA in PBST at room temperature for 1 h.\n  2. Incubate sections with primary antibodies for various times according to the efficiency of the antibodies.\n  3. Wash samples for three times in PBST. \n  \\(if DNA HCR initiator conjugated secondary antibodies are used, incubate samples in HCR amplification buffer \\[5× sodium chloride citrate \\(SCC buffer), 0.1% vol/vol Tween-20, and 10% wt/vol dextran sulfate in ddH2O] for 30min at room temperature)\n4. Sections are incubated with biotinylated secondary antibodies or DNA HCR initiator conjugated secondary antibodies.\n  5. Wash samples for three times in PBST.\n  \nisHCR amplification\n\\(All reagents were dissolved in HCR amplification buffer \\[5× sodium chloride citrate \\(SCC buffer), 0.1% vol/vol Tween-20, and 10% wt/vol dextran sulfate in ddH2O].)\n\\(For biotinylated secondary antibodies, perform the following four steps first:\n1. Incubate samples in 1 µg/mL streptavidin at room temperature for 30 min.\n  2. Wash three times in PBST.\n  3. Incubate samples with 0.5 µM DNA-biotin HCR initiators at room temperature for 30 min.\n  4. Wash three times in PBST.)\n  \n1. Snap-cooled a pair of DNA-fluorophore HCR amplifiers separately in 5× SSC buffer by heating at 95°C for 90s and cooling to room temperature over 30 min.\n  2. Both of these amplifiers were then added to amplification buffer to a final concentration of 12.5 nM",
+    "\\(Optional: graphene oxide \\(GO) can be added for applications that demands background suppression. Add GO to the buffer from step 2 to 20 µg/mL and vortex thoroughly)\n3. Incubate samples with the buffer from step 2 overnight at room temperature.\n  4. Wash three times in PBST.\n  5. mount sections on slides and observe."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Molecular Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

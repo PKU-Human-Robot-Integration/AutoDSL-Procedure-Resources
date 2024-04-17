@@ -1,0 +1,17 @@
+{
+  "id": 6323,
+  "origin_website": "Bio",
+  "title": "DAB Staining and Visualization of Hydrogen Peroxide in Wheat Leaves",
+  "procedures": [
+    "Preparation of fresh DAB staining solution   Measure ~50 ml distilled water and add 0.1 N HCl (1-2 drops) till pH reaches 3.6.   Pour 10 ml of the above solution into each 15 ml tube (the number of tubes needed is dependent on the number of treatments).   Weigh 10 mg 3, 3-diaminobenzidine and add to each tube.   Close the cap, wrap the whole tube with Aluminum foil, and vigorously shake at 37 °C in an orbital shaker for at least 1 h (leaf samples can be collected during this time period).   Check the solution to see if most of the DAB is dissolved. The solution should be colorless or slight pink and should be used fresh for staining.      Staining of wheat leaves   Collect wheat leaves at the designated time points after inoculation with the pathogen or infiltration with toxins. The fungal inoculation and toxin infiltration in this case were done at three leaf stage.   Cut infiltrated or inoculated areas of the leaves into 3 cm long segments and immerse them in the DAB solution with a plastic screen (no more than 8 leaf segments in one 15 ml tube).   Place all tubes with the caps removed in a vacuum dessicator and vacuum for 30 min at room temperature. It’s not necessary to keep the tubes in the dark at this step.   Release vacuum and place all tubes in a dark cabinet with the caps closed and incubate overnight.   The necrotic areas caused by the fungus or the toxin should be dark brown in color.      Clearing of leaves for examination (all procedures should be carried out in a fume hood)   Gently rinse DAB solution off the stained leaf segments using distilled water and dry slightly on paper towels.",
+    "Place the leaf segments on paper towels saturated with a fixative solution (ethanol/acetic acid 3:1, V/V) in a petri dish. A little amount of extra solution left in petri dish is allowed.   Incubate the leaf segments at room temperature in a fume hood for at least 24 h (it may require additional time to clear all the chlorophyll from the leaf tissue).   Transfer the cleared leaf segments to paper towels saturated with water and leave for 30 min to remove any fixative residues.   Transfer leaf segments on paper towels saturated with a lactoglycerol solution (lactic acid/glycerol/H2O 1:1:1, v/v/v). A little amount of extra solution left in petri dish is allowed.   Leaf segments can be subjected to examination after a couple of hour incubation at room temperature or stored on paper towel saturated with the same lactoglycerol solution for several weeks.   For examination, carefully mount leaf segments on a glass slide and observe under the microscope to determine the cellular location of DAB. Photographs can be made using a white background."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

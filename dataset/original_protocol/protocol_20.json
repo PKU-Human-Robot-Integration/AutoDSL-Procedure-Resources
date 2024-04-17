@@ -1,0 +1,22 @@
+{
+  "id": 20,
+  "origin_website": "Nature",
+  "title": "Multicopy suppressor screen",
+  "procedures": [
+    "1)  Select suppressor mutants from the 31019b yeast strain<sup>\\(1)</sup> carrying the high copy number plasmid pDR-AtAMT1;1Thr460Ala by growing at 28&#xBA;C for 8 days on solid YNB medium supplemented with 3% glucose and 2 mM ammonium chloride. \n2)  Pick suppressors and amplify in liquid YNB medium supplemented with 3% glucose and 2 mM ammonium. \n3)  Isolate plasmid from yeast by CTAB extraction and use for _E. coli_ transformation. \n4)  Amplify plasmids in _E. coli_, isolate and sequence."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Microbiology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

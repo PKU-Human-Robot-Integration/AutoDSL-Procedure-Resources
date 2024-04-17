@@ -1,0 +1,16 @@
+{
+  "id": 4554,
+  "origin_website": "Bio",
+  "title": "Detection of ALT Associated Promyelocytic Leukemia Nuclear Bodies (APBs) by Immunofluorescence-FISH (IF-FISH)",
+  "procedures": [
+    "Wash the suspension cells once with PBS and prepare a dilution of 0.5 x 106 cells per ml of PBS at RT.Pre-label the slides and make a small hydrophobic barrier circle (~1.3 cm diameter) with ImmEdge pen around the area where the cells will be placed and let it dry before cytospin. (Hydrophobic circle will be used to fill with the buffers for fixation, permeabilization and blocking buffer.)Prepare the slides mounted with the filter card and cytospin funnel in the metal holder as shown in the Figure 1. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141203/20141203223926_3180.jpgFigure 1. The figure illustrates the preparation of a slide for cytospinLoad up to 100 µl of the prepared cells in each funnel and spin for 1 min at 600 rpm. Note: If the method will be applied to growing adherent cells on coverslip, the steps 1-4 can be skipped.Remove the slides from the holders and let the moisture of the cells dry out for a few sec before fixation with the fixation buffer for 10 min at RT. Wash the cells 2 x 5 min each with PBS.Permeabilize the cells with permeabilization buffer for 5 min at RT. Remove the permeabilization buffer and incubate the cells for one hour with the IF blocking buffer in moist chamber.Remove the IF blocking buffer and incubate the cells in moist chamber with the fresh IF blocking buffer containing PML antibody for 2 h at RT or overnight at 4 °C.Wash the cells gently 3 x 10 min each with PBS on a shaker. (Washing steps can be done in any glass or plastic microscope slide staining Jars.)Note: The slides should be protected from light in the next following steps.Incubate the cells in moist chamber for 30 min with the secondary antibody.",
+    "Wash the cells gently 3 x 10 min each with PBS on a shaker.Re-fix the cells for 5 min with fixation buffer at RT. Wash the cells 3 x 10 min each in PBS.Dehydrate the cells in coplinjar containing ethanol series, consecutively 70%, 95%, 100% EtOH, for 5 min each.Aspirate the ethanol completely and let the slides dry for a couple of minutes in the dark.Place a drop of hybridizing solution containing the PNA probe on each slide and cover it with a coverslip.Denature the probes in hybridizing solution for 10 min at 80 °C by placing the slides on a pre-warmed hot plate.Incubate the slides in moist chamber for 2 h at RT.Wash the slides 2 x 15 min in washing solution. Wash the slides 3 x 5 min in PBS.Air-dry the slides at RT for 10 min.Mount the slides with one drop of Vectashield and cover with a coverslip. Seal the coverslip edges with clear nail polish and let it dry.Keep the slides at 4 °C in dark until microscopy.Visualize the APBs using a confocal microscope as fluorescence signals from PML bodies co-localized with telomere signals. A Cell containing two or more APBs can be scored as a ALT positive cell (Figure 2)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

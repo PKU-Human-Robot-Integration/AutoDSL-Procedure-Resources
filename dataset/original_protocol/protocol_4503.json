@@ -1,0 +1,16 @@
+{
+  "id": 4746,
+  "origin_website": "Bio",
+  "title": "Genetic Transformation of <em>Candida glabrata</em> by Heat Shock",
+  "procedures": [
+    "Culture preparation   Grow background strains overnight in YPD media at 30 °C with shaking in flasks at 160 rpm.     Dilute the culture into fresh YPD medium to an OD600 of about 0.3, and regrow until an OD600 of 1.5 is reached (for 96-well heat shock transformations, 600 ml of culture are required).   Harvest cultures in 50 ml Falcon tubes by centrifugation at 1,000 x g for 5 min.     Treatment of cells   Wash cell pellets twice with 25 ml of sterile water, centrifuge and discard supernatants. Resuspend cell pellets gently in 1 ml of 100 mM LiAc.    Combine all cell suspensions from one strain in two 50 ml tubes.     After centrifugation at 1,000 x g for 30 sec, add the following sterile solution for each 50 ml of cells grown in step 1 in the order they are listed: 1,920 µl 50 % PEG-3350 400 µl ssDNA (10 mg/ml; heat-denatured) 288 µl of 1 M LiAc   Gently resuspend cells by aspirating with a pipette.     Heat-shock  96-well scale   Prior to preparing competent cells, place 50 µl of transformation DNA constructs at the bottom of wells of a deep well plate.    Add 326 µl of cell suspension to each well and mix gently by aspiration with a multi-channel or single-channel pipette. Seal the plate using a breathable adhesive foil.    Incubate plates for 30 min at 30 °C in an incubator without shaking.    Add 45 µl of DMSO and mix immediately by aspirating with a pipette.    Incubate plates at 42 °C in an incubator without shaking for exactly 15 min.    Centrifuge plates at 1,000 x g for 5 min and remove supernatants.    Add 950 µl of YPD media and gently resuspend fungal cells by aspirating with a pipette.    Single-well scale   Add 326 µl of the cell suspension to a 1.",
+    "5 ml tube containing 50 µl transformation DNA constructs and gently mix by aspirating.    Incubate tubes at 30 °C for 30 min. Add 45 µl of DMSO and mix immediately.    Incubate tubes at 42 °C for exactly 15 min without agitation.    Sediment cells by centrifugation at 1,000 x g for 5 min and remove supernatants by aspiration.    Add 950 µl of YPD medium and gently resuspend cells.     Regeneration of cells   Incubate microtiter plates or tubes at 30 °C for 1 to 4 h at 30 °C without shaking.    Afterwards, centrifuge tubes or plates at 1,000 x g for 5 min.    Discard supernatants and resuspend cell pellets in 100 µl of sterile water.    Plate cell suspensions on selective medium and incubate the plates at 30 °C for a few days until colonies become visible."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

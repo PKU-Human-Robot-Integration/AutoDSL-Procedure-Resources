@@ -1,0 +1,18 @@
+{
+  "id": 1486,
+  "origin_website": "Nature",
+  "title": "<p>Generation of human knock-in organoids by CRISPR-HOT</p>",
+  "procedures": [
+    "<p><strong><em>Designing of sgRNA to target endogenous loci</em></strong></p><p>1) Identify the gene to target and design sgRNAs preferably (but not restricted to) in the last exon as close as possible but preceding the stop codon. A few sgRNAs should be tested to obtain optimal result.</p><p>2) Clone the sgRNA into the empty pSPgRNA (#47108) with the reagents and protocol described in (Ran et al., Nature Protocol 2013).</p><p>3) Determine which frame selector to use according to where the sgRNA cuts in the genome (PAM -3nt). For example, if the sgRNA cut leaves a +1 overhang in the ORF, use the frame selector+2, according to (Schmid-Burgk et al. Nature Communications 2016).</p><p><br></p><p><strong><em>Preparation of DNA for transfection</em></strong></p><p>1) Mix together 5 ug of sgRNA plasmid targeting the locus of interest, 5 ug of the appropriate frame selector plasmid (0, 1, or 2), and 5 ug of the universal NHEJ targeting vector of interest.</p><p><br></p><p><strong><em>Transfection of organoids</em></strong></p><p>1) Determine optimal organoid transfection protocol according to the organ. For example, for small intestinal organoids use the protocol as described in (Fujii et al. Nature Protocols 2015). For human liver ductal organoids use the protocol as described in (Artegiani et al. Cell Stem Cell 2019). For human hepatocyte organoids, use the protocol as described in Fujii et al. Nature Protocols 2015, with the following Electroporator adjustments: Poring Pulse (Voltage=175 V, Pulse Length=7.5 msec, Pulse Interval=50 msec, Number of Pulse=2), Transfer Pulse (Voltage=20 V, Pulse Length=50 msec, Pulse Interval=50 msec, Number of Pulse=5).</p><p><br></p><p><strong><em>Selection of knocked-in organoids</em></strong></p><p>1) When tagging with a fluorescent tag, signal can be readily seen within 3-4 days in the case of endogenously expressed genes. Organoids/cell clumps containing positive cells are picked with a P200 pipette under a fluorescent microscope.</p><p>2) Make the single picked organoids into single cells and grow/expand them until a line is generated.",
+    "</p><p>3) Genotype by sanger sequencing of PCR fragments to confirm correct integration.</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

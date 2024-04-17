@@ -1,0 +1,18 @@
+{
+  "id": 1220,
+  "origin_website": "Nature",
+  "title": "<p>A protocol to generate SPH-OminiCMV-Ents mESCs</p>",
+  "procedures": [
+    "<p><strong>Generate SPH-OminiCMV cell line</strong></p><p><strong>Day 1</strong></p><p>Seed mESCs on 6-well plate, using LIF-supplemented medium.</p><p><strong>Day 2</strong></p><p>Co-transfect 1 μg SPH (resistant to puromycin), 1 μg OminiCMV-mCherry and 0.6 μg PBase using Lipofectamine 3000.</p><p>Replace with 2 ml LIF-supplemented medium 12 hours after transfection.</p><p><strong>Day 4</strong></p><p>Digest mESCs with 0.05% trypsin for 4 minutes at 37 °C, inactivate trypsin and centrifuge at 1000 rpm for 3 min, then seed mESCs to new 6-well plates and treat with puromycin (InvivoGen, final concentration 1 μg/ml) for 4~5 days.&nbsp;</p><p><strong>Day 8</strong></p><p>Digest mESCs with 0.05% trypsin for 4 minutes at 37 °C, inactivate trypsin and centrifuge at 1000 rpm for 3 min, then seed mESCs to new 6-well plate.</p><p><strong>Day 10</strong></p><p>Digest mESCs with 0.05% trypsin and prepare for FACS into 96-well plates.</p><p><strong>Day 14~15</strong></p><p>Remove single colonies from 96-well plates to 24-well plates. Confirm SPH-OminiCMV positive colonies by transient transfection of sgRNAs and PCR analysis (SPH Primers: forward (5′-GCTTCCCTGAATCCGGGCTG -3′) and reverse (5′- TGGCTCTGGCCCCTAGCTC-3′); OminCMV primers: forward (5′- GGAGGCCTATATAAGCAGAGC -3′) and reverse (5′-ACAAAGGCATTAAAGCAGCGTA-3′).&nbsp;</p><p><br></p><p><strong>Generate sgRNA precursor cell line</strong></p><p><strong>Day 1</strong></p><p>Seed SPH-OminiCMV mESCs on 12-well plates, using LIF-supplemented medium.</p><p><strong>Day 2</strong></p><p>Co-transfect 0.5 μg SaKKHCas9-GFP-sgRNA and 1 μg&nbsp;SpCas9&nbsp;sgRNA precursor using Lipofectamine 3000 (Life Technologies).</p><p>As previously described, Homology-Mediated End Joining (HMEJ) or homology recombination (HR) strategy (800 bp homology arm) was used to insert the sgRNA precursor, as previously described<sup>8</sup>.</p><p>Replace with 1 ml LIF-supplemented medium 12 hours after transfection.</p><p><strong>Day 4</strong></p><p>Digest mESCs with 0.05% trypsin and prepare for FACS, and sort positive cells, then seed GFP positive cells into 12-well plates.</p><p><strong>Day 8</strong></p><p>Digest mESCs with 0.05% trypsin, then seed mESCs to new 12-well plates.</p><p><strong>Day 18</strong></p><p>Sort single cells into 96-well plates by FACS, successful insertion of the sgRNA precursor is determined by PCR.&nbsp;</p><p><strong>Day 22</strong></p><p>Remove single colonies from 96-well plates to 24-well plates. Confirm sgRNA precursor positive colonies by PCR analysis.",
+    "</p><p><strong>Day 27</strong></p><p>Measure the fluorescent intensity of SPH-OminiCMV-Ents colonies by FACS, and take the fluorescence images under a confocal microscope (Olympus FV3000).</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

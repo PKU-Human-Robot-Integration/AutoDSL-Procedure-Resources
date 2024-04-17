@@ -1,0 +1,20 @@
+{
+  "id": 4093,
+  "origin_website": "Cell",
+  "title": "Protocol for cell preparation and gene delivery in HEK293T and C2C12 cells",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nPlasmid transfection in HEK293T cells\nTiming: 2–4 days (contingent on time necessary for some of the steps)\nThe following steps describe the detailed procedures about using Lipofectamine™ 3000 Reagent to transfect HEK293T cells with Myc-MG53 plasmid DNA.\nPlasmid transfection\nSeed 4.5 × 105 - 6.0 × 105 cells per 3.5 cm dish (or one well of a 6-well plate) in 2 mL of complete growth medium. Incubate cells overnight at 37°C in 5% CO2 incubator (Figure 1[href=https://www.wicell.org#fig1]A).\nimgsrc:https://prod-shared-star-protocols.s3.amazonaws.com/protocols/830-Fig1.jpg\nFigure 1. Images of cells in culture\nHEK293 cells at 80%–90% confluency (A). C2C12 myoblasts at 70%–80% confluency (B) and differentiated into myotubes after maintained in differentiation medium for 5 days (C). Scale bar, 100 μM\nThe next day, transfect cells with plasmids using Lipofectamine™ 3000 Reagent following manufacturer’s instructions[href=https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2Flipofectamine3000_protocol.pdf&title=TGlwb2ZlY3RhbWluZSAzMDAwIFJlYWdlbnQgUHJvdG9jb2wgKEVuZ2xpc2gp]. Specifically for HEK293 cells, transfect cells with 1 μg Myc-MG53 plasmid using 2 μL P3000™ Reagent and 3 μL Lipofectamine™ 3000 Reagent per 3.5 cm dish according to manufacturer’s instructions. After transfection for 6 h, switch to fresh culture medium. It is not necessary to change medium after transfection unless the culture medium turns yellow. The amount of reagents/plasmid DNA used should be tested to achieve the best transfection efficiency.\nHarvest cells 24–36 h after transfection. The cells can be lysed in lysis buffer for further experimentation such as co-immunoprecipitation. Western blotting can be performed to determine the amount of target protein overexpressed.\nAdenoviral infection in C2C12 myoblasts\nTiming: 1 week\n[Include a brief description about what this major step accomplishes. This will help other researchers repeat and troubleshoot the protocol.]\nThe following steps describe the detailed procedures for infection of differentiated C2C12 myoblast with adenovirus.\nAdenoviral infection\nSeed myoblasts in dishes to reach 70%–80% confluence (Figure 1[href=https://www.wicell.org#fig1]B).",
+    "Replace complete growth medium with differentiation medium (DMEM with 2% donor equine serum). Add adenovirus into the medium and swirl briefly to allow the adenovirus to uniformly distribute in the dish. For C2C12 myotubes, adenovirus is usually used at 15 M.O.I. (multiplicity of infection, referring to the number of infected viral particles per cell) M.O.I. used for each experiment should be determined with a titration as shown in Figure 2[href=https://www.wicell.org#fig2]B. While there is a dose-dependency in the amount of virus used and the amount of target protein overexpressed, the M.O.I. of adenovirus applied should also be determined empirically based on biological effects of the target protein.\nimgsrc:https://prod-shared-star-protocols.s3.amazonaws.com/protocols/830-Fig2.jpg\nFigure 2. Representative western blots showing overexpression of MG53\nOverexpression of MG53 in HEK293 cells (A) and C2C12 myotubes (B) after gene delivery. ∗∗∗, p<0.005 as compared with cells infected with adenovirus expressing β-gal.\nChange medium (fresh differentiation medium) 24 h after infection.\nMyoblast differentiation\nAfter infection, myoblast cells are cultured in differentiation medium for at least 4 days to induce their differentiation into myotubes (Figure 1[href=https://www.wicell.org#fig1]C).\nChange medium every 2 days.\nHarvest cells after differentiation for at least 4 days."
+  ],
+  "subjectAreas": [
+    "Cell Culture",
+    "Cell Biology",
+    "Cell-Based Assays",
+    "Molecular Biology",
+    "Gene Expression"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 219,
+  "origin_website": "Nature",
+  "title": "Stereotactic Orthotopic Xenograft Injections into the Mouse Brain",
+  "procedures": [
+    "The procedure described below details how to perform intracranial tumor cell injection in mice. This is a major surgery and all procedures must be approved by IACUC or other animal use committee.\nPrepare cells for injection:\nIn the tissue culture room, typsinize cultured cells. \nWash cells with sterile PBS, and then resuspend in sterile PBS to an adjusted final volume of at least 100,000 cells per 3ul injection. \nCells should be transported to the injection area on ice. \nSet up:\nAssemble the stereotaxic device according to manufacturer’s instructions. \nLay out the drill and drill bit.  \nTurn on the heating pad and monitor its temperature with a thermometer. \nLoad Hamilton syringe with cells:\nPrepare the Hamilton syringe by rising in 70% Ethanol and then sterile PBS.\nGently resuspend trypsinized cells in PBS.   \nDraw cells to 3uL in the Hamilton syringe, carefully avoiding bubbles.\nPosition the syringe in the stereotactic device, and tighten the screw to lock the syringe in the correct position.\nSurgical procedure:\n-Preoperative preparation:\nAnesthetize mouse by intraperitoneal injection of Ketamine 100 mg/kg. Confirm anesthetic effectiveness by toe pinch. \nWipe the mouse’s head 3 times with sterile cotton swab dipped in betadine, then swab with an alchohol wipe. \nProtect the mouse’s eyes by coating with sterile ocular lubricant.\nMake a 1.5 cm sagittal incision in the mouse's scalp from the front to the back. \n-Stereotactic immobilization:\nPosition the mouse in the stereotactic apparatus: first displace the tongue to the side with the wooden end of a sterile cotton swab, then position the front teeth in the tooth holder, next tighten the nose holder until firm, and finally place both ears in the ear holders. Once the mouse is in the correct position, tighten the ear holders until firm.",
+    "Wipe the skull with a sterile cotton swab to remove the shiny membranes and to aid idenification of the bregma suture. \n-Cell injection:\nDrill a hole 2 mm right and 1 mm anterior to the bregma suture. \nLower the Hamilton syringe needle to the edge of the hole. Lower the needle 3.5 mm, into the brain. Raise the needle 1mm and wait 1 minute. Inject 1 uL of cells, raise the needle 1 more mm, and wait 1 minute.  Inject 1 uL, raise 1 mm, and wait 1 minute.  Then inject the final 1 uL. \nCompletely remove the needle from the mouse’s brain.\nRemove the mouse from the stereotaxic device. \n-Recovery:\nClose the skin incision by holding the edges with forceps and applying one clip. \nPlace the mouse on the heating pad until the effects of anesthetic wear off, at which time the mouse can be returned to its cage.\nFollow up:\nClean the Hamilton syringe with Hamilton cleaning solution, then 70% Ethanol, then sterile water.\nAdminister analgesic twice a day for the first 3 days after surgery. \nRemove sutures after 10 days.\nMonitor mice daily for signs of neurologic compromise."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Cell Biology",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

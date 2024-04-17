@@ -1,0 +1,16 @@
+{
+  "id": 7274,
+  "origin_website": "Bio",
+  "title": "Analysis of Soluble Sugar Content in Minute Quantities of Rice Tissues by GC-MS",
+  "procedures": [
+    "Sample handlingSample fresh rice root tissue from 15-day-old rice seedlings (approximately 15 mg fresh weight per sample) and transfer to a 2-ml tube. Grow the rice seedlings under a 12 h/12 h light/dark cycle with 75% relative humidity, a light intensity of 110 μmol·m-2·s-1, and a temperature of 28°C.Immediately freeze root samples in liquid nitrogen and grind thoroughly using a pestle and mortar.Add 1.5 ml 75% methanol to each tube and vortex briefly.Place the samples in an incubator at 70°C for 15 min and then centrifuge at 10,000 × g for 10 min at room temperature.For each sample, transfer 1.2 ml supernatant to a 1.5-ml tube.Add 100 μl ribitol (50 μg/ml, as an internal standard) to each tube and vortex briefly, then centrifuge at 10,000 × g for 30 s at room temperature.Dry samples in a vacuum freeze drier.Note: Samples need to be thoroughly dried before the following derivatization. Add 50.0 μl methoxyamine hydrochloride to each tube to dissolve the samples, pipette up and down several times, and centrifuge at 10,000 × g for 2 min at room temperature.Transfer the solutions from the tubes to an auto sampler vial with a glass insert.Place the samples in an incubator at 65°C for 2 h.Add 50.0 μl N-methyl-N-(trimethylsilyl) trifluoroacetamide to each auto sampler vial and place in an incubator at 65°C for another 2 h.Note: Perform the derivatization at 65°C (Steps A10 and A11) instead of a lower temperature; this is necessary for quantitating sugar content in minute quantities of rice tissues by GC-MS and significantly increases the sensitivity and accuracy of this method. Analyze the samples by GC-MS.Instrument ParametersSet the GC parameters as follows: Carrier gas, helium (61.3 kPa); gas flow rate, 30 ml/min; GC interface temperature, 230°C.",
+    "GC oven temperature gradient program: Begin at 70°C; hold at 70°C for 2 min; ramp to 200°C at a rate of 5°C/min; hold at 200°C for 3 min; ramp to 300°C at a rate of 10°C/min; hold at 300°C for 3 min. Total run time: 44 min.MS parameters: Source temperature, 250°C; mass-to-charge ratio (m/z) range, 60-600; scanning speed, 0.4 scans/s; ionization energy, 70 eV.Note: The above instrumental parameters are based on the Shimadzu GC-MS QP-2010, which may be different and require modification when using a different GC-MS instrument."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

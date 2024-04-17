@@ -1,0 +1,16 @@
+{
+  "id": 5647,
+  "origin_website": "Bio",
+  "title": "<em>Plasmodium</em> Sporozoite Motility on Flat Substrates",
+  "procedures": [
+    "Note: If using sporozoites from 5 or less well-infected female mosquitoes gliding assays can be performed directly. Accudenz purification of sporozoites (Kennedy et al., 2012) is needed when sporozoites derived from more than 5 salivary glands are used due to impurity with mosquito debris. Accudenz purificationAdjust the volume of the undiluted sporozoite solution to 1 ml with RPMI. Load the sporozoite solution onto a 3 ml Accudenz cushion in a 15 ml conical centrifugation tube.Spin the tube at 2,500 x g without brake for 20 min at room temperature.Collect the interface comprising of purified sporozoites with a glass Pasteur pipette and transfer the solution into a clean 1.5 ml reaction tube (see Figure 1A in Kennedy et al., 2012).Spin for 3 min at 17,000 x g (maximum speed) at room temperature in a table top microcentrifuge.Discard supernatant and resuspend the pelleted sporozoites in 50 µl incomplete RPMI.Count sporozoites as described in Part I steps 8-11.Motility assayPrepare a 6% solution of bovine serum albumin in RPMI (see Note 1).Determine an appropriate volume of the sporozoite solution and transfer it into a clean 1.5 ml reaction tube. A total number of about 2,500 sporozoites per 50 µl using a 96-well and 500 sporozoites in 25 µl in a 384-well plate is convenient for a motility assay. Adjust the volume using incomplete RPMI but consider the volume of the drugs, activators or inhibitors, which are to be tested.If appropriate, add drug, activator, or inhibitor in the concentration to be tested (see Note 2)Activate the sporozoites by adding 50 µl or 25 µl 6% BSA in RPMI, for the 96- or 384-well plate, respectively (final concentration of 3% BSA), into the reaction tube and transfer the solution into a well of the preferred plate.",
+    "Spin the 96- or 384-well plate for 3 min at 200 x g in a centrifuge at room temperature.Transfer the plate to the Axiovert 200M microscope and start recording 1 image every 3 sec for 3 min using the 25x objective for a 96-well plate (Video 1) and a 10x objective for a 384-well plate. Record at least 3 movies each from 3 independent experiments to get an appropriate number of sporozoites to analyse. Be aware that it is absolutely necessary to keep the same settings between different experiments as otherwise results cannot be compared.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Representative video of gliding sporozoites on glass recorded with a frame rate of 1 image every 1.5 sec for a time frame of 90 sec. Scale bar = 10 µm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

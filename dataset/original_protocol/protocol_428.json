@@ -1,0 +1,17 @@
+{
+  "id": 456,
+  "origin_website": "Nature",
+  "title": "From cells to muropeptide structures in 24 h: Peptidoglycan mapping by UPLC-MS",
+  "procedures": [
+    "The presented step-to-step protocols are applicable to Gram-positives as well as to Gram-negatives. All solutions and buffers are given in \"Tab. 3\":http://www.nature.com/protocolexchange/system/uploads/3375/original/Table_3.pdf?1417694067. For different specifications there are two protocols available. The protocol for midipreparation \\( \"Tab. 4\":http://www.nature.com/protocolexchange/system/uploads/3377/original/Table_4.pdf?1417694125 ) results in sample amounts suitable for several analyses. From 2 ml of culture of OD578 ≈ 10 about 300 µl purified PGN are gained. The minipreparation protocol \\( \"Tab. 5\":http://www.nature.com/protocolexchange/system/uploads/3389/original/Table_5.pdf?1418025483 ) can be performed in a 96 well plate and gives just enough material for one sample for UPLC/MS analysis. For different growth parameters, use a divisible 96 well plate. Use a multichannel pipette for all resuspension steps. \n_UPLC/MS ANALYSIS_\nUPLC \\(Waters)  Acquity H-class coupled to a SynaptG2 mass spectrometer \nSolvent A:   0.1% TFA in 5% methanol \\(for Gram-negatives omit methanol)\nSolvent B:   0.1% TFA in 30% methanol\nColumn:   C18 CSH 130Å, 1.7 µm, 2.1 mm x 100 mm \nGuard column:  C18 CSH 130Å, 1.7 µm, 2.1 mm x 5 mm \nColumn temperature:  52°C\nInjection volume:  10 µl\nLoop:    no loop overfill\nDetection:   210 nm \\(DAD)\nMass spectrometer:  SynaptG2 \nMode:  positive ESI mode with a scan range from 50 – 2,000\nCapillary Voltage:   3 kV\nSampling Cone:   30\nExtraction Cone:   3.0 \nSource Temperature:  120 °C\nDesolvation Temperature:  450 °C\nCone Gas:    10 l/h\nDesolvation Gas:   800 l/h\nMS standard:   L-Enk\nUPLC gradient conditions are given in \"Tab. 6\":http://www.nature.com/protocolexchange/system/uploads/3385/original/Table_6.pdf?1417694618."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

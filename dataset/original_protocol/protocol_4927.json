@@ -1,0 +1,16 @@
+{
+  "id": 5241,
+  "origin_website": "Bio",
+  "title": "Establishment of Patient-Derived Xenografts in Mice",
+  "procedures": [
+    "Collect pieces of primary tumors by surgery or biopsy procedures (F0).Anesthetize the SCID mice using ketamine hydrochloride/xylazine hydrochloride solution.Remove hair from the dorsal region.Cut the tumor (F0) into pieces. Make a shallow incision in the dorsal region of SCID mouse using a scissor and then implant subcutaneously two pieces of primary tumor into the interscapular fat pad of SCID mouse within 3 h after collecting primary tumor tissues from a patient. These mice in the engraftment phase are called F1 mice (SCID mice are used for F1 mice due to higher engraftment rates than those of athymic nude mice).Move the F1 mice to a warm area on heating pad and monitor them during recovery.Return F1 mice to the routine mouse sterile housing.When the tumor grows and reaches around 1.5 cm (4-10 weeks), prepare the additional transplant.Place the F1 mouse in the CO2 chamber for 5 min to euthanize it.Move the euthanized mouse into biological safety cabinet and clean the whole body of mouse using sterile alcohol prep pads.Cut off skin around the tumor area.Resect the tumor and transfer the tumor to a sterile Petri dish containing PBS (Video 1).Cut the tumor into even size piece (i.e., 2 mm3) (Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. The cutting of tumor into small even piece for engraftment imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161109/20161109182643_6830.jpgFigure 1. Establishment of PDX model. A. Photographs of representative small cell lung cancer (SCLC) PDX in mice (F3 mice). B. H&E histology of tumor tissues from SCLC PDX in mice. TKO stands for Dr. Taofeek K. Owonikoko who provided primary lung tumor tissues.Anesthetize the athymic nude mice like described in step 2.Implant a piece of tumor into each experimental athymic nude mouse like described in step 5. Apply tissue adhesive to cut surfaces of the skin. Mice in this expansion phase are called F2 mice.",
+    "After 2-4 weeks, the tumors could be visible as in Figure 1 and Video 2.Move the F2 mice to a warm area and monitor them like described step 5.Return the F2 mice to the routine mouse sterile housing.When the tumor volume reaches 100-150 mm3, mice can be used for downstream application.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. The tumor implantation in mice"
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

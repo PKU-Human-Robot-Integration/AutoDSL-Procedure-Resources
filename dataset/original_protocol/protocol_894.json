@@ -1,0 +1,15 @@
+{
+  "id": 953,
+  "origin_website": "Nature",
+  "title": "Determination of transcription starting site of <em>Mus musculus</em> Melanocortin 3 Receptor gene using \"New 5&#8217;RACE\"",
+  "procedures": [
+    "1|  Check the quality of the RNA and design primers as decribed in \"Protocol step A\":http://www.nature.com/protocolexchange/system/uploads/2436/original/nprot.2010.28_-_protocol_step_A.pdf?1358506599\n2| Perform RNA processing \\(B), Reverse Transcription \\(C) and Outer 5'RLM-RACE PCR \\(D) as described in \"Protocol step B\":http://www.nature.com/protocolexchange/system/uploads/2437/original/nprot.2010.28_-_protocol_step_B.pdf?1358506624, \"step C\":http://www.nature.com/protocolexchange/system/uploads/2438/original/nprot.2010.28_-_protocol_step_C.pdf?1358506643 and \"step D\":http://www.nature.com/protocolexchange/system/uploads/2439/original/nprot.2010.28_-_protocol_step_D.pdf?1358506663.\n3| Perform Nested PCR\\(2+4) as described in \"Protocol step E\":http://www.nature.com/protocolexchange/system/uploads/2440/original/nprot.2010.28_-_protocol_step_E.pdf?1358506687\n4| Perfom TOPO TA Cloning as described in \"Protocol step F\":http://www.nature.com/protocolexchange/system/uploads/2441/original/nprot.2010.28_-_protocol_step_F.pdf?1358506712"
+  ],
+  "subjectAreas": [
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

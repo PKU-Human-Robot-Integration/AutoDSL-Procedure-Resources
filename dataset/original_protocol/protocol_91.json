@@ -1,0 +1,16 @@
+{
+  "id": 94,
+  "origin_website": "Nature",
+  "title": "RNAi in human monocyte-derived dendritic cells using shRNA vectors",
+  "procedures": [
+    "Research involving human blood is subject to specific regulations. Ensure compliance with regulations at your host institution, including reviewing by your Institutional Review Board.\nResearch involving HIV-derived vectors is also subject to specific regulations. Check with your host institution the level of biosafety required.\n_Timing is based on days of MDDC differentiation_\n**DAY –3**\n1. Plate 293T cells at 0.5x10<sup>6</sup>/well in 6-well plates\n  \n**DAY –2**\n2. Transfection with TransIT-293 following manufacturer's protocol. Per well, use 8 µL TransIT-293 + 3 µg total DNA. DNA is made with Invitrogen HiPure kits. Ratios for transduction are:\n   _Helper particles:_\n  - 0.4 µg pCMV-VSVG\n- 2.6 µg pSIV3+\n _Transduction particles:_\n  - 0.4 µg pCMV-VSVG\n- 1 µg pCMV-∆R8.91\n- 1.6 µg pLKO.1puro shRNA vector or a GFP-encoding lenviviral vector \\(pLKO.1gfp, pTRIP, etc)\n**DAY –1**\n3. Change media \\(3 ml per well of 293T culture media)\n  \n**DAY 0**\n4. Isolate mononuclear cells from adult or cord blood on a FicollPAQUE gradient\n  5. Use Miltenyi human CD14+ beads and procedure to isolate CD14<sup>+</sup> monocytes and check their purity\n  6. Plate 5x10<sup>6</sup> monocytes in 5 ml MDDC culture media in a 10 cm plate with recombinant human GM-CSF at 10 ng/ml and recombinant human IL-4 at 50 ng/ml\n  7. Add 1 µg/ml polybrene\n  8. Filter culture supernatants from transfected 293T cells with 0.45 µM yellow filters \\(Corning)\n  9. Add 2.5 ml of helper particle supernatant and 2.5 ml of shRNA particle supernatant to the monocytes\n  \n**DAY 3**\n10. Add an additional 2.5 ml of fresh MDDC culture media containing GM-CSF and IL-4\n  \n**DAY 5**\n11. Add an additional 2.5 ml of fresh MDDC culture media containing GM-CSF and IL-4\n  \n**DAY 6**\n12. Analyze. Check transduction efficiency by cytometry when a lentiviral vector encoding GFP was used. Check knockdown efficiency by real-time PCR and western blotting."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

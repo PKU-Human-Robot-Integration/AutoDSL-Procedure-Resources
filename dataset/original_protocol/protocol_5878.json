@@ -1,0 +1,17 @@
+{
+  "id": 6227,
+  "origin_website": "Bio",
+  "title": "Investigating Neural Stem Cell and Glioma Stem Cell Self-renewal Potential Using Extreme Limiting Dilution Analysis (ELDA)",
+  "procedures": [
+    "Neurosphere cultureMutant and normal neural stem cells (NSCs) were isolated from a PIK3CA-PTEN mice, as described previously (Daniel et al., 2017 and 2018). This protocol can be used for both wild-type and mutant neurospheres grown in neurosphere culture media.Dissociate NSCs to single cell suspension by incubating with Accutase cell detachment solution for 5 min at 37 °C.Stop the dissociation process by adding 2 ml of PBS.Filter the mixture through a 40 μm cell strainer.Add the neurosphere cell culture media to the filtrate.Centrifuge at 300 x g for 5 min.Resuspend single cell suspension in NSC culture media.Perform a cell count using a hemocytometer.Seed cells into a 24-well ultra-low attachment plate and allow sphere formation.Incubate plate in a 37 °C, 5% CO2 humidified incubator for 7 days.Replenish half the medium, every second day.Extreme limiting dilution assay (ELDA) for neurospheresDissociate neurospheres into a single cell suspension, as described in Procedure A, Steps 1-6.Determine cell number, using a hemocytometer.Seed cells at decreasing densities (at 20, 10, 5, 1 cell/well, into a 96-well ultra-low attachment plate), in neurosphere culture media. Plate 24 replicates per cell density/number.Incubate in a 37 °C, 5% CO2 humidified incubator for 7 days (up to 14 days).From day three onward, monitor each well for signs of spheroid formation, using a phase contrast microscope; photograph, as necessary. Images shown were captured using a DigiRetina16 camera (http://www.tucsen.com[href=http://www.tucsen.com/]).At seven days, score any wells that contain one or more sphere greater than ~20 μm diameter. Sphere size is measured using pre-calibrated scale bar function in the image capture software (TCapture5.1 software is free at http://www.tucsen.com[href=http://www.tucsen.com/]).Input the data into ELDA software at http://bioinf.wehi.edu.au/software/elda/[href=http://bioinf.wehi.edu.au/software/elda/] in the format indicated in Data analysis, Step 3, below.Select “Plot Results” checkbox; default confidence interval is set at 0.95.Click “Run”.",
+    "Results plot can be printed as a PDF and tabulated results can be used to generate a bar graph.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180830/20180830001102_5337.jpgFigure 1. Summary schematic of ELDA setup Neural stem cell differentiationThis protocol is used to culture NSC cells in differentiation media for 7 days, harvest cells, then culture back in neurosphere medium (see Figure 2F).Resuspend NSC single cell suspension in differentiation medium (DMEM-F12, 10% Fetal Calf Serum, penicillin-streptomycin [100 U/ml]).Seed 1 x 105 cells/well onto a 6-well standard adherent cell culture treated plate, pre-coated with laminin.Add 2 ml of differentiated medium to each well.Incubate in a 37 °C, 5% CO2 humidified incubator for 7 days to allow differentiation.Replenish medium every second day.Harvest cells at Day 7 and perform ELDA (Procedure B).Optionally, differentiation of NSCs can be checked in a separate cell preparation using anti-GFAP (glial fibrillary protein) antibody to mark glial cells, and anit-Tuj1 antibody to mark neuronal fated cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

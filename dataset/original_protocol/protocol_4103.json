@@ -1,0 +1,16 @@
+{
+  "id": 4308,
+  "origin_website": "Bio",
+  "title": "Measurement of Haemolysin Activities in <em>Vibrio vulnificus</em>",
+  "procedures": [
+    "Grow 5 ml of bacterial cells at 30 °C shaking incubator, in modified Luria–Bertani (LB) [addition of NaCl to LB at a final concentration of 2.5% (w/v): Vibrio vulnificus is a marine bacterium, so 2.5% NaCl makes cell happy to grow.] medium supplemented with antibiotics (tetracycline 3 mg/ml).Take bacterial samples and measure cell density by spectrophotometry at 600 nm. Collect the supernatants of cultures by centrifugation (14,000 rpm, 5 min, RT) and filtration (use with syringe filter: pore size 0.22 μm).Prepare cell-free supernatants from each culture and serial dilute them with PBS by 1/2, 1/4 and 1/8 (final volume: 1 ml). Incubate 1% RBC solution with the equal volume of the diluted supernatants at 37 °C for 1 h (no agitation).After 1-h incubation, centrifuge of each samples to remove unlysed RBCs (14,000 rpm, 5 min, RT).To make the fully lysis of 1% RBC solution, use equal volume of 0.02% Triton X-100 at 37 °C for 1 h (no agitation).After centrifuge of each sample, take the upper part of samples. Measure the lysed RBCs samples by spectrophotometry at 540 nm, as described by Shinoda et al. (1985) (for the blank at 540 nm, you can use culture broth without bacteria cells). Calculate Haemolytic activity (HU) (HU was expressed as the reciprocal of the dilution factor showing 50% haemolysis) (Shinoda et al., 1985)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

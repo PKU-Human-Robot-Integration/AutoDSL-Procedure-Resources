@@ -1,0 +1,14 @@
+{
+  "id": 658,
+  "origin_website": "Nature",
+  "title": "Rapid and reliable preparation of total cell lysates from fission yeast",
+  "procedures": [
+    "1. Culture _S. pombe_ cells in an appropriate medium.\n  2. Harvest cells in a collection tube.\n  3. Suspend the cells with medium that was used in the culture of the cells \\(do not exceed the half volume of the tube).\n  4. Add an equal amount of 0.7 N NaOH solution and mix well.\n  5. Incubate at room temperature for 3 minutes.\n  6. Centrifuge the tube \\(5,000 rpm, 1 min) and discard the supernatant.\n  7. Add SDS-PAGE sample buffer and mix well.\n  8. Heat at 95-100&#x2DA;C for 5 min.\n  9. Centrifuge at at least 3,500 rpm, and use the supernatant as the total cell lysate."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 521,
+  "origin_website": "Nature",
+  "title": "Immunostaining of spindle checkpoint proteins on _Drosophila_ mitotic chromosomes from larval brains",
+  "procedures": [
+    "1. Dissect Drosophila larval brains in saline \\(0.7% NaCl), \n  2. Treat dissected brains for 10 min with a hypotonic solution of 0.5% sodium citrate.\n  3. Fix for 5 min in a drop of fixing solution \\(1.8% Formaldehyde, 45% acetic acid) on a coverslip.\n  4. Gently lean a clean slide over the coverslip and squash the brain in the same fixing solution\n  5. Freeze the slide in liquid nitrogen\n  6. Remove the coverslip and immerse the slide in cold ethanol \\(-20&#xB0;C) for 10 minutes.\n  7. Wash the slide in PBS-T \\(PBS containing 0.1% TritonX).\n  8. Incubate the slide overnight with appropriate primary antibody in a humid box at 4&#xB0;C\n  9. The next day, wash the slide twice in PBS-T for 10 minutes\n  10. Incubate the slide with the secondary antibody for 2 h at room temperature, in a humid box.\n  11. Wash the slide twice in PBS-T for 10 minutes and let it air dry.\n  12. Mount the slide in Vectashield medium H-1200 with DAPI \\(4,6 diamidino-2-phenylindole; Vector Laboratories, Burlingame, CA) to stain DNA and reduce fluorescence fading.\n  13. Analyze the immunostaining with a epifluorescence microscope"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

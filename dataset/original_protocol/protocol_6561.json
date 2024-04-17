@@ -1,0 +1,15 @@
+{
+  "id": 6920,
+  "origin_website": "Bio",
+  "title": "Measuring Intracellular Vesicle Density and Dispersion  Using Fluorescence Microscopy and ImageJ/FIJI",
+  "procedures": [
+    "Cell labeling: Labeling of lysosomesFor this assay, we start with subconfluent cell monolayers. We use mouse embryonic fibroblasts (MEF) in this assay. To get subconfluent cell monolayers 24 h before the assay, we plate cells on 13 mm round coverslips at a density of 4 x 104 cells/well in 24-well plates. Treat each cell-containing well as follows.Fix with 4% paraformaldehyde for 15 min.Rinse 3 times with 500 µl of PBS.Block and permeabilize cells by incubating them in 500 µl of PBS containing 2% BSA and 0.5% saponin (PBS/BSA/Saponin) for 20 min.Incubate for 45 min with any of the following primary antibodies: rat anti-LAMP1 IgG (1:50, 1D4B); rat anti-LAMP2 IgG (1:50, ABL-93) (obtained from Developmental Studies Hybridoma Bank) or any desired marker.Note: Antibodies must be diluted in PBS/BSA/Saponin solution. Rinse 3 times with 500 µl of PBS/BSA/Saponin to remove wash primary antibody.Incubate for 30 min with Alexa-Fluor-488-conjugated equivalent secondary antibodies (Life Technologies), in a dilution of 1:250 in PBS/BSA/Saponin, or any appropriate labeled secondary antibody.Rinse 3 times with 500 µl of PBS/BSA/Saponin to wash secondary antibody.Stain with DAPI (10 µg/ml) to visualize cell nuclei.Rinse 3 times with 500 µl of PBS.Mount coverslips on microscope slides using anti-fading mounting medium. Let the microscope slides dry overnight.Analyze slides by fluorescence microscopy, acquiring images of representative cells.Note: Use 60x and/or 100x objectives to acquire images of the entire cell. Prefer individual cells, rather than groups of cells (an alternative method for analyzing a group of cells is explained below).Labeling of endocytic vesiclesObtain subconfluent monolayers by plating cells on 13 mm round coverslips at a density of 4 x 104 cells/well in 24-well plates 24 h before assay.At selected time points, incubate cells with Texas Red-Dextran (0.25 mg/ml) (or any other labeled dextran), a membrane impermeable fluorescent dye.",
+    "Note: If you intend to study whether a treatment or another condition can stimulate or compromise endocytosis, perform the stimuli in the presence of Texas Red-Dextran. At the researcher-determined time points of treatment, rinse at least 3 times with 500 µl of PBS to eliminate extracellular Texas-Red Dextran. This is a crucial step to avoid high background staining. Treat each cell-containing well as follows.Fix with 4% paraformaldehyde (500 µl) for 15 min.Rinse 3 times with 500 µl of PBS.Follow Steps A9-A12."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

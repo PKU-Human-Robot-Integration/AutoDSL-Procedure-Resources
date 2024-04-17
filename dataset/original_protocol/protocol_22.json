@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "origin_website": "Nature",
+  "title": "Confocal microscopy",
+  "procedures": [
+    "1)  Grow yeast cells transformed with GFP-fusion on solid media.\n2)  Transfer cells to a microscope slide and cover with a coverslip.\n3)  Acquire Z-sections using a custom-made spinning disk confocal microscope as described above."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 128,
+  "origin_website": "Nature",
+  "title": "Flow chamber adhesion assay for measuring arrest function of chemokines",
+  "procedures": [
+    "1. Grow endothelial cells in 35 mm dishes until confluence. For coating dishes with adhesion molecules \\(if applicable), incubate dishes with PBS plus e.g. VCAM-1.Fc \\(0.5 &#xB5;g/mL) for 4 h at 37 &#xB0;C.\n  2. Incubate cell monolayers with the respective chemokine, e.g. 50 ng/mL MIF for 2 h or add MIF directly to the leukocytes \\(i.e. 2 min pre-incubation) at the beginning of the flow experiment.\n  3. When using monoclonal antibodies \\(mAb) blocking chemokines, incubate endothelial monolayers with mAbs or isotype control 30 min prior to the experiment.\n  4. Incubate leukocytes \\(1&#xD7;10<sup>6</sup>/mL) with calcein-AM \\(1-5 &#xB5;M in assay buffer) for 30 min at 37 &#xB0;C.\n  5. When using mAbs blocking the chemokine receptors, incubate cells with the respective antibody or isotype control in assay buffer for 30 min at 37 &#xB0;C. \n  6. Wash and resuspend cells in assay buffer \\(0.5-1&#xD7;10<sup>6</sup>/mL) and keep at 37&#xB0;C.\n  7. Assess 35 mm dish as lower wall of the flow chamber and mount on a microscope stage essentially as described by Schober et al.<sup>2</sup> and Weber et al.<sup>3</sup>.\n  8. Add one volume of assay buffer containing 2 mM Ca<sup>2+</sup>/Mg<sup>2+</sup> \\(final concentration: 1 mM Ca<sup>2+</sup>/Mg<sup>2+</sup>) to the leukocyte samples and perfuse at 1.5 dyne/cm<sup>2</sup>.\n  9. After 2-5 min, quantify the number of adherent cells in multiple fields \\(0.24 mm<sup>2</sup> each, &gt;10 per treatment) by analysis of images recorded with a long integration 3CCD video camera."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

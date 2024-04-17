@@ -1,0 +1,16 @@
+{
+  "id": 5219,
+  "origin_website": "Bio",
+  "title": "Putrescine Biosynthesis Inhibition in Tomato by DFMA and DFMO Treatment",
+  "procedures": [
+    "Tomato growth conditionsTomato seeds (Solanum lycopersicum Mill. cv. Ailsa Craig) are germinated in pots (50 ml) with 100% vermiculite in a growth room under the following environmental conditions: light/dark cycle of 16/8 h, temperature of 24/18 °C, light intensity of 200 μmol m-2 s-1, and relative humidity of 60%. Seeds are irrigated twice a week with approximately 50 ml/pot of distilled water during 1 week. Seedlings are irrigated twice each week for 3 weeks with approximately 50 ml/pot of nutrient solution. N is supplied in the form of [(NH4)2SO4] 0.33 g/L.The pH of the nutrient solution is adjusted to 6.0 with 1 mM KOH.Application of inhibitor mix to tomato plants20 uniform tomato plants grown as described above are divided into two groups (10 plants are not treated and 10 plants are treated with the inhibitor solution).21-day-old tomato plants are treated with 2 ml of the inhibitor mix by soil drench (final concentration in each pot is DMFA 80 nM and DFMO 200 nM) 23-day-old tomato plants are treated with 4 ml of the inhibitor mix by soil drench (final concentration in each pot is DMFA 160 nM and DFMO 400 nM).25-day-old and 27-day-old tomato plants are treated with 8 ml of the inhibitor mix (final concentration in each pot is DMFA 320 nM and DFMO 800 nM) (Figure 1). Inhibitors mix treatment does not produce changes in tomato growth (Figure 2).24 h after the last treatment, the 3rd and 4th true leaves of treated or not treated tomato plants (Figure 3) are collected and stored at -80 °C.A pool of 10 plants is crushed in liquid N2 in a mortar and 0.2 g is further used for putrescine extraction. Three biological replicated are realized. Putrescine quantificationPutrescine quantification is realized following the protocol of Sanchez-Lopez et al.",
+    "(2009) by ion pair LC coupled with electrospray tandem mass spectrometry.Putrescine content is expressed as the average of three independent experiments (Fernández-Crespo et al., 2015).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030192922_3934.jpgFigure 1. Application of inhibitor mix to tomato plants grown in vermiculiteimgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030192947_6030.jpgFigure 2. Tomato plants treated with inhibitor mix do not display changes in growth. A. Control and treated 21-day-old tomato plants; B. The same plants after one week of inhibitors treatment.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030193235_4437.jpgFigure 3. Tomato plant with five true leaves. The arrows indicate the 3rd and 4th true leaf of tomato plants collected for putrescine quantification."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5043,
+  "origin_website": "Bio",
+  "title": "Nitrite Reduction Assay for Whole <em>Pseudomonas</em> Cells",
+  "procedures": [
+    "Cultures (5 ml) of P. stutzeri RCH2 were grown anaerobically with shaking (250 rpm) at 30 °C in Hungate tubes on M9 salts supplemented with 20 mM fumarate as a carbon source, 20 mM nitrate as an electron acceptor, and 0.5 g/L yeast extract. Cells were harvested during late log phase (OD650 0.7-0.9) by centrifugation at 4 °C (10 min at 5,000 x g) and washed once with pre-chilled (4 °C) 50 mM potassium phosphate buffer (pH 7.0) before being resuspended in the same buffer at approximately 3-7 x 109 cells/ml.    In a culture tube, 500 μl of cell suspension was added to 4.5 ml of assay buffer. The assay was incubated at 30 °C with slow shaking (150 rpm) in an incubator. The volume of cells added can be changed to optimize reaction speed.   Samples (100 μl) were taken every 5 min or longer as needed for 20 min to1 h, and were diluted into 900 μl distilled water. One ml of Griess reagent was added to the samples and they were incubated for 15 min at room temperature.   The visible absorption at 540 nm was measured for each sample, and nitrite concentrations were calculated using a nitrite standard curve made in 50 mM potassium phosphate buffer (pH 7.0) (0-100 μM nitrite) (Figure 1). A unit of nitrite reductase activity catalyzed the reduction of 1 nmol of nitrite/min. A negative control using 50 mM potassium phosphate buffer (pH 7.0) without cells was also performed."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

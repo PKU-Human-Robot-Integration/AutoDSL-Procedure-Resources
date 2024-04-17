@@ -1,0 +1,16 @@
+{
+  "id": 462,
+  "origin_website": "Nature",
+  "title": "Tamoxifen Administration for Lineage Tracing Using CreERT2 mice",
+  "procedures": [
+    "1. Tamoxifen Storage: Make a stock solution of 20mg/ml dissolved into 100% ethanol in a cell culture hood. Make 1ml aliquots and store at -80C.\n  2. Tamoxifen Preparation: Tamoxifen is administered at a standard dose of 0.25mg/g body weight. Weigh mice and aliquot the appropriate volume into 50ul of corn oil. Vortex the corn oil/ethanol mixture and place in vacuum centrifuge for 30 min to evaporate the ethanol\\(1).  Aspirate the tamoxifen into an insulin syringe.\n  3. Tamoxifen Administration: All injections are delivered intraperitoneally.\n  For most transgenic mice, between 3 and 5 doses of tamoxifen are appropriate.  Recombination efficiency should be quantified in a known cell type expressing the gene driving the CreER.   \n4. A chase period of at least 21 days is used to insure the absence of residual tamoxifen before injury\\(2), but this chase period is highly dependent on the gene driving CreER, tamoxifen dose, and injury model.  Ultimately the chase period will have to be determined empirically by end user for their particular experimental design."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

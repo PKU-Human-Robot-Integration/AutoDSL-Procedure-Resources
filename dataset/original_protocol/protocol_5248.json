@@ -1,0 +1,16 @@
+{
+  "id": 5575,
+  "origin_website": "Bio",
+  "title": "Whole Mammary Gland Transplantation in Mice Protocol",
+  "procedures": [
+    "Mammary gland excision (not included in video)Using the same preparation for surgery and steps C1-C2 of the surgery procedure described below, locate the mammary gland to be excised and using curved forceps, make sure the whole gland is exposed and completely separated from the body cavity. Use rat tooth forceps to grasp the gland and using sharp scissors begin cutting the gland away from the skin until the whole gland is free from the skin and in one piece.Immediately transfer the excised gland to the recipient mouse and continue with step C3 of the surgery procedure.Prepare the mice for surgeryWeigh mouse.Using 1 ml TB syringe, administer 40 mg/g body weight of Nembutal intraperitoneally to one side of the abdomen (this will provide 1 h of sedation).Wait until the mouse has fallen asleep; confirm by checking hind limb reflex by pinching foot.Use clippers to shave the abdomen.Using 1 ml TB syringe, administer 5 mg/kg body weight Ketofen® intraperitoneally on the opposing side of ketamine injection site. This is for pain relief.Place the mouse on a surgical board and secure limbs with surgical tape.Sterilize the abdomen with 70% alcohol.SurgeryUsing the ball tip scissors, make an inverted Y incision to expose the abdominal wall and inguinal fat pads. Begin on the midline slightly below inguinal nipple and extended up about 1 inch; extending the other two cuts between the fourth and fifth nipples on either side.Hold the skin with rat tooth forceps and using the curved forceps, separate the skin from the abdominal wall. Secure skin flaps with pins to expose abdominal wall. Place excised gland on the abdominal wall, on either side of the midline. Make sure gland is lying flat against the wall and is not twisted as seen below (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170531/20170531024323_0843.jpgFigure 1.",
+    "Excised gland must lie flat against abdominal wallUsing hemostatic forceps, curved forceps and suture, suture each end of the transplanted gland to abdominal wall as seen below (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170531/20170531024407_9890.jpgFigure 2. One suture in place at both ends of excised glandReposition the skin flaps and close the incision with wound clips.Post-surgeryAllow mouse to recover on heating pad set to lowest setting (~110 F). Allow time for the mouse to regain consciousness before returning to the cage (30 min-1 h).Note: Keep in mind that the sedation lasts 1 h.Administer 5 mg/kg body weight of Ketofen® intraperitoneally on either side of the abdomen 24 h later.Remove wound clips 7-10 days post-surgery.To monitor, palpate weekly for tumor formation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

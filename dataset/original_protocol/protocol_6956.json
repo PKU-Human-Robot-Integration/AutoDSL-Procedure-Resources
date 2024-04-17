@@ -1,0 +1,17 @@
+{
+  "id": 7329,
+  "origin_website": "Bio",
+  "title": "One-step White Blood Cell Extracellular Staining Method for Flow Cytometry",
+  "procedures": [
+    "Prepare the lysis buffer (wear common Personal Protective Equipment).Dilute 1:200 the fixative solution in the lysis solution under chemical hood protection and mix.Perform the lysis–staining step.In a tube containing 500 µl lysis buffer and 10 µl conjugate panel, add 2-50 µl blood sample (venous or capillary), mix, and incubate for 15 min in the dark at RT (18-25°C).Acquire the data on a 3-laser cytometer (then dispose of the waste in containers dedicated to biohazard waste)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

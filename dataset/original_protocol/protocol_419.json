@@ -1,0 +1,15 @@
+{
+  "id": 445,
+  "origin_website": "Nature",
+  "title": "Simultaneous Extraction of DNA and RNA from Animal Cells by a Modified Laemmli Buffer",
+  "procedures": [
+    "For mammalian cells grown in monolayer:\n\\(i) Perform general cell culture procedures in 15×10 mm Petri dishes \\(Nunc™ Dishes).\n\\(ii) Remove the medium and wash the cells with 1-2 ml of sterile ice-cold PBS.\n\\(iii) Discard PBS and cell lysis perfectly done by adding 100μl extraction buffer to the Petri dish. Collect cell lysis with scraper and transfer it into a 1.5 ml microtube.\n\\(iv) Add 1 ml isopropanol to the lysate, mix and leave it for 5 min. In this level, we can observe either a two-phase mixture or a white coil DNA both with precipitation.\n\\(v) Using a spatula transfer coil DNA to a 1.5 ml microtube. This is as the extracted DNA sample. Otherwise, centrifuge the two-phase mixture at 4 °C for 5 min at 10,000g, then transfer the organic phase to a 1.5 ml microtube as the extracted DNA, and keep the aqueous phase with the precipitant as the extracted RNA sample.\n\\(vi) Add 1 ml of absolute ethanol to the both DNA and RNA extracts for final purification and complete the procedure by washing the pellet twice with ethanol and centrifuging at 4 °C for 5 min at 10,000g.\n\\(vii) Eliminate the ethanol perfectly by heating at 65ºC for 1 hr \\(critical step).\n\\(viii) Dissolve DNA in 70 μl TE buffer and RNA in autoclaved ddH2O diethyl pyrocarbonate \\(DEPC) free and leave them for 1 hr at 65ºC or 24 hrs at 37 ºC.\n\\(ix) Evaluate quality of the extracted DNA and RNA by NanoDrop spectrophotometer. Keep the rest of the RNA and DNA at -80°C for long period."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6563,
+  "origin_website": "Bio",
+  "title": "Construction of Chromosomal In-Frame Deletion Mutants in <em>Rhodobacter capsulatus</em>",
+  "procedures": [
+    "Subclone ~1 kb of upstream sequences plus the first several codons of the gene to be deleted into pUC19 or similar vector. In the resulting plasmid, clone the last several codons of the gene to be deleted plus ~1 kb of downstream sequences. Amplify this whole segment by PCR and clone into a suicide plasmid (such as pZJD29A), which contains sacB and an antibiotic resistance gene. Be sure to design your construct so that the first and last several codons of the gene to be deleted are in-frame. This cloning is done in E. coli.   Conjugate the deletion construct into R. capsulatus (refer to “Bacterial Conjugation of Rhodobacter capsulatus[href=http://www.bio-protocol.org/wenzhang.aspx?id=804]” protocol) (Leung and Beatty, 2013).   Streak the conjugated R. capsulatus on RCV agar plate supplemented with the appropriate antibiotic (i.e. the antibiotic resistance on the suicide plasmid). Colonies that grow represent single cross-over events.   Confirm single cross-over event by PCR, or streaking colonies on RCV, RCV + antibiotic, and RCV + 10% sucrose. They should grow on RCV and RCV + antibiotic, but not RCV + 10% sucrose because the sacB gene results in toxicity in the presence of sucrose and only single crossover events will maintain the sacB gene.   Inoculate 10 ml of RCV (NO antibiotic) with a colony that is confirmed to have a single cross-over and incubate at 30 °C, shaking at 250 rpm for 3-5 days.    Spin down 1 ml of this culture in a microcentrifuge tube, decant supernatant and resuspend cell pellet in 100 μl RCV broth.   Spread cell suspension on a RCV + 10% sucrose agar plate, incubate at 30 °C for 4-7 days.   Colonies that grow should be restreaked on RCV, RCV + antibiotic, and RCV + 10% sucrose. The double cross-over (i.e.",
+    "chromosomal in-frame deletion mutant) should grow on RCV and RCV + 10% sucrose but not on RCV + antibiotic because the second crossover event results in the loss of the sacB gene and the antibiotic resistance gene.   Confirm chromosomal in-frame deletion mutant by PCR because the second cross over can either result in WT or the KO, which will both grow on RCV and RCV + 10% sucrose but not on RCV + antibiotics."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

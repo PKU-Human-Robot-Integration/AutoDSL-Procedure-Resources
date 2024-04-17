@@ -1,0 +1,17 @@
+{
+  "id": 5175,
+  "origin_website": "Bio",
+  "title": "ASC-particle-induced Peritonitis",
+  "procedures": [
+    "Isolate pASC-GFP particles from 107 HEK293 cells stably or transiently transfected with ASC-GFP as described previously (Fernandes-Alnemri et al., 2007; Fernandes-Alnemri and Alnemri, 2008; Martín-Sánchez et al., 2015) or by flow cytometry.Remove media from cells, add DPBS and gently scrape cells. Spin down cells at 1,500 x g for 5 min. Discard supernatant.Prepare total cell lysates by hypotonic lysis of cell pellets in 20 mM HEPES-KOH, pH 7.5, 5 mM MgCl2, 0.5 mM EGTA, 0.1% CHAPS, supplemented with protease inhibitors. Use a syringe with 25 G needle to lyse the cells by syringing several times. Centrifuge cell lysates full speed to obtain cell lysates supernatant.Induce aggregation of ASC-GFP by incubation of cell lysates supernatant at 37 °C for 30 min as previously described (Fernandes-Alnemri et al., 2007; Fernandes-Alnemri and Alnemri, 2008). The typical number of ASC-GFP particles recovered is between 2 x 105 and 4 x 105 per million cells.Add a small amount of supernatant to a microscope slide to confirm ASC polymerization into 1-3 μm aggregates by fluorescence microscopy using a standard GFP excitation/emission filter set (excitation: 484 nm; emission: 507 nm) (Figure 1).Sort ASC-GFP particles (1-2 μm) by flow cytometry by gating for small particles based on forward scatter versus side scatter. Next start by gating for FITC positive particles. Later confirm ASC-GFP particles by fluorescent microscopy (Figure 1). Particles can be stored at 4 °C for one year.Intraperitoneally inject mice with 1 x 105 pASC-GFP particles or the same volume DPBS for control mice (injection volume approximately 200 μl).4 h later sacrifice mice, cut the skin and expose the peritoneal wall (Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Peritoneal lavage. The video shows how to wash peritoneal cavity after injection of pASC-GFP particles to measure IL-1β by ELISA.Inject 4 ml of DPBS into the peritoneal cavity.",
+    "Shake the mouse to wash the peritoneal cavity.Use the syringe to recover DPBS injected by gradually pulling out the plunge.Remove the needle and add content to a conical tube.Spin down the cells at 1,200 x g for 5 min.Transfer supernatant to fresh conical tubes and measure IL-1β by ELISA. Typical IL-1β concentrations are up to 2 ng/ml and a representative result is shown in our previous publication (de Almeida et al., 2015)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1555,
+  "origin_website": "Nature",
+  "title": "<p>Protocol for CardioCluster Creation</p>",
+  "procedures": [
+    "<b>CardioCluster Formation</b>\n1. Dissociate cCICs and MSCs from TC culture dishes using a 1:1 mixture of Cellstripper and TrypLE Express (1X). Centrifuge resulting suspensions at 350 <em>g</em> and resuspend in CardioCluster Media.\n2. cCICs and MSCs compose the inner core of the CardioCluster in a 1:2 ratio (approximately 100 MSCs and 150 cCICs - per 500 cell CardioCluster). Count each cell population and dilute to the appropriate concentration.\n3. Seed the cCICs and MSCs into 96 well, ultra-low attachment multiwell round-bottom plates in 100 µL/well CardioCluster media. Store plates for 24 hours at 37°C in a 5% CO<sub>2</sub> incubator.\n4. The following day, dissociate EPCs from TC culture dishes using a 1:1 mixture of Cellstripper and TrypLE Express (1X). Centrifuge resulting suspensions at 350 <em>g</em> and resuspend in CardioCluster Media.\n5. The outer EPC layer is created using a cell number equal to the number of cells used to create the central core (approximately 250 EPCs - per 500 cell CardioCluster). Count the EPC population and dilute to the appropriate concentration.\n6. Add EPCs to the 96 well plates that contain cCIC/MSC central cores using an additional 50 µL/well CardioCluster media. Incubate the 96 well plates at 37°C in 5% CO<sub>2</sub> for 24 hours until CardioCluster 3D structure forms."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

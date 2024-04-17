@@ -1,0 +1,17 @@
+{
+  "id": 6218,
+  "origin_website": "Bio",
+  "title": "Identification and Quantitation of Leukocyte Populations in Human Kidney Tissue by Multi-parameter Flow Cytometry",
+  "procedures": [
+    "Biopsy preparationObtain 16-gauge human kidney biopsy core with informed donor consent (see Note 1). Measure the length of the kidney biopsy core prior to processing. Note the measurement; it is used to determine absolute numbers of immune cell populations (as outlined in the Notes section).Place the portion of the kidney biopsy core (approx. 1-5 mm) in 0.25 ml Digestion Solution I (see Recipes) in a 1.5 ml microfuge tube.Incubate at 37 °C for a total of 15 min. At 7 min, and at the end of the 15 min, gently pipette up and down several times with a Samco pipette to mechanically dissociate the cells. The diameter of the Samco pipettes listed above facilitates this dissociation.Centrifuge at low speed (600 x g) for 5 min at 4 °C to pellet cells.Harvest supernatant for analysis of soluble products from the biopsy. Immediately aliquot and store at -80 °C until required (see Note 2).Add 0.5 ml Digestion Solution II (see Recipes) and incubate at 37 °C for 10 min. At the beginning and end of this period, gently pipette up and down several times with a Samco pipette to mechanically dissociate the cells.Add 0.5 ml cell culture media containing calcium (e.g., RPMI 1640 medium) to neutralize the trypsin (see Note 3). At this point, the biopsy should be completely digested with minimal cell clumps present. However, if sufficient tissue is used, a white fibrous cord may remain which does not contain cells. This adheres to the Samco pipette tip and is easily removed.Centrifuge the resulting cells at 600 x g for 5 min at 4 °C. Remove supernatant.Antibody labeling of cellsDilute LIVE/DEADTM Fixable Near-IR Dead Cell Stain 1:4 in PBS.Resuspend cells in 0.5 ml PBS and add 0.5 μl diluted LIVE/DEADTM Fixable Near-IR Dead Cell Stain (final conc. 1:4,000; see Note 4).",
+    "Stain 15 min on ice.Wash cells by adding 0.5 ml FACS buffer (see Recipes), centrifuge at 600 x g for 5 min at 4 °C and remove supernatant.Resuspend cell pellet in 100 μl FACS buffer.Add 5 μl of Human TruStain FcXTM (see Note 5) to 100 μl cells in FACS buffer (5 min at RT) prior to adding antibodies of interest. Prepare antibody master mix for surface staining (see panel below; Notes 6-8).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180813/20180813234645_9659.jpgAdd antibody master mix to cells, vortex for 5 sec and incubate for 30 min on ice. Note: This panel can be modified depending upon cells of interest and can also include activation markers, chemokine receptors or other molecules of interest. Wash cells by adding 0.5 ml FACS buffer, centrifuge at 600 x g for 5 min at 4 °C and remove supernatant.Fix cells in 1% PFA to a final volume of 270 μl and transfer into polystyrene FACS tube (see Note 11). Cover with aluminum foil and keep on ice/refrigerate until acquisition. Cells should be analyzed on the flow cytometer within four days. It is possible to run cells without fixation if the acquisition is performed within two hours.Immediately prior to analysis, add 30 μl Flow-Count fluorospheres (see Note 12).Analyse by flow cytometry.Flow cytometrySet up compensation on a flow cytometer. Acquire entire sample."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

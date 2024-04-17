@@ -1,0 +1,26 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Time": "time",
+        "String": "string",
+        "Bool": "boolean",
+        "Concentration": "Concentration",
+        "Volume": "Volume",
+        "Temperature": "Temperature",
+        "Length": "Length",
+        "Mass": "Mass"
+    },
+    "example": [
+        "Remove the [MPSC]{REG} from the [splenic vein]{REG} and the [IVC graft]{REG} on the [IHIVC]{REG}",
+        "Transfer the [solution]{REG} with {pasteur pipette}[Device] into the [vials]{Container}",
+        "Centrifuge for [70 min]{Time}",
+        "See PDF file [\"Explant Protocol Procedure\"]{String}",
+        "The opposite is [true]{Bool}",
+        "Measure out [100 ml]{Volume} of [10 mM HCl solution]{Concentration} using a [250 ml beaker]{Volume}.",
+        "Incubate the solution at [37\u00b0C]{Temperature} for [1 hour]{Time}.",
+        "Cut a [10 cm]{Length} piece of [filter paper]{Length} and weigh it on a [digital scale]{Mass}.",
+        "Fill a [50 ml]{Volume} [graduated cylinder]{Volume} with [distilled water]{Concentration} up to the [25 ml]{Volume} mark."
+    ]
+}

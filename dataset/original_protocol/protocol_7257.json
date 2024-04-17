@@ -1,0 +1,16 @@
+{
+  "id": 7639,
+  "origin_website": "Bio",
+  "title": "Fusarium Virulence Assay on Wheat and Barley Seedlings",
+  "procedures": [
+    "Day 1Grow fungal colonies on V8 agar plates for 7 days at 20-22 °C under white and black fluorescent light on a 12/12 h day/night cycle, starting from stored fungal cultures or colonies from plates.Day 3 (wheat) or 4 (barley)For each fungal isolate or plant genotype 16 germinated seeds are required. If testing fungal isolate virulence, a mock treatment is also required. Barley is more vigorous in the early stages of growth and seeds are allowed to germinate for 2 days whereas wheat is allowed to germinate for 3 days prior to inoculation.Disinfect wheat or barley seeds in sterilizing solution for 5 min and wash 3 times with sterile deionized water.Imbibe disinfected seeds in 9 cm Petri dishes containing one 8 cm filter paper soaked with sterile deionized water at 4 °C for 1 day. Keep in dark by wrapping plates in aluminium foil.Day 4 (wheat) or 5 (barley)Transfer plates to plant growth chamber but maintain in darkness (wrapped in foil).Day 6Place three 12.5 cm diameter filter paper layers into 14 cm Petri dishes.Add sterile deionized water to filter paper until completely soaked.Remove excess water from plates.Place 16 pre-germinated wheat or barley seeds on filter paper in rows of 3-5-5-3 seeds.Seal plates with film and place plates to plant growth chamber in dark overnight.Day 7Make mycelial plugs of approximately 5-6 mm diameter by using the reverse of a pipette tip or a cork borer from the edge of the growing colony (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130404/20130404181246_6351.jpgFigure 1. Mycelial plugs obtained from the edge of a growing Fusarium colony.  Place mycelial plugs upside down on the main root of each germinated seed when about 3 cm long, at approximately 1 cm from the seed, with the mycelium in direct contact with the root (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130404/20130404181439_2325.jpgFigure 2. Mycelial plugs on a wheat rootle.",
+    "Seal plates with sealing film or Parafilm.Put plates in incubator at 21 ± 1 °C for 4 to 6 days with 12 h of light.Day 11-13 as requiredDetermination of root-rot: observation of root necrosis at 4 days post-inoculation by measuring symptom extension (SE) (cm) and visually observing the browning index (BI, 0 = symptomless; 1 = slightly necrotic; 2 moderately necrotic; 3 = severely necrotic; 4 = completely necrotic). Determination of crown-rot: Visual observation of crown necrosis at 6 days post-inoculation by a 0-4 scale (0 = symptomless; 1 = slightly necrotic; 2 moderately necrotic; 3 = severely necrotic; 4 = completely necrotic), measuring of shoot length with a ruler (cm) and weighing the shoots after their dissection with a razor blade.Please see Figure 1 of Beccari et al. (2011) and Figures 6 and 8 of Gardiner et al. (2012)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

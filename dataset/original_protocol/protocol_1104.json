@@ -1,0 +1,15 @@
+{
+  "id": 1178,
+  "origin_website": "Nature",
+  "title": "<p>Protocol for optical percutaneous needle biopsy of the liver</p>",
+  "procedures": [
+    "<p><strong>Prior to biopsy:</strong></p><p>1. Disinfect biopsy needles and the optical probe with Teﬂex 8% for 30 min and Multidez 3% for 30 min and carefully rinse with water.</p><p>2. Calibrate the experimental setup by acquiring a calibration spectrum of Spectralon, recording a dark signal and controlling the output power of the radiation sources.</p><p><strong>During the biopsy:</strong></p><p>1. Lay a patient in the supine position.</p><p>2. Disinfect the skin with 70% ethanol solution.</p><p>3. Detect a tumor using ultrasound guidance and determine the needle path by the shortest safe distance from the skin to the lesion.</p><p>4. Mark the puncture site on the skin.</p><p>5. Inject a local anesthetic (2% lidocaine hydrochloride solution) at the marked site under ultrasound guidance.</p><p>6. Insert a 17.5G Chiba-type needle to the border of the target area of liver tissue under ultrasound guidance.</p><p>7. Remove the stylet from the needle.</p><p>8. Insert the optical probe in the biopsy needle and then into the liver tissue under ultrasound guidance. The probe should be held still during the measurements described in steps 9-20.</p><p>9. Insert FGL400 filter into the filter holder.</p><p>10. Turn on 365 nm LED.</p><p>11. Perform the measurements of 20 fluorescence spectra.</p><p>12. Turn off 365 nm LED.</p><p>13. Insert FGL495 filter into the filter holder instead of FGL400.</p><p>14. Turn on 450 nm laser diode.</p><p>15. Perform the measurements of 20 fluorescence spectra.</p><p>16. Turn off 450 nm laser diode.</p><p>17. Remove the filter from the filter holder.</p><p>18. Turn on the halogen source.</p><p>19. Perform the measurements of 100 diffuse reflectance spectra.</p><p>20. Turn off the halogen source.</p><p>21. Remove the optical probe from the tissue and biopsy needle.</p><p>22. Insert the biopsy needle into the tumor under ultrasound guidance.</p><p>23. Obtain several samples of tumor tissue from different directions by proper rotatory technique<sup>11</sup>.</p><p>24. Remove the biopsy needle containing the biological material.</p><p>25. Place the sterile aseptic dressing on the puncture site.</p><p><strong>After the biopsy:</strong></p><p>1.",
+    "Fixate the samples with 10% neutral-buffered formalin.</p><p>2. Dehydrated the samples.</p><p>3. Embed the samples in parafﬁn.</p><p>4. Stain approx. 5-µm-thick sections with haematoxylin and eosin according to standard procedures.</p><p>5. Perform standard histological examination by light microscopy.</p><p>6. Calculate the parameters of obtained fluorescence and diffuse reflectance spectra.</p><p>7. Classify the case of tumor by the characteristics of tumor size, cancer type, tumor origin (primary tumor or metastasis) etc., as well as by the optical measurements results (fluorescence intensity, reflectance coefficient, oxygen saturation, etc.).</p>"
+  ],
+  "subjectAreas": [
+    "Oncology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

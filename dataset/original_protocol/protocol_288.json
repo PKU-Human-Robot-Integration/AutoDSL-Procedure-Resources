@@ -1,0 +1,20 @@
+{
+  "id": 304,
+  "origin_website": "Nature",
+  "title": "_In vitro_ antimicrobial assay using chemically reconstituted system with hemocyanin or hemoglobin",
+  "procedures": [
+    "1.  Prepare the bacterial culture as described in protocol #4, and then adjust the bacterial population to 10<sup>6</sup> - 10<sup>7</sup> cfu/ml. \n  2.  For the end-point measurement of HMC/PPO: \n  \\(a) incubate the bacteria under test at 10<sup>6</sup> cfu/ml with 60 &#x3BC;g purified HMC plus 100 nmol 4-methylcatechol \\(4ME) in 100 &#x3BC;l PBS at 37 &#xB0;C for 1 h. \n\\(b) then enumerate the remnant bacterial population in the reaction mixture by plating 100 &#x3BC;l of serially diluted samples on nutrient agar plates and incubating at 37 &#xB0;C overnight.  Perform the colony count and calculate the bacterial cfu/ml.\n\\(c) add 10 nmol of phenylthiourea \\(PTU) to the reactions in order to  evaluate the impact of PO activity.  \n\\(d) also set up controls by incubating bacteria with HMC/PPO or 4ME or PTU separately, or in combinations.  \n3. For real-time imaging of the bacterial clearance elicited by HMC/PPO: \n  \\(a) mix each bacterial strain at 10<sup>7</sup> cfu/ml with 60 &#x3BC;g HMC/PPO and 100 nmol 4ME in 100 &#x3BC;l PBS.  \n\\(b) apply one &#x3BC;l of the mixture to fluorescence microscopy and examine it at  magnification of 63 x 1.6, with time-elapse method.  \n\\(c)  capture images at intervals of 30 s for 1 h, and make a movie.  \n4.  For the end-point measurement of metHb: \n  \\(a) incubate the bacteria under test at 10<sup>6</sup> cfu/ml with 36 &#x3BC;g metHb and 1.6 &#x3BC;mol H<sub>2</sub>O<sub>2</sub>  in 200 &#x3BC;l PBS at 37 &#xB0;C for 1 h.  \n\\(b) then enumerate the remnant bacterial population in the reaction mixture by plating 100 &#x3BC;l of serially diluted samples on nutrient agar plates and incubating at 37 &#xB0;C overnight.  Perform the colony count and calculate the bacterial cfu/ml.\n\\(c) to further prove that the antibacterial activity was indeed attributable to ROS, apply 2 &#x3BC;mol GSH to the incubation mixture to quench the superoxide ions.",
+    "\\(d) set up controls by incubating bacteria with metHb, H<sub>2</sub>O<sub>2</sub> or GSH separately or in combinations."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology",
+    "Chemical Biology",
+    "Drug Discovery"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 15,
+  "origin_website": "Nature",
+  "title": "Extraction of the SecinH3 from mouse liver",
+  "procedures": [
+    "1. 300 mg mouse liver each weighed into 15 mL centrifugation tubes and taken up in 1 ml PBS, 2 mL chloroform added\n  2. mouse liver homogenized by polytron \n  3. incubated at RT for 30&#x2019; under agitation,\n  4. Centrifuged 5&#x2019; at maximum speed\n  5. Chloroform phase transferred into fresh centrifugation tube\n  6. Water phase extracted second time on shaker with 1.5 mL chloroform, 20&#x2019;\n  7. Centrifuged 5&#x2019; at maximum speed\n  8. Chloroform phases combined and solvent removed on SpeedVac\n  9. Residue dissolved in 100 &#xB5;L/\\(100 mg liver) methanol, centrifuged 5&#x2019; at 14.000 rpm and liquid transferred into HPLC glass vial\n  10. Fractionated via HPLC on Nucleosil RP18 material 5 &#xB5;m \\(10x4.0 mm column); gradient: \n  0-7 min: 70% water, 30% methanol\n7-15 min: 40% water, 60% methanol\n15-20 min: 100% methanol;\nfractions 9-12 min collected\n11. solvent of collected fractions removed by SpeedVac and residue taken up in 50 &#xB5;l methanol\n  12. fractionated by HPLC, column: MultoHigh RP18 5 &#xB5;M \\(125x2.0 mm column); gradient:\n  0 min: 50% water, 50% methanol\n5 min: 50% water, 50% methanol\n25 min: 10% water, 90% methanol\n25.1 min: 100% methanol\n13. SecinH3 elutes at ca. 20 min; analyzed by MS"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

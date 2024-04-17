@@ -1,0 +1,16 @@
+{
+  "id": 1030,
+  "origin_website": "Nature",
+  "title": "Creation of a comprehensive repeat library for a newly sequenced parasitic worm genome",
+  "procedures": [
+    "1. Build a repeat library for the newly sequenced genome using \n  RepeatModeler \\(<a href=\"http://www.repeatmasker.org/RepeatModeler.html\">RepeatModeler</a>). \n2. Build a second repeat library for the newly sequenced genome using TransposonPSI \\(<a href =\"http://transposonpsi.sourceforge.net\">TransposonPSI</a>). TransposonPSI uses PSI-BLAST to search for sequence matches at the DNA or protein level to proteins encoded by transposable elements. Remove sequences of <50 bp from the TransposonPSI repeat library.\n  \n3. Build a third repeat library for the newly sequenced genome, by using LTRharvest \\(Ellinghaus _et al._ 2008) to identify long terminal repeat \\(LTR) retrotransposons. To remove likely false positives, and make a library of full-length \\(or mostly full-length) LTR retrotransposon sequences, run LTRdigest on the LTRharvest results, with protein HMMs from Pfam \\(Finn _et al._ 2016) \\(those Pfam domains listed in tables B1 and B2 of Steinbiss _et al._ 2009) and GyDB \\(Llorens _et al._ 2011). To further remove likely false positives, remove any LTR retrotransposon candidates without domain hits. \n  \n4. For each of the three repeat libraries from \\(1), \\(2), \\(3), classify the repeats using RepeatClassifier \\(part of the RepeatModeler software).\n  \n5. Merge the repeat libraries from RepeatModeler, TransposonPSI and LTRharvest by using USEARCH v7 \\(Edgar 2010) to cluster the candidate sequences with ≥80% identity, and remove all but one sequence for each cluster. The resultant repeat library should be non-redundant. \n  \n6. To try to remove protein-coding genes from non-transposable element genes \\(e.g. collagen repeats), then filter the non-redundant library by removing repeats that were classified as ‘unknown’ \\(by RepeatClassifier) and that have BLASTN \\(Altschul _et al._ 1997) hits of E≤0.001 against known protein-coding genes and ncRNA genes from nematodes and platyhelminths \\(DNA sequences for _C. elegans_ protein-coding and ncRNA transcripts from WormBase WS235 \\(Howe _et al._ 2016), and for _S. mansoni_ and _E. multilocularis_ protein-coding transcripts from GeneDB \\(Logan-Klumpler _et al._ 2012)).",
+    "7. If it is required to repeat-mask the genome of interest, the non-redundant library from \\(6)  above can be used to mask repeats in the genome using RepeatMasker \\(<a href=\"http://www.repeatmasker.org\">www.repeatmasker.org</a>), with the –s \\(sensitive) option. This will mask low complexity DNA and simple repeats as well as transposable elements."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

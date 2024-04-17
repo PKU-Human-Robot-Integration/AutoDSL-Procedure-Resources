@@ -1,0 +1,16 @@
+{
+  "id": 4272,
+  "origin_website": "Bio",
+  "title": "Isolation of the Secretome from <em>Bacillus subtilis</em>",
+  "procedures": [
+    "Inoculate B. subtilis to an OD600 of 0.1 in appropriate medium [e.g. CH, lysogeny broth (LB), Spizizen minimal medium (SMM); here we used 10 ml cultures in CH-medium].   Grow cells to respective OD600 (here we used an OD600 of 4; cells growing at 37 °C; 150 rpm in 50 ml flasks with baffles).   Harvest cells by centrifugation (≥ 2,800 x g; 4 °C; 20 min).  Note: Keep cell pellet as a control for later SDS-PAGE analysis.   Transfer the supernatant into fresh tubes and centrifuge again (2,800 x g; 4 °C; 20 min).   Repeat step 4.   Collect the supernatant and sterile filter it using Acrodisc® syringe filters with a pore size of 0.2 µm.   Add ice cold trichloroacetic acid [90% (w/v) stock] to the solution to a final concentration of 10% (v/v). This will result in precipitation of the proteins in the solution.   Harvest the precipitate by centrifugation (11,000 x g; 4 °C, 5 min). A small white pellet should be visible.    Wash the pellet twice with 2 ml of ice cold acetone (PA grade or higher quality) and centrifugation (11,000 x g; 4 °C, 5 min).   For quantitative analysis dry the pellet for 15 min at 60 °C to remove remaining traces of acetone. Furthermore, the pellet should be resuspended in H2O instead of buffer (step 10).      Resuspend the pellet in resuspension buffer (we used a volume of 50 µl). Note: The volume can be scaled up or down with respect to your amount of cells (secreted proteins).    The amount of secreted proteins can be analyzed by BCA-assay or analyzed by SDS-PAGE.  Note: As a control if the isolation has worked successfully the isolated secreted proteins and the pelleted cells (see step 3) should be resuspended in H2O or buffer (5-10x volume of pelleted cells) and analyzed by SDS-PAGE.",
+    "The band pattern of the isolated proteins and the cells should be different. If the band pattern is similar, your isolated proteins are likely contaminated by cells."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

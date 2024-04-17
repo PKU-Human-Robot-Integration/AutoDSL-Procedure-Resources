@@ -1,0 +1,14 @@
+{
+  "id": 1146,
+  "origin_website": "Nature",
+  "title": "<p>Sensitive and specific immunohistochemistry protocols for detection of SARS-CoV-2 nucleocapsid and spike proteins in formalin-fixed, paraffin-embedded COVID-19 patient tissues</p>",
+  "procedures": [
+    "<p>Autopsy samples of lungs from COVID-19 deceased patients and non-COVID19 deceased patients were collected and made available through the Medical College of Wisconsin Tissue Bank under IRB approved protocol.</p><p><br></p><p>1.&nbsp;&nbsp;&nbsp;Section paraffin-embedded tissue blocks into 4 μm sections. </p><p>2.&nbsp;&nbsp;&nbsp;Mount sections on poly-L-lysine-charged glass slides.</p><p>Note: The following steps are described as performed on the robotic Omnis autostainer with built-in antigen retrieval chamber (Dako/Agilent). Modify as needed for other systems.</p><p>3.&nbsp;&nbsp;&nbsp;Dewax slides with Clearify<sup>TM</sup> clearing agent at 25°C for 10s.</p><p>4.&nbsp;&nbsp;&nbsp;Target retrieval: EnVision<sup>TM</sup> FLEX Target Retrieval Solution, Low pH (6.0), 97°C for 30 min.</p><p>5.&nbsp;&nbsp;&nbsp;Incubate with Protein Block for 30 min at room temperature (RT).</p><p>6.&nbsp;&nbsp;&nbsp;Dilute the primary antibodies with Antibody Diluent, incubate slides for 30 min at RT.</p><p>\ta) Anti-SARS-CoV-2 nucleocapsid protein antibody (affinity-purified rabbit IgG; ProSci; Cat. No. 9099) diluted to a final concentration of 0.02 µg/ml. </p><p>\tb) Anti-SARS-CoV-2 Spike S1 glycoprotein antibody (affinity-purified rabbit IgG (ProSci; Cat. No. 9083) diluted to a final concentration of 1 µg/ml.</p><p>\tc) Rabbit immunoglobulin control (1 µg/ml) (Vector Labs, Burlingame, CA).</p><p>7.&nbsp;&nbsp;&nbsp;Endogenous enzyme block: EnVision<sup>TM</sup> FLEX Peroxidase Blocking Reagent 3 min.</p><p>8.&nbsp;&nbsp;&nbsp;Secondary reagent: EnVision<sup>TM</sup> FLEX/HRP for 30 min.</p><p>9.&nbsp;&nbsp;&nbsp;Substrate chromogen: EnVision<sup>TM</sup> FLEX Substrate Working Solution for 5 min.</p><p><em>Note: Brown coloration of tissues represents positive staining.</em></p><p>10. Counterstain with Hematoxylin for 6 min.</p><p>11. Dehydrate sections through an ethanol series to xylene and coverslip slides.</p><p>12. Capture images of stained slides by Pannoramic 250 Flash II slide scanner or other microscope. </p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Diseases"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

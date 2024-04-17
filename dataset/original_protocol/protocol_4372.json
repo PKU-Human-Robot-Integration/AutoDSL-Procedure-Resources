@@ -1,0 +1,16 @@
+{
+  "id": 4592,
+  "origin_website": "Bio",
+  "title": "Camalexin Quantification in <em>Arabidopsis thaliana</em> Leaves Infected with <em>Botrytis cinerea</em>",
+  "procedures": [
+    "Preparation of plant material Notes:    At least 50-100 mg of 4-week-old Arabidopsis plant leaves are required.    Arabidopsis leaves should be weighed before freezing in liquid nitrogen.    At least 4 biological replicates for each sample should be analyzed.     Prepare and pre-cool the extraction buffer.   Pre-cool centrifuge rotor at 4 °C.   Freeze weighed Arabidopsis leaves in liquid nitrogen.   Grind the leaf tissue into powder by using mortar and pestle.   Transfer each sample into a round bottom screw-capped borosilicate glass tube (Pyrex) by using the spatula.   Keep the sample in ice.      Camalexin extraction   Add extraction buffer in each tube, keeping the ratio 1:10 [tissue (mg): extraction buffer (µl)].    Vortex the samples for 20 sec.   Shake tubes on the rocking shaker (30 min, 100 rpm, 4 °C).   Add DCM in each sample keeping the ratio 1:2 [extraction buffer (µl): DCM (µl)].    Shake tubes on the rocking shaker (30 min, 100 rpm, 4 °C).   Centrifuge (10 min, 5,000 x g, 4 °C).  Note: After centrifugation two phases will form. Camalexin is contained in the lower green phase while the upper phase contains mostly DCM. Plant debris will be present between the two layers.   Collect the lower phase by using a glass Pasteur pipette and transfer it into disposable borosilicate glass culture tubes (Pyrex). Note: Special attention should be paid not to recover any material floating in the interface between the two phases.   Concentrate the collected lower phase under nitrogen gas flow (10 bar) and heating the tubes at 42 °C.   Allow sample to completely dry and then suspend it in methanol with a ratio 1:1 [tissue (mg): methanol (µl)].    Filter samples by using spin-X centrifuge tube (5 min, 10,000 x g, 4 °C).    Transfer the filtered samples into glass-capped vials.",
+    "Camalexin detection and quantification  HPLC coupled to MS   Inject 20 µl per sample in an Ultimate3000 HPLC system equipped with a Acclaim120 C18 Reverse-phase column. The mobile phase consists of water with 0.1% formic acid (LC/MS grade), as solvent A, and methanol with 0.1% formic acid (LC/MS grade), as solvent B. Settings: Flow rate: 0.2 ml/min Column temperature: 35 °C Solvent gradient for chromatographic separation:  In these conditions camalexin will elute with a retention time of 15 min (see Figure 3).   Electrospray the effluent from the HPLC directly into the mass spectrometer (Orbitrap XL Discovery) operating in full-scan MS with resolution R = 30,000. Collect data in centroid mode at mass range of m/z 120-310. Settings:  Ionization mode: positive Ion spray voltage: 4.5 kV Capillary temperature: 250 °C Sheath Gas Flow rate 35 (arbitrary units) Aux Ga flow rate 25 (arbitrary units)   Determine the abundance of camalexin by using the calibration curve method. Use a concentration of camalexin 800-400-200-100-50-25-12.5-6.25-3.12 ng/ml for the preparation of standard curve solutions (see Figure 4)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

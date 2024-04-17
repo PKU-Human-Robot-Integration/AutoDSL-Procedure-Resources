@@ -1,0 +1,21 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "COND": "condition",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Volume": "Volume",
+        "Temperature": "Temperature",
+        "Length": "Length",
+        "Concentration": "Concentration"
+    },
+    "example": [
+        "Remove [the supernatant]{REG}",
+        "Remove [the MPSC]{REG} [from the splenic vein]{COND} and [the IVC graft]{REG} [on the IHIVC]{COND}",
+        "Transfer [the solution]{REG} with {pasteur pipette}[Device] into [the vials]{Container}",
+        "The experiment required measuring the [temperature]{Temperature} of the reaction mixture every 10 minutes.",
+        "Add [10 mL]{Volume} of distilled water to the test tube containing the reagent.",
+        "Cut the sample into [1 cm]{Length} pieces before placing them in the vial for analysis.",
+        "Dilute the solution with [5%]{Concentration} HCl to obtain the desired [1 M]{Concentration} HCl solution."
+    ]
+}

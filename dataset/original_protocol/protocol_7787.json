@@ -1,0 +1,15 @@
+{
+  "id": 8193,
+  "origin_website": "Bio",
+  "title": "Pyruvate:ferredoxin Oxidoreductase (PFR1) Activity Assays Using Methyl Viologen as Artificial Electron Acceptor",
+  "procedures": [
+    "Protein concentration of heterologous expressed and purified PFR1 from 2 L of cell culture is measured at A280nm using NanoDrop. (ref bio-protocol: Heterologous Production and Anaerobic Purification of His- and StrepII-tagged Recombinant Proteins[href=http://www.bio-protocol.org/e881]).   All reduction assays are performed under anaerobic atmosphere (1% H2, 99% N2) at room temperature.   The reaction mixture contains 10 mM sodium pyruvate, 2 mM sodium coenzyme A, 5 mM thiamine pyrophosphate, 10 mM methyl viologen and 16 mM dithioerythritol in 0.1 mM Tris-HCl (pH 8).   To start catalysis a final concentration of 1.4 μM PFR1 is added to the reaction mixture and absorbance (A604, 96 well plate reader) can be monitored time resolved every 30 seconds until saturation is reached.   To determine enzyme activity the molar extinction coefficient ε604 = 13.6 mM-1 cm-1 (Mayhew, 1978) can be used applying Lambert Beer Law (Eq.I). One unit was defined as the conversion of 1 mol of pyruvate or CoA and the reduction of 2 mol of methyl viologen, respectively, per minute.  Eλ = ελ . c . d                 (Eq.I) Eλ: extinction ελ: extinction coefficient c: concentration  d: layer thickness"
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

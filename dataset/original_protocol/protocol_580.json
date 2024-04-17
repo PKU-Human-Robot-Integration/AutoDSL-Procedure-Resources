@@ -1,0 +1,19 @@
+{
+  "id": 616,
+  "origin_website": "Nature",
+  "title": "Fluorescent Nano-switches for diagnostics applications",
+  "procedures": [
+    "Procedure: \n1) Prepare and Synthesis nanoparticles using thermal decomposition method as reported \\(Sun et al. 2002). \n2) Cool the black colored mixture at room temperature by removing the heat source, further precipitated using ethanol and finally magnetically separate using a rare-earth magnet. \n3) Discard the brown supernatant and wash the nanoparticles once more with ethanol to remove left over nonmagnetic product in the solution. Note: Further washing with ethanol results in the etching of the oleic acid layer from the SPMNPs \\(this step might be useful depending on the hydrophobic to hydrophilic reaction step.\n**Functionalization of SPMNPs with dimercaptosuccinic acid \\(DMSA)-“Ligand Exchange Method”** \n1) Synthesis DMSA functionalized nanoparticles as reported previously in the literature \\(Lee, Huh et al. 2007).\n2) After isolation of black powders through centrifugation, add 1 ml of water, further magnetic purify and then adjust to pH 7. \n3)  Further determine the SPMNPs concentration and size using TGA and DLS or TEM respectively.\n**Fluorescence-modified SPMNPs**.\n1) Perform Fluorescein conjugated DMSA functionalized SPMNPs by mixing 25-fold molar excess of FIASH-EDT2-Maleimide over molar amount of SPMNPs to be coupled. \n2) Perform the reaction for overnight at room temperature. \n3) Remove unbound \\(fluorescein) by extensive washing in the presence of magnetic field.\n4) Resuspend the purified fluorescein conjugated SPMNPs in distilled H<sub>2</sub>O for further cellular uptake analysis. \n5) Magnetically purified fluorescein conjugated SPMNPs was resuspended in PBS for further cellular uptake analysis. \n**Nanoparticle uptake and Confocal Microscopy:**\n1) Incubate HeLa cells with fluorescence-Modified SPMNPs at 37°C for different Pulse–Chase period.\n2) After the Pulse-Chase paradigm, fix the cells in 4% paraformaldehyde and mount on a coverslip with polymount with DAPI nucleus staining.",
+    "3) Capture the Images on a Zeiss Radiance 2100 confocal connected to an upright Nikon Eclipse E800 microscope and using an oil immersion plan Apo 40xA/1.40 numerical aperture objective lens. \n4) Do Final processing using Adobe Photoshop \\(Adobe, CA) and restrict to limited linear color balance adjustments to interpret merged pictures."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

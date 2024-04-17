@@ -1,0 +1,14 @@
+{
+  "id": 7493,
+  "origin_website": "Bio",
+  "title": "Flow Cytometric Detection of Mitochondrial Membrane Potential",
+  "procedures": [
+    "Cells were cultured with complete medium in a 6 cm dish at 37 °C and 5% CO2.Cells were harvested until 70-90% confluency reached.(For positive control of depletion of mitochondria membrane potential) Suspend 1 x 106 cells in 1 ml freshly prepared 4% paraformaldehyde diluted from stock using DPBS for 10 min at room temperature and wash them with 1 ml pre-warmed (37 °C) DPBS three times.Dilute the DiOC6 stock solutions into DPBS to make 0.1 μM working solution.Suspend cells at a density of 1 x 106 cells/ml in dye working solution and protect from light.Incubate the cells at 37 °C for 15 min.Centrifuge the tubes at 130 x g for 5 min.Remove the supernatant and gently resuspend the cells in 1 ml pre-warmed DPBS.Repeat the wash steps 7 and 8 twice.Submit samples to flow cytometry for mitochondrial membrane potential measurement."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

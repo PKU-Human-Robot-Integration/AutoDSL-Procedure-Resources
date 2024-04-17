@@ -1,0 +1,18 @@
+{
+  "id": 3202,
+  "origin_website": "Cell",
+  "title": "Protocol for purification and enzymatic characterization of members of the human macrophage migration inhibitory factor superfamily",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nPrepare the assay plate\nTiming: 1 h\nIn this step, the protein is thawed, and the reaction plate is set up.\nNote: Where possible, use a multichannel pipette to increase reproducibility.\nPrepare the protein.\nThaw the protein on ice (During this time, step 2 can be performed).\nDilute D-DT to 3.75 μM and MIF to 0.75 μM with their respective lysis buffers.\nPrepare the substrate.\nMake dilutions of the 4-HPP solution ranging from 0-30mM (This will yield a range 0–2 mM final 4-HPP concentrations).\nPrepare the plate (Figure 1[href=https://www.wicell.org#fig1]).\nPipette 10 μL of the substrate solution into each well (Figure 1[href=https://www.wicell.org#fig1] - step 1).\nNote: The color gradient shown in this figure does not represent the actual color you will observe, and it was only used to indicate 4-HPP dilutions. The solutions may appear pale yellow or colorless depending on the 4-HPP sample (most likely colorless).\nIntroduce 130 μL of borate solution (Figure 1[href=https://www.wicell.org#fig1] - step 2).\nNote: If a modulator is going to be used, reduce the volume of borate solution to 128.5 μL and add 1.5 μL of the modulator, dissolved in 100% dimethyl sulfoxide (DMSO). With this approach the final concentration of DMSO remains constant at 1%. Higher DMSO concentration may affect the catalytic activity of MIF and D-DT.\nMix by pipetting.\nPerform the assay\nTiming: 3–5 min per reaction\nHere, the protein is added to the prepared reaction plate and the keto-enol tautomerase activity is monitored.\ntable:files/protocols_protocol_2773_4.csv\ntable:files/protocols_protocol_2773_5.csv\nNote: Methods video S1a[href=https://www.wicell.org#mmc1] and S1b[href=https://www.wicell.org#mmc2] provide an example of how to perform the following steps accurately and reproducibly.\nInitiate the reaction.\nPipette 10 μL of the desired protein solution (MIF or D-DT) into a column of the prepared reaction plate (Figure 1[href=https://www.wicell.org#fig1] - step 3).\nMix well by pipetting.",
+    "Critical: The mixing needs to be quick, but thorough. The number of times each well is mixed should remain consistent between runs or else the data may not be very consistent. Use low retention tips.\nStart readings at 306 nm (Figure 1[href=https://www.wicell.org#fig1] - step 4), take readings every 10 s for a total of 180 s (MIF - see Table 1[href=https://www.wicell.org#tbl1]) or 300 s (D-DT- see Table 2[href=https://www.wicell.org#tbl2]).\nRepeat steps a-c for all desired replicates/experimental groups. Each experimental group should be tested in triplicate (Figure 1[href=https://www.wicell.org#fig1] - see microplate).\nCritical: It is important to only test one column at a time as reading should be taken consistently every 10 seconds. Doing experiments on more than one column may jeopardize the timeliness and consistency of these readings.\n    Your browser does not support HTML5 video.\n  \n      Methods video S1a. Initiate the enzymatic reaction part 1, related to perform the assay – step 4\n    \n    Your browser does not support HTML5 video.\n  \n      Methods video S1b. Initiate the enzymatic reaction part 2, related to perform the assay – step 4"
+  ],
+  "subjectAreas": [
+    "Protein Expression And Purification",
+    "Health Sciences",
+    "High Throughput Screening"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

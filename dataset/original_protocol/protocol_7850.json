@@ -1,0 +1,15 @@
+{
+  "id": 8258,
+  "origin_website": "Bio",
+  "title": "Xenograft Tumor Growth Assay",
+  "procedures": [
+    "HCC cells were transfected with ISX fused with GFP or ISX shRNAi expression constructs and selected into stable clones.   Determining the cells number for injection. 5 x 107 cells per ml will be required to trypsinizing (usually a 100% confluent plate of 100 mm2 will yield at least 6 injections at 5 x 106 cells/injection).   Trypsinizing the cells with 1x trypsin solution from needed number of plates to be counted all at once.   Collecting the detached cells in 15 ml conical tubes and spin for 3 min at 300 x g.   To remove the supernatant and re-suspend the cells with 3 ml of culture medium for counting.   To remove three 10 μl aliquots into 3 separate eppendorfs and dilute each 10 μl 1:100 by adding 990 μl of culture medium, mix well for counting.   Then, to remove 10 μl of 1:10 dilutions for counting, counting each of three dilutions and average the three numbers.   Determining the concentration of cells in cells/ml by using the following formula: Average counts x 10,000 x dilution factor (1,000) = #cells/ml.   Determining the volume required to add to achieve final concentration of cells for injection per volume to be injected (i.e. 5 x 106 cells/ml injections).    Spin down 15 ml conical for 3 min at 300 x g.   Discard supernatant and re-suspend the pellet in the previously determined volume from step 8.   Draw up each injection/mouse in 1 ml syringes in the tissue culture hood prior to going to the animal facility. Place the separate syringes each containing 200 μl on ice.   The tumor volume was estimated according to the formula: volume (cm3) = 1/2(L x W2), where L and W are the length and width of the tumor, respectively."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

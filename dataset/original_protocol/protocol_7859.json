@@ -1,0 +1,14 @@
+{
+  "id": 8268,
+  "origin_website": "Bio",
+  "title": "Ki67 Immunofluorescence on Bovine Cell Lines",
+  "procedures": [
+    "Bovine cells were cultured in RPMI 1640, supplemented with 10% heat-inactivated Fetal calf serum, 4 mM L-Glutamine, 25 mM HEPES, 10 μM β-mercaptoethanol  and 100 μg/ml penicillin/streptomycin in a humidified 5% CO2 atmosphere at 37 °C.   In 24 wells plate, slides were coated with PBS – Fibronectin (1/1,000), 2 h at 37 °C and wash twice with PBS.   Non adherent bovine cells (500,000 cells/well in 24 wells plate) were plated on Fibronectin coated slides 2 h at 37 °C, 5% CO2 and then fixed in 500 μl PBS 3.7% Formaldehyde for 15 min at room temperature.   Slides were rinsed in PBS (300 μl - 3 washes) and permeabilized with PBS 0.2% Triton X-100 for 5 min.    Slides were washed in PBS (300 μl - 3 washes) and then blocked for 30 min at room temperature with 250 μl PBS 1% SVF and 1% BSA to prevent non-specific staining.    The slides were incubated with Mouse monoclonal anti-Ki67 (1:50) in 100 μl PBS 1% SVF and 1% BSA at room temperature for 40 min.    After washing in PBS 0.2% Tween (300 μl - 3 washes), the slides were incubated with Cy2 AffinyPure anti-mouse IgG (1:5,000) in 100 μl PBS 1% SVF and 1% BSA for 30 min at room temperature, in the dark.    Slides were subsequently washed in PBS 0.2% Tween (300 μl - 3 washes), mounted on slides and coverslippedwith ProLong Gold Antifade Reagent with DAPI.    Images of immunofluorescence staining were photographed with a camera attached to a fluorescent microscope and percentage of Ki67 positive cells was calculated.   This staining was repeated for three independent biological replicates (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131030/20131030034010_1302.jpg Figure 1. Ki67 staining of bovine cells"
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4779,
+  "origin_website": "Bio",
+  "title": "RNase H Polymerase-independent Cleavage Assay for Evaluation of RNase H Activity of Reverse Transcriptase Enzymes",
+  "procedures": [
+    "Preparation of the RNA/DNA hybrid as the substrate    Resuspend carefully each RNA and DNA oligos at final concentration of 500 µM in 100 mM Tris-HCl (pH 8.1), 0.5 mM EDTA (pH 8.0).    Prepare an annealing solution of 50 µM final of both RNA and DNA oligos with 50 mM NaCl in DNase/RNase-free water then aliquot 50 µl in a 0.2 ml PCR tube. Vortex carefully and then and then spin down briefly at 5,000 rpm to allow all the liquid to lay in the bottom of the tube.   Do not overlay mineral oil on the solution. Place the tube in a thermal cycler and set up a program to perform the following profile:  Heat to 95 °C and remain at 95 °C for 2 min;  Ramp cool to 25 °C over a period of 45 min;  Proceed to a storage temperature of 4 °C.   The RNA/DNA hybrid solution (50 μM) is ready to be used (see Recipes). The solution can be stored at -20 °C.      Preparation of dilutions of inhibitors    Dissolve the powder of compound in DMSO at 10 mM final concentration, sonicate it (e.g.: 10” at 50 Hz) and warm it if needed (e.g.: 2’ 45 °C), to be sure all the compound goes in solution.   Starting from the 10 mM solution in DMSO make the serial dilutions of compound in Milli-Q purified water: Starting from 1 mM dilution and making three fold dilution 10 fold more concentrate with respect to the final concentration needed. e.g.: 1 mM -> 333.33 µM->111.11 µM dilution will result 100 µM->33.33 µM -> 11.11 µM in the samples. Please see Notes.      RNase H assay   Plan an experiment without RT enzymes (blank), with the RT enzyme in the absence of inhibitors (control), and in the presence of increasing concentration of inhibitors (samples).",
+    "It is better to use a wide range of concentrations to have a better curve of inhibition. The reaction volume is 100 µl.   In one OPTIPLATE-96 F/50B, first add water (20 µl in blanks and 10 µl in controls).   Add 80 µl of RT reaction mix (1.25x).   Add 10 µl of the inhibitor dilution at the established concentration in the samples (see Figure 2 as an example).   Finally add 10 µl of the enzyme (20 ng of HIV-1 RT) or (2 nM of PFV RT) to each well (control and samples).    Cover the plate with the lid and incubate the reaction for 1 h at 37 °C at 200 rpm in the Multi Thermo-Shaker for microplates.   Stop the reaction by addition of 50 µl EDTA (0.5 M, pH 8.0) to each well.   Quantify the reaction with the Victor 3 at 490/528 nm (excitation/emission wavelength).     Elaborate the results by subtracting the value of the blank from all the samples and reporting the obtained values in the samples with the inhibitor as a percentage of the control.    Calculate by interpolation the IC50 value of the inhibitors as the concentration that reports a 50% of reduction of the signal of the product respect to the control."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

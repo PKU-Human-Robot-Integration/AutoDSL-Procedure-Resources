@@ -1,0 +1,15 @@
+{
+  "id": 5778,
+  "origin_website": "Bio",
+  "title": "<em>Ex vivo</em> Co-culture of Lymphoid Tissue Stromal Cells and T Cells",
+  "procedures": [
+    "Fresh human palatine tonsil tissues were obtained from routine tonsillectomies and processed within 1–2 h of completion of surgery. Viable tonsil lymphocyte suspensions were prepared by forcing cut tissue pieces through a metal sieve (e.g. CellMicroSieves), and collecting the released single cell suspension in complete RPMI-1640 culture medium.The lymphocytes were washed twice (centrifuge and resuspend the cells in PBS) and immediately cryopreserved by resuspending cells in freezing medium (FBS with 10% DMSO). The cells were immediately transferred to -20 °C for one hour, followed by -80 °C overnight before permanent storage in liquid nitrogen.By culturing the stroma left on the metal sieve (e.g. CellMicroSieves), in complete RPMI-1640 culture medium at 37 °C with 5% CO2, adherent proliferating fibroblast-like stromal cells were first visible after 2-5 days in the culture, and confluent monolayers developed after 10-25 days.For co-culture of lymphocytes and stromal cells, 2 x 105 lymphocytes isolated from human tonsil were cultured in chamber slides without stromal cells, with autologous stromal cells (2 x 104 cells/well), or with autologous stromal cells (2 x 104 cells/well) and IL-7 blocking antibody (50 μg/ml) for 2 to 3 days.After co-culture, the slides were fixed in 0.5 ml Streck's tissue fixative for 20 min, permeabilized with 1% TritonX-100 for for 5 min.The slides were washed with 500 μl/well PBS + 3% FBS for 3 times, blocked with 500 μl/well DPBS + 3% FBS + 0.5% Tween-20 for 2 h at room temperature.After removing the blocking reagent, add 250 μl/well primary antibodies [activated caspase3 (1:100 dilution), CD45RA (1:100 dilution) and CD3 (1:100 dilution)] and incubate at room temperature for 1 h.After removing the primary antibodies, the slides were washed with 500 μl/well PBS + 3% FBS for 3 times.Add 250 μl/well fluorescent secondary antibodies and incubate at room temperature for 1 h.",
+    "Remove the secondary antibodies and wash the slides with washed with 500 μl/well PBS + 3% FBS for 3 times.Use fluorescence microscope or confocoal microscope to quantify the number of apoptotic naive T cells."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

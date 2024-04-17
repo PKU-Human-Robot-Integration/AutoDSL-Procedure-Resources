@@ -1,0 +1,17 @@
+{
+  "id": 183,
+  "origin_website": "Nature",
+  "title": "Ultrafiltration-based _in vitro_ assay for determining polyamine binding to proteins",
+  "procedures": [
+    "1. Keep all reagents on ice. Pre-cool the centrifuge to 4°C.\n  2. Label the microcentrifuge tubes and keep them on ice.\n  3. Prepare the polyamine binding mix in the pre-cooled microcentrifuge tubes as shown Table A & B shown in figures section.\n  4. Mix the polyamine binding mix gently and incubate on ice for 60 min.\n  5. Place the filtration device in a 1.5 ml collection tube and pre-cool on ice.\n  6. After the 60 min incubation time, transfer 100 μL of the polyamine binding mix to the appropriately labelled filtration devices.\n  7. Filter the free polyamines by spinning at 2500xg for 5 min at 4°C\n  8. Prepare microcentrifugefuge tubes with 1 mL scintillation liquid \\(two tubes with scintillation liquid for every filter device used) and keep them at room temperature.\n  9. Remove 10 μL of the retentate from inside the cut-off filter device and add it to microcentrifuge tube with scintillation liquid marked as “retentate”.\n  10. Remove 10 μL of filtrate from the collection tube of the filtration device and add it to the second microcentrifuge tube with scintillation liquid marked as “filtrate”.\n  11. Vortex for 10s and proceed with scintillation counting.\n  12. From the resulting CPM \\(Counts per Minute) values, calculate the percentage of protein-bound polyamines using the following formula.\n  \nPercentage polyamine Binding = \\{\\(CPMretentate- CPMfiltrate)/ CPMretentate} x 100"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

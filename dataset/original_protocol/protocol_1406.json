@@ -1,0 +1,16 @@
+{
+  "id": 1505,
+  "origin_website": "Nature",
+  "title": "<p><em>In vitro</em> transcription and micro-injection of <em>Kdm4a</em> mRNA into mouse oocytes</p>",
+  "procedures": [
+    "<p>1. The H188A mutation was achieved on the <em>in vitro</em> transcription ready pcDNA-flag-hKDM4A-polyA plasmid using the Quikchange II XL Site-directed mutagenesis kit (Agilent 200521).</p><p><br></p><p>2. The mutant plasmid was sequence verified and then both wild-type and mutant mRNA were linearized using <em>SfoI</em> (NEB R0606)</p><p><br></p><p>3. this was followed by <em>in vitro </em>transcription, poly(A) tailing and precipitation according to manufacturers instructions of the mMESSAGE mMACHINE T7 Ultra Kit (Life Technologies AM1345).</p><p><br></p><p>4. Multiple 10 microliter sized single thaw-and-use aliquots of 1000ng/uL wild-type and H188A mutant <em>Kdm4a</em> polyA-mRNA were prepared and frozen at -80 C.</p><p><br></p><p>5. Microinjection of MII oocytes take place 14 hours after hCG injection in M2 medium on a station equipped with FemtoJet® (Eppendorf), CellTram® Air (Eppendorf) and Narishige micromanipulators.</p><p><br></p><p>6. Approximately 10 pL of a stock concentration of 1000 ng/uL of either wild-type or H188A <em>Kdm4a</em> poly(A) mRNA was injected into cytoplasm of MII oocytes.</p><p><br></p><p>7. Injected oocytes are then transferred to a HTF medium drop and undergo IVF as described in an independent protocol listed here, soon (0.5-1 hr) hour after mRNA injection.</p><p><br></p><p>8. The resulting embryos are incubated at 37 °C, 5% CO<sub>2</sub> in KSOM-Embryomax medium (Merk Millipore) that is refreshed daily up to E5,5 stage, while observing the progress of development.</p>"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

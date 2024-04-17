@@ -1,0 +1,17 @@
+{
+  "id": 4310,
+  "origin_website": "Bio",
+  "title": "X-gal Staining on Adult Mouse Brain Sections",
+  "procedures": [
+    "Mouse is perfused with PBS for 5 min followed by 4% PFA/PBS for another 5 min.   Mouse brain is dissected out and post-fixed with 4% PFA/PBS for 4 h at 4 °C.   Fixed brain is washed with PBS three times and then incubated with 20% sucrose overnight (or until samples sink) and then 30% sucrose overnight.    The brain is mounted on standard cryomold with O.C.T. compound and stored at -80 °C until usage.   40 μm cyro-section is made using cryostat and mounted on the slide-glass.   Slide-glass is washed once with the staining buffer (typically 150 ml for a container) for 10 min at room temperature.   Slide-glass is then incubated with 1 mg/ml X-gal in the staining buffer supplemented with 5 mM Potassium Ferricyanide and 5 mM Potassium Ferrocyanide at 37 °C until color develops.  Notes:   This step usually takes 3 h to overnight.   Don’t let samples dry.   Use 100-200 μl X-gal solutions per slide.     Stained sample is washed with PBS three times (5 min each).   Slide is dehydrated with series of ethanol (50%, 75%, 90%, 100%, 2 min each).   Slide is mounted on permount and can be stored at room temperature.   Sample is ready for imaging at higher magnification (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140227/20140227010212_7591.jpg Figure 1. X-gal staining of Nlk gene trap mouse brain. Strong beta-galactosidase expression of the Nlk gene trap mouse is observed within the Purkinje cell layer from 6-week-old Nlk gene trap mouse cerebellum.  MCL, molecular cell layer.  PCL, Purkinje cell layer.  GCL, granular cell layer."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7215,
+  "origin_website": "Bio",
+  "title": "Characterising Plant Deubiquitinases with <em>in vitro</em> Activity-based Labelling and Ubiquitin Chain Disassembly Assays",
+  "procedures": [
+    "HA-UbVS labellingSet up 10-μl reactions including the following: 1 μl 10× DUB labelling buffer, 5 μl 700 nM DUB, 1.25 μl 80 nM 26S proteasome (if required), 1 μl 7 μM HA-UbVS, and 1.75 μl ddH2O. Control samples should be included in which components are omitted and replaced with ddH2O.Incubate for 30 min at room temperature or in a heat block at 22°C.Add 10 μl 2× SDS-PAGE loading buffer to each sample.Incubate for 10 min in a heat block at 70°C.Perform SDS-PAGE with a 15% gel and western blotting using standard methods with:Anti-HA antibodies (at 1:5000 dilution) to detect free HA-UbVS (~9.8 kDa) and HA-UbVS-labelled DUB (Figure 1).Antibodies (at antibody-specific dilutions) against the appropriate DUB or epitope tag to detect both unlabelled and labelled DUB. Any standard imaging system can be used depending on the secondary antibodies (e.g., film or CCD imaging system for chemiluminescence).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4015/bioprotoc-11-09-4015-g001.jpgFigure 1. HA-UbVS labelling of recombinant purified His6-T7-UBP6. A typical western blot showing free and HA-UbVS-labelled recombinant His6-T7-UBP6. Adapted from Figure 6B of Skelly et al. (2019).In vitro deubiquitination assaysSet up 10 μl reactions including the following: 1 μl 10× deubiquitination buffer, 1 μl 200 nM DUB, 1 μl 12.5 nM 26S proteasome (if required), 1 μl 4 μM ubiquitin substrate, and 6 μl ddH2O. Control samples should be included in which components are omitted and replaced with ddH2O.Incubate in a heat block at 30°C for the desired time [2-16 h for His6-T7-UBP6 (Skelly et al., 2019), but dependent on the DUB and substrate].Add 10 μl 2× SDS-PAGE loading buffer to each sample.Incubate for 10 min in a heat block at 70°C.Perform SDS-PAGE with a 15% gel and western blotting using standard methods with anti-ubiquitin antibodies to detect the original ubiquitin chain substrate and observe any DUB-mediated chain disassembly as lower-order ubiquitin species.",
+    "Any standard imaging system can be used depending on the secondary antibodies (e.g., film or CCD imaging system for chemiluminescence)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

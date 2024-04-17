@@ -1,0 +1,17 @@
+{
+  "id": 799,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from urine using the System Biosciences Exoquick Seramir tissue culture kit",
+  "procedures": [
+    "**Exosome purification**\n1. Thaw samples on ice.\n  2. Add 100 µL of Exoquick-TC precipitation solution to 500 µL of urine in a 1.5 mL microfuge tube.\n  3. Mix well by inversion 3 times.\n  4. Incubate overnight at 4°C.\n  5. Centrifuge ExoQuick/urine mixture at 16,000 x g for 2 min.\n  6. Remove supernatant by pipetting \\(leaving behind 50 µL). Keep the exosome pellet.\n  7. Add 350 µL Lysis buffer to exosome pellet and vortex 15s.\n  8. Place at room temperature for 5 min \\(to allow complete lysis).\n  \n**exoRNA purification**\n9. Add 200 µL of 100% ethanol.\n  10. Vortex for 10s.\n  11. Assemble spin column and collection tube.\n  12. Transfer all \\(600 µL) to spin column.\n  13. Centrifuge at 16,000 x g for 1 min. \\(Spin longer if the solution has not flowed through.)\n  14. Discard flow-through.\n  15. Add 400 µL wash buffer.\n  16. Centrifuge at 16,000 x g for 1 min.\n  17. Repeat steps 15 and 16 once more.\n  \n**exoRNA elution**\n18. Discard flow-through.\n  19. Centrifuge at 16,000 x g for 2 min to dry.\n  20. Transfer spin column to fresh collection tube.\n  21. Add 14 µL RNase-free water directly to membrane in spin column.<sup>1</sup>\n  22. Centrifuge at 400 x g for 2 min.<sup>2</sup>\n  23. Increase speed to 16,000 x g and centrifuge for 1 min."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

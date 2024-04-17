@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "origin_website": "Nature",
+  "title": "Method for full protein sequence mapping: LC-MS sample preparation",
+  "procedures": [
+    "Sample Preparation\n1. Reduction/alkylation with DTT/Iodoacetamide; Protein samples need to be denatured prior to any digestion with proteases so the protease will have as much access to targeted amino acids as possible. To help achieve this, the protein is treated first with dithiothreitol \\(DTT) to break disulfide linkages between cysteine residues. To prevent the disulfide bonds from re-forming, iodoacetamide is used to modify the reactive cysteine -SH groups, forming s-carboxylmethylated cysteines \\(see example \"http://www.ionsource.com/Card/cmc/method.htm)\":http://www.ionsource.com/Card/cmc/method.htm\n  \n2. Protease digestion; Endoproteinase Lys-C \\(Lys-C) and trypsin are proteases used for digesting proteins into a population of peptides that can be identified by the mass spectrometer. Lys-C cleaves on the c-terminal side of lysine and the resulting peptides are larger than tryptic peptides. The larger-sized peptides are compatible with the LTQ-FTMS and new ETD mass spectrometry technologies discussed below. Trypsin cleaves on the c-terminal side of lysine and arginine amino acids. Both proteases work best around pH 8. For detailed information and digestion protocols, see \"http://www.roche-applied-science.com/pack-insert/1420429a.pdf\":http://www.roche-applied-science.com/pack-insert/1420429a.pdf \\(Lys-C) or \"http://www.promega.com/tbs/9piv511/9piv511.pdf\":http://www.promega.com/tbs/9piv511/9piv511.pdf \\(trypsin). \n  \nSince maximal amino acid coverage of the protein is required, it is best to digest the sample with several proteases, so the resulting peptides are more likely to contain amino acid information from the entirety of the protein. Glu-C cleaves on the c-terminal side of glutamic acid and, less frequently, aspartic acid residues. Chymotrypsin specifically cleaves on the c-terminal side of tyrosine, phenylalanine and tryptophan amino acids. Less frequently, it will act on leucine, methionine, alanine, aspartic acid and glutamic acid residues. For detailed information and digestion protocols, see \\(Glu-C) \"http://www.roche-applied-science.com/pack-insert/1420399a.pdf\":http://www.roche-applied-science.com/pack-insert/1420399a.pdf and \\(chymotrypsin) \"http://www.roche-applied-science.com/pack-insert/1418467a.pdf\":http://www.roche-applied-science.com/pack-insert/1418467a.pdf. The selection of proteases depends greatly upon the amino acid sequence of the target protein. Proteases are selected which will yield peptides from 600-6000 Da and which will maximize the coverage of potential phosphorylation sites."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Biochemistry",
+    "Structural Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

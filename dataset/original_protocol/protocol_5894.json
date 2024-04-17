@@ -1,0 +1,14 @@
+{
+  "id": 6243,
+  "origin_website": "Bio",
+  "title": "Standard 4-hours Chromium-51 (<sup>51</sup>Cr) Release Assay",
+  "procedures": [
+    "51Cr labeling the target cellsWash targets (2.106 per condition) in 15 ml of medium.Centrifuge targets; discard the supernatant and resuspend pellets in 20 μl of FCS.Add 100 μCi of 51Cr (20 μl of stock solution at 5 mCi/ml) for one hour in an incubator at 37 °C.NB: To define the dose of chromium necessary to mark a cell type, it must be ensured that the spontaneous release is less than 10% of maximum load.Wash cells and resuspend in 60,000 cells per ml of complete medium.Add 3,000 Target cells per well in 50 μl of a round-bottom 96 well plate.Incubation of target cells with effector cellsAdd effector cells (50 μl) at E:T (Effetor:Target) ratios of 30:1, 20:1, 10:1, and 1:1. In parallel, set up controls (Spontaneous Release, Maximum load) and incubate 4 h at 37 °C.AnalysisCentrifuge samples and collect supernatant (50 μl).Supernatants are dried on a LumaPlateTM (PerkinElmer) overnight and counted in a liquid scintillation counter.The percentage of specific lysis was calculated using the standard formula [(experimental - spontaneous release)/(maximum load- spontaneous release) x 100] and expressed as the mean of triplicate samples"
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

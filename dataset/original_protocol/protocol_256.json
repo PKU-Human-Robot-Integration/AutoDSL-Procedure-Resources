@@ -1,0 +1,21 @@
+{
+  "id": 271,
+  "origin_website": "Nature",
+  "title": "Lysine decarboxylase assay with cucurbituril \\(cucurbit-7-uril)",
+  "procedures": [
+    "1. Prepare the following stock solutions in 10 mM NH4OAc, pH 6.0: 500 &#xB5;M cucurbituril, 25 &#xB5;M dapoxyl, 1 mM lysine, 800 &#xB5;g/ml lysine decarboxylase.\n  2. Add 100 &#xB5;l Dapoxyl stock \\(25 &#xB5;M) and 780 &#xB5;l buffer to the cuvette and place the cuvette into the fluorometer. Start recording in the kinetic mode \\(exc = 336 nm, em = 380 nm).\n  3. Add 20 &#xB5;l of cucurbituril stock \\(500 &#xB5;M) to the solution and wait ca. 2 min until the fluorescence intensity has equilibrated.\n  4. Add 50 &#xB5;l of lysine stock \\(1 mM) to the solution.\n  5. Add 50 &#xB5;l of lysine decarboxylase \\(800 &#xB5;g/ml) to initiate the reaction and record fluorescence until no change in fluorescence intensity is registered.\n  6. Total assay volume is 1 ml. Final concentrations are: 2.5 &#xB5;M Dapoxyl, 10 &#xB5;M cucurbituril, 50 &#xB5;M lysine, 40 &#xB5;g/ml lysine decarboxylase. Steps 2-5 can be repeated with varying enzyme, substrate, or cucurbituril concentrations."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

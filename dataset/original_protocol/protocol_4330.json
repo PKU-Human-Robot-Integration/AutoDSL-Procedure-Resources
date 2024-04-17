@@ -1,0 +1,16 @@
+{
+  "id": 4547,
+  "origin_website": "Bio",
+  "title": "Semi-denaturing Detergent Agarose Gel Electrophoresis (SDD-AGE)",
+  "procedures": [
+    "Growth cells in your adjusted conditions.Harvest cells.Bacteria: Harvest cells (25 ml O.D. = 2) by centrifugation (10 min, 3,500 rpm, 4 °C). And, resuspend the cells in 400 μl of lysis buffer.Yeast: Harvest cells (200 ml O.D. = 0.8) by centrifugation (5 min, 3,500 rpm, 4 °C). And, resuspend the cells in 500 μl of lysis buffer.Transfer the suspension to a tube containing silica beads (usually 1/3 of the volume is sufficient).Lysate the cells.Bacteria: Lysate the cells using the Fast-Prep 24 homogenizer (4 cycles at speed IV, 30 sec each at 4 °C). And, dilute 3 μl of cell lysate with 30 μl with lysis buffer, and then add 10 μl of 4x loading buffer to the sample.Yeast: Lysate the cells using the Fast-Prep 24 homogenizer (5 cycles at speed V, 30 sec each at 4 °C). And, add 10 μl of 4x loading buffer to 30 μl of the lysate.Incubate the samples 10 min at room temperature.Load them in the agarose gel.Prepare 200 ml of agarose at 1.5% in 1x TAE.Note: Heat the agarose suspension to melting and then add SDS to 0.1%.Pour it into 20 cm x 24 cm horizontal plate mould. Make sure that the casting tray is on a flat surface. Notes: Eliminate all the possible bubbles.Agarose electrophoresis are run using horizontal agarose electrophoresis system, the samples need to be run for long distance in order to resolve polymers of high molecular weight. Fit a thick comb (e.g., >2 mm, 20-well) allowing to load 40 μl per sample.Submerge the gel in a horizontal electrophoresis container with 1x TAE-0.1% SDS at 10 °C.Run electrophoresis at 100 V for 7.5 h at 10 °C.",
+    "Note: For detecting oligomers with high hydrophobic feature run it at lower voltage 50 V and room temperature for 12 h with 1% (final concentration) of Sarkosyl in the sample (4% Sarkosyl in the loading buffer). The concentration for the running buffer is TAE 1x and 0.1% SDS as described before. Caution: Extreme care during electrophoresis to avoid any electrical hazard.Cut the PVDF membrane adjusted to the size of the agarose gel and 2 pieces with the same dimensions of Whatman paper.Attach tightly the gel to the PDVF membrane and add in each side a piece of Whatman paper. Note: Everything should be pre-wet with transference buffer. Make sure that there are no bubbles in between.Place the cast into the Wet Transfer-Blot and cover with buffer 1x TAE-0.1% SDS.Caution: Extreme care during electrophoresis to avoid any electrical hazard.Run the transference at 16 V/400 mA and 10 °C for 15 h.Perform Western-blot with the appropriate antibodies to detect your polymers."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

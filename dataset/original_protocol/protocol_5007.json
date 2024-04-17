@@ -1,0 +1,16 @@
+{
+  "id": 5326,
+  "origin_website": "Bio",
+  "title": "Bacterial Intracellular Sodium Ion Measurement using CoroNa Green",
+  "procedures": [
+    "Note: Carry out procedures at ca. 23 °C unless otherwise specified. Transform competent cells of the E. coli BL21(DE3) strain, which are treated with calcium chloride method, with a pBAD24-based plasmid encoding FlhA or the PomAB∆plug, which is a Na+ channel complex of the marine Vibrio flagellar motor (Morimoto and Minamino, 2014).Grow the resulting transformants overnight in duplicate in 5 ml T-broth containing 100 µg/ml ampicillin at 30 °C.Inoculate 50 µl of overnight culture of the E. coli BL21 (DE3) cells carrying the pBAD24-based plasmid into 5 ml of fresh T-broth containing 100 µg/ml ampicillin and incubate at 30 °C for 4 h with shaking at 150 rpm. (The cell density reaches an OD600 of ca. 1.0.)Add 0.2% arabinose (final concentration, w/v) to induce over-expression of FlhA or PomAB∆plug derived by a pBAD promotor on the pBAD24 vector and keep shaking for another 1 h. After 1 h: Transfer 200 µl of each culture to a 1.5 ml Eppendorf tube and then collect the cells by centrifugation (6,000 x g, 2 min).Suspend the cell pellet gently in 1.0 ml of fresh TB using a pipette (P-1000).Centrifuge at 6,000 x g for 2 min.Discard supernatant.Repeat steps 6-8 (2 x).Resuspend the cells in 100 µl of T-broth containing 40 µM CoroNa Green (Invitrogen) and 10 mM EDTA.Cover the tubes with aluminum foil to keep them in the dark.Rotate the tubes at 5 rpm for 60 min using a tube rotator.Centrifuge at 6,000 x g for 2 min.Discard supernatant.Suspend the cell pellet in 1.0 ml of fresh T-broth.Centrifuge at 6,000 x g for 2 min.Discard supernatant.Repeat steps 14-16 (3 x).Resuspend the cells in 500 µl of fresh T-broth.",
+    "Make a tunnel slide by sandwiching double-sided tape between 24 x 32 mm coverslip (bottom side) and 18 x 18 mm coverslip (top side) (see Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Preparation for a tunnel slide  Add the cell suspension to the tunnel slide and leave for 5-10 min to attach the cells onto the coverslip surface.Wash out unbound cells by supplying 100 µl of fresh T-broth using a pipette (P-100). Absorb the excess amount of the medium with a piece of filter paper. Put the sample on an inverted fluorescence microscope.Select a 100x objective.Capture fluorescence images of CoroNa Green using a mirror unit for GFP (U-FGFP, Ex: 460–480, Em: 495–540, Olympus) by an sCMOS camera every 100 msec.Measure the fluorescence intensity of the cells stained with CoroNa Green in T-broth with 0 mM, 5 mM, 10 mM, 20 mM, 50 mM or 100 mM NaCl in the presence of 20 µM gramicidin and 5 µM CCCP."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

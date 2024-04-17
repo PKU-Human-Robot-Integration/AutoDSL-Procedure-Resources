@@ -1,0 +1,15 @@
+{
+  "id": 5391,
+  "origin_website": "Bio",
+  "title": "Olfactory Avoidance Test (Mouse)",
+  "procedures": [
+    "Before the test dayDuring five days before the test, mice are habituated to the experimental condition, under which an experimenter handles them with latex gloves on. The same experimenter gently handles each mouse for 10 min per day during the five consecutive days.On the test day (Figure 1)Tests are done during the dark phase of 12 h light/dark cycle in the test room, in which, the weak red light (< 5 lux) is used for indirect lighting. Individual mice are transferred from their home cage to each habituation cage in the habituation room. The mice are habituated to the experimental environment in the habituation cage for 30 min (Habituation phase). We recommend that the test is performed in the dedicated room, which is different from the habituation room, because it is important to prevent the mice from encountering nTMT before the test.Each mouse is transferred from an old to a new habituation cage. This habituation process is repeated four times for each animal (use four habituation cages per one mouse, totally for 2 h) (Habituation phase; Figure 1A, top). Set the test cage and a digital video camera in the test room. Put on a filter paper (2 x 2 cm) at the one side of cage. Cover the roof of the test cage with acrylic board to prevent the odor from diffusing and the mouse from escaping from the test cage (Figure 1B). Undiluted nTMT at the amount of 0, 0.4, 4, and 40 μl is dropped on the filter paper in the test cage.After the mouse is transferred to the test cage, record the behavior with a video camera during the 10-min test (Test phase; Figure 1A, bottom).The tested mouse is returned to their home cage.",
+    "After the one test finishes, the used cage and filter paper scented with nTMT should be kept in the fume hood (see Note 4). Start the next test using new test cage and another mouse.The recorded videos are analyzed, as described below.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170227/20170227033447_4564.jpgFigure 1. Olfactory avoidance test. A. Schema of the experimental procedure; B. Apparatus of the olfactory avoidance test."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

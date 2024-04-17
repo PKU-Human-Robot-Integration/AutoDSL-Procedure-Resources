@@ -1,0 +1,16 @@
+{
+  "id": 4307,
+  "origin_website": "Bio",
+  "title": "Co-immunoprecipitation of Flag-TLR3 or Myc-MSR1 with HCV RNA",
+  "procedures": [
+    "Preparation of HCV infected cells   Seed the Huh-7.5 cells (1.5 x 106 per dish) stably expressing TLR3-Flag onto a 10 cm dish and incubated overnight.   Inoculate HCV (strain HJ3-5) at an MOI of 1 (5 ml of HJ3-5 stock at 3 x 105 FFU/ml) for 6 h, remove the inoculum, and then replace with 10 ml fresh culture medium.   Incubate cells at 37 °C in 5% CO2 for 72 h.      Preparation of the lysates   Aspirate culture medium, wash cells twice with DPBS, and scrape the cells into 50 ml tube.   Centrifuge at 800 x g for 3 min at 4 °C, and remove the supernatant.   Resuspend the cell pellet in 1 ml lysis buffer, and rotate the lysate for 5-6 h at 4 °C.   Centrifuge the lysate at 15,700 x g for 20 min at 4 °C.   Transfer the supernatant to 1.5 ml tube and place on ice, and determine the protein content using Protein Assay Kit.      Immunoprecipitation   Transfer the cell lysate (20 μg of total protein) to a new 1.5 ml tube.   Add 1 μg of anti-Flag antibody or mouse IgG control to the lysate and rotate overnight at 4 °C.   Add 20 μl Protein G sepharose to the lysate and rotate for 2-3 h at 4 °C.   Centrifuge at 800 x g for 3 min at 4 °C.   Aspirate the supernatant, wash beads with 1 ml lysis buffer and rotate for 10 min at 4 °C.   Centrifuge at 800 x g for 3 min at 4 °C.   Repeat steps C4-5 twice.   Suspend the sepharose in 100 μl DPBS and use half for RNA extraction and the remainder for Western blotting to detect the immunoprecipitated protein.",
+    "RNA extraction and RT-PCR   Extract RNA from the sepharose beads by vortexing 15 sec in TRIzol reagent, followed by the standard protocol as indicated in the manufacturer’s instruction, and suspend the RNA pellet in 50 μl of nuclease-free water (optional: Add 1 μl of Glycogen before the precipitation of RNA with Isopropanol).   Detect HCV RNA bound to TLR3-Flag with SuperScriptIII One-Step RT-PCR System with Platinum® Taq DNA Polymerase using an HCV-specific primer pair HCV84FP, 5’-GCCATGGCGTTAGTATGAGTGT-3’; HCV 303RP, 5’-CACCCTATCAGGCAGTACCACAA-3’, at an annealing temperature of 55 °C, followed by gel electrophoresis in 1.5% agarose gel. Specific bands (220 bp) can be detected typically with 35-40 PCR cycles."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

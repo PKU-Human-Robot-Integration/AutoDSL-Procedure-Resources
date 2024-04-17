@@ -1,0 +1,16 @@
+{
+  "id": 5597,
+  "origin_website": "Bio",
+  "title": "Estimation of Stomatal Aperture in <em>Arabidopsis thaliana</em> Using Silicone Rubber Imprints",
+  "procedures": [
+    "SamplingArabidopsis seeds were sown on soil in 10-cm pots and grown in a closed cabinet under a 16 h light/8 h dark photoperiod using fluorescent light at 120 µmol m-2 sec-1 at 23 ± 2 °C, and a relative humidity of 65-70%. For measurements, the younger, fully expanded and flat leaves of a 21-d-old Arabidopsis plant (i.e., third and fourth leaves) were harvested for immediate use. Notes: Leaf sampling should be done at the same time of the day to avoid any potential rhythmic effects.Leaves used for impressions are from plants grown in parallel under identical conditions.Leaf impressionsMix silicone low viscosity impression material (Polysiloxane) and catalyst/hardener in the approximate ratio 1:0.75. In case the whole leaf is covered with the material, mix 2 cm of silicon low viscosity impression material and 1.5 cm of catalyst/hardener. Mix very well using a spatula for about 30 sec (Figure 1A). Apply the mixture immediately to the abaxial surface of the leaves using a spatula and minimal pressure (Figures 1B and 1C). At 23 °C, hardening will usually take 4-5 min. After hardening, clip the tip of the leaf and peel along with the direction of the main leaf vein (Figures 1D and 1E).Make a positive impression by covering the silicone imprints with a thin layer of a clear nail varnish and leaving it to dry for at least one hour at room temperature (Figure 1F). Place the silicon rubber impression on a glass slide with the positive impression (surfaced covered with varnish) facing down. Transfer the thin layer of nail varnish to the glass slide by gently pressing the silicone rubber onto it (Figures 1G and 1H).Notes: High temperature or greater amount of catalyst/hardener will speed up hardening.Close hardening material properly after use.",
+    "Silicone imprints can be stored for a long time at room temperature and be reused. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170614/20170614023619_7481.jpgFigure 1. Leaf impression procedureMeasurement of stomatal apertures with a light microscopeObserve imprints under a light microscope using a 60x objective lens and take micrographs of the magnified image.Measure the width and length of stomatal aperture (Figure 2) using the image processing software ImageJ (http://rsb.info.nih.gov/ij/[href=http://rsb.info.nih.gov/ij/]).Notes: Since the imprints are usually not totally flat, not all regions of a leaf section are in focus. The leaf section is considered to be in focus when the edges of the cells are clear and sharp. To solve this problem, several photographs of the leaf section can be taken at different focal depths. Do not use images for measurements that are out of focus.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170614/20170614023825_7169.jpgFigure 2. Snapshot of ImageJ software showing a representative measurement of length and width of a stomata. Scale bar = 3 µm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

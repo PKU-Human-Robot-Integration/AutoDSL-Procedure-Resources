@@ -1,0 +1,22 @@
+{
+  "id": 154,
+  "origin_website": "Nature",
+  "title": "Receptor internalization assay to probe for agonist binding to CXCR2",
+  "procedures": [
+    "1. Cultivate the HEK293-CXCR2 cells \\(10<sup>5</sup> cells/well) in 12-well plate in 10%FCS/DMEM culture medium overnight.\n  2. Change the medium with DMEM containing 0.5% FCS.\n  3. Treat the cells with agonist, i.e. CXCL8 \\(0 &#x2013; 100 nM) or rMIF \\(0 &#x2013; 1 &#xB5;M), for 45 min at 37 &#xB0;C\n  4. Remove the medium and wash the cells once with cold acidic glycine buffer \\(50 mM glycine, 150 mM NaCl, pH 2.7) and twice with cold PBS.\n  5. Stain the cells with mouse anti-human CXCR2 antibody \\(MAB331, R&amp;D Systems) or isotype control \\(IgG 2a) \\(both immunoglobulins were diluted 1:500 in PBS containing 1% FCS), for 45 min at 4 &#xB0;C.\n  6. Wash three times with cold PBS.\n  7. Incubate the cells with FITC-conjugated anti-mouse antibody for 30 min at 4 &#xB0;C.\n  8. Analyse the fluorescence intensity by FACS.\n  9. Calculate percent of receptor internalization from the relative fluorescence intensity as follows:\n  \n\\(MFI\\[exp.] &#x2013; MFI\\[0% control]) / \\(MFI\\[100%control] &#x2013; MFI\\[0% control]) x 100\nMFI: geometric mean fluorescence intensity; 100% control corresponds to CXCR2 expression on the cell surface of cells treated with 20 mM sodium phosphate buffer alone; 0% control refers to cells incubated with isotype IgG as control."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5648,
+  "origin_website": "Bio",
+  "title": "Gene Dosage Experiments in Enterobacteriaceae Using Arabinose-regulated Promoters",
+  "procedures": [
+    "For abundance measurementTransform pBAD plasmid containing the gene of interest in to electro-competent BW27783 cells (see Notes, point #1), and spread on LB/Agar plates containing 100 µg/ml ampicillin. Incubate plates overnight at 37 °C.Next day, pick a single colony from the plate and inoculate into 2 ml of supplemented M9 medium (see Recipes and Notes, point #2) containing 100 µg/ml of ampicillin. Grow overnight with shaking (250 rpm) at 37 °C in 14 ml polypropylene tubes. Next day, dilute 500 µl of the overnight culture 1/100 in to 50 ml of fresh M9 medium containing 100 µg/ml of ampicillin and varying concentrations of arabinose (0-0.05%) (see Recipes), and grow for 4 h with shaking (250 rpm) at 37 °C.After 4 h, measure OD600 of the cultures, and spin down in a table-top centrifuge at 3,000 x g for 15 min. Aspirate as much culture supernatant as possible. Store the cell pellets at -20 °C.Prepare the lysis buffer, which is the buffer of choice (50 mM sodium phosphate buffer, pH 7.4, 10 mM Tris-HCl pH 8.0, etc.) supplemented with the detergent Bugbuster and Benzonase nuclease (see Recipes below). Based on the measured OD600 of the cultures, re-suspend the pellets in the prepared lysis buffer such that the final OD600 is 2.0 (see Notes, point #3). Allow the lysis to proceed for 20 min at room temperature on a rotator-mixer.Following lysis, spin down the cell debris for 30 min at 7500 x g in a centrifuge that has been pre-chilled at 4 °C.Separate the supernatant and quantify the total protein in each sample using the BCA assay kit using the manufacturer’s instructions.Load 20 µl of the supernatants on a 12% Bis-Tris SDS polyacrylamide gel, after required dilution of the samples (see Notes, point #4).",
+    "Resolve the samples at a voltage gradient of 10 V/cm of gel.Once the dye front has reached the base, the gel is ready to be transferred to a membrane for blotting. Use pre-assembled nitrocellulose membrane sandwiches (see Notes, point #5).Following transfer, wash the membrane with water two times to remove transfer buffer components and weakly bound proteins. From this step onwards, use Invitrogen’s Western-breeze Chromogenic Immunodetection kit to develop the membrane.For growth rate measurementFrom step A2 above, dilute the overnight culture to a final OD600 of 0.01 (see Notes, point #3) into fresh M9 medium containing 100 µg/ml of ampicillin and varying concentrations of arabinose (see Recipes). Aliquot 150 µl of this into three wells of the honeycomb Bioscreen plate (see Notes, point #6). This serves as replicates for a single colony. To obtain standard error of biological replicates, inoculate 3 independent colonies, and subject each of them to varying arabinose concentration.Aliquot 150 µl M9 medium into three independent wells. This serves as the background for OD measurements.Measure OD600 values at 15 min intervals over a period of 12 h in Bioscreen C system at 37 °C with shaking (see Notes, point #6)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4802,
+  "origin_website": "Bio",
+  "title": "Chitin-challenged Mice Model to Study M2 Macrophages Polarization",
+  "procedures": [
+    "Chitin administration   Preparation of chitin   Weight 800 ng of chitin per mouse and wash 3 times with PBS (5 min, 13,000 rpm, 16,800 x g).   Suspend chitin in 1 ml of PBS and sonicate in bath for 1 h [at the maximum setting of the sonicator (Ultrasons, Selecta)]. Note: Alternatively chitin can be sonicated at 25% output power three times for 5 min with a Branson sonicator.   Filter the suspension with 70 μm sterile cell strainers.     Inject 1 ml of chitin suspension i.p. per mouse using a 10 ml syringe with a 25 G needle. Wait for 2 days and harvest peritoneal cells.      Isolation of chitin elicited peritoneal exudate cells (PECs)   Sacrifice mouse with CO2 or isofluorane (the use of cervical dislocation is not indicated in this protocol in order to avoid potential internal bleeding).   Clean abdomen with 70% ethanol.   Remove skin to expose the peritoneal wall. Practice a small incision in the skin and pull firmly.   Inject 10 ml of RPMI 1640 into the peritoneal cavity with a 25 G needle.   Massage abdomen for approximately 30 sec.   Recover peritoneal fluid as much as possible using a 10 ml syringe with a 21G needle. (Usually approximately 8-10 ml fluid can be recovered from one mouse.)   Remove needle from syringe and put fluid into a 15 ml conical centrifuge tube on ice.   Centrifuge peritoneal cells 5 min at 300 x g (1,500 rpm, 4 °C). Discard the supernatant and collect the pellet.   Resuspend cell pellet in 10 ml of RPMI 1640 medium and count cells. (The cell number expected to be recovered is about 5-8 millions.)   Analyze peritoneal cells to confirm M2 activation by performing either real-time PCR or flow cytometry techniques to detect typical M2 markers (e.g. Arginase-1, Ym-1, Fizz-1, mannose receptor)."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

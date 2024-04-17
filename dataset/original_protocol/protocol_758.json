@@ -1,0 +1,17 @@
+{
+  "id": 803,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from urine using ultracentrifugation and the Qiagen miRNeasy Micro kit",
+  "procedures": [
+    "1. Thaw samples on ice.\n  2. Transfer 0.5 mL of urine into an ultracentrifuge tube.\n  3. Bring up volume to fill the ultracentrifuge tube with PBS \\(3 mL).\n  4. Centrifuge at 100,000 x g for 70 min. \n  5. Discard 3 mL of supernatant.\n  6. Add 3 mL of fresh PBS.\n  7. Centrifuge at 100,000 x g for 70 min.\n  8. Remove and discard 3.3 mL of supernatant.\n  9. Resuspend the leftover solution \\(usually about 200 µL).\n  10. Freeze at -80°C until needed.\n  11. Isolate RNA using the miRNeasy Micro kit."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

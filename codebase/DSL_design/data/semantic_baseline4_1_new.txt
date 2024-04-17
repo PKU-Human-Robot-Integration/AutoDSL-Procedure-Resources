@@ -1,0 +1,4 @@
+You will receive a protocol.
+Please use a *-*-*- format to describe the protocol (Only output a -+-+-+). Please read the protocol carefully.
+The experimental protocol is as follows:
+*+*+*+

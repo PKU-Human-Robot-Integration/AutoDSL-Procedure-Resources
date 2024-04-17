@@ -1,0 +1,17 @@
+{
+  "id": 535,
+  "origin_website": "Nature",
+  "title": "Dissection and immunostaining of mouse whole-mount meninges",
+  "procedures": [
+    "A- Mouse preparation and removal of the skullcap\n1. Anesthetize mouse with lethal dose of appropriate pharmacological agent \\(e.g. Euthasol) to render amenable to surgical manipulation.\n  2. Perfuse transcardially with ice-cold Perfusion Buffer using the 10ml syringe with the 30G needle until mouse is exsanguinated\n  3. Using regular scissors, sever mouse head just above the shoulder\n  4. Using angled scissors, beginning at caudal aspect, carefully detach skin and flesh from skull, working rostrally until all skin is removed\n  5. Sever optic nerves to remove the eyes\n  6. Turn head over so that ventral aspect of the jaw is facing up. Slide angled dissection scissors through the oral cavity until you feel the resistance of the mandibular junction. Sever the large muscles connecting the lower jaw to the skull; remove.\n  7. Using angled dissection scissors, remove the lower orbits on each side of the skull \\(the squamosae, zygomatic and maxillae)\n  8. Using Dumont curved Forceps, clean all flesh from all aspects of skull\n  9. With large scissors, remove the nasal bone with a coronal cut along the suture that defines its most caudal point, thus preventing the olfactory lobes.\n  10. With the curved scissors, carefully cut clockwise around the skull inferior to the posttympanic hook.\n  11. Remove the lower portion of the skull; discard. Scoop the brain out of the upper half of the skull, and place the skullcap in a 24-well plate with 1ml of the appropriate Fixation solution.\n  \nB- Fixation/Dissection of the whole mount\n1. Fix the meninges within the skullcap \\(PFA fixation: O/N-4°C; Ethanol/Acetone: 20min/-20°C)\n  2. 5min wash with 1ml of PBS \\(repeat three time)\n  3. Place the skullcap, with PBS, in 10mm petri dish under a dissecting microscope.",
+    "4. Beginning at the olfactory lobes covering section of the skullcap, carefully score meninges with the tip of a Dumont #5 forceps \\(use curved Dumont forceps to hold the skull cap), moving along the edge of the interior of the skullcap until meninges \\(Dura and Arachnoid mater) are scored 360°. \n  5. Grabbing the meninges from the junction between the transverse sinuses and the superior sagittal sinus, carefully peel it of the skullcap. If done correctly, the whole mount should consist of one piece of tissue.\n  6. Place the dissected meninges in a 24-well plate with 1ml of Storage solution and keep at 4°C until immunostaining.\n  \nC- Immunostaining\nNB: all incubation are realized under agitation on a shaker.\n1. 5min wash with 1ml of PBS \\(repeat twice)\n  2. Incubate the meninges for 1h/RT in 300µl of Block-Perm solution\n  3. Incubate the meninges O/N at 4°C in primary antibodies diluted in the Antibody dilution solution\n  4. 5min wash with 500µl of PBS \\(repeat three times)\n  5. Incubate the meninges for 1h/RT in 300µl of secondary antibodies diluted in the Antibody dilution solution\n  6. 5min wash with 500µl of PBS \\(one wash)\n  7. Incubate the meninges for 5min/RT in 300µl of DAPI\n  8. 5min wash with 500µl of PBS \\(repeat three times)\n  9. Using paintbrush, flatten the meninges on a glass slide \\(see Figure 1) \n  10. Using mounting media \\(e.g. Aquamount), mount the meninges"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

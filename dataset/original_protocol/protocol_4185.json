@@ -1,0 +1,15 @@
+{
+  "id": 4392,
+  "origin_website": "Bio",
+  "title": "Purification and Structural Analysis of QS-inhibiting Compounds from <em>Staphylococcus delphini</em>",
+  "procedures": [
+    "S. delphini is cultivated in 100 ml TSB at 37 °C on a shaking incubator at 150 rpm for 20 h.Cells are centrifuged at 5,000 rpm (4,500 x g) at 4 °C for 10 min and the supernatant is applied on to a column filled with 10 ml Amberilite XAD-16 resin.The column is first washed with 5 bed volumes each of milliQ water, then with 40% and 60% methanol and finally eluted with 80% methanol containing 5% acetic acid at a flow rate of 10 bed volumes per hour.The eluate is evaporated using a rotary evaporator until all methanol is removed.The eluate is resuspended with 50 ml water and the pH adjusted to 7.0 with 1 M NaOH. It is then applied on to a column filled with 10 ml Amberilite IRC-50 cation exchange resin. The column is washed first with water, then with 70% ethanol and eluted with 80% ethanol acidified with 5% acetic acid each with 5 bed volumes at a flow rate of 10 bed volumes per hour.The eluate is concentrated using a rotary evaporator until all methanol is removed.The eluate is diluted with water and adjusted to a final concentration of 50 mM sodium phosphate using 1 M sodium phosphate buffer and pH is lowered to 4.2 using 85% phosphoric acid.In the third purification step, the eluate is separated on a 5 ml SP sepharose cation exchange column with a linear 0 to 1 M NaCl gradient in 50 mM sodium phosphate buffer on an Äkta purifier FPLC at a flow rate of 3 ml/min.The final purification and desalting of each peak is carried out by reversed phase preparative HPLC (RP-PHPLC) on a nucleosil 100 C-18, 8 x 250 mm column with a linear water acetonitrile (containing 0.",
+    "1% TFA) gradient of 0% to 60% in 25 min.Purified compounds are lyophilized and stored at -20 °C.Qualitative analysis is carried out on an Agilent 1200 HPLC system and a RP-HPLC Waters xBridge C18, 5 mm, 4.6 x 150 mm column. Compounds are eluted with a 15 min linear gradient of aquaeus phosphoric acid (0.1% vol/vol) to acetonitrile at a flow rate of 1.5 ml/min and detected at 210 nm.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140530/20140530230253_1715.jpgFigure 1. RP-HPLC profile, UV-spectrum and structures of the two QS-inhibitors purified from S. delphini. A. QS-inhibitor, N-[2-(1H-indol-3-yl)ethyl]-urea (yayurea A). B. QS-inhibitor, N-(2-phenethyl)-urea (yayurea B). RP-HPLC is carried out on an Agilent 1200 and Waters XBridge C18, 5 mm, 4.6 x 150 mm column; compounds are eluted with a 15 min linear gradient of 0.1% phosphoric acid to acetonitrile at a flow rate of 1.5 ml/min."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8213,
+  "origin_website": "Bio",
+  "title": "ROR1 Flow Cytometry",
+  "procedures": [
+    "Actively cultured RCH-ACV, Kasumi-2, REH, and MHH-CALL-2 cells were pelleted and washed once in PBS and then resuspended in PBS wash buffer containing 2% FBS (1 million cells in 50 μl of buffer).   1 x 106 cells were immunostained at room temperature for 30 min with 1 μg of antibody specific for ROR1 or Goat IgG (do not need to rotate the reaction).   Cells were washed 3 times with 500 μl PBS wash buffer.   Cells were stained with Donkey Anti-goat IgG-Phycoerythrin (10 μl Donkey Anti-goat IgG-Phycoerythrin is diluted into 90 μl PBS wash buffer). Incubate at room temperature in the dark for 15 min.   Samples are washed 1x with 500 μl PBS wash buffer and then resuspended in 200 μl PBS wash buffer for analysis.    Samples were analyzed on a BD FACSAria."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5329,
+  "origin_website": "Bio",
+  "title": "Dot Blot Analysis of N<sup>6</sup>-methyladenosine RNA Modification Levels",
+  "procedures": [
+    "mRNA purification   Isolate mRNA from total RNA using the Dynabeads® mRNA Purification Kit following the manufacturer’s instructions. For one dot blot assay, we recommend to purify at least 20 μg of total RNA.     Determine the concentration of purified mRNA with NanoDrop and make a serial dilution of mRNA to 50 ng/μl, 10 ng/μl and 2 ng/μl using RNase-free water.     Dot blotting   Denature the serially diluted mRNA at 95 °C to disrupt secondary structures in a heat block for 3 min.   Chill on ice immediately after denaturation to prevent the re-formation of secondary structures of mRNA.   Drop 2 μl of mRNA directly onto the Hybond-N+ membrane optimized for nucleic acid transfer (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170102/20170102165948_6482.jpg Figure 1. Example of mRNA dots on a membrane     Crosslink spotted mRNA to membrane in a Stratalinker 2400 UV Crosslinker twice using the Autocrosslink mode (1,200 microjoules [x100]; 25-50 sec).   Wash the membrane in 10 ml of wash buffer in a clean washing tray, which is unnecessary to be RNase-free, for 5 min at room temperature with gentle shaking to wash off the unbound mRNA.   Incubate the membrane in 10 ml of blocking buffer for 1 h at room temperature with gentle shaking.   Incubate the membrane with anti-m6A antibody (1:250 dilution; 2 μg/ml) in 10 ml of antibody dilution buffer overnight at 4 °C with gentle shaking.   Wash the membrane three times for 5 min each in 10 ml of wash buffer with gentle shaking.   Incubate the membrane with goat anti-rabbit IgG-HRP (1:10,000 dilution; 20 ng/ml) in 10 ml of antibody dilution buffer for 1 h at room temperature with gentle shaking.   Wash the membrane four times for 10 min each in 10 ml of wash buffer with gentle shaking.",
+    "Incubate the membrane with 3 ml of ECL Western Blotting Substrate for 5 min in darkness at room temperature. Please note that the volume of ECL solution added is dependent on the size of the membrane. According to the manufacturer’s instructions, 0.125 ml ECL solution per cm2 of the membrane is recommended.   Wrap the membrane in plastic wrap and expose with Hyperfilm ECL for a proper exposure period.   Develop the film."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

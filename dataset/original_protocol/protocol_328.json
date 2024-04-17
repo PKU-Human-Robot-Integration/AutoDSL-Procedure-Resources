@@ -1,0 +1,14 @@
+{
+  "id": 350,
+  "origin_website": "Nature",
+  "title": "Preparation of a holidic medium for Drosophila melanogaster",
+  "procedures": [
+    "IN ADVANCE: \n1. purchase iungredients according to order sheet \\(Table 1)\n  2. prepare each of the stock solutions using the qauntities and according to the directions shown in Table 2, Table 3 and Table 4\n  \nMEDIA\nPreparation of the medium is performed in two stages.\n\\(also see Table 5: example working recipes)\nI. before autoclaving\n1. in a 1l, autoclave-proof, glass bottle, mark on the side the level of the target pre-autoclave volume \\(=1 litre minus the sum of the ingredients to be added after autoclaving)\n  2. add magnetic stirrer flea to bottle\n  3. to milliQ water, add sucrose and low solubility amino acids \\(L, I, Y)\n  4. add stock solutions for buffer base and metal ions\n  5. stir well \\(may not fully dissolve at this stage)\n  6. add cholesterol stock solution \\(solution will turn cloudy)\n  7. add agar\n  \nII. autoclave at 120 °C for 15 min\n\\(at the same time, autoclave dispensing tubing and any glass vials or bottles to house the medium)\nIII.\n\\(all steps with constant stirring)\n1. allow solution to cool at room temperature with stirring to ~65 °C\n  2. add sterile stock solutions in order: amino acids,  nucleosides/choline/inositol mix, vitamins and preservatives\n  3. using sterile tubing, dispense the solution into sterile vials\n  4. cover the vials and allow to cool for 90 min at room temperature\n  5. stored at 4 °C until use"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

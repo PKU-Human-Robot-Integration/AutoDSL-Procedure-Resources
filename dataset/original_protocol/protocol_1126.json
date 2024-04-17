@@ -1,0 +1,17 @@
+{
+  "id": 1202,
+  "origin_website": "Nature",
+  "title": "<p>Classification of primary Glioblastoma cell lines into molecular subtypes</p>",
+  "procedures": [
+    "<p>Before the start: we performed total RNA extraction in quadruplicate from HuTU cell colture and total RNA was then used for Affymetrix Microarray profiling on HG-U133 Plus 2.0 arrays (Affymetrix), as detailed for other cancer cell lines in Azzolin et al, 2012<sup>4</sup>.</p><p>Then, we proceeded as follows:</p><p>1) Probe level signals were converted to expression values using robust multi-array average procedure <sup>5</sup> (RMA) of Bioconductor <em>affy</em> package and a custom CDF for Affymetrix HG-U133Plus2 arrays based on Entrez genes (hgu133plus2hsentrezgcdf version 21.0.0; http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/21.0.0/entrezg.asp).</p><p>2) We then compared the transcriptome of these cells with those of the TCGA primary GBMs. Specifically, we used the gene expression data and molecular subtypes of the TCGA tumors to train the R version of the ClaNC (Classification to Nearest Centroids<sup>6</sup>) classifier implemented in the <em>clanc.R</em> function (https://github.com/naikai/sake/blob/master/R/clanc.R). The ClaNC classifier correctly classified 89.1%, 83%, 89.41%, and 86.71 of TCGA Classical, Proneural, Neural, and Mesenchymal samples using 1016 selected genes (centroids; Supplementary Table 1). Then, we merged HuTu and TCGA expression matrixes retaining the set of common gene symbols and removing batch effects with the <em>ComBat</em> function<sup>8</sup> of the Bioconductor <em>sva</em> package.</p><p>3) Finally, we clustered the samples of the merged HuTu and TCGA data using the set of 1016 centroid genes. The supervised clustering grouped HuTu10 samples in the cluster enriched in Proneural TCGA samples, and HuTu13 in the group enriched in Mesenchymal. Hierarchical clustering was performed using the function <em>hclust</em> of R <em>stats</em> package with Pearson correlation as distance metric and average agglomeration method. All analyses were performed in R 3.5.0.</p>"
+  ],
+  "subjectAreas": [
+    "Cancer",
+    "Cell Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

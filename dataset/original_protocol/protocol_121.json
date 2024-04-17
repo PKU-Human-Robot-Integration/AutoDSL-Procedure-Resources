@@ -1,0 +1,15 @@
+{
+  "id": 125,
+  "origin_website": "Nature",
+  "title": "Voluntary oral administration of drugs in mice",
+  "procedures": [
+    "**Jelly-dosing training TIMING: 4 days, 1-2 hours for the first day, 10-20 min per day for following 3 days**\n1. Make the vehicle jelly \\(see “reagent setup”).\n  2. Fast singly housed mice over night. We remove food from the hopper at 5pm. \n  3. Next morning between 8:30 to 9:00 am, scoop out vehicle jelly from the well with micro spatula and cut into equal 8 pieces. Open mouse cage and place 1 piece of jelly on the cage floor then put lid back on. Wait till mouse finishes the jelly then re-feed the mouse. CRITICAL: Leave the mouse as un-disturbed as possible. TIMING: Takes 15-30min for mice eat the jelly for the first time. ? TROUBLESHOOTING\n  4. Give 1 piece of vehicle jelly to each mouse in the morning of the following 3 days without fasting them the night before. If the drug will be given at a particular time of the day rather than in the morning, place the piece of vehicle jelly on the cage floor at that time instead of the morning. If the drug will be given multiple times of the day, give the piece of vehicle jelly to mice at those times. PAUSE POINT: In our experience, once being trained and have overcome the initial innate avoidance for the novel stimuli, i.e. jelly, mice maintain the interest to the jelly even after jelly has been absent for a few weeks \\(3 weeks are the longest break occurred in our studies).\n  **For drug treatment study**\n5. Make vehicle and drug jellies \\(see “reagent setup”). We make fresh vehicle and drug jellies \\(Rimonabant) every 2-3 days.",
+    "6. Give about 1/8<sup>th</sup> of vehicle jelly or treatment jelly to mice in the control or treatment group respectively. The timing, frequency and length of treatment depend on study protocol. TIMING: Each treatment may take 10-20 min depending on the number of mice under study. For 12 mice, each treatment takes about 10 min. ? TROUBLESHOOTING\n  **For oral glucose tolerance test**\n5 Prepare the glucose jelly the day before the test day.\n6 On the day of oral glucose tolerance test, calculate the amount of the glucose jelly each mouse needs to receive based on its body weights as described in “Reagent setup – Glucose jelly dosage” section. Give the glucose piece jelly to corresponding mouse. CRITICAL: The 0 time point in the oral glucose tolerance test is when the mouse finishes the entire piece of glucose jelly in a single attempt that takes about 1 minute after jelly presentation."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

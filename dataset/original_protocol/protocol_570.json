@@ -1,0 +1,16 @@
+{
+  "id": 606,
+  "origin_website": "Nature",
+  "title": "Enrichment of extracellular vesicles from serum or plasma via ultracentrifugation",
+  "procedures": [
+    "1. For each replicate, start with 1 ml serum or plasma.\n  2. Bring up volume to fill ultracentrifuge tube with PBS.\n  3. Centrifuge for 90 min at 100,000 x g at 4°C.\n  4. Discard supernatant and resuspend pellet in PBS to fill ultracentrifuge tube.\n  5. Centrifuge for 70 min at 100,000 x g at 4°C.\n  6. Discard supernatant.\n  7. Proceed to miRNeasy RNA isolation by adding 1 mL Qiazol to pellet."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

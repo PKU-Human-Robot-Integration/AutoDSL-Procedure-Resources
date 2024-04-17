@@ -1,0 +1,16 @@
+{
+  "id": 4936,
+  "origin_website": "Bio",
+  "title": "LC/MS-based Detection of Hydroxyproline <em>O</em>-galactosyltransferase Activity",
+  "procedures": [
+    "Preparation of Arabidopsis microsomal membranes Arabidopsis T-87 cells are maintained on a 1-week culture interval under continuous darkness at 22 °C with shaking at 120 rpm. Suspend 1-week-old Arabidopsis T-87 cell (50 g fresh weight) in 20 ml Extraction buffer.Cool off to 4 °C on ice.Homogenize at 20,000 rpm for 5 min at 4 °C in a Waring blender.Cool off to 4 °C on ice.Filter the slurry through two layers of Miracloth.Centrifuge the filtrate at 3,000 x g for 15 min at 4 °C.Centrifuge the supernatant at 100,000 x g for 30 min at 4 °C.Suspend the pellet (microsomal membranes: approximately 150 μg/μl) in 500 μl Suspension buffer by gentle pipetting.Determine the protein concentration by conventional Bradford assay according to the manufacturer’s protocol (Bio-Rad Protein Assay).Hyp O-galactosyltransferase activity assaySet up 20 μl HPGT assay reactions in 0.5 ml microcentrifuge tube as follows. table:\n﻿0,1\nHPGT assay components,Amount per reaction\n1 M MOPS-KOH (pH 7.0),2 μl\n2 mM UDP-α-D-galactose,5 μl\n10 mM MnCl2,2 μl\n10% TX-100,2 μl\n2 mM substrate peptide,1 μl\nArabidopsis T-87 microsomal membranes,30 μg protein equivalent\nWaterTotal,20 μl",
+    "Incubate at 30 °C, 1 h.Add 2 μl 1% formic acid to stop reaction.Add 80 μl acetonitrile.Centrifuge at 20,000 x g for 5 min.LC/MS analysis 10 μl aliquots of the assay solution were analyzed by LC-MS using a micro HPLC (high pressure liquid chromatography) system connected to an LCQ Deca XP-plus ESI ion-trap mass spectrometer. Chromatographic separation is performed by normal-phase HPLC on a TSK-gel Amide-80 (3 μm) column (2 x 150 mm).The mobile phase is composed of HPLC grade water containing 0.1% formic acid (eluent A) and HPLC grade acetonitrile containing 0.1% formic acid (eluent B). The column temperature is maintained at 25 °C.The HPLC flow rate is 100 μl/min, and the elution gradient was 60 to 30% B over 15 min.The HPLC eluate was introduced into an electrospray ionization (ESI) ion-trap mass spectrometer in the positive ionization mode.MS source parameters are as follows [e.g., (OAOSOT)3S peptide]:Capillary temperature: 200 °CCapillary voltage: 42 VSource voltage: 5 kVSource current: 8.5 μASheath gas flow: 50Aux gas flow: 0Sweep gas flow: 0The mass range: m/z 500-2,000The mass spectra are obtained by selected ion monitoring. [e.g., (OAOSOT)3S: m/z 951.1, Galactosylated product: m/z 1032.2] (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160119/20160119190233_4731.jpgFigure 2. Selected ion chromatogram of substrate peptide and the galactosylated product. Substrate peptide was incubated with solubilized membrane fractions in the presence of UDP-α-D-galactose, then analyzed by LC-MS with selected ion monitoring of the substrate (m/z 951.1) and the galactosylated product (m/z 1032.2)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

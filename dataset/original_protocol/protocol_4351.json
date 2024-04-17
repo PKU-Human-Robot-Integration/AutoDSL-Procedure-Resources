@@ -1,0 +1,17 @@
+{
+  "id": 4569,
+  "origin_website": "Bio",
+  "title": "Antibody Purification from Western Blotting",
+  "procedures": [
+    "Load 1-10 mg purified antigen protein into appropriate SDS-PAGE gel. Note 1: High amount of antigen protein is essential to retrieve antibody in high purity and yield. To load as much protein into the gel as possible:   Use wide comb (vendors normally have comb with only two wells: one well is in regular size for marker, the other well takes the rest of the space).    Insoluble protein can be purified under denaturing conditions.   Even for soluble protein, higher yield can be achieved by eluting directly from the purification beads by SDS loading buffer.    Note 2: If your protein has a big tag such as GST, MBP, NusA, you should always run a preclearance of antibody against these tags from the serum with blot containing these tag proteins.    Transfer to PVDF or Nitrocellulose membrane (note, if your protein size is small, choose 0.2 μm pore size rather than 0.45 μm).   Stain the membrane with Ponceau S solution and cut the strip containing your antigen protein as small as possible.    Pre-elute the membrane with 100 mM glycine (pH 2.5) for 10 min. Rinse with TBST.    Block with 5% non-fat milk in TBST for 1 h at room temperature (RT).    Rinse with TBST three times.    Incubate the 5-10 ml antiserum overnight at 4 °C. Depending on the membrane size.   Wash with TBST three times.    Elute the antibody by incubating the membrane with 1-2 ml 100 mM Glycine (pH 2.5) for 2 min.    While incubating, add 75 μl-100 μl 2 M Tris-HCl (pH 8.5) to tubes. The volume should allow a final concentration of 150 μM Tris after step 11.    After 2 min, add 1-2 ml of the eluted antibody in glycine from step 9 to the tubes from step 10. The Tris (pH 8.5) should neutralize the acidic glycine.",
+    "Repeat step 9-11 for three times.    Dialyze the fractions against PBS (pH 7.4) and determine antibody concentration as your regular protein work.   Test the antibody with western, immunoprecipitation and immunofluorescence."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

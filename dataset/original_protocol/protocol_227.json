@@ -1,0 +1,17 @@
+{
+  "id": 239,
+  "origin_website": "Nature",
+  "title": "Procedure for reductive methylation of protein to improve crystallizability",
+  "procedures": [
+    "1. Pipette out 1ml of 10mg ml<sup>-1</sup> protein sample \\(critical in PBS and pure and homogeneous) each in two 1.5ml eppendorf tubes. \n  2. Cover the tubes with aluminum foil. Label one tube as &#x201C;control&#x201D;. Do not add any chemicals to this tube. Label &#x201C;methylated&#x201D; on the other tube. \n  3. Add 20&#x3BC;l of 1M DMAB solution followed by 40&#x3BC;L of 1M formaldehyde solution to the &#x201C;methylated&#x201D; tube. \n  4. Shake both the tubes \\(&#x201C;control&#x201D; and &#x201C;methylated&#x201D;) at 4 &#xB0;C in dark on a gel shaker maintained at 100 rpm for 2 h. \n  5. Repeat steps 3 and 4 twice. \n  6. Add 10&#x3BC;L of DMAB and incubate for 12 h at 4 &#xB0;C in the dark while shaking.\n  7. Run size exclusion chromatography on &#x201C;control&#x201D; and &#x201C;methylated&#x201D; protein using 20mM Tris, 150mM NaCl, pH8.0 for buffer exchange.\n  8. Concentrate &#x201C;control&#x201D; and &#x201C;methylated&#x201D; protein to ~ 10-15 mg ml<sup>-1</sup> \n  9. Analyze proteins using SDS PAGE and mass spectroscopy.\n  10. Screen control and methylated protein for crystallization under identical conditions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Structural Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

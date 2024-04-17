@@ -1,0 +1,15 @@
+{
+  "id": 4851,
+  "origin_website": "Bio",
+  "title": "Vacuole Structure Analysis during Cell Death Subsequent to Application of <em>Erwinia carotovora</em> Culture Filtrates to Cell Cultures of <em>Nicotiana tabacum</em>",
+  "procedures": [
+    "Preparation of E. carotovora culture filtrateCulture 100 ml of E. carotovora in liquid LB medium in a 300-ml flask at 37 ℃ overnight with rotary shaking at 150 rpm.Check OD600 with a spectrophotometer. The OD600 value should be in the range 0.8-1.0 for appreciable cell death induction.Centrifuge the bacterial cell culture for 10 min at 4,000 x g at room temperature.Collect the supernatant and sterile filter it with a syringe filter.The filtrate can be kept at -80 ℃ in a deep freezer for several months.Application of the filtrate to cell cycle synchronized tobacco culture cellsPrepare the S-phase synchronized transgenic BY-2 cells expressing GFP-VAM3 by DNA polymerase inhibitor (aphidicolin) treatment and wash out with fresh modified LS medium (Nagata and Kumagai, 1999; Kumagai-Sano et al., 2006).Just after the washout, place 30 ml of the synchronized culture cells in a 100-ml flask on a rotary shaker culture at 27 ℃ for 30 min at 130 rpm.Add 1.6 ml of the cell cycle synchronized culture into a well of the 12-well plate.Add 0.4 ml of the E. carotovora culture filtrate into the cell culture well [final concentration: 20% (v/v)].Culture the treated cells on a rotary shaker in an incubator at 27 ℃ for two hours.Collect 150 μl of the cells into a microscope glass dish base for observation.Place the dish on the stage of the confocal laser scanning microscope.Acquire time-lapse images of GFP-VAM3 at 5-min intervals with 488 nm excitation lasers and 524-546 nm emission filters according to the microscope manufacturer’s instructions. See Figure 1 for representative results."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

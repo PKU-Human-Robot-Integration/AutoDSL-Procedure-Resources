@@ -1,0 +1,16 @@
+{
+  "id": 490,
+  "origin_website": "Nature",
+  "title": "Estimation of exposure to dietary acrylamide based on mercapturic acid levels in urine \\(LC-MS)",
+  "procedures": [
+    "The samples were prepared according to Boettcher and Angerer \\(2). We describe here how to prepare urine samples to LC-MS/MS.\n1. Thaw urine samples to room temperature and then mix them \\(257 rpm, 5 min).\n  2. 4 ml of urine withdrawn from each sample and add 30 μl of the mixture of d3- and d4-internal standard solutions \\(10 mg/L).\n  3. The samples were vortex-mixed and centrifuged \\(3000 rpm, 10 min).\n  4. Purifying on SPE columns:\n   Conditioning the column with methanol \\(4 ml), water \\(2 ml) and diluted formic acid \\(2 ml). \n Add 7.5 ml of supernatant of the centrifugated sample solution.\n Wash the column with diluted formic acid \\(2 ml) and 10% methanol in formic acid \\(0.8 ml).\n Elute with 1% formic acid in methanol \\(1.7 ml). \n5. Evaporate to dryness.\n  6. Residue reconstitute in 0.5 ml 0.1 formic acid. \n  7. 10 microlitres of this solution inject into LC-MS/MS system.\n  \nLC conditions:\n flow rate – 1 mL/min, \n mobile phase \\(A : B – 96 : 4) \n column temperature – 40°C, \n runtime – 1.5 min. \nMS/MS conditions:\n MRM mode,\n curtain gas – nitrogen \\(CUR = 30), \n ion source temperature – 6000C, \n electrospray capillary voltage \\(IS) – - 4.500 V, \n dwell-time – 50 ms,\n collision energy \\(CE):  \na) CE = - 22 for m/z 233/ 104 \\(AAMA) and for m/z 236.9 / 108 \\(d4-AAMA), \nb) CE = - 54 for m/z 233 / 58 \\(AAMA),\nc) CE = - 24 for m/z 248.9 / 120.1 \\(GAMA) and for m/z 252/ 119.9 \\(d3-GAMA),\nd) CE = - 18 for m/z 248.9/ 127.9 \\(GAMA).\n Monitored ions:",
+    "a) for the purposes of quantitative determination of AAMA and GAMA levels in the urine: m/z 233  104 \\(AAMA), m/z 236.9 /108 \\(d4-AAMA), m/z 248.9 / 120.1 \\(GAMA) and m/z 252/ 119.9 \\(d3-GAMA),\nb) for the purposes of verification of the results obtained:  while m/z 233/ 58 \\(AAMA) and m/z 248.9 / 127.9 \\(GAMA) \\(fig. 1)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

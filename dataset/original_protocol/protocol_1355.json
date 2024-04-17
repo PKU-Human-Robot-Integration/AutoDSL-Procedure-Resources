@@ -1,0 +1,17 @@
+{
+  "id": 1451,
+  "origin_website": "Nature",
+  "title": "<p>Urothelial organoids originate from mouse cells display differentiation capacity</p>",
+  "procedures": [
+    "<p>1. Mouse bladder is accessed and turned inside-out leaving the urothelial surface exposed.</p><p>2. The urothelium is enzymatically digested with collagenase P in Hank's Balanced Salt Solution (HBSS) in a thermoblock with gentle shaking at 37 ºC for 20 min.</p><p>3.Collagenase P is inactivated with 2mM EDTA and 50% FBS.</p><p>4. The cell suspension is collected and a scrapper is used to extract the remaining cells on the urothelium.</p><p>5. After filtration through a 70μm strainer and centrifugation at 1200rpm for 5min at 4 ºC, the pellet is cleaned 2 times with washing medium (Advanced DMEM F12 medium + HEPES + GlutaMAX) and cells are embedded in 100% growth factor-reduced and phenol red-free Matrigel.</p><p>6. Matrigel-cell suspensions (20 μL drops) are plated onto 6-well plates, allowed to settle in a humidified incubator at 37 ºC, 5% CO<sub>2</sub>, and overlaid with 2 mL complete medium (CM) (Advanced DMEM/F12, 1x penicillin/streptomycin, HEPES, GlutaMAX, WNT3A conditioned medium, RSPO1 conditioned medium, N2, B27, recombinant human EGF, N-acetylcysteine, recombinant human Noggin and LY-2157299).</p><p>7. Medium is replaced every 2-3 days and cultures are usually expanded at a 1:4-1:6 ratio every 7-10 days.</p><p>8. For organoids maintenance, medium is aspirated from the wells and washed once with PBS.</p><p>9. Then, Cell Recovery Solution is added to the wells and plates placed on ice for 5 min.</p><p>10. Matrigel and cells are collected and transferred to a tube for 30 min on ice.</p><p>11. Cell suspension is washed with PBS, then with washing medium, and centrifuged at 1200 rpm for 5 min at 4 ºC.</p><p>12.Next, organoids are chemically digested with Dispase II solution at room temperature for 15-20 min in a rotating wheel.</p><p>13. Next, the reaction is neutralized with 2 mM EDTA.</p><p>14. Single cells are obtained by mechanical disruption of the organoids with a 21G needle syringe until no macroscopically floating organoids were observed.</p><p>15.",
+    "After cleaning the pellet twice with washing medium, cells are embedded in fresh ice-cold 100% Matrigel, seeded in 7 drops of 20uL each per 6-well plate, and covered with 2 mL CM unless otherwise specified.</p><p>16. For differentiation experiments, NMU-o are cultured for the first 7 days in CM, reseeded (without disaggregation) in fresh Matrigel, and cultured with either CM or differentiation medium (DM) (lacking WNT3A and RSPO-1 conditioned medium, EGF, LY-2157299 and Noggin) for the following 7 days.<strong> </strong></p><p>17. All experiments can are performed without cell sorting based on EpCAM expression, using low-passage cultures (&lt;10).</p><p>18. In order to cryopreserve the organoids, Matrigel is removed from 7-day cultures with Cell Recovery Solution as previously described and are resuspended in freezing medium (10% DMSO in Advanced DMEM/F12 supplemented with Y-27632) at a density equivalent to 3 confluent drops/500mL.</p><p>19. Cryovials are stored at -80 ºC.</p><p>20. For thawing, vials are placed in a 37 ºC water bath and the contents washed twice with Advanced DMEM/F12 before reseeding in Matrigel at the required density.</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

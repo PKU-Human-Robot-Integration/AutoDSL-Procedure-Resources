@@ -1,0 +1,16 @@
+{
+  "id": 8228,
+  "origin_website": "Bio",
+  "title": "LDH-A Enzyme Assay",
+  "procedures": [
+    "Prepare LDH-A protein. You could ectopically overexpress and purify it from E. coli, or ectopically express Flag-LDH-A plasmid in 293T cells, followed by immunoprecipitation by Flag-beads and eluted using Flag peptide.    293T cells were cultured in DMEM + 10% NCS, in 5% CO2 incubator at 37 °C. Cell transfection was performed using Lipofectamine 2000 or calcium phosphate methods. 2 μg plasmids was transfected into 90 mm plate of 293T cells. And cells were cultured for 30 hours after transfection.    Cells ectopically expressed Flag-LDH-A were lysated by 0.3% NP-40 buffer (lysis buffer) with protein degradation inhibitors by shaking gentally at 4 °C for half an hour.   Cell lysate was centrifuged 4 °C for 15 min (16,000 x g) and the supernatant was incubated with 10 μl (per 90 mm plate of 293T cells) Flag-beads for 3 hours at 4 °C by rotation slowly.   And then flag-beads were washed and centrifuged at 4 °C for 1 min (400 x g) by 1 ml 0.3% NP-40 buffer for 3 times, and incubated with 250 μg/ml of flag peptide (200 μl per 90 mm plate of 293T cells) shaking for one hour, followed by centrifuge at 16,000 x g for 5 min. The supernatant was used for enzyme activity detection.   Prepare the reaction buffer containing 0.2 M Tris-HCl (pH 7.3), 30 mM pyruvate and 6.6 mM NADH.   For every reaction, 10 μl LDH-A enzyme solution and 290 μl reaction buffer are added into the measuring cup of F-4600 Fluorescence Spectrophotometer, and detect the fluorescence change in absorbance (340 nm) resulting from NADH oxidation at room temperature.  Note: The reaction system could be adjusted according to your LDH-A solution concentration. And the reaction is very quick, please detect the change as soon as possible.",
+    "After a reaction, the software will show the slope of fluorescence change, and this value is the speed of this reaction."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

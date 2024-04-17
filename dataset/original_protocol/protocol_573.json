@@ -1,0 +1,18 @@
+{
+  "id": 609,
+  "origin_website": "Nature",
+  "title": "Isolation of extracellular vesicles and RNA using the miRcury Biofluids Kit",
+  "procedures": [
+    "1. Add 80 mL of 100% ethanol to **Wash Solution 2 BF**.\n  2.  Prepare rDNase by adding 3 mL **Reaction Buffer for rDNase** to the rDNase vial. Incubate at room temperature for 1 minute. Swirl gently to dissolve – do NOT vortex. Aliquot and store at -20°C.\n  3. Transfer 200 µl of biofluid into a 1.5 ml microfuge tube.\n  4. Add 60 µl **Lysis Solution BF**.\n  5. Vortex for 5 seconds.\n  6. Incubate for 3 minutes at room temperature.\n  7. Add 20 μl of **Protein Precipitation Solution BF**.\n  8. Vortex for 5 seconds.\n  9.  Incubate for 1 minute at room temperature.\n  10. Centrifuge sample for 3 min at 11,000 x g at room temperature.\n  11. Transfer the clear supernatant to a new microcentrifuge tube. \n  12. Add 270 μl isopropanol.\n  13. Vortex for 5 seconds.\n  14. Assemble the **microRNA Spin Column BF** and load sample onto column.\n  15. Incubate 2 minutes at room temperature.\n  16.  Spin for 30 seconds at 11,000 x g. Discard flow-through.\n  17. Add 700 μl **Wash Solution 2 BF**. \n  18. Spin for 30 seconds at 11,000 x g. Discard flow-through.\n  19. Add 250 μl **Wash Solution 2 BF**.\n  20. Spin for 2 minutes at 11,000 x g.\n  21. Add 50 μl rDNAse directly onto the membrane of the spin column.\n  22. Incubate for 15 minutes at room temperature.\n  23. Add 100 μl **Wash Solution 1 BF**. \n  24.  Spin for 30 seconds at 11,000 x g. Discard flow-through.\n  25. Add 700 μl **Wash Solution 2 BF**.\n  26.  Spin for 30 seconds at 11,000 x g. Discard flow-through.\n  27. Add 250 μl **Wash Solution 2 BF**. \n  28.  Spin for 2 minutes at 11,000 x g. Transfer spin column to fresh microfuge tube.\n  29. Add 50 μl water directly onto the membrane of the spin column.",
+    "30.  Incubate for 1 minute at room temperature.\n  31. Spin for 1 minute at 11,000 x g."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

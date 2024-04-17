@@ -1,0 +1,15 @@
+{
+  "id": 352,
+  "origin_website": "Nature",
+  "title": "_In vitro_ human Th17 development",
+  "procedures": [
+    "1. Human PBMC were isolated from buffy coats of healthy donors by Ficoll hypaque density centrifugation.\n  2. Total CD4+ T cells were isolated using the CD4+ T cell Isolation Kit II from Miltenyi Biotec: \n  - Total PBMC were resuspended in 40&#xB5;l of MACS buffer \\(PBS 0.5% BSA 2mM EDTA) per 10 cells, and incubated with 10 &#xB5;l of Biotin-Antibody cocktail per 10 cells for 10 min at 4&#xB0;C. \n-. Subsequently, 30 &#xB5;l of MACS buffer per 10 cells was added, and cells were incubated with 20 &#xB5;l of Anti-Biotin Microbeads per 10 cells for 15 min at 4&#xB0;C. \n- Cells were washed with MACS buffer and resuspended up to 10 cells in 500&#xB5;l of MACS buffer.\n- CD4+ T cells were sorted by two rounds of magnetic depletion on the AutoMACS \\(program Deplete S).\n3. CD4+ T cells \\(negative fraction) were washed with MACS buffer and resuspended in 80&#xB5;l of MACS buffer per 10 cells. Then, 20&#xB5;l of CD45RO microbeads per 10 cells was added for 15 min at 4&#xB0;C. Na&#xEF;ve CD45RO- T cells were isolated by two rounds of depletion on the AutoMACS \\(as in step 2.).\n  4. Na&#xEF;ve CD4+ CD45RO- T cells were cultured at 1 &#xD7; 10 cells/well in 96-well flat-bottom plates or 5 &#xD7; 10 cells/well in 24-well plates \\(Falcon) for 5-6 days in Yssel&#x2019;s medium containing 1% human AB serum \\(Gemini Bio Products) with the appropriate cytokines and beads coated with anti-CD3, anti-CD28, and anti-CD2 antibodies \\(T Cell Activation/Expansion Kit, Miltenyi Biotec) \\(1 bead/10 cells).\n  5. After 5-6 days, cells were collected, counted, washed and cultured at 1 &#xD7; 10 cells/well in 96-well flat-bottom plates or 5 &#xD7; 10 cells/well in 24-well plates for an additional period of 5-6 days in the presence of the indicated cytokines and IL-2.",
+    "6. After 10-12 days of culture, cells were counted and stimulated at 5 &#xD7; 10 cells/ml with anti-CD3, anti-CD28, and anti-CD2 antibodies in the presence of IL-2 for 24 h to analyze gene expression or 48 h to assess cytokine level in cell-free supernatants."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

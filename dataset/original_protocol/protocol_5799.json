@@ -1,0 +1,15 @@
+{
+  "id": 6145,
+  "origin_website": "Bio",
+  "title": "Increasing the Membrane Permeability of a Fern with DMSO",
+  "procedures": [
+    "Performing the permeability test in 1.5 ml microcentrifuge tubesAdd 1 ml PI-DMSO solution (Recipe 3) and PI-H2O control (Recipe 2) into different 1.5 ml microcentrifuge tubes. Put freshly obtained, similar size about 1 cm of pinnae into the tubes. Incubate at room temperature. After 5 min, 30 min, 2 h, and 5 h take out the pinnae, rinse briefly in distilled water to remove residual PI, and then mount on slides to observe fluorescence under Confocal microscope.Confocal microscopyObserve the Intracellular PI fluorescence under a Fluoview FV1000 confocal laser scanning Biological Microscope (Olympus, Japan). The software FV10ASW v.2.0c and ImageJ 2.0.0-rc-41/1.50d are used to capture the images and construct Z projections. Detect chlorophyll autofluorescence using excitation and emission wavelengths of 488 nm and 687 nm, respectively, PI using excitation and emission wavelengths of 538 and 619 nm, respectively.We found that after 30 min of incubation, the PI had entered the cells (Figure 1). Images were obtained from three samples.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180614/20180614210555_7188.jpgFigure 1. Permeability test for Hymenophyllum caudiculatum fronds. Hymenophyllum caudiculatum fronds were incubated with 0.1% DMSO or distilled water (control) with 1.5 mM PI. Fluorescence of the chlorophyll (left panel) or PI (right panel) is observed. The same field of view was recorded at different wavelengths."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

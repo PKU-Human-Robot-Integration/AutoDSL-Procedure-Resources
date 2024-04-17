@@ -1,0 +1,15 @@
+{
+  "id": 4485,
+  "origin_website": "Bio",
+  "title": "Dimethylmethylene Blue Assay (DMMB)",
+  "procedures": [
+    "Prepare DMMB reagent and paper filter using Whattman® 3MM. The pH of this solution is around 3.0. To prepare 1 L dye solution, dissolve 16 mg DMMB in 1 L water containing 3.04 g glycine, 1.6 g NaCl and 95 ml of 0.1 M Acetic Acid.   Prepare standard solution of chondroitin 4 sulfate (500 µg/ml in H2O). Prepare standard curve as stated in the table bellow.   Pipet the standard stock solution and complete the volume to 20 µl with H2O into the 96 well microplate.   Pipet 20 µl of each sample into the microplate.   Add 200 µl of DMMB to each sample and shake the plate of a plate shaker for 5 sec.   Read the absorbance using a plate reader at 525 nm immediately.  table:\n﻿0,1,2,3\nStd (µg/ml),Vol (µl) of 500 µg/ml std,vol H2O (µl),vol DMMB (µl)\n0,0,20,200\n1.25,2.5,17.5,200\n2.5,5,15,200\n5,10,10,200\n7.5,15,5,200\n10,20,0,200"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

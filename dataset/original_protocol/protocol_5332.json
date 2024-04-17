@@ -1,0 +1,16 @@
+{
+  "id": 5662,
+  "origin_website": "Bio",
+  "title": "Rice Lamina Joint Inclination Assay",
+  "procedures": [
+    "Seedling preparation for lamina inclinationSurface sterilize rice seedsRemove the lemma and palea of seeds using a rice husker (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170714/20170714222617_7521.jpgFigure 1. Rice husker usedPut 50-60 naked seeds into a 50 ml SuperClear centrifuge tube and sterilize the surface of the seeds with 30 ml of 70% ethanol for 1 min and vigorously shake by hand.Rinse the seeds with 30 ml sterile water and pour off the dirty liquid.Add 30 ml of 2% sodium hypochlorite solution (see Recipes) and place the tube in an ultrasonic cleaner for 20 min.Discard the sodium hypochlorite solution and wash the seeds with 30 ml sterile water in the clean bench. We usually repeat the washing process 10-15 times.Place the seeds on autoclaved filter paper to dry and then transfer 20 seeds into a beaker containing MS media (see Recipes) using sterile forceps in the clean bench.Germinate the sterilized seeds inside a growth chamber under long days (16 h light) at 28 °C for 8 days.Sample uniform seedlings (based on similar height in each genotype) by excising approximately 2 cm segments (Figure 2) containing the second-leaf lamina joint, leaf blade and leaf sheath and float excised samples on sterile water for 10 min before transferring them to BL solution.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170714/20170714222714_7599.jpgFigure 2. Eight-day-old rice seedlings for lamina inclination assay. WT (Hwayoung cultivar) and osbul1 mutant rice were grown in beakers containing MS media (left). Leaf segments containing the second-leaf lamina joint of rice seedlings are marked by boxes outlined with dotted lines, which were used for lamina inclination assay.Exogenous BL treatmentPut 20 ml of each test BL solution at designated concentrations (0 M, 10-6 M, 10-7 M, 10-8 M and 10-9 M in water) in 90 x 15 mm Petri dishes. The solution should be prepared immediately before use.",
+    "Float leaf lamina segments on BL solution (see Recipes) (0 M, 10-6 M, 10-7 M, 10-8 M and 10-9 M) in an incubator at 29 °C in the dark for 2 days (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170714/20170714223141_9811.jpgFigure 3. BR-induced lamina joint inclination in WT (Hwayoung cultivar) and OsBUL1 knock-out mutant (osbul1) rice. The photo was taken after BL (10-6 M) treatment for 2 days.After 2 days, take sample photos with a digital camera, print them and measure the angle induced between the lamina and the sheath (degree of angle of leaf blade against the axis of leaf sheath) with a protractor (Figure 4).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170714/20170714223359_3261.jpgFigure 4. Measurement of lamina angles. A. Measuring the lamina angle with a protractor; B. Representative leaf segments containing lamina joint, blade and sheath from WT (Hwayoung cultivar) and OsBUL1 KO (osbul1) plants after incubation for 48 h in the BL solution at different concentrations. C. Reduced leaf angles of OsBUL1 dsRNAi line (#2) compared to WT (TNG67 cultivar) in 0 M, 10-8 M and 10-6 M BL solution (*P < 0.001)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

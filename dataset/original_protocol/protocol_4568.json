@@ -1,0 +1,15 @@
+{
+  "id": 4818,
+  "origin_website": "Bio",
+  "title": "Spot Assay for Yeast",
+  "procedures": [
+    "Start cultures from a 2 day old plate. Use pipette tip to pick up strains and resuspend them in 1.5 ml YES medium or water. Vortex and transfer 1 ml to another microfuge tube. Test OD600 for an accurate reading, the OD should be between 0.1 and 0.5.Dilute the rest of the suspension to 16 OD600, around 1.6 x 106 cells per ml, 1,600 cells per μl. That is 4,800 or 5,000 cells per 3 μl. Spot 3 μl cells on each position.If using OmniTray, start with the 1st column (8 wells in each column). Do 5 fold serial dilution from the 1st to 5th column. Leave the 6th column empty. Transfer another 8 strains culture into the 7th column and do another 5 fold dilution.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141027/20141027190615_0573.jpg"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

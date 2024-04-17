@@ -1,0 +1,15 @@
+{
+  "id": 1160,
+  "origin_website": "Nature",
+  "title": "<p>A systematic evaluation of the design, orientation, and sequence context dependencies of massively parallel reporter assays</p>",
+  "procedures": [
+    "<p>1.&nbsp;&nbsp;&nbsp;&nbsp;All libraries were amplified off the array using the corresponding group specific primers in Supplemental Table 1 with KAPA HiFi HotStart Uracil+ ReadyMix PCR Kit (Kapa Biosystems).</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;During the first round of assembly, fragments A and B were assembled with HSSF-ATGC (5′-TCTAGAGCATGCACCGGATGC-3′) and DO_31R_PU (5'-CCA/ideoxyU/GACCCT/ideoxyU/ACTGGG/ideoxyU//3deoxyU/-3') and fragments C and D were assembled with DO_8F_PU (5'-GCGACG/ideoxyU/CATGC/ideoxyU/GTTG/ideoxyU//3deoxyU/-3') and HSS_R (5'-CTTATCATGTCTGCTCGAAGC-3').</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Assembled libraries were then purified with a 0.65x Ampure cleanup following the manufacturer’s protocol, and eluted in 20 µl.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;2 µl of USER enzyme (NEB) was added to the purified assembly reactions and incubated at 37 °C for 15 minutes followed by 15 minutes at room temperature, and then repaired using the NEBNext End Repair Module (NEB), following the manufacturer’s protocol, and purified using the DNA Clean and Concentrator 5 (Zymo Research) and eluted in 10 µL EB.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;All libraries were then quantified using the Qubit dsDNA HS Assay kit (Thermo Fisher Scientific) and eluted to 0.75 ng/ul.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;Assemblies AB and CD were then assembled together following the multiplex pairwise assembly protocol<a href=\"https://paperpile.com/c/rUVmOk/VLq8\" rel=\"noopener noreferrer\" target=\"_blank\"><sup>27</sup></a><em>. </em></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;After the second assembly, libraries were purified using a 0.6x AMPure cleanup and eluted in 30 µL EB.</p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;We then amplified 1 uL of each assembly with HSS-F-ATGC-pu1F (5'-ACTTTATCAATCTCGCTCCAAACCTCTAGAGCATGCACCGGATGC-3') and HSS-R-clon-pu1R (5'-ACTTTATCAATCTCGCTCCAAACCCCATCATTCTGACCGGC-3') to add flow cell adapters and indexes.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;We performed the assembly for each set of 172 sequences separately, as well as for different combinations of sets, up to all 2,236 sequences at once.</p>"
+  ],
+  "subjectAreas": [
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

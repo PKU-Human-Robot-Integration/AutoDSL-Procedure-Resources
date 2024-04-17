@@ -1,0 +1,15 @@
+{
+  "id": 8205,
+  "origin_website": "Bio",
+  "title": "Pectin Methylesterase Activity Assay for Plant Material",
+  "procedures": [
+    "Plant or seed tissue (Arabidopsis thaliana) is weighed. Use about 100 mg per extraction.   Tissues are ground to a fine powder in liquid nitrogen using a mortar and pestle. The tissue must be kept frozen during grinding.   Twice the fresh weight (w/v) of extraction buffer is added to the powder, and the powder allowed to thaw in the buffer.   Vortex for 10 sec.   Extracts are rotated at 4 °C for 30 min and centrifuged at 11,500 x g at 4 °C for 20 min.    The supernatant is the soluble protein extract. Use fresh supernatants immediately for the PME enzyme assay, as the activity can be affected by freezing.   Four replicates of each sample (10 μl each) are pipetted into microplate wells. For the negative control, use protein extraction buffer only. For a positive control, use a solution of commercially available PME in protein extraction buffer.    Master mix (180 μl) is added to each well and mixed by pipetting up and down. Avoid the formation of bubbles.    To start the reaction, add 10 μl of the pectin solution to the samples, the negative and the positive control, but not to the background controls. Mix well by pipetting up and down.   Immediately put the plate into the microplate reader. If bubbles have formed during the mixing process, shake plate for 5 sec. Record the changes in absorption at 340 nm over 15 min at room temperature.    The change in absorption per unit time over the linear part of the reaction is calculated for each well, and used to calculate the increase in concentration of NADH. The NADH concentration is calculated using Lambert-Beer's law with the extincion coefficient ε340 for NADH (6,220 M-1cm-1). One nkat PME activity is defined as 1 nmol NADH formed per second.    The activities of the triplicates are averaged."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

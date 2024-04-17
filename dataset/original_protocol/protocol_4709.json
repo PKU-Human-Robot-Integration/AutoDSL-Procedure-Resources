@@ -1,0 +1,16 @@
+{
+  "id": 5003,
+  "origin_website": "Bio",
+  "title": "Expression, Purification and Enzymatic Assay of Plant Histone Deacetylases",
+  "procedures": [
+    "Expression and purification of recombinant HDACs in E. coliInsert the protein coding sequence of HDACs (e.g. HDA5) into the vector pGEX-4T-3 as described in Luo et al. (2015).Transform the plasmid into E. coli (BL21) and select on fresh agar plates containing ampicillin (100 µg/ml).Inoculate a single colony of E. coli into 2 ml LB media with rotation overnight at 37 °C.Transfer 2 ml E. coli culture into 250 ml LB media with vigorous aeration at 37 °C and culture until OD600 reached 0.4-0.6. Add a final concentration of 0.1 mM isopropyl-b-D-thiogalactopyranoside (IPTG) into bacteria solution and incubate with vigorous aeration about 6-10 h at 28 °C.Centrifuge the cells at 6,000 x g for 10 min at 4 °C and remove the supernatant. Then resuspend the pellet with 25 ml of cell lysis buffer (1x PBS).Sonicate the resuspended solution for 15 sec with 40% power for 40 times. Between each sonication treatment, place the solution on ice for 1 min.After sonication, apply the soluble cell extract to GST affinity column.Wash unbound proteins from the resin by adding 5 ml x 3 of wash buffer (1x PBS).Elute the bound protein from the resin by adding 4 ml elution buffer.Store the eluted protein at -20 °C.Expression and purification of HDAC in transgenic plantsClone HDAC cDNA (e.g., HDA5) into the pK7WGFP binary vector. Transform the resultant plasmid into GV3101 Agrobacterium strain by electroporation.Introduce the transformed Agrobacterium into Arabidopsis plants by floral dip (Zhang et al., 2006).Select putative transformants on ½ MS media containing kanamycin (50 mg/L). After screening, extract total soluble proteins by plant protein extraction buffer from transgenic plants, then centrifuge at 4 °C and 13,000 x g for 10 min.Transfer the suspension to a fresh Eppendorf tube and centrifuge again at 4 °C and 13,000 x g for 10 min.",
+    "Purify GFP-HDAC recombinant protein by GFP-Trap according to the manufacturer’s instructions. Add 25 µl bead slurry into soluble protein extract.Tumble-end-over-end for 1 h at 4 °C.Magnetically separate beads until supernatant is clear. Discard supernatant and repeat wash twice.Elute bound proteins by adding 50 µl, 0.2 M glycine (pH 2.5).Transfer the supernatant to a fresh Eppendorf tube and add 5 µl 1 M Tris base (pH 10.4) for neutralization.Determine the protein concentration of the purified protein by Bradford assay approach (He, 2011).HDAC enzymatic activity assayPlace 85 µl purified proteins in the 96-well plate, then add 10 µl of 10x HDAC assay buffer and 5 µl of colorimetric substrate to each well and incubate at 37 °C for 1 h. HeLa nuclear extracts (4 µg) were used as positive controls. The HDAC inhibitor TSA was used to demonstrate the specificity of deacetylation activities.Stop the reaction by adding 10 µl of Lys developer and incubate the plate at 37 °C for 30 min. Measure the HDAC activity spectrophotometrically at 405 nm."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

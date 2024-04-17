@@ -1,0 +1,16 @@
+{
+  "id": 7097,
+  "origin_website": "Bio",
+  "title": "Low- and High-resolution Dynamic Analyses for Magnetic Resonance Spectroscopy Data",
+  "procedures": [
+    "Set up the subject in the MRI scanner using a 32-channel head coil.Perform magnetic resonance imaging (MRI) anatomical scan with the following parameters:Whole-brain T1-Magnetization Prepared Rapid Acquisition of Gradient Echoes (MPRAGE, sagittal 3D turbo-fast low angle shot sequence, acquisition matrix 256 × 256, isotropic resolution 1 mm, 176 slices, repetition time (TR) = 2250 ms, echo time (TE) = 3.02 ms, inversion time (TI) = 900 ms, flip angle 9°, acquisition time 5 min 38 s). Parameters were reproduced from Rideaux and Welchman (2019).Perform magnetic resonance spectroscopy (MRS) scan, using the MRI anatomical scan to position the voxel, with the following parameters:MEGA-PRESS sequence (Mescher et al., 1996 and 1998): TE = 68 ms, TR = 3000 ms; 256 transients of 2048 data points, acquisition time 12 min 48 s; 14.28 ms Gaussian editing pulse at 1.9 (ON) and 7.5 (OFF) ppm. Apply water suppression using variable power with optimized relaxation delays (VAPOR; Tkáč and Gruetter, 2005) and outer volume suppression. Position voxel (3 × 3 × 2 cm) medially in the occipital lobe; with the lower face aligned with the cerebellar tentorium and positioned so to avoid including the sagittal sinus and to ensure it remains within the occipital lobe (Figure 1). Perform automated shimming followed by manual shimming to achieve approximately 12 Hz water linewidth.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e3892/bioprotoc-11-02-3892-g001.jpgFigure 1. MRS voxel placement. Screenshot taken from Siemens MRI scanner terminal showing an example of voxel placement (yellow bounding box) in the (A) sagittal, (B) coronal, and (C) axial plane."
+  ],
+  "subjectAreas": [
+    "Systems Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

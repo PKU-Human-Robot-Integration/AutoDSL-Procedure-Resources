@@ -1,0 +1,16 @@
+{
+  "id": 8223,
+  "origin_website": "Bio",
+  "title": "Homologous Recombination Assay ",
+  "procedures": [
+    "Plate 100,000 cells (U2OS or RG37) per 35 mm diameter plate at the end of the afternoon. Cells are cultured in humidified atmosphere in a cell incubator at 37 °C with 5% CO2.   Let attach overnight.   Transfect with siRNA using INTERFERin according to the manufacturer’s instructions. Use 10 nM of siRNA mixed in 200 μl of serum-free medium with 8 μl of INTERFERin.   24 h later, change the medium and transfect with the plasmid coding for I-SceI in order to induce DNA double strand breaks in the GFP copy harboring the I-SceI recognition site. Use 1 μg of plasmid per plate. Transfect using JetPEI according to the manufacturer’s instructions by mixing 1 μg of I-SceI plasmid in 200 μl of NaCl (150 mM) with 2 μl of JetPEI.   In the following morning wash the cells with PBS and change the medium.   Let incubate for 48 h after plasmid transfection.   Harvest cells by trypsin treatment.   Separate cells in two tubes. Use half of the cells to prepare cell extracts by adding Laemmli buffer in order to check siRNA effect and I-SceI expression by Western blotting.   Wash the other half of the cells with PBS.   Resuspend in PBS and analyze by flow cytometry to detect GFP positive cells. GFP positive cells represent the cell population in which the DNA double strand break induced at the I-SceI site has been repaired by homologous recombination. Quantify by examining at least 25,000 events per condition. Note: First, as a negative control use cells not transfected with the I-SceI plasmid in order to define the window for the detection of negative cells for GFP expression.",
+    "Then, use a sample of cells transfected with the I-SceI plasmid to obtain a sub population of GFP positive cells that are cells having repaired DNA breaks by homologous recombination (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130918/20130918013118_4913.jpg Figure 1. Example of FACS acquisition. Left panel, the majority of the cells are GFP negative only 0.06% are GFP positive. Right panel, cells transfected with the I-SceI plasmid, we observe the appearance of a population of GFP positive cells 1.8% present in the R3 region."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

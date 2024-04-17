@@ -1,0 +1,16 @@
+{
+  "id": 6711,
+  "origin_website": "Bio",
+  "title": "Analysis of Random Migration of Cancer Cells in 3D",
+  "procedures": [
+    "Prepare the appropriate volume of collagen-fibronectin mix as described in Recipe 2.Add 100 µl of gel mix per well of µ-Slide 8 well and let it polymerize at 37 °C for 1 h (Figure 1A).Note: After gelification, collagen-fibronectin gel becomes slightly milky white and collagen fibers become uniformly visible. During this gelification period, trypsinize the cells and count them. Set the cell concentration to 104 cells per ml.After gel polymerizes, put 200 µl of medium containing cells (i.e., 2,000 cells) on top of the gel.Put µ-slide 8 well in the incubator at 37 °C and allow the cells to adhere on the gel surface for about 2 h (Figure 1A).Once cells have adhered, remove the medium gently. This can be done by slowly pipetting out the medium from the corners of the µ-slide well.Note: This step is delicate. While removing the medium, extra care must be taken not to disturb the gel and cells. If the gel gets disturbed/damaged, then they are not good for imaging. After removing the medium, keep the µ-slide aside in the laminar airflow hood and quickly, re-prepare the collagen-fibronectin mix.Put 100 µl of gel mix on the top of the cells adhering to the previously casted gel (Figure 1A).Incubate for 1 h at 37 °C in the incubator for the gel to polymerize.Note: After gelification of the second layer of gel, one can observe cells that are sandwiched between two gels in a single z plane. Meanwhile, switch on the microscope and the microscope stage heater. Adjust the temperature to 37 °C.After gelification of the second layer gel, add 150 µl of complete medium on top of the second gel to ensure the gels do not dry out (Figure 1A).",
+    "Carefully place the µ-slide into a microscope insert designed to hold the slides and allowing for temperature, humidity, and CO2 control.Place the insert onto the microscope stage. Set the focus on the cells that are at the center of well. Use a 20x objective. Use an objective with phase contrast (Figure 1B).Note: The center of the µ-slide wells is best for imaging to avoid aberrations close to the sides of the wells. Acquire time-lapse images for 60 h with a time-lapse interval of 20 min.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20191226/20191226220600_2281.jpgFigure 1. Steps in 3D migration setup. A. Schematic overview depicting the steps involved in the protocol. B. Exemplary time-lapse images of the MDA-MB-231 cells that are sandwiched between two collagen-fibronectin gels, depicting the cell morphology changes during its 3D migration. Scale bar: 40 µm. For the exemplary depiction of the 3D migration video, refer to Visweshwaran et al., 2018, Movie EV2."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

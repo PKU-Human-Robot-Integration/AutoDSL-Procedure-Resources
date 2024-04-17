@@ -1,0 +1,22 @@
+{
+  "id": 1973,
+  "origin_website": "Cell",
+  "title": "Isolation and freezing of human peripheral blood mononuclear cells from pregnant patients",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nIsolation of PBMCs from peripheral blood\nTiming: 1 h\nThis step describes how to isolate PBMCs from whole blood using SepMateTM Tubes (Blood et al., 2016[href=https://www.wicell.org#bib2])\nInvert Ficoll-Paque PLUS several times.\nPlace 17 mL Ficoll-Paque PLUS medium into the SepMate™-50 tube by carefully pipetting it through the central hole of the SepMate™-50 insert (Ficoll to be just above the insert).\nTransfer the blood to a separate 50 mL Falcon tube in a sterile manner, i.e., working in the hood, using sterile pipetting technique.\nDilute the blood 1:1 in PBS-EDTA with 2% FBS, close the tube and mix by careful inversion\n(In our study): add 16.5 mL blood +16.5 mL PBS-EDTA 2% FBS to reach a total of 33)mL; if less than 16.5 mL of blood is available, you can mix it with PBS-EDTA in a 1:1 ratio\nSepMate™-50 is designed to process 4–17 mL of an initial blood sample.\nKeeping the SepMate™ tube vertical, add the diluted sample by pipetting it down the side of the tube. The sample will mix with the density gradient medium above the insert. Take care not to pipette the diluted sample directly through the central hole.\nCentrifuge at 1200×g for 20 min at room temperature, with the brake on 7 (out of 9).\nNote: Each tube contains four layers after the centrifugation, the yellow plasma layer on the top, the white MNC (mononuclear cells) layer, the Ficoll layer, and the red cell layer on the bottom.\nRemove some of the plasma layer without removing the interface with the PBMCs, to allow better washing of the cells.",
+    "Pour off the top layer, which contains the enriched MNCs, into a new 50 mL Falcon tube. Do not hold the SepMate™ tube in the inverted position for more than 2 s as this may disrupt the filter within the SepMateTM tube, which ensures the Ficoll and red cell layer stay at the bottom.\nRegister the cryovials using the barcode and record them as PBMCs.\nFill up the 50 mL falcon tube with RPMI 1640 medium (Thermo Fisher Scientific, Cat No: 733-1690) and carefully mix.\nCentrifuge at 300×g at 20°C for 8 min and discard the supernatant.\nRepeat steps 10 and 11 using 5–10 mL PBS-EDTA with 2% FBS.\nCentrifuge for 8 min at 300×g at 20°C and remove as much of the PBS-EDTA with 2%FBS as possible by pouring quickly without disturbing the pellet.\nFreezing of PBMCs\nTiming: ∼ 24 h\nCryopreservation of PBMCs is vital for ensuring the integrity of the cells remains high after thawing, supporting high cell viability and ensuring sample data is representative of the donors.\nCount and resuspend the cells in 1 mL of freezing medium DMSO: (Sigma Aldrich Cat No: 6164)\nEnsure the cryovials (Greiner Bio-One Ltd Cat No: 126263-2DG) are resting on ice or in an icebox\nAliquot cells into one barcoded cryovial, holding it on wet ice until freezing begins (within 5 min).\nFreeze cells in the Corning CoolCell chamber (Cat No: CLS432001-1EA) below –70°C.\nAfter at least 12 h, transfer the cells in cryo boxes and record their position.\nLeave the cryo boxes in a −80°C freezer for 12–24 h (max four days), then transfer the cryovials into the liquid nitrogen tank."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Stem Cells",
+    "Health Sciences",
+    "Cell Isolation",
+    "Cell Biology",
+    "Clinical Protocol"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

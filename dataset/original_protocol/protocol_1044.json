@@ -1,0 +1,22 @@
+{
+  "id": 1115,
+  "origin_website": "Nature",
+  "title": "Amino acid analysis by HPLC with FLD detector",
+  "procedures": [
+    "For amino acid analysis, purified protein was hydrolyzed with 6N HCl for 24 h at 120 oC in the oil bath. The resultant mixture was analyzed by an Agilent 1260 HPLC system \\(Agilent, USA) with a fluorescent detector \\(FLD) after derivatisation with OPA \\(O-phthalaldehyde) \\(SRL, India). For proline and hydroxyproline identification, 9-fluorenylmethoxycarbonyl \\(FMOC-Cl) \\(SRL, India) was applied to derivatise the sample. The derivatized sample was loaded \\(50 µl) onto an HPLC column \\(ZORBAX-SB-C-18 column \\(250× 4.6m, 5 micron particle size) using sample injector \\(Agilent 1260). For the gradient elution method, the column was eluted using 0.01M Na2HPO4 buffer and acetonitrile \\(100%) as a mobile phase solvent system. The flow rate was maintained at 1 ml/min. Data from the system was collected and evaluated using Agilent open LAB control panel software. Amino acid from sample and standard was quantified via comparison to the retention time and absorbance. The amino acid content was expressed as the number of residues/1000 residues.\nGradient System:\nA-Buffer \\(0.01M Na2HPO4);  B- Acetonitrile\nExcitation:230, Emission: 460\nTime      A%   B% Flow rate \\(ml/min)   Max. pressure  \n                                 \n0.00      91.0    9.0         1.000               400.00\n2.00      80.0    20.0         1.000               400.00\n35.00    68.0    32.0         1.000               400.00\n55.00    20.0    80.0         1.000               400.00\n57.00    91.0    09.0         1.000               400.00\nOPA preparation:\nOPA: 5 mg\nMethanol: 50 microlit\nSodium Borate Buffer: 450 microlit\nBeta-Mercaptoethanol: 25 microlit\nAn equal volume of the hydrolysed sample and OPA solution was mixed and incubated for two minutes prior to HPLC injection.\nFMOC-Cl Preparation:",
+    "For proline and hydroxyproline identification in HPLC, FMOC-Cl \\(SRL, India) was used to derivatize the COLII sample. Necessary modifications have been made in the manuscript. Briefly, hydrolyzed collagen sample \\(20 µL of 1mg/ml)) was mixed with 80 µL borate \\(20 µmol/mL, pH 10.5) buffer and 100 µL of FMOC-Cl solution in acetone \\(10 µmol/mL) was added in the mixture. The resultant mixture was incubated at room temperature for 30 m followed by addition of 300 µL pentane. Excess FMOC-Cl, hydrolysed product of FMOC-OH and acetone would be extracted by pentene from the mixture. Finally, the derivatized COLII sample was ready to inject into HPLC column for detection of proline and hydroxyproline."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Genetics",
+    "Materials Science",
+    "Synthetic Chemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

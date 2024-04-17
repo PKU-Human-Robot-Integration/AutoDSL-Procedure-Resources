@@ -1,0 +1,14 @@
+{
+  "id": 17903,
+  "origin_website": "Jove",
+  "title": "A Novel Non-invasive Method for the Detection of Elevated Intra-compartmental Pressures of the Leg",
+  "procedures": [
+    "This experimental protocol has been reviewed and approved by our hospital’s institutional review board (IRB) and follows all guidelines set forth by our institution’s human research ethics committee.\n1. Identify the Fascia of the Anterior Compartment of the Leg\nIdentify a starting site for the ultrasound probe. Place the probe directly over the anterior compartment, just lateral to the tibial crest and one handbreadth distal to the tibial tubercle.\nIdentify the fascia as the bright, white strip just below the subcutaneous tissue on the ultrasound. Move the probe until the fascia is seen at the point where it attaches to the tibial crest.\nNote the geometry of the fascia. With minimal pressure applied, this should be a convex shape.\n2. Measure the Compartment Fascia Flattening Pressure of the InjuredLeg\nOnce the fascia of the anterior compartment is identified, apply slow and steady pressure to the ultrasound probe until the fascia changes shape from convex to completely flat. Make several attempts including passing the flattening point to produce a concave shape in an effort to gently hone in on the exact CFFP.\nOnce the anterior compartment fascia is perfectly flat, record the pressure sensor measurement.\nRepeat the CFFP measurement 2 more times. Record and average all 3 pressures to define the final CFFP.\n3. Calculate the Delta CFFP Compared to the Uninjured (Contralateral) Leg\nMeasure and record the CFFP in the contralateral leg in the same manner described above.\nCalculate the delta CFFP by taking the difference between the CFFP of the injured leg the well leg.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

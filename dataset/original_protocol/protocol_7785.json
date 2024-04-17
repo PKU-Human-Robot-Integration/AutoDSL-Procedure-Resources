@@ -1,0 +1,16 @@
+{
+  "id": 8191,
+  "origin_website": "Bio",
+  "title": "Preparation of Pre- and Post-synaptic Density Fraction from Mouse Cortex",
+  "procedures": [
+    "Note: PSD fraction of mouse cortex was prepared according to modified protocol. Corticles are taken in the cold PBS under microscope. Could store at -80 °C if not using immediately. Brain is homogenized in Dounce mini-homogenizer, 50 strokes. Dissect 1 half cortex (or 2 Hipp), add 4 ml buffer to homogenize to looks milky and no obvious pieces of tissue. If not indicated below, all experiments are performed at 4 °C. The homogenates were centrifuged at 470 x g for 2 min. Resultant supernatants (S1 fraction) were centrifuged at 10,000 x g for 10 min to obtain mitochondria- and synaptosome-enriched pellets (P2) and supernatants (S2 fraction) containing soluble proteins. P2 fractions were resuspended in 3.75 ml of 0.32 M sucrose, which was then layered onto 0.8 M sucrose. Centrifuge at 9,100 x g for 15 min in a swinging bucket rotor. After centrifugation, synaptosomes (most of the loose pellets) were collected from 0.8 M sucrose layer (Figure 1) and resuspended with equal volume of 20 mM HEPES (pH 7.0), 2% Triton X-100 and 150 mM KCl. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130828/20130828001443_8822.jpgFigure 1. Sucrose ultracentrifugation of PSD fraction.Samples were centrifuged at 20,800 x g for 45 min using a fixed-angle rotor, and resulting supernatants were collected as presynaptic fraction. Pellets were resuspended in a solution of 1% Triton X-100 and 75 mM KCl using a Dounce mini-homogenizer and centrifuged again at 20,800 x g for 30 min to yield final pellets (PSD fraction, which be identified by marker PSD95), which were washed with 20 mM HEPES and dissolved in 1x SDS-PAGE sample buffer."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8183,
+  "origin_website": "Bio",
+  "title": "Isolation of Radiolabeled Poliovirus Particles from H1 HeLa Cells",
+  "procedures": [
+    "Isolation of viral and subviral particles   Infect adherent cells in 10 cm dish at a MOI of 50. The virus should be diluted in 500 μl of PBS+. Incubate cells with virus alone for 30 min at 37 °C prior to the addition of 8 ml MEM. Cells should be approximately 80% confluent at the time of infection.   Prepare [35S] methionine-DMEM by adding 100 μCi [35S] methionine per milliliter of methionine free DMEM.    At 3 h post-infection remove media from cells, add 3 ml methionine free DMEM to cells then remove. Repeat this process for two additional washes, then add 6 ml of the [35S] methionine DMEM prepared in step A-2 to cells.   At desired collection time points, remove [35S] methionine DMEM from cells. Wash cells 3x with 3 ml PBS and add 1 ml of lysis buffer to the plate. Remove the cells from the plate by pipetting up and down several times. Then transfer the lysate (cells & lysis buffer) to a 1.5 ml tube.   Remove nuclei from this lysate by centrifugation at 4,500 x g for 10 min at 4 °C (store lysate on ice until it is added to the gradient).   Prepare 15% (w/v) and 30% (w/v) sucrose solutions using Tris buffer.   Follow gradient maker instructions for pouring a 15-30% sucrose gradient.   Apply 500 μl of lysate to the top of the gradient. Add approximately 200 μl of mineral oil over the radiolabeled lysate.   Spin tube in ultracentrifuge for 3 h at 27,500 rpm, 15 °C. The ultracentrifuge should be programmed for slow acceleration and deceleration with no brake.   Place tube in fraction collection system.   Turn on pump, to begin pumping air on top of the gradient. Immediately puncture the tube to allow sucrose to flow out of the bottom of the centrifuge tube.   Collect 0.",
+    "5 ml fractions from the gradient into 1.5 ml tubes. The entire gradient should be collected. Fractions may be stored at -20 °C for up to one year.   Determine radioactivity in fractions using a liquid scintillation counter.     Visualization of labeled proteins in fractions   Mix 15 μl of each fraction with 5 μl of 4x Laemelli loading buffer.   Heat sample to 95 °C.   Separate proteins by SDS-PAGE using a 12% SDS-acrylamide gel.   Fix gel overnight in gel fixative at room temperature with shaking.    Dry gel using gel dryer.   Visualize proteins using standard autoradiography techniques."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

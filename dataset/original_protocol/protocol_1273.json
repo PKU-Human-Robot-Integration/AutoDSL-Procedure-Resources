@@ -1,0 +1,15 @@
+{
+  "id": 1358,
+  "origin_website": "Nature",
+  "title": "<p>Ligation and supercoiling of plasmids containing single strand interruptions</p>",
+  "procedures": [
+    "<p><u>Ligase reaction</u></p><p>Make a 10 μL reaction to ligate plasmids:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.0 μL 10x T4 DNA ligase buffer</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 ng plasmid DNA in 8.5 μL of buffer (TE buffer or sterile water)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.5 μL T4 DNA Ligase</p><p>Perform 2 reactions, one with and one without T4 DNA ligase. Incubate at room temperature for 2.5 hours.</p><p><br></p><p><u>Supercoiling reaction</u></p><p>Make a 21 μL reaction to supercoil ligated reactions:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.0 μL 2x E. coli DNA gyrase buffer</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.0 μL ligation reaction</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.0 μL E. coli DNA gyrase</p><p>Incubate at 37 °C for 1 hour.</p><p><br></p><p>Processed samples were then analyzed by electrophoresis through a 1.0% agarose gel run in TAE for 45 minutes at 100 V, which was subsequently stained with 0.5 mg/mL ethidium bromide in TAE for 30 minutes and destained in water for 30 minutes. Ligated and supercoiled products run faster on the gel than the nicked starting material. Quantitation can be performed with Alpha Imager HP software (ProteinSimple) or other gel imaging systems.</p>"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

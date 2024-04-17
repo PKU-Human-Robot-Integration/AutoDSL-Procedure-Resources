@@ -1,0 +1,18 @@
+{
+  "id": 218,
+  "origin_website": "Nature",
+  "title": "In vitro enzymatic activity assay for ENOLASE in mammalian cells in culture",
+  "procedures": [
+    "Preparation of biological test samples\nSample preparation:\nMammalian cells are grown under conventional conditions to around 90% confluence in 10-cm dishes. Cells are washed once with PBS and 0.5mL of Lysis buffer is added \\(RIPA or NP-40 buffer may be used instead, but the specific Enolase activity is lower) following which cells are scraped and placed in 1.5mL Eppendorf tubes. Cells are then broken by sonication and the lysate is cleared by centrifugation at 20,000g for 30 minutes. Protein concentration is determined  spectrophotometrically using the Bradford method \\(Biorad #500-0006). \nWe routinely freeze samples at -80C until further analysis.\nAssay procedure \\(fluorescent plate reader):\nTwo buffers are prepared, reaction buffer without 2PG \\(reaction buffer A) and reaction buffer with 2X \\(4.5 mM) 2PG \\(solution B).\nThe biological samples are equalized for protein concentration and are pre-mixed at dilutions from 1:500 to 1:10 with reaction buffer A \\(The enolase enzymatic reaction cannot start for lack of substrate, 2PG) and a second set of samples is prepared with the addition of 2µM PhAH as a negative control. Mammalian blood \\(diluted 1:1 with lysis buffer, sonicated, and centrifuged at 20,000g) can be used as a positive control. These are aliquoted at 100uL in a 96 well plate \\(black walls, clear bottom); a set of wells without added biological specimen \\(100uL buffer A alone) is included as a negative control.",
+    "The reaction is started by the addition of 100uL of Buffer B \\(adding the enolase substrate, 2PG). This is best done using a multichannel pipet and the fluorescence reading is started as quickly as possible. Fluorescence readings \\(NADH excitation 360nm, emission 460nm) are recorded every 30 seconds. The slope of the time-dependent decrease in NADH fluorescence is determined for each sample, with the slope of the negative control \\(no biological sample added) subtracted to account for background drift and non-Enolase mediated oxidation of NADH. The relative enolase activity may be expressed in relative fluorescent units/mg protein, or if protein loading was equalized for each sample, relative Enolase activity may simply be expressed as a ratio of the average of all samples.  \nAssay procedure \\(spectrophotometer, from Sigma protocol EC 4.2.1.11)\nPrepare fresh reaction buffer as described above and aliquot 0.9 mL in a 1 mL cuvette. Monitor the absorbance at 340 nm until reading is constant. The add 0.1 mL of sample and mix thoroughly by pipetting up and down. Use 0.1 mL of lysis buffer for the blank. As described above, a negative control can be prepared by adding 2µM PhAH and positive control can be done by using mammalian blood. Record the reduction in absorbance for about 5 min and measure the slope of the linear curve \\(change in absorbance/min). The enzymatic activity can be calculated by the following equation:\n                         \\(slope \\(sample) – slope \\(blank))\\(dilution factor)\nU/mg =  __________________________________________________\n                \\(6.22)\\(volume of sample used)\\(sample concentration in mg/mL)\n   6.22 is extinction coefficient of NADH at 340 nm"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

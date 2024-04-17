@@ -1,0 +1,16 @@
+{
+  "id": 4289,
+  "origin_website": "Bio",
+  "title": "Intracellular Staining for Phosphorylated STAT4 and STAT5 in Mouse Splenocytes",
+  "procedures": [
+    "Spleens were obtained from naive and malaria-infected C57BL/6 mice and were homogenized at room temperature in 6-well plates with 6 ml of HBSS with 2% FCS through a 70 μm cell strainer to form single-cell suspensions.   Red blood cells were lysed using 1 to 2 ml of RBC lysing buffer (depending on size of spleen) and splenocytes were washed once at 200 x g 4 °C for 5 min with cold FACS buffer (HBSS with 2% FCS).    Splenocytes were resuspended by gentle tapping on a rack in FACS buffer and kept on ice at all times to avoid background phosphorylation of STAT proteins.    Viability and cell counts were obtained by trypan blue exclusion using a haemocytometer.    Cells were washed once with 1 ml AIM V® Medium, resuspended at 20 x 106 cells/ml and rested on ice for a minimum of 20 min.    1 × 106 cells were incubated with 20 ng/ml rIL-2 or 2.5 ng/ml rIL-12 for 10 min at 37 °C, 5% CO2 (final volume of 200 μl) and immediately fixed on ice for 15 min by adding an equal volume of 4% paraformaldehyde.    Cells were washed with FACS buffer, resuspended in 500 μl of 90% ice-cold methanol and immediately stored down at -20 °C for a minimum of 2 h (cells can be kept for up to a month without affecting further staining).    Splenocytes were washed twice with FACS buffer and stained in FACS buffer at room temperature for 30 min for CD4 (GK1.5), CD44 (IM7), CD62L (MEL-14), T-bet (4B10) and phosphorylated STAT4 (at residue Y693, clone 38) or phosphorylated STAT5 (at residue Y694, clone 47).    Cells were washed with FACS buffer and analysed by flow cytometry.    Fluorescence minus one controls were included to validate flow cytometric results. Flow cytometry acquisition was performed using an LSR II."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

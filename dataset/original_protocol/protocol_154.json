@@ -1,0 +1,18 @@
+{
+  "id": 159,
+  "origin_website": "Nature",
+  "title": "Three-dimensional colocalization analysis in immunostained sections of human pancreas",
+  "procedures": [
+    "**1.**  Create Volocity libraries from raw data files.  Drag raw data file\\(s) into pre-created library\\(s) to import calibrated images.  \n**CAUTION**  Image calibration is typically encoded in the raw data generated with microscopes from most manufacturers \\(e.g., Leica, Zeiss, Nikon, etc).  Do not import z-stacks as “tiff” files because image calibration will be lost.  Volocity can read raw data files from most manufacturers.  If only “tiff” files are available, reassembly of the z-stacks in the proper order and calibration of the image dimensions are required.\n**2.**  Select a raw image from the library \\(list of images on the left) and switch to the “Measurements” view within the library by clicking the “Measurements” tab \\(see **Fig. 2**).\n \n**CAUTION**  Do not manipulate images to be analyzed as noise removal or background subtraction will influence the analysis.\n**3.**  Under the “Measurements” view, build the analysis algorithm sequence from the list of existing protocols \\(i.e., algorithms; **Fig. 2a**).  Drag the appropriate protocols from the list of protocols and stack them in the specified sequence exactly as shown in **Fig 2a**.\n**CRITICAL STEP**  Order of the algorithm sequence must be maintained for proper analysis.\n**4.**  In the “Find Objects” protocol, select the appropriate channel for the marker to be analyzed and set the threshold to 3x standard deviations \\(3x SD) \\(**Fig. 2a**).  Display the threshold popup window by clicking the cog icon and change “Threshold using” to “SD” and set the “Lower Limit” value to 3 \\(**Fig. 2b**). \n**5.**  To execute the analysis, either click “Update Feedback” under the “Measurement” tab of the program \\(next to the “File” tab) or select “Automatically Update Feedback”.\n**CAUTION**  If working with large datasets, we recommend updating the feedback/analysis manually to avoid frequent software stall/crashes.",
+    "**6.**  The results of the analysis are displayed automatically and found objects are highlighted \\(**Fig. 2b**).  Since the last step in the protocol is to “Make ROIs from objects”, the found objects are selected as regions of interest \\(ROIs) automatically \\(**Figs. 2b** and **3a**).\n**CAUTION**  Do not click outside the ROIs if one of the ROI tools is selected because that will deselect the ROIs and will require repeating Steps 5 & 6.\n**7.**  Switch to the “Colocalization” view in the library by clicking the “Colocalization” tab and select the appropriate channels to be analyzed.  Only 2 channels can be selected at any given time.\n**8.**  Use the same threshold values as in **Step 4** \\(i.e., 3x SD) to set the minimum intensity value for each channel \\(see **Fig. 3c**).\n**CRITICAL STEP**  Threshold absolute values corresponding to 3xSD can be obtained from **Step 4** \\(see **Fig. 2b**) for the corresponding channels by “mousing” over the lower limit bar in the intensity histogram.  \n**9.**  Graphical and numerical results of the colocalization analysis are displayed automatically \\(**Fig. 3b-d**).\n**CAUTION**  Colocalization results are shown based on thresholded and non-thresholded \\(“Global”) analysis; use the results in the “Thresholded Statistics” field."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Structural Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

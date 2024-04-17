@@ -1,0 +1,15 @@
+{
+  "id": 19,
+  "origin_website": "Nature",
+  "title": "Yeast <sup>14</sup>C radiotracer uptake \\(methylammonium)",
+  "procedures": [
+    "1) For uptake measurements, grow yeast cells to logarithmic phase in YNB medium supplemented with 3% glucose and 1 mM L-arginine. \n2)  Harvest cells at OD<sub>600</sub> of 0.6 to 0.8, wash, and resuspend in 40 mM potassium phosphate buffer, pH 7, to a final OD<sub>600</sub> of 8. \n3)  Five minutes before the uptake measurement, supplement cells  with 6% glucose and incubate at 30&#xBA;C. \n4)  To start the reaction, add 450 &#xB5;L of cell suspension to 400 &#xB5;L of the same buffer containing 200 &#xB5;M methylammonium and 10 nM <sup>14</sup>C-methylammonium \\(2.11 Gbq/mmol; Amersham). \n5)  After 0.5, 1, 2, and 4 min, withdraw 200 &#xB5;L aliquots, dilute in 5 mL ice-cold potassium phosphate buffer containing 200 mM methylammonium, and filter through glass fiber filters \\(GF/C; Whatman). \n6)  Wash filters twice with 5 mL of cold deionized water and analyze by liquid scintillation spectrometry."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

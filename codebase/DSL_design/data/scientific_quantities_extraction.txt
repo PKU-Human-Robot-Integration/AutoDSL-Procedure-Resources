@@ -1,0 +1,8 @@
+You need to identify and list any physical chemistry scientific quantities mentioned in the following experimental procedure.
+Requirements:
+1. The output format should be only one per line as "Original Text: Scientific Quantity".
+2. Please extract information from the given sentences without creating your own summaries.
+Output Example: 
+50mL: Volume
+6°C: Temperature
+The given experimental procedure are:

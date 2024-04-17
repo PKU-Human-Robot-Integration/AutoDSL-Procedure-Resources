@@ -1,0 +1,17 @@
+{
+  "id": 5764,
+  "origin_website": "Bio",
+  "title": "Isolation of Rodent Brain Vessels",
+  "procedures": [
+    "All the isolation protocol steps must be performed at 4 °C (always maintain solutions, homogenates and pellets on ice).Euthanize rodents by cervical displacement (mice) and decapitation (rats and mice). All procedures are approved by the Federation of Laboratory Animal Science Associations (FELASA).Perform a midline incision, posterior to anterior, along the scalp to reveal the skull (Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Brain removal, dissection and homogenization Cut the cranium carefully from the neck to the nose through the lateral cranial sutures. Two additional cuts can be performed, in the occipital hole to the ears direction, to facilitate the access to the brain (Figure 2A, Video 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170831/20170831020043_1602.jpgFigure 2. Illustrative images of brain dissection and homogenization. Cut the cranium carefully from the neck to the nose through the lateral cranial sutures (A). Remove the intact brain from the cranial box using a small spatula (B). Then, remove the cerebellum, olfactory bulbs and white matter using fine dissection forceps and keep the brain cortices (C). Finally, homogenize brain tissue, at 4 °C, in 10 ml PBS using a Potter-Elvehjem with PTFE pestle and glass tube, at 800 rpm/min (D).Remove the intact brain from the cranial box using a small spatula (Figure 2B, Video 1).Remove the cerebellum, olfactory bulbs and white matter using fine dissection forceps; keep the brain cortices (Figure 2C, Video 1, see Note 1).Perform a quick wash (approximately 30 sec) in non-sterile PBS (Video 1; see Recipes).Homogenize fresh brain tissue, at 4 °C, in 10 ml PBS using a Potter-Elvehjem with PTFE pestle and glass tube, at 800 rpm/min (Figure 3, Video 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170831/20170831020159_2475.jpgFigure 3. Schematic illustration of mice brain vessels isolationCentrifuge at 720 x g for 5 min, at 4 °C (Figure 3).Discard the supernatant by decantation (Figure 3).",
+    "Resuspend the pellet in 10 ml PBS using a soft hair brush, 3 mm dia (Figure 3).Repeat the steps 8-10 two more times.Layer the PBS resuspended pellet over 20 ml 16% dextran (Video 2; see Recipes).Note: This step must be gently done to avoid mixing the two layers (Figure 3).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Brain vessels isolation Centrifuge at 4,500 x g for 20 min, at 4 °C (Figure 2).Collect the supernatant and the middle layer, and keep the pellet on ice (Figure 3).Repeat step 14.Discard the supernatant and resuspend the two resulting pellets in 100 μl PBS.Note: Resuspend the first pellet in 100 μl PBS and use the suspension to resuspend the second pellet. The vessels can be visualized at optic microscope (Figure 4) using the DiffQuick staining as described by Mota and Ramalho-Santos (2006).Store the vessels at -80 °C until use (used until 2 years upon isolation; Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170831/20170831020327_3173.jpgFigure 4. Representative images of isolated mice brain vessels after DiffQuik staining. Unstained (A) and stained (B, C) brain vessels observed under the optic microscope. 100x amplification; scale bars = 50 μM."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

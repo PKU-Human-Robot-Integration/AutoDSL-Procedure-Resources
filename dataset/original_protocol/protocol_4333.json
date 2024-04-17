@@ -1,0 +1,15 @@
+{
+  "id": 4550,
+  "origin_website": "Bio",
+  "title": "Stable Caco-2 Cell Line Construction",
+  "procedures": [
+    "Prepare Caco-2 in 10 cm dish 48-72 h ahead of time so that cells can be 50-70% confluent upon transfection.For example, if seeded at 30% confluent in 10 cm dish, the cells will be 60% confluent 48 h later, if seeded at 15% confluent in 10 cm dish, the cells will be 60% confluent 72 h later. Notes: Different from other cancer cell lines, the Caco-2 cells attach the culture dishes really slowly, so always allow at least 48 h for the cell to grow to targeted confluence.Please test the growing speed if using dishes smaller than 10 cm as the growing speed of Caco-2 cells is slower in different extent depending on the dish size.Transfect the cells as following:Prepare mix A and B (see Table), then mix together, leave at room temperature for 45 min.Add C to AB mixture.Replace growth medium with D in the plates, add ABC mixture drop wise while gently swirling the plate. Incubate 37 °C, 5% CO2 for 5 h.Add E to dish, and grow for additional hours (total transfection time is 48 h)table:\n﻿0,1,2,3,4,5,6\nA,A,B,B,C,D,E\nDNA (pmol) (eg. pGL4.17-target gene),Opti-MEM,Lipofectamine,Opti-MEM,Opti-MEM,DMEM w/o FBS,DMEM w/ 2x FBS\n1.125 pmol,508.5 μl,40.68 μl,508.5 μl,1525.5 μl,2542.5 μl,5.1 ml",
+    "48 h later, split the cells into 10 cm dish with selection medium at 1, 1:10, 1:100 and 1:1,000 dilutions of the cells. In the case of pGL4.17, 1 mg/ml G418 was used. Please refer to the provider menu for your selection antibiotic. Three weeks later, single colonies should be visible to the naked eye. At this time, change medium when medium color changes. Once colonies become visible, you can choose to pick single colonies, or pool the colonies depending on your purpose. Please see following steps for single colony procedure:Wash the plate with PBS then aspirate. Pick up a cloning ring with forceps and dip it briefly in vacuum grease so that the grease is in edge of the ring but not in the center. Place the cloning ring so the colony is in the center and make sure the ring sticks evenly well to the dish. Repeat this on all the colonies you intend to pick and normally 12 colonies for each construct. But avoid let the dish dry.Add to each of them 50-100 μl trypsin and incubate at 37 °C 5% CO2 for 5 min. Add DMEM with FBS to the ring, pipette up and down and transfer the cells to 24-well culture dishes with selection medium. Allow approximately one week for the cells to grow to 90% confluent. Check the cell confluence in between to avoid cell being over crowded. Once the cells in 24-well plate reach 80 ~ 90% confluences transfer the cells to 6 cm dish with selection medium. At the same time, save some cells for expression test depending on your experiment settings.Once the cells in 6 cm dish reach confluence make liquid nitrogen stock."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

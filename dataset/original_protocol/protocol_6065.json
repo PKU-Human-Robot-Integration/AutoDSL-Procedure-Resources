@@ -1,0 +1,14 @@
+{
+  "id": 6417,
+  "origin_website": "Bio",
+  "title": "Early Life Ovalbumin Sensitization and Aerosol Challenge for the Induction of Allergic Airway Inflammation in a BALB/c Murine Model",
+  "procedures": [
+    "Intraperitoneal sensitization of 21-day-old BALB/c mice (Figure 1)Draw up 200 µl of the OVA-Alum preparation using a 27 G x ½” 1 ml Insulin syringe.Scruff mouse and hold on a 45-degree downwards angle with the head away from you.Note: The holding technique used for intraperitoneal injections should adhere to independent in-house procedures. Slowly inject the entire 200 µl OVA-Alum preparation intraperitoneally (i.p).Notes: Control mice received sham injection of 200 μl PBS. Always use a new sterile syringe for each intraperitoneal injection. Monitor mice for 3 days post-sensitization or as per individual in-house ethics requirements.Note: OVA-sensitized mice are to be housed separately to control mice.Intraperitoneal booster injection of 35-day-old mice (Figure 1)Repeat Procedure A at 35 days of age.Monitor mice for 3 days post-sensitization or as per individual in-house ethics requirements.Ovalbumin aerosol challenge of 42-day-old sensitized mice (Figure 1)Place sensitized mice in the plexiglass aerosol chamber connected to the ultrasonic nebulizer at a stock density of ≤ 10.Note: Do not overcrowd the plexiglass aerosol chamber. This ensures all mice receive an equivalent OVA aerosol dose. Add 1x 25 ml aliquot of 10 mg/ml OVA solution to the ultrasonic nebulizer.Note: Control mice received PBS aerosol challenge. Turn the ultrasonic nebulizer on with the following settings:Cloud setting: 4Fan setting: 3Run time: 30 minFollowing the 30 min 10 mg/ml OVA aerosol challenge, return the mice to their housing cages.Repeat OVA aerosol challenge on Days 43 and 44 of age using freshly defrosted 10 mg/ml OVA solution aliquots.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190225/20190225022040_9018.jpgFigure 1. Timeline of intraperitoneal OVA-Alum injections and OVA aerosol challenges"
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

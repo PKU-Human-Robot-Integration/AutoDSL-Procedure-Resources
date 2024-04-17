@@ -1,0 +1,14 @@
+{
+  "id": 30,
+  "origin_website": "Nature",
+  "title": "Isolation of live bacteria from adult insects",
+  "procedures": [
+    "\\(Use autoclaved microcentrifuge tubes and gloves)\n1- Collect 50-100 adult insects \\(for Drosophila, females will give higher yield). Anesthetize on CO2. Keep the flies and 70% EtOh on ice.\n2- Transfer anesthetized flies to the Centrifugal Filter \\(5 or 0.65 micrometer).\n3- Wash 5 times with 70% ethanol.  Invert the tube a couple of times between washes. This step is to collect as much debris and sterilize the fly surface as much as possible.  \n4- Spin for 5-10 seconds in tabletop microcentrifuge at low speed setting \\(around 1,000 g) to dispose most of the EtOH\n5- Wash 3x with sterile H2O. \n6- Spin 5-10 seconds to eliminate most of the water\n7- Transfer the filter unit to a sterile microcentrifuge tube. \n8- Spin for 3 minutes at around 10,000 g. In case yolk is not desired \\(e.g. for visualization) low speed centrifugation is recommended to avoid disruption of eggs inside females. Speeds can go as low as 1,000 g for 3 minutes.\n9- From 50 to 100 flies the yield is around 10- 20 &#xB5;l.  To maximize the bacteria viability, keep on ice all the time. The exudates can be used for transfection into other hosts \\(see &#x201C;Transfection of Wolbachia into adult hosts&#x201D;), cell culture or imaging. \nThe presence of bacteria can be quickly verified with a DNA stain \\(see &#x201C;Live imaging of Wolbachia&#x201D;). As a control, always compare with hemolymph isolated from an uninfected stock."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

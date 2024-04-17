@@ -1,0 +1,18 @@
+{
+  "id": 4495,
+  "origin_website": "Bio",
+  "title": "Chromogenic Substrate Assay for Determining the Activity of Plasma Kallikrein",
+  "procedures": [
+    "Assay with bacteria      Day 1   Grow bacteria overnight in fresh 10 ml 3% TH medium, at 37 °C and shaking with 200 rpm. Day 2   In a fresh 10 ml 3% TH medium add 100 μl of overnight culture bacteria and subculture bacteria to mid-exponential phase (OD620 ~ 0.5), at 37 °C and 200 rpm.   Centrifuge bacteria (10 min, 5,000 rpm) and remove the supernatant.   Wash bacterial pellet twice with 10 ml of 50 mM Tris/HCl (pH 7.4).   Resuspend bacterial pellet in 50 mM Tris/HCl (pH 7.4) + 50 µM ZnCl2 to a final concentration of 2 x 109 cfu/ml. Note: To get 2 x 109 cfu/ml, growth curves for the specific bacteria are necessary in order to know how much volume is needed for resuspention, before doing the experiment. Take 100 µl of bacteria and incubate with 10 µl of the test agent or buffer (positive control) for 60 sec at RT.   Notes:    Negative controls contain only 100 µl bacteria mixed with 100 µl 50 mM Tris/HCl (pH 7.4) instead of plasma.   Incubation times and amount of substrate might need adjustements according to the specific bacterium tested (Papareddy et al., 2013).     Add 100 µl citrate plasma to the samples.   Incubated 35 min at 37 °C on rotation 200 rpm.   Spin down the bacteria (6 min, 5,000 rpm) and wash the bacterial pellets once with 50 mM Tris/HCl (pH 7.4) (100 µl/sample).   Resuspend in 100 µl of 50 mM Tris/HCl (pH 7.4) + 50 µM ZnCl2 buffer containing 2 mM of the chromogenic substrate S-2302 (mix well).   Incubate samples for 30-60 min at 37 °C (check yellow colour development in positive control, an indication of chromophore cleavage and dissociated from the enzyme), to determine incubation time.",
+    "Centrifuge samples (6 min, 5,000 rpm) and transfer the supernatants to a 96 well plate.   Measure absorbance at 405 nm. Values are presented in relation to the positive control (defined as 100%).       Assay without bacteria   Incubate 10 µl of your desired agent with 100 µl of Dapttin for 60 sec at RT.   Add 100 µl of human citrate plasma and incubate samples for 3 min at room temperature.   Centrifuge the pellet (6 min, 5,000 rpm) and wash twice in 50 mM Tris/HCl (pH 7.4) before suspension in 100 µl 50 mM Tris/HCl (pH 7.4) + 50 µM ZnCl2 buffer containing 2 mM of the chromogenic substrate S-2302.    Incubate for 30 min at RT.    Centrifuge samples.    Measure absorbance of the supernatant at 405 nm. Values are presented in relation to the positive control (defined as 100%). Notes:   Regarding negative controls, add 100 µl of 50 mM Tris/HCl (pH 7.4) instead of adding 100 µl of human citrate plasma at step B2. But, everything else is the same from steps B1-6.   Incubation time for the cleavge of substrate and subsequent colour development may differ. If the development of colour is to low, concentration of the substrate can be increased."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

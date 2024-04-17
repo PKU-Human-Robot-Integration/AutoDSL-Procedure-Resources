@@ -1,0 +1,16 @@
+{
+  "id": 6346,
+  "origin_website": "Bio",
+  "title": "Preparation of Silk Fibroin Nanoparticles and Enzyme-Entrapped Silk Fibroin Nanoparticles",
+  "procedures": [
+    "Figure 1 shows a schematic of silk fibroin nanoparticles (SFNs) or enzyme-entrapped SFNs preparation using acetone.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181213/20181213234833_7610.jpgFigure 1. Schematic of silk fibroin nanoparticles (SFNs) or enzyme-entrapped SFNs preparation using acetone Degum the clean cocoon shell twice in boiling 0.2% (w/v) Na2CO3 for 0.5 h each time. After the degumming treatment, wash the resulting silk materials repeatedly in deionized water and then air dry.Immerse the degummed silk fibers into 20-fold volume (w/v) of Ajisawa's reagent (CaCl2/ethanol/H2O, 1:2:8 molar ratio) (Ajisawa, 1998) and stir at 70 °C (water bath) for 4 h.Centrifuge the silk fibroin-salt solution at 7,000 x g for 10 min to remove impurities and insoluble substances. Dialyze the filtered solution or supernatant continuously for 48 h with running deionized water to remove CaCl2, smaller molecules and some impurities using a cellulose semi-permeable membrane (cutoff 5 kDa).Concentrate the aqueous solutions of regenerated silk fibroin to 1%-5% of silk fibroin solution at 4 °C by using PEG and finally store it at 4 °C for SFN preparation.If preparing enzyme-entrapped silk fibroin nanoparticles (SFNs), add a given amount of enzyme (liquid or powder) to the above silk fibroin solution and homogenize the mixture mildly via shaking by hand. Rapidly Inject the silk fibroin solution or a mixture with enzyme into acetone (acetone is more than 70% of the final mixture) by using a 20 ml injector at room temperature; while injection proceeded, rapidly shake the 50 ml beaker or container containing the protein/enzyme by hand. The milk-like silk protein particles or enzyme-entrapped silk protein particles form immediately and suspend in the mixture composed of water and acetone. These particles are water-insoluble and can precipitate slowly due to nanoparticle aggregating. Filtrate and collect the precipitates of these nanoparticles through 0.",
+    "22 μm filter paper, or purify from the mixture by centrifugation at 108,000 x g for 0.5 h to separate the particles from the solvent. After subject these filtered retentates or centrifuged precipitates to ultrasonic treatment (Output Watts: 16) five times for 2-min each, the nanoparticles or enzyme-entrapped nanoparticles disperse evenly in 50 mM phosphate buffer or water and can be stored at 4 °C for a long time."
+  ],
+  "subjectAreas": [
+    "Biophysics",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

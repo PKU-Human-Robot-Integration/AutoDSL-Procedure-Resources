@@ -1,0 +1,16 @@
+{
+  "id": 1108,
+  "origin_website": "Nature",
+  "title": "The Protocol for SNAC-tag Chemical Protein Cleavage",
+  "procedures": [
+    "This protocol starts after 250 mM imidazole elution of protein HisTag-GSHHW-HB2225 \\(water soluble protein) or protein HisTag-T4L-GSHHW-3hbtmV2 \\(membrane protein) off the Ni-NTA beads. We take protein HisTag-T4L-GSHHW-3hbtmV2 \\(membrane protein) as the example to illustrate the protocol.\n1. Take 0.5 mL of imidazole \\(250 mM) eluted HisTag-T4L-GSHHW-3hbtmV2 into Amicon Ultra 0.5 mL centrifugal filters, spin 4 times to exchange buffer into cleavage buffer: 0.1 M CHES, 0.1 M NaCl, 0.1 M acetone oxime, 5 mM DPC, pH 8.6. Note, imidazole has to be completely removed before cleavage.\n  \n2. After 4 times buffer exchange, measure protein concentration to be 0.5-1.0 mg/mL, if protein concentration is higher, dilute protein concentration to this range using cleavage buffer.\n  \n3. To a 1.7 mL eppendorf tube, add 10 uL NiCl2 \\(0.1 M), then add 1 mL of HisTag-T4L-GSHHW-3hbtmV2 into the same tube, vortex gently to mix well. \n  \n4. Incubate reaction at room temperature \\(22 °C) for 16 hours. Don’t shake or vortex.\n  \n5. Run protein gel to monitor reaction after 16 hours to see cleavage progression. If not complete, reaction can be left longer until complete.\n  \n6. After reaction is done, add protein solution to centrifugal filters again to exchange protein \\(3 times) into desired buffer \\(0.1 M Tris, 0.25 M NaCl, 5 mM DPC, pH 8.0), and to remove free Ni2+. \n  \n7. Add 0.2 mL bed volume of Ni-NTA beads to the protein solution and rotate to extract the cleaved tag to give desired protein."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

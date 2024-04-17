@@ -1,0 +1,15 @@
+{
+  "id": 8063,
+  "origin_website": "Bio",
+  "title": "Fear Conditioning Assay in Mouse",
+  "procedures": [
+    "Handle mouse for 5 min per day for 3 consecutive days prior to beginning the experiment. Handle by holding each mouse and letting it climb around on and explore your hands so that they habituate to the experimenter. Mice can be run successively in groups of 5, but housed individually.    One day before fear conditioning, place the mouse in the training context for 10 min to allow habituation to the context. Fold a piece of tape into a loop and affix to the underside of a paper towel square, taping it to the center of the cylindrical environment. Saturate the paper towel with 20 drops of water before placing the mouse into the context. For contextual consistency, present a paper towel square wetted with water in all sessions except for the predator odor conditioning session. Record all sessions on a computer with Limelight or the behavioral tracking system of your choice.    The next day, expose the mouse to the context for 10 min to take a baseline freezing measure (again placing water in the center of the context). Remove the mouse from the context, and replace the water with a paper towel square saturated with 20 drops of 100% coyote urine. Place the mouse back in the context in the presence of coyote urine for 5 min. Remove the mouse from the contex (as a control, expose other mice to just water in place of the predator odor).   Clean the base of the context thoroughly with 409 and/or Clorox Clean-up and soap several times. Dry and wipe with ethanol (also use ethanol to clean the context between all sessions). Ensure that no coyote odor remains. Meanwhile, air out the conditioning room by opening the door and turning on several fans.",
+    "If only water has been used, clean the context in the same manner to ensure consistency.    One hour after the conditioning session, give a short-term memory retention test by placing the mouse again in the cleaned context with water for 10 min.    Perform 10 min long-term memory retention tests at 24 h intervals after the conditioning session. This can be repeated for as many days as you wish to continue the study.   Analyze the percentage of time spent freezing for each session. In Limelight, you can export velocity measures for each second and use Excel filters to calculate what percentage of the total time the mouse spent below a certain freezing threshold velocity (0.5 cm/sec or something to that effect)."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

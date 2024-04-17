@@ -1,0 +1,20 @@
+{
+  "id": 1133,
+  "origin_website": "Nature",
+  "title": "Neuron-fibroblast coculture assay to demonstrate presynaptic differentiation induced by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+  "procedures": [
+    "**Preparation of HEK293T cells**\n1. Grow HEK293T cells on 60-mm culture dishes to  around 50% confluency.\n  \n2. Transfect HEK293T cells with Myc-NGL-2 or Myc-NGL-2 &#xF044;ECD \\(a negative control that lacks the extracellular domain) by the calcium phosphate method.\n  \n3. After 24&#x2013;48 h, trypsinize the cells and resuspend 10% of the cells from a single 60-mm dish in 1 mL of phosphate-buffered saline \\(PBS).\n  \n4. Harvest the cells by centrifugation and then resuspend them in 1 mL of PBS.\n  \n**Coculture of HEK293T cells and neurons**\n5. Add 10% \\(100 &#x3BC;l) of the resuspended cells onto cultured hippocampal neurons \\(DIV8) grown on a 18-mm coverslip \\(medium density).\n  \n6. Add cytosine arabinoside to the culture medium to a final concentration of 0.5 &#x3BC;M to inhibit overgrowth of HEK293T cells.\n  \n7. Incubate the coculture in the CO<sub>2</sub> incubator for 3 days.\n  \n**Immunostaining**\n8. Fix the coculture in 4% paraformaldehyde and 4% sucrose in phosphate buffered saline at room temperature for 5 min.\n  \n9. Incubate the cells with primary antibodies \\(synapsin I and Myc; 1 &#x3BC;g/ml) followed by Cy3- or FITC-conjugated secondary antibodies.\n  \n**Vesicle turnover experiment**\n10. Perform vesicle turnover experiments in parallel with the immunostaining. Briefly wash the cells with the extracellular solution \\(in mM): 150 NaCl, 4 KCl, 2 MgCl<sub>2</sub>, 2 CaCl<sub>2</sub>, 10 glucose, 10 HEPES \\(pH 7.4).\n  \n11. Incubate the cells in high-potassium solution \\(in mM; 97 NaCl, 57 KCl, 2 MgCl<sub>2</sub>, 2 CaCl<sub>2</sub>, 10 glucose, 10 HEPES, pH 7.4) containing synaptotagmin luminal domain antibodies \\(Synaptic Systems, 1:10) at room temperature for 5 min.\n  \n12. Wash the cells twice with the extracellular solution, then subject them to fixation and immunostaining with appropriate antibodies.\n  \n**Image acquisition and quantitation**\n13. Capture Z-stacked images of randomly chosen HEK293T cells by confocal microscopy \\(63 x objective), maintaining the same acquisition parameters throughout the acquisition.",
+    "14. For quantitation, manually trace the boundaries of the transfected cells. Normalize the integrated synapsin I immunofluorescence from a transfected HEK293T cell by the cell area."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

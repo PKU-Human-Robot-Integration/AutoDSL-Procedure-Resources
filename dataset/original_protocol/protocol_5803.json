@@ -1,0 +1,16 @@
+{
+  "id": 6149,
+  "origin_website": "Bio",
+  "title": "Measurement of Cytokines",
+  "procedures": [
+    "20 mg of fresh or frozen tumor tissues were resuspended in 200 μl of extraction buffer at 4 °C.Tissues were mechanically ground using a homogenizer such as an ultraturax or a Precellys. With ultraturax an antifoam solution as described by the manufacturer (Sigma-Aldrich – antifoam Y-30 Emulsion) is used.The homogenate was centrifuged for 10 min at 6,000 rpm, at 4 °C.The supernatant was recovered. 10 μl supernatant is used to determinate the protein concentration using a protein assay such as BCA. The sample can be stored at -80 °C.Measurement of cytokines must be performed as described by ELISA kit manufacturer.Dilute capture antibody with PBS to a concentration of 1 μg/ml and add 100 μl to each ELISA pate well. Seal the plate and incubate overnight at room temperature.Invert plate to remove capture antibody and blot on paper towel and wash plate 3 times by adding 300 μl of wash solution (1x PBS – 0.05% tween-20). Invert plate to remove wash solution and blot on paper towel.Block plate by adding 300 μl per well of 1% BSA in 1x PBS. Incubate 1 h at room temperature.Invert plate to remove blocking buffer and wash plate 3 times as described in step 7.Achieve an eight point standard curve using 2-fold serial dilutions of standard, in extraction diluent solution (1x PBS – 0.05% Tween-20 – 0.1% BSA), and a high standard of 2,000 μg/μl is recommended.Add 100 μl of standard or sample to each well in triplicate. Incubate at room temperature for at least 2 h.Invert plate to remove samples and standard and wash plate 3 times as described in step 7.Dilute biotinylated detection antibody in diluent (1x PBS - 0.05% Tween-20 - 0.1% BSA) to a concentration of 500 ng/ml and add 100 μl per well. Incubate at room temperature for 2 h.",
+    "Invert plate to remove detection antibody and wash plate 3 times as described in step 7.Add 100 μl per well of Avidin-HRP conjugate diluted 1: 2,000 in diluent (1x PBS – 0.05% tween-20 - 0.1% BSA). Incubate 30 min at room temperature.Invert plate to remove Avidin-HRP conjugate and wash plate 3 times as described in step 7.Add 100 μl of ABTS liquid subtrate to each well. Incubate at room temperature, 10 min, for color development.Determine the optical density of each well, using a microplate reader set to 405 nm.Average the triplicate readings for each standard, control, and sample and subtract the average zero standard optical density.Create a standard curve by plotting the mean absorbance for each standard on the y-axis against the concentration on the x-axis and draw a curve through the points on the graph."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

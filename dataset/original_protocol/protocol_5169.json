@@ -1,0 +1,16 @@
+{
+  "id": 5493,
+  "origin_website": "Bio",
+  "title": "Generation of Mouse Bone Marrow-Derived Macrophages (BM-MFs)",
+  "procedures": [
+    "Flush mouse tibiae and femurs with ice-cold PBS through a 70 μm-wide cut-off cell strainer.   Centrifuge 5 min at 450 x g. Resuspend pelleted cells in conditioned medium (supplemented with 30% of growth supernatant of M-CSF-transduced L929 cells).   Seed 7 x 106 cells in 100 x 20 mm non-treated cell culture plates in 10 ml of conditioned medium.   Incubate at 37 °C and 5% CO2.   Upon reaching confluence (approximately 6 days) use the cells or split adhered cells and seed 5 x 106 cells in 100 x 20 mm in non-treated cell culture plates in 10 ml of conditioned medium.   BMMFs are ready for experimental use when the percentage of CD11b+ cells is higher than 90% as measured by FACS analysis."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

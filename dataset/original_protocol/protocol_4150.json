@@ -1,0 +1,15 @@
+{
+  "id": 4357,
+  "origin_website": "Bio",
+  "title": "The BhbA Enzyme Assay",
+  "procedures": [
+    "Comamonas sp. 7D-2 was inoculated in 100 ml LB medium (supplemented with 0.25 mM DBHB) and cultured at 30 °C for 14 h.   Late exponential-phase cultures (approximately OD600=1.0) of strain 7D-2 were pelleted by centrifugation at 15,000 x g for 5 min, washed two times with PBS (pH 7.4), resuspended in PBS (containing 2 mM dithiothreitol) and then disrupted by sonication at 4 °C. BhbA was partially purified by fast protein liquid chromatography (Amersham Biosciences) at 4 °C (Chen et al., 2013; van de Pas et al., 1999).   Protein concentrations were determined by the Bradford method (Bradford, 1976) with Protein Quantification Kit.   A standard enzyme assay was performed under aerobic conditions in a 7 ml centrifuge tube containing 3.0 ml PBS, 0.1 mM DBHB (BHB) and 0.2 mM NADPH (NADH). The reaction was initiated by the addition of 30 μl of enzyme preparation and incubated at 30 °C for 60 min. Negative control without added enzyme was performed.   The reaction was stopped by the addition of 15 μl sodium dithionite (1 M).    The mixture was centrifuged at 16,000 x g for 10 min and filtered by membrane filtration; then, the DBHB concentration was analyzed using HPLC (Chen et al., 2013).    One unit of BhbA activity was defined as the amount of BhbA that catalyzes the reduction of 1 nmol of DBHB per minute. Specific activity was expressed in units per milligram of protein. All assays were performed independently three times, and the means and standard deviations were calculated."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4489,
+  "origin_website": "Bio",
+  "title": "Isolation and FACS Analysis on Mononuclear Cells from CNS Tissue",
+  "procedures": [
+    "Anaesthetise mice with sodium pentobarbital (40 μl i.p. ) and perfuse intracardially with sterile ice-cold PBS (20 ml). This is achieved by slowly and steadily injecting the ice-cold PBS into the left ventricle of the heart using a 20 ml syringe.   Dissect out brains by cutting away the skull with a sharp scissors, gently removing the brain with a forceps and place in 1 ml complete RPMI solution (or HBSS supplemented with 3% FBS can be used).    Prepare a single cell suspension by forcing the tissue through a sterile 70 μm nylon mesh filter using the plunger of a 5 ml syringe, wash with complete RPMI solution and centrifuge at 280 x g for 5 min.    Remove the supernatant and the remaining pellet and resuspend in complete RPMI (2 ml) containing collagenase D (1 mg/ml) and DNAse I (10 μg/ml), and incubate for 1 h at 37 °C with agitation.    Wash cells with complete RPMI and centrifuge at 280 x g for 5 min. Discard supernatants and resuspend cells in 40% Percoll [5 ml; 40% stock isotonic percoll (SIP) in PBS; 1.052 g/ml].    Carefully layer cell suspension on top of 70% Percoll (5 ml; 70% SIP in PBS; 1.088 g/ml).    Centrifuged at 600 x g for 20 min with the brake of the centrifuge switched off.   Remove mononuclear cells from the 1.088:1.052 g/ml interface by aspiration with sterile plastic pipette, wash twice in complete RPMI and count.   Samples are centrifuged at 280 x g for 5 min and cells are incubated in sterile FACS tubes at 37 °C in complete RPMI in the presence of PMA (10 ng/ml), ionomycin (1 μg/ml) and BFA (5 μg/ml) for 5 h.",
+    "After 5 h wash the cells by centrifuging the cells at 280 x g for 5 min, ready for intracellular staining using a cell permeabilisation kit.    Resuspend in 50 μl PBS with 1:1,000 LIVE/DEAD® Fixable Aqua Dead Cell Stain kit for 20 min at 4 °C.    Wash cells in FACS buffer and resuspend in 50 μl FACS buffer containing CD16/CD32 FcγRIII (1: 100) and incubate at 4 °C for 10 min to block low-affinity IgG receptors.    Incubate cells in 50 μl/sample FACS buffer containing the appropriate FACS antibodies for 15 min at 4 °C.   Fix cells using IntraStain Reagent A (50 μl/sample) for 15 min at RT, wash twice with FACS buffer and centrifuge at 280 x g for 5 min.    Permeabilise cells with IntraStain Reagent B (50 μl/sample) including intracellular antibodies for 15 min at room temperature in the dark.    Wash cells twice in FACS buffer and centrifuge at 280 x g for 5 min.    Mononuclear cells which were surface stained only are blocked for 10 min, incubated with the appropriate antibodies for 15 min at 4 °C as described above, washed twice in FACS buffer and centrifuged at 280 x g for 5 min. PI can be used as a live/dead stain (with surface staining only) by adding 1:100 immediately before reading the samples on a flow cytometer.   Perform flow cytometric analysis on a flow cytometer and acquire data using Summit software. Analyse results using FlowJo software. Representative data can be viewed in References 1 and 2 below."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

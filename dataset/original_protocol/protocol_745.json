@@ -1,0 +1,17 @@
+{
+  "id": 788,
+  "origin_website": "Nature",
+  "title": "Enrichment of extracellular vesicles using Millipore membrane filters followed by isolation of exosomal RNA from serum or plasma using the Qiagen miRNeasy Micro kit",
+  "procedures": [
+    "1. Add 500 µL PBS to the AU-0.5 filter, cap, and centrifuge for 10 minutes at 14,000 x g.\n  2.  Reverse the device and centrifuge for 2 minutes at 1000 x g to remove the residual PBS from the filter.\n  3.  Aspirate PBS from the collection tube.\n  4.  Transfer 500 µL sample to the AU-0.5 filter and cap the device.\n  5.  Centrifuge for 30 minutes at 14,000 x g. There should be ~15 µL sample remaining in the upper chamber.\n  6.  Remove device from the centrifuge and empty the collection tube.  \n  7.  Add 0.5 mL PBS to the filter device and gently pipette sample multiple times to mix. \n  8.  Centrifuge for 30 minutes at 14,000 x g.\n  9.  Place filter upside down in a fresh microcentrifuge tube.\n  10.  Centrifuge for 2 minutes at 2000 x g<sup>1</sup> to transfer the sample to the collection tube. Discard filter.\n  11. Add 700 µL Qiazol sample in the collection tube and isolate RNA using the miRNeasy micro kit \\(starting from step 3)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

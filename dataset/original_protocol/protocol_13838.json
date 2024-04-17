@@ -1,0 +1,15 @@
+{
+  "id": 17664,
+  "origin_website": "Jove",
+  "title": "Measurement of Tissue Oxygenation Using Near-Infrared Spectroscopy in Patients Undergoing Hemodialysis",
+  "procedures": [
+    "All participants provided written informed consent. The study was approved by the Institutional Review Board of the Saitama Medical Center, Jichi Medical University, Japan (RIN 15–104).\n1. Device for the monitoring of rSO2\nPrepare a NIRS device for measuring tissue oxygenation. This device has four channels and can perform measurement in up to four organs at the same time.\nPrepare a measurement sensor for NIRS monitoring, to evaluate rSO2 values in each organ via transmitting near-infrared light at two wavelengths of attachment.\n2. Attaching the measurement sensor\nAllow each patient to rest in a supine position for at least 5 minutes before HD.\nAttach measurement sensors to the forehead, the right hypochondrium and lower legs to evaluate rSO2 in the brain, liver and lower leg muscles, respectively.\nMonitoring of cerebral oxygenation\n\t\nAttach measurement sensors to the forehead of the dominant hemisphere.\nMonitoring of hepatic oxygenation\n\t\nPrepare echography to measure the depth to the patients’ liver from the body surface. Confirm that this measurement is within 20–30 mm from the body surface. Next, attach the measurement sensors to the right hypochondrium.\n\t\tNOTE: In this device, rSO2 values should be obtained in deep tissue 20–30 mm from the body surface. In some instances, the liver may be located in more than 30 mm from the body surface due to the presence of thick subcutaneous fat.\nMonitoring of muscle oxygenation\n\t\nAttach measurement sensors to the right or bilateral lower legs.\nSensor connection and powering the device\n\t\nConnect each sensor to the leads from the device. Next, turn on the device, and start measuring oxygenation.\n3. Puncturing the dialysis shunt and starting monitoring\nPuncturing the dialysis shunt",
+    "Puncture the patients’ dialysis shunt to start HD therapy. At this time, measure BP using a digital blood pressure monitor equipped with the dialysis machine and collect blood samples using syringes.\nStart monitoring\n\t\nAfter starting HD therapy, start monitoring the tissue oxygenation of the three organs: the brain, liver and lower leg muscle.\nMonitoring of rSO2 during HD\n\t\nObserve changes in rSO2 values of each organ and measure BP regularly in addition to the usual monitoring performed during HD therapy including heart rate, venous pressure and blood volume. Confirm the attachment area and connection between the sensors and leads.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

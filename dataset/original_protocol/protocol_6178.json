@@ -1,0 +1,15 @@
+{
+  "id": 6533,
+  "origin_website": "Bio",
+  "title": "Preparation of Mitochondria from <em>Candida albicans</em>",
+  "procedures": [
+    "Culture preparationInoculate with sufficient starter culture to produce a culture of Candida albicans cells with an OD600 = 1.0-2.0 (an OD600 of up to 7 has worked in our hands) at the desired start time the next morning. Shake at 200 rpm at 30 °C overnight. MethodCollect cells by spinning at 4,000 x g/10 min/RT (room temperature). Pour off mediumResuspend cells in dH2O in weighed centrifuge tubes. Spin at 2,500 x g/5 min/RT. Reweigh to get mass of cells. Resuspend cells in Tris-DTT buffer (see Recipes) ~5 ml per g of cells.Incubate for 15 min at 30 °C with gentle shaking (~100 rpm). Spin at 2,500 x g/5 min/RT. Resuspend pellet in ~5 ml/g of cells pre-warmed 1.2 M sorbitol buffer. Spin at 2,500 x g/5 min/RT.Weigh out 0.2 mg/g of cells of lyticase. Dissolve in 2 ml pre-warmed (30 °C) 1.2 M sorbitol buffer per gram of cells. Resuspend pellet in this solution. Incubate cells in lyticase solution for ~60 min/30 °C with gentle shaking (~100 rpm) or until spheroplasts form (check spheroplast formation by osmotic shock: Add 30 μl cells to 2 ml 1.2 M sorbitol and water. After vortexing water sample should go clear).Spin down for 2,500 x g/5 min/RT. Discard supernatant.Resuspend in cold 1.2 M sorbitol buffer ~5 ml/g of cells. Spin 2,500 x g/5 min/4 °C. Resuspend in minimal amount of cold breaking buffer (BB) 6.0 then make up in BB 6.0 containing 1 mM PMSF final (~4 ml/g cells)Homogenize 15 times using a tight dounce. Dounce should be ~3/4 full or a bit less. Up stroke must be fast and steady. Bubbles can break mitochondria so try not to let it pop out.Spin homogenate 5 min/4 °C/3,000 x g. Save supernatant in a new tube and keep on ice (supernatant should be cloudy).",
+    "(Optional step for higher yield) Resuspend pellet again in BB 6.0 with PMSF and tight dounce and spin as above. Combine supernatants. Discard pellets.Spin combined supernatants 5 min/4 °C/3,000 x g. Save supernatant (repeat this spin step to clear more of the contaminating membranes if still getting a large pellet). Spin supernatant for 10 min/4 °C/12,000 x g. Pour off the supernatant and resuspend pellet in a small amount of BB 7.4 (with bovine serum albumin if mitochondria are to be used for in vitro import assays).Spin down 10 min/4 °C/12,000 x g then remove any white membranes that surround reddish-brown mitochondrial pellet before resuspending in a minimal amount of BB 7.4 with BSA. Repeat spin step above if still contaminating membranes present.Estimate the mitochondrial concentration as follows: Add 10 μl crude mitochondria to 990 μl 0.6% SDS. As a blank add 10 μl BB 7.4 with BSA to 990 μl 0.6% SDS. Measure A280 using Quartz cuvette. An absorbance value of 0.21 corresponds to 10 mg/ml protein in the undiluted mixture. Aliquot at appropriate volumes and snap freeze in dry ice/liquid nitrogen."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

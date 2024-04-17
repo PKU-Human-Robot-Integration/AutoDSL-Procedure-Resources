@@ -1,0 +1,15 @@
+{
+  "id": 750,
+  "origin_website": "Nature",
+  "title": "Using moFF  to Extract Peptide Ion Intensities from LC-MS experiments",
+  "procedures": [
+    "**moFF from the command line with identified features in tab-delimited file as input**\n1. Put your input identified features files in _input_. Put your raw file in another folder a called _rawFolder_. \n  \n2. Run moFF \\(match-between-runs and apex) using the following command:\n   **python moff_all.py --inputF input/ --raw_repo rawFolder/ --output_folder my_output **\nTo set all the parameters and options of moFF, please read the full list in the \"documentation\":https://github.com/compomics/moFF/blob/master/README.md#entire-workflow\n3. Collect all the results in the output folder \n  \n**moFF-GUI with PeptideShaker result as input**\n1. Run moFF-GUI and set the folder where PeptideShaker is installed and the output folder where all the results are collected. Click _proceed_ to continue\n  \n2. Choose which module to run. 'Apex' is just the apex MS1 extraction, and 'matching-between-run' for the match-between-runs module plus the apex module. Click _proceed_ to continue \\(Figure 3). <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4843/original/1_input.PNG?1475049529\">See figure in Figures section.</a> \n  \n3. Insert the Thermo RawFile or mzML files. For each raw file you have to associate also the relative cpsx file. Moreover, you can also insert the fasta and the mgf files used in PeptideShaker/SearchGui. Click _proceed_ to continue \\(Figure 4).\n  <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4845/original/2_input_data.PNG?1475049582\">See figure in Figures section.</a> \n4. Setting of the moFF parameters \\(Figure 5): \n  - XiC retention window \n- Peak retention time windows \n- Precursor mass tolerance\n- Match-between-run parameters_:\n  -Peak retention time windows for matched peak\n- Weighting/unweighting and the activation of outlier filtering and its width value\n- Selection of a set of specific peptides \\(loaded as tab-delimited file) and use them as training set of the mbr procedure instead of the shared features of the runs. \n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4851/original/3_input_parameter.PNG?1475497560\">See figure in Figures section.</a>\n5 Start the procedure clicking on _start_. Collect your result in the output folder"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4934,
+  "origin_website": "Bio",
+  "title": "T Cell Calcium Mobilization Study (Flow Cytometry)",
+  "procedures": [
+    "Prepare dye loading buffer 2 ml for one sample.Suspend cells at 5 x 106 cells/ml in 1 ml dye loading buffer and incubate 30 min at 37 °C.Spin down cells 5 min at 1,000 rpm.Stain cells with 5 μg/ml anti-CD3 hamster primary antibody (no azide) for 30 min on ice or at 4 °C (0.5 μg/100 μl PBS).Wash cells once.Resuspend cells in 3 ml HBSS/Ca/Mg/FBS at 3 x 106 cells/ml and store at RT and protect from light.For calcium mobilization, warm up samples at 37 °C for 5-10 min. Submit samples to flow cytometry for calcium baseline measurement. After 5 min, add 5 μg/ml goat anti-hamster IgG antibody (15 μg/3 ml), mix well and immediately continue the measurement with flow cytometry. To maintain the incubation temperature, a small beaker containing water prewarmed to 37 °C is necessary to bath sample tubes during the time course of measurement."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

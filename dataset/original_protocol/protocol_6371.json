@@ -1,0 +1,15 @@
+{
+  "id": 6727,
+  "origin_website": "Bio",
+  "title": "FACS Staining for Follicular Helper T Cells",
+  "procedures": [
+    "Harvest the spleen and create single cell suspension by gently smashing spleen pieces with the frosted surface of a pair of microscope slides in 5 ml of DMEM.Transfer the cells into 50 ml conical tubes and spin down the cells at 300 RCF for 5 min at 4 °C. Discard the supernatant with aspiration without disturbing the pellet.Resuspend the cells with 5 ml of 0.17 M ammonium chloride and keep the cells on ice for 5 min.Add 15 ml DMEM to the cells and spin at 300 RCF for 5 min at 4 °C.Discard the supernatant and resuspend the cells with 20 ml of DMEM and count the cells.Resuspend 2 millions spleen cells in 50 μl of 1:200 Fc block in FACS buffer and incubate for 30 min on ice.Wash the cells with 200 μl of PBS and spin down the cells at 300 RCF for 5 min at 4 °C.Discard the supernatant and resuspend the cells with 30 μl of anti-mouse CXCR5-biotin (1:50 in FACS buffer) and incubate for 30 min on ice.Wash the cells with 200 μl of PBS and spin down the cells at 300 RCF for 5 min at 4 °C.Discard the supernatant and resuspend the cells with 30 ul of anti-Rat IgG-biotin (1:50 in FACS buffer) and incubate for 30 min on ice.Wash the cells with 200 μl of PBS and spin down the cells at 300 RCF for 5 min at 4 °C.Discard the supernatant and resuspend the cells with 30 μl of the mixture of antibody 3-7 (1:50 in FACS buffer) and incubate for 30 min on ice. Wash the cells with 200 μl of PBS and spin down the cells at 300 RCF for 5 min at 4 °C.",
+    "Resuspend the cells in 400 μl DAPI (3 μM in PBS) and analyze the cells using BD LSR II flow cytometer."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

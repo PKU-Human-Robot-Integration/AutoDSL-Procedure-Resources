@@ -1,0 +1,3085 @@
+Symbol add	(	Symbolic_vol * 	vol1,
+Volume * 	vol2	 
+)			
+Adds a symbolic volume with an actual volume.
+
+Parameters:
+vol1 	the symbolic volume.
+vol2 	the actual volume.
+Example:
+ Symbol y = add(s_vol(x), vol(10, UL)); 
+Output:
+Internally, y is assigned the value x+10.
+See also:
+subtract(), multiply() and divide()
+
+
+
+Symbol add	(	Symbolic_vol * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Adds a symbolic volume with another symbolic volume.
+
+Parameters:
+vol1 	the symbolic volume.
+vol2 	the other symbolic volume.
+Example:
+ Symbol z = add(s_vol(x), s_vol(y)); 
+Output:
+Internally, z is assigned the value x+y.
+See also:
+subtract(), multiply() and divide()
+
+
+
+void add_to_column	(	Column & 	column1,
+Fluid & 	fluid1,
+Volume * 	volume1	 
+)			
+Adds the given volume of fluid1 to the specified column.
+
+Parameters:
+column1 	the column to which contents of container1 are added.
+fluid1 	the fluid that needs to be added to the column.
+volume1 	the volume of fluid1 that needs to be added to column1.
+Example:
+ add_to_column(spin_column, sola, vol(1, ML)); 
+Output:
+Add 1 ml of (sola.name) to (spin_column.name).
+See also:
+measure_fluid() and measure_prop()
+
+
+
+void add_to_column	(	Column & 	column1,
+Container & 	container1,
+Volume * 	volume1	 
+)			
+Adds the given volume of contents of container1 to the specified column.
+
+Parameters:
+column1 	the column to which contents of container1 are added.
+container1 	the container with the fluid that needs to be added to the column.
+volume1 	the volume of container1 's contents that needs to be added to column1.
+Example:
+ add_to_column(spin_column, eppendorf1, vol(1, ML)); 
+Output:
+Add 1 ml of (eppendorf1.contents.name) to (spin_column.name).
+See also:
+measure_fluid() and measure_prop()
+
+
+
+void add_to_column	(	Column & 	column1,
+Container & 	container1	 
+)			
+Adds the contents of container1 to the specified column.
+
+Parameters:
+column1 	the column to which contents of container1 are added.
+container1 	the container with the fluid that needs to be added to the column.
+Example:
+ add_to_column(spin_column, eppendorf1); 
+Output:
+Add (eppendorf1.contents.name) to (spin_column.name).
+See also:
+measure_fluid() and measure_prop()
+
+
+
+void add_to_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+Volume * 	volume1	 
+)			
+Adds the given volume of sample1 to the specified slide.
+
+Parameters:
+slide1 	the slide to which contents of slide1 are added.
+sample1 	the fluid that needs to be added to the slide.
+volume1 	the volume of sample1 that needs to be added to slide1.
+Example:
+ add_to_slide(slides, ethanol, vol(1, ML)); 
+Output:
+Add 1 ml of (ethanol.name) to each of the (slides.name).
+See also:
+add_to_column(), measure_fluid() and measure_prop()
+
+
+
+void assign	(	Symbol_t & 	s1,
+Symbol_t & 	s2	 
+)			
+Sets symbolic volume s1 to be equal to symbolic volume s2..
+
+Parameters:
+s1 	the symbolic time that is assigned a value.
+s2 	the symbolic time that s1 is equal to.
+Example:
+ assign(s_time(x), s_time(y)); 
+Output:
+Let (x.name) = (y.name).
+See also:
+new_symbol() and set_value()
+
+
+
+void assign	(	Symbol & 	s1,
+Symbol & 	s2	 
+)			
+Sets symbolic volume s1 to be equal to symbolic volume s2..
+
+Parameters:
+s1 	the symbolic volume that is assigned a value.
+s2 	the symbolic volume that s1 is equal to.
+Example:
+ assign(s_vol(x), s_vol(y)); 
+Output:
+Let (x.name) = (y.name).
+See also:
+new_symbol() and set_value()
+
+
+
+void ce_detect	(	Container & 	container1,
+float 	length,
+float 	volt_per_cm,
+Fluid & 	fluid1,
+Time * 	time1	 
+)			
+Sends the contents of the given container to a capillary electrophoresis(CE) unit for separation/detection at the given settings.
+
+Parameters:
+container1 	the container whose contents need to be detected/separated with CE.
+length 	length of the CE column.
+volt_per_cm 	voltage setting.
+fluid1 	the separation buffer.
+time1 	the duration of capillary electrophoresis at the given settings.
+Example:
+ ce_detect(eppendorf1, 23, 200, sep_buffer, time(3, MINS)); 
+Output:
+Detect/separate (eppendorf1.contents.name) by capillary electrophoresis with the following settings - 23 cm at 200 V/cm using (sep_buffer.name) for 3 mins..
+See also:
+nanodrop()
+
+
+
+void ce_detect	(	Container & 	container1,
+float 	length,
+float 	volt_per_cm,
+Fluid & 	fluid1	 
+)			
+Sends the contents of the given container to a capillary electrophoresis(CE) unit for separation/detection at the given settings.
+
+Parameters:
+container1 	the container whose contents need to be detected/separated with CE.
+length 	length of the CE column.
+volt_per_cm 	voltage setting.
+fluid1 	the separation buffer.
+Example:
+ ce_detect(eppendorf1, 23, 200, sep_buffer); 
+Output:
+Detect/separate (eppendorf1.contents.name) by capillary electrophoresis with the following settings - 23 cm at 200 V/cm using (sep_buffer.name)..
+See also:
+nanodrop()
+
+
+
+void cell_culture	(	Container & 	cells,
+Fluid & 	medium,
+int 	centri_speed,
+float 	temp,
+float 	time,
+float 	percent_CO2,
+Fluid & 	for_wash_valves,
+Fluid & 	for_wash_chambers,
+Fluid & 	for_trypsinization,
+float 	for_feeding	 
+)			
+Performs cell culture of the cells present in the given container with the specified parameters.
+
+Parameters:
+cells 	the container with the cells that need to be cultured.
+medium 	the cell culture medium.
+centri_speed 	the speed of centrifugation to retrieve the cells. (in rpm)
+temp 	the temperature of cell culture.
+time 	the duration of cell culture.
+percent_CO2 	the percent of carbon dioxide in the cell culture chamber.
+for_wash_valves 	the fluid used to wash the valves in the cell culture chamber.
+for_wash_chambers 	the fluid used to wash the chamber.
+for_trypsinization 	the fluid used for trypsinization.
+for_feeding 	the time duration between two consecutive feeds.
+Example:
+ cell_culture(cult_chamber, medium, 200, RT, 48, 30, fluid1, fluid2, fluid3, 20); 
+Output:
+Perform cell culture with the specified parameters.
+
+
+
+void centrifuge	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1	 
+)			
+Performs centrifugation of given container at the specified temperature, speed and time.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	duration of centrifugation.
+Example:
+ centrifuge(microfuge_tube1, speed(SPEED_MAX, RPM), 4, time(5, MINS)); 
+Output:
+Centrifuge at maximum speed for 5 mins at 4 C.
+See also:
+centrifuge_pellet(), centrifuge_phases_top() and centrifuge_phases_bottom()
+
+
+
+void centrifuge_column	(	Column & 	column1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1	 
+)			
+Performs centrifugation of given column at the specified temperature, speed and for the specified duration of time. The flow-through is discarded.
+
+Parameters:
+column1 	the column that is to be centrifuged.
+speed1 	the speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+Example:
+ centrifuge_column(column1, speed(10000, RPM), 4, time(5, MINS)); 
+Output:
+Centrifuge at a speed of 10000 rpm for 5 mins at 4 C. Discard the flow-through.
+See also:
+centrifuge_flow_through()
+
+
+
+void centrifuge_column	(	Column & 	column1,
+float 	temp,
+Time * 	time1	 
+)			
+Performs centrifugation of given column at the specified temperature and for the specified duration of time. The flow-through is discarded.
+
+Parameters:
+column1 	the column that is to be centrifuged.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+Example:
+ centrifuge_column(column1, 4, time(5, MINS)); 
+Output:
+Microfuge column for 5 mins at 4 C. Discard the flow-through.
+See also:
+centrifuge_flow_through()
+
+
+
+void centrifuge_flow_through	(	Column & 	column1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1,
+Container & 	container1	 
+)			
+Performs centrifugation of given column at the specified temperature, speed and for the specified duration of time. The column is discarded and the flow-through is left in the collection tube, container1.
+
+Parameters:
+column1 	the column that is to be centrifuged.
+speed1 	the speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+container1 	the container that collects the flow-through.
+Example:
+ centrifuge_flow_through(column1, speed(10000, RPM), 4, time(5, MINS)); 
+Output:
+Centrifuge at a speed of 10000 rpm for 5 mins at 4 C. Discard the column.
+See also:
+centrifuge_column()
+
+
+
+void centrifuge_flow_through	(	Column & 	column1,
+float 	temp,
+Time * 	time1,
+Container & 	container1	 
+)			
+Performs centrifugation of given column at the specified temperature and for the specified duration of time. The column is discarded and the flow-through is left in the collection tube, container1.
+
+Parameters:
+column1 	the column that is to be centrifuged.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+container1 	the container that collects the flow-through
+Example:
+ centrifuge_flow_through(column1, 4, time(5, MINS)); 
+Output:
+Microfuge column for 5 mins at 4 C. Discard the column.
+See also:
+centrifuge_column()
+
+
+
+void centrifuge_pellet	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1,
+Volume * 	expected_vol	 
+)			
+Performs centrifugation of given container at the specified temperature, speed and time and yields a pellet. The expected volume of supernatant is specified and the supernatant is discarded.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	duration of centrifugation.
+expected_vol 	the expected volume of supernantant.
+Example:
+ centrifuge_pellet(eppendorf1, speed(SPEED_MAX, RPM), RT, time(2, MINS), vol(100, UL)); 
+Output:
+Centrifuge at maximum speed for 2 mins at room temperature, gently aspirate out the supernatant and discard it. The expected volume of supernatant is 100 ul.
+See also:
+centrifuge_phases_top() and enum vol_unit
+
+
+
+void centrifuge_pellet	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1	 
+)			
+Performs centrifugation of given container at the specified temperature, speed and time and yields a pellet. The supernatant is discarded.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	duration of centrifugation.
+Example:
+ centrifuge_pellet(eppendorf1, speed(SPEED_MAX, RPM), RT, time(2, MINS)); 
+Output:
+Centrifuge maximum speed for 2 mins at room temperature, gently aspirate the supernatant and discard it.
+See also:
+centrifuge_phases_top()
+
+
+
+void centrifuge_phases_bottom	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1,
+Volume * 	aspirate_vol,
+Volume * 	leave_behind	 
+)			
+Performs centrifugation of given container for the specified time, speed and temp. The specified volume of top(aqueous) phase is discarded and the remaining portion is left behind in the container.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	the speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	duration of centrifugation.
+aspirate_vol 	the volume of container1 's contents that has to be aspirated out and discarded.
+leave_behind 	the volume of container1 's contents that has to be left behind.
+Example:
+ centrifuge_phases_bottom(eppendorf1, speed(SPEED_MAX, RPM), RT, time(2, MINS), vol(800, UL), vol(200, UL)); 
+Output:
+Centrifuge at maximum speed for 2 mins at room temperature and gently aspirate out 800 ul of the supernantant and discard it. Leave behind 200 ul.
+See also:
+centrifuge_pellet()and centrifuge_phases_top()
+
+
+
+void centrifuge_phases_top	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1,
+Volume * 	aspirate_vol,
+Container & 	container2	 
+)			
+Performs centrifugation of given container for the specified time, speed and temp. The specified proportion of top(aqueous) phase is transferred to a new container and the bottom layer is discarded.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	the speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+aspirate_vol 	the volume of container1 's contents that has to be aspirated out into a new container.
+container2 	the container to which the supernatant is tranferred.
+Example:
+ centrifuge_phases_top(eppendorf1, speed(SPEED_MAX, RPM), RT, time(2, MINS), vol(200, UL), eppendorf1); 
+Output:
+Centrifuge at maximum speed for 2 mins at room temperature and aspirate out 200 ul of the top layer. Transfer the top layer to (eppendorf1.name).
+See also:
+centrifuge_pellet()
+
+
+
+void centrifuge_phases_top	(	Container & 	container1,
+Speed * 	speed1,
+float 	temp,
+Time * 	time1,
+Container & 	container2	 
+)			
+Performs centrifugation of given container for the specified time, speed and temp. The top(aqueous) phase is transferred to a new container and the bottom layer is discarded.
+
+Parameters:
+container1 	the container that is to be centrifuged.
+speed1 	the speed of centrifugation.
+temp 	the temperature of centrifugation.
+time1 	the duration of centrifugation.
+container2 	the container to which the supernatant is tranferred.
+Example:
+ centrifuge_phases_top(eppendorf1, speed(SPEED_MAX, RPM), RT, time(2, MINS), eppendorf1); 
+Output:
+Centrifuge at maximum speed for 2 mins at room temperature and aspirate out the top layer. Transfer the top layer to (eppendorf1.name).
+See also:
+centrifuge_pellet()
+
+
+
+void collect_tissue	(	Tissue & 	sample1,
+float 	wt,
+enum weight_unit 	unit,
+Container & 	container1	 
+)			
+Collects the specified amount of tissue in the given container.
+
+Parameters:
+sample1 	the tissue that has to be collected.
+wt 	the weight of sample1 that has to be collected.
+unit 	the unit of wt. (See enum weight_unit)
+container1 	the container in which sample1 has to be collected.
+Example:
+ collect_tissue(plant_tissue, 2, GR, sterile_microfuge_tube1); 
+Output:
+Collect 2 g of (plant_tissue.name) in (sterile_microfuge_tube1.name).
+See also:
+homogenize_tissue()
+
+
+
+
+void collect_tissue	(	Tissue & 	sample1,
+Container & 	container1	 
+)			
+Collects the specified tissue in the given container.
+
+Parameters:
+sample1 	the tissue that has to be collected.
+container1 	the container in which sample1 has to be collected.
+Example:
+ collect_tissue(plant_tissue, cryo_tube); 
+Output:
+Collect (plant_tissue.name) into (cryo_tube.name) and snap-freeze in liquid nitrogen.
+See also:
+homogenize_tissue()
+
+
+
+void combine	(	int 	count,
+Container & 	container1,
+ 	...	 
+)			
+Combines the contents of the given containers.
+
+Parameters:
+count 	the number of containers whose contents have to be mixed.
+container1 	the first container of count number of containers.
+Example:
+ combine(3, tube1, tube2, tube3); 
+Output:
+Combine the (tube1.contents.name), (tube2.contents.name), (tube3.contents.name).
+See also:
+combine_and_mix()
+
+
+
+void combine_and_mix	(	enum mixing 	type,
+Time * 	time1,
+int 	count,
+Container & 	container1,
+ 	...	 
+)			
+Combines the given list of containers' contents and mixes them for the specified duration of time and setting.
+
+Parameters:
+type 	the type of mixing. (See enum mixing)
+time1 	the duration of mixing.
+count 	the number of containers whose contents have to be mixed.
+container1 	the first of the list of containers whose contents have to be mixed.
+Example:
+ combine_and_mix(VORTEXING, time_range(2, 3, MINS), 2, tube1, tube2); 
+Output:
+Combine the (tube1.contents.name), (tube2.contents.name). Vortex the mixture for 2 - 3 mins.
+See also:
+combine(), tap(), stir(), invert(), vortex(), resuspend(), dissolve(), pipet() and enum mixing
+
+
+
+void combine_and_mix	(	enum mixing 	type,
+int 	count,
+Container & 	container1,
+ 	...	 
+)			
+Combines the given list of containers' contents and mixes them with the specified setting for a few seconds.
+
+Parameters:
+type 	the type of mixing. (See enum mixing)
+count 	the number of containers whose contents have to be mixed.
+container1 	the first of the list of containers whose contents have to be mixed.
+Example:
+ combine_and_mix(VORTEXING, 2, tube1, tube2); 
+Output:
+Combine the (tube1.contents.name), (tube2.contents.name). Vortex the mixture for a few secs.
+See also:
+combine(), tap(), stir(), invert(), vortex(), resuspend(), dissolve(), pipet() and enum mixing
+
+
+
+void comment	(	char * 	comm	 ) 	
+Used to specify a hint/ caution type message that supplements a step in a protocol.
+
+Example:
+ comment("Take care with this step as the pellet may not stick to the tube completely.");
+Output:
+Take care with this step as the pellet may not stick to the tube completely.
+See also:
+to_do()
+
+
+
+void discard	(	Container & 	container1	 ) 	
+Discards the contents of the specified container.
+
+Example:
+ discard(epepndorf1);
+Output:
+Discard (eppendorf1.contents.name).
+Parameters:
+container1 	the container whose contents have to be discarded.
+
+
+
+void dissolve	(	Container & 	container1	 ) 	
+Dissolves the contents of the solution in tube.
+
+Parameters:
+container1 	the container whose contents have to be dissolved.
+Example:
+ dissolve(eppendorf1);
+Output:
+Dissolve the pellet in the solution.
+See also:
+tap(), stir(), invert(), vortex(), resuspend(), pipet() and combine_and_mix()
+
+
+
+Symbol divide	(	Symbolic_vol * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Divides a symboic volume by another symbolic volume.
+
+Parameters:
+vol1 	the dividend.
+vol2 	the divisor.
+Example:
+ z = divide(s_vol(x), s_vol(y)); 
+Output:
+Internally, z is assigned the value x/y.
+See also:
+add(), multiply() and subtract()
+
+
+
+Symbol divide	(	Volume * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Divides an actual volume by a symbolic volume.
+
+Parameters:
+vol1 	the actual volume (dividend).
+vol2 	the symbolic volume (divisor).
+Example:
+ y = divide(vol(10, UL), s_vol(x)); 
+Output:
+Internally, y is assigned the value 10/x.
+See also:
+add(), multiply() and subtract()
+
+
+
+Symbol divide	(	Symbolic_vol * 	vol1,
+Volume * 	vol2	 
+)			
+Divides a symbolic volume by an actual volume.
+
+Parameters:
+vol1 	the symbolic volume (dividend).
+vol2 	the actual volume (divisor).
+Example:
+ y = divide(s_vol(x), vol(10, UL)); 
+Output:
+Internally, y is assigned the value x/10.
+See also:
+add(), multiply() and subtract()
+
+
+
+void drain	(	Container & 	container1	 ) 	
+Drains the specified container.
+
+Parameters:
+container1 	the container that has to be drained.
+Example:
+ drain(cult_chamber); 
+Output:
+Drain (cult_chamber.name).
+See also:
+discard()
+
+
+
+void dry_pellet	(	Container & 	container1,
+drying 	type,
+Time * 	time1	 
+)			
+Dries the contents(pellet) of the specified container with specified conditions and time.
+
+Parameters:
+container1 	the container whose contents(pellet) need to be dried.
+type 	the condition for drying.
+time1 	the duration of drying.
+Example:
+ dry_pellet(microfuge_tube1, "in air", max_time(15, MINS)); 
+Output:
+Dry the pellet in air for at most 15 mins.
+See also:
+invert_dry()
+
+
+
+void dry_pellet	(	Container & 	container1,
+drying 	type	 
+)			
+Dries the contents(pellet) of the specified container with specified conditions.
+
+Parameters:
+container1 	the container whose contents(pellet) need to be dried.
+type 	the condition for drying.
+Example:
+ dry_pellet(microfuge_tube1, "in vacuum");
+Output:
+Dry the pellet in vacuum.
+See also:
+invert_dry()
+
+
+
+void dry_slide	(	Slide & 	slide1	 ) 	
+Dries the specified slide in air.
+
+Parameters:
+slide1 	the slide that needs to be dried.
+Example:
+ dry_slide(slide1); 
+Output:
+Dry (slide1.name).
+
+
+
+void electrophoresis	(	int 	no_samples,
+Container 	container_array[],
+float 	agar_conc,
+Volume * 	pdt_vol,
+Volume * 	loading_buff_vol	 
+)			
+Performs agarose gel elecrophoresis of the contents of container1.
+
+Parameters:
+no_samples 	the number of samples loaded on to the gel.
+container_array 	the containers whose contents have to be subjected to agarose gel electrophoresis.
+agar_conc 	the concentration of agarose in the gel.
+pdt_vol 	the volume of sample used for electrophoresis.
+loading_buff_vol 	the volume of loading buffer used.
+Example:
+ electrophoresis(2, array1, 0.8, vol(5, UL), vol(1, UL));
+Output:
+Perform 0.8% agarose gel electrophoresis of (array1[0].contents.name) and (array1[1].contents.name)(5�l sample and 1�l of loading buffer), mixed with ethidium bromide and visualize with UV transilluminator to confirm the presence of required product.
+See also:
+nanodrop()
+
+
+
+void electroporate	(	Container & 	container1,
+float 	voltage,
+int 	no_pulses	 
+)			
+Electroporates the contents of the specified container with the given settings.
+
+Parameters:
+container1 	the container whose contents have to be subjected to electroporation.
+voltage 	the electroporation voltage.
+no_pulses 	the number of voltage pulses.
+Example:
+ electroporate(tube1, 220, 5); 
+Output:
+Set the electroporator to deliver 220 V, and then press the PULSE button 5 times.
+
+
+
+void end_option	(		 ) 	
+Marks the last option of a step of a protocol.
+
+Example:
+ end_option(); 
+Output:
+Internally, ends the list of options.
+See also:
+first_option(), next_option()
+
+
+
+void end_protocol	(		 ) 	
+Marks the end of the protocol (calls display_equipment, closes the file and resets all the variables).
+
+Example:
+ end_protocol; 
+Output:
+Internally, closes the html file.
+See also:
+start_protocol()
+
+
+
+void facs	(	Container & 	container1	 ) 	
+Peforms fluorescence activated cell sorting (FACS) of the contents of container1.
+
+Parameters:
+container1 	the container whose contents have to be sorted using FACS.
+Example:
+ facs(eppendorf1); 
+Output:
+FACS: Sort (eppendor1.contents.name) based on fluorescence.
+
+
+
+void first_option	(	char * 	name	 ) 	
+Marks the first option of a step of a protocol and gives the step a name.
+
+Parameters:
+name 	the name of the step.
+Example:
+ first_option(); 
+Output:
+Option 1:
+See also:
+next_option(), end_option()
+
+
+
+void first_option	(		 ) 	
+Marks the first option of a step of a protocol.
+
+Example:
+ first_option(); 
+Output:
+Option 1:
+See also:
+next_option(), end_option()
+
+
+
+void first_step	(	char * 	step_name	 ) 	
+Marks the first step of a protocol. Also specifies the name of the step.
+
+Parameters:
+step_name 	the name of the step.
+Example:
+ first_step(DNA extraction); 
+Output:
+Steps:
+1. DNA extraction
+See also:
+next_step(), optional_step() and first_sub_step()
+
+
+
+void first_step	(		 ) 	
+Marks the first step of a protocol.
+
+Example:
+ first_step(); 
+Output:
+1.
+See also:
+next_step(), optional_step() and first_sub_step()
+
+
+
+void first_sub_step	(		 ) 	
+Marks the first sub-step of a step in the protocol.
+
+Example:
+ first_sub_step(); 
+Output:
+a.
+See also:
+next_step(), optional_step() and next_sub_step()
+
+
+
+void homogenize_tissue	(	Container & 	container1,
+Fluid & 	fluid1	 
+)			
+Homogenizes the contents (tissue) of the specified container in the given fluid.
+
+Parameters:
+container1 	the container with the tissue to be homogenized.
+fluid1 	the fluid used to homogenize the tissue in container1.
+Example:
+ homogenize_tissue(microfuge_tube, solution1); 
+Output:
+Homogenize (microfuge_tube.contents.name) in (solution1.name).
+See also:
+collect_tissue()
+
+
+
+void homogenize_tissue	(	Container & 	container1	 ) 	
+Homogenizes the contents (tissue) of the specified container using a mortor and a pestle with liquid nitrogen.
+
+Parameters:
+container1 	the container with the tissue to be homogenized.
+Example:
+ homogenize_tissue(microfuge_tube);
+Output:
+Pre-cool the mortars by pouring liquid nitrogen into them. Add (microfge_tube.contents.name) into the mortar containing liquid nitrogen and grind with a pestle until it is a fine powder. Use gloves!
+See also:
+collect_tissue()
+
+
+
+void immerse_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+Time * 	time1,
+enum func 	function,
+int 	no_of_times	 
+)			
+Immerses the given slide in the specified fluid for the specified duration and number of times, thus performing a given function.
+
+Parameters:
+slide1 	the slide to be immersed.
+sample1 	the fluid in which the slide has to be immersed.
+time1 	the duration of immersion.
+function 	the function being performed as a result of the immersion operation. (See enum func)
+no_of_times 	the number of times that the slide has to be immersed in the given fluid.
+Example:
+ immerse_slide(slide1, ethanol, time(2, MINS), DEWAX, 2); 
+Output:
+Dewax (slide1.name) in (ethanol.name) for 2 mins twice.
+See also:
+immerse_slide_and_incubate() and enum func
+
+
+
+void immerse_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+Time * 	time1,
+int 	no_of_times	 
+)			
+Immerses the given slide in the specified fluid for the specified duration and number of times.
+
+Parameters:
+slide1 	the slide to be immersed.
+sample1 	the fluid in which the slide has to be immersed.
+time1 	the duration of immersion.
+no_of_times 	the number of times that the slide has to be immersed in the given fluid.
+Example:
+ immerse_slide(slide1, ethanol, time(2, MINS), 1); 
+Output:
+Immerse (slide1.name) in (ethanol.name) for 2 mins.
+See also:
+immerse_slide_and_incubate()
+
+
+
+void immerse_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+int 	no_of_times	 
+)			
+Immerses the given slide in the specified fluid for the specified number of times.
+
+Parameters:
+slide1 	the slide to be immersed.
+sample1 	the fluid in which the slide has to be immersed.
+no_of_times 	the number of times that the slide has to be immersed in the given fluid.
+Example:
+ immerse_slide(slide1, ethanol, 2); 
+Output:
+Immerse (slide1.name) in (ethanol.name) twice.
+See also:
+immerse_slide_and_incubate()
+
+
+
+void immerse_slide_and_incubate	(	Slide & 	slide1,
+Fluid & 	sample1,
+float 	temp,
+Time * 	time1,
+enum container_type 	type	 
+)			
+Incubates the given slide in the specified fluid for the specified duration in the given environment.
+
+Parameters:
+slide1 	the slide to be incubated.
+sample1 	the fluid in which the slide has to be immersed and incubated.
+temp 	the temperature of incubation.
+time1 	the duration of incubation.
+type 	the environment in which the slide is incubated. (See enum container_type)
+Example:
+ immerse_slide_and_incubate(slide1, ethanol, 37, time(2, MINS), humidified_chamber); 
+Output:
+Incubate (slide1.name) in (ethanol.name) for 2 mins at 37 C in (humidified_chamber.name).
+See also:
+immerse_slide() and enum container_type
+
+
+
+void immerse_slide_and_incubate	(	Slide & 	slide1,
+Fluid & 	sample1,
+float 	temp,
+Time * 	time1	 
+)			
+Incubates the given slide in the specified fluid for the specified duration.
+
+Parameters:
+slide1 	the slide to be incubated.
+sample1 	the fluid in which the slide has to be immersed and incubated.
+temp 	the temperature of incubation.
+time1 	the duration of incubation.
+Example:
+ immerse_slide_and_incubate(slide1, ethanol, RT, time(2, MINS)); 
+Output:
+Incubate (slide1.name) in (ethanol.name) for 2 mins at room temperature.
+See also:
+immerse_slide()
+
+
+
+void incubate	(	Container & 	container1,
+float 	temp,
+Time * 	time1,
+int 	rpm	 
+)			
+Incubates the given container at the specified temperature for the specified duration of time, with shaking at the given rpm.
+
+Parameters:
+container1 	the container whose contents need to be incubated.
+temp 	the temperature of incubation.
+time1 	the duration of incubation.
+rpm 	the speed of shaking while incubating (in rpm).
+Example:
+ incubate(flask, RT, time(3, HRS), 200); 
+Output:
+Incubate at room temperature for 3 hrs with shaking at 200 rpm.
+See also:
+store(), store_for(), store_until() and inoculation()
+
+
+
+void incubate	(	Container & 	container1,
+float 	temp,
+Time * 	time1	 
+)			
+Incubates the given container at the specified temperature for the specified duration of time, without shaking.
+
+Parameters:
+container1 	the container whose contents need to be incubated.
+temp 	the temperature of incubation.
+time1 	the duration of incubation.
+Example:
+ incubate(eppendorf, ON_ICE, time_range(3, 5, MINS)); 
+Output:
+Incubate on ice for 3 - 5 mins.
+See also:
+store(), store_for(), store_until() and inoculation()
+
+
+
+void incubate_and_mix	(	Container & 	container1,
+float 	temp,
+Time * 	time1,
+Time * 	time_mix,
+enum mixing 	type	 
+)			
+Incubates the given container at the specified temperature for the specified duration of time, with shaking at the given rpm and stirring during the incubation as specified.
+
+Parameters:
+container1 	the container whose contents need to be incubated.
+temp 	the temperature of incubation.
+time1 	the duration of incubation.
+time_mix 	the time intervals at which the contents of the container have to be mixed during incubation.
+type 	the type of mixing.
+Example:
+ incubate_and_mix(flask, RT, time(3, HRS), 200, time(10, MINS)); 
+Output:
+Incubate at room temperature for 3 hrs with shaking at 200 rpm, mixing gently by stirring the container every 10 mins.
+See also:
+store(), store_for(), store_until(), incubate(), inoculation() and enum ranges
+
+
+
+void incubate_plate	(	Plate & 	plate1,
+float 	temp,
+Time * 	time1	 
+)			
+Incubates the given plate at the specified temperature for the specified duration of time.
+
+Parameters:
+plate1 	the plate that needs to be incubated.
+temp 	the temperature of incubation.
+time1 	duration of incubation.
+Example:
+ incubate_plate(lb_plate, 37, time(OVERNIGHT, HRS));
+Output:
+Incubate at 37 C for 12 hrs(overnight).
+See also:
+incubate(), inoculation() and enum ranges
+
+
+
+void inoculation	(	Container & 	medium,
+Fluid & 	sample1,
+Volume * 	volume1,
+float 	temp,
+Time * 	time1,
+float 	cell_density,
+int 	shaking_type	 
+)			
+Inoculates a medium in the given container with a specified volume of culture and performs incubation at the given temperature for the specified duration on a rotary incubator until the desired cell density(X10 6 ) is reached.
+
+Parameters:
+medium 	the container that contains the medium for inoculation.
+sample1 	the culture used for inoculating the medium.
+volume1 	the volume of sample1 that is used for inoculation.
+temp 	the temperature of incubation after inoculation.
+time1 	the duration of incubation after inoculation.
+cell_density 	the required cell density after incubation.
+shaking_type 	set to 1 if incubation with shaking is required, else set to 0.
+Example:
+ inoculation(flask, subculture, vol(200, UL), 37, time(OVERNIGHT, HRS), 6, 0); 
+Output:
+Inoculate (flask.contents.name) with 200 ul of (sub_culture.name) and incubate without shaking for 12 hrs(overnight) at 37 C.
+Calibrate the spectrophotometer and make sure that the cell density of the culture has reached 6 X 106 cells/ml before continuing.
+See also:
+incubate() and store_until()
+
+
+
+void inoculation	(	Container & 	medium,
+Fluid & 	sample1,
+Volume * 	volume1,
+float 	temp,
+Time * 	time1,
+int 	shaking_type	 
+)			
+Inoculates a medium in the given container with a specified volume of culture and performs incubation at the given temperature for the specified duration on a rotary incubator.
+
+Parameters:
+medium 	the container that contains the medium for inoculation.
+sample1 	the culture used for inoculating the medium.
+volume1 	the volume of sample1 that is used for inoculation.
+temp 	the temperature of incubation after inoculation.
+time1 	the duration of incubation after inoculation.
+shaking_type 	set to 1 if incubation with shaking is required, else set to 0.
+Example:
+ inoculation(flask, subculture, vol(200, UL), 37, time(OVERNIGHT, HRS), 0); 
+Output:
+Inoculate (flask.contents.name) with 200 ul of (sub_culture.name) and incubate without shaking for 12 hrs(overnight) at 37 C.
+See also:
+incubate() and store_until()
+
+
+
+void inoculation	(	Container & 	medium,
+Solid & 	sample1,
+float 	temp,
+Time * 	time1,
+float 	cell_density,
+int 	shaking_type	 
+)			
+Inoculates a medium in the given container with a specified solid colony of culture and performs incubation at the given temperature for the specified duration on a rotary incubator until the desired cell density(X10 6 ) is reached.
+
+Parameters:
+medium 	the container that contains the medium for inoculation.
+sample1 	the colony used for inoculating the medium.
+temp 	the temperature of incubation after inoculation.
+time1 	the duration of incubation after inoculation.
+cell_density 	the required cell density after incubation.
+shaking_type 	set to 1 if incubation with shaking is required, else set to 0.
+Example:
+ inoculation(flask, colony, 37, time(OVERNIGHT, HRS), 6, 1); 
+Output:
+Inoculate (flask.contents.name) with (colony.name) and incubate with shaking for 12 hrs(overnight) at 37 C.
+Calibrate the spectrophotometer and make sure that the cell density of the culture has reached 6 X 106 cells/ml before continuing.
+See also:
+incubate() and store_until()
+
+
+
+void inoculation	(	Container & 	medium,
+Solid & 	sample1,
+float 	temp,
+Time * 	time1,
+int 	shaking_type	 
+)			
+Inoculates a medium in the given container with a specified solid colony of culture and performs incubation at the given temperature for the specified duration on a rotary incubator.
+
+Parameters:
+medium 	the container that contains the medium for inoculation.
+sample1 	the colony used for inoculating the medium.
+temp 	the temperature of incubation after inoculation.
+time1 	the duration of incubation after inoculation.
+shaking_type 	set to 1 if incubation with shaking is required, else set to 0.
+Example:
+ inoculation(flask, colony, 37, time(OVERNIGHT, HRS), 1); 
+Output:
+Inoculate (flask.contents.name) with (colony.name) and incubate with shaking for 12 hrs(overnight) at 37 C.
+See also:
+incubate() and store_until()
+
+
+
+void invert	(	Container & 	container1,
+enum until 	event1	 
+)			
+Mixes the contents of the given container by inverting it until the specified result is obtained.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+event1 	the event until which the container has to be mixed. (See enum until)
+Example:
+ invert(eppendorf, PPT_STOPS_STICKING);
+Output:
+Close the tube tightly and gently mix the contents by inverting the tube until the precipitate stops sticking to the walls of the tube.
+See also:
+tap(), stir(), vortex(), dissolve(), resuspend(), pipet(), combine_and_mix() and enum until
+
+
+
+void invert	(	Container & 	container1,
+int 	min_times,
+int 	max_times	 
+)			
+Mixes the contents of the given container by inverting it for the specified number of times.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+min_times 	the minimum number of times that the container has to be inverted.
+max_times 	the maximum number of times that the container has to be inverted.
+Example:
+ invert(eppendorf, 3, 5);
+Output:
+Close the tube tightly and gently mix the contents by inverting the tube 3 - 5 times.
+See also:
+tap(), stir(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void invert	(	Container & 	container1,
+int 	times	 
+)			
+Mixes the contents of the given container by inverting it for the specified number of times.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+times 	the number of times that the container has to be inverted.
+Example:
+ invert(eppendorf, 5);
+Output:
+Close the tube tightly and gently mix the contents by inverting the tube 5 times.
+See also:
+tap(), stir(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void invert	(	Container & 	container1	 ) 	
+Mixes the contents of the given container by inverting the container for a few seconds.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+Example:
+ invert(eppendorf);
+Output:
+Close the tube tightly and gently mix the contents by inverting the tube.
+See also:
+tap(), stir(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void invert_dry	(	Container & 	container1,
+float 	temp,
+Time * 	time1	 
+)			
+Inverts the container containing a pellet to dry it. The approximate time taken for drying the pellet is also specified.
+
+Parameters:
+container1 	the container whose contents have to be dried.
+temp 	the temperature of drying.
+time1 	the duration of drying.
+Example:
+ invert_dry(tube1, 37, time(15, MINS)); 
+Output:
+Stand the tube containing (tube1.contents.name) for 15 mins in an inverted position on a paper towel to allow all of the fluid to drain away. Dry at 37 C.
+See also:
+store(), store_for(), store_until and incubate()
+
+
+
+void invert_dry	(	Container & 	container1,
+float 	temp	 
+)			
+Inverts the container containing a pellet to dry it.
+
+Parameters:
+container1 	the container whose contents have to be dried.
+temp 	the temperature of drying.
+Example:
+ invert_dry(tube1, RT); 
+Output:
+Stand the tube containing (tube1.contents.name) in an inverted position on a paper towel to allow all of the fluid to drain away.
+See also:
+store(), store_for(), store_until, incubate(), enum ranges and enum time_unit
+
+
+
+void measure_fluid	(	Container & 	con,
+Volume * 	volume1,
+Container & 	container1	 
+)			
+Measures out a specified volume of contents of container con into another container, container1.
+
+Parameters:
+con 	the container whose contents have to be measured out.
+volume1 	the volume of con 's contents required.
+container1 	the destination container of the measured contents of con.
+Example:
+ measure_fluid(eppendorf1, vol(1, ML), tube1);
+Output:
+Measure out 1 ml of (eppendorf1.contents.name) into (tube1.name).
+See also:
+measure_solid() and measure_prop
+
+
+
+void measure_fluid	(	Fluid & 	fluid1,
+Volume * 	volume1,
+Container & 	container1	 
+)			
+Measures out a specified volume of fluid1 into the given container.
+
+Parameters:
+fluid1 	the fluid that has to be measured out.
+volume1 	the volume of fluid1 required.
+container1 	the container into which fluid1 has to be measured.
+Example:
+ measure_fluid(solution1, vol(1, ML), tube1);
+ measure_fluid(solution2, vol(1, ML), tube1);
+Output:
+Measure out 1 ml of (solution1.name) into (tube1.name).
+Add 1 ml of (solution2.name).
+See also:
+measure_solid() and measure_prop
+
+
+
+void measure_fluid	(	Fluid & 	fluid1,
+Volume * 	volume1	 
+)			
+Measures out a specified volume of fluid1.
+
+Parameters:
+fluid1 	the fluid that has to be measured out.
+volume1 	the volume of fluid1 required.
+Example:
+ measure_fluid(solution1, vol(1, ML));
+Output:
+Measure out 1 ml of (solution1.name).
+See also:
+measure_solid() and measure_prop()
+
+
+
+void measure_fluid	(	Fluid & 	fluid1,
+Container & 	container1	 
+)			
+Measures out fluid1 into the specified container.
+
+Parameters:
+fluid1 	the fluid that has to be measured out.
+container1 	the container into which fluid1 has to be measured.
+Example:
+ measure_fluid(solution1, eppendorf);
+ measure_fluid(solution2, eppendorf);
+Output:
+Measure out (solution1.name) into (eppendorf.name).
+Add (solution2.name) to (solution1.name).
+See also:
+measure_solid() and measure_prop()
+
+
+
+void measure_fluid	(	Container & 	container,
+Container & 	container1	 
+)			
+Measures out container's into another specified container.
+
+Parameters:
+container 	the container whose contents have to be measured out.
+container1 	the container into which fluid1 has to be measured.
+Example:
+ measure_fluid(rxn_tube, eppendorf); 
+Output:
+Measure out (rxn_tube.contents.name) into (eppendorf.name).
+See also:
+measure_solid() and measure_prop()
+
+
+
+void measure_fluorescence	(	Container & 	container1	 ) 	
+Measures the fluorescence of the contents of the specified container.
+
+Parameters:
+container1 	the container whose contents need to be measured for fluorescence.
+Example:
+ measure_fluorescence(eppendorf1);
+Output:
+Measure the fluorescence of (eppendorf1.contents.name).
+
+
+
+void measure_prop	(	Container & 	dest,
+Container & 	source,
+float 	prop	 
+)			
+Measures a specified proportion of source container's contents and adds it to the dest container. Combination of measure_fluid() and combine() instructions.
+
+Parameters:
+dest 	the container to which source 's contents are added.
+source 	the container whose contents have to be measured out.
+prop 	the proportion of dest 's contents that has to be measured out of source.
+Example:
+ measure_prop(tube1, tube2, 2); 
+Output:
+Add 2 volumes (tube2.contents.name).
+See also:
+measure_fluid and measure_fluid()
+
+
+
+void measure_prop	(	Container & 	dest,
+Fluid & 	source,
+float 	prop	 
+)			
+Measures a specified proportion of fluid source and adds it to the dest container. Combination of measure_fluid() and combine() instructions.
+
+Parameters:
+dest 	the container to which source is added.
+source 	the fluid that has to be measured out.
+prop 	the proportion of dest 's contents that has to be measured out of source.
+Example:
+ measure_prop(tube1, phenol, 2); 
+Output:
+Add 2 volumes (phenol.name).
+See also:
+measure_fluid and measure_fluid()
+
+
+
+void measure_solid	(	Solid & 	solid1,
+float 	weight,
+enum weight_unit 	unit,
+Container & 	container1	 
+)			
+Measures out a specified weight of solid1 into the given container.
+
+Parameters:
+solid1 	the solid that has to be measured out.
+weight 	the weight of solid1 required.
+unit 	the unit of weight.
+container1 	the container into which solid1 has to be measured.
+Example:
+ measure_solid(sds, 2, GR, tube1); 
+Output:
+Measure out 2 g of (sds.name) into (tube1.name).
+See also:
+measure_fluid(), enum weight_unit and measure_prop()
+
+
+
+void measure_solid	(	Solid & 	solid1,
+Container & 	container1	 
+)			
+Measures out a specified weight of solid1 into the given container.
+
+Parameters:
+solid1 	the solid that has to be measured out.
+container1 	the container into which solid1 has to be measured.
+Example:
+ measure_solid(sds, tube1); 
+Output:
+Measure out (sds.name) into (tube1.name).
+See also:
+measure_fluid() and measure_prop()
+
+
+
+void mixing_table	(	int 	no_rows,
+int 	no_columns,
+Fluid 	array1[],
+char * 	tube[],
+Volume * 	vol[],
+Volume * 	rxn_vol,
+Container & 	container1	 
+)			
+Prints a table with the given fluid array as the column elements and the given tubes (reaction names) as the row elements.
+
+Parameters:
+no_rows 	the number of rows in the table(= Number of members in array1 + 1).
+no_columns 	the number of columns in tht table(= Number of members in array tube + 1).
+array1 	the array of fluids that make up the reaction in each tube.
+tube 	the array of unique tubes/ reaction names.
+vol 	the array of volumes of each fluid in array1 that make up each reaction in tube.
+rxn_vol 	the final volume of the reaction in each tube.
+container1 	the container that contains the final reaction mix.
+Example:
+{
+        Fluid fluid_array[6] = {dna, bsa, buffer, enzyme1, enzyme2, water};
+        char* tubes[1] = {"Restriction Digest - PCR product"};
+        Volume* volume[6] = {s_vol(v), vol(3.5, UL), vol(3.5, UL), vol(0.2, UL), vol(0.2, UL), vol(XVAL, UL)};
+        mixing_table(2, 7, fluid_array, tubes, volume, vol(35, UL), rxn_tube1);
+}
+Output:
+Use the following table as a checklist for preparing the reaction in (rxn_tube1.name):
+
+ 	PCR product DNA	10X BSA	10X restriction buffer	restriction enzyme1	restriction enzyme2	distilled H2O
+Restriction Digest - PCR product	V	3.5 ul	3.5 ul	0.2 ul	0.2 ul	Make up the volume to 35 ul
+See also:
+mixing_table_pcr()
+
+
+
+void mount_observe_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+char * 	device	 
+)			
+Prompts the used to mount the specified slide using the given liquid and to view it under the given device.
+
+Parameters:
+slide1 	the slide that has to be mounted and observed.
+sample1 	the fluid usen to mount slide1.
+device 	the device used to observe the mounted slide.
+Example:
+ mount_observe_slide(slide, entellan, "bright-field microscope"); 
+Output:
+Mount (slide.name) with (entellan.name), let it solidify and view under bright-field microscope.
+
+
+
+Symbol multiply	(	Symbolic_vol * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Multiplies a symbolic volume with another symbolic volume.
+
+Parameters:
+vol1 	the symbolic volume.
+vol2 	the other symbolic volume.
+Example:
+ z = multiply(s_vol(x), s_vol(y)); 
+Output:
+Internally, z is assigned the value x*y.
+See also:
+add(), subtract() and divide()
+
+
+
+Symbol multiply	(	Symbolic_vol * 	vol1,
+Volume * 	vol2	 
+)			
+Multiplies a symbolic volume with an actual volume.
+
+Parameters:
+vol1 	the symbolic volume.
+vol2 	the actual volume.
+Example:
+ y = multiply(s_vol(x), vol(10, UL)); 
+Output:
+Internally, y is assigned the value x*10.
+See also:
+add(), subtract() and divide()
+
+
+
+void name_column	(	Column & 	column1,
+char * 	new_name	 
+)			
+Labels the column with the new_name.
+
+Parameters:
+column1 	the column that needs to be named.
+new_name 	the desired name of column1.
+Example:
+ name_column(column1, "used column"); 
+Output:
+Internally, column1 's name is set to "used column".
+See also:
+name_container() and name_sample()
+
+
+
+void name_container	(	Container & 	container1,
+char * 	name	 
+)			
+Labels a container with the given name.
+
+Parameters:
+container1 	the container that has to be labeled.
+name 	the name with which container1 has to be labeled.
+Example:
+ name_container(eppendorf1, "Reaction Tube"); 
+Output:
+Set aside a fresh (eppendorf1.name). Call it Reaction Tube.
+See also:
+name_sample()
+
+
+
+void name_plate	(	Plate & 	plate1,
+char * 	new_name	 
+)			
+Labels the specified plate with the new_name.
+
+Parameters:
+plate1 	the plate that needs to be named.
+new_name 	the desired name of the plate1.
+Example:
+ name_plate(plate1, "Reaction Plate");
+Output:
+Internally, plate1 's name is set to "Reaction Plate".
+See also:
+name_container(), name_sample()
+
+
+
+void name_sample	(	Container & 	container1,
+char * 	new_name	 
+)			
+Names the contents of the specified container with the new_name.
+
+Parameters:
+container1 	the container whose contents need to be named.
+new_name 	the desired name of the contents of container1.
+Example:
+ name_sample(tube1, "lysate"); 
+Output:
+Internally, the name of tube1 's contents is set to "lysate".
+See also:
+name_container()
+
+
+
+void nanodrop	(	Container & 	container1	 ) 	
+Measures the Nanodrop reading of the contents of the specified container.
+
+Parameters:
+container1 	the container whose contents need to be analyzed using the Nanodrop.
+Example:
+ nanodrop(eppendorf1); 
+Output:
+Measure the concentration of (eppendorf1.contents.name) in your final samples with the Nanodrop.
+See also:
+ce_detect()
+
+
+
+Column new_column	(	char * 	name	 ) 	
+Used to declare a new column with the given name.
+
+Parameters:
+name 	the name of the column.
+Returns:
+Column
+Example:
+ Column spin_column = new_column("Qiagen Spin Column"); 
+Output:
+Internally, sets aside a new column with the name "Qiagen Soin Column".
+See also:
+new_container(), new_fluid(), new_solid() and new_plate()
+
+
+
+Container new_container	(	enum container_type 	cont_id,
+Fluid & 	fluid1	 
+)			
+Used to declare a new container of the type specified by cont_id that contains a fluid at the start of the protocol.
+
+Parameters:
+cont_id 	the type of container.
+fluid1 	the contents of the container.
+Returns:
+Container
+Example:
+ Container microfuge_tube1 = new_container(STERILE_MICROFUGE_TUBE, comp_cells);
+Output:
+Internally, sets aside a sterile microfuge tube with the name "a sterile microfuge tube" and comp_cells as contents.
+See also:
+enum container_type, new_fluid(), new_solid() and new_plate()
+
+
+
+Container new_container	(	enum container_type 	cont_id	 ) 	
+Used to declare a new container of the type specified by cont_id.
+
+Parameters:
+cont_id 	the type of container.
+Returns:
+Container
+Example:
+ Container microfuge_tube1 = new_container(STERILE_MICROFUGE_TUBE);
+Output:
+Internally, sets aside a sterile microfuge tube with the name "a sterile microfuge tube".
+See also:
+enum container_type, new_fluid(), new_solid() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+char * 	state,
+float 	temp,
+Volume * 	volume1	 
+)			
+Used to declare a new fluid with the given name and characteristics. The fluid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the fluid.
+state 	the characteristics of the fluid (Eg: "freshly prepared" or composition of a solution).
+temp 	the temperature of storage of the fluid.
+volume1 	the initial volume of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", "50mM SDS, 20mM TE", RT, vol(10, ML)); 
+Output:
+10 ml Solution 1 at room temperature
+(50mM SDS, 20mM TE)
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+char * 	state,
+float 	temp	 
+)			
+Used to declare a new fluid with the given name and characteristics. The fluid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the fluid.
+state 	the characteristics of the fluid (Eg: "freshly prepared" or composition of a solution).
+temp 	the temperature of storage of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", "50mM SDS, 20mM TE", RT); 
+Output:
+Solution 1 at room temperature
+(50mM SDS, 20mM TE)
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+char * 	state,
+Volume * 	volume1	 
+)			
+Used to declare a new fluid with the given name and characteristics.
+
+Parameters:
+name 	the name of the fluid.
+state 	the characteristics of the fluid (Eg: "freshly prepared" or composition of a solution).
+volume1 	the initial volume of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", "50mM SDS, 20mM TE", vol(10, ML)); 
+Output:
+10 ml Solution 1
+(50mM SDS, 20mM TE)
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+char * 	state	 
+)			
+Used to declare a new fluid with the given name and characteristics.
+
+Parameters:
+name 	the name of the fluid.
+state 	the characteristics of the fluid (Eg: "freshly prepared" or composition of a solution).
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", "50mM SDS, 20mM TE"); 
+Output:
+Solution 1
+(50mM SDS, 20mM TE)
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+float 	temp,
+Volume * 	volume1	 
+)			
+Used to declare a new fluid with the given name. The solid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the fluid.
+temp 	the temperature of storage of the fluid.
+volume1 	the initial volume of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", ICE_COLD); 
+Output:
+ice-cold Solution 1
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+float 	temp	 
+)			
+Used to declare a new fluid with the given name. The solid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the fluid.
+temp 	the temperature of storage of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", ICE_COLD, vol(10, ML)); 
+Output:
+10 ml ice-cold Solution 1
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name,
+Volume * 	volume1	 
+)			
+Used to declare a new fluid with the given name.
+
+Parameters:
+name 	the name of the fluid.
+volume1 	the initial volume of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1", vol(10, ML)); 
+Output:
+10 ml Solution 1
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Fluid new_fluid	(	char * 	name	 ) 	
+Used to declare a new fluid with the given name.
+
+Parameters:
+name 	the name of the fluid.
+Returns:
+Fluid
+Example:
+ Fluid solution1 = new_fluid("Solution 1"); 
+Output:
+Solution 1
+See also:
+new_solid(), new_container() and new_plate()
+
+
+
+Plate new_plate	(	char * 	name,
+char * 	state	 
+)			
+Used to declare a new plate with the given name and characteristics.
+
+Parameters:
+name 	the name of the plate.
+state 	the characteristics of the fluid (Eg: composition of a plate).
+Returns:
+Plate
+Example:
+ Plate lb_plate = new_plate("LB plate", "containing appropriate antibiotic");
+Output:
+LB plate
+(containing appropriate antibiotic)
+See also:
+new_fluid(), new_solid() and new_container()
+
+
+
+Plate new_plate	(	char * 	name	 ) 	
+Used to declare a new plate with the given name.
+
+Parameters:
+name 	the name of the plate.
+Returns:
+Plate
+Example:
+ Plate lb_plate = new_plate("LB plate");
+Output:
+LB plate
+See also:
+new_fluid(), new_solid() and new_container()
+
+
+
+Slide new_slide	(	char * 	name	 ) 	
+Used to declare a new slide with the given name.
+
+Parameters:
+name 	the name of the slide.
+Returns:
+Slide
+Example:
+ Slide tissue_slide = new_slide("slide containing tissue sample");
+Output:
+slide containing tissue sample
+See also:
+new_fluid(), new_solid(), new_plate() and new_container()
+
+
+
+Solid new_solid	(	char * 	name,
+char * 	state,
+float 	temp	 
+)			
+Used to declare a new solid with the given name and characteristics. The solid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the solid.
+state 	the characteristics of the solid (Eg: composition of a solid).
+temp 	the temperature of storage of the solid.
+Returns:
+Solid
+Example:
+ Tissue plant_tissue = new_solid("wet plant tissue", "freshly collected", 4); 
+Output:
+wet plant tissue at 4 C
+(freshly collected)
+See also:
+new_fluid(), new_container() and new_plate()
+
+
+
+Solid new_solid	(	char * 	name,
+char * 	state	 
+)			
+Used to declare a new solid with the given name and characteristics.
+
+Parameters:
+name 	the name of the solid.
+state 	the characteristics of the solid (Eg: composition of a solid).
+Returns:
+Solid
+Example:
+ Tissue plant_tissue = new_solid("wet plant tissue", "freshly collected");
+Output:
+wet plant tissue
+(freshly collected)
+See also:
+new_fluid(), new_container() and new_plate()
+
+
+
+Solid new_solid	(	char * 	name,
+float 	temp	 
+)			
+Used to declare a new solid with the given name. The solid has been stored at the specified temperature.
+
+Parameters:
+name 	the name of the solid.
+temp 	the temperature of storage of the solid.
+Returns:
+Solid
+Example:
+ Tissue plant_tissue = new_solid("wet plant tissue", 4);
+Output:
+wet plant tissue at 4 C
+See also:
+new_fluid(), new_container() and new_plate()
+
+
+
+Solid new_solid	(	char * 	name	 ) 	
+Used to declare a new solid with the given name.
+
+Parameters:
+name 	the name of the solid.
+Returns:
+Solid
+Example:
+ Solid colony = new_solid("a single colony of plasmid-containing bacteria");
+Output:
+a single colony of plasmid-containing bacteria
+See also:
+new_fluid(), new_container() and new_plate()
+
+
+
+Symbol new_symbol	(	char * 	symbol,
+char * 	def	 
+)			
+Used to declare a new parameter (symbolic volume) with the given name and definition.
+
+Parameters:
+symbol 	the symbol used to denote the parameter(symbolic volume).
+def 	the definition of the parameter.
+Returns:
+Plate
+Example:
+ Symbol x = new_symbol("X", "concentration of vector DNA");
+Output:
+X - concentration of vector DNA
+See also:
+new_fluid(), new_solid(), new_plate() and new_container()
+
+
+
+Symbol_t new_symbol_t	(	char * 	symbol,
+char * 	def	 
+)			
+Used to declare a new parameter (symbolic time) with the given name and definition.
+
+Parameters:
+symbol 	the symbol used to denote the parameter(symbolic volume).
+def 	the definition of the parameter.
+Returns:
+Plate
+Example:
+ Symbol_t x = new_symbol_t("X", "time taken for elongation");
+Output:
+X - time taken for elongation
+See also:
+new_fluid(), new_solid(), new_plate() and new_container()
+
+
+
+void next_option	(	char * 	name	 ) 	
+Marks the next option of a step of a protocol and gives it a name.
+
+Parameters:
+name 	the name of the step.
+Example:
+ next_option();
+Output:
+Option 2:
+See also:
+first_option(), end_option()
+
+
+
+void next_option	(		 ) 	
+Marks the next option of a step of a protocol.
+
+Example:
+ next_option();
+Output:
+Option 2:
+See also:
+first_option(), end_option()
+
+
+
+void next_step	(	char * 	step_name	 ) 	
+Marks the ending of a step and the beginning of the next step of a protocol. Also specifies the name of the step.
+
+Parameters:
+step_name 	the name of the step.
+Example:
+ next_step("DNA lysis");
+Output:
+2.DNA lysis
+See also:
+first_step(), optional_step() and next_sub_step()
+
+
+
+void next_step	(		 ) 	
+Marks the ending of a step and the beginning of the next step of a protocol.
+
+Example:
+ next_step();
+Output:
+2.
+See also:
+first_step(), optional_step() and next_sub_step()
+
+
+
+void next_sub_step	(		 ) 	
+Marks the end of a sub-step and the start of the subsequent sub-step of a step in the protocol.
+
+Example:
+ next_sub_step();
+Output:
+b.
+See also:
+next_step(), optional_step() and next_sub_step()
+
+
+
+void optional_step	(	char * 	name	 ) 	
+Marks an optional step in the protocol and gives it a name.
+
+Parameters:
+name 	the name of the step.
+Example:
+ optional_step(); 
+Output:
+(Optional)
+See also:
+first_step(), next_step(), first_sub_step() and next_sub_step()
+
+
+
+void optional_step	(		 ) 	
+Marks an optional step in the protocol.
+
+Example:
+ optional_step(); 
+Output:
+(Optional)
+See also:
+first_step(), next_step(), first_sub_step() and next_sub_step()
+
+
+
+void parallel_step	(		 ) 	
+Marks a parallel step in the protocol.
+
+Example:
+ parallel_step(); 
+Output:
+3. Meanwhile:
+See also:
+first_step(), next_step(), first_sub_step() and next_sub_step()
+
+
+
+void patch	(	Plate & 	plate1,
+Plate & 	colony	 
+)			
+Patches plate with colonies onto a fresh plate plate1.
+
+Parameters:
+plate1 	the fresh plate.
+colony 	the plate with the colonies that need to be patched.
+Example:
+ patch(lb_plate, colony_plate); 
+Output:
+Patch (colony_plate.name) onto (lb_plate.name).
+See also:
+plate_out(), streak_plate()
+
+
+
+void pcr_final_ext	(	Container & 	container1,
+float 	temp_ext,
+Time * 	time_ext,
+float 	temp_halt,
+Time * 	time_halt,
+float 	temp_hold	 
+)			
+Performs final extension of the contents of the given container in a thermocycler.
+
+Parameters:
+container1 	the container whose contents have to be subject to initial denaturation.
+temp_ext 	the temperature of final extension.
+time_ext 	the duration of final extension.
+temp_halt 	the temperature at which the PCR reaction is halted.
+time_halt 	the duration of time required for the halt.
+temp_hold 	the temperature at which the contents are held until they are removed from the thermocycler.
+Example:
+ pcr_final_ext(rxn_tube, 72, time(15, MINS), 4, time(10, MINS), 4);
+Output:
+Termination
+Elongate: 72 C, 15 mins
+Halt reaction: 4 C, 10 mins
+Hold: 4 C, until removed from machine
+See also:
+pcr_initial_denat() and thermocycler()
+
+
+
+void pcr_final_ext	(	Container & 	container1,
+float 	temp_ext,
+Time * 	time_ext,
+float 	temp_hold	 
+)			
+Performs final extension of the contents of the given container in a thermocycler.
+
+Parameters:
+container1 	the container whose contents have to be subject to initial denaturation.
+temp_ext 	the temperature of final extension.
+time_ext 	the duration of final extension.
+temp_hold 	the temperature at which the contents are held until they are removed from the thermocycler.
+Example:
+ pcr_final_ext(rxn_tube, 72, time(15, MINS), 4);
+Output:
+Termination
+Elongate: 72 C, 15 mins
+Hold: 4 C, until removed from machine
+See also:
+pcr_initial_denat() and thermocycler()
+
+
+
+void pcr_init_denat	(	Container & 	container1,
+float 	temp,
+Time * 	time1	 
+)			
+Performs initial denaturation of the contents of the given container in a thermocycler.
+
+Parameters:
+container1 	the container whose contents have to be subject to initial denaturation.
+temp 	the temperature of initial denaturation.
+time1 	the duration of initial denaturation.
+Example:
+ pcr_init_denat(rxn_tube, 94, time(15,MINS));
+Output:
+Program a standard thermocycler to run the reaction using the following parameters:
+Initial denaturation
+Denature: 94 C, 15 mins
+See also:
+pcr_final_ext() and thermocycler()
+
+
+
+void pipet	(	Container & 	container1	 ) 	
+Resuspends the contents of the solution in tube by pipetting up and down for a few seconds.
+
+Parameters:
+container1 	the container whose contents have to be resuspended.
+Example:
+ pipet(tube1);
+Output:
+Mix solution by pipetting up and down several times.
+See also:
+tap(), stir(), invert(), vortex(), dissolve(), resuspend() and combine_and_mix()
+
+
+
+void plate_out	(	Plate & 	plate1,
+Container & 	container1,
+Volume * 	volume1	 
+)			
+Plates out the specified volume of contents of the specified container onto the given plate.
+
+Parameters:
+plate1 	the plate onto which contents of container1 have to be plated out.
+container1 	the container whose contents have to plated out.
+volume1 	the volume of contents of container1 that has to be plated out.
+Example:
+ plate_out(lb_plate, culture_eppendorf, vol(100, UL));
+Output:
+Plate out 100 ul of (culture_eppendorf.contents.name) onto (lb_plate.name).
+See also:
+new_plate() and enum vol_unit
+
+
+
+void plate_out	(	Plate & 	plate1,
+Container & 	container1	 
+)			
+Plates out the contents of the specified container onto the given plate.
+
+Parameters:
+plate1 	the plate onto which contents of container1 have to be plated out.
+container1 	the container whose contents have to plated out.
+Example:
+ plate_out(lb_plate, culture_eppendorf);
+Output:
+Plate out (culture_eppendorf.contents.name) onto (lb_plate.name).
+See also:
+new_plate()
+
+
+
+void remove_slide	(	Slide & 	slide1,
+Fluid & 	fluid1	 
+)			
+Removes the slide slide1 from the specified fluid.
+
+Parameters:
+slide1 	the slide that has to be removed.
+fluid1 	the fluid from which slide1 has to be removed.
+Example:
+ remove_slide(slide1, solutiona); 
+Output:
+Take out (slide1.name) from (solutiona.name).
+See also:
+immerse_slide() and immerse_slide_and_incubate
+
+
+
+void repeat	(	int 	step_no	 ) 	
+Used to prompt the user to repeat a given step of a protocol.
+
+Parameters:
+step_no 	the step number of the protocol that should be repeated.
+Example:
+ repeat(3);
+Output:
+Repeat Step 3.
+void resuspend	(	Container & 	container1	 ) 	
+Resuspends the contents of the solution in tube.
+
+Parameters:
+container1 	the container whose contents have to be resuspended.
+Example:
+ resuspend(eppendorf);
+Output:
+Resuspend the (eppendorf.contents.name) by vortexing/shaking vigorously.
+See also:
+tap(), stir(), invert(), vortex(), dissolve(), pipet() and combine_and_mix()
+
+
+
+void sequencing	(	Container & 	container1	 ) 	
+Prompts the user to send the sample for sequencing after diluting to appropriate concentration.
+
+Parameters:
+container1 	the container whose contents have to be sent for sequencing.
+Example:
+ sequencing(eppendorf); 
+Output:
+Dilute to 100ng/ �L and send 1 �g (10 �L) for sequencing.
+See also:
+electrophoresis(), nanodrop()
+
+
+
+void set_container	(	Fluid & 	fluid1,
+Container & 	container1	 
+)			
+Sets the specified container as the working container for the specified sample.
+
+Parameters:
+fluid1 	the sample whose container is being set.
+container1 	the container which contains sample1.
+Example:
+ set_container(culture, flask);
+Output:
+Internally, set the contents of flask to culture.
+See also:
+new_container(), enum container_type
+
+
+
+void set_temp	(	Container & 	container1,
+float 	temp	 
+)			
+Sets the temperature of the contents of the given container as specified.
+
+Parameters:
+container1 	the container whose contents have to be set to a particular temperature.
+temp 	the temperature setting.
+Example:
+ set_temp(eppendorf1, 37); 
+Output:
+Set the temperature of (eppendorf1.contents.name) to 37 C.
+See also:
+store(), store_for(), store_until(), incubate()
+
+
+
+void set_value	(	Symbol_t & 	symbol1,
+float 	value,
+enum time_unit 	unit	 
+)			
+Sets the value of the specified symbolic volume.
+
+Parameters:
+symbol1 	the symbol whose value is being set.
+value 	the value of the symbol.
+unit 	the unit of value.
+Example:
+ set_value(x, 1, MINS); 
+Output:
+Internally, x 's value is set to '4' and x 's unit is set to 'MINS'.
+See also:
+new_container(), enum container_type
+
+
+
+void set_value	(	Symbol & 	symbol1,
+float 	value,
+enum vol_unit 	unit	 
+)			
+Sets the value of the specified symbolic volume.
+
+Parameters:
+symbol1 	the symbol whose value is being set.
+value 	the value of the symbol.
+unit 	the unit of value.
+Example:
+ set_value(x, 4, UL); 
+Output:
+Internally, x 's value is set to '4' and x 's unit is set to 'UL'.
+See also:
+new_container(), enum container_type
+
+
+
+void start_protocol	(	char * 	name	 ) 	
+Creates an html file with the given name and opens it for writing the protocol.
+
+Parameters:
+name 	the name of the protocol.
+Example:
+ start_protocol("DNA Miniprep");
+Output:
+Internally, opens a new html file named "DNA Miniprep" for writing. The title of the protocol "DNA Miniprep" is also printed on the top left corner of the file.
+See also:
+end_protocol()
+
+
+
+void stir	(	Container & 	container1,
+Time * 	time1	 
+)			
+Mixes the contents of the given container by stirring the container for the specified duration of time.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+time1 	the duration of tapping.
+Example:
+ stir(eppendorf, time(10, SECS));
+Output:
+Gently stir the mixture for 10 secs.
+See also:
+tap(), invert(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void stir	(	Container & 	container1	 ) 	
+Mixes the contents of the given container by stirring the container for a few seconds.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+Example:
+ stir(eppendorf);
+Output:
+Gently stir the mixture for a few secs.
+See also:
+tap(), invert(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void store	(	Container & 	container1,
+float 	temp	 
+)			
+Stores the specified container at a given temperature.
+
+Parameters:
+container1 	the container whose contents have to be stored.
+temp 	the temperature of storage.
+Example:
+ store(tube1, ON_ICE);
+Output:
+Store the tube on ice.
+See also:
+store_for(), store_until(), incubate()
+
+
+
+void store_for	(	Container & 	container1,
+float 	temp,
+Time * 	time1,
+enum func 	function	 
+)			
+Stores the specified container at a given temperature and given duration of time. Combination of set_temp() and wait().
+
+Parameters:
+container1 	the container whose contents have to be stored.
+temp 	the temperature of storage.
+time1 	the duration of storage.
+function 	the function being performed as a result of the store_for().
+Example:
+ store_for(eppendorf, 80, time(30, SECS), ENZYME_INAC);
+Output:
+Perform enzyme inactivation by storing at 80 C for 30 secs.
+See also:
+store(), store_until() and incubate()
+
+
+
+void store_for	(	Container & 	container1,
+float 	temp,
+Time * 	time1	 
+)			
+Stores the specified container at a given temperature and given duration of time. Combination of set_temp() and wait().
+
+Parameters:
+container1 	the container whose contents have to be stored.
+temp 	the temperature of storage.
+time1 	the duration of storage.
+Example:
+ store_for(tube1, 37, min_time(5, MINS));
+Output:
+Store at 37 c for at most 5 mins.
+See also:
+store(), store_until() and incubate()
+
+
+
+void store_plate	(	Plate & 	plate1,
+float 	temp	 
+)			
+Stores the specified plate at a given temperature.
+
+Parameters:
+plate1 	the plate that needs to be stored.
+temp 	the temperature of storage.
+Example:
+ store_plate(plate1, 37);
+Output:
+Store the plate at 37 C.
+See also:
+store(), store_for(), store_until() and incubate()
+
+
+
+void store_until	(	Container & 	container1,
+float 	temp,
+enum until 	type,
+Time * 	time1	 
+)			
+Stores the specified container at a given temperature until the occurence of a specified event. The approximate time taken for the occurence of the event is also specified.
+
+Parameters:
+container1 	the container whose contents have to be stored.
+temp 	the temperature of storage.
+type 	the event until whose occurence container1 has to be stored.
+time1 	the approximate time taken for the occurence of the event.
+Example:
+ store_until(tube1, RT, ETHANOL_EVAP, time_range(10, 15, MINS));
+Output:
+Store (tube1.contents.name) at room temperature until the ethanol has evaporated and no fluid is visible in the tube(~ 10-15 mins).
+See also:
+store(), store_for() and incubate()
+
+
+
+void store_until	(	Container & 	container1,
+float 	temp,
+enum until 	type	 
+)			
+Stores the specified container at a given temperature until the occurence of a specified event.
+
+Parameters:
+container1 	the container whose contents have to be stored.
+temp 	the temperature of storage.
+type 	the event until whose occurence container1 has to be stored.
+Example:
+ store_until(tube1, RT, ETHANOL_EVAP);
+Output:
+Store (tube1.contents.name) at room temperature until the ethanol has evaporated and no fluid is visible in the tube.
+See also:
+store(), store_for(), incubate(), and enum time_unit
+
+
+
+void streak_plate	(	Plate & 	plate1,
+Plate & 	colony	 
+)			
+Streaks the plate with the required colony.
+
+Parameters:
+plate1 	the fresh plate.
+colony 	the colony that needs to be streaked.
+Example:
+ streak_plate(lb_plate, colony); 
+Output:
+Use a sterile toothpick or disposable loop to transfer a small segement of (colony.name) to a streak or patch on (lb_plate.name).
+See also:
+plate_out(), patch()
+
+
+
+Symbol subtract	(	Symbolic_vol * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Subtracts a symbolic volume from another symbolic volume.
+
+Parameters:
+vol1 	the first symbolic volume.
+vol2 	the other symbolic volume.
+Example:
+ z = subtract(s_vol(x), s_vol(y)));
+Output:
+Internally, z is assigned the value x-y.
+See also:
+add(), multiply() and divide()
+
+
+
+Symbol subtract	(	Volume * 	vol1,
+Symbolic_vol * 	vol2	 
+)			
+Subtracts a symbolic volume from an actual volume.
+
+Parameters:
+vol1 	the actual volume.
+vol2 	the symbolic volume.
+Example:
+ y = subtract(vol(10, UL), s_vol(x));
+Output:
+Internally, y is assigned the value 10-x.
+See also:
+add(), multiply() and divide()
+
+
+
+Symbol subtract	(	Symbolic_vol * 	vol1,
+Volume * 	vol2	 
+)			
+Subtracts an actual volume from a symbolic volume.
+
+Parameters:
+vol1 	the symbolic volume.
+vol2 	the actual volume.
+Example:
+ y = subtract(s_vol(x), vol(10, UL));
+Output:
+Internally, y is assigned the value x-10.
+See also:
+add(), multiply() and divide()
+
+
+
+void tap	(	Container & 	container1,
+Time * 	time1	 
+)			
+Mixes the contents of the given container by tapping the container for the specified duration of time.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+time1 	the duration of tapping.
+Example:
+ tap(eppendorf, time(10, SECS));
+Output:
+Gently tap the mixture for 10 secs.
+See also:
+invert(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void tap	(	Container & 	container1,
+enum until 	event1	 
+)			
+Mixes the contents of the given container by tapping until the specified result is obtained.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+event1 	the event until which the container has to be mixed. (See enum until)
+Example:
+ tap(eppendorf, PELLET_DISLODGES); 
+Output:
+Close the tube tightly and gently tap the mixture for a few secs until the pellet dislodges.
+See also:
+stir(), invert(), vortex(), dissolve(), resuspend(), pipet(), combine_and_mix() and enum until
+
+
+
+void tap	(	Container & 	container1	 ) 	
+Mixes the contents of the given container by tapping the container for a few seconds.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+Example:
+ tap(eppendorf);
+Output:
+Gently tap the mixture for a few secs.
+See also:
+stir(), invert(), vortex(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void thermocycler	(	Container & 	master_mix,
+int 	cycles,
+float 	temp1,
+Time * 	time1,
+float 	temp2,
+Time * 	time2,
+float 	temp3,
+Time * 	time3,
+enum pcr_type 	type,
+float 	grad_temp	 
+)			
+Programs the thermocycler with the appropriate values for number of cycles, temperature of denaturation, time of denaturation, temperature of annealing, time of annealing, temperature of elongation, time of elongation, type of PCR and gradient temperature (for gradient PCR) and sends the contents of the specified container for thermocycling.
+
+Parameters:
+master_mix 	the container that contains the sample for thermocycling.
+cycles 	the number of cycles required.
+temp1 	the temperature of denaturation.
+time1 	the duration of denaturation.
+temp2 	the temperature of annealing.
+time2 	the duration of annealing.
+temp3 	the temperature of elongation.
+time3 	the duration of elongation.
+type 	the type of PCR. (See enum pcr_type)
+grad_temp 	the maximum temperature of annealing for performing gradient PCR.
+Example:
+ thermocycler(rxn_tube, 94, time(30, SECS), 58, time(1, MINS), 72, time(45, SECS), GRADIENT, 65);
+Output:
+Thermocycling
+No. of cycles: 30
+Denature: 94 C, 30 secs
+Anneal: 58 - 65 C (gradient PCR), 1 min
+Elongate: 72 C, 45 secs
+See also:
+pcr_init_denat(), pcr_final_ext(), thermocycler_anneal() and enum pcr_type
+
+
+
+void thermocycler	(	Container & 	master_mix,
+int 	cycles,
+float 	temp1,
+Time * 	time1,
+float 	temp2,
+Time * 	time2,
+float 	temp3,
+Time * 	time3,
+enum pcr_type 	type	 
+)			
+Programs the thermocycler with the appropriate values for number of cycles, temperature of denaturation, time of denaturation, temperature of annealing, time of annealing, temperature of elongation, time of elongation and type of PCR and sends the contents of the specified container for thermocycling.
+
+Parameters:
+master_mix 	the container that contains the sample for thermocycling.
+cycles 	the number of cycles required.
+temp1 	the temperature of denaturation.
+time1 	the duration of denaturation.
+temp2 	the temperature of annealing.
+time2 	the duration of annealing.
+temp3 	the temperature of elongation.
+time3 	the duration of elongation.
+type 	the type of PCR. (See enum pcr_type)
+Example:
+ thermocycler(rxn_tube, 94, time(30, SECS), 58, time(1, MINS), 72, time(45, SECS), NORMAL);
+Output:
+Thermocycling
+No. of cycles: 30
+Denature: 94 C, 30 secs
+Anneal: 58 C, 1 min
+Elongate: 72 C, 45 secs
+See also:
+pcr_init_denat(), pcr_final_ext(), thermocycler_anneal() and enum pcr_type
+
+
+
+void thermocycler	(	Container & 	master_mix,
+float 	temp1,
+Time * 	time1,
+float 	temp2,
+Time * 	time2	 
+)			
+Programs the thermocycler with the appropriate values for temperature 1, time 1, temperature 2, time 2 and sends the contents of the specified container for thermocycling.
+
+Parameters:
+master_mix 	the container that contains the sample for thermocycling.
+temp1 	temperature 1.
+time1 	time 1.
+temp2 	temperature 2.
+time2 	time 2.
+Example:
+ thermocycler(rxn_tube, 94, time(30, SECS), 65, time(1, MINS));
+Output:
+Set the thermocycler to run the following program:
+94 C, 30 secs
+65 C, 1 min
+See also:
+pcr_init_denat(), pcr_final_ext() and thermocycler_anneal()
+
+
+
+void thermocycler	(	Container & 	master_mix,
+int 	cycles,
+float 	temp1,
+Time * 	time1,
+float 	temp2,
+Time * 	time2	 
+)			
+Programs the thermocycler with the appropriate values for temperature 1, time 1, temperature 2, time 2 and sends the contents of the specified container for thermocycling.
+
+Parameters:
+master_mix 	the container that contains the sample for thermocycling.
+cycles 	the number of cycles required
+temp1 	temperature 1.
+time1 	time 1.
+temp2 	temperature 2.
+time2 	time 2.
+Example:
+ thermocycler(rxn_tube, 30, 94, time(30, SECS), 65, time(1, MINS));
+Output:
+Thermocycling
+No. of cycles: 30
+Denature: 94 C, 30 secs
+Anneal: 65 C, 1 min
+See also:
+pcr_init_denat(), pcr_final_ext and thermocycler_anneal()
+
+
+
+void thermocycler	(	Container & 	container1,
+float 	temp1,
+Time * 	time1	 
+)			
+Programs the thermocycler with the appropriate values for temperature 1, time 1 and sends the contents of the specified container for thermocycling.
+
+Parameters:
+container1 	the container that contains the sample for PCR.
+temp1 	temperature 1.
+time1 	time 1.
+Example:
+ thermocycler(rxn_tube, 80, time(20, SECS));
+Output:
+Set the thermocycler to run the following program:
+80 C, 20 secs
+See also:
+pcr_init_denat(), pcr_final_ext() and thermocycler_anneal()
+
+
+
+void thermocycler	(	Plate & 	plate1,
+enum pcr_type 	type	 
+)			
+Programs the thermocycler with the appropriate values to carry out a specific type of PCR.
+
+Parameters:
+plate1 	the plate that contains the sample for thermocycling.
+type 	the type of PCR to be performed.
+Example:
+ thermocycler(lb_plate, COLONY);
+Output:
+Carry out colony PCR on (lb_plate.name).
+See also:
+enum pcr_type
+
+
+
+void thermocycler_anneal	(	Container & 	container1,
+float 	cool_to_temp,
+float 	gradient,
+Time * 	time1	 
+)			
+Programs the thermocycler with the appropriate values for annealing the primers with the template according to the specified gradient and sends the contents of the specified container for thermocycling.
+
+Parameters:
+container1 	the container that contains the sample for thermocycling.
+cool_to_temp 	the temperature of annealing.
+gradient 	the gradient according to whichthe products are cooled.
+time1 	the duration of annealing.
+Example;
+ thermocycler_anneal(tube1, 45, 2, time(1, MINS));
+Output:
+Cool (tube1.contents.name) to 45 C at the rate of 2 C every 1 min.
+See also:
+pcr_init_denat(), pcr_final_ext() and thermocycler()
+
+
+
+void time_constraint	(	Container & 	container1,
+Time * 	time1,
+enum time_constraint_type 	type	 
+)			
+Specifies the time between the completion of one operation on a sample and the commencement of the next.
+
+Parameters:
+container1 	the container whose contents are subject to the time constraint.
+time1 	the duration of time constraint.
+type 	the type of time constraint. (See enum time_constraint_type)
+Example:
+ time_constraint(tube1, time(0, SECS), NEXTSTEP); 
+Output:
+NOTE: Proceed to the next step immediately!
+See also:
+use_or_store() and enum time_constraint_type
+
+
+
+void to_do	(	char * 	clarify	 ) 	
+Marks the steps in the protocol that need further clarification for coding with BioCoder.
+
+Example:
+ to_do("Add the samples to appropriate wells."); 
+Output:
+Add the samples to appropriate wells.
+See also:
+comment()
+
+
+
+void transfection	(	Container & 	container1,
+Fluid & 	medium,
+Fluid & 	dna	 
+)			
+Transfects the cells contained in container1 with DNA.
+
+Parameters:
+container1 	the container with the cells to be transfected.
+medium 	the medium for transfection.
+dna 	the fluid with the DNA that will transfect the cells in container1.
+Example:
+ transfection(flask, growth_medium, dna); 
+Output:
+Transfect (flask.contents.name) with (dna.name).
+void transfer	(	Container & 	container1,
+Container & 	con2	 
+)			
+Transfers the contents of a container container1 to another specified container con2.
+
+Parameters:
+container1 	the container whose contents have to be transferred.
+con2 	the container to which container1 's contents have to be transferred.
+Example:
+ transfer(tube1, tube2);
+Output:
+Transfer (tube1.contents.name) into (tube2.name).
+See also:
+combine_and_mix()
+
+
+
+void transfer_column	(	Column & 	column1,
+Container & 	container1	 
+)			
+Transfers the column to a container container1.
+
+Parameters:
+column1 	the column that needs to be transferred.
+container1 	the container to which column1 has to be transferred.
+Example:
+ transfer_column(spin_col, fresh_eppendorf); 
+Output:
+Transfer (spin_col.name) into (fresh_eppendorf.name).
+See also:
+combine_and_mix()
+
+
+
+void use_or_store	(	Container & 	container1,
+Time * 	time1,
+float 	temp_use,
+float 	temp_store	 
+)			
+The contents of the specified container are either used within the duration time after setting the temp to be temp_use or if used later than time, the container is stored at temp_storage.
+
+Parameters:
+container1 	the container whose contents are to be used or stored.
+time1 	the time within which contents of container1 are to be used.
+temp_use 	the temperature of usage of contents of container1.
+temp_store 	the temperature of storage of contents of container1.
+Example:
+ use_or_store(tube1, time(10, MINS), 4, -20); 
+Output:
+NOTE: If (tube1.contents.name) is/are used within 10 mins, set temperature to 4 C and use, else store it at -20 C.
+See also:
+time_constraint()
+
+
+
+void vortex	(	Container & 	container1,
+Time * 	time1	 
+)			
+Mixes the contents of the given container by vortexing the container for the specified duration of time.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+time1 	the duration of vortexing.
+Example:
+ vortex(eppendorf, time(1, MINS));
+Output:
+Vortex the mixture for 1 min.
+See also:
+tap(), stir(), invert(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void vortex	(	Container & 	container1	 ) 	
+Mixes the contents of the given container by vortexing the container for a few seconds.
+
+Parameters:
+container1 	the container whose contents have to be mixed.
+Example:
+ vortex(eppendorf);
+Output:
+Vortex the mixture for a few seconds.
+See also:
+tap(), stir(), invert(), dissolve(), resuspend(), pipet() and combine_and_mix()
+
+
+
+void vortex_column	(	Column & 	column1	 ) 	
+Vortexes the given column for a few seconds.
+
+Parameters:
+column1 	the column that has to be vortexed.
+Example:
+ vortex_column(spin_col); 
+Output:
+Vortex (spin_col.name) gently.
+See also:
+vortex()
+
+
+
+void wait	(	Container & 	container1,
+Time * 	time1	 
+)			
+Holds the given container for the specified unit of time.
+
+Parameters:
+container1 	the container whose contents have to be held.
+time1 	the duration for which container1 has to be held.
+Example:
+ wait(tube1, time(5, MINS)); 
+Output:
+Keep (tube1.contents.name) aside for 5 mins.
+See also:
+store(), store_for(), store_until(), incubate()
+
+
+
+void wash_cells	(	Container & 	container1,
+Fluid & 	fluid1	 
+)			
+Washes the cells in the given container with the specified fluid.
+
+Parameters:
+container1 	the container whose contents(cells) have to be washed.
+fluid1 	the fluid used to wash the cells in container1.
+Example:
+ wash_cells(cult_chamber, medium); 
+Output:
+Wash cells with (medium.name).
+void wash_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+enum wash_type 	type,
+Time * 	time1,
+int 	no_of_times	 
+)			
+Washes the slide with the specified fluid for the specified duration and number of times.
+
+Parameters:
+slide1 	the slide that has to be washed.
+sample1 	the fluid used to wash slide1.
+type 	the type of washing. (See enum wash_type)
+time1 	the duration of washing.
+no_of_times 	the number of times that the slide has to be washed.
+Example:
+ wash_slide(slides, ethanol, RINSING, time(30, SECS), 2); 
+Output:
+Rinse (slides.name) in (ethanol.name), twice for 30 secs each.
+See also:
+enum wash_type
+
+
+
+void wash_slide	(	Slide & 	slide1,
+Fluid & 	sample1,
+enum wash_type 	type	 
+)			
+Washes the slide with the specified fluid.
+
+Parameters:
+slide1 	the slide that has to be washed.
+sample1 	the fluid used to wash slide1.
+type 	the type of washing. (See enum wash_type)
+Example:
+ wash_slide(slides, ethanol, WASHING); 
+Output:
+Wash (slides.name) in (ethanol.name).
+See also:
+remove_slide() and enum wash_type
+
+
+
+void wash_tissue	(	Tissue & 	tissue1,
+Fluid & 	sample1,
+enum wash_type 	type,
+Time * 	time1,
+int 	no_of_times,
+float 	temp,
+int 	shaking	 
+)			
+Washes the tissue with the specified fluid for the specified duration and number of times.
+
+Parameters:
+tissue1 	the tissue that has to be washed.
+sample1 	the fluid used to wash slide1.
+type 	the type of washing. (See enum wash_type)
+time1 	the duration of washing.
+no_of_times 	the number of times that the slide has to be washed.
+temp 	the temperature of washing.
+shaking 	indicates if shaking during wash is required.(1 if required, 0 if not required.)
+Example:
+ wash_tissue(plant_tissue, fluida, WASHING, time(45, SECS), 3, RT, 0); 
+Output:
+Wash (plant_tissue.name) in (fluida.name), thrice each for 45 secs at room temperature without shaking.
+See also:
+enum wash_type
+
+
+
+void wash_tissue	(	Tissue & 	tissue1,
+Fluid & 	sample1,
+enum wash_type 	type,
+float 	temp,
+int 	shaking	 
+)			
+Washes the tissue with the specified fluid.
+
+Parameters:
+tissue1 	the tissue that has to be washed.
+sample1 	the fluid used to wash slide1.
+type 	the type of washing. (See enum wash_type)
+temp 	the temperature of washing.
+shaking 	indicates if shaking during wash is required.(1 if required, 0 if not required.)
+Example:
+ wash_tissue(plant_tissue, fluida, RINSING, RT, 1); 
+Output:
+Rinse (plant_tissue.name) in (fluida.name) at room temperature with shaking.
+See also:
+enum wash_type
+
+
+
+void weigh	(	Container & 	container1	 ) 	
+Prompts the user to weigh the amount of solid present in the given container.
+
+Parameters:
+container1 	the container with the solid whose weight needs to be determined.
+Example:
+ weigh(eppendorf);
+Output:
+Weigh the amount of (eppendorf.contents.name) present.

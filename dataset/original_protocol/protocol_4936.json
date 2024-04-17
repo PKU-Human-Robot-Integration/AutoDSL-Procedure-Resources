@@ -1,0 +1,16 @@
+{
+  "id": 5250,
+  "origin_website": "Bio",
+  "title": "Determining the Influence of Small Molecules on Hypoxic Prostate Cancer Cell (DU-145) Viability Using Automated Cell Counting and a Cell Harvesting Protocol",
+  "procedures": [
+    "Grow DU-145 prostate cancer cells under hypoxic conditions using 200 μM DMOG; DMOG upregulates normoxic HIF-1α by inhibiting HIF-1 prolyl and asparaginyl hydroxylase function at the oxygen dependent degradation domain (ODDD) of the protein. Seed cells at a density of 50,000 cells into T25 flasks in complete Dulbecco’s media and allow them to become confluent over 1-2 days prior to experimentation. Once confluent, remove the media and treat cells with media containing 100 μM bile acids + 200 μM DMOG, DMOG only and media only (untreated controls). Generate enough flasks to ensure viability assessment every 24 h over a 5 day period. After 24 h, on day 1 of the assay, decant the media, wash the flask surface in sterile PBS to remove debris and gently scrape cells from the flask surface using a cell scraper. Avoid trypsin-EDTA due to potential cytotoxic effects. Add 2 ml of sterile PBS to the flask to create a cell suspension. Mix thoroughly (by gently pipetting up and down) to homogenize cell clumps. Transfer this 2 ml volume to a 15 ml Falcon tube and centrifuge at 160 x g for 2 min to pellet cells.Do not fully decant the supernatant, leave approximately 100 µl at the bottom of the tube. Mix this volume gently with the pellet, using a 1 ml blue pipet tip to yield an approximate cell suspension of 100-200 µl. Add 20 μl of the cell suspension and 20 μl of trypan blue into a new Eppendorf tube and pipette mix to completely homogenize clumps. Flick mix for a few seconds in order to stain cells.Load two 10 μl aliquots onto each side of a disposable chamber slide (reusable) and place into the CountessTM automated cell counter to enumerate live/dead cells (viability), represented as percentage cell viability. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161109/20161109213415_5147.jpgFigure 1.",
+    "Dihydroxylated bile acids CDCA and DCA do not affect the cell viability of hypoxic DU-145 cells. For cell viability (trypan blue) assays, all cells were grown under hypoxic conditions (DMOG 200 μM), except for untreated cells. No significant compromises were observed in cell viability with respect to time. All data were derived from three independent experiments with at least three replicates in each experiment. Standard deviation was used to generate error bars.Repeat the procedure each day until data for all 5 days have been collected. Percentage viability data can be read directly from the automated cell counter. Graph data as viability (%) versus time (day) using Excel (Figure1)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

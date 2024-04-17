@@ -1,0 +1,15 @@
+{
+  "id": 578,
+  "origin_website": "Nature",
+  "title": "Reprogramming of mouse fibroblasts into iPSCs",
+  "procedures": [
+    "Preparation of MEFs\n1. Isolate mouse embryos at E13.5 \\(embryonic day 13.5) and wash them with DPBS.\n  2. Remove heads, tails and visceral tissues from the embryos.\n  3. Mince the remaining bodies and then incubate them in 0.25% trypsin-EDTA solution \\(1 ml per embryo) at 37°C for 10–15 min\n  4. After incubation, add an equal volume of MEF medium.\n  5. Pipet up and down thoroughly to dissociate the cells.\n  6. Transfer cellular suspension into 150 mm dishes \\(three embryos per dish) and culture at 37°C with 5% CO<sub>2</sub>.\n  7. Change fresh MEF medium every day from the next day.\n  \nPreparation of TTFs\n1. Cut the tail tips from adult mice.\n  2. Peel the tail tips and mince them into 1–2 mm pieces.\n  3. Place the pieces on 100 mm dishes \\(two tail tips per dish) and culture in TTF medium.\n  4. 2 days later, change fresh TTF medium every other day.\n  5. After large amounts of TTFs migrate out, remove the pieces by washing with DPBS. \n  6. Change fresh TTF medium every day.\n  \nReprogramming of fibroblasts\n1. Maintain Plat-E packaging cells in Plat-E medium.\n  2. Split cells into 6-well plates at a density of 8x10<sup>6</sup> cells per plate.\n  3. On the next day, transfect Plat-E cells with pMXs plasmids encoding Oct4, Sox2, Klf4 and cMyc individually, using FuGENE HD, according to manufacturer's instruction.\n  For each well, dilute 3 μg plasmid and 9 μl FuGENE HD transfection reagent in 200 μl Opti-MEM I Reduced Serum Medium. The DNA/FuGENE HD mixtures are incubated for 30 min at room temperature, and added onto Plat-E cells. \n4. Change fresh Plat-E medium 1 day after transfection.\n  5. After an incubation for 24 h, collect virus-containing supernatants, supplement with polybrene \\(1:2000 dilution), and filter the mixtures through 0.45 μM cellulose acetate filters.",
+    "6. Combine and mix Oct4, Sox2, Klf4 and c-Myc viruses with equal volume.\n  7. Incubate MEFs \\(at passage 2 or 3) or TTFs \\(at passage 1 or 2) that are cultured on 0.1% gelatin-coated plates with virus/polybrene-containing supernatants for 24 h.\n  8. Change ESC medium after transduction.\n  9. Continuously culture reprogramming cells with ESC medium for at least 2 weeks."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

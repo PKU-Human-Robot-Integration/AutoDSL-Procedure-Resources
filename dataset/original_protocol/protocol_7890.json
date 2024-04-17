@@ -1,0 +1,16 @@
+{
+  "id": 8300,
+  "origin_website": "Bio",
+  "title": "Transwell Cell Migration Assay Using Human Breast Epithelial Cancer Cell",
+  "procedures": [
+    "Carry MB-231 cells in DMEM with 10% FBS (use L-15 medium if needed).   Wash cells twice with 1x PBS and trypsinize.   Add 0.5 mg/ml Trypsin inhibitor in PBS to inactivate an equal volume of Trypsin. Aspirate cells by pipetting up and down gently (Note: It is important to break down into individual cells as much as possible).   Gently spin down the cells. Wash cells two times with DMEM containing 0.5% FBS to remove trace amounts of trypsin and inhitibor. Resuspend the cells in DMEM with 0.5% FBS and count.   Prepare the transwell compartments, 24-well format, with 8 μm pore size insert:   To the lower compartment, add 2.6 ml of DMEM with 0.5% FBS containing 40 μg ml-1 Collagen I.   Add the transwell insert to the well by merging the bottom of the insert into the medium in the lower compartment.    Note: Ensure that no air bubbles are trapped between the insert membrane and the medium.   To the upper compartment, gently add 1 x 105 cells from step 4.   Incubate the cells in the transwell plate at 37 °C and 5% CO2 for 2.5 h. This allows cells to migrate toward the underside of the insert filter.   After 2.5 h, carefully take the insert out. Cells that do not migrate through the pores and therefore remain on the upper side of the filter membrane need to be gently removed with a cotton swab. Gently wipe the upper side of the filter membrane with a cotton swab to remove the cell debris. We recommend that use each clean cotton swab for one wipe only, in one direction and do not swipe in back-and-forth movement. The cotton swab can be slightly moisturized with ddH2O as needed but be sure to remove any excess water.",
+    "Several wipes may be needed to completely remove any cell debris on the membrane.   Fix the cells on the lower side of the insert filter quickly with 5% glutaraldehyde for 10 min.   Next, stain cells on the lower side of the insert filter with 1% crystal violet in 2% ethanol for 20 min.   Remove excess crystal violet by quickly merging the insert in ddH2O for 3 to 4 sec. Drain excess water from the side of the insert using a cotton swab. Dry the insert membrane.   Count the number of cells on the lower side of the filter under a microscope. Randomly choose different views and take average counting.    The same experimental procedure should be performed for control groups without chemoattractants. Each migration condition should be tested with replicates."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

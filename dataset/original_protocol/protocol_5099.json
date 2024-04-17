@@ -1,0 +1,16 @@
+{
+  "id": 5422,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Assay to Assess Efficacy of Potential Antiviral Compounds against Enterovirus D68",
+  "procedures": [
+    "Grow Hela Rh cells to confluence in growth culture medium (see Recipes) at 37 °C and 5% CO2.Note: Hela Rh cells are passaged by 1 in 10, and they will be confluence after 3-4 days.Aspirate the supernatant, wash the cells three times with 10 ml PBS and detach the cells using trypsin at 37 °C about 3-5 min.When the cells are detached, collect the cells with 10 ml growth medium in a 14 ml tube. Centrifuge the cells for 6 min at 269 x g at room temperature.Re-suspend the cell pellet in 10 ml assay medium (see Recipes).Count the number of cells. Seed the cells into a 96-well plate at a density of 15,000 cells in 100 µl assay medium per well. Incubate the cells for 24 h in the incubator at 37 °C and 5% CO2 to allow the cells to adhere to the plate.Dilute the compounds to the desired start concentration in assay medium. This start concentration should be 6x the desired final concentration to prepare for the 1-in-3 serial dilution. Add 50 µl of the 6x compound dilution to the 100 µl assay medium in the second column, wells B2 to G2 which seeded with cells (a maximum of 6 compounds, Figure 1). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170314/20170314075437_4334.jpgFigure 1. Layout of 96-well plate for antiviral assay. Grey wells only contain medium; VC: virus control, CC: cell control.Mix the medium of column 2 by gentle pipetting and transfer 50 µl of medium from this column to the next column 3 (B3-G3) (see Figure 2A); repeat this up to column 9 (B9-G9). Discard 50 µl of medium from column 9. Column 10 (B10-G10) will be the virus control (VC, assay medium + EV68) and column 11 (B11-G11) will be the cell control (CC, only assay medium).",
+    "Add 100 µl of EV68 of the desired dilution (MOI = 0.001) to column 2-10 and 100 µl assay medium to column 11 (see Figure 2B). Wells on the edge of the 96-well plate (see Figure 1, labelled in grey) contain 200 µl medium but will not be used because edge effects may influence the assay results.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170314/20170314081158_5891.jpgFigure 2. Workflow. A. Gently mix the assay medium in the treated and infected wells. Transfer 50 µl of medium to the next well to prepare a 1-in-3 dilution series. B. Following the preparation of compound dilutions, add 100 µl of assay medium containing 2x virus dilution.Place the 96-well plate in the incubator (35 °C, 5% CO2 and 95% relative humidity) for 3-4 days until complete virus-induced cytopathic effect (CPE) is observed by microscope in the VC wells (see Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170314/20170314075722_0882.jpgFigure 3. HeLa Rh cells in cell control wells (A) and virus control wells (B). Scale bars = 35 μm.Remove the assay medium of all wells in column 2-11 and add 100 µl of 5% MTS/PMS dilution in phenol red- and glutamine-free medium. Following incubation for 40-60 min in the 37 °C 5% CO2 incubator, measure the absorbance in each well of the 96-well plate with a microplate reader at a wavelength of 498 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

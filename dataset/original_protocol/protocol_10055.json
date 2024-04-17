@@ -1,0 +1,15 @@
+{
+  "id": 10466,
+  "origin_website": "Jove",
+  "title": "Protein Kinase C-delta Inhibitor Peptide Formulation using Gold Nanoparticles",
+  "procedures": [
+    "1. Preparation of Peptide Solutions\nRetrieve the peptides (P2: CAAAAE, P4: CAAAAW, PKCδi: CSFNSYELGSL) from the -20 °C freezer and thaw at room temperature (RT).\n\tNOTE: Keep the bottle closed to prevent moisture from condensing on the peptides.\nWeigh 0.01 g of each peptide on a microscale. Put each peptide into a separate 50 mL conical tube.\nAdd 18.74 mL of deionized (DI) water to the P2 tube.\nAdd 16.93 mL of DI water to the P4 tube.\nAdd 8.21 mL of 50% acetonitrile diluted in DI water to the PKCδi tube.\nVortex the peptide solutions briefly. Put the 50 mL conical tubes in a sonicator (40 MHz) for 5 min.\nBring the peptide solutions to a biosafety cabinet. All peptide solutions prepared should be 1 mM.\nTransfer 1 mL of each peptide solution to a new 50 mL conical tube. Add 19 mL of DI water to the tubes of P2 and P4 and add 19 mL of 50% acetonitrile to the PKCδi tube, such that each solution is diluted to 50 µM and stored in its own tube.\n2. Formulation of GNP/PKCi\nPeptides should be added to the GNP solution while still in the BSC\nAdd 475 μL of P2, 25μL of P4 and 500 μL of δPKCi solution into a 15 mL tube. Add 9 mL of 20 nm GNP solution (7.0x1011 particle/mL) to the same 15 mL tube.\nExit the biosafety cabinet. Wrap the 15 mL tube with aluminum foil. Leave it on a shaker at RT overnight.\nReturn the samples to the biosafety cabinet. Aliquot 1 mL of GNP/PKCi into each 1.5 mL microtubes.\nCentrifuge the tubes in a micro-centrifuge for 30 min at 15,294 x g at 4 °C.\nRemove the supernatant from each tube under a biosafety cabinet.",
+    "NOTE: Be careful to remove the supernatant while ensuring that the GNP pellet remains intact and is not aspirated.\nRe-suspend the pellet in the desired solvent according to the concentration required. Applicable solvents can be DI water, PBS, and 0.9% NaCl.\n\tNOTE: Starting from 1 mL of GNP/PKCi, the GNP pellet contains 6.3 x 1011 particles, based on the GNP concentration provided by the manufacturer. To administer 1.3 x 1012 particles in 500 µL of 0.9% NaCl, we add 232 µL of 0.9% NaCl to each of three pellets. After pooling them together, we can then collect 500 µL of GNP/PKCi solution.\n\tNOTE: Mix the desired solvent well before diluting the GNP/PKCi pellet, otherwise the GNP/PKCi will aggregate.\n3. Assessment of GNP/PKCi Hybrid Solubility\nPour 0.5 mL of GNP/PKCi solution into an acryl cuvette. Place the acryl cuvette on a UV-Vis spectrophotometer and test the peak absorption15.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Bioengineering"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

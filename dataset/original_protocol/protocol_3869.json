@@ -1,0 +1,19 @@
+{
+  "id": 4072,
+  "origin_website": "Cell",
+  "title": "Cell cycle arrest of S. cerevisiae in conjunction with labeling of the cell wall",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nTiming: 30 min for step 1\nTiming: 3 h for step 2\nTiming: 30 min for step 3\nCell Wall Staining to Distinguish Mother and Bud\nWash the cells twice in ice-cold PBS and then resuspend them in 0.5 mM sodium m-periodate in PBS (freshly prepared). Incubate for 15 min on ice. Wash 2× with ice-cold PBS.\nIncubate on ice for 30 min with 0.5 mg/mL Texas Red--hydrazide or 13 mM CF488A Aminooxy in PBS (diluted from 100× stocks). Wash the cells twice and return them to growth medium ± methionine. Procedure 2, Lectin labeling.\nLabel the cells in growth medium by adding a 1/100 volume of rhodamine-Concanavalin A stock (1 mg/mL). Incubate for 15 min ice.\nAfter two washes in growth medium ± methionine, resuspend the cells in medium ± methionine.\nCell Cycle Arrest\nGrow shaking cultures of cells in synthetic medium lacking methionine. When they reach mid-log phase (OD600 = 0.5–1), sediment samples in Eppendorf tubes and resuspend in an equal volume of complete synthetic medium ([methionine] = 20 mg/liter). Shake for 3 h at 23°C.\nImaging\nSediment cell cultures.\nApply 0.5–1.0 μL samples of the pellet to the surface of agarose pads after exposure of the agarose by sliding off the upper slide.\nOverlay with a No. 1 thickness coverslip.\nFor imaging in excess of 15 min duration, trim the agar to the dimensions of the coverslip and seal with vaseline to reduce drying.\nExamine samples in a Deltavision RT epifluorescence microscope with an automated stage (Applied Precision, Inc) and an oil immersion objective (Olympus UPlanApo 100×/1.40; ∞/0.17/FN26.5).",
+    "Capture z-stacks at 0.2–0.5 μm intervals using a CCD digital camera (Photometrics CoolSnap HQ). % transmission = 100%, exposure time 0.05–1 s, field 1040 × 1040 pixels, binning 1 × 1. Collect through-focal series spanning a total of 6 μm. Remove out-of-focus light using the Softworks deconvolution program (http://www.sussex.ac.uk/gdsc/intranet/pdfs/softWoRx[href=http://www.sussex.ac.uk/gdsc/intranet/pdfs/softWoRx] user manual.pdf).\nIf it is not convenient to image living cells, fix the cultures by adding formaldehyde to a final concentration of 3.7% from a 37% stock in water, agitate for 5 min and then wash once with growth medium to quench free aldehydes. Store samples in water at this point for 1–2 days at 4°C before examination."
+  ],
+  "subjectAreas": [
+    "Microscopy",
+    "Cell Biology",
+    "Model Organisms",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4766,
+  "origin_website": "Bio",
+  "title": "Measuring Blood-brain-barrier Permeability Using Evans Blue in Mice",
+  "procedures": [
+    "Mice were anesthetized with 10% chloral hydrate (0.3 ml/100 g, i. p.).   Injected Evans Blue (EB) (2%, 2 ml/kg) from caudal vein 0.5 h before perfusion. EB leakage was used to assess blood-brain barrier (BBB) permeability.   Mice were transcardially perfused with 0.9% NaCl until the perfusate from the right atrium ran clear.    Mice were directly beheaded, stripping brain tissue on the ice, taking the region before bregma 2.34 mm, after bregma 0.22 mm and aside the middle line 0.6 mm of the cerebral cortex on a cooled culture dish lined before experiment with a knife, which was we focus on the ACC area of the brain. The obtained ACC area was placed in the Eppendorf container cooled on the ice.   Each sample was weighed and then homogenized in 0.75 ml of PBS and 0.25 ml of 100% TCA solution, which could precipitate macromolecular compounds, including the nucleoprotein, using electronic homogeniser.   Samples were cooled overnight at 4 °C, and then centrifuged for 30 min at 1,000 x g at 4 °C.   The EB in the supernatants of each sample were subsequently measured at 620 nm using a 96-well plate reader, 100 μl of each sample was measured. All measurements were within the range of detection established by the standard curve.   The dye concentration was calculated as the ratio of absorbance relative to the amount of tissue."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

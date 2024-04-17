@@ -1,0 +1,16 @@
+{
+  "id": 7490,
+  "origin_website": "Bio",
+  "title": "Simple Scalable Protein Expression and Extraction Using Two-stage Autoinducible Cell Autolysis and DNA/RNA Autohydrolysis in <em>Escherichia coli</em> ",
+  "procedures": [
+    "Shake-flask two-stage fermentationsInoculate a 15 mL culture tube containing 5 mL of sterile low salt LB supplemented with appropriate antibiotics, using a frozen stock of DLF_R004 expressing your protein of interest (e.g., if using Addgene #127078 plasmid expressing GFPuv, a concentration of 35 µg/mL of kanamycin sulfate is needed).Incubate the 5 mL cell culture at 37°C overnight at 150 rpm (shaker orbit: 50 mm).Fill each 250 mL shake flask with 20 mL of sterile AB-2, supplemented with appropriate antibiotics.Inoculate the AB-2 media with the overnight LB culture at 1% v/v (using 200 μL of the LB overnight for each 250 mL shake flask).Incubate the AB-2 culture(s) for 24 h at 37°C with shaking at 150 rpm (shaker orbit: 50 mm)After 24 h, since protein expression has finished (Menacho-Melgar et al., 2020b), measure and record the OD. While we have observed protein expression above OD 5, typical OD values range from 10 to 20. If an OD of 10 has not been reached, please refer to ‘Adaptation to alternative cell culture set-ups” under ‘Notes’ below.Harvest the cells by centrifugation at 4,000 × g for 20 min.Protein extraction using autolysis/autohydrolysis (refer to Figure 3)Resuspend the cells to one-tenth of the original cell culture volume in 1× Autolysis buffer (2 mL total volume per 20 mL shake flask culture) supplemented with protease inhibitors, according to the manufacturer’s recommendations. For ease of handling, transfer the cell resuspensions from shake-flasks to microcentrifuge tubes.Freeze the cells for 1 h in a -20°C or -80°C freezer. Ensure the cells become frozen, by tilting the tube and checking the cells do not flow. This is a good stopping point for this protocol, so one can use longer freezing times (e.g., overnight) without affecting the lysis.",
+    "Thaw the cells at 37°C in a heat block and incubate them for 1 h. Incubation at a lower temperature (e.g., room temperature) will lead to incomplete cell lysis.Centrifuge the cells at 15,000 × g in a microcentrifuge.Collect the supernatant containing the DNA/RNA-free protein extract.To quantify protein titer, we recommend using a Bradford assay (to measure total protein concentration) coupled with an SDS-PAGE (to measure expression levels).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4297/bioprotoc-12-02-4297-g003.jpgFigure 3. Autolysis/Autohydrolysis protocol outline. After growing the cells in 20 mL of AB-2 in a shake-flask for 24 hours (Step A5), the cells are harvested by centrifugation (Step A7), resuspended in 1x Lysis buffer (Step B1, two tubes for a single shake-flask), and frozen for at least 1 h (Step B2). The cells are thawed and incubated at 37°C for 1 h (Step B3). The lysate is then centrifuged (Step B4) and the protein extract can be collected (Step B5)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

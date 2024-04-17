@@ -1,0 +1,17 @@
+{
+  "id": 300,
+  "origin_website": "Nature",
+  "title": "Pyrogen-free culture of Gram-positive bacteria: verification by hemocyte degranulation and Factor C assays",
+  "procedures": [
+    "1.  Prepare culture media using pyrogen-free water, in depyrogenised containers which have been previously baked at 200 &#xB0;C for at least 4 h.\n  2.  After sterilizing the media, quantify the LPS, if any, using the PyroGene<sup>TM</sup> Endotoxin Diagnostic Kit \\(Cambrex Inc., USA).  \n  3.  Only use the media for Gram-positive bacterial culture if the LPS level is negligible \n  4.  Upon completion of the Gram-positive bacterial culture, again measure the potential presence of LPS \\(in case of its inadvertent introduction during the harvesting of the culture) using the PyroGene Kit. \n  5.  Collect hemolymph from the horseshoe crab by partial bleeding through cardiac puncture, under pyrogen-free condition. \n  6.  Incubate the culture from step 4 with the hemolymph from step 5, at room temperature for 20 min on borosilicate glass slide.  Examine the morphological change of the hemocytes under light microscopy for their inability to cause degranulation of the horseshoe crab hemocytes. _Pseudomonas aeruginosa_ is used as an LPS-positive control, which degranulates the hemocytes.\n  7.   Incubate the culture from step 4 with the hemolymph from step 5 at room temperature for 90 min in borosilicate glass test tube.  Then observe the dense button of hemocytes formed at the bottom of the test tube.  This verifies the pyrogen-free Gram positive culture. \n  8.  Collect the supernatant from the upper part of the incubation mixture in step 7. Remove residual hemocytes by centrifuging at 150 x g at room temperature for 10 min.  Collect the supernatant for Factor C activity assay, to double-confirm the pyrogen-free status.  \n  9.  Mix 10 &#x3BC;l of the supernatant \\(step 8) with 90 &#x3BC;l fluorescent substrate from the PyroGene<sup>TM</sup> Endotoxin Diagnostic Kit \\(Cambrex Inc., USA).  Monitor the fluorescence emission at 440 nm upon excitation at 380 nm.",
+    "10  Add 10 &#x3BC;g/ml LPS to the supernatant from step 8 and incubate at room temperature for 10 min prior to the Factor C assay as in step 9.  This is to activate the inactive form of the Factor C in case it is exocytosed as a zymogen.  For the negative control, pyrogen-free saline is used in place of bacteria."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

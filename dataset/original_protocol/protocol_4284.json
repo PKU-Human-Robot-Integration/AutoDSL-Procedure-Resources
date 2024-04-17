@@ -1,0 +1,16 @@
+{
+  "id": 4496,
+  "origin_website": "Bio",
+  "title": "Coagulation Assay",
+  "procedures": [
+    "Warm up the coagulation machine (at least 10 min before you begin the experiment switch on the machine).   Prepare all reagents (should have room temperature before use).   First place the special cuvette with a steel ball on the measuring positions in instrument related racks.  Principle behind this technique: Once the cuvette is kept in the rack it starts rotating and due to gravity the metal ball inside the cuvette always remains. When the plasma/blood is in solution the ball remains in the position and if the plasma/blood starts clotting the clot pulls the ball out of the basic position and the sensor detects the disturbance and measures the clotting time.   In order to measure the clotting times, add the reagents to the cuvette according to the schedule:   For whole blood assay   Add 100 µl citrate blood to the coagulometer and press incubation.   After 60 sec incubation (helps to bings the sample to 37 °C).   Add 100 µl of 30 mM CaCl2 → then immediately press manual start button to measure coagulation.     Prothrombin time (PT)   Add 100 µl citrate plasma to the coagulometer and press incubation.   After 60 sec incubation.   Add 100 µl TriniCLOT PT Excel → then immediately press manual start button to measure coagulation.     Thrombin time (TT)   Add 100 µl citrate plasma to the coagulometer and press incubation.   After 60 sec incubation, add 100 µl Thrombin reagent → then immediately press manual start button to measure coagulation.     Activated partial thromboplastin time (APTT)   Add 100 µl citrate plasma to the coagulometer and press incubation.   After 60 sec incubation.   Add 100 µl DAPTTIN TC.    Alter 200 sec incubation, add 100 µl 30 mM CaCl2→ then immediately press manual start button to measure coagulation."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

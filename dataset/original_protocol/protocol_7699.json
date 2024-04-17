@@ -1,0 +1,16 @@
+{
+  "id": 8102,
+  "origin_website": "Bio",
+  "title": "LC3B Labeling on Terrestrial Isopod Adipocytes",
+  "procedures": [
+    "Dilute the LC3B rabbit polyclonal antibody in blocking buffer to prepare 0.5 μg/ml working solution (1 μl stock solution in 1,999 μl of blocking buffer).Draw a well (of a diameter of around 1 cm) with a liquid repellent pen on glass slide.Dissect the terrestrial isopod and collect fat tissue especially those surrounding the nerve cord (a length of around 6 mm) (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130615/20130615082157_3652.jpg Figure 1. Location of the nerve cord in Porcellio dilatatus (A) and the nerve cord surrounded by adipocytes (Ad) once collected (B).Deposit the nerve cord surrounded by adipocytes (fat tissue) on the middle of the drawn well. Add 150 μl of the 3.7% formaldehyde fixative in terrestrial isopod PBS onto the tissue.Incubate 15 min in a black box containing a humid paper at room temperature (RT). Remove the fixative and wash the tissue three times with terrestrial isopod PBS (5 min with 150 μl of PBS by washing).Remove the PBS after the last wash.Prepare 0.2% Triton X-100 in terrestrial isopod PBS and apply 150 onto the fat tissue. Be careful of not dissolving the liquid repellent pen for the tissue to be always immerged in the solution. Incubate in a black box with humid paper at 15 min RT.Draw a well (~1 cm diameter) with a liquid repellent pen on a fresh glass slide. Collect the fat tissue with forceps and transfer it onto the fresh slide. Add 150 μl of the diluted primary antibody prepared in step 1 onto the fat tissue. Incubate 60 min in a black box containing a humid paper at RT. Remove the primary antibody solution and wash the tissue three times with terrestrial isopod PBS (5 min with 150 μl of PBS by washing).Remove the PBS after the last washing.",
+    "Dilute the goat anti-rabbit secondary antibody in blocking buffer to prepare 5 μg/ml working solution (1 μl stock solution in 399 μl of blocking buffer).Add 150 μl of goat anti-rabbit secondary antibody onto the fat tissue.Incubate 60 min in a black box with humid paper at RT.Remove the anti-goat secondary antibody solution and wash the cells three times with terrestrial isopod PBS (5 min with 150 μl of PBS by washing).Mount the preparation in a mixture of DAPI (2.5 mg/ml) to label the nuclei and Citifluor (AF1 antifading).Detection was performed with epifluorescent microscope with apotome equipped with a 63x/1.25 objective (oil immersion) and with the AxioVision 4.8.1 software (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130615/20130615083506_1026.jpg Figure 2. Observation of LC3B labeling in adipocytes collected from Porcellio dilatatus infected with the Wolbachia strain wVulC (Le Clec’h et al., 2012)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

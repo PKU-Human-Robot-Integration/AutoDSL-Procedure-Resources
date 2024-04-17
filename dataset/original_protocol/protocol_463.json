@@ -1,0 +1,15 @@
+{
+  "id": 495,
+  "origin_website": "Nature",
+  "title": "Isolating and culturing dendritic cells \\(Dendritic Cell J558 Protocol)",
+  "procedures": [
+    "see attachment \\(Images and Attachments) for a Word document version of this protocol.\nJ558 plasmacytoma cells = X63-Ag8 transfected with the cDNA of mouse GM-CSF\\(produced by PCR), cloned into the expression vector BCMGSNeo \\(Karasuyama et al., 1990, JEM 172, 969). These cells are DESCRIBED IN Zal et al., JEM 1994, 180:2089).\nThe cells are cultured in IMDM supplemented with glutamine / penicillin / streptomycin/ B mercapto \\(same DC), 5% FCS \\(same batch as the culture of DC). The selection medium to maintain the expression of GM-CSF contains 1mg/ml G418.\nTo make a large stock of ampoules of frozen cells:\nExpand cells in selection medium \\(they should never exceed 1.5 – 2 x106)\nWash 2x in medium without G418\nFreeze at 5 x 10 ^ 6 / 90% FCS ampoule \\(same batch as the culture medium) -10% DMSO\nTo produce conditioned medium:\nThaw a vial by washing in medium without G418 1x\nInoculate a 175cm2 flask in 50 ml of medium with 5% FCS without G418\nWhen there are enough cells \\(about 3 days), seed them into 500 ml of medium with 5%FCS without G418, with 2x105 cells / ml \\(in \"spinner\" of 500ml)\n3 days later, collect the conditioned medium:\nCentrifuge culture 5 min at 1300 rpm\nFilter the supernatant through 0.22 um\nRe-seed cells at 2x105 cells / ml in approximately 3 L of medium with 5% FCS without G418 \\(we use a 3L spinner at this stage)\n3 days later, collect the conditioned medium as above\nWe can rebuild a 3-day conditioned medium with the cells recovered but not more \\(discard cells then)\nThe conditioned medium is kept at 4 C, maximum 4 months, and kept sterile \nFor longer storage you can aliquot and freeze at -80C\nIn ELISA, the concentration of GM-CSF should be more than 20ng/mL",
+    "The filtration of the supernatant repeatedly can cause it to lose a part of its activity. Please do not filter more than once the supernatant obtained.\nComplete Iscove’s Modified Eagle's Medium \\(IMEM)\n 5mL Pen/Strep\n 5mL L-glut     \n0.5mL -MCE\n 50mL \\(10% \\(5% ok too) Heat inactivated Special DC FCS \\(South American  Origin\\!\\!, \\(Tested to be the best for DCs)\n 50mL GM-CSF\n +389.5 IMDM\nFrozen FBS stocks \\(special DC FBS), L-glut, P/S in freezer by back elevator in drawer. Use Ike’s frozen FBS aliquots. Stock 500mL FBS is already heat inactivated\\!"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

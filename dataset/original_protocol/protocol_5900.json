@@ -1,0 +1,15 @@
+{
+  "id": 6249,
+  "origin_website": "Bio",
+  "title": "Stable-isotope Labeled Metabolic Analysis in <em>Drosophila melanogaster</em>: From Experimental Setup to Data Analysis",
+  "procedures": [
+    "Metabolites extractionQuickly freeze the animal tissues (head of Drosophila) in liquid nitrogen immediately after dissection.Homogenize the tissue sample with 200 μl of H2O and 5 ceramic beads using the homogenizer.Add 800 μl ACN:MeOH (1:1, v/v) to homogenized solution for subsequent metabolite extraction.Incubate the samples for 1 h at -20 °C to precipitate proteins.Proceed with 15 min centrifugation at 15,000 x g under 4 °C.Transfer the resulting supernatant to a new Eppendorf tube (2 ml), then evaporate to dryness in a vacuum concentrator under 4 °C.Reconstitute the dry extracts with 100 µl of ACN:H2O (1:1, v/v).Sonicate the reconstitution solution for 10 min, and centrifuge for 15 min at 15,000 x g under 4 °C to remove insoluble debris.Transfer the supernatant to an HPLC glass vial and store at -80 °C if the samples will be subjected to LC-MS analysis within 3 h. For extracted samples that require long time (over 12 h) stored prior to being analyzed, we suggest storing the samples after Step A6 and then proceeding with A8-A9 before LC-MS analysis.LC-MS analysisLiquid chromatographyLoad worklist with method embedded using MassHunter software. Please note that LC-MS operation (both instrument and software) requires specialized training.Run batch sequence with following LC parameters:Wash injection needle one time with needle washing solvent MeOH:H2O (1:1, v/v).Load sample and inject 2 μl of sample.Run LC method using the LC gradient as described in Table 1.Table 1. The gradient elution method for LC-MS analysisimgsrc:https://en-cdn.bio-protocol.org/attached/image/20180912/20180912001952_7075.jpgMass spectrometrySet MS parameters as described below:ESI source parameters:Sheath gas temperature, 300 °C.Dry gas temperature, 250 °C.Sheath gas flow, 12 L/min.Dry gas flow, 16 L/min.Capillary voltage, 2,500 V (+) and -2,500 V (-), respectively. Please note that the same sample is analyzed twice for each ionization mode.Nozzle voltage, 0 V.Nebulizer pressure, 20 psi.Time of Flight (TOF) parameters:TOF scan range: m/z 60-1,200 Da.",
+    "MS1 acquisition frequency: 4 Hz."
+  ],
+  "subjectAreas": [
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

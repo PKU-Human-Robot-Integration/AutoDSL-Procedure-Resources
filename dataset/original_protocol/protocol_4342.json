@@ -1,0 +1,16 @@
+{
+  "id": 4559,
+  "origin_website": "Bio",
+  "title": "Minimal Inhibitory Concentration (MIC) Assay for <em>Acinetobacter baumannii</em>",
+  "procedures": [
+    "Preparation of antibiotic stock solution and dilution range   Obtain antibiotic powder from the pharmaceutical company and make a note of the relevant information, including expiry date, potency, stability and solubility.    Prepare 1 ml 10 mg/ml tigecycline stock solution.    Choose a suitable range of antibiotic concentrations to be tested for A. baumannii if available. If the range is not available, maximal concentration 512 µg/ml and serial diluted concentrations with CAMHB solution are used. The lowest dilution concentration is depended on the possible minimal inhibition concentration. 0.125 µg/ml is the lowest possible dilution concentration.   To get different tested concentrations, solution of 10-time maximal concentration is prepared by dispensing the appropriate amount of stock solutions with micropipette and diluting with CAMHB solution.  For example, to get 1 ml 5,120 µg/ml solution, dispense 0.512 ml stock solution and dilute with 0.488 ml CAMHB solution.       Preparation of inoculum   Dissolve a single colony of A. baumannii, which is picked from a LB streak plate, in 3 ml LB broth and incubate overnight at 37 °C, 220 rpm.    Check OD600 (1 OD600= 109 CFU/ml) with a spectrophotometer.   Dilute the bacterial solution with LB broth to get 0.1 OD600 suspension and incubate at 37 °C, 220 rpm till mid-log phase (~2 h).    Put 1 ml mid-log phase bacterial solution in 1.5 ml Eppendorf tube, centrifuge at 6,000 rpm for five min, and wash with 1 ml PBS solution. Repeat the washing procedure twice.   Dissolve the bacterial pellet with 1 ml CAMHB solution.   Get 100 µl the above bacterial solution and mix it with 900 µl PBS, then check OD600 with a spectrophotometer. The bacterial concentration can be deduced from the measured value x 10.   Adjust the bacterial concentration to 1 x 107 CFU/ml with CAMHB solution (1 OD600 ~109 CFU/ml).      Inoculation and incubation   Mix 50 µl adjusted A.",
+    "baumannii bacterial solution (1x107 CFU/ml), 850 µl CAMHB and 100 µl solutions of 10-time serial tested antibiotic concentration. Use the E. coli ATCC25922 bacterial solution as a control.   Use 900 µl CAMHB and 100 µl solutions of 10-time serial tested antibiotic concentration for OD600 measurement comparison as a negative control.   Incubate at 37 °C, 220 rpm for 20-24 h.      Reading and interpretation   Check OD600 with a spectrophotometer.   Read the MIC endpoint as the lowest concentration of antibiotic at which there is no visible growth of bacteria (no solution turbidity on naked eyes), and the difference of measured and background OD600 is less than 0.01."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

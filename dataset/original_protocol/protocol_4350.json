@@ -1,0 +1,16 @@
+{
+  "id": 4568,
+  "origin_website": "Bio",
+  "title": "Determination of Soluble Sugars in <em>Arabidopsis thaliana</em> Leaves by Anion Exchange Chromatography",
+  "procedures": [
+    "Collect leaf sample (or plant material) and freeze immediately in liquid N2. Stored at -80 °C until use.    Grind plant tissue with mortar and pestle in the presence of liquid N2 until the sample is converted to a fine powder.   Weigh 100-300 mg leaf powder into a microfuge tube and add extraction buffer 1. [The ratio of powered tissue/EB1 should be 1:1 (w/v).]   Heat the samples at 80 °C for 2 h to extract soluble sugars. Allow them to cool and centrifuge at 15,000 x g (13,000 rpm in a microfuge) 10 min.    Remove supernatant to a fresh microfuge tube.   The supernatant is evaporated in vacuum at 45 °C for 2 h.   Resuspend the dried extract in Milli Q grade water. [The ratio of water/original powdered tissue should be 0.5:1 (v/w).]   Keep on ice while preparing all samples. Freeze the samples at -20 °C for long storage, when necessary.   Clean soluble plant extracts by filtering through nylon filters. Suitable extract volumes (typically 50 µl) were made up to 200 µl with Milli Q grade water and filtered through Whatman Mini-UniprepTM nylon filters (0.2 µm pore size).    Add 250 µl 21.6 mM NaOH to 50 µl filtered extracts and apply into a Dionex HPLC system. Set a 10 µl injection volume.    Sugars are separated by isocratic elution at 20 °C with 18 mM NaOH as mobile phase at a flow of 1 ml/min [18% (v/v) 0.1 M NaOH and 82% (v/v) Milli Q grade water] through a CarboPac PA10 column and pre-column CarboPacPA10. Detection is carried out by amperometric detection with a gold electrode in nC units.    The chromatograms are analysed using the Chromeleon software. Peaks are identified by their retention time in comparison with known standard sugars.",
+    "The peak area is calculated by integrating the area between the start and the end of a peak (nC x min) using the Chromeleon software. A range of sugar mixtures of known concentrations (1, 0.5, 0.1, 0.05 and 0.01 mM; as an example, see the 0.5 mM standard profile in Figure 1A) is applied into the HPLC system, as described above, to generate calibration curves for each sugar, relating peak area (as determined by the software) with concentration. The amount of a certain sugar is calculated comparing its peak area (Figure 1B) with those in the calibration curves. Sugar content in samples is expressed in micromoles of sugar per gram fresh weight.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141204/20141204013159_6702.jpg Figure 1. Sugar elution profiles in typical chromatograms. A. Sugar standards: Mixture of trehalose (peak 1), galactose (peak 2), glucose (peak 3), fructose (peak 4) and sucrose (peak 5) at 0.5 mM each. B. Plant extract showing glucose (1), fructose (2) and sucrose (3) peaks. Retention times are indicated for each peak. nC: 10-9 C."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

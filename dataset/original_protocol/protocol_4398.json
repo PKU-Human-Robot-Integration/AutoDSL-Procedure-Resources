@@ -1,0 +1,15 @@
+{
+  "id": 4622,
+  "origin_website": "Bio",
+  "title": "Vesicle Isolation from <em>Bacillus subtilis</em> Biofilm",
+  "procedures": [
+    "Biofilm growth assayInoculate a plate of Bacillus subtilis lab strain 168 (from -80 °C) on a BHI agar plate overnight (~18 h) at 37 °C.Inoculate 5 ml BHI broth from overnight agar plate (one colony) and grow for 4 h with shaking (~200 rpm) at 37 °C.Inoculate 1:1,000 of broth culture (12 μl) into 12 ml MSgg media in petri dishes.Let biofilm incubate (covered with dish lid without shaking) at 37 °C for desired time period (usually 3 and 7 days). Ensure that incubator has a water container to ensure the dishes do not dry out.Purification of vesicles from biofilmAfter desired time period, remove pellicle and supernatant from plates by pipetting and centrifuge at 15,000 x g for 20 min at 4 °C to remove cells and large debris.To remove remaining cells and debris, filter the spun supernatant with 0.22 μm syringe filters. Centrifuge filtered, cell-free supernatant with centrifugal filter units to concentrate to less than 3 ml in volume.To pellet vesicles from supernatant, ultracentrifuge concentrated supernatant at 195,000 x g for 1 h at 4 °C in polyallomer tubes.Remove supernatant without disturbing the vesicle pellet by pipetting.Repeat spin after washing in 500 μl PBS.Remove PBS wash from tube without disturbing the vesicle pellet.Resuspend pellet in desired volume of PBS."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

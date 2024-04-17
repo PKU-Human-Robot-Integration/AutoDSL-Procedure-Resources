@@ -1,0 +1,15 @@
+{
+  "id": 561,
+  "origin_website": "Nature",
+  "title": "Isolation of mouse bone marrow-derived monocytes",
+  "procedures": [
+    "Protocol:\n1. Sacrifice mouse by cervical dislocation method and immerse whole body thoroughly with 75% ethanol solution 10min.\n  2. Pull both back legs apart until cracks are heard. With sterile  scissors and forceps, cut skin around one of the back legs. Pull skin down towards paw and remove it. Pierce leg with scissors and tear muscle alongside bone by opening scissors. Repeat this on both sides of femur and tibia until both bones are roughly clean. Cut ligaments between femur and hip. Cut bone below the ankle joint.\n  3. Store femurs and tibias in DMEM on ice before use. \n  4. Place bones in 75% ethanol for 1 min to ensure sterility, wash twice in sterile PBS. \n  5. Place femur and tibia in a tube of ice-cold, sterile PBS. Wipe femur and tibia by rubbing with low-lint tissues to remove attached tissue.\n  6. Separate tibia from femur by bending slightly at the knee joint. Hold femur/tibia with sterile forceps and then remove both epiphyses with sterile scissors.\n  7. Insert a 25-G needle through the cutted end and flush bone marrow cells into a 50ml sterile tube with medium. While flushing, move the needle up and down while scraping the inside of the bone. Do this until the bone appears white.\n  8. Mechanically disrupt the marrow plugs by passing through a 19-G needle twice, filter the resulting cell suspension using a 70-μM cell strainer \\(optional) and centrifuge at 250g for 5 min.\n  9. Discard the supernatant and replace with DMEM, supplemented with 10% FBS and 100ng/ml recombinant mouse M-CSF. Pipet up and down several times to disaggregate pellet.\n  10. Plate BM cells in plastic 10cm-plates and culture in 10% FBS DMEM medium supplemented with 100 ng/ml recombinant mouse M-CSF.",
+    "11. Replace medium on day 3 and 6 with DMEM, supplemented with 10% FBS and 100ng/ml recombinant mouse M-CSF.\n  12. On day 7, harvest the BMDMφ by incubating with 10 mL PBS containing 10 mM EDTA, followed by vigorous pipetting.\n  13. Collect the cell suspension in a 50-mL polypropylene tube and quench with an equal volume of DMEM, supplemented with 10% FBS and 100ng/ml recombinant mouse M-CSF.\n  14. Centrifuge the cells at 250g for 5 min and plate at 2 × 10<sup>5</sup> Mφ/1ml media per well of a 24-well plate."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1099,
+  "origin_website": "Nature",
+  "title": "Beta-galactosidase activity assay for yeast",
+  "procedures": [
+    "1. Collect approximately 5 × 107 cells from yeast exponentially growing cultures\n  \n 2. Pellet cells by centrifugation at 4000xg at 4ºC and wash once with water\n 3. Cells can be stored at -20ºC\n 4. Resuspend cells with 200 μl of Z Buffer + β-mercaptoethanol \\(0.27% \\(v/v)) containing 1mg/mL zymolyase-20T\n 5. Incubate samples 20-30 min at 30ºC to digest cells\n 6. Centrifuge cells at 13400xg for 5 min at 4°C\n 7. Transfer the supernatant to a new eppendorf\n 8. Use 1 or 2 μL of the extract to quantify the amount of protein using the Bradford assay \\(Concentration)\n 9. Mix 180 μl of extract \\(Volume) with 700 μL of Z Buffer + β-mercaptoethanol\n 10. Start the reaction by adding 200 μL of 4mg/mL ONPG \\(o-nitrophenyl- β-D-galactopiranoside\n 11. Incubate samples at 30ºC until they become yellow coloured \\(up to 90 minutes)\n 12. When yellow colour appears \\(Time), stop the reaction with 500 μL of Na2CO3 1M\n 13. Centrifuge cells at 13400xg for 1 min to pellet cells\n 14. Measure A460\n 15. β -galactosidase activity is expressed in arbitrary units \\(U), from the following formula:\nU=\\(A460 x1000)/\\(Time \\(〖min) x Volume \\(µL)x Concentration \\(µg/µL)〗⁡ )"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

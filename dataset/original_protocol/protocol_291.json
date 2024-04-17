@@ -1,0 +1,16 @@
+{
+  "id": 307,
+  "origin_website": "Nature",
+  "title": "Analysis of the development of phonetic syntax in infant babbling",
+  "procedures": [
+    "1. Download matlab codes for analysis from http://ofer.hunter.cuny.edu/publications/publications \\(click on the link saying '+ shared protocol for babbling analysis'. The codes are in a zipped folder.\n  \n2. Download infant vocal transcriptions data from http://childes.psy.cmu.edu/browser/index.php?url=Eng-NA/.\n  \nIf you would like to repeat the babbling analysis used in the paper, download the 9 infants listed in the \"Reagents' section from http://childes.psy.cmu.edu/browser/index.php?url=Eng-NA/Davis/.\nPut all data in a folder within the folder containing the matlab codes \\(point 1). Name the folder 'English-Davis_CHAT' or update the matlab code accordingly \\(see below).\n3. Open matlab and the 'Analysis.m'. This script contains two cells. The first parses the .cha files from the database and the second produces the graphs presented in the paper."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

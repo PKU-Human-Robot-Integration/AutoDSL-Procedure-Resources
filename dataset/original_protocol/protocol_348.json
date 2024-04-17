@@ -1,0 +1,14 @@
+{
+  "id": 371,
+  "origin_website": "Nature",
+  "title": "Procedure Development for Identification of Histamine from Chicken Meat",
+  "procedures": [
+    "1. Chicken meat sample \\(dried powder) ten grams were added to 150 mL methyl alcohol in pyrex flask and placed in oven at 70 Centigrade for 7 minutes.\n  CRITICAL we suggest 5-7 minutes placement of the sample in oven, longer placement of sample in oven not only evaporate methy alcohol but also burn sample.\n2. Sample containing flask was placed on hot plate magnetic stirrer and was rapidly stirred \\(1600 RPM) at 80 centigrade for 8 minutes.\n  CRITICAL increasing temperature beyond the level and increasing the time lead to a more viscous sample formation which ultimately makes problem in filtration. \n3. Stirred sample was filter using whatman NO1 filter paper and this takes 7 minutes time.\n  CRITICAL squeezing once or twice the sample decreased filtration time or alternatively, vacuum filtration may be good.\n4. The filter extract was taken in micropipette, 0.5 microliter and was spotted on TLC plate along with standard histamine \\(0.5 microliter) and this procedure was completed in one hour.\n  CRITICAL 30mL methyl alcohol and 1.5mL ammonia is sufficient to  smoothly mobilize the analyte/sample spot.\n5. 2% ninhydrin solution was made \\(w/v, acetone). This takes only 3 minutes.\n  6. TLC plate was dried in air and then sprayed with ninhydrin.\n  7. The TLC plate was air dried, and visualized using Spectroline \\(UV long Wave). Then TLC plate was photographed. This step takes 10 minutes."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

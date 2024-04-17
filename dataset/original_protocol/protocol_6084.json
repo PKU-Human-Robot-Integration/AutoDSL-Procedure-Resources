@@ -1,0 +1,16 @@
+{
+  "id": 6437,
+  "origin_website": "Bio",
+  "title": "Co-Streptavidin Precipitation",
+  "procedures": [
+    "Cell transfection   Co-transfected 10 to 50 x 106 of HeLa cells (or other “easy to transfect cells”) with your gene of interest “1”-FLAG cloned into pCMV-Tag2 expression vector, and your gene of interest “2”-SBP-Calmodulin cloned into pNTAP, or the empty expression vector pNTAP as a control. Transfection is performed with standard transfection protocols (such as Lipofectamine, Invitrogen or Fugene 6, Roche or Calcium Chloride precipitation).        Nuclear extract preparation 24 to 48 H after transfection, the cells are lysed and nuclear extracts were prepared using the nuclear extract lysis protocol:    Use trypsin to recover the cells and wash cells with cold 1x PBS then centrifuge for 6 min at 300 x g at 4 °C. From now on, all the steps should be performed on ice.   Resuspend the cell pellet in the chilled Sucrose buffer (5 μl/1 x 106 cells).   Add vol/vol Sucrose buffer containing 0.5% NP40 (final concentration 0.25%).   Mix by pipetting on ice. Save a small aliquot (1 to 5% -aliquot 1).   Centrifuge 10 min at 1,100 x g at 4 °C. The pellet contains the nuclei and looks nacreous to white. The supernatant contains the cytoplasmic protein extract and can be saved if a cytoplasmic protein is of interest for Co-IP. Save a small aliquot (1 to 5% -aliquot 2).   Wash the pellet with Sucrose buffer (without NP40) and centrifuge 10 min at 2,000 rpm at 4 °C.    Depending on the nuclear proteins to be purified, you can lyse nuclei with:    Either the Nuclei Lysis buffer for soluble proteins (5 μl/1 x 106 cells);    Or the Nuclei Lysis buffer for hard-to-extract proteins (5 μl/1 x 106 cells) and add DNase 5 U/μl and Benzonase 5 U/μl. Resuspension is hard since it’s very viscous with DNA.      Incubate on a wheel at 4 °C for 45 min to 1 h.",
+    "Save a small aliquot (1 to 5% -aliquot 3).   Centrifuge 3 min 10,000 x g at 4 °C. The supernatant is the protein nuclei extract that will serve for the IP. Save a small aliquot from the supernatant (1 to 5% -aliquot 4; which is also the input of the IP experiment) and the pellet is the insoluble substance such as membrane debris. Resuspend the pellet in 5 μl/1 x 106 cells of 150 mM NaCl, 10 mM Tris. Save a small aliquot (1 to 5% -aliquot 5).   Verify the efficiency of the lysis by analyzing by SDS-PAGE and western-blot the presence of your proteins of interest in the saved aliquots.   Aliquot 1: total cells   Aliquot 2: cytoplasm protein extract    Aliquot 3: total nuclei extract   Aliquot 4: nuclear protein extract   Aliquot 5: insoluble nuclei extract        Co-Streptavidin Purification   Incubate the protein nuclei extract 2 h at 4 °C with 25 μl of streptavidin agarose (bead volume). Optimization is required for efficient SP of your SBP-protein of interest and the quantity of streptavidin beads may vary according to the protein stability, etc.    Wash 4 to 6 times the beads in 100 mM NaCl, 10 mM Tris-HCl (pH 7.8), by mixing by pipetting and centrifuging 10,000 x g for 30 sec.    Elute the bound proteins in Laemmli loading buffer and separate by SDS-PAGE and analyze by western blot using antibodies against Calmodulin and Flag."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

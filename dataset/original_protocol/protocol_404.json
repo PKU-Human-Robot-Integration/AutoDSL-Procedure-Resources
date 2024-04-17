@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "origin_website": "Nature",
+  "title": "Reconstiuted nucleosomes containing ubiquitinated histones",
+  "procedures": [
+    "1. Purify Flag-H2A from HeLa cells stably expressing Flag-H2A and purify Flag-H2B from T85 yeast strain \\(provided by Dr. Shelley L. Berger) and YKH045 yeast strain \\(provided by Dr. Mary Ann Osley) with anti-Flag IP under denature conditions\\(Wang _et al_., 2006; Robzyk, K, 2000).\n  2. Mix histone H2B purified from these two yeast strains at appropriate ratio to match the ratio of uH2A/H2A that were purified from HeLa cells, as judged by Coomassie blue staining. 3. Purify recombinant H3, H4, H2A, and H2B from _E. coli_ as described \\(Luger _et al_., 1999). \n  4. PCR amplify rhe 5s DNA fragments from the XP-10 plasmid \\(provided by Dr. Jeffrey J. Hayes) and the 5&#x2019; primer used for PCR amplification was biotinylated \\(Wang _et al_., 2006). \n  5. Perform histone octamer refolding and nucleosome reconstitution as described \\(Dyer _et al_., 2004).\n  6. To purify individual H2A, uH2A, H2B, uH2B, resolve the eluate from anti-Flag IP on a SDS-PAGE and excise gel slices containing H2A, uH2A, H2B and uH2B. \n  7. After extensive washing, electro-elute proteins out from these gel slices and further passed through a hydroxyapatite column to remove the excess SDS. \n  8. Combine fractions from the hydroxyapatite column and dialyze against water at 4 &#xB0;C overnight and then lyophilize. \n  9. Use an aliquot to determine the amount of proteins as revealed by Coomassie blue staining. After dissolving in histone unfolding buffer \\(6 M guanidinium chloride, 20 mM Tris-Hcl, pH 7.5, 5 mM DTT), perform histone octamer refolding and nucleosome reconstitution as described \\(Dyer _et al_., 2004)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

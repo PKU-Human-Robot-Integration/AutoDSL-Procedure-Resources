@@ -1,0 +1,16 @@
+{
+  "id": 4549,
+  "origin_website": "Bio",
+  "title": "Separation of the Inner and Outer Mitochondrial Membrane in HeLa Cells",
+  "procedures": [
+    "Remove medium from the culture dishes (harboring 80-100% confluent cells) by aspiration, and then add 3-4 ml of PBS (-) containing 1 mM EDTA into each dish.    After 5 min, scrape the cells by using a cell scraper (or by gentle pipetting), collect the cells into a 50 ml-tube, and centrifuge at 500 x g (5 min, 4 °C). Then, remove the supernatant by aspiration.    Re-suspend the pelleted cells with 50 ml of PBS (-) by inverting the tube, and then centrifuge it at 500 x g (5 min, 4 °C), followed by removing the supernatant by aspiration.    Suspend the pelleted cells with 5 ml of MTiso-buffer by inverting the tube, and then transfer the suspension into Dounce homogenizer pre-cooled on ice.    Homogenize the cell suspension by dounce homogenization [about 50 strokes (up and down)]. If necessary, verify the disruption efficiency of the cells under microscope.    Pile up the homogenate on an equal volume of 340 mM sucrose in a 50 ml-tube, and centrifuge it at 500 x g (10 min, 4 °C) to remove nuclei and unbroken cells as pellet.    Collect the supernatant in another tube (e.g. 5 ml-tube or some pieces of 1.5 ml-tubes), and then centrifuge it at 10,000 x g (10 min, 4 °C) to isolate mitochondria as pellet.    Re-suspend the isolated mitochondria with 1 ml of digitonin buffer containing appropriate concentration of digitonin (usually 0.15-5 mg/ml, see Recipes) (digitonin extraction).    Mix the suspension intensely for 15 min by using micro tube mixer (at max speed) or vortex mixer. If necessary, add an equal volume of MTiso-buffer to stop digitonin extraction.    Centrifuge the suspension at 10,000 x g (10 min, 4 °C) to isolate the pellet containing mitoplast (IM plus matrix) and the supernatant containing solubilized OM and inter-membrane space (IMS) proteins.",
+    "To separate IM fraction and matrix fraction, re-suspend the pellet (mitoplast) in small amount of MTiso-buffer (usually 0.1-0.5 ml), gently sonicate it to disrupt mitoplast in the water-bath-type sonicator filled with ice-cold water, and then centrifuge it at 100,000 x g (30 min, 4 °C), giving IM fraction as pellet and matrix fraction as supernatant.    (Optional) If it is necessary to concentrate soluble proteins, please perform TCA-precipitation method using trichloroacetic acid."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5754,
+  "origin_website": "Bio",
+  "title": "Labelling HaloTag Fusion Proteins with HaloTag Ligand in Living Cells",
+  "procedures": [
+    "Trypsinize 70-90% confluent cells (mouse embryonic stem cells or HEK293 cells) of 100 mm plate stably expressing HaloTag-Cbx proteins (we recommend 0.6 ml of 0.05% trypsin-EDTA [1x] for 60 mm plate and 1.5 ml for 100 mm plate). Seed 20% of cells to 35 mm glass-bottom dish coated by Gelatin overnight (Note 1) (see Video 2 for gelatinization). <p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Gelatinization of glass-bottom dishes. The video describes how to gelatinize glass-bottom dishes before seeding cells.Following by overnight culture, the final confluency of the cells before was between 80-90%. Several concentrations (5 nM, 15 nM, and 30 nM) of JF549 are used to incubate with cells for 15 min at 37 °C in 5% CO2 (Notes 2 and 3) (see Video 3 for adding the JF549 dye). <p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 3. Adding JF549 dyes to cells Gently wash cells with ES medium (see Recipes) once and incubate in ES medium for 30 min at 37 °C and 5% CO2 (see Video 4 for washing cells). <p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 4. Washing cells with ES cell medium Replace ES medium with live-cell imaging medium (see Recipes) (see Video 5 for adding live-cell imaging medium).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 5. Replacing ES cell medium with live-cell imaging medium Maintain 37 °C conditions during imaging by using a heater controller. Each plate should be imaged for the maximum of 1.5 h after placing on the microscope (see Video 6 for placing dishes on objective).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 6. Placing dishes on objective The number of individual fluorescent spot per nucleus should be between 10-50 spots, controlled by adjusting the JF549 dye concentrations (Notes 4 and 5) (see Video 7 for single-molecule imaging).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 7. Single-molecule imaging. The video describes how to image individual HaloTag-Cbx proteins within living cells.Movies are then uploaded to u-track 2.0.",
+    "Each cell is cropped from the larger movie. Cropped movies are processed (Note 6)."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5408,
+  "origin_website": "Bio",
+  "title": "Liposome Flotation Assays for Phosphoinositide-protein Interaction",
+  "procedures": [
+    "Prepare the large unilamellar vesicles (LUVs)To prepare the lipids stock solutions (see Recipes). When using fluorescently labeled lipids, shield from direct light throughout the procedure.Prepare a 2x concentrated lipid mix at 1 mM concentration in a glass tube: PC:PE:fluoPE (70:28:2 mol%) to assess basal binding properties and PC:PE:fluoPE:PIP (64:28:2:6 mol%) to assess specific binding properties of the protein to each PIP.Evaporate under nitrogen.Resuspend twice with chloroform/methanol (v/v) and evaporate under nitrogen to form a nice lipid cake on the glass tube wall. No clumps should remain at this stage.Evaporate under nitrogen for a final 30 min-1 h to eliminate any traces of solvent.Resuspend in 37 °C pre-warmed PBS and leave to rehydrate for 1 h at RT.Perform 5 freeze/thaw cycles in liquid nitrogen/warm water (40 °C). For optimal results, wait for complete freezing/thawing of the samples for each step. Performing these freeze-thaw cycles will help to break the lipid cake and will ensure a good efficiency of the extruder in the following step, therefore improving the results. We found that 5 cycles was providing the best reliability of the results without being too much time-consuming.Mount the mini-extruder according to manufacturer’s instructions using the appropriate membrane size (e.g., 0.1 μm polycarbonate membrane for LUVs formation).Extrude the lipid mix through the filter, typically 19 times. Collect and transfer into a fresh glass tube.LUVs-protein mixIn a thick-wall polycarbonate tube, mix 50 µl of the 2x LUVs with 50 µl of the 2x GST-recombinant protein to have a final volume of 100 µl and a final concentration 0.5 mM LUVs and 1 mM recombinant protein. See Notes section for adaptability. Include as negative control the purified GST protein alone with the LUVs.Incubate for 1 h at RT.Add 100 μl of 60% sucrose in PBS to yield a 30% final sucrose concentration.",
+    "Mix gently to have a homogenous solution but without disrupting the interaction. See Figure 1 for a schematic representation.Overlay 250 μl of 25% sucrose and 50 μl of PBS buffer on top without disturbing the layers.Centrifuge at 174,206 x g for 1 h at 20 °C (corresponding to 70,000 rpm on a TLA100.2 rotor). In order not to disturb the layers and to get reliable results, it is important to use slower acceleration/deceleration parameters than usual, e.g., acceleration 2/deceleration 2 on an OptimaTM TLX ultracentrifuge.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170302/20170302023320_6226.jpgFigure 1. Schematic representation of the liposome binding assay. LUVs and protein mix equilibrated in 30% sucrose are layered with 25% and 0% sucrose, centrifuged to allow LUVs flotation (70 000 rpm [174,206 x g] on a TLA100.2 rotor). Fractions are collected with Hamilton’s syringe from the bottom of the tube.Collect the fractionsAs the liposomes will fluoresce owing to the fluo-PE, collect the fractions under a portable UV lamp using a Hamilton syringe, starting from the bottom of the tube (see Figure 1 for schematic representation).200 μl bottom fraction200 μl middle fraction100 μl top fraction containing the LUVs and associated proteins."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 5436,
+  "origin_website": "Bio",
+  "title": "Heparan Sulfate Identification and Characterisation: Method I. Heparan Sulfate Identification by NMR Analysis",
+  "procedures": [
+    "Sample preparation Exchangable protons in the sample are treated to a deuterium exchange regime before NMR analysis: Add D2O (1 ml) to a sample (~12 mg) of the glucosaminoglycan in an Eppendorf tube and agitate the sample to complete dissolution. The sample is freeze dried in the ‘loosely capped’ tube and this process repeated twice more. Finally the sample is made up with D2O (0.7 ml) containing 0.2 mg/ml t-BuOH as an internal reference (δ 1H 1.24 ppm) and transferred to the NMR tube for analysis.Sample concentrationThe concentration of 17 mg/ml has been found to be the minimum necessary for highly reproducible 2-dimensional NMR. The 1H NMR spectra of this class of compound is significantly affected by pH, cross-linking capable species (e.g., Ca2+) and the salt form of the sulfated moieties (Liu et al., 2009; Guerrini et al., 2008). If such contamination is suspected, the sample should be converted to the sodium salt and dialysed (3,500 MW cutoff) against water exhaustively, before freeze-drying and deuterium exchange.Data collectionSpectra were collected at 30 °C on a three-channel Bruker Avance III 500 (installed August 2007). Proton frequency was 499.843 MHz and the probe was a Bruker two channel 5-mm broadband observe nuclei probe (31P-109Ag) equipped with actively shielded 50-G/cm Z-axis Pulsed Field Gradients (PFG). Data acquisition used a spectral width of 10,302 Hz, 65,536 data points, 30-degree excitation pulse, 32 transients, each with a 2-sec delay time and an FID acquisition time of 1.59 sec. Spectra with solvent-suppression were recorded: low-power continuous-wave pre-saturation was followed by a composite-observe pulse utilizing the ‘zgcppr’ Bruker sequence (software Topspin 2.6)."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

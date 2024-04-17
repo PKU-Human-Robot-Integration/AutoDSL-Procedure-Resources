@@ -1,0 +1,16 @@
+{
+  "id": 5298,
+  "origin_website": "Bio",
+  "title": "Assessment of Wheat Resistance to <em>Fusarium graminearum</em> by Automated Image Analysis of Detached Leaves Assay",
+  "procedures": [
+    "Place wheat seeds in a 94 mm diameter Petri dish plate containing 2 filter papers and 6 ml of sterile water.Seal the plates with a piece of Parafilm and germinate in the dark for 3 days at 20 °C in an incubator.Transplant seedlings to 3 L pots containing moistened John Innes compost No 2 with maximum 6 seedlings/pot.Grow the plants in the glasshouse under controlled environment conditions at 20-22 °C with a 16 h light/8 h dark photoperiod at 300 μmol m-2 s-1 and 70% relative humidity.After approximately 20 days at the 3-leaf-stage (growth stage 13; [Zadoks et al., 1974]), cut an 8 cm section from the second leaf at a fixed distance from the leaf base (Figure 1A).Note: 8 leaf sections fit in the square Petri dish used. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161212/20161212212052_6390.jpgFigure 1. Setup of the detached leaf assay. A. Section of a wheat second leaf at the 3-leaf-stage to be used for the assay. B. Different leaf sections are placed in a square Petri dish with their cut ends held between an upper and lower agar section.Immediately after cutting, place leaf sections with the adaxial side facing upwards on the surface of a square Petri dish. Put the cut ends between a sandwich of 1 % plant agar pH 5.7 containing 0.5 mM benzimidazole (Figure 1B, Video 1). Note: Removing the agar from the center of the plate prevent excessive fungal growth at the point of leaf inoculation, additionally removed agar section that could be used to form the sandwich. Benzimidazole is used to delay the leaf senescence.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Placement of the leaf cut ends between agar sections  Puncture the center of each leaf section with the tip of a glass Pasteur pipette and treat with a 4 μl droplet of 0.",
+    "02 % (v/v) Tween-20 solution with 106 conidia/ml of F. graminearum strain GZ3639 prepared as previously described (Ali et al., 2015).Add 2 ml of water into the plate under the leaf sections to keep high humidity and seal the plates with a piece of Parafilm before to incubate at 20 °C under a 16 h light/8 h dark cycle in a growth room.Note: Try to place your plates always at the same level and position in your growth room or growth cabinet. The level of condensation inside your plates may differ and affect reproducible disease development. Analyse the leaf sections at 4 days post-inoculation (Figure 2).Note: You can follow as well the progress of infection during a time course. In that case photograph your leaf section every day and process analysis as described below (Data analysis). Repeat the experiment at least three times, each time including 6 plates per treatment, and each plate including two leaf sections per wheat genotype."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

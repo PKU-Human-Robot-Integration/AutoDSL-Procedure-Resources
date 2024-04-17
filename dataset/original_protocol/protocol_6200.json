@@ -1,0 +1,15 @@
+{
+  "id": 6555,
+  "origin_website": "Bio",
+  "title": "Endocytosis Detection in <em>Magnaporthe oryzae</em>",
+  "procedures": [
+    "Culture the wild type strain Guy11 and ∆Moark1 on solid CM medium for 4 days at 28 °C. Cut the agar culture into 1 mm x 1 mm squares and culture the squares in liquid CM for 2 more days.Prepare a stock solution of FM4-64 (1.3 mg/ml in DMSO) and dilute in distilled H2O at a final concentration of 5 μg/ml, keep this staining solution on ice.Wash the hyphae with distilled water and stain with FM4-64 on glass slide, about 20 μl working solution dropped on the hyphae and stain for 2 min at room temperature. Before observation, wash the hyphae with ddH2O.Take photographs under a confocal fluorescence microscope (63x oil, 570/620 nm excitation, 590 nm dichroic, 630/660 nm emission is used to observe the fluorescence of FM4-64) after exposure to FM4-64. A representative picture of the plasma membrane and the inner cellular membrane components after staining 2 min with FM4-64 is shown in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190730/20190730192656_7084.jpgFigure. 1 Endocytosis assay in M. oryzae. A. The wild type strain Guy11 and the ∆Moark1 were grown in liquid CM for 48 h before the addition of FM4-64 and photographs were taken under a confocal fluorescence microscope (Zeiss LSM710, 63x oil) after 2 min of exposure to FM4-64. Bars = 10 μm. B. The calculation of relative fluorescent density. Error bars represent SD and double asterisks indicate statistically significant differences (**, P < 0.01). Prepare a stock solution of Latrunculin B (Lat B) in DMSO at a concentration of 25 mg/ml and dilute in distilled H2O at a final concentration of 0.1 μg/ml. Lat B is used as an actin polymerization inhibitor to disrupt endocytosis (Kaksonen et al., 2003).For Lat B staining, pretreat the hyphae with Lat B when cultured in Step 1 for 30 min prior to the addition of FM4-64.Repeated Steps 2-5."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

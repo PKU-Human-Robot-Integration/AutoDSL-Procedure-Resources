@@ -1,0 +1,15 @@
+{
+  "id": 7622,
+  "origin_website": "Bio",
+  "title": "Time-off-pick Assay to Measure <em>Caenorhabditis elegans</em> Motility",
+  "procedures": [
+    "Notes:  Unless otherwise specified, all steps are conducted outside of a biological safety cabinet (BSC) using aseptic techniques. This protocol assumes nematodes have already been cultured and grown to the age of interest on solid nematode growth media (NGM) plates. Nematodes used for the data presented herein were cultured and maintained on E. coli  OP50 and in accordance with methods we have used previously (Walker et al., 2021) .C. elegans size will affect TOP measurements; therefore, we recommend using this assay on adult worms only. Also, the experimenter has to use proper size-matched controls when testing conditions that affect worm size. Worm preparationTo reduce error, transfer worms using platinum wire pick onto a new NGM plate seeded with bacteria of interest. Make sure there is an equal number of worms per plate as well as an equal amount of bacteria on each plate that is consistent between test and control worms.Note: Make sure to flame the worm pick between samples to avoid cross-contaminating with bacteria or worm strains. Motility assessmentNote: This step is performed using a dissection microscope and a ticking second timer. Using a pick with an eyebrow hair taped to it (Figure 2), put an NGM plate that contains worms in view. Slide the eyebrow hair under the mid-section of a worm and count the number of seconds it takes for the worm to crawl off entirely.Note: It is important to make sure that the worm is not poked in the side with the eyebrow hair; instead, the hair should delicately be placed gently underneath the worm. Additionally, ensure that the eyebrow hair is not going into the agar, is on top of the agar at all times, and remains stationary between the surface of the agar and the worm.",
+    "Do not lift the worm with the eyebrow hair. Record the number of seconds it takes the worm to crawl off. Continue with worms and samples as desired.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4436/bioprotoc-12-12-4436-g002.jpgFigure 2. Picture of the eyebrow hair-pick used in the TOP assay."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 23,
+  "origin_website": "Nature",
+  "title": "Haplotype-Fusion PCR",
+  "procedures": [
+    "1. Prepare PCR reactions \\(\"aqueous phase\") on ice in a total volume of 100&#xB5;l using 1X Phusion HF buffer, an additional 1mM MgCl<sub>2</sub> , 250 &#xB5;M dNTPs, 1&#xB5;M outside primers and 10nM fusion PCR primer, 200 ng genomic DNA and 16 units Phusion polymerase.\n  2. Put 200 &#xB5;l oil phase \\(4.5% v/v Span 80, 0.4% v/v Tween 80 and 0.05% Triton X-100 dissolved in light mineral oil) in a 2 ml Cryo-Vial and stirring at 1000 rpm with a magnetic bar \\(8 x 3mm with a pivot ring).\n  3. Add 1 drop of aqueous phase to oil phase every 5 seconds and continue stirring for 5 minutes after addition of the first drop. \n  4. Transfer 125 &#xB5;l of emulsion to a clean 200 &#xB5;l, thin wall PCR tube and overlay with 1 drop of mineral oil. Run standard Phusion polymerase PCR cycle.\n  5. Transfer completed PCR reactions to a 1.5 ml tube and add 400 &#xB5;l hexane. Vortex thoroughly and centrifuge at full speed for 3 minutes. Remove and discard hexane layer \\(upper layer). Repeat with 400 &#xB5;l fresh hexane. \n  \nPAUSE POINT: reactions can be stored at -20 <sup>o</sup>C for several days.\n6. Dilute PCR products 100x with water and reamplify in solution omitting the fusion primer.    \n  7. Separate PCR products using gel electrophoresis."
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

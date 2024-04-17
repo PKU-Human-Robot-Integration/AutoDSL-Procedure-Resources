@@ -1,0 +1,17 @@
+{
+  "id": 638,
+  "origin_website": "Nature",
+  "title": "Label-free Mass-Spectrometry \\(MS) for Cancer control Protocol",
+  "procedures": [
+    "- Prepare the NAPPA/SNAP samples. Construction of SNAP Genes Nanoarrays can be performed using gold surface coated for 10 minutes with 2% solution of 3- Aminopropyltriethoxysilane – APTES – \\(Pierce, Rockford, IL, USA) in acetone, rinsed in acetone and dried with filtered air. Full length complementary DNAs \\(cDNAs) can be purchased from DNASU Central Plasmid Repository located in the Biodesign Institute, Arizona State University \\(ASU), USA \\(https://dnasu.org/DNASU/Home.do) or from Open Biosystem, Thermo Scientific. cDNAs were amplified and cloned into NdeI and XhoI sites in pCOATexp SNAPf vector, a derivative of pCOATexp and pSNAPf \\(further details can be found at https://www.neb.com/products/n9183-psnapf-vector#tabselect0). Printing mix was prepared with 0.66 µg/µl DNA \\[bovine serum albumin, BSA, bound], capture reagent: BG-PEG-NH2 \\(an amine-terminated building block for the one-step synthesis of SNAP-tag substrates from NHS esters or other activated carboxyl esters on labels or surfaces, https://www.neb.com/products/s9150-bg-peg-nh2), ranging from 80 to 800 ng/μl \\[sBS3 bound],\n- digest with trypsin the synthesized protein\\(s) on the NAPPA/SNAP slides for MS analysis,\n- at the end of the digestion, let the solvent evaporate at room temperature,\n- store the slides at 4°C for subsequent MALDI-TOF MS analysis,\n- perform the MALDI-TOF measures in reflectron mode; the resulting mass accuracy for protein should be < 50 ppm,\n- acquire the MALDI TOF mass spectra with a pulsed nitrogen laser \\(337 nm) in positive ion mode, - for each sample acquire at least 8 spectra and average them,\n- process the acquired averaged MS spectra with SpaDs software:\n1. SpADS has to be feeded with data in the ASCII format\n  2. After the invocation of SpADS, build a new dataset by providing label and path to every single spectrum, along with a binning window. A typical value is of 1000,",
+    "3. Provide the set of non-mandatory parameters, like a threshold, a region of interest \\(ROI) and a filepath containing the noise spectrum. This latter has to be in ASCII format, too,\n  4. Once the dataset is created, SpADS will start automatically the K-means clustering. Conversion of data into percentage can save time. Select the most appropriate solution provided by SpADS.\n  Figure 3 shows the cluster assignement of an ensemble of 56 proteins by using a binning window of 1000, a threshold of the 10%, a ROI of 1000/1200 and Z-scored data. For further details please refer to \\(6)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

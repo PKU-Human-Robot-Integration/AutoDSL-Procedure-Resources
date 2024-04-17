@@ -1,0 +1,14 @@
+{
+  "id": 1493,
+  "origin_website": "Nature",
+  "title": "<p>FITC-Dextran Trans-Epithelial Permeability Assay</p>",
+  "procedures": [
+    "<p><strong><u>Preparation of FITC-Dextran Solution</u></strong></p><p>Resuspend FITC-Dextran in phenol-red free MEM warmed to 37 <sup>o</sup>C to a concentration of 1 mg/mL in a sterile environment.&nbsp;Protect solution from light.</p><p><br></p><p><strong><u>Assay Procedure</u></strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Prepare triplicate 12-well collagen coated inserts for monolayer-free positive control within multi-well plate set-up.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Expose test samples with compound of interest.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Transfer and blot Transwell<sup>Ò</sup> inserts containing exposed cells to new multi-well plate and add 800 μL phenol red-free MEM to basolateral compartment.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;Aspirate apical compartment media and replace with 250 μL FITC-Dextran suspension.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;Protect from light at room temperature for 20 minutes.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;End FITC-Dextran reaction by transferring Transwell<sup>Ò</sup> inserts with FITC-Dextran suspension to new multi-well plate.</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;Collect FITC-Dextran suspension basolateral media in 1.5 mL Eppendorf tubes and vortex.</p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;Transfer 100 μL aliquots from each Eppendorf tube containing FITC-Dextran basolateral media to Corning™&nbsp;96-Well Clear Bottom Black Polystyrene Microplates in triplicate.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;Transfer 100 μL of phenol-red free MEM to an additional three wells to serve as the blank control.</p><p>10.&nbsp;Measure fluorescence intensity on the Polarstar Plate Reader using 490/520 nm excitation/emission maxima.</p><p><strong><em>a.&nbsp;&nbsp;&nbsp;&nbsp;</em>Note: </strong>Before measuring fluorescence, use the Polarstar’s “Adjust Gain” setting to adjust all your samples to the well with the highest fluorescence. </p><p>11.&nbsp;Export data to Excel for analysis.</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7349,
+  "origin_website": "Bio",
+  "title": "Quantitative Analysis of RNA Editing at Specific Sites in Plant Mitochondria or Chloroplasts Using DNA Sequencing",
+  "procedures": [
+    "Primer design and template generationTo detect the RNA editing at a specific or several RNA editing sites in mitochondria or chloroplast transcripts, the forward and reverse primers could be designed according to sequences ~100 bp upstream and downstream of the editing sites using Primer 5 or other primer designing software (Note 1), with a recommended primer length of ~20 nt and melting temperature of ~60°C.Total RNAs from plant tissues are isolated with the TRIzolTM Reagent according to the manufacturer’s instructions and the protocols (MacRae, 2007) (Note 2).About 800 ng total RNAs were reverse-transcribed into cDNA using a PrimeScript RT Reagent Kit with gDNA Eraser (Perfect Real Time) (TaKaRa) according to the manufacturer’s instructions with the final volume up to 20 μl (Note 3).PCR amplification and DNA sequencing of the targeted editing sitesPerform PCR amplification of the fragments that span the targeted RNA editing sites using high-fidelity DNA polymerase.Set up the PCR, adding the following components into a 0.2 ml PCR tube with the final volume up to 30 μl:ddH2O                                                    18.4 μl5× FastPfu Buffer                                       6 μl2.5 mM dNTPs                                          2.4 μlForward primer (10 μM)                         0.8 μlReverse primer (10 μM)                          0.8 μlFastPfu DNA Polymerase (2.5 U/μl)      0.6 μlTemplate                                                     1 μlRun PCR reactions:1 cycle         95°C, 2 min34 cycles     95°C, 20 s; 55°C, 20 s; 72°C, 20 s1 cycle         72°C, 2 minPerform gel electrophoresis (2% agarose) with half of the PCR products to confirm whether the amplification is specific and correct in size.Perform DNA sequencing with the other half of the PCR products using the amplification primers by a DNA sequencing service provider (Note 4).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4154/bioprotoc-11-18-4154-g001.jpgFigure 1. Workflow of the RNA editing analysis of specific sites in mitochondria and chloroplasts"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

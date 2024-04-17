@@ -1,0 +1,18 @@
+{
+  "id": 182,
+  "origin_website": "Nature",
+  "title": "Virus Cryopreservation Protocol",
+  "procedures": [
+    "**Virus Preparation**\nFollow the laboratory protocol for viral growth and/or purification.  \n_Refer to CDC \\(Centers for Disease Control and Prevention) guidelines for utilization of pathogens in specific BSL \\(Biosafety Level)._  Pathogens are infectious agents and should always be manipulated under a biosafety cabinet with laminar flow.\n**Virus Freezing**\nNon-enveloped viruses, some DNA viruses and virus-like particles can be maintained stably at 4°C for a relatively long period of time.  However, RNA and most enveloped viruses are extremely heat labile and need to be snap-frozen \\(rapid freezing) and stored at -80°C for long-term storage. Please note that most viruses will suffer damage if storage temperatures exceed greater than -60°C.\n1.  As a general rule, maintain the viral preparation at 4°C by placing it in a reagent reservoir and place the reservoir on a thermo-conductive CoolSink BX50 module for uniform and stable cooling. Ideally ice should not be used in the hood because of the risk of contamination through mold growth. CoolSink BX50 fits into the CoolBox MP, and with the included pre-chilled cartridges, no ice is needed. Alternatively, at a minimum rest the CoolSink on a thermo-conductive ThermalTray LP platform in ice pan to further minimize contact with ice or ice water. \n  \n2. Dispense 1 ml of the virus preparation* \\(or desired amount) in a pre-labeled TruCool cryovial.  To avoid titer reduction, maintain the vials at 4oC in a CoolBox CFT30 ice-free cooling station. The CoolRack CFT30 cryo vial module standardizes vial temperature and reduces contamination and spill accidents by allowing one-handed opening and closing of the cryo vials while seated in the CoolRack CFT30.",
+    "* Most virus preparations consist of virus supernatants from infected cells cleared of cell debris and therefore contain enough serum to act as cryopreservants. However, some viruses need and extra cryopreservant agent such as a 50% sucrose.  Please refer to your laboratory SOP or the literature to assess whether you need to add a special media or cryopreservant to the viral supernatant or preparation.\n  \n3. While virus samples are kept cold at 4°C in the CoolBox CFT30, place a second CoolRack CFT30 module on dry-ice and let it equilibrate to -78°C for approximately five to ten minutes. Note: with this protocol, there is no need to make a dry-ice/ethanol slurry. Place the cryo vials directly in the wells of the pre-equilibrated CoolRack CFT30 to snap-freeze the samples.  This will take approximately three to five minutes.\n  \n4. Transfer the frozen samples to a storage box and place it in the -80°C freezer for long-term storage.  \n  \n**Virus Thawing**\n1. Transfer the cryo vials from the -80°C freezer into a pre-equilibrated CoolBox CFT30 containing a green freezing cartridge inside it.  This will keep the vial frozen and allow transport of the vials in a safe manner.\n  \n2. Place the vials directly in a 37°C water bath, and slowly manually agitate the vials to enable the thawing process. Right before the whole liquid is completely thawed remove the vial from the 37°C water bath and place it on a CoolRack CFT30 which has been previously equilibrated on ice. Samples are now ready for desired experimental procedures or titer assessment \\(TCID50, plaque assay, etc.)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

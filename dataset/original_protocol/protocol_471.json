@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "origin_website": "Nature",
+  "title": "Immunofluorescence of Cultured Cells",
+  "procedures": [
+    "1. Wash cells with PBS.\n  2. Fix in 4% PFA for 15 min at room temperature \\(RT).\n  3. Wash cells with PBS \\(2 x 5 min).  Cells can be stored in PBS at 4C for up to a week.\n  4. Permeabilize with PBS + 0.1% TritonX-100 for 5 min at RT.\n  5. Wash with PBS \\(2 x 5 min) at RT.\n  6. Block with 10% serum \\(from species of secondary) for 1 hr at RT.\n  7. Drain and incubate with primary antibody diluted in 5% serum overnight at 4C.\n  8. Wash in PBS \\(3 x 5 min) at RT. \n  9. Detect primary antibody with Alexa Fluor secondary antibody diluted 1:400 in 5% serum at RT for 1 hr in the dark.\n  10. Wash in PBS \\(3 x 5 min) at RT.\n  11. Add mounting media with DAPI and apply coverslip.   \n  12. Store slides in the dark at 4C."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

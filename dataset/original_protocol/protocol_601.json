@@ -1,0 +1,17 @@
+{
+  "id": 637,
+  "origin_website": "Nature",
+  "title": "Quartz Crystal Micro-balance with Dissipation factor monitoring \\(QCM_D) for Cancer control Protocol",
+  "procedures": [
+    "- Wash crystal quartzes three times with ethanol,\n- dry them with Argon,\n- incubate them over night at 4°C with 2 mM cysteamine,\n- wash quartzes again three times with ethanol to remove any unbound cysteamine,\n- dry quartzes with Argon\n- transform plasmids DNA coding for GST tagged proteins into Escherichia coli,\n- purify DNA using the NucleoPrepII anion exchange resin \\(Macherey Nagel),\n- prepare NAPPA printing mix with 1.4 μg/ul DNA, 3.75 μg/ul BSA \\(Sigma-Aldrich), 5 mM BS3 \\(Pierce, Rockford, IL, USA) and 66.5 μg polyclonal capture GST antibody \\(GE Healthcares),\n- prepare negative controls, named master mix \\(hereinafter abbreviated as “MM”), replacing DNA for water in the printing mix,\n- incubate samples at room temperature for 1 hour with agitation,\n- print them on the cysteamine-coated gold quartz using the Qarray II from Genetix,\n- perform in vitro transcription and translation \\(IVTT) using HeLa lysate mix \\(1-Step Human Coupled IVTT Kit, Thermo Fisher Scientific Inc.), according to the manufacturers’ instructions,\n- incubate the quartz, connected to the nanogravimeter inside the incubator, for 10 min at 30°C with 40 μl of HeLa lysate mix for proteins synthesis,\n- acquire the conductance curve \\(“IVTT addition curve”, prior protein expression),\n- decrease the temperature to 15°C for a period of 5-10 min to facilitate the proteins binding on the capture antibody \\(anti-GST),\n- acquire the conductance curve \\(“IVTT addition at 10 min”, after protein expression),\n- after the protein expression and capture, remove the quartzes from the instrument and wash at room temperature, in 500 mM NaCl PBS for 3 times,\n- after protein expression, capture, wash the quartzes in PBS at increasing concentrations at 22°C,\n- acquire the conductance curve \\(“Post-wash curve”, after the final washing process with PBS)."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

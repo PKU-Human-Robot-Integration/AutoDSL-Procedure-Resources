@@ -1,0 +1,16 @@
+{
+  "id": 4386,
+  "origin_website": "Bio",
+  "title": "Novel Method for Site-specific Induction of Oxidative DNA Damage to Study Recruitment of Repair Proteins to Heterochromatin and Euchromatin",
+  "procedures": [
+    "Seed U2OS-SCE cells into 35 mm glass bottom culture dishes at an approximate density of 5 x 105 per dish in DMEM with 10% FBS at 37 °C incubator with 5% CO2 for overnight.   For GFP-fusion protein, co-transfect 1 µg GFP-Fusion protein with any 1 µg of pBROAD3/tetR-KR, pBROAD3/tetR-mCherry, pBROAD3/TA-KR and pBROAD3/TA-mCherry using Lipofectamine 2000. For endogenous protein, just transfect anyone of pBROAD3/tetR-KR, pBROAD3/tetR-mCherry, pBROAD3/TA-KR and pBROAD3/TA-mCherry. Follow the transfection protocol of Lipofectamine 2000.   Then incubate in the 5% CO2 incubator at 37 °C for 24 h to 48 h.   KR activation (There are two ways for KR activation.)   Local activation of one KR spot Local activation of one KR spot was performed with a 559 nm laser (1 mW/scan) of Olympus FV1000 confocal microscopy system in a selected area. One scan takes less than 1 sec. The final power (160 mJ) delivered to the KR (around 1 µm2) spot is around 6 mJ/µm2.   Activation of KR in bulk cells Activation of KR in bulk cells was done by exposing cells to a 15 watt SYLVANIA cool white fluorescent bulb for 10 min in a stage UVP.     The response of either GFP-tagged protein or endogenous protein of authors at the sites of tetR or TA-KR can be monitored in living cell.    The response of endogenous protein at the sites of tetR or TA-KR can be monitored by immunostaining with the antibody."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

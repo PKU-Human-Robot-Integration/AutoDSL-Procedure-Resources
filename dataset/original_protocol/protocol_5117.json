@@ -1,0 +1,16 @@
+{
+  "id": 5440,
+  "origin_website": "Bio",
+  "title": "Soft–Agar colony Formation Assay",
+  "procedures": [
+    "Cells that have been knocked down or been treated with other procedures like drugs or some interferences are harvested and pipetted well to become single-cell suspension in complete culture media in a given concentration (such as 1 x 106/ml).    They are then put at room temperature and should be ready to use. At the same time, pre-warm 10% FBS DMEM at 37 °C, ready to use.   Melt 4% agar (in glass bottle) by microwave and keep warm in 56 °C water bath, ready to use (remember don’t melt the gel too many times, you will lose water and concentrate the gel).   Make bottom layer. Make 5 ml of 10% FBS DMEM containing 0.75% agar (the volume of 4% agar was calculated by: 5 ml multiply 0.75%=X multiply 4%). Therefore, you need to quickly take about 0.9 ml 4% agar from the bottle in water bath and mix it with 4.1 ml pre-warmed of 10% FBS DMEM well and put the mixture into 60-mm culture dish in the flow hood. Wait a few minutes for it to become solid.   Make the top layer. It contains 3 x 104 cells in 3 ml of 10% FBS DMEM and 0.36% agar. Dilute the single-cell suspension to 3 x 104 (or 1.5 x 104) in 3ml of 10% FBS DMEM (1 x 104/ml). You need to mix 2.73 ml pre-warmed 10% FBS DMEM cell suspension with 270 μl of 4% pre-warmed agar (56 °C). You have to do this fast and no bubble. To avoid this problem, you can make 6 ml (double) of this mixture and put 3 ml on the top of bottom layer. The best way to do this is to use 1 ml pipette tip to add from one side. The mixture will flow through the whole bottom layer.",
+    "Do not shake the dish. It will become solid within seconds.   Now the dish contains 2 layers. Mark the dish and put it at 37 °C incubator for 3 weeks. Then the colonies were stained with 0.04% crystal violet-2% ethanol in PBS. Photographs of the stained colonies should be taken. Note: 4% Agar should be prepared in DD water then autoclave it.    If the colony number is too high to count, you can decrease cells to a total of 1.5 x 104. This would be easy to count.   Before you mix agarose gel with medium and cells. You should get pipette, tips ready to use, and perform it as fast as possible."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

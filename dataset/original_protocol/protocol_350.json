@@ -1,0 +1,19 @@
+{
+  "id": 373,
+  "origin_website": "Nature",
+  "title": "A highly-sensitive graphene-based immunoassay procedure for the detection of human lipocalin-2",
+  "procedures": [
+    "**Surface activation and GNPs-functionalization   \\(TIMING 1 h 5 min)**\n1. Put 100 μL of 1% \\(w/v) KOH into the wells of 96-well MTP followed by incubation for 5 min at 37°C and subsequent washing with 300 μL of UPW five times. Washing can also be performed with an automatic plate washer.  **CRITICAL STEP** KOH treatment is optimal at 5 min but it should not be longer than 10 min, which can cause surface aberrations that impact the bioanalytical performance of developed immunoassay. **?TROUBLESHOOTING**\n  2. Incubate the KOH-treated MTP with 100 μL of GNPs \\(1 mg mL<sup>-1</sup>) in 0.25% \\(v/v) APTES for 1 h at RT inside the fume cabinet. Wash the GNPs-functionalized wells extensively with UPW \\(as described in step 1).  **CRITICAL STEP** One mg of GNPs should be mixed with 1 mL of 0.25% APTES and dispersed by keeping in an ultrasonic bath for 1 h before use. **?TROUBLESHOOTING**\n  \n**Antibody immobilization and BSA blocking   \\(TIMING 1 h 30 min)**\n3. Incubate 990 μL of anti-LCN2 capture antibody \\(2 µg mL<sup>-1</sup>) with 10 μL of EDC \\(4 mg mL<sup>-1</sup>) for 15 min at 37°C.  **CRITICAL STEP** The optimized concentration of EDC is critical for the crosslinking of antibodies.**?TROUBLESHOOTING**\n  4. Put 100 µL of EDC-activated anti-LCN2 antibody to the GNPs-functionalized wells followed by incubation for 1 h at 37°C and subsequent washing with 400 µL of PBST five times. **?TROUBLESHOOTING** \n  5. Block the antibody-bound wells with 400 µL of 1% \\(w/v) BSA for 30 min at 37°C followed by extensive PBST washing \\(as mentioned in step 4).  **CRITICAL STEP** Use diagnostic grade BSA that does not interfere with the immunoassay components. Also filter the prepared BSA in order to remove any contaminanting substances. **?TROUBLESHOOTING**\n  \n**LCN2 sandwich ELISA  \\(TIMING 2 h 40 min)**",
+    "6. Add 100 µL of varying LCN2 concentrations \\(0.6-5120 pg mL<sup>-1</sup>) to different BSA-blocked wells. Incubate for 1 h at 37°C and wash extensively with PBST \\(as stated in step 4). \n  7. Add 100 µL of biotinylated anti-LCN2 antibody in each of the LCN2-captured wells. Incubate for 1 h at 37°C and wash extensively with PBS \\(as mentioned in step 4). **?TROUBLESHOOTING**\n  8. Add 100 µL of SA-HRP conjugate to the biotinylated anti-LCN2 antibody treated wells. Incubate for 20 min at 37°C and wash extensively with PBST \\(as mentioned in step 4). **?TROUBLESHOOTING** \n  9. Add 100 µL of TMB-H<sub>2</sub>O<sub>2</sub> mixture to the wells of MTP and incubate at RT for 20 min to develop color. \n  10. Stop the enzyme-substrate reaction by adding 50 µL of 2 N H<sub>2</sub>SO<sub>4</sub> to each well.\n  11. Measure the absorbance at a primary wavelength of 450 nm and secondary wavelength of 540 nm in the Tecan MTP reader.  **CRITICAL STEP** Determine the absorbance after 5 min of stopping the enzyme substrate reaction so that the reaction is effectively stopped. But the reading should be taken before 10 min."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Biochemistry",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

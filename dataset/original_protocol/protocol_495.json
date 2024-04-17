@@ -1,0 +1,17 @@
+{
+  "id": 529,
+  "origin_website": "Nature",
+  "title": "Fabrication of Capillary Columns with Integrated Frits for Mass Spectrometry",
+  "procedures": [
+    "Column fritting:\n1. Pre-heat the block to 95 °C.\n  2. In a clean Axygen tube mix 170 μl K silicate with 30 μl formamide.\n  3. Vortex and incubate for 5 minutes at room temperature.\n  4. Use cutting tool to cut a piece of silica capillary corresponding to the desired column bed length + 20 cm.\n  5. Keeping the capillary almost horizontal, dip the stripped end into the silicate solution until the liquid fills in the capillary \\(15-30 seconds).\n  6. Position the liquid-filled end of the capillary under the heating block and incubate for 8 hours at 95 °C to polymerize silicate. \n  7. Mount the capillary on the liquid chromatograph so that the solvent flows from the open end towards the fritted end of the capillary. Flush the capillary with 20 column volumes of 50% acetonitrile and 0.1% formic acid in water. \n  8. Visually check for polymerization \\(frit) at the edge and cut the frit to approximately 1 mm \\(Figure 1).\n  9. The fritted capillary end is polished using the glass polishing station \n  \nColumn packing:\nPreparation: Transfer 5-10 mm3 of bulk material in a clean 2 ml glass vial and resuspend in 1 ml methanol. Wash the material by letting it settle by gravity, removing solvent, and resuspending the material in 1 ml of clean methanol. Wash total 3 times.\n1. In a clean glass vial, dilute 1:10 the bead suspension in carrier \\(acetonitrile, acetone or methanol). We use acetone for columns with high backpressure given its relatively low viscosity. Add a magnetic stir bar and transfer into the pressure bomb. Make sure that the stirring is sufficient to maintain the particles in suspension.",
+    "2. Mount the fritted capillary. Slide the capillary to reach the bottom of the glass vial and then pull it back up 7-8 mm. Tighten fittings and bomb mount.\n  3. Pressurize at 500 psi. Check for flow. Progressively increase the pressure to 1000 psi.\n  4. Fill the desired column bed length + 5 cm.\n  5. Mount the column on the LC and flow at 80% organic solvent \\(using the appropriate flow rate) until the pressure trace is stable."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Materials Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

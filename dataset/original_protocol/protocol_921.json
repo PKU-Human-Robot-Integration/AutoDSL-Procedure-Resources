@@ -1,0 +1,17 @@
+{
+  "id": 980,
+  "origin_website": "Nature",
+  "title": "Haematopoietic progenitor and lymphoid differentiation from human pluripotent stem cells",
+  "procedures": [
+    "INCLUDED PROTOCOLS: \n1) Differentiation of haematopoietic progenitors from human embryoid bodies \\(hEBs)\n2) Lentiviral Infection of Human Embryoid Body-Derived Haematopoietic Progenitor Cells \\(hEB-HPCs)\n3) Culturing Human Embryoid Body-Derived Haematopoietic Progenitor Cells \\(5F cells)\n4) Differentiation of Human T cells on OP9-DL1 Stroma\n5) Differentiation of Human B Cells on MS-5 Stroma\nLink to the Protocol: \"Step-by-step guide\":http://www.nature.com/protocolexchange/system/uploads/6281/original/Protocol_Exchange_-_Vo.docx?1513885899"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

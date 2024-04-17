@@ -1,0 +1,16 @@
+{
+  "id": 4820,
+  "origin_website": "Bio",
+  "title": "Detection of the Cell Proliferation Zone in Leaves by Using EdU",
+  "procedures": [
+    "For the experiment, select healthy plants and use seedlings, dissected leaves or leaf primordia, depending on the aim of the experiment. If you need to use older (mature) leaves, cut the leaves using a razor to obtain small-sized leaf discs (Figure 1A).Incubate the tissues in PCR tubes filled with 100-200 µl 10 µM EdU solution for 2 to 3 h [Figure 1B; normally 2 h. Kotogány et al. (2010) showed that labeling with 10 µM EdU for 2 h is sufficient for slowly growing cultured cells]. Avoid soaking the tissues or seedlings thoroughly in the solution to ensure that DNA replication and cell division proceed with less stresses, if your plant material is not aquatic plant (Figure 1B).After incubation, transfer the tissues gently to 1.5 ml tubes filled with iced 1 ml 90% acetone by tweezers and incubate on ice for 10 min.Transfer the tissues gently to other 1.5 ml tubes by tweezers, and wash the tissues 3 times with 1 ml 1x PBS by using a pipette.Remove the supernatant and fix the tissues with FAA for 2 to 3 h (the time for fixation depends on the plant materials or tissues). Decompression treatment using a pressure reducing pump for 15 min from the beginning or brief centrifugation are effective for the fixation.Transfer the tissues gently to other 1.5 ml tubes by tweezers, and wash the tissues twice with 1 ml 0.5% Triton X-100 in 1x PBS by shaking (100-150 rpm) for 5 min.After washing, prepare the reaction cocktail. (Do not prepare the cocktail before washing in order to avoid reducing the activity of the cocktail.)Remove the supernatant and add the reaction cocktail to the tubes (generally, 50-100 µl/tube) and mix well by using a pipette.",
+    "Incubate the reaction cocktail for 30 min without any agitation and protect from light by wrapping the tubes with aluminum foil. To enhance the detection sensitivity, repeat step 8 with a fresh 50-100 µl/tube reaction cocktail.After incubation, transfer the tissues gently to other 1.5 ml tubes by tweezers and wash the tissues 3 times with 1 ml 1x PBS by shaking (100-150 rpm) for 20 min; protect from light by wrapping the tubes with aluminum foil.EdU signals can be observed using a fluorescence microscope (Figure 1C; for the detection of EdU with Alexa Fluor® 488 azide, use 458-488-nm excitation with a green emission filter). EdU signals can be observed a few weeks or even months after the detection reaction if the tissues are stored in 1x PBS in dark, at 4 °C.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150916/20150916214424_6849.jpgFigure 1. Plant material soaking in 10 µM EdU solution and visualization of nuclei in S-phase cells in the leaves of Rorippa aquatica (Brassicaceae). A. A leaf and leaf discs. B. A shoot apex subtending leaf primordia soaking in 10 µM EdU solution. C. Result of DNA labeling with EdU in leaves. This figure was taken under 20x objective. Bars = 1 cm in (A) and (B) and 100 µm in (C)"
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

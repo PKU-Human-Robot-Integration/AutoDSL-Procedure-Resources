@@ -1,0 +1,14 @@
+{
+  "id": 5599,
+  "origin_website": "Bio",
+  "title": "Thermostability Measurement of an α-Glucosidase Using a Classical  Activity-based Assay and a Novel Thermofluor Method",
+  "procedures": [
+    "A multiwell plate 96 of the LightCycler® 480 is cooled on crushed ice or in the freezer before the experiment.The LightCycler® 480 should be warmed up before starting the analysis.The following ingredients are added one by one, final volume of the mixture is 20 μl per sample:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170615/20170615023632_9252.jpgNotes: *All stock solutions are dissolved in MQ water.All components should be mixed as fast as possible to minimize evaporation. The Multiwell plate should be kept on crushed ice and protected from the light. Control samples contain MQ water instead of sucrose.The 96-well plate is covered with a LightCycler® 480 Multiwell Plate 96 (white) sealing foils and sealed tightly with a spatula by pressing the spatula to each well.The sealed plate is centrifuged for 30 sec at 10 °C (a refrigerated centrifuge 4K-15) at 200 x g.Note: The rotor of the centrifuge must be balanced with a similar plate for example with one from a previous experiment. Mild centrifugation removes the bubbles and ensures that all liquid is remaining at the bottom of the well.The program to be used for the thermostability assay is: LightCycler® 480 SW 1.5.We use wavelengths of 465 nm for excitation and 580 nm for emission as in Layton and Hellinga (2010).Program: Melting curves; temperature is raised from 25 °C to 95 °C; 30 fluorescence measurements are taken per 1 degree of temperature increase.The experiment takes about 45 min.Data are collected by exporting the .txt file. Further analysis of the raw data is described in ‘Data analysis’."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

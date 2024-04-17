@@ -1,0 +1,17 @@
+{
+  "id": 2384,
+  "origin_website": "Cell",
+  "title": "Protocol to image and analyze the morphology of mouse peripheral nerves using transmission electron microscopy",
+  "procedures": [
+    "Step-by-step method details\nExpected outcomes\nThis protocol will support obtaining good quality samples of mouse peripheral nerves for TEM. These samples will provide stunning electron microscope images. These images enable an objective and definitive pathological evaluation of peripheral nerve diseases. At low magnification, the presence or absence of demyelination, axonal de-/re-generation as well as the number, density, and morphology of myelinated fibers can be evaluated. At high magnification, the number, density, and morphology of unmyelinated fibers and the presence or absence of de-/re-generation of these fibers can be evaluated. Additionally, it is useful to evaluate the distribution of axons by size to understand the pathological condition."
+  ],
+  "subjectAreas": [
+    "Metabolism",
+    "Microscopy",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

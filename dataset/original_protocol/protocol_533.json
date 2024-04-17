@@ -1,0 +1,14 @@
+{
+  "id": 568,
+  "origin_website": "Nature",
+  "title": "Counting marine microbes with Guava Easy-Cyte 96 well plate reading flow cytometer",
+  "procedures": [
+    "1. Prepare SYBR-Grn I stain by completely thawing an aliquot of stock and diluting 1:20 with clean TE buffer.\n  2. Transfer 198 microliters of cells from culturing containers into a manufacturer-approved 96-well microtiter plate in a sterile hood.\n  3. Pipette 2 microliters of 1:20 SYBR-Grn I diluted stock into each well of the microtiter plate.\n  4. Cover the microtiter plate and let stain for 60 min. in the dark.\n  5. Make a worklist for acquiring data on the Guava, as described by the manufacturer.\n  6. Start the worklist and load the microtiter plate into the Guava, taking care that the plate is properly located in the tray.\n  7. Adjust settings on the green channel to 716 volts with a threshold of 8-10 and gating from just over 10 to just over 100.\n  8. Acquire data, consult log, and review the results.\n  9. Regate or dilute and recount any wells that were too concentrated, improperly stained, or dirty.\n  10. Transfer csv file from run to jump drive and copy to PC."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

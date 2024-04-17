@@ -1,0 +1,17 @@
+{
+  "id": 1204,
+  "origin_website": "Nature",
+  "title": "<p>Small-Scale Determination of Total Phenols, Tannins, and Flavonoids from Foliar Tissue Using Colorimetric Assays</p>",
+  "procedures": [
+    "<p><strong>Sample Preparation</strong></p><p>1.- Homogenize 50 mg of dry foliar tissue using an ice-cold mortar and pestle, and 2 mL of cold methanol (95%).</p><p>2.- Place the sample in a 2 mL microtube and vortex&nbsp;for 10 seconds.</p><p>3.- Incubate at room temperature for 48 h in the dark.</p><p>4.- Vortex the sample for 10 seconds and centrifuge it at 5000 rpm for 4 minutes.</p><p>&nbsp;</p><p><strong>Total Phenols Analysis </strong></p><p>5.- Transfer 40 mL of supernatant to a new microtube and add 960 μL of methanol (95%).</p><p>6.- Vortex for 10 seconds and transfer 100 mL to a new microtube for Folin-Ciocalteu analysis.</p><p>&nbsp;</p><p><strong>Folin-Ciocalteu Colorimetric Assay</strong></p><p>7.- Add 200 μL of F-C 10% and vortex for 10 seconds.</p><p>8.- Cover and incubate the sample for 30 minutes at ambient temperature.</p><p>9.- Add 800 μL of Na<sub>2</sub>CO<sub>3</sub> (700 mM).</p><p>10.- Cover and incubate for 2 hours at ambient temperature.</p><p>11.- Centrifuge the sample at 5000 rpm for 4 minutes.</p><p>12.- Transfer 300 μL to a well in a microplate and read absorbance at 735nm.</p><p>&nbsp;</p><p><strong>Total Tannins Analysis</strong></p><p>13.- Transfer the 900 μL of supernatant from step 5 to a new microtube containing 20 mg of PVP.</p><p>14.- Vortex for 10 seconds and incubate in freezer (-4°C) for 30 minutes.</p><p>15.- Prepare a blank microtube with 1 mL of methanol (95%) and 20 mg of PVP.</p><p>16.- Centrifuge at 5000 rpm for 10 minutes. Keep cold.</p><p>17.- Transfer 100 μL to a new microtube and proceed with the Folin-Ciocalteu analysis (step 7).</p><p>&nbsp;</p><p><strong>Total Flavonoids Analysis</strong></p><p>18.- Transfer 20 μL of supernatant (step 4) to a new microtube and add 80 μL of dd H<sub>2</sub>O.</p><p>19.- Add 30 μL of NaNO<sub>2</sub> (5%) and wait for 5 minutes.</p><p>20.- Add 30 μL of AlCl<sub>3 </sub>(10%) and wait for 1 minute.</p><p>21.- Add 200 μL of NaOH (1M).</p><p>22.- Add 640 μL of dd H<sub>2</sub>O.</p><p>23.- Vortex for 10 seconds and transfer 300 μL to read absorbance at 510 nm.</p><p><br></p><p><strong>Total Concentrations Calculations</strong></p><p>24.",
+    "- Calculate a standard curve from the blank-corrected at 765 nm of the gallic acid standards (Fig. 1). Calculate total phenols and total tannins concentrations as gallic acid equivalents using the regression equation of gallic acid standards.</p><p>&nbsp;</p><p>25.- Calculate a standard curve from the blank-corrected at 510 nm of the (+)-catechin standards (Fig. 2). Calculate total flavonoids concentrations as catechin equivalents using the regression equation of catechin standards.</p>"
+  ],
+  "subjectAreas": [
+    "Plant Sciences",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 442,
+  "origin_website": "Nature",
+  "title": "Long-term calcium imaging of ASJ sensory neuron controlling cold tolerance in Caenorhabditis elegans",
+  "procedures": [
+    "Long-term calcium imaging of ASJ sensory neurons \\(Fig. 1).\nWell-fed animals expressing yellow cameleon 3.60 driven by the trx-1 promoter, trx-1p::yc3.60 \\(pTOM13), are used for calcium imaging. trx-1 promoter can drive the gene expression in ASJ sensory neurons. \nWe used 100 ms/s pulsed-light for the excitation of cameleon \\(440 nm wavelength). \n1. Immobilize animal cultivated at 15°C by 0.1 μm diameter polystyrene microspheres \\(Polysciences 00876-15; 2.5–5% w/v suspension) on 10% \\(w/v) agar pads on glass, then mount the coverslip10. Fill the edge of the coverslip with oil to keep from drying out11. \n  \n2. Before this step, set the temperature of thermocontroller at 17°C. Place the sample slide onto a Peltier-based thermocontroller \\(Tokai Hit, Japan) on the stage of an Olympus IX81. \n  \n3. Acquire the fluorescence images of YFP and CFP at the initial temperature from 17°C to 23°C for 2 min as −1- to 0-min states \\(Fig. 1, 2). Use pulsed-illumination excitation blue light for cameleon.\n  \n4. Keep temperature at 23°C.\n  \n5. After 30 min, acquire the fluorescence images of YFP and CFP for 60 s as the 30-min states\n  \n6. After another 30 min, take images for 60 s as the 60-min states\n  \n7. After another hour, take images for 60 s as the 120-min states\n  \n8. Repeat this operation every 60 min until 300 min.\n  \n8. After 300 min, turn the temperature down to 17°C.\n  \n9. After long-term calcium imaging, the cover glass is removed. Approximately 10 μl of M9 buffer is added onto the animals, and then animals confirmed to be alive."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

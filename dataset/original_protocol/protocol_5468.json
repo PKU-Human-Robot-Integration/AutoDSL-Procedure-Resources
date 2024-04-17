@@ -1,0 +1,14 @@
+{
+  "id": 5800,
+  "origin_website": "Bio",
+  "title": "Protein-RNA ELISA Assay",
+  "procedures": [
+    "Coated 96-well plates with 50 μl/well of streptavidin (100 μg/ml in 0.1 M NaHCO3).   Incubate overnight at 4 °C. Seal the wells with q-PCR tape.   Wash plates six times with 200 μl PBS-T (there is no need to incubate for washing).   Block with 50 μl/well of PBS containing 3% BSA and 0.1 μg/ml streptavidin.   Incubate overnight at 4 °C or 7 h at RT. Seal the wells with q-PCR tape (for my experience, in this step overnight or at least 7 h RT incubation is needed as less time causes high noise).   Mix in pcr tubes biotinylated RNA (5 pmol) and different amounts of protein (0-500 ng) in binding buffer. The final volume in each tube is 50 μl. The RNA was biotinylated using the RNA 3' End Biotinylation Kit.   Incubate the pcr tubes with the biotinylated RNA plus the protein, in a thermocycler for 30 min at 37 °C.   Wash plates four times with 200 μl PBS-T.    Transfer the mix (biotinylated RNA-protein) in to the plates (50 μl/well) and incubate 1 h at RT. Seal the wells with q-PCR tape (No need to rock to rock/shake the plate).   Wash plates six times with 200 μl/well PBS-T.   Add the 6x His mAB/HRP conjugate in PBS 1: 1,000 (50 μl/well) incubated for 1 h at RT. Seal the wells with q-PCR tape   Wash plates six times with 200 μl/well PBS-T.   Add 50 μl/well of a mix 1:1 ECL (25 μl of ECL1 and 25 μl of ECL2).   Spin the plate to avoid bubbles using an adaptor for a swing bucket centrifuge.   Read luminescence in the Labtech FLUOstar OPTIMA (MARS Software from labtech on Nunc maxisorp 96. 0.5 second interval)."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

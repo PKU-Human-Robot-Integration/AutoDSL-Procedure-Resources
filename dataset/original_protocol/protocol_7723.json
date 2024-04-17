@@ -1,0 +1,15 @@
+{
+  "id": 8126,
+  "origin_website": "Bio",
+  "title": "Transmission Electron Microscopy (TEM) Protocol: Observation Details within Cells",
+  "procedures": [
+    "Note: Put all droppers and syringes into the 60 °C oven the day before this procedure to remove all the water inside all stuffs.    After treatment, collecting cells (1 x 106) with 0.5% trypsin-EDTA and washing cell with 0.5 ml 0.1 M phosphate buffer (PB) in an eppendorf tube by centrifuge (300 x g, 5 min).    Add 0.5 ml paraformaldehyde (4% in PB) to fix cells in room temperature (RT) for at least 30 min (or store cells at 4 °C for long term storage).   Wash cells 3 times with 0.5 ml 0.1 M PB by centrifuge (300 x g, 5 min).   Add 0.5 ml Osimium tetraoxide (1% in PB) into the tube and incubate cells for 1 h at RT.   Wash cells 3 times with 0.5 ml 0.1 M PB by centrifuge (300 x g, 5 min).   Dehydrate cells with adding 0.5 ml 70% alcohol for 5 min twice→ centrifuge (300 x g, 5 min)→ remove alcohol.   Dehydrate cells with adding 0.5 ml 85% alcohol for 5 min twice→ centrifuge (300 x g, 5 min)→ remove alcohol.   Dehydrate cells with adding 0.5 ml 95% alcohol for 5 min for three times→centrifuge (300 x g, 5 min)→ remove alcohol.   Dehydrate cells with adding 0.5 ml 100% alcohol for 10 min for five times→ centrifuge (300 x g, 5 min)→ remove alcohol.  Note: From step 10, all materials used should be from 60 °C oven.   Add 0.5 ml propylene oxide into tubes and incubate for 3 min twice at RT.→ centrifuge (300 x g, 5 min)→remove propylene oxide.   Add 1 ml (propylene oxide:Epon = 1:1) into tubes and incubate for 1 h at RT.→ centrifuge (300 x g, 5 min)→ remove Propylene oxide: Epon.",
+    "Add 1 ml pure Epon into tubes and put the samples into the vacuum drying oven to vacuum for 1 h at RT.→ remove Epon.   Add 1 ml pure Epon into tubes and vacuum for 1 h at RT.→ remove Epon.   Add 1 ml pure Epon into tubes and vacuum overnight at RT.   Put tubes into 60 °C oven for at least 48 h.   Trimming-remove the edge of the block.   Get thick section (1 μm) with Ultracut using diamond knife→put the thick section on a slide and stain with 0.5% toluidune blue for around 40 s to 1 min (until the edge is dried)→ wash 1 min with water → observe under microscopy to find the cells.   Once we found the cells on the thick section, change the thickness of Ultracut to get thin sections (65-70 nm).   Put the thin sections on the grids (3-4 sections on one grid).   Stain sections with uranyl acetate and lead citrate for 3 min sequentially.   Wash the grids with water for 1 min and let them dry completely.   Get images from digital camera on TEM with identical magnificence."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

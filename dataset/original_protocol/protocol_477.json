@@ -1,0 +1,19 @@
+{
+  "id": 511,
+  "origin_website": "Nature",
+  "title": "Preparation of cell-sized water-in-oil droplets for _in vitro_ reconstitution of biological processes in cellular compartments",
+  "procedures": [
+    "**PREPARATION OF A LIPID DRY FILM**\n1. Dissolve phospholipids in chloroform \\(dehydrated with molecular sieves) to a final concentration of 20 mM.\n  2. Dispense the lipid solution into glass test tubes \\(50 μL per tube).\n  3. Place the test tubes in a vacuum desiccator.\n  4. Evacuate overnight at room temperature in the dark to completely remove chloroform \\(Fig. 1a).\n  5. Store lipid dry films in a vacuum desiccator at room temperature in the dark. The lipid dry films should be used within 1 month.\n  \nTips: Phospholipids should be stored at −20 °C under a nitrogen atmosphere in the dark.\n**PREPARATION OF LIPID-OIL MIXTURE**\n6. Mix mineral oil by gentle inversion just before use.\n  7. Collect a lipid dry film sample from a vacuum desiccator.\n  8. Place 1 mL of mineral oil into the glass test tube.\n  9. Seal the top of the tube with a heat-resistant sealing film \\(Fig. 1b).\n  10. Incubate the tube at 80 °C for ~15 min in a dry bath incubator.\n  11. Dissolve the lipid dry film by vortexing \\(~10 s; Fig. 1c).\n  12. If the lipid dry film remains at the bottom of the tube, repeat steps 10 and 11.\n  13. Set the tube in a floating rack and float in a water bath sonicator.\n  14. Sonicate the tube for 90 min at 60 °C and 60 W power \\(Fig. 1d).\n  15. Immediately after sonication, mix the lipid-oil mixture by vortexing \\(~10 s).\n  16. Cool to room temperature and incubate overnight at room temperature in the dark.\n  17. The concentration of lipids in oil is 1 mM. Store the lipid-oil mixture at room temperature in the dark, and use within 1 week of preparation.\n  \n**PREPARATION OF A FLOW CHAMBER**",
+    "18. Place two pieces of double-sided adhesive tape \\(thickness: <sub>100 μm) onto a silicone-coated coverslip with a </sub>8 mm gap between them.\n  19. Place a normal coverslip on top of the gap, to produce a chamber of 18 mm × 8 mm × 100 μm \\(see Fig. 2c).\n  \n**ENCAPSLATION OF PROTEINS INTO WATER-IN-OIL DROPLETS**\n20. Mix lipid-oil mixture by vortexing immediately before use.\n  21. Transfer 80 μL of the lipid-oil mixture into a 1.5-mL microcentrifuge tube pre-equilibrated to a desired temperature.\n  22. Pipet 2 μL of protein solution directly into the lipid-oil mixture in the microcentrifuge tube \\(Fig. 2a).\n  23. Mix the lipid-oil mixture and protein solutions by vortexing for 10–30 s to form water-in-oil droplets \\(Fig. 2b). The droplet size can be controlled by optimizing the power and duration of vortexing.\n  24. Perfuse the water-in-oil emulsion into a flow chamber \\(Fig. 2c).\n  25. Seal the flow chamber with Valap \\(Fig. 2d).\n  26. Observe the water-in-oil droplets using an optical microscope \\(Fig. 3)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Physics",
+    "Biochemistry",
+    "Cell Biology",
+    "Materials Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

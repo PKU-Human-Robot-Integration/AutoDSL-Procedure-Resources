@@ -1,0 +1,14 @@
+{
+  "id": 393,
+  "origin_website": "Nature",
+  "title": "Assays of nucleosome assembly and the inhibition of histone acetyltransferase activity.  \\(5) Preparation of core histones",
+  "procedures": [
+    "1.   Dialyze the pooled H1-depleted chromatin overnight against buffer A at 4 &#xB0;C.\n  2.  Equilibrate a 20-mL hydroxyapatite column with buffer A and apply H1-depleted chromatin at a flow rate of 2 mL/min in 0% buffer B \\(see Note 2).  Wash the column with the same buffer under the same conditions for 30 min.\n  3.  Elute non-histone proteins with 25% buffer B \\(0.5 M NaCl), at a flow rate of 2 mL/min over 30 min.  Elute the core histones as octamers wth 100% buffer B \\(2 M NaCl) over 15 min \\(collect 2-mL factions).  Determine the concentration of core histones in each fraction from the absorbance \\(OD<sub>230nm</sub> = 4.2 corresponds to 1 mg/mL).  Analyze the proteins in each fraction on an 18% polyacrylamide gel by SDS-PAGE \\(see Note 3).\n  4.  Pool fractions that contain core histones.  Concentrate proteins to greater than 0.1 mg/mL for reconstitution of chromatin, if necessary, using a concentrator \\(MWCO, 10,000) or a CM52 column.  Store at &#xFF0D;20 &#xB0;C in siliconized tubes.\n  \n**Further Purification and Concentration of Core Histones**\n1.   Dialyze core histones against dialysis buffer at 4 &#xB0;C.\n  2.   Prepare a 2-mL CM52 column \\(5 mg histone/mL bed volume) and equilibrate with dialysis buffer.\n  3.    Apply core histones to the column, wash thoroughly with 15 mL of dialysis buffer and elute with 5 mL of elution buffer.  Measure the absorbance of a small aliquot in water at 230 nm to determine the concentration of histones.  Store at &#xFF0D;20 &#xB0;C in siliconized tubes."
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

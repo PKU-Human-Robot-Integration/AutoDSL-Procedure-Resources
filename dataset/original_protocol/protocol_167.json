@@ -1,0 +1,15 @@
+{
+  "id": 172,
+  "origin_website": "Nature",
+  "title": "Detection of small intestinal IgA+TNFα+iNOS+ CELLS by Immunofluorescence Microscopy \\(IF)",
+  "procedures": [
+    "1. Cut the small intestines out of animals and remove the mesentery and fat.\n  2. After gently pushing out the fecal content using a forceps, wash the small intestines gently twice in PBS and cut open longitudinally and in small pieces of approximately 1 cm using a scissor.\n  3. Place tissue sections in base molds and cover with OCT compound and freeze in dry-ice-chilled 2-methyl-butane. \n  4. Wrap frozen OCT-tissue blocks in aluminum paper and store at -80°C until used for sectioning.\n  5. Cut intestinal tissue sections at 5 μm using a Leica CM3050 cryostat, mount on glass microscope slides, subsequently fix for seven minutes in ice-cold acetone and air-dry for one hour at room temperature.  Fixed sections can be stored at -80°C in desiccant bags. \n  6. Using a Dako Pen, mount hydrophobic barrier rings onto glass slides by circling tissues to limit reagent use for staining. By doing so approximately 400 μl of liquid \\(blocking or staining solutions) per slide is required.\n  7. Rehydrate sections in TBS for 20 minutes followed by additional 20 minutes in TBS-T by placing them in slide-beakers applying gentle shaking.\n  8. Block unspecific binding of antibodies by incubating tissue sections in TBS-T supplemented with 10% normal rabbit serum, 10% normal mouse serum, 5% sterile-filtered BSA and 2 mg/ml of a rat anti-mouse CD16/CD32 antibody for 30 minutes in a humidified chamber. After removal of the blocking solution, dip the slides briefly in TBS-T and then apply mixtures of the fluorochrome labeled antibodies diluted in TBS-T  for 45 minutes in the dark in a humidified chamber.\n  9. After removal of the staining solutions, wash the slides three times for ten minutes in TBS-T, once with TBS and once with PBS in slide-beakers applying gentle shaking.",
+    "10. Stain the slides with DAPI nucleic acid stain for 30 seconds and wash three times with PBS in slide-beakers applying gentle shaking.\n  11. Mount the slides with Gel/Mount medium putting coverslips.\n  12. Acquire images with a Leica DMRA2 fluorescence microscope equipped with a Retiga EXi digital camera using OpenLab software. When comparing tissues of diverse genotypes, keep picture acquisition settings and exposure times for every fluorescent channel constant.\n  13. Process images utilizing Photoshop CS5. When comparing images of diverse genotypes or comparing specific antibody staining with isotype controls, adjustments of input and output levels was applied for all compared images in an equal manner.\n  14. Count the numbers of small intestinal LP IgA+ plasma cells and CD8α+ cells in a blinded fashion utilizing ImageJ. Analyse and quantify a total of five separate images from sections of six mice per group."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

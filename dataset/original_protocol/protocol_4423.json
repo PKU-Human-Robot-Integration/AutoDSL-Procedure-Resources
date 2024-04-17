@@ -1,0 +1,15 @@
+{
+  "id": 4651,
+  "origin_website": "Bio",
+  "title": "<em>Arabidopsis thaliana</em> Root Hair Cell Cytoplasmic pH (pHc) Imaging ",
+  "procedures": [
+    "Surface-sterilized Arabidopsis seeds were sowed on 0.5 x MS medium and kept for 3 d at 4 °C in the dark. The plates were then transferred to the growth chamber at 22 °C with a 16-h light/8-h dark photoperiod and grown vertically. Pt–GFP Root hairs of 4-5-d-old seedlings were used to monitor intracellular pH. Seedlings were carefully placed on the slide with 2-3 drops of liquid growth medium (the same as the medium seedling were grown on). Root hair GFP fluorescence was monitored under the confocal microscope (exciters: 405 nm and 488 nm; emitter: 525 nm); the F405-to-F488 ratio was used as a measure for pH, and a pseudocolor-coded 405 nm/488 nm ratio image can be obtained.    The pH titrations were performed in situ as previously reported (Moseyko and Feldman, 2001). For making the calibration curve, a series of pH buffer solutions (5, 5.5, 6, 6.5, 7, 7.5 and 8; for preparation, see Recipes) were used, 4-5-d-old seedlings were incubated in the buffer solution and were stabilized for about 10 min to equilibrate the external pH buffer solutions and the pHc. Fluorescence was made as procedure 1 to obtain F405-to-F488 ratio for different pH buffer solution. For each, at least 5 repeats should be made.   After the in situ titration, an equation (R2 near 0.999) will be reached for conversion the fluorescence ratio to the pH value by using the Microsoft Excel. pH levels of the root hair obtained in step 1 were then calibrated by the equation.   Waste disposal Offer surplus and non-recyclable solutions with digitonin to a licensed disposal company. Contact a licensed professional waste disposal service to dispose of this material."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

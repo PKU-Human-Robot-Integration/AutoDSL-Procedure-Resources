@@ -1,0 +1,16 @@
+{
+  "id": 5548,
+  "origin_website": "Bio",
+  "title": "DNA Fiber Assay upon Treatment with Ultraviolet Radiations",
+  "procedures": [
+    "See Figure 1 for an overview of the protocol.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170602/20170602015323_0284.jpgFigure 1. Schematic overview of the protocol Culture HeLa cells in RPMI 1640 medium supplemented with 10% FBS, 1 μg/ml penicillin and 1 µg/ml streptomycin (defined as ‘complete medium’).Treat a 60 mm dish of 80% confluent HeLa cells with CldU (20 μM final concentration) in complete RPMI 1640 medium (these cells are defined as ‘labelled cells’); whereas leave untreated another 60 mm dish of the same cells in the same conditions (these cells are defined as ‘unlabelled cells’). Incubate both dishes at 37 °C in a 5% CO2 incubator for 20 min (see Note 1).Wash twice with 1x PBS.Remove all the excess 1x PBS.Treat labelled HeLa cells with UVC at a dose of 10 J/m2 (see Note 2).Add to labelled cells IdU (100 μM final concentration) in fresh complete RPMI 1640 medium (see Note 1).Incubate at 37 °C in a 5% CO2 incubator for 40 min.Trypsinize both labelled and unlabelled HeLa cells, then harvest them through centrifugation (800 x g for 5 min). Wash the cell pellet with ice-cold (4 °C) 1x PBS twice.Resuspend HeLa cells with the ice-cold 1x PBS at 2.5 x 105 cells/ml.Dilute labelled cells 1:8 with unlabelled cells (vol/vol). Spot onto the Silane Prep slides 2.5 μl of this labelled/unlabelled cell solution. Allow the 2.5 μl sample to evaporate not completely. (see Note 3)Mix the cells with 7.5 μl of spreading buffer directly on the Silane Prep slide.Incubate at room temperature (RT) for 10 min.Tilt the slides to 15° to spread DNA fibers along their length.Air-dry the DNA spreads. (see Note 3)Fix DNA fibers (which are now spread onto the Silane Prep slide) in 3:1 methanol/acetic acid in a plastic or glass container at -20 °C for 15 min.Wash slides in 1x PBS twice.",
+    "Incubate DNA fibers in 70% ethanol at 4 °C for one hour (see Note 4).Treat the slides with 2.5 N of HCl at 37 °C for one hour.Wash slides with 1x PBS twice.Block DNA fibers with 1x PBS + 0.5% BSA for 30 min at RT. Incubate slides with 1:500 Anti-BrdU clone BU1/75 (ICR1) (which detects CldU) and 1:300 Anti-BrdU clone B44 (which detects IdU) together in 1x PBS + 0.5% BSA for one hour at 37 °C.Wash DNA fibers twice for 5 min at RT and once for 15 min at RT with stringent buffer (no shaking required).Incubate Silane Prep slides with 1:300 Alexa Fluor 488-conjugated chicken anti-rat and 1:400 Alexa Fluor 594-conjugated rabbit anti-mouse together in 1x PBS + 0.5% BSA for 30 min at 37 °C. Both antibodies were tested singularly to detect possible cross reactivity in HeLa cells and were previously successfully used for this technique (Alfano et al., 2016).Wash Silane Prep slides with 1x PBS + 0.5% Tween 20 for 5 min at RT for three times.Mount the slides with ProLong Gold anti-fade reagent.Analyse the slides through confocal fluorescent microscopy in sequential scanning mode."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

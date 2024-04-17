@@ -1,0 +1,15 @@
+{
+  "id": 364,
+  "origin_website": "Nature",
+  "title": "A novel enzyme-linked immunosorbent assay procedure in one hour by pressure incubation",
+  "procedures": [
+    "1. Activation of polystyrene surface\n  \nThe wells of a polystyrene plate were activated by coating with FNAB followed by photoactivation by UV light for 15 min at a wavelength of 365 nm as described \\(1).    \nCRITICAL   We have decreased UV exposure time for activation of microtiter plate from 20 minutes to 15 minutes without any significant difference in results. \n     \n2. Designing of a pressure incubator\n  \nPressure incubator was designed from a 5-L pressure cooker \\(Domestic kitchen pressure cooker, Hawkins Cookers Ltd., Mumbai, India). The pressure regulator \\(vent weight) from the lid was removed and one end of a 1-m pressure tube \\(or laboratory high vacuum tube) was inserted through the vent pipe of the pressure cooker; the other end of the tube was connected to a three-way connector. One of the outlays of the connector is connected to a pressure gauge through a rubber tube and further connected to a laboratory argon cylinder. Third outlay of the connector was used for release of excess pressure and also release of pressure after each ELISA step. All PELISA steps were carried out inside the pressure incubator. \n3. Detection of analyte \n  \n• PELISA steps in the pressure incubator \nIn the activated and untreated wells of a polystyrene microtiter plate  capture molecule \\(anti-human IgG) was added and the plate was kept inside the pressure incubator. The pressure cooker was closed and a pressure of 1.5 × 105 Pa was applied by opening the gas cylinder. In this pressure the plate was kept for 10 minutes after which the pressure was released.  During this time capture molecule was immobilized in the activated and untreated wells of a polystyrene microtiter plate.",
+    "After wshing,  blocking was carried out similarly by applying pressure of 1.5 × 105 Pa  for 10 minutes. After the stipulated time period, the pressure was released and the plate was washed by washing buffer.\nBinding  of analyte was carried out by adding the analyte to the wells and incubating the plate inside the pressure incubator 20 minutes by applying pressure of 2 × 105 Pa. \nBinding  of secondary antibody-conjugate was also carried out similarly by applying pressure of 2 × 105 Pa for 20 minutes. After all the four ELISA steps were carried out inside the pressure incubator, the color development was done by adding  100 µl of substrate- dye buffer at room temperature outside pressure cooker.  Color development was stopped by adding 20 µl of 5% sulfuric acid and absorbance was recorded at 490 nm.\n• CRITICAL \nCAUTION Pressure must be carefully monitored.  Excess pressure may lead to explosion. Applying and release of pressure should be slow/ gradual and should not be  abrupt."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

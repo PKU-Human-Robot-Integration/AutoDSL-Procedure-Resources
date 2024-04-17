@@ -1,0 +1,16 @@
+{
+  "id": 5256,
+  "origin_website": "Bio",
+  "title": "Acid Extraction of Total Histone from Colon Cancer HCT116 Cells",
+  "procedures": [
+    "An overview of the whole procedure is schematized in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161110/20161110022926_3818.jpgFigure 1. Scheme of the complete procedure described in the protocol Collect HCT116 cells (6 cm plate, 70-90% confluent) using any commonly used method in 1 ml ice-cold PBS and pellet (1,000 x g, 5 min, 4 °C).Discard the supernatant, add 1 ml ice-cold PBS and pipet gently to resuspend the cells, then pellet it again (1,000 x g, 5 min, 4 °C).Discard the supernatant, resuspend cell pellet in 400 μl lysis buffer, and incubate for 30 min with rotating at 4 °C.Pellet the intact nuclei by spinning in cooled centrifuge (12,000 x g, 10 min, 4 °C).Transfer the supernatant containing histones into a fresh 1.5 ml tube.Add 133 μl TCA drop by drop to histone solution and invert the tube several times to mix the solutions (final concentration of TCA is 25%). (It is better to add one drop and invert the tube at once to mix the solutions, and then add another drop.) The solution will appear milky over time.Incubate on ice for 30 min or overnight. Pellet histones by spinning in cooled centrifuge (12,000 x g, 10min, 4 °C).Carefully remove supernatant and wash histone pellet with 1 ml ice cold acetone without disturbing it. Acetone is used to remove acid from the solution without dissolving the histone pellet.Spin down in centrifuge at 12,000 x g, 10 min at 4 °C.Repeat steps 9 and 10 to wash histone pellet again.Carefully remove all of the supernatant and air-dry histone pellet for 30 min at room temperature.Dissolve histone pellet in appropriate volume of ddH2O (for example, 100 μl is appropriate for a 6 cm plate), and transfer into fresh 1.5 ml tube.",
+    "Detect the concentration of histone solution with the spectrophotometer (using OD 280), and we may acquire 1-2 µg histone protein from a 70-90% confluent well on a 6 cm plate.Add the same volume of 2x SDS loading buffer into histone solution, and boil it on the metal bath (100 °C, 5 min), then subject to Western blot."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

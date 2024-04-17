@@ -1,0 +1,15 @@
+{
+  "id": 4379,
+  "origin_website": "Bio",
+  "title": "Barrier Function Assay",
+  "procedures": [
+    "Isolate uterus from pregnant females to obtain E18.5 embryos.   Euthanize embryos by immersion in ice cold PBS for 30 min.   At 18.5 days gestation, cull mother by cervical dislocation. Make a ventral incision and remove the uterine horn containing the embryos. To euthanize embryos, immerse entire uterus containing embryos in ice cold PBS for 30 min. Separate embryos and remove from uterus. Check that embryos have been successfully euthanized by pinching toe or tail with forceps. If embryo responds, place back into ice cold PBS and check every 5 min. Once embryos are unresponsive/culled, proceed to the next step.   Finger/toe clip individual embryos for identification. This is especially important when crossing heterozygous mice. The digits can be used for genotyping the embryos.   Passage embryos through chilled methanol gradient, taking 2 min per step. It is crucial to have all solutions at 4 degrees centigrade. Keep solutions on ice throughout protocol.   25% methanol in water   50% methanol in water   75% methanol in water   100% methanol    75% methanol in water   50% methanol in water   25% methanol in water   100% water or PBS     Immerse embryos in 0.1% toluidine blue solution in water for 1-2 min on ice.   Destain embryos in PBS (pH 7.4) until a dye pattern emerges (in case of barrier defect) or until dye is washed away (in case of intact barrier) on ice.   Take pictures of individual embryos and if relevant genotype embryos. See also Figure 1 for some examples of intact barriers and barrier acquisition defects.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140510/20140510045516_5404.jpg Figure 1. Examples of intact barriers and barrier acquisition defects"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

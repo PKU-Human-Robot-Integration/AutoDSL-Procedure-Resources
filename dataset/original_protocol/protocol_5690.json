@@ -1,0 +1,16 @@
+{
+  "id": 6033,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Nitrate Reductase Activity Assay from <em>Arabidopsis</em> Crude Extracts",
+  "procedures": [
+    "Plant preparationSterilize Arabidopsis seeds with 70% EtOH three times.Plate the seeds on Murashige and Skoog (MS) medium (see Recipes) containing 0.75% agar.Wrap 3M micropore tape around the circumference of each MS plate and store the plates in the dark at 4 °C for 2 days.After 2 days, move the plates to fully automated growth chambers under long day conditions (16 h, 22 °C under light/8 h, 20 °C under dark).Tissue extractionAfter 15 days, take tissue of interest (0.5 g fresh weight) using stainless steel tweezer. Freeze the samples in liquid nitrogen.Grind samples in liquid nitrogen with chilled mortar and pestle.Add 750 μl of chilled extraction buffer (see Recipes) to ground sample to homogenize.Collect the homogenate into new 1.5 ml tubes through a pipette.Centrifuge at 17,000 x g for 5 min.Collect supernatant into new 1.5 ml tubes and discard pellet.Nitrate reductase enzymatic assayAdd 150 μl of supernatant to 850 μl of reaction buffer (see Recipes) in a 1.5 ml tube.Note: The reaction buffer contains substrate (nitrate) and NADH to initiate reaction. Incubate at room temperature for 2 h.Note: To make blank, skip incubation procedure and do next step.Add 200 μl of 1% sulfanilamide and 200 μl of 0.05% N-(1-naphthyl) ethylenediamine hydrochloride by pipetting to stop the reaction.Incubate at room temperature for 15 min.Measure absorbanceTransfer 1 ml of the reaction mixture to a cuvette.Measure the absorbance of the reaction mixture at 540 nm.Preparation of nitrite standard curvePrepare a nitrite dilution series using potassium nitrite (0, 5, 10, 20, and 40 μM) in 1,250 μl of 0.6x diluted extraction buffer (add 500 μl of ddH2O to 750 μl of extraction buffer).Note: The dilution ratio of extracted buffer for standards is determined based on the assumption that 1 mg fresh weight has a volume of about 1 µl.",
+    "Add 150 μl of dilution series to 850 μl of reaction buffer (see Recipes) in a 1.5 ml tube.Add 200 μl of 1% sulfanilamide and 200 μl of 0.05% N-(1-naptyl) ethylenediamine hydrochloride by pipetting.Incubate at room temperature for 15 min.Transfer 1 ml of the reaction mixture to a cuvette.Measure the absorbance of the reaction mixture at 540 nm.Generate standard curve for known concentrations of nitrite.Waste disposalAll waste must be disposed of in accordance with federal, state and local environmental control regulations."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4306,
+  "origin_website": "Bio",
+  "title": "Alkaline Phosphatase Staining ",
+  "procedures": [
+    "Cell Culture   Coat plates with 0.1% gelatin. Warm gelatin to 37 °C. For each well of a 6 well plate, asceptically add 1.5 ml of 0.1% gelatin. Incubate the plates in the tissue culture hood at room temperature for 30 min. Aspirate off the gelatin and allow to dry for 10 min prior to adding media and plating cells.   Seed each well with 4.75 x 105 murine embryonic feeder cells (MEFs) in 2 ml of media. Allow the MEFs to attach overnight prior to plating out the mouse ESCs.   Passage actively dividing cells and culture for 3-5 days to a subconfluent density prior to staining. For mouse ESCs (mESCs) approximately 1 x 105 cells are plated to each well of a 6-well plate (or 1 x 104 cells for 24-well plate) that has been previously coated with 0.1% gelatin and plated with murine embryonic fibroblast (MEF) feeder cells.      Alkaline Phosphatase Staining   Aspirate the culture media from each well and rinse with 1x PBS-T.    Aspirate the rinse solution and fix the cells with Fixation Solution at room temperature for two minutes. Use a sufficient volume to endure complete coverage of the cells. This would be 500 µl for each well of 24-well plate or 2 ml for each well of a 6-well plate. It is important not to exceed the fixation time of two min. Over fixation will result in the loss of AP activity and inaccurate results.   Aspirate the Fixation Solution and rinse with 1x PBS-T. The wells should not be allowed to dry out.   Prepare the Staining Solution by Mixing Solution A and Solution B at a 1:1 ratio. To ensure that there is sufficient volume for staining, prepare (n+1) y volumes of the solution where n is the number of wells, and y is the volume per well.",
+    "For a 24-well plate y = 500 µl. For a 6-well plate y = 2 ml. The staining solution should be freshly prepared and used within five minutes of preparation.   Aspirate the 1x PBS-T and pipet on the prepared Staining Solution. Cover the plate with aluminum foil in the dark for approximately 15 min. Monitor the color change (pluripotent cells will stain red/purple, MEFs will remain colorless) to avoid non-specific staining.   Remove the staining solution by aspiration and wash the cells two times with 1x PBS. Do not use 1x PBS-T as this may wash out the stain.   Aspirate the 1x PBS. Add 1x PBS-glycerol for long-term storage at 4 °C.      Enumeration of Pluripotent Cells   Count the number of AP stained (red/purple) pluripotent colonies and the differentiated (clear) colonies by eye or using a light microscope with 10x objective. The MEF feeder cells will remain clear."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

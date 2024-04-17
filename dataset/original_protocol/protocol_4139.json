@@ -1,0 +1,16 @@
+{
+  "id": 4345,
+  "origin_website": "Bio",
+  "title": "Electrophoresis Mobility Shift Assay",
+  "procedures": [
+    "Suspend lyophilized oligo DNA with dH2O and mix them as follows (final concentration is 50 µM each). Probe: labelled and complementary non-labelled oligo DNAs Competitor: non-labelled and complementary non-labelled oligo DNAs Mutated competitor: mutated non-labelled and complementary non-labelled oligo DNAs   Heat at 100 °C for 10 min on heat block for denature.   Turn off heat block and leave denatured DNAs on the block until room temperature.   Dilute probes to 50 nM with dH2O.   Prepare 4% native polyacrylamide gel and 0.5x TBE.   Pre-electrophoresis for 30 min at 150 V at 4 °C.   Prepare reaction mixtures as follows during pre-electrophoresis: table:\n﻿0,1,2,3,4\n,Negative Control,Probe,Competitor,Mutated competitor\nProtein (10 ng/µl),-,1 µl,1 µl,1 µl\nProbe (50 nM),1 µl,1 µl,1 µl,1 µl\nCompetitor (50 µM),-,-,1 µl,-\nMutated competitor (50 µM),-,-,-,1 µl\n10 x buffer (tube 1),2 µl,2 µl,2 µl,2 µl\n25 mM DTT/2.5% Tween-20 (tube 2),2 µl,2 µl,2 µl,2 µl\n1 µg/µl Poly (dIdC) (tube 3),1 µl,1 µl,1 µl,1 µl\n50% Glycerol (tube 5),2 µl,2 µl,2 µl,2 µl\n100 mM MgCl2 (tube 8),1 µl,1 µl,1 µl,1 µl\ndH2O,11 µl,10 µl,9 µl,9 µl",
+    "Note: Tube numbers indicate the vial numbers in Odyssey Infrared EMSA kit.   Place at room temperature for 20 min in dark. Note: Avoid light during reaction not to reduce signal intensity.    Add 2 µl of 10x Orange Dye (tube 10) to reaction mixture after reaction.   Wash gel wells with electrophoresis buffer (0.5x TBE) after pre-electrophoresis.   Load the samples on gel and run the gel at 150 V for 2.5 h at 4 °C in dark until the Orange Dye migrates to the bottom of the gel.   Remove gel from glass plate and place it directly on Odyssey.   Adjust focus offset of Odyssey to 1/2 of gel thickness and scan. Note: Carefully remove air bubbles between gel and Odyssey. Look at supplemental Figure 19 of Reference 1 as a representative EMSA result."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

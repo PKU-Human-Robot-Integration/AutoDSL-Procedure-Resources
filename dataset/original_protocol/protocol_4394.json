@@ -1,0 +1,16 @@
+{
+  "id": 4618,
+  "origin_website": "Bio",
+  "title": "Isolation of Chloroplast Inner and Outer Envelope Membranes",
+  "procedures": [
+    "Before the experiment, the tobacco leaf should be shaded for 2~3 days before extraction to reduce the starch content.   Collect ~100 g tobacco young leaves from 6-week old tobacco seedlings with scissors, and cut leaves into 3~4 cm pieces on ice.   Homogenize leaves with extraction buffer by Mixer for several times (see Note 1).   Filter the leaf homogenates by 8 layers gauze or by 2 layers gauze with 1 layer Miracloth, and gather the filtrate into two 250 ml centrifuge tube.   Centrifuge at 2, 500 x g for 70 sec at 4 °C.   Discard the supernatant and suspend the crude chloroplasts in 5 ml extraction buffer gently by paint brush with soft hair. Using paint brush is suggested because the crude chloroplasts are easily broken.    Add the crude chloroplasts suspension on a 40% and 90% Percoll gradient, and centrifuge at 2, 500 x g for 20 min at 4 °C by a swing rotor (see Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150215/20150215171538_5039.jpg Figure 1. Crude chloroplast after centrifuged by 40% and 90% Percoll. The upper layer is the broken chloroplasts, and the lower green layer is the intact chloroplasts, the small white-green in the bottom of the tube is the starch.     The intact chloroplasts are recovered in the lower green layer, and transfer the intact chloroplast into a 50 ml centrifuge tube by Pasteur pipet.   Add 3-volume gradient buffer and centrifuge at 2,500 x g for 70 sec at 4 °C for washing.   Suspend the intact chloroplasts in 0.6 M sucrose in TE buffer, and the chlorophyll concentration is adjusted to 2 mg/ml (see Note 7).   After keeping on ice for 10 min, the chloroplasts are ruptured by three freeze-thaw cycles in which the suspension is placed in a -20 °C freezer for 1.",
+    "5 h and then at room temperature until thawed, and this freeze-thaw procedure is repeated for 3 times.   The suspension of broken chloroplasts are adjusted to 0.2 M Sucrose by adding 2-volume TE buffer, and centrifuge at 4, 500 x g for 15 min at 4 °C to remove the most of the thylakoids and residual intact chloroplasts, whereas the envelope membranes remained in the supernatant fraction.   Centrifuge the supernatant at 40,000 x g for 30 min at 4 °C to gather the envelope membranes.   Suspend the envelope membranes by 0.2 M sucrose in TE buffer.   Add the envelope suspension on a linear gradient of 0.6~1.2 sucrose solution and centrifuge at 113,000 x g for 14 h at 4 °C in a swing rotor.   The fraction of inner envelope membranes is recovered from the lower, and the fraction of outer envelope membranes from the upper sucrose/sucrose interface of the gradients [photograph can be seen in supplemental Figure S1 of the Wang et al. (2014)]. Gather the inner and outer envelope membranes by 1 ml syringe gently.   Store the envelope membranes at -20 °C until use (within one month is better)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

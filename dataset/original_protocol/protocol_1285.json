@@ -1,0 +1,19 @@
+{
+  "id": 1374,
+  "origin_website": "Nature",
+  "title": "<p>An optimized protocol for propidium monoazide treatment</p>",
+  "procedures": [
+    "<p><strong>Do in advance</strong></p><p>· Thaw PMA dye</p><p>· Turn the ThermomMixer to the required temperature</p><p><br></p><p><strong>Take to the dark room</strong></p><p>· 2.5 µL pipette</p><p>· Pipette tip</p><p>· Freezer box</p><p>· PMA</p><p>· Tube rack</p><p>· Sample</p><p><br></p><p><strong>Procedure</strong></p><p>1. Put 1 mL sample into 2 mL Eppendorf tube</p><p>2. Prepare dead cell controls (If sample volume permits)</p><p>- Heat inactivate at 95°C for 7 min<sup>1</sup> in Eppendorf ThermoMixer shaking at 400 rpm (This time and temperature were validated for <em>E.coli</em> ATCC 8739).</p><p>- Cool to room temperature.</p><p>- Confirm the killing of microbes using a plating method.</p><p>3. Working quickly in dim light (work in a dark room; turn off the white light and use the red light), add 1.25 µL PMA (20mM) to tube caps to obtain a final concentration of 25 µM. Gently close the tube. Put the tube into a freezer box immediately and cover the box.</p><p><em>- Note: “Avoiding light exposure might be particularly important once the dyes are added to cell suspensions and greatly diluted. For concentrated stock solutions, temporary light exposure might not be an overly critical factor</em><sup><em>2</em></sup><em>.” </em></p><p>4. Once the addition of PMA to all tubes is done, invert all tubes (the freezer box) simultaneously 5 times and vortex the box for 5 s.</p><p><em>- Note: PMA is a photo-reactive reagent which is already partially activated at the exposure to normal day light or laboratory lamp light. To avoid nonspecific reactions of the PMA reagent with random sample components, ensure a fast operation and allow only minimal light exposure before the light activation step</em><sup><em>3</em></sup><em>.</em></p><p>5. Wrap the box with aluminum foil, band it onto the ThermoMixer, shake at 300 rpm, incubate for 10 min at room temperature.</p><p><em>- Note: “The incubation temperature for PMA should probably not be lower than 20 °C in order to not decrease cell membrane permeability</em><sup><em>2</em></sup><em>.”</em></p><p>6.",
+    "Quickly transfer the tubes into the PMA-Lite™ device and expose samples to light for 15 min<sup>1</sup>. Start timing.</p><p>7. Every 2 minutes<sup>3</sup>, turn off the device, take 3 tubes, and vortex 3 tubes together for 2 s at a time to ensure the homogenization of samples. After the vortexing is done, turn on the PMA-Lite™ device and restore timing immediately.</p><p>- Note: this step should be performed fast. Be consistent with the batches of tubes.</p><p>8. Centrifuge the samples at 5,000 x g for 13 minutes<sup>1,4,5</sup>, pipette out the supernatant into PMA liquid waste.</p><p>9. Add the same volume of buffer pipetted out, and resuspend the pellet by brief, vigorous vortexing.</p><p>- For reference, when validating the protocol using <em>E. coli</em> ATCC 8739 strain, 850 µL buffer was pipetted out and added at this step.</p><p>10. Wrap the tubes with foil, put them in the freezer, and store them at -20 °C or -80°C until DNA extraction.</p><p>&nbsp;</p><p><br></p><p><strong>If sample volume permits</strong></p><p>· measure OD600 of the sample to assess the turbidity</p><p>· make dead cell controls</p><p><br></p><p><strong>Note</strong></p><p>1. Protect PMA and PMAxx™ from light during use.&nbsp;</p><p>2. Be strictly consistent across samples.</p><p><br></p><p><strong>Storage and reconstitution of PMA</strong></p><p>· Use DNase-free water to dissolve</p><p>· Store at -20 °C after reconstitution (stable for at least 6 months)</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology",
+    "Environmental Sciences",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

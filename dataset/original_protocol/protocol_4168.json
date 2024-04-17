@@ -1,0 +1,16 @@
+{
+  "id": 4375,
+  "origin_website": "Bio",
+  "title": "Karyotype Analysis",
+  "procedures": [
+    "Day 1    Seed 5 x 105 cells on 10 cm cell culture dishes for attachment.    Cells were incubated at 37 °C, 5% CO2 for 48 h.     Day 3    Add 0.1 ml colcemid, which can collapse mitotic spindles and prevent the completion of mitosis, to each dish and mix gently. Incubated at 37 °C, 5 % CO2 for 2 h.   Transfer medium to centrifuge tubes from the cell culture dishes. Use PBS to wash the dishes, and remove PBS. Then, add 1 ml 0.1% Trypsine into the dishes at 37 °C, 5% CO2 for 2 min. Also, transfer the mixture (Trypsine and cells) into the centrifuge tubes and mix with the medium which is transferred to centrifuge tubes before we use PBS to wash the dishes. Further, centrifuge at 100 rcf for 10 min at room temperature.   Discard the supernatant and leave 0.5 ml medium to mix the pellet gently.   Resuspend the pellet in 5-7 ml 37 °C hypotonic solution and mix thoroughly. Incubate in water bath at 37 °C for 10 min.   Centrifuge at 100 rcf for 10 min at room temperature.    Discard the supernatant and leave 0.5 ml solution to mix the pellet gently.   Resuspend the pellet in 5 ml cold fixative (drop by drop and flick the tube between drops to prevent cell clumping).   Put the centrifuge tube on ice at least 20 min.   Centrifuge at 100 rcf for 10 min at room temperature.   Discard the supernatant and add 3-5 ml cold fixative.   Repeat steps 9-10 three times or until the supernatant is clear and the pellet become white.   After the final centrifugation, suspend the cells in a few drops of cold fixative to give a slightly opaque suspension.",
+    "Drop 1-2 drops onto wet and clean slides (Before that, the slides have to be rinsed by 1-2 drops of cold fixative.)    Dry the slides at room temperature.    Observe the chromosomes with the microscope (Olympus DP71 with 200x magnification).    Count the number of chromosomes about 50 cells (A normal human cell have 23 pairs of chromosomes.).  Note: Chromosomes center in a scope, we define that “one cell”."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

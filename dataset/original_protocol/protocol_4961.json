@@ -1,0 +1,15 @@
+{
+  "id": 5277,
+  "origin_website": "Bio",
+  "title": "Measurement of ATP Hydrolytic Activity of Plasma Membrane  H<sup>+</sup>-ATPase from <em>Arabidopsis thaliana</em> Leaves",
+  "procedures": [
+    "Preparation of microsomal membranesGrow Arabidopsis thaliana in soil for 3 weeks at 23 °C under white light (50 µmol photons m-2 s-1) with a 16-h-light/8-h-dark cycle.Homogenize rosette leaves (about 100 mg) with a mortar and pestle in 2 ml ice-cold homogenization buffer and keep on ice.Centrifuge the homogenate at 13,000 x g for 10 min at 4 °C.Ultracentrifuge the supernatant at 100,000 x g for 1 h at 4 °C.Resuspend the pellet in 100 μl ice-cold homogenization buffer by pipetting up and down.Quantify the protein concentration by Bradford assay (Bradford, 1976).Protein concentration is adjusted to 0.45 µg/µl with homogenization buffer.Note: Keep microsomal membranes on ice until use.Measurement of vanadate-sensitive ATP hydrolytic activityMix 100 μl of microsomal membranes with 100 μl ATPase reaction buffer, split the mixture in two tubes, 90 µl each (20 µg protein), and keep on ice. To determine vanadate-sensitive ATPase activity, add 2 μl vanadate solution to one tube and an equal volume of 1x ATPase buffer to the other tube.Add 10 μl ATP solution and gently vortex.Incubate at 30 °C for 30 min. Gently vortex once after 15 min of incubation.Add 1 ml stop solution.Add 50 μl ANSA solution and gently vortex.Incubate at 24 °C for 30 min. Gently vortex once after 15 min of incubation.Measure absorption at 750 nm by a spectrophotometer using a cuvette.Note: Do not centrifuge the samples.Preparation of Pi standard curvePrepare Pi dilution series as shown in Table 1.Table 1. Template for the preparation of the Pi standard curveimgsrc:https://en-cdn.bio-protocol.org/attached/image/20161130/20161130014911_3157.jpgAdd 50 μl ATPase reaction buffer and 1 ml stop solution.Add 50 μl ANSA solution and incubate at 24 °C for 30 min. Gently vortex once after 15 min of incubation.Measure absorption at 750 nm using a cuvette and make a standard curve (Figure 1)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

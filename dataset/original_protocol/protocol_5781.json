@@ -1,0 +1,15 @@
+{
+  "id": 6127,
+  "origin_website": "Bio",
+  "title": "Extraction of Coumarins from Leaves, Petioles, Stems and Roots of <em>Ruta graveolens</em> and <em>Nicotiana benthamiana</em>",
+  "procedures": [
+    "Harvest 200 mg fresh material of each organ which is supposed to be analyzed.   Freeze it immediately in liquid nitrogen. Avoid thawing.   Grind the material in a cooled mortar. Keep the material frozen during the grinding process.   Add 2 ml of 80% ethanol and 50 μl of taxifolin 2 mg/ml to the mixture and homogenize with a bench top blender for 1 min (taxifolin will be an external control to compare the efficiency of the extraction between two samples. As the amount of taxifolin is the same in all the samples, final results can be compared to each other on the basis of the amount taxifolin detected).   Transfer the crushed material into a 2 ml microtube.   Centrifuge at 16,000 x g for 10 min at room temperature.   Harvest the supernatant and transfert the sample in a fresh tube.   Evaporate the sample overnight with a vacuum concentrator.   Resuspend the pellet in 200 μl methanol prior to analyses by HPLC (analyses are performed between 300 and 350 nm wavelength. Identification of furanocoumarin is done by comparison with standard molecules)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

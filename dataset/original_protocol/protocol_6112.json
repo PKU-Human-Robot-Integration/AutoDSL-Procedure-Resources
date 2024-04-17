@@ -1,0 +1,16 @@
+{
+  "id": 6466,
+  "origin_website": "Bio",
+  "title": "Isolation of Human PBMCs",
+  "procedures": [
+    "Collect 4 ml of human venous blood sample in heparinised vials (BD biosciences) and mix well by gently inverting the tube several times.Take 4 ml of Ficoll Histopaque in a 15 ml centrifuge tube.Gently layer the blood on the top of Ficoll Histopaque using a 1 ml auto pipette. The layering should be done very slowly that blood and Ficoll Histopaque should stay as two different layers.Centrifuge the tubes (without any delay) for 30 min at 100 x g in 4 °C in a swing-out bucket. Fixed angle rotors also can be used but would require more caution when separating cells in interphase.Aspirate the whitish buffy coat (about 1 ml) (PBMCs) formed in the interphase between histopaque and medium.The cells in interphase need to be aspirated without delay. If the tubes are kept standing for more than 10 min, PBMCs from the interphase will get disturbed and start settling down.Wash (centrifuge in 100 x g for 10 min) twice with 10 ml of sterile PBS or sterile Dulbecco's modified eagle medium. The approximate yield of cells from 4 ml of blood varies between 107-108."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

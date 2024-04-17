@@ -1,0 +1,16 @@
+{
+  "id": 6176,
+  "origin_website": "Bio",
+  "title": "GPCRs Interaction Measurement by Fluorescence Resonance Energy Transfer (FRET)",
+  "procedures": [
+    "Plate cells at 100,000 cells/ml onto round coverslips previously coated with poly-l-lysine.   Transfect the cells with 1 μg of each plasmid using Lipofectamine 2000, 48 h after plating. The following transfections are needed:   GPCR1-CFP + GPCR2-YFP   CFP-YFP (Positive control)   CFP (Donor)   YFP (Acceptor)   CFP + YFP (Negative control)     24 h after transfection, eliminate the culture medium and fix the cells for 5 min in 4% paraformaldehyde.   Rinsed twice in PBS.   Mount onto a slide using Fluoromount to reduce photobleaching.   Acquire images of cells transfected with each pair of receptors of interest and controls with an inverted Nikon Eclipse TE2000 E scope equipped with a 400 DCLP dichroic filter and recorded with an ORCA II BT digital camera, both controlled with MetaMorph software (Imaging Corporation). Specifically, acquire three sequential images at 1 sec of exposure with the suitable filters sets for the Donor (E-CFP; excitation at 440 and emission at 510 nm), Acceptor (E-YFP/F46L; excitation at 495 and emission at 540 nm) and raw FRET (excitation at 440 and emission at 540 nm) and under a 60x oil immersion objective.   Quantify the signal intensity of each cell using the Image J software in order to calculate the net FRET by using the three filters method with the methodology developed previously (Farhan et al., 2004).",
+    "Specifically, Raw FRET images are corrected with the fully specified bleedthrough method, using the following equation: FRET = Raw FRET - [Acceptor - (DA * Donor)] * [AF] - [Donor - (AD* Acceptor)] * [DF], where DA is the proportion in which the donor signal contributes to the acceptor, AD is the proportion in which the acceptor signal contributes to the donor, AF is the proportion in which the acceptor contributes to the raw FRET signal, and DF is the proportion in which the donor contributes to the raw FRET signal. These coefficients were calculated from cells expressing Donor (E-CFP) or Acceptor (E-YFP) alone. Specifically, DA is the proportion of Acceptor signal to Donor signal in cells expressing Donor (E-CFP) alone; AD is the proportion of Donor signal to Acceptor signal in cells expressing Acceptor (E-YFP) alone; DF is the proportion of raw FRET to Donor signal in cells expressing Donor (E-CFP) alone; AF is the proportion of raw FRET to Acceptor signal in cells expressing Acceptor (E-YFP) alone.   FRET efficiency is calculated in relation to the positive control consisting in a vector with E-CFP and E-YFP coupled in frame (CFP-YFP), which provided the upper FRET efficiency limit.   For image analysis and coefficient calculation, background is always subtracted in each picture. A 1:1 E-YFP/E-CFP ratio and equal E-YFP and E-CFP intensities between all samples need to be used for FRET measurements."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

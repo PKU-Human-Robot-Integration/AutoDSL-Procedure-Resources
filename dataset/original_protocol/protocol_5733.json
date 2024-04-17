@@ -1,0 +1,17 @@
+{
+  "id": 6078,
+  "origin_website": "Bio",
+  "title": "Purification of Total RNA from DSS-treated Murine Tissue via Lithium Chloride Precipitation",
+  "procedures": [
+    "RNAs are in solution in RNase-free water after previous isolation with any method (Trizol, Spin column-based nucleic acid purification). Add 0.1 volume of 8 M LiCl solution to 1 volume of RNA solution (i.e., 5 μl of 8 M LiCl for 50 μl RNA solution).Mix well by pipetting up and down and incubate on ice for 2 h.After the incubation, centrifuge at 14,000 x g for 30 min, at 4 °C.Discard the supernatant and dissolve the pellet (that might be almost invisible depending on the initial quantity of RNA) in 200 μl RNase-free water.Repeat steps from 1 to 5. Briefly, perform a second precipitation with 0.1 volume of LiCl (20 μl), mix by pipetting and incubate the solution for 2 h on ice, centrifuge and dissolve the pellet in 200 μl of water. Add 0.1 volume (i.e., 20 μl) of 3 M sodium acetate (pH = 5.2) and 2.0 volumes (i.e., 400 μl) of -20 °C prechilled 100% ethanol to 1 volume of RNA solution. Incubate at -20 °C for 30 min. Centrifuge at 14,000 x g for 30 min at 4 °C.Discard the supernatant and wash the pellet with 100 μl of -20 °C prechilled 70% ethanol. Centrifuge at 14,000 x g for 10 min at 4 °C.Remove the supernatant carefully with a pipet without disturbing the pellet which might be invisible at this step. Note: The supernatant should be removed carefully. The expected location of the pellet (which is determined by the position of the tube in the centrifuge) must be considered for pipetting up the supernatant. Let the pellet air dry at room temperature for 5-10 min.Dissolve the pellet in RNase free water in a volume smaller or equal to the initial volume of RNA solution in Step 1.",
+    "Determine RNA yield by measuring the absorbance peak at 260 nm with a multi-mode microplate reader. The absorbance ratio at 260/280 nm is also determined to evaluate the purity of RNA with an acceptable ratio from 2 to 2.2. RNAs from DSS-treated tissues can now be used for cDNA synthesis and qPCR according to standard protocols."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

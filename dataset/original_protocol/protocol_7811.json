@@ -1,0 +1,17 @@
+{
+  "id": 8219,
+  "origin_website": "Bio",
+  "title": "Flow Cytometric Analysis of Calcium Influx Assay in T cells",
+  "procedures": [
+    "Preparation (For 4 samples)   Preparation of Jurkat T cells:   Count cells growing exponentially (1 x 106 per assay).   Wash cells once with pre-warmed complete RPMI media at 200 x g for 5 min.   Place 1 x 106 cells/250 μl of fresh complete RPMI media into a 5 ml FACS tube.     Preparation of 1x enhancing solution (from Calcium Assay Kit) (2 ml for 4 assays):   Mix 200 μl of 10x enhancing solution with 1.8 ml of assay buffer.   Keep it at room temperature.     Preparation of indicator (from Calcium Assay Kit):   Equilibrate a vial of indicator (stored at -20 °C) at room temperature for 5 min.    Add 100 μl of 100% DMSO.    Mix well by pipetting up and down multiple times.   Store at RT for 10 min to stabilize completely.   Store unused indicator in a small aliquot at -20 °C until use.      Preparation of 1x loading dye: Mix 2 ml of 1x enhancing solution with 2 μl of indicator prepared above.    Loading dye to cells: Add 250 μl of 1x loading dye (prepared in step 4) into each tube containing cells.    Incubate tube for 1 h in 37 °C CO2 Incubator.   Cool down tube at RT for 20 min before analysis      FACS analysis   Open the FACS DIVA software.    Draw a dot plot (Time is on the X-axis, and FITC is on the Y-axis).   Place a tube to the FACS machine.   Click “Record Data” for 1 min to obtain the basal level of signal.   Click “Stop Acquiring” and remove the tube from the FACS machine.   Immediately add 1 μl of stimulator [a mixture of PMA (50 ng/ml) and ionomycin (1 μg/ml)].    Vortex briefly and place the tube back to the FACS machine.   Click “Record Data” for additional 3 min.",
+    "Click “Append” to attach acquired signal to the 1 min basal level of signal acquired in step 4.   Click “Stop Acquiring” to finish the assay.    Analyze each data with FlowJo software by choosing kinetic mode.    Overlay sample data on the control data to display the difference of signal between the control and sample on one Figure as shown in Figure 1.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130915/20130915184945_8343.jpg Figure 1. Intracellular Ca2+ influx in IKKγ/NEMO-deficient Jurkat T cells stably complemented with Ha-tagged IKKγ/NEMO WT or mutants (S377E, S377A, Y374D, Y374F). Cells were loaded with Ca2+ indicator for 1 h at 37 °C. Intracellular Ca2+ influx upon PMA and ionomycin (P + I) treatment was monitored for 5 min by flow cytometry analysis. Vec stands for vector control."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

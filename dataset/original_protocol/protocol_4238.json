@@ -1,0 +1,17 @@
+{
+  "id": 4447,
+  "origin_website": "Bio",
+  "title": "INF-gamma Release ELISpot Assay",
+  "procedures": [
+    "Day 1: Preparation of ELISpot plate (sterile conditions)    Dilute the coating antibody (AN18) to 2-15 μg/ml in sterile PBS, pH 7.4 (16 μl antibody in 8 ml PBS, 1:500).   Remove the ELISpot plate from the package and add 75 μl/well of the antibody solution and incubate overnight at 4-8 °C.     Day 2: Incubation of cells in plate (sterile conditions)    Remove excess antibody and wash plate 5 times with sterile wash buffer (PBS-T), 250 μl/well.    Add 250 μl/well of medium containing 10% of the same serum as used for the cell suspensions (usually FBS). Incubate for at least 2 h at room temperature (RT).    Remove the medium and add the cells suspension including possible stimulatory agents. Typical groups include cells with no stimulant, cells with antigens (protein or peptides) and cells with PMA (10 ng/ml) and Ionomycin (500 ng/ml) (positive control).    The number of cells in each well depends on the frequency of the IFN-γ releasing cells in your sample, usually from 2 x 104 to 2.5 x 105. If target cells are used such as T2 pulsed with peptide or tumor cells, the T cells/target cells ratio needs to be determined to achieve the optimal detection.   Put the plate in a 37 °C humidified incubator with 5% CO2 and incubate for 12-48 h. Do not move the plate during this time and take measures to avoid evaporation.     Day 3: Incubation of cells in plate (sterile conditions)    Remove the cells by emptying the plate and add 250 μl/well H2O and keep it on ice for 10 min.   Wash the plate 5 times with wash buffer, 250 μl/ well.   Dilute the detection antibody (R4-6A2-biotin) to 0.5-1 μg/ml (4 μl antibody in 8 ml PBS, 1:2000) in PBS containing 0.5% FBS. Add 75 μl/ well and incubate for 2 h at 37 °C.",
+    "Wash plate 5 times with wash buffer, 250 μl/ well.   Dilute the Streptavidin-ALP (1:1,000) in PBS-0.5% FBS and add 100 μl/well. Incubate for 1 h at RT.   Wash plate 5 times with wash buffer, 250 μl/ well.   Prepare the substrate solution by dissolving one BCIP/NBT tablet in 10 ml ddH2O and add 100 μl/ well.   Develop the plate in the dark until distinct spots emerge.   Stop color development by washing extensively in tap water. If desirable, remove the plate from the tray or the inderdrain and rinse the underside of the membrane.   Leave the plate to dry. Inspect and count spots in an ELISpot reader or in a dissection microscope (not recommended).   Store plate in the dark at RT."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

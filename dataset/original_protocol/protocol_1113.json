@@ -1,0 +1,16 @@
+{
+  "id": 1187,
+  "origin_website": "Nature",
+  "title": "<p>Isolation of small extracellular vesicles from cell culture supernatant</p>",
+  "procedures": [
+    "<p><strong>Step 1: </strong>Seed the 5 x 10<sup>6 </sup>MDA-MB-231 cells per 150-mm plate in 20mL DMEM with 10% FBS, 1% AA (2 plate per group).</p><p><strong>Step 2</strong>: After 24h, wash using PBS and then change the media (FBS free, AA free) with vehicle or 100µM SFX (Final DMSO concentration: 0.1%).</p><p><strong>Step 3:</strong> After 24h, collect the cell culture supernatant (40mL).</p><p><strong>Step 4: </strong>Centrifuge at 300 x g, 4°C, 3min and transfer the supernatants to new tube (39mL).</p><p><strong>Step 5: </strong>Centrifuge at 2,500 x g, 4°C, 20min and transfer the supernatants to new tube (38mL).</p><p><strong>Step 6: </strong>Centrifuge at 10,000 x g, 4°C, 30min and transfer the supernatants to new tube (37mL).</p><p><strong>Step 7: </strong>Filter the supernatants using 0.22 µm syringe filters and transfer the supernatants to Ultra-Clear tube (#344058, Beckman Open-Top Tube).</p><p><strong>Step 8: </strong>Ultracentrifuge at 120,000 x g, 4°C, 90min.</p><p><strong>Step 9:</strong> Resuspend sEV pellets with 30mL PBS and centrifuged at 120,000 x g, 4°C, 90min again.</p><p><strong>Step 10: </strong>Remove the supernatants and add the 1ml PBS.</p><p><strong>Step 11: </strong>After<strong> s</strong>eal tube with parafilm, store<strong> </strong>at 4°C, 1h and resuspend the pellet.</p><p><strong>Step 12: </strong>Transfer the samples to e-tube and analyze using nanosight (Samples were analyzed at camera level of 9 and detection threshold of 4.).</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

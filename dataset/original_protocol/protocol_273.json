@@ -1,0 +1,15 @@
+{
+  "id": 289,
+  "origin_website": "Nature",
+  "title": "Spectral pattern of urinary water as a biomarker of estrous",
+  "procedures": [
+    "•Urine sampling\nUrine sample is centrifuged for four minutes at 650×g immediately after collection, and the supernatant is stored at −40ºC until estrogen assay and spectral analysis. \n•Near infrared spectroscopy\n1) Spectral acquisition\nNIR transmittance spectra of urine samples are measured using a full-range spectrometer fitted with a quartz cuvette having a 1-mm optical path length. Each sample is maintained under constant temperature \\(37ºC) in a water bath. Transmittance spectra are acquired in the range of 680-2500 nm with 2-nm step intervals. The NIR instrument records 10 consecutive spectra of each urine samples.\n2) Identification of the wavelengths related to estrous, WAMACs\nDaily-averaged spectra in the first overtone region of water \\(1300-1600 nm) are further analyzed. To identify the wavelength range related to estrous, the difference spectrum is obtained for each year by subtracting the average spectrum of all days except for the previous, the next day and the day of the estrogen peak \\(estrous state) from the average spectrum of these three days of estrous state. Data are initially pre-treated using Savitzky-Golay second derivative polynomial ﬁlter \\(window size=9) with smoothing. After that, second derivative plot of all-year samples is used to identify the water absorbance bands which showed strong response to changes in estrous state. By reference to the 12 characteristic water wavelength ranges reported by Tsenkova<sup>4</sup>, 12 characteristic wavelength ranges showing strong absorbance related to estrous are found. The 12 bands specific for the estrous are selected as the WAMACs.\n3) Data Analysis\nFirstly, all spectra of daily-averaged urine are transformed by multiplicative scatter correction<sup>10</sup> and normalized by auto-scaling. After that, the normalized values at the only WAMACs are applied to the following data analysis.",
+    "In Hierarchical cluster analysis \\(HCA), distances between pairs of samples are calculated and compared. Relatively small distances imply that the samples are similar, while dissimilar samples are separated by relatively large distances. The dendrogram classification is employed using Euclidean distance and complete-link clustering algorithm.\nAquagram<sup>11</sup> is the star chart which displays above-described normalized values at WAMACs on the axes originating from the center of the graph. The relationship between estrous state and the absorbance change at WAMACs, i.e. WASP, is estimated by comparing aquagrams for the days of high and low estrogen values."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

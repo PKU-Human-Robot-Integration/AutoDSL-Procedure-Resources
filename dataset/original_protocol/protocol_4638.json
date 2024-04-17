@@ -1,0 +1,15 @@
+{
+  "id": 4915,
+  "origin_website": "Bio",
+  "title": "Analysis of Murine Lung Tumors by Micro PET-CT Imaging",
+  "procedures": [
+    "Prepare micePrepare mice prior to the multimodality exploration as described for the micro-PET exploration in the corresponding protocol, steps 1 to 6. Note: Multimodality exploration requires extreme attention to the care of mice as well as constant monitoring of the temperature, since the study times are longer than in CT or PET alone. Acquire micro-CT imagePerform the acquisition of the micro-CT image during the [18F]FDG uptake period (lasting 45 min). See micro-PET protocol, step 8, and micro-CT protocol.Acquire PET imagePerform micro-PET image acquisition following the same procedure as described in the corresponding protocol, steps 7 to 13.Reconstruct imagesReconstruct both images separately and use the MMWKS software to obtain the co-register (Figures 6-7).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151220/20151220232404_8235.jpgFigure 7. PET-CT imaging of a lung tumor. Representative axial projection of FDG-PET scans showing tumor FDG-PET signal (indicated by an arrow). H: heart, B: Bone marrow. Tumor is indicated with a yellow arrow.Quantify imagesOnce lung tumors have been identified, quantify the micro-CT image and the micro-PET image separately, as described in the protocols above.Rendering of volumesGenerate 3-D renderings of the data to obtain information on lung tumor location and volume in a more graphical way (Figure 8).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151220/20151220232425_2439.jpgFigure 8. Example of a longitudinal study of lung cancer. 3-D lung renderings of PET-CT studies at the indicated time-points of two individual mice carrying genetically induced lung tumors (in red), either treated with vehicle (upper panel) or with a therapeutic compound (lower panel)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

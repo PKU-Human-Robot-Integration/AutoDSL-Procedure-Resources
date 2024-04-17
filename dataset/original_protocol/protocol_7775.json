@@ -1,0 +1,14 @@
+{
+  "id": 8180,
+  "origin_website": "Bio",
+  "title": "PTEN-lipid Binding Assay",
+  "procedures": [
+    "Reconstitute the lyophilized lipids in a 2:1:0.8 solution of chloroform: methanol: water to make the required stock (all lipids were constituted to make stock of 1 mM).   Dilute the lipids to get the required working concentration (the working concentration used was 1 nM).   Spot 1 nM of the lipid dilution onto the Hybond C-extra nitrocellulose membrane (each spot is separated by ~1 cm).   Allow to dry at room temperature (RT) for 1 h.   Incubate the membrane with gentle rocking in blocking buffer for 1 h at RT.   Incubate the membrane overnight at 4 °C with gentle rocking in the fresh blocking buffer containing 20-100 nM of the GST-fusion protein (or other epitope tagged protein).   Wash the membrane 10 times over 50 min in TBST (use adequate volume of TBST which will cover the membrane ~10 ml).   Incubate the membrane for 1 h at RT with 1:1,000 dilution of the anti-GST monoclonal antibody in blocking buffer.   Wash the membrane 10 times over 50 min in TBST.   Incubate the membrane for 1 h with a 1:10,000 dilution of the HRP-conjugated antimouse secondary antibody in blocking buffer at RT.   Wash the membrane 12 times over 60 min in TBST.   Detect the lipid binding protein bound to the membrane by ECL according to manufacturer’s instructions (see Figure 2).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130814/20130814191702_9936.jpg Figure 2. A blot representing the effect of PNUTS on the lipid binding property of PTEN.  Nitrocellulose membranes spotted with phophatidylserine (PS) or phosphatidylethanolamine (PE) or phosphatidylcholine (PC) or PS: PE: PC mix (1:1:1) in triplicate was incubated with indicated recombinant proteins. Bound PTEN was detected with anti-GST antibody (adapted from Kavela et al., 2013)"
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

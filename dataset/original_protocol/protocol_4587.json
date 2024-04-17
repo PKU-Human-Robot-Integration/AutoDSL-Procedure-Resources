@@ -1,0 +1,14 @@
+{
+  "id": 4840,
+  "origin_website": "Bio",
+  "title": "Intravenous Tomato Lectin Injection to Assess Functional Vasculature",
+  "procedures": [
+    "Dissolve Tomato-Lectin in PBS at a final concentration of 2 mg/ml.Clean the proximal portion of a transplanted NSG mouse tail with isopropyl alcohol.Draw up 200 μl of the Tomato-lectin solution into a 1 ml syringe equipped with a 30 gauge injection needle.Using proper restraint, hold the tail of the mouse so that the lateral tail vein is visible and then inject the vein with 200 μl of Tomato-lectin solution. Place the mouse into a clean, warm area for recovery. The method for proper tail vein injection is described elsewhere (Machholz et al., 2012).15 to 30 min after injection, sacrifice the mice using CO2 exposure and confirm the euthanasia by cervical dislocation. All animal euthanasia must be performed in accordance with the IACUC guidelines and an approved animal protocol within the institution.Collect the appropriate tissues for histology at this time (transplanted tissue plus intestines for comparison) and place the tissues in ice-cold PBS. Fix collected tissue in 4% PFA at 4 °C overnight.Rinse fixed tissues five times in PBS and then process in optical clearing solution according to the following protocol (Ke et al., 2013).Image cleared tissues under a confocal microscope to visualize the Tomato-lectin (Excitation 494 nm; Emission 521 nm) which reflects the functional vasculature (Figure 1)."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

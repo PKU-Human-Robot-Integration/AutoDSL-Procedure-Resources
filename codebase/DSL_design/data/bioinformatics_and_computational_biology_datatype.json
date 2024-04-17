@@ -1,0 +1,24 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Time": "time",
+        "String": "string",
+        "Bool": "boolean",
+        "Volume": "Volume",
+        "Concentration": "Concentration",
+        "Length": "Length",
+        "Temperature": "Temperature"
+    },
+    "example": [
+        "Remove the [MPSC]{REG} from the [splenic vein]{REG} and the [IVC graft]{REG} on the [IHIVC]{REG}",
+        "Transfer the [solution]{REG} with {pasteur pipette}[Device] into the [vials]{Container}",
+        "Centrifuge for [70 min]{Time}",
+        "See PDF file [\"Explant Protocol Procedure\"]{String}",
+        "The opposite is [true]{Bool}",
+        "The experiment requires adding [50mL of distilled water]{Volume} to the mixture of [200mM glucose solution]{Concentration} and [20mL of citric acid]{Volume}.",
+        "Measure the [absorbance at 450nm]{Length} of the sample and calculate the [concentration of the protein]{Concentration}.",
+        "Maintain the reaction temperature between [37\u00b0C and 40\u00b0C]{Temperature} throughout the incubation period."
+    ]
+}

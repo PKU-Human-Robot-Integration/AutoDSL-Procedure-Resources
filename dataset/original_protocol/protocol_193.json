@@ -1,0 +1,16 @@
+{
+  "id": 198,
+  "origin_website": "Nature",
+  "title": "Template-Directed meta-Selective Olefination of Aryl C–H Bonds",
+  "procedures": [
+    "**Toluene derivatives**\n1) On the same piece of weighing paper, weigh all the solids. Weigh the substrate \\(0.10 mmol) first, followed by Pd\\(OPiv)2 \\(3.0 mg, 0.010 mmol, 0.10 equiv.) and AgOPiv \\(62.7 mg, 0.30 mmol, 3.0 equiv.). The solids were carefully transferred into the bottom of a 15 mL pressure vessel equipped with a Teflon-coated magnetic stirrer bar.\n2) Add ethyl acrylate \\(16.5 µL, 0.15 mmol, 1.5 equiv.) to the solid mixture.\n3) Wash down the solids on the sides of wall with 1,2-dichloroethane \\(1.0 mL).\n4) Cap the tube and submerge it into a pre-heated 90 °C \\(controlled by a digital temperature probe) oil bath.\n5) Cover the tube and oil bath with aluminum foil and leave the reaction stirring for a total of 42–48 hours.\n6) Lift vessel out of the oil bath and submerge it into ice bath for 10 minutes.\n7) Filter the reaction mixture through a short pad of Celite® into a scintillation vial and wash the tube and Celite® pad three times with 2 mL of diethyl ether. Evaporate the solvent to dryness using a rotary evaporator.\n8) Purify the desired product by preparative silica gel thin-layer chromatography eluting with hexane:ethyl acetate to yield the desired olefinated product.\n**Hydrocinnamic acid derivatives**\n1) On the same piece of weighing paper, weigh all the solids sequentially as followed: Pd\\(OAc)2 \\(2.3 mg, 0.010 mmol, 10 mol%), Ac-Gly-OH \\(2.4 mg, 0.020 mmol, 20 mol%), AgOAc \\(50 mg, 0.30 mmol, 3.0 equiv.) and the substrate \\(0.10 mmol). The solids were carefully transferred into the bottom of a 35 mL pressure vessel pre-equipped with a Teflon-coated magnetic stirrer bar.",
+    "2) HFIP \\(1,1,1,3,3,3-Hexafluoro-2-propanol)  \\(0.60 mL) was added to the mixture to wash down the solids on the sides of wall, followed by ethyl acrylate \\(22 µL, 2.0 equiv.) and then another 0.60 mL of HFIP.\n3) Cap the tube tightly and submerge it into a pre-heated 90 °C \\(controlled by a digital temperature probe) oil bath.\n4) Leave the reaction stirring for 24 hours.\n5) Lift vessel out of the oil bath and filtrate the reaction mixture through a short pad of Celite® into a 50 ml round bottom flask after it cools down.\n6) Evaporate the solvent to dryness using a rotary evaporator.\n7) Isolate the desired product by preparative silica gel thin-layer chromatography eluting with hexane:ethyl acetate to yield the desired olefinated product."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Synthetic Chemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

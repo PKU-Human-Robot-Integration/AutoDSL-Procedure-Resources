@@ -1,0 +1,17 @@
+{
+  "id": 7101,
+  "origin_website": "Bio",
+  "title": "Preparation of Synaptoneurosomes to Study the Synapse in the Murine Cerebral Cortex",
+  "procedures": [
+    "SN from brain tissue (work on ice all the time)Induce anesthesia in the mouse using the isoflurane.Perfuse the mouse intracardially with cold PBS 1x.Open the skull, remove the meninges, and dissect the brain cortex (or the anatomical area of interest) in a 60 mm cell culture dish. 40-100 mg of brain tissue is enough for one experiment.Save the other hemisphere (see Step A8).Chop the tissue using small scissors in 1 ml of HB.Homogenize tissue (homogenate 1, H1) in 4 ml of HB using a Potter-Elvehjem glass/teflon homogenizer.Stroke 8 times at 800 rpm on ice.Homogenize the other hemisphere with 1 ml of RIPA buffer containing protease and phosphatase inhibitors, centrifuge at 18,000 x g at 4 °C, and recover supernatant with a pipette and store at -80 °C. This will be used to prepare whole brain extract (WBE) which will constitute an internal control for SNs enrichment (see Data analysis).CentrifugationCentrifuge homogenate H1 at 2,000 x g for 5 min at 4 °C in a swinging-bucket clinical centrifuge.Transfer the supernatant (S1) to a 10 ml, Open-Top Thickwall Polycarbonate tube, 16 x 76 mm, discard pellet (P1), and centrifuge the S1 in an MLA-55 fixed angle rotor at 30,000 x g for 10 min at 4 °C to obtain pellet 2 (P2; this pellet does not disrupt easily because is dense and thick), discard the supernatant 2 (S2) with a pipette (work on ice).Resuspend P2 in 400 µl of HB (homogenate 2; H2) by pipetting several times (work on ice).Discontinuous Ficoll gradientLayer the H2 on top of a 5-10.3% discontinuous Ficoll gradient (Recipe 4) and centrifuge at 45,000 x g for 20 min at 4 °C in a TLS-55 rotor using a Beckman Optima Max-XP tabletop ultracentrifuge.Collect 400 μl of the white layer in the 5-10.3% Ficoll interface that contains SNs.",
+    "(Figure 1; this fraction may also be used for other procedures or analyses, such as isolation of presynaptic terminals, synaptic vesicles and postsynaptic terminals, as well flow cytometry, omics, and electron microscopy).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e3896/bioprotoc-11-02-3896-g001.jpgFigure 1. 2.2 ml, Open-Top Thinwall Ultra-Clear tube at the end of Step C1. Note the white 5%/10.3% interface band containing SNs that will be collected in step C2. The pellet contains mainly mitochondria and cell debris.Complete volume with 1,400 μl of HB.Centrifuge the SNs layer at 30,000 x g for 10 min at 4 °C in a TLS-55 rotor using a Beckman Optima Max-XP tabletop ultracentrifuge. Then, using a 200 μl tip pipette connected to the vacuum remove the supernatant (the SNs pellet does not disrupt easily because is dense and thick).Resuspend the SNs pellet using 150 μl of RIPA buffer containing protease and phosphatase inhibitors store at -80 °C."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

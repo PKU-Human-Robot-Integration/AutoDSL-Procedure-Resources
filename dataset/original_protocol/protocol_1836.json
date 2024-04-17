@@ -1,0 +1,22 @@
+{
+  "id": 1947,
+  "origin_website": "Cell",
+  "title": "Generation of human induced pluripotent stem cell-derived cerebral organoids for cellular and molecular characterization",
+  "procedures": [
+    "Step-by-Step Method Details\nStep-by-Step Method Details\nThis section lists the major steps and provides step-by-step details and timing for each major step. Please use continuous number for this section.\nYour Major Step One\nTiming: [s, min, h, days, or weeks]\n[Include a brief description about what this major step accomplishes; this will help other researchers repeat and troubleshoot the protocol.]\n[First step of major step one. Use numbers to order steps.]\n[Sub-steps under first step. Use letters for ordering of sub-steps. Align the sub-steps slightly to the right to be better differentiated from steps.]\n[Sub-step two, as needed.]\n[Third-level sub-steps under second-level sub-steps. Use Roman numerals for ordering. Align the third-level sub-steps slightly to the right to be better differentiated from second-level sub-steps.]\n[Third-level sub-step two, where needed.]\n[Second step of major step one]\nCritical: [Particularly important instructions or factors should be called out in this format. Please provide figures or videos for guiding critical steps. Click here[href=https://www.cell.com/pb-assets/journals/EM/STAR%20Protocols/STARProtocolsExampleFigures.pdf] to see examples of useful figures.]\n[Your Major Step Two]\nTiming: [s, min, h, days, or weeks]\n[Include a brief description about what this major step accomplishes. This will help other researchers repeat and troubleshoot the protocol.]\n[First step of major step two. Use numbers to order steps.]\n[Sub-steps under first step. Use letters for ordering of sub-steps. Align the sub-steps slightly to the right to be better differentiated from steps.]\n[Sub-step two, as needed.]\n[Second step of major step two] Troubleshooting 1\nOptional: [Call out optional steps in this format; optional steps are not numbered.]\nNote: [Please include general notes or explanations that would be helpful in this format.]\nPause Point: [If relevant, list potential pause points with time intervals in this format.]\nUse this format[href=https://www.cell.com/pb-assets/journals/EM/STAR%20Protocols/STARProtocolsExampleTable.pdf] to present PCR reactions (if relevant)."
+  ],
+  "subjectAreas": [
+    "Stem Cells",
+    "Health Sciences",
+    "Cell Culture",
+    "Cell Biology",
+    "Neuroscience",
+    "Developmental Biology",
+    "Organoids"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

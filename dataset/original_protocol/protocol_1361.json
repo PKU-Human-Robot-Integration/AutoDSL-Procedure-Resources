@@ -1,0 +1,15 @@
+{
+  "id": 1457,
+  "origin_website": "Nature",
+  "title": "<p>Genome wide quantification of A-to-I RNA editing activity</p>",
+  "procedures": [
+    "<p><strong>Step A – Alignment</strong></p><p>First, remove duplicates and align the reads to the reference genome using your aligner of choice. Retain uniquely mapped reads only. Sorting and indexing your BAM files can save run-time later, but is not necessary.</p><p><strong>Step B – Running RNAEditingIndexer</strong></p><p>The BAM files and the corresponding reference genome are to be used as the input to the RNAEditingIndexer. We recommend using either a virtual environment such as conda or to use the provided Docker image). </p><p>For human, the RNAEditingIndexer averages (by default) on Alu repeats. For mouse, the default regions are B1 and B2 repeats. If your genome doesn’t have built-in support you will need to prepare the needed regions, annotations and SNPs files as described in the documentation.</p><p>This step uses all the programs described in the documentation (BamUtils, SAMtools, and BEDTools). It is recommended to check both the logs and the output to the screen for errors as some errors will not abort the execution</p>"
+  ],
+  "subjectAreas": [
+    "Genetics",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

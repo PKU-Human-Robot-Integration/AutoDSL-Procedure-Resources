@@ -1,0 +1,15 @@
+{
+  "id": 1447,
+  "origin_website": "Nature",
+  "title": "<p>The Drug Rediscovery Protocol (DRUP trial): A Dutch National Study on behalf of the Center for Personalized Cancer Treatment (CPCT) to Facilitate Patient Access to Commercially Available, Targeted Anti-cancer Drugs to determine the Potential Efficacy in Treatment of Advanced Cancers with a Known Molecular Profile</p>",
+  "procedures": [
+    "<p>Eligibility patients:</p><p>Eligible patients have an advanced or metastatic solid tumor, multiple myeloma or B cell non-Hodgkin lymphoma, and have exhausted standard treatment options. A tumor genetic or protein expression test (CPCT or regular diagnostics) must have revealed a potentially actionable variant, for which FDA and / or EMA approved targeted therapy is available, but not for the tumor type in question. In addition, patients are required to be ≥18 years of age, with acceptable organ function and performance status (ECOG ≤2), and to have objectively evaluable disease of which a fresh baseline tumor biopsy can safely be obtained. For every study drug, further drug-specific selection criteria are applied.</p><p>Case submission:</p><p>Upon case submission, the study team attempted to match each patient to the most appropriate study treatment (Extended Data Figure 1), according to pre-defined matching rules . If multiple variant-drug matches could be made for one patient, the drug with the highest level of evidence was selected, unless there’s rationale (such as drug-intolerance) to justify selecting an agent with a lower level of evidence. Levels of evidence were adapted from Meric-Berstam et al.</p><p>Study treatment</p><p>If a matching study treatment slot is available, to which the patient consents, the patient can be enrolled provided that all drug-specific selection criteria were met. Afterwards a fresh baseline tumor biopsy for biomarker analyses is obtained and study treatment can be initiated.</p><p>Follow up:</p><p>Study treatment could continue until progressive disease (patients receiving immune system stimulating agents were permitted to continue treatment in case of pseudo-progression), unacceptable treatment-related toxicity, death, pregnancy, consent withdrawal or withdrawal from the study at the discretion of the investigator.</p><p>- Safety: all treatment-related CTCAE 4.03 grade ≥3 adverse events are documented.",
+    "</p><p>- Response assessments: response is evaluated every two   months (up to every three months for patients who remained on-study for ≥6 months), and classified by local investigators according to the internationally accepted criteria for each tumor type.</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

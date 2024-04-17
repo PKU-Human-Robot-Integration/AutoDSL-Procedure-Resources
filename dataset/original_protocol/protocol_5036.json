@@ -1,0 +1,17 @@
+{
+  "id": 5356,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Protein Kinase Assay Using Yeast Sch9",
+  "procedures": [
+    "Inoculate W303a wild type or W303a cells containing vector, pRS315-SCH9-HA3 and its kinase dead form (K441A) and hyperactive form (2D3E) overnight in 10 ml SC-His- medium. Shaking vigorously (300 rpm) at 30 °C.   Subculture yeast cells in 2 flasks containing 100 ml YPD each with starting OD600=0.2.    Shake vigorously at 30 °C to OD600=0.5 (important to use YPD rather than SD medium).   Add to one flask 200 nM of rapamycin and another vehicle control. Shake vigorously at 30 °C for 30 min.   Spin down at room temperature (RT) at 3,000 x g to collect cells (It is important to avoid freezing).   Discard most of the supernatant, then suspend yeast cells in the remaining medium and split into 5x 1.5 ml Eppendorf tubes (20 ml cell culture/tube, more cells in one tube do not breakdown sufficiently).   Collect cell pellets, immediately add 200 µl ice-cold IP buffer and the same amount of glass beads.    Immediately breakdown cells by beads beater at 4 °C for 1 min. Note: Do not exceed 3 min, otherwise kinase activity will begin to decrease due to overheating. 15 sec x 5 beating with 45 sec in between also decreases Sch9 kinase activity.   Collect cell lysate by spinning down at 20,000 x g, 10 min at 4 °C. Combine lysate.    Immediately add 1 µg HA antibody (12CA5) to 1 mg/500 μl cell lysate, gently rotate at 4 °C for 1 h.    Wash protein A/G beads 3x with IP buffer. Add 50 μl (100 μl 50% slurry) to cell lysate and further rotate for another 1 h.   Spin down and collect beads. Wash 3x with 0.5 ml ice-cold IP buffer.    Add 0.5 ml 1x with ice-cold kinase buffer. Save 50 µl in another 1.5 ml Eppendorf tube for western blot with HA antibody.",
+    "Spin down and add to the immunocomplex 100 µM ATP, 0.5 µg bacterially-expressed GST-Maf1 in 50 µl kinase.   Add to the reaction system 50 µCi [γ-32P]-ATP. Vortex and incubate at 30 °C for 15-30 min.   Kinase reaction was stopped by heating at 100 °C for 5 min in 2.5x SDS loading dye.   Half of the sample should be subjected to SDS-PAGE. Substrate will be detected by Coomassie blue staining.   Dry the gel using gel dryer at 80 °C for 2 h. Phosphorylation of substrate is revealed by authoradiograph."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

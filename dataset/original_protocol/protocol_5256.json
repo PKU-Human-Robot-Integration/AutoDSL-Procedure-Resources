@@ -1,0 +1,16 @@
+{
+  "id": 5583,
+  "origin_website": "Bio",
+  "title": "Producing GST-Cbx7 Fusion Proteins from <em>Escherichia coli</em>",
+  "procedures": [
+    "Note: The experimental procedure was revised from the published protocol (Harper and Speicher, 2011). Expression of GST fusion proteinTransform competent BL21 cells with pGEX-6P-1-GST plasmids that encode the Cbx7 variants by incubating plasmid with cells on ice for 10 min, then heat shock at 42 °C for 45 sec. The mixture was put on ice for 2 min, LB medium was added, and the mixture was incubated for 1 h at 37 °C while shaking at 250-300 rpm. After that, the cells were spread onto agar plate containing ampicillin. Transfer a single, isolated colony of transformed BL21 cells to 100 ml LB medium with 100 µg/ml ampicillin and incubate the inoculated culture overnight at 37 °C while shaking at 250-300 rpm.Transfer 50 ml of the overnight culture into 950 ml of warm, fresh LB medium with 100 µg/ml ampicillin.Incubate the culture at 37 °C while shaking at 250-300 rpm until the OD600 is 0.5-0.7 (Note 1).Induce the protein expression by adding IPTG to a final concentration of 1.0 mM (stock concentration: 100 mM, the powder was dissolved in MilliQ water and the solution was filtered before used) and incubating at 37 °C while shaking at 250-300 rpm for 5 h.Harvest cells by centrifugation at 4,000 x g for 20 min at 4 °C.Carefully decant the supernatant, leaving about 15-50 ml in the centrifuge bottle.Resuspend the cells and transfer to a 50 ml conical tube and centrifuge at 4,000 x g for 20 min at 4 °C.Decant the supernatant (Note 2).Sonication (Note 3)Resuspend the cell pellet in 25 ml of lysis buffer.",
+    "Lyse cells by sonication at 4 °C using the standard probe with the following settings:15-sec on45-sec off45% input (45% amplitude)6 min: total time onPurificationTo the mixture after sonication, add Triton X-100 to a final concentration of 1% and mix gently for 30 min at 4 °C with the mixer to increase the solubility of the protein.Centrifuge the mixture at 10,000 x g for 10 min at 4 °C.Wash 0.75 ml of Glutathione Sepharose beads with 3 x 10 ml of cold PBS, centrifuge at 500 x g for 3 min at 4 °C.Transfer the supernatant by pipetting from step C2 to pre-washed beads in a conical tube and rotate at 4 °C for 1 h.Centrifuge at 500 x g for 3 min at 4 °C and remove the supernatant.Wash the beads with 4 x 10 ml of wash buffer.Pour the beads into a Bio-Rad Chromatography Column and wash with 2 x 10 ml of cold PBS.Elute the fusion protein by incubating at room temperature for 10 min with 1 ml elution buffer. Repeat this step to get a total of three elutions.Dialyze against PBS three times. Run SDS-PAGE gel to determine the purity and identity of the fusion protein (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170616/20170616004247_2746.jpgFigure 1. SDS-PAGE gel stained with Coomassie for determination of Cbx7 variant GST-fusion proteins"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

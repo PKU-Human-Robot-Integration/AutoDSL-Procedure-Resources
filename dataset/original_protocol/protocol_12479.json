@@ -1,0 +1,15 @@
+{
+  "id": 14455,
+  "origin_website": "Jove",
+  "title": "P50 Sensory Gating in Infants",
+  "procedures": [
+    "1. Institutional Review and Oversight\nAll work with human subjects requires Institutional Review Board approval and oversight. Methods reported here, when used in research, have been reviewed and approved by the Colorado Multiple Institutional Review Board (COMIRB).\n2. Preparation and Recording\nSchedule the baby for 90 min at the infant's regular nap time. Have clean electrodes, conductive EEG paste, and a dark quite room available. Feed, burp, and diaper the infant before beginning.\nWipe the head to minimize impedance. CZ has the largest amplitude P5011. Place an electrodes at CZ, on the forehead, above and below one eye, on the chin, and on the right mastoid.\nPresent 50 msec broad-spectrum stimuli (clicks) as pairs with a 500 msec interstimulus interval. Pairs of clicks should be presented 10 sec apart.\nRecord until there are 15 min of continuous active sleep (the infant equivalent of REM sleep). Allow the infant to complete their natural sleep period. This may take >90 min to achieve. Record baby's status (e.g. eyes open or closed, movement, etc.) during the entire sleep period.\n3. Data Analysis\nIdentify 15 min of continuous, active sleep. This period will have high frequency, low voltage brain waves, low muscle tone, large eye movements, and will be noted for having eyes closed.\nFilter data to remove 60 Hz interference and low frequency (<1 Hz drift)12.\nIdentify epochs by the presentation of the first sound in each pair. Average at least 60 epochs. The greater the number of epochs used, the greater signal to noise ratio possible.",
+    "Filter the averaged tracing using a bandpass filter between 10-50 Hz. This allows the component to be identified more easily. Using the filtered averaged tracing, measure P50 amplitude in response to the first and second stimulus independently. P50 waves are identified as the first wave between 40 and 100 msec after stimulus presentation; amplitude is measured from the preceding trough to the peak.\nDivide the amplitude of the P50 wave in response to the second sound by the amplitude of the P50 wave in response to the first sound to obtain a P50 sensory gating ratio."
+  ],
+  "subjectAreas": [
+    "Behavior"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology"
+  ]
+}

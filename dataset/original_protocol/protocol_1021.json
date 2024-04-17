@@ -1,0 +1,20 @@
+{
+  "id": 1091,
+  "origin_website": "Nature",
+  "title": "A computational protocol for sample selection in biological-derived infrared spectroscopy datasets using Morais-Lima-Martin \\(MLM) algorithm",
+  "procedures": [
+    "**Algorithm installation**\n\\(1) Download and extract the “MLM.zip” file to a folder of choice; \n\\(2) start MATLAB; \n\\(3) navigate within MATLAB to the folder where the “MLM.zip” file was extracted; \n\\(4) within MATLAB, right click on the folder “MLM” and select “Add to Path > Selected Folders and Subfolders”.\n**Selecting the dataset**\nTo execute the example dataset, go to the folder “MLM > DATASET” within MATLAB, and double-click on the file ‘DATASET.mat’. For running the algorithm with another dataset, navigate within MATLAB to the “work” folder \\(i.e., the folder containing the dataset of interest), and double-click on it.\n**Using MLM algorithm**\nMLM algorithm was built to divide the spectral cohort into training and test sets. The training set should contain 70% of the samples, and the test set 30% of the samples. For this, firstly it is necessary to calculate how many samples must be assigned to the training and test set. For example, in the example dataset depicted in Figure 2a, class 1 is divided into 98 samples for training \\(70%, 0.7  ** 140 = 98) and 42 samples for test \\(30%, 0.3 ** 140 = 42); and class 2 is divided into 70 samples for training \\(70%, 0.7  ** 100 = 70) and 30 samples for test \\(30%, 0.3 ** 100 = 30).\nAfter the number of training and test sample for each class is calculated, the algorithm should be applied by typing the commands depicted in Figure 2b in the MATLAB Command Window. In this figure, the following steps are performed:\n\\(1) Sample splitting for class 1, where 98 is the number of training samples and 42 is the number of test samples:\n\\[Train1,Test1,Group_Train1,Group_Test1] = mlm\\(X1,Y1,98,42);",
+    "\\(2) Sample splitting for class 2, where 70 is the number of training samples and 30 is the number of test samples:\n\\[Train2,Test2,Group_Train2,Group_Test2] = mlm\\(X2,Y2,70,30);\n\\(3) Building the Training set by combining the training samples of class 1 and 2:\nTrain=\\[Train1;Train2];\n\\(4) Building the Test set by combining the test samples of class 1 and 2:\nTest=\\[Test1;Test2];\n\\(5) Building the group category representing the training samples:\nGroup_Train=\\[Group_Train1;Group_Train2];\n\\(6) Building the group category representing the test samples:\nGroup_Test=\\[Group_Test1;Group_Test2];\nFor more than two classes, the procedure is the same, where the sample splitting is performed for each class separately. The random-mutation factor is set as 10% \\(default).\nCAUTION. The number of training and test samples for each class must be an integer value. In the case of 70% and 30% generate numbers with decimal places, they must be rounded to the closest integer value \\(e.g., 25.7 to 26; 14.2 to 14; 70.9 to 71; etc)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Mathematics And Computing"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

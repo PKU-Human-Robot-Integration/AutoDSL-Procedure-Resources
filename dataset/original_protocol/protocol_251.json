@@ -1,0 +1,18 @@
+{
+  "id": 265,
+  "origin_website": "Nature",
+  "title": "Linear Amplification Mediated PCR for the retrieval of lentiviral vector integration sites from tumors induced by insertional mutagenesis.",
+  "procedures": [
+    "Procedure\n1) Perfom DNA extraction and any following step of sample processing \\(diluition, quantification,…) in a dedicated hood for molecular biology in order to avoid any contamination.\n2) Before starting the LAM-PCR procedure, the DNA extracted from the tumor \\(or the control sample) has to be used for the determination of the vector copy number \\(VCN) per diploid genome in the sample of interest as described. Briefly, for LV–transduced samples, quantitative Taqman PCR was performed using control samples with known vector copy number \\(defined with a different approach, such as Southern Blotting) <sup>3</sup>\n3) Set up a 50-μl reaction linear PCR initiated from 5′-biotinylated vector-specific primer LTRIa and LTRIb as follows:\n10× Taq polymerase reaction buffer 5 μl \nTemplate DNA \\(0.01–10,000 ng) x μl\ndNTPs \\(200 μM each) 1 μl \nTaq polymerase \\(2.5 U/μl) 0.5 μl\nPrimer LTRIa \\(0.5 pmol/μl) 0.25 μl \nPrimer LTRIb \\(0.5 pmol/μl) 0.25 μl \ndH2O 43 – x μl\nTo favor the amplification of integrations occurring in the putatively oligoclonal tumor parenchyma over the ones occurring in the tumoral stroma and contaminating surrounding tissue, we used an ad hoc–designed LAM-PCR amplification protocol that uses limiting amounts of DNA to favor the amplification and retrieval of dominant insertions. The optimal amount of DNA for tumoral samples was defined empirically by using different quantities of DNA from tumors with a previously measured VCN. Since we expect the tumors to be mono or oligoclonal, we chose the minimal DNA quantity that resulted in the generation of few discrete bands, each representing a different LV insertion   <a href=\"http://www.nature.com/protocolexchange/system/uploads/2446/original/Figure_1.pdf?1359456696\" >\\(Fig.1)</a>.",
+    "According to these criteria, for tumor samples we used different amounts of DNA as template for LAM-PCR, according to the VCN that was detected in the sample by qPCR: 100 ng if VCN < 1; 50 ng if VCN ≥ 1 and ≤ 3; 10 ng if VCN > 3. For nontumoral samples, 100 ng of DNA was always used as template for LAM-PCR.\n4) Perform the linear amplification \\(assembled as described above) using the following PCR program. \n   Initial denaturation 95°C 5’\na) Denaturation 95°C 1’\nb) Annealing 60°C 45’’\nc) Elongation 72°C 1’30’’\nRepeat from a) to c) for 25 cycles\nFinal Elongation 72°C 10’\n5) Perform the Magnetic capture, Double-stranded DNA synthesis, Restriction Digest, Linker Ligation, Denaturation and Nested PCR as described in the canonical LAM-PCR protocol<sup>1</sup> using oligos for HIV-derived lentiviral vectors.\n6) For visualization of the LAM-PCR products, separate 5 μl of the second exponential amplification on a high-resolution Spreadex gel according to the manufacturer’s recommendations <a href=\"http://www.nature.com/protocolexchange/system/uploads/2447/original/Figure_2.pdf?1359456775\" >\\(Fig. 2)</a>. \n7) Products of the second exponential amplification were tagged and then sequenced at high throughput with the 454 GS Flx platform \\(Roche). For these oligoclonal hepatocellular carcinomas, an average of 300 sequencing reads for each of the 2 PCR products \\(digested respectively with Tsp509I and HpyCH4IV) were performed, and resulted in the univocal mapping of an average of 6 integrations per sample<sup>4</sup>."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

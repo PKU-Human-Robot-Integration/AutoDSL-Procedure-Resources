@@ -1,0 +1,16 @@
+{
+  "id": 4274,
+  "origin_website": "Bio",
+  "title": "Proteasome Assay in Cell Lysates",
+  "procedures": [
+    "Sample Preparation   Rinse cells in 60 mm dishes 2 times with ice cold PBS.   Scrape cells using a rubber policeman or other type of cell scraper into 400 µl lysis buffer, transfer to a 1.7 ml microcentrifuge tube and place on ice.   Sonicate for 10 sec using microtip set on ~2.   Centrifuge at 16,000 x g for 10 min at 4 °C.   Transfer supernatant to a fresh 1.7 ml microcentrifuge tube (can store at -70 °C until use in assay).      Assay   Prepare assay buffer (make up more than you need; e.g. if you need 3 ml, make 3.5 ml).   Add proteasome substrates to assay buffer (2.5 µl/sample; 100 µM final concentration) (make up slightly more than you need; e.g. if you have 12 samples, make up enough for 13).   Put 2 x 200 µl aliquots of assay buffer with substrate into 2 wells of a black walled 96 well plate for each sample.   Add 50 µl cell lysate to each well (include 2 wells with lysis buffer with no cells as assay blanks).   Incubate 60 min at 37 °C in order to allow the cleavage of the fluorophore from the proteasome substrate.   Read A360ex/A460em on fluorescent plate reader.   Normalize to protein determined with the Coomassie Protein Assay following the manufacturer’s instructions for a microplate reader and using 5 µl of lysate."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

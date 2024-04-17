@@ -1,0 +1,17 @@
+{
+  "id": 8286,
+  "origin_website": "Bio",
+  "title": "Harvest and Culture of Mouse Peritoneal Macrophages",
+  "procedures": [
+    "Harvest and culture of resident peritoneal cells   Fill 5 ml of PBS with 5 mM EDTA in a 5 ml syringe with a 25 G needle.    Anesthetize and sacrifice mouse with CO2.   Place mouse with abdomen up on paper towel in hood.   Swab abdomen with 70% alcohol or isopropanol.   Make a small incision in the center of the skin overlying the peritoneal wall. Note: Small incision is made on the skin to peel the skin off. Injection and extraction can be at different sites on peritoneal membrane.   Firmly pull skin to expose the peritoneal wall.   Insert the needle to peritoneal membrane; avoid inserting needle into guts or bladder. Inject 5 ml of PBS EDTA into peritoneal cavity.    Massage abdomen for approximately 10-15 sec.   Withdraw the needle slowly. Change the 25 G needle on the syringe to a 20 G needle.   Use one hand to push the fluid to one side of the peritoneum. Using the other hand, insert needle to the side of cavity with plenty of fluid and withdraw the fluid from peritoneum. Avoid fat, gut or mesentery, which may clog the needle. Try to draw as much fluid as possible. Usually, approximately 4 - 4.5 ml fluid can be recovered from one mouse.   Remove needle from syringe and dispense contents into a centrifuge tube on ice.   Centrifuge peritoneal cells (300 x g; 3 min) and collect cell pellet. Usually about 2-4 million resident peritoneal cells can be recovered from one C57BL/6 mouse using this method and about 50% are peritoneal macrophages.   Resuspend cell pellet from one mouse in 1 ml of cRPMI medium, count cells.   Culture peritoneal cells in a 12-well plate, 2 million/well in 1 ml cRPMI at 37 °C with 5% CO2 for 6-18 h. During this time, peritoneal macrophages adhere to the plastic surface.",
+    "The floating non-macrophages can then be washed away by adding and aspirating 0.5 ml cRPMI medium twice.   The adherent macrophages are ready to use.      Harvest and culture thioglycollate-elicited peritoneal cells Thioglycollate elicited peritoneal macrophages can be harvested and cultured in the same way as described in steps 1-15 with additional steps as shown below.   Preparation of 3% thioglycollate medium.   Heat a 300 ml flask with an aluminum foil lid (180-200 °C) in a laboratory oven for at least 18 h to get rid of endotoxin.   Suspend 6 grams of thioglycollate medium in 200 ml of pyrogen-free water.   Autoclave (15 psi/121 °C/15 min).   After cooling, aliquot to 15 ml sterile Falcon tubes. Store in a dark place at room temperature for 2 months before using. We have found that thioglycollate medium stored at room temperature for up to 2 years can still be used.     Inject 1 ml of aged thioglycollate i.p. per mouse. Wait for 4-5 days, harvest peritoneal cells. About 10 million macrophages can be recovered from one mouse.    Note: The study was performed under an IACUC approved protocol (LCID 11E)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12554,
+  "origin_website": "Jove",
+  "title": "A Computer-Based Platform for Aiding Clinicians in Eating Disorder Analysis and Diagnosis",
+  "procedures": [
+    "All work on experimental subjects and patients was approved by the Swedish Ethical Review Authority, Sweden (D. nr: 2019-05505). Before registration in the system, all individuals provided written consent to the storage, handling, and analysis of their data. Patients were referred to the clinic for specialized treatment for eating disorders either by physician's referral or self-referral. Suffering from an eating disorder was the inclusion criteria for the patients.\n1. Patient registration by clinicians\nNOTE: Patient registration (Figure 1) is completed by a clinician using a developed custom web tool (see Table of Materials).\nNavigate to the web landing page using any modern browser upon patient referral.\nUse an existing account associated with a clinician to log in to the web tool.\nFill in the patient registration form, including patient ID, social security number, birth date, age, and sex.\nPress the Save button to register a new patient. At this point, the procedure can be paused and then restarted later.\n2. Questionnaire for patients\nNOTE: The patient fills in the questionnaire on a smart device using a custom app developed in a web tool (see Table of Materials). If the patient is a minor, the questionnaire is filled in by a parent or guardian. Their data is organized in thematic blocks. After the answer to each question is completed, the system presents the next question (Figure 2).\nOpen the questionnaire application on a smart device.\nFill in the social security number for the patients (Figure 3).\nFill in the first visit date; the current date is used by default.\nFill in the information corresponding to the patients' weight, height, and age.\nFill in the information corresponding to behavior such as induced vomiting, snack frequency, and eating rate.",
+    "Fill in the particulars corresponding to cognitive and emotional items such as fear of gaining weight and feelings of body dysmorphia.\nPress the Done button to finish the questionnaire. At this point, the questionnaire can be paused and then restarted later.\n3. Risk assessment by clinicians\nNOTE: The risk assessment (Figure 4) is retrieved and used by the clinician using a custom web tool (see Table of Materials).\nNavigate to the web landing page using any web browser. Use an existing account to log in to the web tool.\nSearch for the patient using the patient's social security number or patient ID.\nAdd measured weight and height to the system.\nPress the Result tab to get the algorithmic decision of whether the patient has an ED and, if so, what type of ED.\nPress tab Questions 1-20, or Questions 21-34, to display the questions where the patients' responses deviate from answers by healthy individuals.\nSelect a final diagnosis under the Result tab, based on the algorithm and the clinician's expertise."
+  ],
+  "subjectAreas": [
+    "Behavior"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology"
+  ]
+}

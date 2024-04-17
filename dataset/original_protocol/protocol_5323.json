@@ -1,0 +1,14 @@
+{
+  "id": 5652,
+  "origin_website": "Bio",
+  "title": "Primer Extension Analysis Using AMV Reverse Transcriptase",
+  "procedures": [
+    "Primer labelling   Labelling mix (total volume 10 μl):   1 μl oligonucleotide (20-25 mer, 10 pmoles/μl)   3.5 μl γ32P ATP (10 μCi/μl)   1 μl T4 DNA polynucleotide kinase   1 μl 10x polynucleotide kinase reaction buffer   3.5 μl H2O     Incubate 30 min at 37 °C, stop reaction on ice.      Precipitation   Add 1/10 vol 10 M LiCl.   Add 3 vol EtOH (96 %).   Incubate 30 min at -80 °C.   Centrifuge 20 min at >10,000 x g at room temperature (RT), take off supernatant, don't wash.   Air-dry pellet and take up in 10 μl (consider concentration to be 0.5 pmoles/μl).      Annealing step   Annealing mix (total volume 10 μl):   10 - 20 μg total RNA   10 U RNasin RNase inhibitor   0.5 pmole of 5' labelled primer (1 μl)   2 μl 5x ss-hybridization buffer   Add water to 10 μl.        Extension step   Add directly to the annealing mix:   40 μl 1.25x RT buffer (pre-warmed at 50 °C)   10 U AMV transcriptase   10 U RNasin inhibitor     Incubate 30 min at 50 °C (extension).      Extension termination   Add to the reaction mix:   1 μl EDTA (0.5 M)   6 μl NaOH (1 M)     Incubate 10 min at 55 °C.   Add 6 μl HCl (1 M) (neutralization).      Precipitation   Add 1/10 vol 10 M LiCl.   Add 25 μg glycogen.   2.5 vol EtOH.   Incubate at -20 °C for > 1 h.   Centrifuge 10 min at >10,000 x g at room temperature, wash pellet 1x with 70% EtOH.   Air-dry pellet and take up in 15 μl of classic DNA Loading dye buffer.      Separation of reaction products on denaturing polyacrylamide gel."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

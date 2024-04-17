@@ -1,0 +1,16 @@
+{
+  "id": 4315,
+  "origin_website": "Bio",
+  "title": "Synthesis of the Adenosine A<sub>2A</sub> Receptor Fluorescent Agonist MRS5424 ",
+  "procedures": [
+    "Briefly, MRS5424 (Fernandez-Duenas et al., 2012) was synthesized as follows.    Firstly, Alexa Fluor 532 carboxylic acid, N-succinimidyl ester (1.0 mg, 1.38 µmol) was dissolved in anhydrous DMF (200 µl).    Next, make a 0.1 M sodium tetraborate buffer by dissolving 0.038 g of sodium tetraborate decahydrate for every ml of water. Adjust pH with HCl to 8.5. The labeling buffer should be made just before using it (i.e. fresh) since air exposure of this solution will result in carbon dioxide absorption, which will change its pH.    Then, 200 µl of freshly prepared sodium tetraborate labeling buffer (0.1 M, 1 ml, pH 8.5) containing APEC (1.12 mg, 2.07 µmol) - initially dissolved in anhydrous DMF - was added to the Alexa Fluor 532 solution.   The reaction mixture was protected from light and after stirring for 18 h at 4 °C, the mixture was diluted with H2O (600 µl) and purification was performed by HPLC with a Luna 5 µm RP-C18(2) semipreparative column under the following conditions: flow rate of 2 ml/min; 10 mM triethylammonium acetate (TEAA)-CH3CN from 100:0 (v/v) to 70:30 (v/v) in 30 min.    An homogeneous product corresponding to the MRS5424 was isolated in the triethylammonium salt form with an HPLC retention time of 13.5 min.    Analytical purity of this conjugate was checked using a Hewlett-Packard 1100 HPLC equipped with a Zorbax SB-Aq 5 µm analytical column. Mobile phase: linear gradient solvent system: 5 mM TBAP from 80:20 to 40:60 in 13 min; the flow rate was 0.5 ml/min (retention time 9.08 min).    Peaks were detected by UV absorption with a diode array detector at 254, 275, and 280 nm, and the yield of MRS5424 was 0.67 mg (31%). ESI-HRMS m/z 1150.4142 [M + H]+, C55H63N11O13S2.H+: Calcd. 1150.4127.",
+    "Finally, in order to check the fluorescence features of the MRS5424 the excitation/emission spectrum was assessed by means of a POLARstar Optima plate-reader."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

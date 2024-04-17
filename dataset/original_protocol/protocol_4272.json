@@ -1,0 +1,17 @@
+{
+  "id": 4484,
+  "origin_website": "Bio",
+  "title": "Gentamicin Protection Assay to Determine Bacterial Survival within Macrophages",
+  "procedures": [
+    "Culture RAW 264.7 cells in RPMI1640 with 10% heat inactivated fetal bovine serum and 1x penicillin streptomycin and glutamine at 37 °C in a CO2 incubator.   Count the cells using standard procedures and seed 2 x 105 RAW cells/well, by adding 1 ml per well in a 24 well plate. Set up 2 plates; one for T0 and another for T2 and incubate in a CO2 incubator.   Start overnight cultures of CFT073 in 3 ml of LB broth in a 10 ml polypropylene tube and incubate at 37 °C shaking at 200 rpm. Use appropriate culture media when using other bacterial strains.   Determine the multiplicity of infection (MOI = number of bacteria per RAW 264.7 cell) and alter the inocula preparation accordingly. For an MOI of 10, add 2 x 106 cfu of E. coli CFT073 for a well containing 2 x 105 RAW cells.   Pellet the bacterial cells from the 3 ml culture by centrifuging at 4,000 rpm for 10 min in a Sorvall centrifuge. Resupend the pellet in 3 ml PBS.   Adjust the OD600 of broth culture to 4 in PBS, by measuring the optical density of a 1:10 diluted culture in a spectrophotometer and calculating the optical density of undiluted culture.   Dilute 1:100 in PBS.   Dilute 1:10 in RPMI 1640 without antibiotics.   Wash RAW cells twice with PBS.   Add 1 ml of diluted culture to each well; three technical replicates per sample and three biological replicates of the entire experiment are recommended. Use the same set up for T0 and T2 plates.   Incubate at 37 °C, 5% CO2 for 30 min.   Aspirate supernatant and wash 3 times with PBS.   Add 1 ml of RPMI 1640 with gentamicin (200 µg/ml) per well.   Incubate the T0 plate at 37 °C, 5% CO2 for 15 min.",
+    "Incubate the T2 plate at 37 °C, 5% CO2 for 2 h.   After 15 min or 2 h, remove the supernatants entirely by aspiration.   Lyse cells with 1 ml of filter sterilized 1% saponin in H2O per well by incubating for 10 min at room temperature followed by vigorous pipetting. Determine the extent of lysis using a standard inverted microscope.   Plate undiluted and -2 dilution for T0 and T2 time points on LB plates.   % Killing = [(T0-T2)/T0]*100"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5665,
+  "origin_website": "Bio",
+  "title": "Measurement of the Intracellular Calcium Concentration with  Fura-2 AM Using a Fluorescence Plate Reader",
+  "procedures": [
+    "Cell culture and fura-2 loadingMaintain cells with the appropriate media in an incubator (37 °C, 5% CO2).Grow cell to a 90% confluency, discard the cell medium, wash with DPBS and detach with trypsin.Re-suspend detached cells with 5 ml of cell culture medium and transfer to a 15 ml centrifuge tube. Centrifuge at 300 x g for 5 min.Discard cell culture medium and re-suspend cells with 5 ml of low serum medium.Seed cells 16 h before experiments in clear flat-bottom black 96-well culture trays at a density of 3.0 x 104 cells/well (80-90% confluent).Discard the medium by carefully inverting the plate and wash once with 200 μl HEPES-buffered saline. Carefully discard HBS by inverting the plate, replace with dye solution and incubate cells 1 h at RT in the dark. Remove the dye solution by inverting the plate, wash twice with HBS and cover with 200 μl of HBS supplemented with 2.5 mM probenecid for at least 20 min at RT to allow for fura-2 AM de-esterification.Note: Cell medium must be without phenol red to avoid fluorescence measurement interference. To avoid evaporation remember to put plate lid back during incubations. Instrument setup Open the Tecan i-Control software and enter the following parameters:Table 1. Dual wavelength Ca2+ indicator assay measurement parameters and instrument settings for the Tecan Infinite M200® with injector. Optimized settings to measure ATP stimulated intracellular Ca2+ mobilization in 1321N1 astrocytoma cells.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20171102/20171102002044_5956.jpgBefore performing the assay, it is recommended to clean the injectors and tubing first with distilled water, then with HBS.Prime injector A with 1.1 mM ATP solution.Set the measurement parameters, insert the plate, remove the plate lid and start the run.",
+    "Determine fluorescence emission intensity at 510 nm in individual wells alternating excitation wavelengths of 340 and 380 nm every 3 sec for 40 acquisition cycles, using the parameters specified in Table 1."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

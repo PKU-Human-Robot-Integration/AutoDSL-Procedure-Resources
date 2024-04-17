@@ -1,0 +1,16 @@
+{
+  "id": 5550,
+  "origin_website": "Bio",
+  "title": "Fluorescently Labelled Aerolysin (FLAER) Labelling of <em>Candida albicans</em> Cells",
+  "procedures": [
+    "Primary culture of all the strains is set up in 10 ml of SD Uri+Cys-Met- medium using a tip of a stock culture picked up with a sterile plastic toothpick. The cultures are allowed to grow at 30 °C overnight in shaking condition at 220 rpm.Secondary cultures are set up with 2% of overnight grown cultures (200 μl of overnight grown culture in 10 ml) in fresh appropriate medium (CAF2-1 in SD Uri+Cys-Met- and conditional null of CaGPI14 in SD Uri+Cys-Met- [permissive] as well as in SD Uri+Cys+Met+ [repressive] media) at 30 °C with shaking (220 rpm).After 5 h of growth (log phase) the cells are spun down by centrifugation at 3,000 x g for 5 min at room temperature (30 °C). Cells in log phase are preferred since we observed extensive cell clumping in the Cagpi14 mutant cells at late stages of growth and in stationary phase. It is also important to point out that in saturated cultures, cell death processes may be initiated and this in turn alters cell wall and membrane stability, affecting the staining of the cells. To avoid errors arising from these problems, log phase cells are preferred.The cell pellets are washed with PBS by centrifugation at 3,000 x g and resuspended in 10 ml of PBS. Equal numbers of cells in each case, corresponding to OD600 nm ~0.6, are taken and resuspended in a total volume of 200 µl PBS in 1.5 ml micro-centrifuge tubes. FLAER (10 μl of 50 μg/ml i.e., 0.5 μg) is added to the 200 μl cell suspension (1:20 dilution). After mild vortexing at ~500 rpm, the cell suspension is incubated for 1 h in a shaker-incubator (70 rpm) at 20 °C in the dark.",
+    "The cells are then spun down at 3,000 x g for 3 min and the cell pellets washed thrice with PBS by pipetting.For microscopic analysis cell pellets are resuspended in 40 µl of 50% glycerol (v/v in water).5 µl of cell suspensions are spotted on glass slides and covered with cover slips.Fluorescent images of the cells are captured using a confocal fluorescence microscope with an Alexa 488 filter with 0.4 sec and 0.2 sec exposure time for fluorescence and DIC images, respectively. Camera EM gain is 100 with camera exposure units of 1 for both type of images. A representative image for the obtained results is shown in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170602/20170602005547_6385.jpgFigure 1. Confocal imaging of FLAER labelled cells. Images of wild type (CAF2-1) and Cagpi14 conditional null mutant cells under permissive (Cys-Met-) as well as repressive (Cys+Met+) conditions after incubation with FLAER as described above. Scale bars = 10 µm in each image."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

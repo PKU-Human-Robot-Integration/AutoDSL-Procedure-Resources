@@ -1,0 +1,15 @@
+{
+  "id": 339,
+  "origin_website": "Nature",
+  "title": "Detection of O<sub>2</sub><sup>.-</sup> production by chemiluminescence \\(CL) assay",
+  "procedures": [
+    "The pseudoperoxidase activity is measured as described <sup>2</sup>, with modifications. \n1. Add metHb into a substrate mixture containing 5.3 &#x3BC;M of CLA and 3.3 mM of H<sub>2</sub>O<sub>2</sub> in 150 &#x3BC;l of PBS \\(pH 7.4).  \n  2.  Continuously monitor the chemiluminescence, indicated by relative luminescence units \\(rlu), at one reading per s, for 1 min, with Sirius luminometer \\(Berthold Detection Systems GmbH, Germany). \n  3.  The pseudoperoxidase activity of the metHb is designated as the relative luminescence units per second \\(rlu/s). \n  4. To prove that the ROS species indicated by CLA-CL is superoxide anions, 3 Units/ml of SOD is applied to specifically quench the superoxide anions."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

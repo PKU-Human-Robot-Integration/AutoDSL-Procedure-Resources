@@ -1,0 +1,15 @@
+{
+  "id": 12743,
+  "origin_website": "Jove",
+  "title": "The 4 Mountains Test: A Short Test of Spatial Memory with High Sensitivity for the Diagnosis of Pre-dementia Alzheimer's Disease",
+  "procedures": [
+    "1. Participant selection criteria\nSelect individuals who are not color-blind and have normal or corrected-to-normal vision.\n2.Test Preparation\nSeat the patient or control participant in a quiet room.\nEnsure the patient or control participant has glasses to correct their vision, if applicable.\n3. Practice Test\nInstruct the participant as follows:\n\"In this test you will see a picture of a mountain landscape which you should study carefully. That picture will be followed by four similar landscapes seen from different points of view and under different conditions of lighting or weather.\"\n\t\"One of the four pictures shows exactly the same place as in the previous picture, although it will be shown from a slightly different viewpoint and conditions of lighting or weather. Your task is to identify which of the four pictures shows the same place as the one you have just seen.\"\n\t\"Focus on the layout of the scene (the shape and arrangement of mountains and other geographical features).\n\t\"Which picture shows the place in the previous picture?\"\nInstruct the participant to complete 3 practice items.\n\t\nProvide verbal feedback on these items where necessary, drawing participants' attention to relevant features of the stimuli.\nDuring the practice phase, instruct the participant to ask for clarification if they are unsure about any aspect of the task, and reinforce the original instructions as necessary, before proceeding to the test items.\n4. Main Test",
+    "Inform the participant that they will be given the main test, including how many questions to expect and how much time they will have on each. For example: \"Now you're going to do the main test. There are 15 questions in total, and they are just like the practice ones you have just done. I'll give you a short time to study each picture, and then you have about 20 sec within which to choose your answer.\"\nPresent the test items and record responses, allowing the participant a total of 30 sec for each item. Turn the pages of the booklet to control the timing of the stimulus presentation and responses.\nStart timing when the sample image is presented.\nShow the sample image for 8 sec, then turn to a blank page (1 sec), then turn to the page containing the response images (1 sec) and then show the response images for up to 20 sec, or until the participant indicates their selection.\nAsk the participant to indicate their response by pointing to the selected image. Stop timing when the participant and has made their selection.\nRecord the participant's response and the time taken to make that response on the corresponding response sheet, giving no feedback on whether the response is correct or not.\n5.Test Scoring\nAfter the testing session, score the total number of correct responses (a simple raw total)."
+  ],
+  "subjectAreas": [
+    "Behavior"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology"
+  ]
+}

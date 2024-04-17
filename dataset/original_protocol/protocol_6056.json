@@ -1,0 +1,15 @@
+{
+  "id": 6408,
+  "origin_website": "Bio",
+  "title": "Top Starch Plating Method for the Efficient Cultivation of Unicellular Red Alga <em>Cyanidioschyzon merolae</em>",
+  "procedures": [
+    "Prepare the MA2 solid gellan gum plate and the 20% slurry cornstarch stock solution (see Recipes).Mix 100 μl of the cornstarch slurry stock solution and 900 μl of sterile dH2O in a 2 ml microtube.Centrifuge the microtubes at 500 x g for 1 min at room temperature and discard the supernatant.Add 900 μl of sterile dH2O and mix vigorously.Centrifuge again at 500 x g for 1 min at room temperature and discard the supernatant.Add 900 μl of sterile dH2O and mix vigorously.Incubate the microtube at 98 °C for 10 min but continue to mix thoroughly by inverting the tube every 2 min.Cool down at room temperature for 10 min (= top starch solution).Note: Steps 8-11 should be performed in a laminar flow cabinet. Add 1 ml of MA2 culture medium containing C. merolae cells (in case of wild type, 500 cells by microscopy observation) to the top starch solution and mix gently.Pour the mixture onto the surface of the MA2 solid gellan gum plate and spread the mixture over the whole plate area by tilting the plate to spread the top starch solution uniformly.Leave the plate open for 15-20 min to allow the top starch solution to solidify. After this step, the surface of the top starch is still wet, and the plate should be incubated with the top starch solution pointing upwards for the entire time.Incubate the MA2 solid gellan gum plate at 40 °C under continuous white light (35-50 μmol m-2 s-1) supplemented with 5% CO2 in AnaeroPack with AnaeroPouch.After 2-4 weeks, colonies of the transformed cells appear on the MA2 solid gellan gum plate."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

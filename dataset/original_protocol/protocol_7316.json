@@ -1,0 +1,15 @@
+{
+  "id": 7699,
+  "origin_website": "Bio",
+  "title": "Dual-target Bridging ELISA for Bispecific Antibodies",
+  "procedures": [
+    "Antigens preparationPrepare the biotin-antigen—biotinylated-HER2 protein—used for detection. First, conjugate the HER2 protein using the EZ-Link Sulfo-NHS-LC-LC-Biotin kit, according to manufacturer’s instructions.Prepare human PD-L1-ECD protein (capture antigen) at a final concentration of 2 μg/mL in PBS buffer.Coating plate with PD-L1-ECD antigenCoat each well of a 96-well microplate with 50 µL of 2 µg/mL PD-L1-ECD protein. Cover the plate with a lid and incubate at 4 °C overnight without agitation.Blocking and addition of HER2/PD-L1 BsAbThe next day, remove the coating solution and wash the plate three times with 200 µL of PBS per well.Block the coated microplate by adding 200 µL of 1% casein in PBS buffer to each well using a multichannel pipette. Incubate for 1 h at 37 °C.Discard the blocking solution and wash the microplate three times with 200 µL of 0.05% PBST per well.Prepare three-fold serial dilutions of HER2/PD-L1 BsAb and control antibody (e.g., trastuzumab) in 1% casein in PBS buffer (e.g., 200 nM, 66.7 nM, 22.2 nM, 7.4 nM, 2.5 nM, 0.823 nM, 0.274 nM, 0.091 nM, 0.030 nM, 0.010 nM, 0.003 nM, and 0.001 nM).Add 50 μL of each diluted antibody to each well in triplicate and incubate for 1 h at 37 °C.Incubation with HER2/PD-L1 BsAb and addition of biotinylated-HER2 antigenAfter incubation with the HER2/PD-L1 BsAb and control antibody, wash the microplates three times with 200 µL of 0.05% PBST to each well.Pipette 50 µL of pre-prepared biotinylated-HER2 protein at 2 µg/mL in 1% casein in PBS buffer to each well and incubate for 1 h at 37 °C.Discard the biotinylated-HER2 protein solution and wash the microplates three times with 200 µL of 0.05% PBST to each well.Add 50 μL of 1:1,000 diluted streptavidin-HRP in 1% casein in PBS buffer to each well for detection, and incubate for 1 h at 37 °C.",
+    "Discard the detection solution and wash the microplates three times with 200 µL of 0.05% PBST to each well.Addition of substrate and developmentPrepare TMB substrate solution A and B at 1:1 ratio according to manufacturer’s instructions. Add 50 μL of freshly prepared substrate to each well and incubate for 10 min at room temperature.After sufficient color development, add 50 μL of stop solution with 2 M sulfuric acid (H2SO4) to each well and measure the absorbance (optical density, OD) at 450 nm using a SpectraMax M5e microplate reader."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

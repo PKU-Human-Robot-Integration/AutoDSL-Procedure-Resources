@@ -1,0 +1,17 @@
+{
+  "id": 804,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from cell culture supernatant using the System Biosciences Exoquick Seramir tissue culture kit",
+  "procedures": [
+    "1. Harvest cell culture medium from 80% confluent cells grown in serum-free medium.\n  2. Optional: Spin media at 500-1,000 x g for 10 min.\n  3. Pre-clear medium by centrifuging at 2000 x g for 10 min, then filter using a 0.22 µm PES Steriflip membrane and freeze at -80°C until needed.\n  4. Thaw 4 mL of cell culture supernatant on ice.\n  5. Add 0.8 mL of Exoquick-TC and mix well by inversion 3 times.\n  6. Incubate at 4°C overnight.\n  7. Centrifuge at 16,000 x g for 2 min, remove supernatant and keep the exosome pellet.\n  8. Add 350 µL Lysis buffer to pellet, vortex for 15 s, and incubate at room temperature for 5 min.\n  9. Add 200 µL of 100% ethanol and vortex for 10 s.\n  10. Transfer all \\(600 µL) to spin column and centrifuge at 16,000 x g for 1 min \\(or until the solution has flowed through).\n  11. Discard flow through.\n  12. Add 400 µL of wash buffer and centrifuge at 16,000 x g for 1 min, then discard flow-through.\n  13. Repeat step 12 once more.\n  14. Discard flow-through and centrifuge at 16,000 x g for 2 min to dry column.\n  15. Transfer spin column to new collection tube and add 14  µL or 30 µL RNase-free water or Elution buffer directly to the membrane.<sup>1</sup>\n  16. Centrifuge at 400 x g for 2 min.<sup>2</sup>\n  17. Centrifuge at 16,000 x g for 1 min."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

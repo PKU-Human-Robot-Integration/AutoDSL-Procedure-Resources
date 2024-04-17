@@ -1,0 +1,17 @@
+{
+  "id": 6273,
+  "origin_website": "Bio",
+  "title": "Detection of Cell Death in Planarians",
+  "procedures": [
+    "Place animals in glass vials and remove the planarian water using a pipette.Note: Animals should be between 3 mm and 5 mm large. Incubate the animals with 5 ml of 10% N-acetyl cysteine (diluted in PBS 1x) for 5 min at RT, rocking.Notes: Although glass vials are rocking, ensure that planarians are properly separated and in contact with the solution. This step kills the animals and removes their thick coating of mucus. Remove N-acetyl cysteine and fix the animals with 5 ml of 4% formaldehyde (diluted in PBSTx) for 20 min at RT, rocking.Note: Every liquid exchange should be performed carefully through pipetting but not touching planarians with the tips, to avoid tissue damage. Remove the fixative and incubate the animals with 5 ml of 1% SDS (diluted in PBS 1x) for 20 min at RT, rocking.Remove the previous solution and wash animals twice with 5 ml of PBSTx for 5 min each at RT, rocking.Remove the washing solution and bleach animals with 5 ml of 6% H2O2 (diluted in PBSTx), overnight under white light, without rocking.Note: An overnight is around 16 h. Please be sure to perform this bleaching time. Remove the bleaching solution and wash the animals twice with 5 ml of PBSTx for 5 min each at RT, rocking.Note: On this step, animals can be stored at 4 °C for a few days (no longer than 3 days). Remove the washing solution and rinse animals in 5 ml of PBS 1x.Carefully, transfer the animals to the 96-well plate.Note: It is important to be sure that all animals in the well are in contact with the solution. If you have several animals, it is better to distribute them for two or three wells.",
+    "Using a pipette remove PBS 1x and incubate the animals with 100 μl of TdT enzyme diluted in Reaction buffer (both from the ApopTag Kit) for 4 h at 37 °C, rocking.Remove the TdT enzyme and rinse animals with 100 μl of stop/wash buffer (from the ApopTag Kit). Remove the previous solution and wash animals twice with 100 μl of PBSTB (PBSTx with 0.25% BSA) for 5 min at RT, rocking.Remove the washing solution and stain animals with 100 μl of anti-digoxigenin-rhodamine diluted in Blocking solution (both from the ApopTag Kit) for 4 h at RT, on dark, rocking.Note: From this step until the end of the protocol, animals should be maintained in the dark. Remove the previous solution and wash stained animals 4 times with 100 μl of PBSTB each for 10 min at RT, rocking. Keep washing overnight in PBSTB at 4 °C, rocking.Wash animals until obtain a clear signal (Figure 3) with PBSTB at RT, rocking.Note: Change the solution every 20/30 min. Remove the previous solution and add 70% glycerol to the animals.Transfer the animals to a glass slide and mount with a coverslip. Add glycerol if necessary.Note: To avoid glycerol evaporation and sample disruption, apply transparent nail varnish around the coverslip. Be aware to not apply varnish over the animals.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180924/20180924211811_1422.jpgFigure 3. Result of a TUNEL assay. The image shows the tail of a planarian imaged by confocal microscopy. White dots correspond to nucleus of dying cells. Scale bar = 250 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

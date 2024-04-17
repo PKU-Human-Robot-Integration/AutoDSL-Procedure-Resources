@@ -1,0 +1,16 @@
+{
+  "id": 6482,
+  "origin_website": "Bio",
+  "title": "Improved Mammalian Mitochondrial RNA Isolation",
+  "procedures": [
+    "The flow sheet of this protocol is shown in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190528/20190528185111_8202.jpgFigure 1. The flow sheet of steps in this protocol Sample pretreatmentNote: To examine sub-mitochondrially localized RNA, different treatments such as nuclease treatment or mitoplasting are needed. We focus here on inactivation of mitochondrial RNases. Other methods such as proximity labeling are also needed to separate mitochondrially localized RNA from RNA contamination from other cellular compartments.Isolate mitochondria from tissue culture cells as described in Huang and Wang (2019) and measure mitochondrial protein concentration with a NanoDrop instrument after diluting 1 μl of mitochondrial sample with 19 μl of 0.6% SDS. Transfer 200 μg of purified mitochondria (in 20 μl of MitoPrep buffer) to a microcentrifuge tube and keep the tube on ice.Note: About 9 x 106 HEK293 cells could be harvested from a 10-cm cell culture dish of 90% cell density, for a yield of around 250 μg mitochondria. Mix mitochondria with 100 μl of fresh lysis buffer and heat the sample at 70 °C in a heat block for 5 min. Take out the sample, and let it cool down to room temperature (RT).Add 1 μl of 1 mg/ml proteinase K to the lysate and incubate it at 37 °C in a heat block for 5 min.RNA extractionNote: Perform this part in a fume hood. Add 400 μl of TRIzol and 200 μl of 1-Bromo-3-chloropropane to the pretreated lysate, shake the tube hard for 1 min, and then spin at 14,800 x g for 5 min at RT.Transfer the colorless fraction in the upper layer to a new microcentrifuge tube, mix with an equal volume of isopropanol and spin at 21,000 x g for 10 min at 4 °C.Discard the supernatant and save the RNA pellet.",
+    "Add 600 μl of ice-cold 75% ethanol to the tube, gently turn it upside down for a couple of times, and spin at 21, 000 x g for 5 min at 4 °C.Note: If a small amount of mitochondria (200 μg or less) was used, the RNA pellet might be very small and hardly visible.  Discard the supernatant and make the remaining ethanol as little as possible. Be careful to avoid losing the pellet.Dry the RNA pellet in the laminar flow cabinet.RNA treatmentNote: If mitochondrial DNA would not interfere with downstream assays, DNase I treatment is not required and RNA pellets can be directly dissolved in nuclease-free water. Dissolve the RNA pellet in 40 μl of 1x DNase buffer with 0.5 μl of DNase I, incubate it at 37 °C for 10 min, vortex the tube, and then spin down the sample briefly. Incubate the sample again at 37 °C for 10 min.Add 0.4 μl of 0.5 M EDTA to the RNA sample and heat the sample at 70 °C in a heat block for 10 min to inactivate the DNase I."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

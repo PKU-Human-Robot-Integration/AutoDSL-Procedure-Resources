@@ -1,0 +1,16 @@
+{
+  "id": 4685,
+  "origin_website": "Bio",
+  "title": "Histochemical Detection of Zn in Plant Tissues",
+  "procedures": [
+    "Preparation of plant materialsTo get rid of the metal absorbed on the root surface, the roots should be incubated in Na2-EDTA (20 mM) for 10 min and then rinsed in demineralized water prior to the analysis. To prepare 20 mM Na2-EDTA solution, dissolve 7.44 g of Na2-EDTA in 1 L of demineralized water.Staining procedureMake series of sections of the examined plant material on a glass slide using a safety razor blade. The optimal thickness is about 1-2 intact cells, but it depends on plant material. Leaf epidermis can be peeled with tweezers. It is important to use fresh living plant material. It is not useful to analyze the zinc distribution in fixed plant tissue owing to potential redistribution or wash-out of part of the cellular Zn during the procedure of chemical fixation. For example, large losses (up to 75-80%) of loosely bound Zn from roots to the fixative and dehydrating solutions during tissue preparation by conventional fixation for electron microscopy have been documented by Davies et al. (1991).Add 3-4 drops of analytical reagent. Cover the sections or peels with a cover glass. If needed, remove excessive reagent with filter paper. If during the examination the reagent dries out on the slide, it should be added under the cover glass.MicroscopyStaining with Zinpyr-1During the incubation keep the preparations in the dark. Preparations can be examined under a confocal scanning fluorescent light microscope, or fluorescent light microscope after 15-60 min (depending on the size and amount of plant material). The excitation and emission maxima of Zinpyr-1 are both within the visible spectrum: 490 and 525 nm, respectively. We used filter set 38 for the Axio Imager Z2 microscope, with excitation wavelength range 450-490 nm and emission wavelength range 500-550 nm.",
+    "In order to avoid background fluorescence, it is important to remove the Zinpyr-1 solution from the slides after the treatment using filter paper and substitute it with superdemineralized water. The location of Zn in plant tissues is indicated by the green fluorescence of the Zn-Zinpyr-1 complex (Figure 1 A-C). Staining with Zincon Preparations can be examined under the light microscope after 5-15 min (depending on the size and amount of plant material). Preparations cannot be stored longer than a couple of hours. The location of Zn in plant tissues is indicated by the blue color of the Zn-Zincon complex (Figure 1 D-G)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

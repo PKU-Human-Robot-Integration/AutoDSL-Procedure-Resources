@@ -1,0 +1,17 @@
+{
+  "id": 8189,
+  "origin_website": "Bio",
+  "title": "Genomic 8-oxo-7,8-dihydro-2'-deoxyguanosine Quantification",
+  "procedures": [
+    "DNA isolationDNA can be isolated using a variety of methods. We used the DNeasy® Blood Tissue Kit from QIAGEN, but other analogous kits are likely to yield similar results so long as they are not phenol based. Phenol-based DNA isolation has been shown to oxidize DNA in vitro and therefore overestimate 8-oxo-dGuo (Hamilton et al., 2001). Moreover, the final DNA elution step should be performed with water because most elution buffers contain EDTA, which inhibit nucleases.Enzymatic hydrolysis of DNA In 40 μl hydrolysis buffer, add1 U DNase I0.2 mU phosphodiesterase I0.1 U alkaline phosphatase1.25 pmol [15N5]-8-hydroxy-2’-deoxyguanosine internal standard(this gives a final concentration of 10 nM on the LC/MS/MS)0.5-5 μg DNAIncubate at 37 °C for 6 h to overnight.Add five volumes of ice-cold methanol to the samples and mix well by vortexing. This step precipitates enzymes and salts prior so that (1) they don’t interfere with analyte ionization and (2) they don’t precipitate upon exposure to organic mobile phase during chromatography, which can cause clogs.Centrifuge samples at 16,000 x g for 20 min at 4 °C.Transfer the supernatant to new tubes. The pellet contains precipitated enzymes and salts that can interfere with analysis and can be discarded.Vacuum centrifuge the supernatant until dry.Dissolve the resulting residue in 25 μl 5% methanol in water.Inject 20 μl sample into the LC/MS/MS for analysis.A standard curve was made in 5% methanol in water containing 0.1-500 nM 8-oxo-dGuo, containing 10 nM internal standard.HPLC program (flow rate 300 μl/min) 5% solvent A for 0.5 min.Ramp to 90% solvent B over 6 min.Hold at 90% solvent B for 1.5 min. Re-equilibrate with 5% solvent A for 5 min.MS/MS programMS/MS acquisition should be used with positive electrospray ionization in multiple reaction monitoring mode. Note: The mass spectrometer settings are instrument specific and are therefore not included in this protocol.",
+    "Mass transition for 8-hydroxy-2’-deoxyguanosine: 284.1 -> 168.2.Mass transition for [15N5]-8-hydroxy-2’-deoxyguanosine: 289.2 -> 173.1.QuantificationIntegrate the area under the peaks.Divide the 8-oxo-dGuo peak area by the internal standard peak area for all samples.Make a standard curve from the standards of known concentrations.Use the slope and y-intercept from the standard curve to calculate the concentration of the unknowns.(Optional) Deoxynucleoside quantificationDilute 1 μl of sample prior to MS injection 1:1,000 in 5% methanol in water. The reason for the dilution is that the canonical deoxynucleosides are much more abundant than 8-oxo-dGuo and would saturate the mass spectrometer’s detector if injected undiluted.Inject 20 μl of diluted sample for LC/MS/MS analysis of deoxynucleosides.Use the same HPLC program as for 8-oxo-dGuo.Mass transitions for deoxyguanosine, deoxycytidine, deoxyadenosine, and thymidine: 252.1 ->136.1, 228.1 -> 112.1, 268.1 -> 152.0, and 243.1 -> 127.0, respectively.Use standard curves to quantify deoxynucleoside concentrations.Use the following formula to calculate 8-oxo-dGuo per 106 nucleosides:(mol 8-oxo-dGuo/[mol dAdo + dGuo + dCyd + Thd]) x 1,000,000"
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

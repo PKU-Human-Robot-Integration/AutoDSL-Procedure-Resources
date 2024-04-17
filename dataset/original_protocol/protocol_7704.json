@@ -1,0 +1,15 @@
+{
+  "id": 8107,
+  "origin_website": "Bio",
+  "title": "Paper Chromatography as Exemplified by Separation of Urocanic Acid and Deaminohistidine",
+  "procedures": [
+    "Preconditioning of chromatography chamberPrepare chromatography solvent by mixing isobutanol, acetone, formic acid, and water in 160:160:1:39 proportion (vol. by vol.). Pour the solvent into a chromatography chamber, the liquid level should be around 5 mm from the bottom. Seal the solvent-containing chamber for at least 1 h to saturate the chamber with solvent vapors.Preparation of chromatography paperScissor out a strip of chromatography paper with the appropriate dimensions. The width of the strip depends on number of samples to be analyzed (the distance between sample spots and between spots and paper edges should be at least 20 mm). The height depends on difference in Rf values of separated compounds and usually is 100-400 mm.Draw a line from 20 mm from the bottom of the strip by a graphite pencil (starting line). Mark dots on this line for future sample spots.Load spots of the test samples and standards on the starting line using a capillary tube. Micro liter quantities are used to prepare spots. The diameter of the spots should be only up to a few mm. In order to get a concentrated spot, the spotting can be repeated several times. If it is necessary, wait till the spot is dried and then repeat the spotting. In the case of urocanic acid and deaminohistidine, each spot should contain about 10 nmol of one of these compounds.  ChromatographyTo develop the chromatogram, place the prepared strip into the saturated chromatography chamber and seal the chamber.Remove the strip from the chamber when solvent front has traveled up to about 20 mm from the top of the paper. Mark position of the solvent front on the strip. DetectionAir dry the strip.",
+    "Using a spraying nozzle spray the dried strip first with the Pauly diazo reagent until the paper become humid, followed by spraying the humid strip with a 10% Na2CO3 solution until spots of imidazolyl derivatives become colored (urocanic acid – orange, deaminohistidine – red). The color is stable within several weeks. The schematic representation of the typical chromatogram can be seen in Figure 1.Calculate Rf values [(distance traveled by a component)/(distance traveled by the solvent)].imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130613/20130613080347_5784.jpgFigure 1. Schematic representation of the separation of urocanate and deaminohistidine by paper chromatography."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

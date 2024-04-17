@@ -1,0 +1,16 @@
+{
+  "id": 294,
+  "origin_website": "Nature",
+  "title": "Synthesis of terpyridine-modified peptides",
+  "procedures": [
+    "Peptides were synthesized using standard Fmoc/tBu solid-phase peptide synthesis protocol on a 0.1 mmol scale, using a Fmoc-PAL-PEG-PS resin with 0.19 mmol/g loading from Applied Biosystems. Key steps of the protocol are:\nCoupling of Fmoc-Lysine\\(Mtt)-OH: \n1.    Place the dry resin in an appropriate reaction vessel \\(0.1 mmol of the  Fmoc-PAL-PEG-PS resin) \n  \n2.    Fill the reactor with DMF until all resin beads are immersed. Leave the mixture for 10 min and remove the solvent by filtration.\n  \n3. Treatment of the resin with 20% piperidine in DMF for 10 min. Repeat twice.\n  4. Wash the resin with DMF \\(10 mL, three times).\n  5. Mix 4 equiv of Fmoc-Lys\\(Mtt)-OH \\(0.4 mmol, 250 mg) and 4 equiv HATU \\(0.4 mmol, 152 mg) and shake the mixture for 30 seconds in 5 ml of DIEA 0.117 M in DMF, and then add the solution onto the resin. Keep the resulting mixture for 30 min with mild shaking.\n  \n6. Wash the resin with DMF \\(10 mL, three times) and repeat the operation with DCM.\n  \n7. Dry the resin under an Argon stream.\n  \nDeprotecion of Lys\\(Mtt) side chain on the resin-bound peptide:\n1. The above resin \\(approx. 0.1 mmol) is treated with a mixture of TFA \\(500 μL), triisopropylsilane \\(100 μL) and CH2Cl2 \\(9.4 ml) for 5 min. Remove the liquid by filtration and repeat the operation.\n  \n2. Wash resin with DCM \\(10 mL, four times)\n  \nCoupling of  5,5''-dimethyl-\\[2,2':6',2''-terpyridine]-4'-carboxylic acid:\n1. A mixture containing 2 equiv of 5,5''-dimethyl-\\[2,2':6',2''-terpyridine]-4'-carboxylic acid \\(0.2 mmol, 61 mg) and 2 equiv of HATU \\(0.2 mmol, 76 mg) was stirred for 30 seconds in 2.5 ml of DIEA 0.117 M in DMF. The resulting solution was added onto the lysine-containing resin and the resulting mixture was kept under mild shaking for 30 min. \n  \n2. Wash resin with DMF \\(10 mL, three times).",
+    "Continuation of the solid phase synthesis:\n1. Treatment of the resin with 20% piperidine in DMF for 10 min, repeat twice.\n  2. Continue with the standard solid phase synthesis procedures to assemble the rest of the peptide chain."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Synthetic Chemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

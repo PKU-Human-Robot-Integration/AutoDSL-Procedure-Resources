@@ -1,0 +1,16 @@
+{
+  "id": 4303,
+  "origin_website": "Bio",
+  "title": "VIGS Assays",
+  "procedures": [
+    "Clone plant target gene fragment into pTRV2-LIC as described previously (Liu et al., 2002), and transform it into Escherichia coli DH5α. Positive clones were picked up and the plasmid DNA was amplified by PCR, using specific primer pairs, and then confirmed for correct insertion by DNA sequencing. Grow a positive clone in 5 ml LB liquid medium (containing 50 µg/ml Kanamycin) in 37 °C incubator at 200 rpm shaking overnight. Collect the bacteria by 14,000 x g centrifuging for 1 min at room temperature and then extract plasmids using mini plasmid kit.    Transform pTRV1, pTRV2 or its derivatives into Agrobacterium strain GV3101 respectively. Transformed Agrobacteria were grown for 2 days on LB plates containing 50 µg/ml Kanamycin, 30 µg/ml Rifampicin and 50 µg/ml gentamicin.   Pick several clones and confirm that the grown Agrobacteria contain correct plasmid using PCR with specific primers.   Grow one positive clone from each transformant containing pTRV1, pTRV2 or pTRV2 derivatives in 5 ml liquid LB media (containing 50 µg/ml Kanamycin, 50 µg/ml Rifampicin and 50 µg/ml Gentamicin) in 28 °C incubator shaking at 200 rpm overnight. Note: Inoculating Agrobacteria into media for culturing should be done on super-clean bench, all equipments used needs to be sterile.   Take the culture tubes out of the incubators. Adjust all the Agrobacterium culture to OD600=1.0. Taking equal volumes of agrobacterium culture (OD600 = 1.0) with pTRV1 and that with pTRV2 or pTRV2 derivatives. Mix them together and pellet by centrifuging at 3,000 x g for 5 min, at room temperature.    Pour off the supernatant, re-suspend the agrobacterium pellet in infiltration buffer of equal volume to that of Agrobacterium culture (as to keep the OD600 at around 1.0). Keep the re-suspended culture at room temperature for 2-4 h.",
+    "Select 6-leaf-stage plants and inflitrate the re-suspended Agrobacterium culture into abaxial side of expanded leaves, using 1 ml-syringe (without needles). 2 or 3 leaves of each plant need to be injected. Plants were grown in a growth room with a 16-h/8-h photoperiod at a light intensity of 10,000 lux at 24 °C. Figure 2 shows the schematic diagram of infiltration. Figure 3 showed the leaf state right afer inoculation. Note: Each leaf for inoculation is often injected 2 circles with 1 cm diameters.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140226/20140226221942_6016.jpg Figure 2. Schematic diagram of infiltration  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140226/20140226222000_0112.jpg Figure 3. The right picture showed the state right after inoculation and the left one showed a non-infected leaf    2 weeks post inoculation, target gene will be silenced at whole plant level. The new leaves always show the strong silencing phenotype, and are appropriate for following study. Figure 4 shows the upper leaves of plants that PDS gene was silenced by VIGS.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140226/20140226222042_1313.jpg Figure 4. Successful silencing of NbPDS. Photograph was taken 2 weeks post inoculation."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

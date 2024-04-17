@@ -1,0 +1,16 @@
+{
+  "id": 4760,
+  "origin_website": "Bio",
+  "title": "Assessing Mitochondrial Transport via Cytoplasmic Nanotubular Bridges in Cells",
+  "procedures": [
+    "Sample preparationThe typical cells (e.g. Human MSC or HuMSC and BEAS-2b) must first be grown separately and differentially transfected (with 20 µl volume for approx 30,000 cells seeded) either of CellLight® Mitochondria-GFP, BacMam 2.0 and CellLight® Mitochondria-RFP, BacMam 2.0. After 24 h, the respective cells are then co-cultured. Alternatively they can also be stained with 2 μl/ml (of cell growth media) from 100 μM stock solution of Mitotracker dyes for 10-20 min in 37 °C before the coculture (e.g. HuMSC with MitoTracker® DeepRed and BEAS-2b with MitoTracker® Green).Post dye-incubation, the cell media containing the dye is washed using 1x PBS and fresh cell growth media is added. For live cell imaging of monoculture population, the cells stained either of the mitotracker dye can also be stained with phalloidin (F432, Invitrogen or A12381, Invitrogen) 1:250 in PBS to view the actin constituted TNT.The cells have to be seeded in 2- or 4-chambered slides for live cell image acquisition (about 10-30,000 cells in each well). In case of co-cultured cells, respective growth media has to be added in equal volumes. The two types of cells are seeded in equal ratio and post 3-4 h of co-culture, mitochondrial donation can be observed. For fixed cell immunocytochemistry, the stained cells have to be reseeded onto cover glasses. Wash and wipe cover glass with 70% ethanol and place them in each well of a 6-well plate. Seed 30,000 cells in each well for monocultures or equi-ratio of co-cultures and then can proceed on with the staining. The cells have to be fixed in 2% paraformaldehyde (in 1x PBS) for about 20 min at RT or overnight at 4 °C and phalloidin staining (20 min incubation) can be done post permeabilization (permeabilization buffer: 0.1% TritonX-100 in PBS for 15 min) .",
+    "The cover glass with the cells have to be finally mounted on glass slides with ProLong® Gold Antifade Mountant with DAPI. The edges of the cover glass are sealed with nail enamel.For FACS quantification of mitochondria transported, the differentially stained co-cultured cells have to be trypsinized (0.125% Trypsin+ 0.01 M EDTA) and cell pellet obtained has to be diluted in PBS or FACS buffer for acquiring.Flurimetric quantificationThe FACS Calibur/ FACS Aria was used to acquire a quantitative estimate of mitochondria transported by MSC. The count of mitochondria (as labeled in MSC) transported into epithelial or other specific gated population of cells is thus determined.Image acquisitionThe image acquisitions can be done with either 63x or 100x objective and TNT can be imaged with DIC view. The various dyes and respective lasers with excitation and emission range are tabulated as follows:table:",
+    "﻿0,1,2,3\nDyes/Probes,Lasers,Excitation,Emission\nMitoGFP,ARGON,488 nm,500-540 nm\nMitoRFP,DPSS 561,584 nm,580-620 nm\nMitotracker green,ARGON,488 nm,500-540 nm\nMitotracker red,DPSS 561,575 nm,580-630 nm"
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

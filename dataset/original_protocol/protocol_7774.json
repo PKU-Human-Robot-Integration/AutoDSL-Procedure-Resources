@@ -1,0 +1,18 @@
+{
+  "id": 8179,
+  "origin_website": "Bio",
+  "title": "Primary Culture of SVZ-derived Progenitors Grown as Neurospheres",
+  "procedures": [
+    "Dissect the brain from new born mice.    Cut 400 μm thick coronal sections of the brain in ice cold PBS with a Vibratom (Figure 1A) (from the olfactory bulb to the anterior horn of the lateral ventricle). Keep the first two sections of each brain containing the lateral wall of the lateral ventricles and place them in ice cold HBSS.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130813/20130813232215_2817.jpg Figure 1. Dissection of the neonatal mouse SubVentricular Zone. A. Illustration of a newborn mice sagittal section showing the cut window when using the vibratome. B. Coronal section showing parts to dissect to isolate lateral ventricules’ tissues. C. Neurospheres obtained after 1 week long culture. Scale bar, 500 μm.    Under the microscope, dissect out the lateral walls of the lateral ventricles (Figure 1B). Take a forceps with one hand to handle slice and keep it on the bottom of the dish, and a micro knife with the other to cut out the zone of interest. Discard the rest of the slice after each dissection.   Cut the tissues into small cubes (400 μm cubes) using sterile micro knives.   Pipette the tissues within a volume of 800 μl HBSS and place them in a 30 ml Sterilin Universal Container. Add 200 μl of trypsin 12.5 mg/ml. Incubate 5 min at 37 °C in a water bath.   Add 10 volumes of 10% HBSS-FBS. Using fire-polished glass Pasteur pipettes, gently pipet up and down to help the dissociation. Take of a droplet regularly and check under the microscope whether the dissociation is complete.   Centrifuge at 800 x g for 7 min at room temperature (RT), discard the supernatant, and resuspend the pellet in 10 ml of fresh HBSS. Take of a sample and count the number of cells.",
+    "Centrifuge the cell suspension at 800 x g for 7 min at RT, discard the supernatant, and resuspend in Standard TC BD Falcon 60 mm cell culture dishes at the concentration of 25,000 cells/ml in neurospheres defined medium, supplemented with 2% B27, bFGF (20 ng/ml) and EGF (20 ng/ml).   Every 3 days, add a half-volume of doubly-supplemented [4% B27, bFGF (40 ng/ml) and EGF (40 ng/ml)] neurospheres defined medium. To avoid any sphere attachment to the bottom of the culture dish, don’t extend the culture beyond 1 week (Figure 1C)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

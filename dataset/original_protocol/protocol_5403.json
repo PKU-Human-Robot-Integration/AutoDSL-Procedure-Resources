@@ -1,0 +1,17 @@
+{
+  "id": 5734,
+  "origin_website": "Bio",
+  "title": "ROS Detection in <em>Botryococcus braunii</em> Colonies with CellROX Green Reagent",
+  "procedures": [
+    "Harvest samples of the algal culture grown in modified Chu-13 media (see Recipes), at different time points after specific stress treatments. There should be sufficient colonies in 100 μl to be clearly observed under a microscope. If your alga can be sedimented after centrifugation, 100 μl should make at least a 20 μl of pellet. If the alga doesn’t sediment as in the case of B. braunii, which floats because of the surrounding hydrocarbons, then the OD at 600 nm should give at least 0.5. If needed, concentrate the cells by centrifugation, filtration, or other methods that are suitable for your sample.Transfer 100 μl of each sample in a 96-well microplate and mix with 2 μl of 5 mM CellROX Green, incubate the microplate for 30 min at 36 °C in the dark by shaking at 120 rpm in an incubator shaker.Then incline the plates, carefully discard the liquid with a micropipette and wash the cells twice with 100 μl of 1x PBS (see Recipes) containing 0.1% Triton X-100, by shaking at 120 rpm for 5 min at room temperature. Triton X-100 is a commonly used detergent in laboratories widely used to permeabilize the membranes of living cells.Transfer an aliquot of 10-20 μl of each sample onto a glass microscope slide, cover with a coverslip, and observe under the microscope.Observe samples first under the white light to locate the algal colonies and then switch to fluorescence conditions. Count at least 100 colonies for each sample.Colonies with more than 90% of cells having the fluorescent nuclei are considered ROS positive.Take pictures with a digital camera and the representative images are shown below (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170810/20170810202550_6913.jpgFigure 1. Staining of Botryococcus braunii with CellROX dye. Detect ROS in vivo by analyzing fluorescent nuclei of B. braunii cells in each colony.",
+    "Upper panels are under white light and lower panels are under fluorescent conditions. A. Control without stress treatment; B. Treatment with strong stress inducer (10 μM MeJA for 60 min); C. Treatment with weak stress inducer (120 mM NaHCO3, for 60 min).Determine the percentage of ROS positive colonies according to the equation:(FC/TC) x 100 = %PCwhere, FC = number of colonies with fluorescence, TC = total number of observed colonies, and PC = percent of ROS positive colonies."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

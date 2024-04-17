@@ -1,0 +1,17 @@
+{
+  "id": 4874,
+  "origin_website": "Bio",
+  "title": "An Assay to Test the Capacity of <em>Arabidopsis</em> Plant Defensin Type1 Protein to Induce Cellular Zinc (Zn) Tolerance in Yeast",
+  "procedures": [
+    "Note: For each yeast clone to be analyzed.On day -1Use a sterile inoculating loop to inoculate each yeast clone to be tested in 20 ml liquid selective YNB media in sterile 250 ml glass Erlen flask.Note: At least three independent yeast clones are tested for each construct (harboring either recombinant or control plasmids).Culture yeast cells at 30 °C under 200 rpm agitation Over Night (O/N).On day 0Prepare Petri dish for drop assay.Prepare sterile selective YNB solid media containing the appropriate amino acids and appropriate zinc sulfate concentration to be tested.Under laminar flux hood, pour 50 ml of sterile selective YNB solid media in each square 12 cm x 12 cm Petri dish.Note: Tolerance to zinc excess is usually tested around the final concentrations of 23, 25, 27.5, 30 and 32.5 mM. The control condition is without zinc added (≈1.4 µM). The leucine and methionine auxotrophy are complemented by the addition of the corresponding amino acids to the final concentrations of 0.75 mM and 0.33 mM, respectively.Let media solidify, cover opened, for 15 min. Close and store square Petri dish under the hood. Prepare yeast for drop assay.Note: All subsequent manipulations with yeast are performed under sterile conditions in laminar flow hood.Transfer O/N yeast culture in sterile 50 ml Falcon tubes.Centrifuge for 5 min at 5,000 x g at room temperature.Discard supernatant.Suspend yeast culture with the same volume of sterile water (20 ml).Repeat steps 7 to 9.Measure optical density at 600 nm after suitable dilution (usually 1/10) to get an OD600nm of around 0.4.In a 1.5 ml sterile Eppendorf tube, make appropriate yeast culture dilution with sterile water in order to reach OD600nm of 1 in 500 µl volume and then make serial dilution in order to reach OD600nm of 10-1, 10-2, 10-3 in a maximum of 500 µl.",
+    "Use a pipet and sterile filter tips to drop 10 µl of each yeast dilution onto selective YNB media supplemented with ZnSO4 at various final concentrations (see Figure 1).Notes: For steps 10 to 12: Yeast cells sediment particularly rapidly; hence make sure to fully agitate the yeast culture before taking a sample and / or before measuring optic density of a suspension and/or before drop assay.For drop assays, separate the center of each drop by ≈1 cm. Allow drops to dry under the laminar flux hood.Close Petri dish and wrap them plastic foil (type Saran Wrap).Incubate in 30 °C incubator upside down.Monitor yeast growth every day and record results by scanning the Petri dish under black screen at a 600 dots per inch (dpi) resolution (usually less than one minute per scan). For each zinc concentration, the yeast expressing the protein of interest is compared to the yeast harboring the empty pYX212.Note: Control plates, i.e., without zinc added, are usually read 2 days after incubation. This is necessary to verify that the expression of the protein of interest does not disturb yeast growth at very low zinc concentration. Plates for zinc tolerance assay (upon zinc addition) are usually read between 4 to 7 days after incubation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8248,
+  "origin_website": "Bio",
+  "title": "Isolation of Whole Mononuclear Cells from Peripheral Blood",
+  "procedures": [
+    "Place fresh EDTA blood into 15- or 50 ml conical centrifuge tube. Using a sterile pipet, add an equal volume of room temperature PBS. Mix well.Set a layer of the Ficoll-Hypaque solution at the bottom of the centrifuge tube. Use 3 ml Ficoll-Hypaque per 10 ml blood/PBS mixture.Slowly layer the blood/PBS over the Ficoll at room temperature. Pipette very slowly the mixture against the wall of the tube so that it does not mix with the Ficoll layer. Centrifuge 30 min in a GH-3.7 rotor at 900 x g at room temperature, with NO brake. With a pipette remove the upper layer that contains the plasma and most of the platelets. Transfer the aggregates of mononuclear cells to another centrifuge tube (the intermediate layer contains aggregates of cells presenting white colour and floating over the Ficoll). Wash the mononuclear cells three times with PBS. Add three times the volume of mononuclear cell layer of PBS. Centrifuge 10 min at 400 x g at room temperature. Resuspend cells in complete RPMI-10 (RPMI, 10% FBS) (10 ml for plating or 1 ml 10% DMSO for freezing). Freeze or plate the cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

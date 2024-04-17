@@ -1,0 +1,17 @@
+{
+  "id": 829,
+  "origin_website": "Nature",
+  "title": "Real-time calcium transient measurement in mouse dendritic cells stimulated with LPS or ATP",
+  "procedures": [
+    "1.Seed 3 x 10<sup>6</sup> cells \\(BMDCs or BMM&#x3A6;s) in 60 x 15 mm non-treated cell culture dishes at a concentration of 10<sup>6</sup> cells/ml in the appropriate medium. \n2.Incubate overnight \\(37 &#xB0;C &#x2013; 5% CO2).\n3.Gently wash cells three times with 3 ml of pre-warmed PBS to remove residual extracellular esterases contained in the medium.\n4.Add 1 ml of 2 microM of the ratiometric probe indo-1 \\(Molecular Probes, Eugene, OR) in PBS and incubate 20&#x2019; \\(37 &#xB0;C &#x2013; 5% CO2) in the dark.\n5.Gently wash cells three times with 3 ml of pre-warmed PBS to remove extracellular free probe.\n6.Add 1,8 ml of pre-warmed PBS.\n7:Start real-time imaging acquisition and superfuse the appropriate stimulus in 200 &#x3BC;l PBS."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

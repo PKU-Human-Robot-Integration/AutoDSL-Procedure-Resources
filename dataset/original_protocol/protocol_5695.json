@@ -1,0 +1,17 @@
+{
+  "id": 6038,
+  "origin_website": "Bio",
+  "title": "<em>Schistosoma haematobium</em> Egg Isolation",
+  "procedures": [
+    "Sacrifice hamsters at the point of maximal liver and intestinal Schistosoma egg levels (18 weeks post-infection).Mince the infected tissues (intestines and livers) with scissors, suspend in 1.2% NaCl, and then place in a Waring blender. Blend tissues for 30 sec at low speed. Sieves are assembled from top to bottom (420 μm, 180 μm, 105 μm, and 45 μm) (see Figure 1) with progressively decreasing pore sizes. Pass the blended material through the crudest sieve (420 μm pores).Collect the tissue remaining on top of the sieve and blend again for 30 sec, this time at medium speed. Pass the resulting material through the sieveas before, collect the remaining tissue from the upper surface of the sieve, and blend for 30 sec at the highest speed setting. Pass the tissue through the crude sieve an additional time.Pass the filtrate through the series of stainless steel sieves with decreasing pore sizes, using a plastic spray bottle filled with 1.2% NaCl to rinse the filtrate through the successive screens.Following repeated washes through the upper sieves, the eggs will be retained on the final sieve (pore size of 45 μm).In order to reduce contamination with residual hamster tissues, prepare a second set of sieves and pass the egg-containing solution through the crude sieve (420 μm opening) and repeat steps 4 and 5.Wash the eggs off the final sieve into a glass Petri dish. With gentle swirling, concentrate the eggs in the middle of the dish (eggs look like grains of brown sand by the naked eye), aspirate with a Pasteur pipet, and place them in a tube on ice. Add enough 1.",
+    "2% NaCl to the Petri dish each time when eggs are removed to keep the volume constant, and repeat swirling and concentrating the eggs until no more can be concentrated in the middle of the dish. Note: For best results eggs should be collected using a Petri dish with a perfectly flat bottom.When no more eggs can be concentrated in the middle of the Petri dish upon swirling, discard the contents of the dish, place the collected eggs back into the dish with fresh 1.2% NaCl and repeat the swirling technique, and collect the concentrated eggs as before. Finally, count eggs using a hematocytometer.After several series of these purification steps, most of the tissue debris and immature eggs will be eliminated. The final egg population will be enriched for mature eggs. Although itis best to use fresh eggs, eggs can be kept at 4 °C for several days in 0.85% NaCl without appreciable loss of viability.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140925/20140925045357_1612.jpgFigure 1."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

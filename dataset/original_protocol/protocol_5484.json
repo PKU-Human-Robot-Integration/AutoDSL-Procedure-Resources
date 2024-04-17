@@ -1,0 +1,16 @@
+{
+  "id": 5818,
+  "origin_website": "Bio",
+  "title": "Cytosolic and Nuclear Delivery of CRISPR/Cas9-ribonucleoprotein for Gene  Editing Using Arginine Functionalized Gold Nanoparticles",
+  "procedures": [
+    "imgsrc:https://en-cdn.bio-protocol.org/attached/image/20171016/20171016234250_1332.jpg Figure 1. Schematic overview of the protocol. Step 1: formation of Cas9En-sgRNA complex (takes 30 min); Step 2: formation of Cas9En-RNP/ArgNPs nanoassembly (takes 10 min); and Step 3: Cas9En-RNP delivery (takes 3 h).  Final working nanoassembly concentration is 125 nM of ArgNPs and 62 nM of Cas9En-RNP complex, which is at a 2:1 molar ratio of ArgNPs/Cas9En-RNP. The total volume of the nanoassembly samples required for delivery depends on the kind of cell culture plate used. We generally use 1 ml for round bottom 35 mm confocal dishes, 500 μl for 24-well plates, and 200 μl for 96-well plates, per well. Therefore, the nanoassemblies should be made and scaled up according to users’ need. The following calculation is for one sample in a 24-well plate (i.e., 500 μl total volume). Additionally, the following protocol is for HeLa cells, however, we verified the Cas9En-RNP delivery in other cell lines including mouse macrophage RAW 264.7, human embryonic kidney HEK cells, and human primary mammary epithelial cells.    First, 24 h before the delivery experiment, seed cells on a 24-well plate at a cell density of 8 x 104-10 x 105 cells/well.   On the day of delivery, prepare the Cas9En-RNP complex by simply mixing Cas9En and sgRNA at a 1:1 molar ratio in 10-20 μl of 1x PBS buffer. Keep in mind that the final Cas9En-RNP concentration in 500 μl sample should be 62 nM (~5 μg Cas9En, and 1 μg sgRNA).    Incubate the complex at room temperature for 30 min.   In the meantime, add 100 μl of 1x PBS into a sterile 1.5 ml tube.   Add required amount of ArgNPs into the tube containing 1x PBS to make the final concentration of ArgNPs 125 nM for 500 μl sample. Mix by pipetting up and down.",
+    "Now add the premixed Cas9En-RNP complex to the ArgNPs solution in the tube.   Mix well by pipetting up and down.   Incubate the sample at room temperature for 10 min. The nanoassemblies will be ready in 10 min and therefore users should prepare the cells for delivery in the meantime. Note: Don’t incubate for more than 10 min, as this may cause aggregate formation instead of well-defined assemblies.   Wash the cells with 1x PBS, twice.   When the nanoassembly sample is ready after 10 min, add ~400 μl of DMEM plain media (or any media of interest) into the nanoassembly solution in the tube. Mix well.  Note: Media with serum should be strictly avoided at this step; media with serum may require further optimization such as the ratio of nanoparticles to Cas9En:sgRNA, and incubation time.    Add the whole (500 μl) sample into the washed-cells.   Incubate the cells at an appropriate condition (usually 5% CO2 and 37 °C) for 3 h. Complete Cas9En-RNP delivery should be achieved after 3 h of incubation.    Wash away the media after 3 h, and replace with fresh desired media (DMEM with 10% serum and 1% antibiotics, and any supplements if needed)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

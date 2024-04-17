@@ -1,0 +1,16 @@
+{
+  "id": 5568,
+  "origin_website": "Bio",
+  "title": "Proteolytic Fragment Isolation and Analysis (ex. N-terminal GST-tagged CLAVATA3 Protein GST-CLV3)",
+  "procedures": [
+    "Cauliflower (Brassica oleracea) meristem protein extracts were prepared as described before (Trotochaud et al., 1999) with or without 0.1% Triton X-100. Note that 1 ml of protease inhibitor cocktail for use with plant cell extracts was added in the extraction buffer per 300 x g of tissues. Before use, the extracts were centrifuged at 40,000 x g for 30 min at 4 °C. It is very important to use fresh cauliflower. We usually try to get cauliflower from local farms. The meristem tissues were collected using razor blade “shaving” the head of the cauliflower.    Incubate ~100 μg purified GST-mCLV3 proteins (mature CLV3 protrein) with ~400 μl cauliflower protein extracts for 2 h at room temperature (RT) on a rotor.    For N-terminal tagged fragment (~ 32-34 kD) isolation.   Bound protein mixtures to Glutathione Sepharose 4B.   Elute the N-terminal GST containing fragments from the beads with buffer containing 10 mM Glutathione, 50 mM Tris-HCl (pH 8.0).   If needed, concentrate protein elution using Microcon YM-50 centrifugal filter at 14,000 x g, 4 °C for 30 min and elute in desired volume and buffer (e.g. 0.1% TFA trifluoroacetic acid/water) for MS analysis.      For C-terminal untagged fragment (~ 2-4 kD) isolation.   Subject protein mixtures to centrifuge through Microcon YM-10 centrifugal filter at 14,000 x g, 4 °C for 30 min.   Collect the flow-through fractions for intact MS analysis.   Further characterize peaks of interest by MS/MS analysis (control: Cauliflower protein extracts only; GST-CLV3 incubated with cauliflower extraction buffer)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Plant Science",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

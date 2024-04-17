@@ -1,0 +1,16 @@
+{
+  "id": 6084,
+  "origin_website": "Bio",
+  "title": "An Image-based Assay for High-throughput Analysis of Cell  Proliferation and Cell Death of Adherent Cells",
+  "procedures": [
+    "Seed cells in 100 µl complete growth medium in a 96-well plate using a multi-channel pipette, at a cell density whereby they will reach 40-80% confluence after 1-3 days (Figure 1).Note: We seed approximately 2 x 104 LNCaP cells and 2 x 103 PC3 cells per well to obtain an appropriate confluence after 2 days. The assay can be adapted to other plate formats, like 384-well plates to include even more conditions.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180502/20180502211727_3548.jpgFigure 1. Overview of the procedure to monitor cell death in real time using propidium iodide and the IncuCyte ZOOM instrumentGrow cells at 37 °C in a humidified incubator with 5% CO2 for 1-3 days.Add the experimental treatments in 100 µl complete growth medium containing 5 µg/ml PI (200x dilution from the 1 mg/ml stock solution) directly to the wells. Include proper controls. For instance, treat cells with the same amount of vehicle as the experimental agent is dissolved in. Both treatments and PI should be 2x concentrated since they will be added to the 100 µl of cell medium that is in the wells (i.e., the final concentration of PI will be 2.5 µg/ml). In 96-well plates, it is advisable to exclude the outer wells from the experiment due to evaporation effects. To counteract evaporation effects in the rest of the wells, fill the outer wells with medium, or more conveniently, simply seed cells in all of the wells (in Step 1). Generally, we perform each treatment condition in three replicate wells.Note: We routinely use 2.5 µg/ml PI. However it can be advisable to test out a dilution row of PI for new cell lines to define optimal concentrations.Perform automated phase-contrast and red-fluorescent imaging using the IncuCyte ZOOM instrument placed in a normal humidified incubator at 37 °C with 5% CO2.",
+    "Scans can be taken at any desired time interval. We generally record 3 images per well every 3 h at 10x magnification (image resolution: 1.22 µm/pixel) to monitor cell proliferation and death for the desired time frame (for instance 3 days, or as long as is meaningful for the particular experimental treatments/conditions and cell type used). Use the default settings for image acquisition time in the red channel (800 msec).Note: The instrument uses the following excitation/emission wavelengths for the red channel: 565-605 nm/625-705 nm. The IncuCyte ZOOM also has 4x and 20x objectives (with image resolutions of 3.05 and 0.61 µm/pixel, respectively). However, we have only tested the protocol using the 10x objective, with which it is possible to capture 1-4 images per 96-well well at fixed positions in the wells (starting from the center of the well and outwards). We have not experienced that any specific portions of the well should be preferentially imaged and/or avoided. It should be entirely possible to use other live-cell imaging systems to capture and analyze the PI signal. However, we have only tested the protocol using the IncuCyte ZOOM instrument."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

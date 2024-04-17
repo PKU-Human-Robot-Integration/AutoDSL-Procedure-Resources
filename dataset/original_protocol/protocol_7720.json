@@ -1,0 +1,15 @@
+{
+  "id": 8123,
+  "origin_website": "Bio",
+  "title": "Detection of Released CO<sub>2</sub> by Radioactive Lactate",
+  "procedures": [
+    "Count cells using Burker chamber.   Plate the same number of cells in each plate (30,000 cells).   Wet a disk of Whatman paper with 100 μl of phenyl-ethylamine-methanol (1:1:1).   Put the wetted piece of Whatman paper under the lid of Petri dish.    Add to 1 ml of culture medium 0.2 μCi/ml D-[U-14C] lactate.   Place the cells in incubator at 37 °C, 5% CO2 for 15 min.   Add 200 μl of 4 M H2SO4 to culture medium.   Place 2 ml of scintillation liquid in a vial for scintillation.   Remove the Whatman paper and put it in the scintillation liquid.   Radioactive CO2 released was counted by scintillator."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

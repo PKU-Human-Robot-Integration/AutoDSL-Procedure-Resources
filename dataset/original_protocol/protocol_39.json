@@ -1,0 +1,17 @@
+{
+  "id": 39,
+  "origin_website": "Nature",
+  "title": "5-bromo-2-deoxyuridine \\(BrdU) and 7-amino-actinomycin \\(7-AAD) staining for cell proliferation assay",
+  "procedures": [
+    "**Injection of BrdU into mice**\n**1** Inject 1 mg of BrdU, dissolved in 300 &#xB5;l PBS, into the peritoneal cavity 12 h before analysis. Eventually, it is useful to start with injections 24 h before analysis and to inject a second time 12 h later.\n**Preparation and analysis of cells**\n&#x25B2;Perform the following steps at 4 &#x2DA;C unless indicated otherwise. \n**2** Harvest splenocytes by grinding of spleens in RPMI-1640 medium between two frosted microscope slides. Spin cells at 1000 RPM for 5 min. Remove erythrocytes by adding one equivalent volume of ACK Lysing Buffer to the remaining pellet. Gently resuspend, swirl tube for 1 min. Fill tube with 10 ml of RPMI-1640, centrifuge at 1000 RPM for 5 min. Resuspend in 10 ml of RPMI-1640. Filter through 70 &#xB5;m nylon cell strainer. Centrifuge at 1000 RPM for 5 min. Resuspend 1 x 10<sup>7</sup> cells in 500 &#xB5;l of FACS buffer. Obtain B cells by CD43 negative purification using anti-CD43 magnetic beads.\n**3** Wash and resuspend 1&#xD7;10<sup>6</sup> splenic B cells in 500 &#xB5;l of 0.5% paraformaldehyde in PBS. Incubate on ice for 20 min \\(fixation). Spin and wash once with PBS. \n**4** Cell permeabilization: Spin and resuspend in 1 ml of freshly made 3 N HCl/0.5% Tween 20. Incubate at 25 &#x2DA;C for 20 min. \n**5** Spin and resuspend in 1 ml of 0.1 M disodium tetraborate. Spin and wash with FACS buffer. \n**6** Stain with FITC-labeled anti-BrdU. Incubate on ice for 20 min. \n**7** Spin and resuspend cells in 500 &#xB5;l FACS buffer containing 2.0 &#xB5;l of 7-AAD solution. \n**8** Analyze 10 min later. \n&#x25B2;NOTE: Because there is no dehydration step in this protocol, you still need to gate on the proper populations on forward scatter versus side scatter."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

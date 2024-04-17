@@ -1,0 +1,14 @@
+{
+  "id": 7856,
+  "origin_website": "Bio",
+  "title": "Detecting Photoactivatable Cre-mediated Gene Deletion Efficiency in <em>Escherichia coli</em>",
+  "procedures": [
+    "Sample preparation Culture E. coli cells in LB broth with 50 μg/mL of Amp at 37 °C with shaking overnight.Centrifuge 100 μL of the overnight culture at 21,500× g for 1 min at room temperature.Remove the supernatant.Resuspend the cellular pellet in 1 mL of M9 medium with 0.2% glucose and amino acids.Measure the OD600 of the resuspended cells.Adjust the OD600 to 0.001 in 2 mL of M9 medium with 0.2% glucose and amino acids containing 50 μg/mL of Amp and 0.1 mM IPTG.Cover the test tube with the aluminum foil.Cultivate the cells at 37 °C with shaking for 3 h.Gene deletion induction Remove the aluminum foil after the cultivation.Expose the test tube to blue light using blue-light illuminator (light intensity: 6.8 mW) for the desired duration (Figures 1 and 2, see Notes).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4685/bioprotoc-13-11-4685-g001.jpgFigure 1. Blue-light illumination inside a bio shaker with an illuminator. A blue-light illuminator was directly fastened onto a test tube spring holder inside a bio shaker. It casts a blue light downward on E. coli cultures. Light intensity was adjusted to 6.8 mW, measured with a laser power meter (λ = 470 nm).Calculation of gene-deleted cells in batch Dilute the cultures exposed to blue light to OD600 = 1.0 × 10-6, which is equivalent to approximately 7 × 102 cells/mL.Spread 150 μL of the diluted cultures on LB agar plate containing 100 μg/mL of Amp.Cover the agar plates with aluminum foil.Incubate the plates at 37 °C for 18 h.Count the number of colonies under ambient light and excitation light for examining mCherry fluorescence using a stereomicroscope (Figure 2A).Calculate the fraction of gene-deleted cells as the number of non-fluorescent colonies divided by the number of total colonies."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

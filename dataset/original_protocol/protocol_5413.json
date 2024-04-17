@@ -1,0 +1,15 @@
+{
+  "id": 5744,
+  "origin_website": "Bio",
+  "title": "Rapid Profiling Cell Cycle by Flow Cytometry Using Concurrent  Staining of DNA and Mitotic Markers",
+  "procedures": [
+    "Note: All the procedures are done at room temperature. Suspend cells at 0.4 x 106 cells in 1 ml of DPBS in Falcon® 5 ml tubes.Centrifuge at 200 x g for 5 min.Aspirate off the DPBS.Re-suspend the cell pellet in 100 μl of hypotonic buffer, add 0.5 μl Alexa Fluor® 647 anti-phospho-Histone H3 per sample (Alexa Fluor 647 can be detected at APC channel), then gently mix the sample.Note: Since the hypotonic shock removes the majority of the RNA, RNase treatment is not required.Place the tubes in the dark at room temperature, before flow cytometry analysis, for at least 20 min but no longer than 2 h. Note: Including an additional washing step before measurement does not change the result but may cause cell loss.Measure fluorescence (detector 585/40 nm at PE channel for PI and 675/30 nm at APC channel for phospho-Histone H3 staining) by flow cytometer. Collect at least 20,000 total events, gate-out residual debris and measure diploid and tetraploid DNA peaks (Figures 1A-1D).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170814/20170814011748_1618.jpg Figure 1. Illustration of the gating strategy in analyzing cell cycle profile of HeLa cell. A. Exclusion of cell debris by forward scatter (FSC) and side scatter (SSC); B. Exclusion of clumps and doublets by forward scatter width (FSC-W) and height (FSC-H); C. Identification of G1, S and G2/M phase by PI; D. Identification of M-phase by mitosis-specific antibody (phospho-Histone H3-APC). The final percentage (%) of cells for each phase is about G1: 61.6%, S: 13.8%, G2/M: 22.5, M: 1.59% according to the analysis."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

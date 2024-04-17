@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "origin_website": "Nature",
+  "title": "Luciferase assays in OT-1 hybridoma cells",
+  "procedures": [
+    "1) For every transfection use half of a large \\(175 cm) confluent flask \\(2 transfections/ flask) \n2) Collect cells and resuspend in fresh complete media at a volume of 0.5 ml / transfection \\(example 4 transfections, need 2 confluent large flasks, resuspend in a volume of 2 ml of complete media)\n3) Place 0.5 ml of cells in one cuvette and place on ice\n4) For Dlgh1- I usually transfect at least two concentrations \\(from 1μg-5μg) \nLuciferase reporter vector = 200 ng\nRenilla vector= 0.5-1μg\n5) Mix DNA with cells, ensure that you flick the cuvette a couple of times to mix\n6) Let sit on ice at least 5 minutes – do not shorten this time- can go up to fifteen minutes\n7) Electroporate at 240 volts at 960 mF and place 0.5ml of cells immediately into 10 ml of fresh complete media in a small flask. Allow cells to sit in small flask overnight\n8) Plate 5μg of anti-CD3 and 20μg of anti-CD28/ ml of PBS and aliquot 500μl into each well of a 6 well plate \\(allow antibody to sit overnight). \n9) Twenty-four hours post-transfection, place cells in 10 mL of fresh media and take half of the cells \\(5mL) and put them in the antibody coated 6 well dish to be stimulated overnight.  The other half should remain in the flask and will be the unstimulated sample. \n10) Next day collect cells and spin down, resuspend in 200 μl of Passive Lysis Buffer \\(Promega) and let sit at room temperature for twenty minutes.  Freeze thaw the cells at least once to ensure complete lysis.  \n11)  Spin down debris and take 50 μl from each sample of supernantant and place in a 5mL polystyrene round bottom tube \\(BD 352008).",
+    "12)   Using  Program 30 on the luminometer \\(Cheng lab, UCLA) read luciferase numbers by adding 50 μl of LAR \\(Luciferase Assay Buffer, contained within Promega kit) immediately add 50 μl of STOP \\(Stop and glow buffer, Promega) and read in the luminometer again to get Renilla luciferase numbers to use for normalization. \n13) The first number for each sample is the experimental luciferase number while the second number from each sample should be used as a “loading control” ensuring equal amounts of DNA were added.  \n14) The luciferase number should be divided by the renilla number.  This will usually give you a number less than 0, so multiply this number by 10000 \\(make sure that you multiply each sample by the same number).  These are the relative normalized numbers. You can either graph these numbers or calculate fold differences."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

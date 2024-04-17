@@ -1,0 +1,15 @@
+{
+  "id": 5181,
+  "origin_website": "Bio",
+  "title": "Propidium Iodide Staining of Cells for FACS Analysis",
+  "procedures": [
+    "Trypsinize and harvest cells, fix cells into 0.5 ml 70% EtOH (pre-cooled to -20 °C overnight).   Store fixed cells on ice at least 1 h and for up to several days.   Spin down cells for 2 min at 4,000 rpm.   Resuspend cell pellet in 0.5 ml PBS containing 0.25% Triton X-100 and incubate on ice for 15 min.   Spin down the cells for 2 min at 4,000 rpm.   Discard supernatant and resuspend cell pellet in 0.5 ml PBS containing 10 μg/ml RNase A and 20 μg/ml PI stock solution, transfer to FACS tubes and incubate at room temperature (RT) in the dark for 30 min.   Ready for FACS."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

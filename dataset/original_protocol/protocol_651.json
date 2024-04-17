@@ -1,0 +1,16 @@
+{
+  "id": 689,
+  "origin_website": "Nature",
+  "title": "Isolation of murine hepatocytes to measure protein synthesis _ex vivo_ upon stimulation",
+  "procedures": [
+    "**Perfusion and isolation of hepatocytes**\n1. Use one month-old mice. To minimize diurnal variation start isolation of hepatocytes in the morning \\(10-11a.m.).\n  2. Anaesthetise mice by intraperitoneal injection of 200 &#x3BC;l of Cloralium Hydrate. \n  3. Insert the cannula in the portal vein and start perfusion with T1 solution pH 7.4. As soon as the perfusion is started, immediately cut the hepatic vein to allow perfusate to run as a waste.\n  4. Flow rate is 5 ml/min. Perfuse liver for 15-20 minutes to remove completely the blood in each lobe.\n  5. Perfuse the liver with T2 solution pH 7.4. At this stage the hepatic tissue is rapidly disaggregated. Collect the tissue with a curved spatula and transfer into a plate where the disruption of the tissue is proceeded with a scalpel. This step should be fast in order to avoid damage of hepatocytes. \n  6. Remove the bladder and mince the tissue with a scalpel. \n  7. Collect minced tissue with 2 ml DMEM and filter cells through 70 &#x3BC;m cell strainer. \n  8. Centrifuge cells at 600rpm for 4min at room temperature.\n  9. Remove supernatant, resuspend pellet in 3 ml DMEM and pass the hepatocytes on 37.5% PERCOLL cushion \\(30 ml) to recover viable cells.\n  10. Centrifuge 1050 rpm for 3min at room temperature.\n  11. Resuspend pellet of viable cells in 2 ml of DMEM and count the hepatocytes.\n  \n**Recovery of hepatocytes and protein synthesis measurement**\n12. Leave the isolated primary hepatocytes in 3 ml of DMEM at 5% CO<sub>2</sub>, 37&#xB0;C for 2h and in suspension. Absence of serum is necessary to decrease the basal level of translation. \n  13. After 2h replace the medium with DMEM without methionine and cysteine and start with the metabolic labelling assay.",
+    "14. Each point of the metabolic labelling is done in triplicate. Use 15 x 10<sup>5</sup> hepatocytes/triplicate. Resuspend 5 x 10<sup>5</sup> cells in 2ml DMEM without Met/Cys and maintain the cells in a 15ml round bottom falcon tube to allow sufficient oxygenation.\n  15.  Add to the media the desired stimula to increase translational level \\(e.g. 100 nM Insulin) and label the cells with 20 &#x3BC;Ci/ml of <sup>35</sup>S-Met/Cys mixture for 1h.\n  16. After 1h, lyse the cells in 100 &#x3BC;l of Lysis Buffer: 10mM Tris HCl pH 7.4, 1% Triton X-100, 150mM NaCl, 1mM EDTA.\n  17. Keep 15min on ice and then clarify at 14000rpm for 10min at 4&#xB0;C.\n  18. Use 10 &#x3BC;l of the lysate to read radioactivity incorporation as previously described<sup>1</sup>."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 6184,
+  "origin_website": "Bio",
+  "title": "Measurement of Free Cytosolic Calcium Concentration ([Ca2+]i) in Single CHO-K1 Cells",
+  "procedures": [
+    "Plate 50000 CHO-K1 cells/ml onto 25 mm round glass coverslips for 24 h.   Load the cells with 2.5 μM of the Ca2+ indicator dye Fura-2 AM (Molecular Probes) in phenol red-free DMEM containing 20 mM NaHCO3 (pH 7.4).   Incubate 30 min at 37 °C.   Wash with phenol red-free DMEM and incubate in phenol red-free DMEM containing 20 mM NaHCO3 (pH 7.4) for 15 min (to allow the hydrolysis of the ester group).   Mount the round glass coverslip with the cells on the stage of a Nikon Eclipse TE200-E microscope.   Add 300 μl of phenol red-free DMEM containing 20 mM NaHCO3 (pH 7.4).   Localize the cells to be recorder (as many as possible) and mark them as well as 2-3 background regions using the MetaFluor Software.   Acquire images of the loaded cells under a x40 oil immersion objective during exposure to alternating 340- and 380-nm light beams, and measuring the intensity of light emission at 505 nm every 5 sec.   After 30-40 sec where the baseline is stablished, add the treatment (300 μl) whose effect want to be proven, and continue recording.   Changes in [Ca2+]i after treatment administration are recorded as background substrates ratios of the corresponding excitation wavelength (F340/F380) using MetaFluor Software."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

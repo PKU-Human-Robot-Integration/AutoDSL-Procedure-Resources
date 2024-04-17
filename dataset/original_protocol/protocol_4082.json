@@ -1,0 +1,17 @@
+{
+  "id": 4286,
+  "origin_website": "Bio",
+  "title": "<em>In situ</em> Chemotaxis Assay in <em>Caenorhabditis elegans</em> (for the Study of Circadian Rhythms)",
+  "procedures": [
+    "Add 15 µl of the 100 g wet weight/L E. coli OP50 culture to the center of the NGM plate (inside A). Note: You may need to optimize the size of the drop for your stereomicroscope so that the pictures taken show the entire drop. A 15 µl drop of E. coli will form a circle of approximately 1 cm in diameter. Let the drop dry and allow the bacteria to grow O/N at room temperature. Add about 100 eggs on the E. coli drop. Grow the worms under the desired conditions until the developmental stage for which you want to score olfaction. Note: For circadian experiments, we grow the worms under temperature cycles of 16 h at 13 °C and 8 h at 16 °C. This 24-hour cycle is repeated 5 times until the worms become young adults. Then, the chemotaxis assay is performed every hour for 24 h to look for circadian rhythms in the response to 1-octanol.Chemotaxis assay: Place the NGM plate over the template, and center the E. coli drop with the circle of the template. Open the lid and add 1 µl of 1-octanol at dot B. Take care that the 1-octanol does not touch with the E. coli drop. If it does, discard the plate (since the worms that are in direct contact with the 1-octanol/ethanol solution will die). Close the lid of the plate and incubate for 15 min at the desired temperature. Note: For circadian experiments the assay can be performed over 24 h in constant conditions or under the same cycle used to entrain the worms. In both cases, the plates are incubated for 15 min at the same temperature at which they were before adding the 1-octanol.Take a picture of the final position of the worms.",
+    "Always keep the dot of 1-octanol at the same position of the picture (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140126/20140126181120_6144.jpgFigure 2. Final picture of the E. coli drop of a plate showing high response to 1-octanolOn the picture, draw a vertical line dividing the 1 cm circle in two equal parts (Figure 3). Count the number of worms in the proximal (p) and distal (d) sides of the circle. Worms that intersect the middle line are not counted. Calculate the chemotaxis index (CI=d-p/p+d). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140126/20140126181216_9305.jpgFigure 3. Calculation of chemotaxis index. The chemotaxis index is calculated by counting the worms in the proximal (p) and distal (p) sides of the circle and applying the formula CI = d - p/p + d."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

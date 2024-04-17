@@ -1,0 +1,16 @@
+{
+  "id": 5486,
+  "origin_website": "Bio",
+  "title": "Growth Assay for the Stem Parasitic Plants of the Genus <em>Cuscuta</em>",
+  "procedures": [
+    "The whole experiment is performed under optimal conditions for the host plant. The optimal host plant conditions are provided by the seed supplier and can’t be generalized.Cut Cuscuta shoots (length ~15 cm) including the shoot tip from a mature plant and wind it around upright wooden sticks; be aware of winding direction (counter clockwise from bottom to top; Figure 1A) and integrity of the tip (see also Note 2). Keep the stick with the Cuscuta shoot in a vertical position for one day (e.g., by sticking it into Styrofoam, soil or sand). The Cuscuta shoot should hold by itself on the planting rod without contact to anything else (Figure 1A).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170414/20170414013842_7868.jpgFigure 1. Starting the Cuscuta infection. A. Cuscuta reflexa shoot enwinding a wooden stick. Winding direction is counter clockwise from bottom to top. Red frame indicates the area where haustoria will most likely form. B. Cuscuta reflexa shoot wound around N. benthamiana plant after preconditioning around the wooden stick (A).After one day (at the beginning of prehaustoria formation), when the shoot has been carefully uncoiled from the stick, weigh the shoots and transfer them to their host plants considering the winding direction (see also Note 3). The haustoria will form close to the shoot tip (Figure 1, red box) so make sure to wind this part around the host plant stems thoroughly. Remaining of the Cuscuta shoot will provide a source of nutrients and water until the haustoria connect with the host’s vascular system. Therefore, an equal length (e.g., 15 ± 1 cm) as well as an approximately same weight (e.g., 0.5-0.7 g) of the parasite shoots is relevant for reproducible results.After transfer (Figure 1B, see also Note 4), let the Cuscuta spp. shoots grow for the same time period (14-21 days).",
+    "After that time of growth, remove individual shoots from the host plant and measure the fresh weight immediately for each individual."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

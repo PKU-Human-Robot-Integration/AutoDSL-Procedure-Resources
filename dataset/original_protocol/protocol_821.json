@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "origin_website": "Nature",
+  "title": "Phos-tag Western blotting for detecting stoichiometric protein phosphorylation in cells",
+  "procedures": [
+    "**A. Preparation of whole cell extracts**\n1. After stimulation, rinse cells twice with ice-cold HBS.\n  2. Following steps should be done on ice or at 4<sup>o</sup>c.\n  3. Add 1.0 ml of RIPA buffer to a 100 mm cell culture dish and incubate for 15 min.\n  4. Harvest lysed cells with a cell scraper.\n  5. Collect supernatants after centrifugation at 20,000 g for 15 min.\n  6. Add Laemmli sample buffer, mix, and heat at 95<sup>o</sup>c for 10 min. \n  7. Store samples at -80<sup>o</sup>c until use.\n  \n**B. Phosphate-affinity polyacrylamide gel electrophoresis**\n1. Prepare the separating gel containing Mn<sup>2+</sup>-Phos-tag. We routinely use 7.5% polyacrylamide gel with 25 micro M Phos-tag and 50 micro M MnCl<sub>2</sub>. These conditions may need to be optimized for proteins of interest.\n  2. Prepare the normal stacking gel.\n  3. Load samples onto the gel. Note that lanes adjacent to prestained molecular weight markers are strongly disordered during electrophoresis.\n  4. Run the gel at 5 to 15 mA. Phosphorylation-dependent mobility shifts of some proteins are dramatically improved by lowering the current as reported previously<sup>3</sup>, although the bands become fuzzy.\n  \n**C. Electrophoretic transfer**\n1. Incubate the gel with gentle agitation in transfer buffer B supplemented with 1 mM EDTA for 10 min.\n  2. Incubate the gel with gentle agitation in transfer buffer B without EDTA for further 10 min.\n  3. Prepare PVDF membrane by wetting it in MeOH for 30 sec and then soaking it in transfer buffer B for more than 30 min.",
+    "4. Electrophoretically transfer proteins in the gel onto the membrane using a semi-dry blotting apparatus at 20 V for 90 min according to the method of Kyhse-Andersen<sup>4</sup>. Briefly, assemble the gel, PVDF membrane, and filter papers in the following order: the anode, two layers of filter paper soaked in transfer buffer A, one layer of filter paper soaked in transfer buffer B, PVDF membrane, the gel, three layers of filter paper soaked in transfer buffer C, and the cathode.\n  \n**D. Blocking, incubation with antibodies, and detection**\n1. Process the membrane according to standard Western blotting procedures."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Developmental Biology",
+    "Cell Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

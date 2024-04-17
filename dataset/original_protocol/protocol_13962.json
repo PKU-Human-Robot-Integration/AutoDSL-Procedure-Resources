@@ -1,0 +1,15 @@
+{
+  "id": 17788,
+  "origin_website": "Jove",
+  "title": "Detection of Total Reactive Oxygen Species in Adherent Cells by 2',7'-Dichlorodihydrofluorescein Diacetate Staining",
+  "procedures": [
+    "1. Cell seeding\nSeed 2 x 105 HCT116 colorectal cancer cells per well in a 24-well plate and maintain the cells in Dulbecco's modified Eagle medium (DMEM) overnight at 37 °C.\nReplace the culture medium with or without 100 µM ferrous sulfate (FS) or 10 µM doxorubicin (DOX) containing medium and incubate for 24 h.\n2. Preparation of the DCFH-DA solution\nDissolve 4.85 mg of DCFH-DA in 1 mL of dimethyl sulfoxide (DMSO) to make a 10 mM stock solution.\nDilute the stock solution with pre-warmed DMEM into 10 µM working solution right before adding it to the wells.\nVortex the working solution for 10 s.\n3. DCFH-DA staining\nRemove the drug containing medium and wash once with DMEM.\nAdd 500 µL of the DCFH-DA working solution into each well and incubate at 37 °C for 30 min.\nRemove the DCFH-DA working solution. Wash once with DMEM and 2x with 1x phosphate-buffered saline (PBS).\nAdd 500 µL of 1x PBS to each well.\n4. Imaging acquisition and intensity measurement\nTake representative fluorescent images for each well using the green fluorescent protein (GFP) channel on a fluorescence microscope.\nAfter taking images, remove PBS and add 200 µL of radioimmunoprecipitation assay (RIPA) buffer to each well.\nIncubate on ice for 5 min, then collect cell lysate into 1.5 mL tubes.\nCentrifuge at 21,130 x g for 10 min at 4 °C.\nTransfer 100 µL of the supernatant to a black 96 well plate and measure the fluorescence intensity using a fluorescence a microplate reader at an excitation wavelength of 485 nm and an emission wavelength of 530 nm.\nTransfer 1 µL of the supernatant to a clear 96 well plate containing 100 µL of 1x protein assay solution to measure the protein concentration using the Bradford assay9.",
+    "Normalize fluorescence intensities with protein concentrations.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

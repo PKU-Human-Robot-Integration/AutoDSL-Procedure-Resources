@@ -1,0 +1,14 @@
+{
+  "id": 6179,
+  "origin_website": "Bio",
+  "title": "Muscle Function Assessment Using a <em>Drosophila</em> Larvae Crawling Assay",
+  "procedures": [
+    "Place the empty Petri dish on a sheet of graph paper under a stereomicroscope.Attach the camera to the stereomicroscope and adjust all settings so that the Petri dish is in focus on the camera (Figure 1A).Sprinkle the Petri dish surface with tap water from the spray bottle to hinder larvae from sticking to the dry surface and beginning pupation. A very thin film of water is sufficient. Avoid flooding the Petri dish with water.Transfer a third instar larva from its vial to the middle of the Petri dish using a wet paintbrush (Figure 1B).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180716/20180716003102_2141.jpgFigure 1. Experimental setup and data representation. A. Experimental setup. Camecoora attached to the stereomicroscope with the Petri dish placed underneath. B. Third instar larva in humidified Petri dish. The underlying graph paper is clearly visible. C. Graphical output of acquired data made via GraphPad Prism (©GraphPad Software).Start the video and continue filming until the larva has crawled for at least 10 sec straight without tumbling, stopping or turning (see Video 1). This does not always occur right away. Using a wet paintbrush, you may have to move the larva back into focus from time to time. If the larva crawls for a shorter time period, it may not reach the maximum continuous speed and therefore all measurements of shorter time periods should be discarded.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Video of a wildtypic third instar larva. The video depicts a successful recording of a wildtypic third instar larva crawling straight forward without turning, tumbling or stopping for more than 10 sec. Repeat until you reached the desired n."
+  ],
+  "subjectAreas": [
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

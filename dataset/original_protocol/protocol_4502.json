@@ -1,0 +1,16 @@
+{
+  "id": 4745,
+  "origin_website": "Bio",
+  "title": "Genetic Transformation of <em>Candida glabrata</em> by Electroporation",
+  "procedures": [
+    "Culture preparation   Grow the recipient strain overnight in YPD media at 30 °C with shaking at 160 rpm.    Dilute the culture in fresh YPD media to an OD600 of about 0.3, and continue culture until an OD600 of 1.5 is reached (50 ml of culture are sufficient for 12 transformations).    Harvest the culture in 50 ml tubes by centrifugation at 1,000 x g for 5 min. Wash the cell pellet(s) once with 25 ml of sterile water at room temperature.     Treatment of cells   Each cell pellet derived from 50 ml culture is very gently resuspended by slow pipetting in 8 ml sterile water, 1 ml 10x TE buffer and 1 ml 1 M LiAc.    Incubate the cell suspension(s) for 30 min at 30 °C and 130 rpm.    Add 250 µl of DTT and incubate the suspension(s) for 60 min at 30 °C and 130 rpm.    Add 40 ml of sterile pre-cooled water and centrifuge the suspension(s) at 1,000 x g for 5 min and 4 °C.    Carefully resuspend cell pellets by slow pipetting in 25 ml of sterile water (4 °C) and repeat the centrifugation step.   Carefully resuspend cell pellets in 5 ml pre-cooled 1 M sorbitol and repeat the centrifuging step. Finally, resuspend the pellets of electrocompetent cells in 550 µl of pre-cooled 1 M sorbitol.     Electroporation Single-well scale    Transfer 45 µl aliquots of electrocompetent cell suspensions into sterile precooled tubes.    Add 5 to 10 µl of highly purified transforming DNA (1 to 3 µg), mix gently and thoroughly and incubate tubes on ice for 10 min.    Apply electro pulses (200 Ω, 1.5 kV, 25 µF), the time constant should be at about 4.6 Ω. µF.   Add 950 µl of YPD media to each cuvette and transfer the suspension to a tube.",
+    "96-well scale    Transfer 5 to 10 µl aliquots of the highly purified transforming DNA (1 to 3 µg) into each well of the electroporation plate.    Add 45 µl of electrocompetent cell suspensions and incubate the plate for 10 min on ice. Make sure that the DNA samples and the cell suspension are at the bottom of the wells.    Cover the plate with a sterile lid or a seal it with a foil for the incubation.    After the incubation place the plate in the plate handler and pulse each column individually (200 Ω, 1.5 kV, 25 µF).    Transfer the cell suspension into a 96-well plate with 950 µl of YPD media.    The media in the plate can be used to flush the wells of the electroporation plate.     Regeneration of cells   Incubate cell suspensions in tubes or in a plate for 1 to 4 h (depending on the marker) at 30 °C without shaking.    Afterwards, centrifuge the tubes or the plate at 1,000 x g for 5 min.    Discard supernatants and resuspend cell pellets in 100 µl of sterile water.    Plate cell suspensions on selective media and incubate plates for 1 to 2 days at 30 °C until colonies are visible."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

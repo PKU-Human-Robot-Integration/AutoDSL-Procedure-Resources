@@ -1,0 +1,14 @@
+{
+  "id": 797,
+  "origin_website": "Nature",
+  "title": "One-step enzymatic assembly of DNA molecules up to several hundred kilobases in size",
+  "procedures": [
+    "1. Prepare 5X ISO buffer.  Six ml of this buffer can be prepared by combining the following:\n  \n3 ml of 1 M Tris-HCl pH 7.5\n150 &#x3BC;l of 2 M MgCl<sub>2</sub>\n60 &#x3BC;l of 100 mM dGTP \n60 &#x3BC;l of 100 mM dATP \n60 &#x3BC;l of 100 mM dTTP\n60 &#x3BC;l of 100 mM dCTP\n300 &#x3BC;l of 1 M DTT \n1.5 g PEG-8000\n300 &#x3BC;l of 100 mM NAD\nAdd water to 6 ml \nAliquot 100 &#x3BC;l and store at -20 &#xB0;C\n2. Prepare an assembly master mixture.  This can be prepared by combining the following:\n  \n320 &#x3BC;l 5X ISO buffer\n0.64 &#x3BC;l of 10 U/ &#x3BC;l T5 exo\n20 &#x3BC;l of 2 U/&#x3BC;l Phusion pol\n160 &#x3BC;l of 40 U/&#x3BC;l Taq lig\nAdd water to 1.2 ml\nAliquot 15 &#x3BC;l and store at -20 &#xB0;C.  This assembly mixture can be stored at -20 &#xB0;C for at least one year.  The enzymes remain active following at least 10 freeze-thaw cycles.  \nThis is ideal for the assembly of DNA molecules with 20-150 bp overlaps.  For DNA molecules overlapping by larger than 150 bp, prepare the assembly mixture by using 3.2 &#x3BC;l of 10 U/ &#x3BC;l T5 exo.\n3. Thaw a 15 &#x3BC;l assembly mixture aliquot and keep on ice until ready to be used.\n  \n4. Add 5 &#x3BC;l of DNA to be assembled to the master mixture.  The DNA should be in equimolar amounts.  Use 10-100 ng of each ~6 kb DNA fragment.  For larger DNA segments, increasingly proportionate amounts of DNA should be added \\(e.g. 250 ng of each 150 kb DNA segment).\n  \n5. Incubate at 50 &#xB0;C for 15 to 60 min \\(60 min is optimal).\n  \n6. If cloning is desired, electroporate 1 &#x3BC;l of the assembly reaction into 30 &#x3BC;l electrocompetent _E. coli_."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

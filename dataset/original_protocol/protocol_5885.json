@@ -1,0 +1,18 @@
+{
+  "id": 6234,
+  "origin_website": "Bio",
+  "title": "A Protocol for Electrophoretic Mobility Shift Assay (EMSA) from Primary Neuron",
+  "procedures": [
+    "Prepare the nuclear protein extract from neuronCollect 1-5 x 106-7 neurons pellet in 1.5 ml microcentrifuge tube (DIV 14 Primary cultural neuron was from mouse E16.5 cortex).Resuspend neurons in 200 μl cytoplasmic extract buffer with protease and phosphatase inhibitors, and keep on ice for 10 min to break the cell membrane.Spin cells at 16,000 x g for 5 min at 4 °C to separate nuclei with cytoplasmic component (quality of fraction was tested by nuclear/cytoplasmic protein markers-HDAC1 and HSP90).Remove supernatant as cytoplasmic extract.Wash the nuclear pellet with 300 μl washing buffer.Spin cells at 16,000 x g for 10 min at 4 °C to pellet the nuclei.Resuspend the nuclear pellet in 100 μl nuclear extraction buffer and aliquot the lysate into10 μl/tube.Freeze the nuclear extracts in -80 °C.Measure protein concentration and adjust it to 1 μg/μl with the extraction buffer for use in gel shift assay.Prepare and pre-run gelPrepare a native PAGE gel in 0.5x TBE. The appropriate polyacrylamide percent depends on the size of the target DNA and the binding protein. Most systems use a 4 -6% PAGE gel in 0.5x TBE.Place the gel in the electrophoresis unit. Fill the inner chamber with 0.5x TBE to a height several millimeters above the top of the wells. Fill the outside of the tank with 0.5x TBE to just above the bottom of the wells, which reduces heat during electrophoresis. Flush wells and pre-electrophorese the gel for 30-60 min at 100 V.Perform binding reactions2x reaction buffer 12 μl.BSA (1 μg/μl) 3 μl.Poly (dIdC) (0.5 μg/μl) 2 μl.Nuclear extract (1 μg/μl) 3 μl (cytoplasmic extract as control).dH2O 3 μl.Keep at room temperature or on ice for 10 min without Antibody, 20 min with Antibody; Keep rotation (option).Add in Biotin-labeled DNA probe (20 fmol/ reaction).Keep at room temperature for 20 min.",
+    "Electrophorese binding reactionsAdd 5 μl of 5x loading buffer to each 20 μl binding reaction, pipetting up and down several times to mix. Run gel at 200 V for 1-1.5 h. Use DNA loading buffer in lane 1 as indicator of free probe. Free probe usually run at the same mobility as the blue dye of the DNA loading buffer. Stop the gel when the dye runs at 3 cm to the bottom.Electrophoretic transfer of binding reactions to nylon membraneSoak nylon membrane in 0.5x TBE for 15 min.Sandwich the gel, nylon membrane and blotting paper in a clean electrophoretic transfer unit.Transfer at 380 mA (~100 V) for 30 min.When the transfer is complete, place the on a dry paper towel for 1-3 min. Crosslink transferred DNA to membrane and detection10-15 min with the membrane face down on a transilluminator equipped with 312 nm bulbs.After the membrane is crosslinked, proceed directly to the LightShift Chemiluminescent detection kit. Alternatively, the membrane may be stored dry at room temperature for several days."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

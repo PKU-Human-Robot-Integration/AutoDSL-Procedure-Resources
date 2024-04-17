@@ -1,0 +1,15 @@
+{
+  "id": 6543,
+  "origin_website": "Bio",
+  "title": "<em>Candida albicans</em> Mitochondrial Protein Import Assay",
+  "procedures": [
+    "Translation Reaction (30 °C for 50 min) – 15 μl reaction, scale as needed.10 μl rabbit reticulocyte lysate.1 μl amino acids mix (1 mM but no cysteine or methionine).1 μl RNA 1 μl 35S labeled cysteine and methionine 1 μl SUPERase-In (add a maximum of 2.5 μl). Mitochondria Preparation100 μl of Import buffer (IB) per 50 μg of mitochondriaStandard conditions for 100 μl IB:ATP (0.4 M) 1 μl NADH (0.5 M) 0.4 μlMix by inversion and leave at import temperature (25 °C standard) for 5 min to equilibrate.Add 5 μl translation reaction per 100 μl import (reaction mix can be diluted by addition of water and 2.4 M sorbitol to a final sorbitol concentration of 0.6 M so up to 15 μl of this solution can be added to 100 μl of import buffer which can help increase signal if translation efficiency is low) and incubate at import temperature removing samples at suitable time points as described in part 3.Optional additions:AVO mix of mitochondrial inhibitors for dissipation of membrane potential (1 μl per 100 μl).Apyrase- 2 μl per 100 μl IB – treat lysate and mitochondria for 10 min at 25 °C.Stopper solutions100 μl cold IB per 100 μl import in standard conditionsAdditions include the following but concentrations may need to be optimized:Trypsin: 1 μl per 100 μl of stopper solutionSBTI: 4 μl per 200 μl of mix PK: 2 μl per 100 μl of stopper solution PMSF: 1 mM final (vortex when added)PK/trypsin containing solutions need 20 min before addition of inhibitorAt each time point remove 95 μl if adding 5 μl translation reaction/100 μL IB or 105 μl if adding 15 μl/100 μl IB.Sample TreatmentOnce inhibitor added to all samples spin at 4 °C/8,000 x g/10 min. Remove and discard supernatant.",
+    "Add 100 μl cold IB (do not resuspend pellet – add protease inhibitor if protease used in stopper solution).Spin at 4 °C/8,000 x g/5 min. Remove and discard supernatant.(For SDS resuspend pellet in appropriate amounts of water and SDS loading dye)For blue native PAGE: Resuspend pellet in 50 μl cold blue native lysis buffer (see Recipes) per 2 μl of mitochondria.Leave samples on ice for 15 min with gentle vortex every 5 min.(FOR ANTIBODY SHIFT: Add 2 μl antibody and leave on ice for 1 h – gentle vortex every 20 min – then continue as per method below)Spin samples at 4 °C/14,000 x g/10 min (or 15,000 if available). Remove 45 μl supernatant to new tube with 5 μl blue Native loading dye."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

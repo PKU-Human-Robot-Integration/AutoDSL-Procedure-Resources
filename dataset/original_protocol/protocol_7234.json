@@ -1,0 +1,15 @@
+{
+  "id": 7616,
+  "origin_website": "Bio",
+  "title": "H<sub>2</sub>O<sub>2</sub> Release Assay",
+  "procedures": [
+    "Cell-based assay Day 1: Seed cells (~50,000 cells/well) in a 24-well tissue culture plate, in complete DMEM media with 10% FBS, 1% Penicillin-Streptomycin, and 2.5 mM L-Glutamine; incubate at 37°C in a humidified incubator with 5% CO2.Day 2: Serum-starve cells by reducing FBS concentration to 0.05% overnight (~16 h).Day 3: In some cases, stimulation with a cytokine, such as activated TGF-β1 (2 ng/mL), may be added to induce enzyme(s) that generate extracellular H2O2 for variable durations of time.Day 3 or 4: Assay for H2O2 release (see Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4429/bioprotoc-12-11-4429-g001.jpgFigure 1. Schematic of workflow to determine rates of H2O2 release in a cell or organoid-based assay. Aspirate media from all wells, and wash gently with 1 mL of HBSS without phenol red.Add 0.5 mL of assay media to each well, including three blank wells containing no cells.Incubate at 37°C in the CO2 incubator for 1–2 h (“t” in minutes, see step #2 under “Data analysis”).At the end of the incubation period, transfer the cell-free supernatant to individual 13 × 100 mm glass tubes; add HBSS to the remaining cells for cell counting (to determine the number of cells/well, “n” in millions; see step #2 under “Data analysis”).Add 1.1 µL of NaOH-EDTA alkalization solution to the glass tubes containing assay media; vortex, and allow to sit for 5 min.Transfer 300 µL of alkalized assay medium from this into a 96-well black bottom plate; measure fluorescence (relative fluorescence units, RFU) at excitation and emission wavelengths of 321 nm and 421 nm, respectively.Standard curve Add 1 mL of the same assay medium (used above for cell incubation) in six 13 × 100 mm glass tubes.Standard concentrations of H2O2 (0–5 µM) can be made by adding 1:1,000 dilutions to each of the tubes in step #1 above, including a blank (no H2O2).",
+    "The samples are vortexed, and the reaction allowed to proceed at room temperature for 5 min.Add 2.2 µL of NaOH-EDTA solution to each 1 mL tube (in step #2), vortex again and sit for 5 min (together with cell-based samples in step #5 above, under “Cell-based assay”).Transfer 300 µL from each standard concentration to a 96-well plate, and read fluorescence as described in step #6 above (under “Cell-based assay”)."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

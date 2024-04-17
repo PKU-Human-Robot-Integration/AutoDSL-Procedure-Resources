@@ -1,0 +1,18 @@
+{
+  "id": 611,
+  "origin_website": "Nature",
+  "title": "RNA isolation from human serum and plasma samples using the Norgen exosomal RNA purification mini kit",
+  "procedures": [
+    "1. Set Incubator to 60°C and warm PS Solution A, PS Solution B and PS Solution C for 20 minutes to ensure no precipitates are present. \n  2. Add 50 mL of 96-100% ethanol to Wash Solution and check off box on bottle noting addition of ethanol. \n  3. Add 10 μl 2-Mercaptoethanol per 1 mL PS Solution B.<sup>1</sup> \n  4. Transfer 200 μl biofluid into a microfuge tube.\n  5.  Add 40 μl PS Solution A<sup>2</sup> and 360 μl PS Solution B \\(containing 2-Mercaptoethanol). \n  6. Vortex for 15 seconds. \n  7. Incubate for 10 min at 60°C.\n  8. Add 600 μl 100% Ethanol. \n  9. Vortex for 15 seconds.\n  10. Centrifuge for 30 seconds at 1,000 rpm at room temperature. Carefully decant supernatant, discarding it. DO NOT disrupt pellet. \n  11. To the pellet add 300 μl PS Solution C. \n  12. Vortex for 15 seconds. \n  13. Incubate for 10 min at 60°C.\n  14. Add 300 μl 100% Ethanol. \n  15. Vortex for 15 seconds. \n  16. Assemble a mini filter Spin Column with a collection tube. \n  17. Transfer 650 μL of the mixture to the Filter Column. \n  18. Centrifuge for 1 min at 14,000 rpm at room temperature. \n  19. Discard Flow-through. \n  20. Repeat steps 17-19 until all of the mixture has been added to the Filter Column.\n  21. Add 400 μL Wash Solution to the column. \n  22. Centrifuge for 1 min at 14,000 rpm at room temperature. \n  23. Discard flow-through. \n  24. Repeat steps 21-23 two more times for a total of 3 washes. \n  25. Open the cap of the column and centrifuge for 3 minutes at 14,000 rpm at room temperature to dry the column. Discard collection tube.\n  26. Transfer the spin column to a fresh 1.7 mL elution tube.\n  27. Apply 100 μL Elution Solution to the column.",
+    "28. Centrifuge for 2 mins at 2,000 rpm at room temperature to load the solution onto the column.\n  28. Centrifuge for  3 min at 14,000 rpm at room temperature to elute the RNA."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

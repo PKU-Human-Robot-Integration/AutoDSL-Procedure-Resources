@@ -1,0 +1,16 @@
+{
+  "id": 8196,
+  "origin_website": "Bio",
+  "title": "Three-dimensional Invasion Assay",
+  "procedures": [
+    "Day 1    Treat Lab-Tek® chambered #1.0 coverglass system with 300 μl of 0.1 mg/ml poly-L lysine solution for one hour at 37 °C.   Aspirate the poly-L lysine solution and wash one time with PBS.   Trypsinize cells and 2 x 105 cells in 500 μl medium were plated on coverglass system for attachment.    After attachment time for 3 to 6 h, prepare the appropriate volume of collagen I mix solution (final concentration 1.8 mg/ml) on ice then carefully remove the medium from coverglass system (avoid to wash cells again) and add 500 μl of collagen I mix solution to coverglass system.   Cells were incubated at 37 °C, 5% CO2 for 2 h.   Overlay with 400 μl of medium containing with 15% FBS on collagen gels.   Incubate at 37 °C, 5% CO2 for 24 to 48 h.            Day 2 or 3    Carefully aspirate medium from wells and rinse wells including collagen gel invaded by cells with PBS once.   Carefully pour 400 μl of 3% paraformaldehyde in PBS for 40 min at RT to fix cells.   Carefully rinse two times with 400 μl PBS.   Permeabilization in 400 μl of 0.5% Triton X-100 in PBS for 40 min at RT.   Carefully rinse two times with 400 μl PBS.   Incubate cells with 400 μl of 1% BSA in PBS for 40 min at RT.   Stain cells with 500 μl of Alexa Fluor® 488 Phalloidin diluted to 1 units/ml in PBS for 90 min at RT.   Carefully rinse two times with PBS.   Stain cells with 500 μl of 2 μg/ml DAPI in PBS for 30 min.   Wash three times with 400 μl PBS and aspirate all PBS.   Samples can be stored at 4 °C for 2 weeks or ready to be imaged by a laser confocal microscope. Imaging and quantification.",
+    "Use an Olympus FV1000 laser confocal microscope with 60x oil lens to capture images. The volume of observation is xyz = 210 x 210 x 50 μm3.   Confocal Z slices are collected each well at 50 μm from the bottom of the well and z interval is set to 1 μm.   Images of sequential Z sections were obtained and reconstructed by Olympus FV10-ASW 1.7 software.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130826/20130826221918_4499.jpg Figure 1. Representative image of FaDu overexpressing Twist1 cells that invaded into collagen after 24 h (please refer to Reference 1 for the detail)    The invasion index is quantified as the number of cells existing at the distance from the bottom of slide between 30 to 50 μm divided by the total number of cells. Note: The cells that are partially fallen into the range of 30-50 μm can also be counted.   The data are presented as the percentage of the invasion index of the control sample and representative vertical sections."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

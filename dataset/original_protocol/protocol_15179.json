@@ -1,0 +1,15 @@
+{
+  "id": 19005,
+  "origin_website": "Jove",
+  "title": "An in vivo Assay to Test Blood Vessel Permeability",
+  "procedures": [
+    "1. Intravenous Injection of Evans Blue in the Mouse Lateral Tail Vein\nPrepare a 0.5% sterile solution of Evans blue in PBS. If necessary, filter-sterilize the solution to remove any particulate matter that has not dissolved.\t    \nAspirate 200 μl Evans Blue solution into a syringe. Avoid all air bubbles that might have escaped into the syringe. \nPlace mice that are 8-12 weeks old into a restraint device so that the animal is not freely mobile but its tail can be handled. \nPlace the mouse restraint device on its side so the lateral tail vein is easily visible and are facing upward. \nHold onto the tail with the non-dominant hand between the thumb and the forefinger.\nInsert the needle (small gauge, 27-30) at a 10-15 degree angle, bevel up, advance into the lateral tail vein towards the direction of the head. Keep the needle and syringe parallel to the tail. \nDo not apply back pressure to confirm proper placement as this might collapse the vein. \nSlowly inject 200 μl Evans Blue solution in the tail vein of the mouse. \nObserve the ease with which the plunger advances, as this is the proof of correct placement of the needle in the vein. \nPut the mouse back into its cage and observe it for 30 min. \n2. Organ Collection and Extraction of Evans Blue from the Organs\nSacrifice the mice through cervical dislocation. For Miles assay purposes cervical dislocation is recommended as it limits significant interference with vascular permeability. Sacrifice all the mice at the same time, as fast as possible. Work with cohorts of 6 mice or less, because shortly after death blood vessels become more permeable.\t    \nPlace the mice on their backs and pin their feet on a white board.",
+    "Open the abdominal and thoracic cavity to expose thoracic and abdominal organs. \nTake representative pictures to show differences in Evans Blue extravasation. Include all mice in the same field in order to have identical lighting conditions for all mice. \nCollect organs of interest and put them in 1.5 ml tubes.\nWeigh an empty tube and bring the balance value to zero.\nTransfer the tissue sample and weight it. Repeat for all tissue samples. Tissues can be air dried to eliminate the water content variability between different organs.\n. Add 500 μl formamide to each tissue sample tube. \nTransfer all tubes to a 55 °C water bath or heat block. Incubate for 24-48 hr to extract Evans Blue from tissue. \n3. Quantification of Evans Blue Extravasated in Interstitial Tissue  \nCentrifuge the Formamide/Evans Blue mixture to pellet any remaining tissue fragments.\t    \nMeasure absorbance at 610 nm. Use 500 μl Formamide as blank.        \nCalculate ng Evans Blue extravasated per mg tissue. \nPlot all data in a graph. \nPerform statistical analysis to determine significant differences. \nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5085,
+  "origin_website": "Bio",
+  "title": "Analysis of Mouse Liver Glycogen Content",
+  "procedures": [
+    "Liver sample preparation   Sacrifice non-fasted animals and isolate liver slices. Transfer samples into cryogenic vials, flash-frozen in liquid nitrogen, and stored at -80 °C before use. Notes:   Collect liver samples in the afternoon or during night when animals are well fed.   Try to collect samples from around the same region (I typically used the right liver lobe).   Record the growth and nutrition status of study subjects (body weight, water consumption, etc).   Use the frozen samples within a month (I have never addressed whether degradation of glycogen could occur during long-term storage).     For each single sample, prepare 0.5 ml of 2.0 M HCl in a 2 ml Eppendorf tube with locking lid. As the control to measure free glucose, substitute 2.0 M HCl with 2.0 M NaOH. Prepare and label enough tubes with either HCl or NaOH.   Heat the tubes in boiling water for ~ 3 to 5 min.   Centrifuge briefly, and then wipe the tubes and measure the weights on an analytical balance.   Prepare frozen liver samples on dry ice. Transfer ~10 mg to 20 mg samples into the above tubes with hot HCl or NaOH. Measure the weights again on balance.    Seal the tubes tightly and boil the samples in water for 1 h. To achieve complete hydrolysis, mince the liver samples within ~5 min with a scissors, and then shake the tubes vigorously every 10 min during the whole process.   Cool samples on bench to room temperature (RT) and centrifuge briefly. Reconstitute original weights by adding ddH2O.   Neutralize the hydrolysis products with 0.5 ml of 2.0 M NaOH or HCl, accordingly.   Vortex samples vigorously and then centrifuge at maximum speed (i.e., ~ 22,000 x g) for 10 min.      Glucose level determination - Glucose concentration of the hydrolysis product can be determined using the Glucose (HK) assay reagent.",
+    "Reconstitute assay reagent with 20 ml ddH2O, and use this reagent within two months.   For each single sample, prepare 1 ml assay reagent in an Eppendorf tube, and then add 10 μl supernatant of hydrolysis product. Meanwhile, use 10 μl freshly prepared 0.5 mM beta-D(+)-glucose as the standard, and 10 μl ddH2O as the blank.   Incubated at RT for 5 min.   Measure absorbance at 340 nm on a Spectra Max 384 spectrophotometer, using a Quartz cuvette.      Liver glycogen content is determined as: Abs (sample)/Abs (standard) x Concentration (standard) (i.e., 0.5 mM) x Volume (standard) (i.e., 0.01 ml) x Total volume (i.e., 1.0 ml)/Volume (sample) (i.e., 0.01 ml)/ Weight (sample) (mg) x 1000 Unit = micromoles glucosyl units/ per gram wet liver weight."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

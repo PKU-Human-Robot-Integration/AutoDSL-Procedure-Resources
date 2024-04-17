@@ -1,0 +1,16 @@
+{
+  "id": 5675,
+  "origin_website": "Bio",
+  "title": "Analysis of <em>N</em>-acetylmuramic acid-6-phosphate (MurNAc-6P) Accumulation by HPLC-MS",
+  "procedures": [
+    "Bacterial growthAdd 20 ml LB medium to a 100 ml Erlenmeyer flask with chicane.Inoculate LB broth media with single colonies of E. coli wild type and ∆murQ grown on agar plates, which were streaked out the day before. Grow bacteria for 16 h at 37 °C and 160 rpm.Measure OD600 nm of the overnight cultures (expected OD of 3.5 for wild type and ∆murQ). Add 200 ml LB medium to 1,000 ml Erlenmeyer flasks.Inoculate the 200 ml LB medium with bacteria to obtain an initial OD600 nm of 0.05. After 3 h of growth, bacteria are expected to reach an OD600 nm of 1.76.Generation of bacterial cytosolic fractionsSpin down 170 ml (a volume corresponding to 100 ml OD 3) of bacterial suspension (4 x 50 ml Falcons) at 3,000 x g for 10 min at room temperature.Carefully resuspend bacterial pellets in 20 ml Millipore water. Avoid vortexing of the bacterial suspension to prevent cell lysis. Spin down bacteria at 3,000 x g for 10 min at room temperature.Discard supernatant and freeze pellets immediately at -80 °C. Samples are further proceeded the next day or within one week of storage at -80 °C.Thaw frozen samples at room temperature and resuspend pellets in Millipore water to a final volume of 1.2 ml.Add 0.25 g of the glass beads to the Micro-tubes with cups.Transfer 1.2 ml bacterial suspension to the micro tubes with glass beads.Disintegrate cells with glass beads using a cell disruptor (4x for 35 sec at speed 6). After the second cycle, chill cells down for 1 min on ice.Spin down samples in a microcentrifuge at 16,000 x g for 10 min at room temperature.",
+    "Add 200 µl of the supernatant to 800 µl of ice-cold acetone to precipitate remaining proteins in the samples in 2 ml Micro-tubes and invert tubes 3 times.Centrifuge samples at 16,000 x g for 10 min at room temperature and transfer supernatant to a new 2 ml Micro-tube.Dry cytosolic fractions under vacuum for 2 h at 55 °C and store at 4 °C. Dissolve cytosolic fractions in 100 µl Millipore water prior to LC-MS measurements.Inject 5 µl of each sample to the LC column, pre-equilibrated with buffer A (0.1% formic acid, 0.05% ammonium formate).LC-MS programGenerate with MicrOTOF control an MS program applying a mass range of 80 to 3,000 m/z.Calibrate MS in negative ion mode using 10 mM sodium formate calibrant.Generate with Bruker Compass HyStar a 45-min-HPLC gradient program:Flow rate of 0.2 ml/min.Column compartment temperature 37 °C.UV trace of 202 nm.5 min 100% buffer A (0.1% formic acid, 0.05% ammonium formate).30 min linear gradient from 100% to 60% buffer A (40% buffer B [100% acetonitrile]).5 min 60% buffer A.5 min 100% buffer A."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4341,
+  "origin_website": "Bio",
+  "title": "Native BAD-1 Binding to Heparin-agarose",
+  "procedures": [
+    "100 μl of 0.1 mg/ml BAD-1 in tricine buffer was incubated with agarose heparin resin (5 μl bed volume) for 30 min at 25 °C with occasional agitation.    Resin beads were pelleted by centrifugation in an Accuspin microfuge at 7,000 x g for 1 min.    Samples of the BAD-1 containing supernatant were analyzed for optical density at 280 nm in a Nanodrop ND1000 spectrophotometer. This reading was compared to a control solution of BAD-1 to which tricine buffer was added in place of heparin-agarose beads. The discrepancy in absorbance is assumed to be linear with respect to BAD-1 adhering to the heparin resin bed.   Binding inhibition studies were done by repeating steps 1-3 in the presence of soluble medical grade heparin in tricine buffer. Heparin was added to the tricine binding buffer at various concentrations (0.01, 0.1 and 1 mg/ml - significant inhibition was noted at 0.1 mg/ml heparin and above.). Measurements of baseline absorbance were corrected to account for absorbance of added heparin inhibitor."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

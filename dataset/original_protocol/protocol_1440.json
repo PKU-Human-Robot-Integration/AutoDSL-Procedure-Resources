@@ -1,0 +1,18 @@
+{
+  "id": 1543,
+  "origin_website": "Nature",
+  "title": "<p>Direct-seq: employing programmed gRNA scaffold for streamlined scRNA-seq in CRISPR screen</p>",
+  "procedures": [
+    "<p><strong><u>Day1</u></strong></p><p><strong>1. Single cell capture and cDNA amplification</strong></p><p>At the end of CRISPR screening, cells were prepared as single cell suspension and loaded into the Chromium Single Cell B Chip. The cDNA was generated, purified and amplified (the 1<sup>st</sup>&nbsp;PCR) following the manual of Chromium Single-Cell 3′&nbsp;Reagent Kits v3 User Guide.&nbsp;</p><p><strong>2.cDNA size selection</strong></p><p>cDNA was separated into two parts according to the size.</p><p>(1) Long cDNA fragments, which mostly represented mRNA, were size-selected by 0.6x AMPure XP beads. The cDNA binding to the beads was called&nbsp;“<strong>long cDNA</strong>”, and will subject to mRNA library preparation. The \"long cDNA\" was then eluted in nuclease-free H2O following the 10x protocol.</p><p>(2) Short cDNA fragments, which mostly represented the index gRNA, were collected from the supernatant of the 0.6x beads selection, and then followed by a 1.2x size selection. The cDNA binding to the beads was called&nbsp;“<strong>short cDNA</strong>”.&nbsp;The \"short cDNA\" was then eluted in 25 uL nuclease-free H2O.</p><p><br></p><p><strong><u>Day2</u></strong></p><p><strong>3. 3’&nbsp;Gene Expression Library construction</strong></p><p>The&nbsp;“long cDNA”&nbsp;was used for mRNA library preparation by following the manual of Chromium Single-Cell 3′ Reagent Kits v3 User Guide.</p><p><strong>4. Index gRNA Library construction</strong></p><p>The&nbsp;“short cDNA”&nbsp;was used for the index gRNA library preparation by nested PCR.</p><p><strong>4.1. Index gRNA sequence enrichment</strong></p><p>&nbsp;(1) In total of eight index gRNA enrichment PCR (the 2<sup>nd</sup>&nbsp;PCR) reactions were conducted, with each reaction including 3 uL template, 25 uL NEBNext Ultra II Q5 Master Mix (NEB&nbsp;#M0544S), 2.5 uL tRNA_Read2 primer (10uM), 2.5 uL P5_read1 primer (10uM) and nuclease free water up to 50 uL.</p><p>&nbsp;(2) The PCR program was set as: (1) 98&nbsp;°C for 30 s, (2) 14 cycles of 98&nbsp;°C for 10 s, 60&nbsp;°C for 10 s, then 72 for 10 s and (3) 72&nbsp;°C for 2 min.&nbsp;</p><p>(3) The PCR products were combined and purified by 0.7–1.0×&nbsp;double-sided size selection (collect the supernatant from the 0.7x beads size selection, and followed by 1.",
+    "0x beads selection, then collect elution from the beads) and eluted in 80μl of nuclease free water.&nbsp;</p><p><strong>4.2. gRNA library construction</strong></p><p>(1) In total of five library preparation PCR (the 3</p><p>rd PCR) was conducted, with each reaction including 10 uL template, 25 uL NEBNext&nbsp;Ultra&nbsp;II Q5&nbsp;Master Mix, 2.5 uL P7_Read2_Index2 primer (10μM) and 2.5 uL P5_read1 primer (10μM).&nbsp;</p><p>(2) The PCR program was set as: (1) 98&nbsp;°C for 30 s, (2) 5 cycles of 98&nbsp;°C for 10 s, then 54&nbsp;°C for 15 s, then 65°C for 20 s and (3) 72&nbsp;°C for 2 min.</p><p>(3) The PCR product was cleaned up and size selected with 0.7–1.0x&nbsp;AMPure XP beads.</p><p>(4) All eluted DNA was combined, and quantified. An aliquot was sent for NGS sequencing using the Illumina platform.</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Genetics",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

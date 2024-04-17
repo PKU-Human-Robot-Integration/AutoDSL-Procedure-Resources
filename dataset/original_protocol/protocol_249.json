@@ -1,0 +1,15 @@
+{
+  "id": 263,
+  "origin_website": "Nature",
+  "title": "Measurement of phenoloxidase activity",
+  "procedures": [
+    "PO activity was measured as described<sup>1</sup>, with modifications.  \n1.  Incubate purified hemocyanin with proteases in 50 mM Tris-HCl, pH 8.3, containing 0.05 M NaCl, at 20 &#x2DA;C for 10 min. \n  2.   Add PAMPs \\(pathogen-associated molecular patterns eg: LPS or LTA) dissolved in the same buffer.\n  3.   Then add 1 mM 4ME in 0.1 M potassium phosphate, pH 6.0.  \n  4.  Immediately after the addition of the substrate, continuously monitor the absorbance at 405 nm using a microplate reader \\(Molecular Devices, USA). \n  5.  The PO activity is presented as A405 at 5 min after the addition of substrate."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

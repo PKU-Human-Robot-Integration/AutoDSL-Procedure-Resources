@@ -1,0 +1,14 @@
+{
+  "id": 8078,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Lipid Binding Assay",
+  "procedures": [
+    "Membrane strips coated with various lipids are incubated in 10 ml of blocking buffer for 1 h at room temperature in dark (the commercially available membrane strip has been coated with lipids).   20-60 μg of proteins are added to 6 ml incubation buffer with membrane strips and incubated overnight at 4 °C. In our study, we used Flag-tagged protein purified from 293T cells (Zhang et al., 2012). However, proteins purified from other sources can all be used. Negative controls should be included according to specific proteins used in this assay.   Membrane strips are washed extensively with wash buffer for 3 times at RT, 10 min each wash on rotator.   Membrane strips with bounded proteins are incubated with primary antibodies (Anti-Flag M2 from mouse, 1:1,000) in incubation buffer for 3 h at RT.   Wash 3 times at RT with wash buffer, 10 min each wash on rotator.   Incubate membrane strips with HRP-conjugated secondary antibodies (Goat anti-Mouse LgG (H+L) HRP, 1:10,000) in incubation buffer for 1 h at RT.   Membranes are washed as above and protein-antibody interaction is detected using SuperSignal West Pico reagent."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

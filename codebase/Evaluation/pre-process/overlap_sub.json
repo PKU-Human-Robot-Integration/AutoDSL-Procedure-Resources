@@ -1,0 +1,17 @@
+{
+  "('Biomedical & Clinical Research', 'Bioengineering & Technology')": 1035,
+  "('Biomedical & Clinical Research', 'Molecular Biology & Genetics')": 2143,
+  "('Biomedical & Clinical Research', 'Ecology & Environmental Biology')": 110,
+  "('Biomedical & Clinical Research', 'Bioinformatics & Computational Biology')": 144,
+  "('Bioengineering & Technology', 'Molecular Biology & Genetics')": 1909,
+  "('Bioengineering & Technology', 'Ecology & Environmental Biology')": 61,
+  "('Bioengineering & Technology', 'Bioinformatics & Computational Biology')": 70,
+  "('Molecular Biology & Genetics', 'Ecology & Environmental Biology')": 157,
+  "('Molecular Biology & Genetics', 'Bioinformatics & Computational Biology')": 266,
+  "('Ecology & Environmental Biology', 'Bioinformatics & Computational Biology')": 18,
+  "('Biomedical & Clinical Research', 'Biomedical & Clinical Research')": 4993,
+  "('Bioengineering & Technology', 'Bioengineering & Technology')": 1506,
+  "('Molecular Biology & Genetics', 'Molecular Biology & Genetics')": 5453,
+  "('Ecology & Environmental Biology', 'Ecology & Environmental Biology')": 615,
+  "('Bioinformatics & Computational Biology', 'Bioinformatics & Computational Biology')": 60
+}

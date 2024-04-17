@@ -1,0 +1,21 @@
+{
+  "id": 758,
+  "origin_website": "Nature",
+  "title": "Dendritic aggregation of the postsynaptic cell adhesion molecule NGL-3 by pre-clustered antibodies to induce postsynaptic protein clustering",
+  "procedures": [
+    "1. Transfect cultured hippocampal neurons at days _in vitro_ \\(DIV 14) with EGFP-NGL-3, followed by incubation of the neurons for 2 more days.\n  2. For antibody pre-clustering, mix 1 &#xB5;g of EGFP antibodies and 0.1 &#xB5;g of FITC-conjugated secondary antibodies \\(ratio of 10:1) in 500 &#xB5;l complete neurobasal media \\(CNB) and incubate the mixture for 2 hrs at 4 &#xB0;C. \n  3. Transfer the transfected neurons \\(DIV 16) to a 12-well plate containing ~400 &#xB5;l of prewarmed CNB in each well, and add 100 &#xB5;l of the preclustered antibody solution to make the final antibody concentration of 400 ng/ml. Save the conditioned culture media for step 5.\n  4. Incubate the neurons for 1 hr at 37 &#xB0;C.\n  5. Wash the neurons three times with pre-warmed PBS, and transfer the coverslip with neurons back to the conditioned culture media. \n  6. After 24 hr incubation, fix and immunostain the neurons with primary antibodies against various postsynaptic proteins, followed by the incubation with Cy3-conjugated secondary antibodies. To boost the signal for EGFP-NGL-3 clusters, add FITC-conjugated secondary antibodies during the incubation of Cy3 secondary antibodies. \n  7. Capture Z-stacked images of the stained neurons by confocal microscopy.\n  8. For the analysis of the captured images, trace the boundaries of each NGL-3 clusters on dendrites. Quantify the percentage of NGL-3 clusters that are positive for postsynaptic marker proteins. In addition, quantify the average immunofluorescence intensities of coclustered postsynaptic proteins and normalize them to those in nearby dendrites."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

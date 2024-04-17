@@ -1,0 +1,14 @@
+{
+  "id": 722,
+  "origin_website": "Nature",
+  "title": "Retroviral transduction in cultured murine basophils",
+  "procedures": [
+    "**Preparation of retrovirus-containing supernatant**\n1. Transfect retroviral constructs \\(based on the bicistronic vector, pMX-IRES-rCD2, see ref. 1) into the packaging cell line Phoenix using FuGene-6 reagent as instructed by supplier.\n  2. Collect retrovirus-containing supernatants 48 hours after transfection, and concentrate 10-fold by centrifugation \\(8000 g, 12 hours, 4&#xB0;C).\n  3. Filtrate virus supernatants through 0.22&#x3BC;m pore PVDF membrane. The filtrated supernatants can be stored for up to one week at 4&#xB0;C.\n  \n**Infection of BM-derived basophils with retroviruses**\n4. Isolate bone marrow \\(BM) cells from femurs and tibias of 8-12 week old mice.\n  5. Culture whole BM cells at 2 to 2.5 &#xD7; 10<sup>6</sup> cells/ml in 10 ml of penicillin and streptomycin, 2mM L-glutamine, 50 &#x3BC;M &#x3B2;-mercaptoethanol, 10% fetal bovine serum-containing RPMI 1640 medium supplemented with recombinant mouse IL-3 \\(5 ng/ml) for 9 days with medium changed every 3 days.\n  6. Enrich BM-derived basophils by depleting mast \\(c-kit<sup>+</sup>) cells using IMag system or autoMACS as instructed by the supplier. \n  7. Treat 12-well plates with RetroNectin solution \\(50 &#xB5;g/ml in PBS) for 2 hours at room temperature, followed by 2% bovine serum albumin in PBS for 30 minutes. \n  8. Incubate the treated plates with the virus supernatants for 4 hours at 30&#xB0;C. Add enriched BM-derived basophils \\(0.5 to 1 &#xD7; 10<sup>6</sup> cells/ml) and culture for 2 days for infection.\n  9. Recover infected cells and wash with RPMI 1640 containing 2% FBS.\n  10. For stimulating with IL-3, infected BM-derived basophils are &#x2018;starved&#x2019; by culturing in culture media without IL-3 for 12 to 18 hours before enrich rat CD2<sup>+</sup> cells with IMag system and/or AutoMACS."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

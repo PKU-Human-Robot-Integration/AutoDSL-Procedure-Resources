@@ -1,0 +1,17 @@
+{
+  "id": 408,
+  "origin_website": "Nature",
+  "title": "Quantitative Procedure to Analyze Nuclear β-Catenin Using Immunofluorescence Tissue Staining",
+  "procedures": [
+    "1. Perform a standard double immunofluorescent staining of the samples of choice. Stain β-catenin in red, alpha-catenin in green and counterstain the nuclei with Hoechst 33342.\n  2. Take standard confocal images \\(at least five frames for each sample).\n  3. Perform immunofluorescence quantification using ImageJ software as detailed as follows:\n  • Define Regions of Interest \\(ROI, see Fig. 1) using the Polygon or the Freehand selection tool, delimiting tumor tissue from stroma or adjacent regions.\n• Split the image into the three color channels \\(RGB Merge/split function) to obtain one image per channel.\n• To determine the average number of cells present in the previously defined ROI, use the Measure option in the program’s ROI Manager, to assess the integrated density value \\(IDV) for the blue channel \\(Hoechst 33342). \n• Using the Elliptical selection tool mark at least ten representative nuclei, covering the different sizes and intensities throughout the ROI. Then determine the IDV for all the selected nuclei and calculate the mean nucleus value.\n• Divide the blue channel IDV by the mean nucleus value. The resulting value corresponds to the average number of cells present in each respective ROI.\n• Next, to avoid quantifying the membrane signal of β-catenin, the signal that colocalize between β- and alpha-catenin is substracted. For that, open the Image calculator from the Process menu and create a new image using the operator Substract \\(Image1: β-catenin, Image 2: alpha-catenin).\n• Create a merged image combining the substracted image with the blue channel image using the operator AND. The merged picture shows nuclear localized β-catenin.\n• Measure the IDV of the respective ROI in this newly created merged image and divide it by the average number of cells calculated before. This represents the β-catenin content per nucleus.",
+    "• Represent the obtained values in scattered plots representing the level of expression for each protein per cell nucleus analyzed, noted as relative units \\(r. u.) indicating mean and 95% confidence interval.\n• Do suitable statistics, such as the non-parametric Kruskal-Wallis test that is used to compare three or more groups of unpaired values that did not follow any particular distribution. Thereby, Dunn’s multiple comparison post-test serves to identify the significance \\(P value)of differences in the sum of ranks between each pair of groups of values."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

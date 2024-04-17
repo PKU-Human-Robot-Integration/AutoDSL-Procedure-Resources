@@ -1,0 +1,15 @@
+{
+  "id": 5967,
+  "origin_website": "Bio",
+  "title": "Measurement of Lysosomal Size and Lysosomal Marker  Intensities in Adult <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "Note: Before starting the protocol: Ensure that 60 mm NGM plates (spotted with OP50) have been prepared. Day 1 Set up three plates with three adult hermaphrodites (one day post-L4 stage) on each spotted 60 mm NGM plate for each C. elegans experimental and control strain. Leave plates in a 20 °C incubator for three days for the hermaphrodites to lay eggs.Day 4Move 50-100 L4 stage C. elegans of each experimental strain onto new OP50-spotted 60 mm NGM plates (the offspring of the P0 hermaphrodites). This ensures that these animals would be fairly synchronized young adults for imaging on the following day.Day 5: Preparation for microscopy Prepare the imaging slide by first making the agarose pad. See steps 1-4 in Figure 1 for instructions.Next, add 7 μl of 9 mM levamisole/1x PBS (see Recipes) to the center of the agarose pad (Figure 1, S5).Pick 20-30 adult worms of one C. elegans experimental strain and submerge them in the 9 mM levamisole/1x PBS (Figure 1, S5). Put a cover slip on top of the agarose pad, ensuring that it fully covers the C. elegans and the 9 mM levamisole/1x PBS (Figure 1, S6).Repeat Steps 1-5 for all experimental and control strains used. Do microscopy to image LMP-1::GFP (or marker of interest) and focus on the intestine right below the pharynx, using the 63x objective. Take images that show the desired signal while avoiding saturation of the signal. Image C. elegans wild type strain RT258 first with both the Argon 488-nm laser and the Helium neon 543-nm laser. RT258 should be imaged first because it is the wild type strain which measurements from other experimental strains should be compared against. Take images of the intestines of approximately 5-10 adult C. elegans for the wild type RT258 strain.",
+    "Repeat Steps 7 and 8 for each control and experimental strain. Make sure that images of all strains are taken using the same exposure and magnification as RT258.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180201/20180201183535_0602.jpgFigure 1. Preparation of imaging slides"
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

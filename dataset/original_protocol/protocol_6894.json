@@ -1,0 +1,16 @@
+{
+  "id": 7266,
+  "origin_website": "Bio",
+  "title": "Detection and Measurement of ROS in Tobacco Leaves",
+  "procedures": [
+    "The seeds of tobacco plants were allowed to germinate on MS medium, and then the plants were transferred to soil and grown for two weeks in a growth chamber at 25 ± 1 °C with PPFD of 100 μmol/m2/s, a relative humidity of 75–80%, and a photoperiod of 12/12 h light/dark. For H2O2 content determination, tobacco leaves (50 mg) were ground with mortar and pestle to a fine powder in liquid nitrogen and the powder was extracted in 2 ml 1 M HClO4 including 5% insoluble PVP. The homogenate was centrifuged at 12,000 x g for 10 min and the supernatant was neutralized with several microlitre 5 M K2CO3 to pH 5.6. The homogenate was centrifuged at 12,000 x g for 1 min to remove KClO4.To eliminate the interference of ascorbate, the supernatant was incubated for 10 min with 1 U/ml ascorbate oxidase at room temperature to oxidize ascorbate.Preparing reaction mixture: the reaction mixture consisted of 0.05 M phosphate buffer (pH 6.5); 3.3 mM DMAB; 0.07 mM MBTH and 50 ng/ml horseradish peroxidase. The reaction was initiated by addition of an aliquot (50 μl) of the sample. Reaction mixture (1 ml)table:\n﻿0,1,2\nStock,Volume,Final conc.\n0.1 M phosphate buffer (pH 6.5),500 μl,0.05 M\n33 mM DMAB,100 μl,3.3 mM\n0.7 mM MBTH,100 μl,0.07 mM\nhorseradish peroxidase (0.1 U/μl),1 μl,0.1 U\nsample,50 μl,\nddH2O,,\"to 1,000 μl\"",
+    "The absorbance change at 590 nm (ΔOD1) per minute was monitored at 25 °C for 1-5 min. The value represents the total peroxides including H2O2 in the sample. To eliminate the interference of other peroxides, an aliquot of the supernatant pre-incubated with ascorbate oxidase as mentioned in step 3 was then incubated for 10 min with 1 U/m catalase at room temperature to catalyze H2O2 decomposition. The interference of other peroxides was then determined using the same procedure as described in step 4 (ΔOD2).The absorbance change at 590 nm caused by H2O2 in sample was calculated as ΔOD1-ΔOD2.H2O2 content in the sample was quantified by reference to an internal standard: in each determination in step 4, a parallel aliquot was assayed with addition of 2 nmol H2O2 to the reaction mixture, and the absorbance change at 590 nm (ΔOD3) was monitored at 25 °C.The final H2O2 concentration was calculated as: (ΔOD1-ΔOD2)/ (ΔOD3-ΔOD1) × 2 nmol/50 μl × total volume of the extraction/total fresh weight of the tobacco leaves."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

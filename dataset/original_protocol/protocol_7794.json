@@ -1,0 +1,15 @@
+{
+  "id": 8201,
+  "origin_website": "Bio",
+  "title": "Quantification of Total and Soluble Inorganic Phosphate",
+  "procedures": [
+    "Total Pi (Hurley et al., 2010)Acid wash crucibles by incubating for at least 1 h in 0.1 N HCl at room temperature, then rinse with dH2O and dry.Pre-weigh crucibles and place at least 60 mg (fresh weight) of tissue in each.Dry in oven at 50-80 °C for at least 16 h (e.g., overnight), and then record tissue’s dry weight (mg) in each crucible.Ash the tissue in the furnace using a temperature ramp program (20 min at 150 °C, 1 h at 250 °C, and 3 h at 500 °C).Weigh crucible and ash. Add 25 μl of acid extraction solution per mg of ash, mix well, and centrifuge at 11,000 x g for 10 min.Dilute the supernatant 50-fold in dH2O.Assay Pi using the Drueckes et al. (1995) protocol as modified for plant tissues (Bozzo et al., 2006) by preparing a standard curve over the range 1-133 nmol of Pi using the following template.table:\n﻿0,1,2,3\nWell #,Vol of Pi stock (3.3 mM),Volume of dH2O,Amount of Pi added\n,(μl),(μl),(nmol)\n1A,0,40,0\n1B,2,38,6.6\n1C,4,36,13.2\n1D,8,32,26.4\n1E,12,28,39.6\n1F,16,24,52.8\n1G,20,20,66.0\n1H,24,16,79.2\n2A,30,10,99.9\n2B,35,5,116.6\n2C,40,0,133.2\nPipette 1-40 μl of unknown(s) into adjacent wells(s). Add dH2O to bring each well to 40 μl final volume.Add 200 μl of Pi assay reagent to each well using a repeat pipetor.Incubate at 37 °C for 30 min.Measure A660 values and use the Pi calibration (standard) curve to determine Pi content of unknowns.Express the data as: nmol Pi mg-1 dry weight.Soluble Pi (Bozzo et al., 2006)Extract snap-frozen tissues (1:5, w/v) with 1% (v/v) glacial acetic acid.Centrifuge samples at 11,000 x g for 10 min.Assay the supernatant for Pi as described above.Esterified-Pi is calculated from the difference between total and free Pi concentrations."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

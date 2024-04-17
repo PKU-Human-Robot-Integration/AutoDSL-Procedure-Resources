@@ -1,0 +1,15 @@
+{
+  "id": 15721,
+  "origin_website": "Jove",
+  "title": "Ultrasonic-Assisted Extraction of Cannabidiolic Acid from Cannabis Biomass",
+  "procedures": [
+    "1. Plant material preparation\nObtain Cherry Wine inflorescences from plants grown in the field, planted in a south-to-north configuration, with plants 1 m apart in center and rows 1.2 m apart (cultivation located in Longmont, Colorado, USA).\nAir-dry the inflorescences at 35 °C for 48 h. Grind the inflorescences using a grinding machine set a 177 µm.\nPass the pulverized material through the No. 80 mesh sieve. Store the resulting powder in a sealed bag at room temperature for future use.\n2. Ultrasound extraction\nWeigh 0.5 g of the Cannabis inflorescence powder into a 50 mL conical tube. Add 40 mL of the solvent (e.g., 50% ethanol in deionized water) to the vessel.\nPlace the extraction vessel in the ultrasonic bath set at 40 kHz and at room temperature (sonication power is 100 W).\nPerform the extraction in the ultrasonic bath for 30 min, increasing the temperature of the bath from 25 °C to 30 °C.\nDecant the extraction fluid into a centrifuge tube.\nCentrifuge the fluid at 3,000 x g at 15 °C for 15 min. Filter the supernatant under vacuum through an 8 µm filter paper.\n3. High-performance liquid chromatography (HPLC) quantitative analysis\nDilute seven cannabinoid standards: cannabichromene (CBC), CBD, CBDA, cannabinol (CBN), tetrahydrocannabinolic acid (THCA), Δ8-THC, and Δ9-THC to operating concentrations of 100, 50, 25, and 12.5 µg/mL in 100% methanol. Mix and sonicate for 5 min in an ultrasonic bath set at 40 kHz and sonication power of 100 W\nFilter the standards through a 0.45 µm polytetrafluoroethylene (PTFE) syringe filter. Filter the sample supernatant (from step 2.5) through a 0.45 µm PTFE syringe filter.\nPut the sample to be analyzed in a 1.5 mL vial into the HPLC autosampler and load 10 µL at a time.",
+    "Run HPLC as per the conditions and parameters provided in Table 1. Derive cannabinoid concentrations in 50-200 µg/mL from the generated standard curve.\nMultiply with the volume of the solvent (40 mL) used in the extraction process to obtain µg of cannabinoid. Convert the µg of cannabinoid to mg of cannabinoid by dividing it by 1000.\nDivide with the original weight of the plant material (0.5 g) used in the extraction to obtain mg/g dry weight.\n4. Optimization using response surface methodology\nEstablish the model, consisting of 15 experimental runs with 12 factorial points and three center points as shown in Table 4 using a data analysis tool.\nOptimize the extraction parameters, extraction time (T), solvent concentration (S), and sample/solvent ratio (R) using response surface methodology and central composite design. Set the range of variables T, S, and R as 5-30 min, 20%-100%, and 60-100 (1:X), respectively.\nSelect the total yield of lipophilic extract and the yields of extracted CBD and CBDA as response factors (RF).\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

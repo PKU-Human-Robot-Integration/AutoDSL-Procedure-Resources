@@ -1,0 +1,15 @@
+{
+  "id": 416,
+  "origin_website": "Nature",
+  "title": "SARS PCR/Sequencing Primers",
+  "procedures": [
+    "Reverse Transcription:\n1. In a 1.5-µL Eppendorf tube, add 1-4 µL RNA and 1 µL Random Hexamers.\n  2. Incubate at 70ºC for 5 min.\n  3. Place reaction briefly on ice and assemble the reverse transcription reaction using the kit-supplied reagents \\(a master mix can be made if multiple reactions are being run):\n    4 µL 5X First-Strand Buffer\n  2 µL DTT\n  1 µL SuperScript III reverse transcriptase\n  1 µL dNTPs\n  1 µL RNasin \\(if desired)\n  x µL H2O to 20 µL\n3. Incubate at 55ºC for 45 min to 1 h.\n  4. Inactivate the reverse transcriptase at 70ºC for 15 min. Place reaction on ice after inactivation.\n  5. Proceed with PCR setup.\n  \nPCR \\(with Phusion PCR kit):\n1. Assemble PCR reactions to generate amplicons according to those detailed in Table 2 \\(for whole-genome sequencing) or with any combination of forward and reverse primers from Table 1.\n  2. PCR reaction setup:\n    2 µL First-strand template\n  1 µL Forward Primer\n  1 µL Reverse Primer\n  5 µL 10X HF Buffer\n  1 µL dNTPs\n  0.5 µL Phusion polymerase\n  x µL H2O to 50 µL\n3. PCR reactions are run under standard PCR conditions:\n    98ºC 5 min\n  35 cycles of:\n    98ºC 15 sec\n    xºC for 30 sec*\n    72ºC for ~45 sec/kb\n  72ºC 10 min\n  8ºC Hold\n* Annealing temperature is primer-dependent, but for most SARS-CoV primers in Table 1, annealing temperatures 52-55ºC will work.\n  \nConfirmation of PCR products and sequencing:\n1. Run PCR products \\(5 µL/reaction) on a 0.8% agarose/1X TAE gel to verify PCR success.\n  2. Purify PCR products with PCR purification kit of choice \\(the Qiagen PCR Purification Kit works well).\n  3. PCR products can be diluted to 150-200 µL/reaction to ensure that enough product is present for assembling sequencing reactions.\n  4. Assemble sequencing reactions according to the primer/amplicon combinations outlined in Table 2."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

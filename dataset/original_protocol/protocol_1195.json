@@ -1,0 +1,15 @@
+{
+  "id": 1275,
+  "origin_website": "Nature",
+  "title": "<p>Tracing ovarian follicles growth <em>in vitro</em> by three-dimensional culture system</p><p><br></p>",
+  "procedures": [
+    "<p><u>1. Preparation of the follicle culture medium:</u></p><p>The basic medium to isolate the follicles was the MEMα medium. To culture the follicles, the MEMα medium was supplied with 10% FBS, 1% insulin-transferrin-selenium (ITS; Sigma-Aldrich), 10 ng/mL FSH (ovine Follicle Stimulating Hormone, NHPP) and 0.1% penicillin and streptomycin (Thermo Fisher Scientific) and was pre-warmed to 37℃ before using.</p><p><br></p><p>2.<u> Preparation of the Matrigel microdroplet</u></p><p>The precooling liquid Matrigel was mixed with culture medium (3:1), and then added to 6 well culture plate to make the microdroplet (20 μL per droplet, 6 droplets per well) on ice by pipette (Tip: Make sure the tips were precooled to avoid the coagulation of gel). Gently putting the plate into the 37℃ incubator. After around 20 min, the phase of Matrigel droplets changed from liquid to solid.</p><p><br></p><p>3. <u>Ovarian follicle culturing</u>:</p><p>\t(1) Collecting the mouse ovaries from the C57BL/6 females at postnatal day (PD) 21, washing the ovaries with PBS to remove the blood and then put in 35 mm culture dish with 2 mL basic medium.</p><p>\t(2) Tearing the ovary to the small pieces, and gently isolating the ovarian follicles (diameter 120-160 μm) by Omnican U-40 Insulin syringe in the medium. Choosing the follicles with intact theca layer to culture.</p><p>\t(3) Poking the solid Matrigel microdroplet to make a hole in the center of droplet by mouth pipette, and transfer one isolated follicle and seed it into the hole of Matrigel microdroplet by mouth pipette. </p><p>\t(4) Repeating step 3 to seed one follicle into each microdroplet. </p><p>\t(6) Adding the 2 μL liquid Matrigel to seal the hole and put the plate into incubator at 37°C for 10 min to make the gel solid. After this step, the cultured follicles were completely surrounded by the gel.",
+    "</p><p>\t(7) Adding 1 mL the culture medium to each well, culturing the ovarian follicle in incubator at 37°C (5% CO<sub>2</sub>, saturation humidity) for 8 days and replaced half of the culture medium every other day.</p><p><br></p><p>4. <u>Tracing the follicle growth:</u></p><p>&nbsp;&nbsp;(1) In ovarian follicle diameter tracing experiment, the developmental dynamics of follicles were recorded by the increase of the diameter in bright field with a Nikon Eclipse Ti digital fluorescence microscope. The survival rate of the follicles was around 350 μm after 8 days cultured. </p><p>&nbsp;</p>"
+  ],
+  "subjectAreas": [
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

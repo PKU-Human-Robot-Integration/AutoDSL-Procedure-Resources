@@ -1,0 +1,15 @@
+{
+  "id": 4531,
+  "origin_website": "Bio",
+  "title": "Accelerated Storage Stability Testing of a Potential Anti-Anthrax Therapeutic, EnvD",
+  "procedures": [
+    "Aliquots of freshly isolated EnvD (35 µg total protein) were adjusted to a final volume of 50 µl with sterile PBS in 1.5 ml microcentrifuge tubes and sealed with Parafilm.   Microcentrifuge tubes were maintained at 37 °C over a period of 30 days to simulate long-term storage. The temperature of the incubator was periodically checked to ensure it did not fluctuate by more than ± 2 °C.   Samples of EnvD were periodically (0 days, 1 day, 3 days, 7 days, 15 days, 30 days) removed from the incubator and rapidly combined with 400 µg of lyophilised PDGA substrate suspended in 1 ml of PBS.    Reactions were allowed to proceed for 1 h at 37 °C in a static incubator and were terminated by heating at 95 °C for 10 min. Samples were stored at -20 °C before viscometeric analysis.   Viscosity of PDGA following incubation with stored enzyme preparations was determined using an Anton Paar falling ball microviscometer. Frozen samples were thawed at room temperature and transferred to a glass viscometry capillary containing a solid steel ball using a 5 ml syringe and filling adapter.    Viscosity was determined as the time taken for the ball to fall 25 cm through the sample at an angle of 15° to the horizontal; each automated, timed determination was performed four times.   After each reading the capillary was cleaned with distilled water followed by 70% ethanol. The capillary was then dried with compressed air."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

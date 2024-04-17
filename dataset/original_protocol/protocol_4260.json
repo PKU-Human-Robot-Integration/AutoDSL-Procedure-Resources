@@ -1,0 +1,16 @@
+{
+  "id": 4472,
+  "origin_website": "Bio",
+  "title": "Iodine Staining of <em>Escherichia coli</em> Expressing Genes Involved in the Synthesis of Bacterial Glycogen",
+  "procedures": [
+    "Inoculate non-transformed and transformed E. coli AC70R1-504 cells onto 3 ml of LB medium with appropriate antibiotics to ensure plasmid permanence. Then, grow at 37 °C until an OD600 ~0.8 is reached. Usually the initial inoculate comes from a saturated culture. Induce protein expression for 3 h at 200 rpm and 25 °C in presence of IPTG, nalidixic acid or both, depending on the genes being expressed.  Note: Temperature, inducer concentration and other conditions are specific for the system in order to assure a correct expression level of soluble and active protein.    Afterwards, to stimulate glycogen production, add glucose to a final concentration of 0.2% (wt/vol) and further incubate (under the same conditions) for 1 h.    Withdraw an aliquot of 0.1 ml and centrifuge it in a 1.5 ml microcentrifuge tube at 16,000 x g for 5 min. Aspirate supernatant carefully, leaving a compact cell pellet in the bottom of the tube.  Note: The pellet should be as dried and compact as possible to avoid drops sliding down the walls of the tube.   Turn upside down the microcentrifuge tube, so an iodine crystal could be placed in the cap of the closed tube. After 5 min at room temperature, iodine vapors stain the cell pellet if glycogen has been previously produced.  Note: The specific amount of iodine in the crystal is not critical, as it only provides an excess of the compound present in vapors."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

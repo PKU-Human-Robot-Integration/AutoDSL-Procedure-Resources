@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "origin_website": "Nature",
+  "title": "NKT cells and CD8+ T cells are dispensable for T cell dependent allergic airway inflammation",
+  "procedures": [
+    "**1** _Sensitization and challenge protocols._  Induction of AAI should be carried out as described elsewhere ??<sup>2</sup>??.  Sensitise six to eight-week-old male mice with intraperitoneal injections of OVA \\(Grade V; Sigma, St. Louis, MO) \\(100 &#xB5;g) plus 1 mg aluminum hydroxide \\(ALUM; Pierce, Rockford, IL) as adjuvant in 0.2 ml PBS on days 0 and 7.  On days 14-17, give mice 50 &#xB5;l of 2 mg/ml OVA in sterile PBS \\(i.n.).  On day 18, 24 h after the last intranasal challenge, harvest bilateral BAL \\(2 aliquots of 1 ml PBS with 0.6 mM EDTA) and collect tissues for histological analysis.  A second protocol can also be utilized as described by Kelly-Welch, et al. ??<sup>3</sup>??.  In brief, mice are sensitized with 100 &#xB5;g OVA and boosted after 14 days.  Mice are then challenged via the intranasal route on days 19, 21, 24 and 26.  Twenty-four hours after the last challenge animals are euthanized and BAL fluid collected for determination of cellular infiltration and cytokine levels.  Perfused lungs are harvested for histological studies.   \n**2** _CD8+ T cells and NKT cells depletion._  For depletion of CD8+ T cells or NKT cells from C57BL/6, BALB/c, CD1d<sup>--/--</sup>, or K<sup>b--/--</sup>D<sup>b--/--</sup> knockout mice, inject 100 &#xB5;g/mouse/week of specific antibody for 4 weeks.  Effectiveness can be confirmed by staining splenocytes with CD1d:Ig dimer and CD8-specific antibody.  \n**3** _Allergen-initiated respiratory inflammation._  Measurement of inflammatory mediators can be determined in cell-free BAL fluid \\(2000 x g, 10 min) by sensitive and specific ELISA, in tandem, for IL-4, IL-5 and IL-13 \\(R&amp;D Systems, Minneapolis, MN).  Resuspend cells in HBSS, enumerate using a hemocytometer, and concentrate onto microscope slides by cytocentrifugation \\(STATspin, Norwood, MA) \\(265 x g).  Stain cells with Wright&#x2013;Giemsa stain \\(Sigma) to determine leukocyte differentials \\(after counting 200 cells).",
+    "**4** _Histology._  Euthanize mice by CO<sub>2</sub> inhalation.  Remove lungs and embed in paraffin, then cut into 5 to 6 &#xB5;m sections using a cryostat.  Stain the sections with hematoxylin/eosin \\(H&amp;E) and examine microscopically. Perform mucus staining with PAS.  View the sections in a blind fashion, and score disease severity on the basis of cellular infiltration.  Stain the paraffin sections with Alcian blue \\(AB)/periodic acid-Schiff \\(PAS) stain and observe using standard light microscopy.  The mucus-producing cells should be stained dark brown.  \n**5** _Statistics._  Assess data using the Student's _t_-test, ANOVA or Wilcoxon rank sum test, as appropriate.  Data should be expressed as mean +/- SEM of evaluations of a minimum of six mice."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8162,
+  "origin_website": "Bio",
+  "title": "Pulmonary Myeloperoxidase Activity",
+  "procedures": [
+    "Weigh out 50 mg tissue into polycarbonate test tubes containing 0.5-1 ml ice cold 1x assay buffer with 10 mM N-ethylmaleimide.   Homogenize to just disrupt the tissue by placing the tip of the homogenizer in the bottom of the tube and switching the machine on, agitating the tube to move the tip of the homogenizer throughout the liquid and then switching the machine off after approximately one sec. Repeat until the tissues are just disrupted, usually 9 more times for a total of 10 pulses.   Centrifuge at 500 x g for 10 min at 4 °C.   Discard supernatant, add 500 μl ice cold 1x assay buffer containing 0.5% hexadecyltrimethylammonium to the pellet and transfer to a 2 ml microfuge tube.   Homogenize to lyse the cells by placing the tip of the homogenizer in the bottom of the tube and switching the machine on, agitating the tube to move the tip of the homogenizer throughout the liquid and then switching the machine off after approximately 5 sec. Repeat 9 times for a total of 10 pulses. Place on ice.   Sonicate to further lyse the cells at 50% power for 10 sec. Place on ice. Repeat 2 times for a total of 3 pulses.     Snap freeze in liquid nitrogen and thaw at room temperature by placing in liquid nitrogen, immediately removing from the nitrogen and leave the samples at room temperature until completely thawed.  Repeat snap freeze and thaw once.   Store at -80 °C until assayed.   Prior to assay, serially dilute the included MPO standard in assay buffer.   To assay, add 50 μl of sample or the MPO standard to the bottom of a black 96 well plate. Add 50 μl Reaction Cocktail provided by the kit. All samples and standards should be run in duplicate.",
+    "Incubate at room temperature in the dark for 30 min.     Read the fluorescence at 550 nm excitation and 595 nm emission every 10 min until 60 min incubation.   Plot the standard concentration vs. the maximum relative fluorescence units to create a standard curve (Figure 1).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130730/20130730045032_8158.jpg Figure 1. Representative Standard Curve    Determine the concentration of the unknowns from the standard curve."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

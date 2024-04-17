@@ -1,0 +1,21 @@
+{
+  "id": 516,
+  "origin_website": "Nature",
+  "title": "Preparation of aggregate-free α -synuclein  for _in vitro_ aggregation study",
+  "procedures": [
+    "**Preparation of aggregate-free LMW α-Syn solution**. \n1. Express α-Syn  in _E.Coli_ BL21 \\(D3 strain) and purify according to established protocol as described by _volles et al_. with slight modification<sup>20, 21</sup>. \n  2. Lyophilize the purified protein and store at -20<sup>o</sup>C until further use. \n  3. Take 10 mg solid lyophilized protein in a 1.5 ml micro centrifuge tube and suspend in 500 µl of 20 mM Gly-NaOH buffer, pH 7.4, 0.01% sodium azide. \n  4. Then add a few µl of 2\\(M) NaOH solution to make clear α-Syn solution. In this stage the pH was more than 9.5. \n  5. Reduce the pH of the resulting solution gradually to 7.4 by adding few µl of 2\\(N) HCl. Confirm the final pH of the resulting solution. In our laboratory this was done using a  micro pH meter \\(Mettler-Toledo, Switzerland, Model S20 Seven easy). \n  6. Centrifuge the solution  centrifuged at 13000 xg for 30 minutes at 4<sup>o</sup>C. 7. Remove the resulting supernatant  and transfer 250 µl of this solution into a pre-washed 10 kDa mini dialysis unit \\(Slide-A-Lyzer, Thermo Scientific). \n  8. Dialyse against the same buffer \\(20 mM Gly-NaOH, pH 7.4, 0.01% sodium azide) for 10 hours at 4<sup>o</sup>C in order to remove salt and fragmented proteins/peptides. \n  9. After 10 h of dialysis, remove the solution and transfer into a 100 kDa cut-off filter \\(Amicon ultra). \n  10. Wash the Cut-off filter 3 times with buffer by centrifuging at 6000 x g for 10 mins.  \n  11. Isolate the aggregate free low molecular weight α-Syn by centrifuging the solution at 10000 x g for 30 minutes at 4<sup>o</sup>C. Collect the flow through. The solution should be free from any larger aggregates/seeds \\(MW<100 kDa) and suitable for aggregation study. \n  \nThe preparation of low molecular weight α-Syn solution has been summarized schematicaly in Figure 1.",
+    "Concentration of the LMW  α-Syn was measured by UV absorbance at 280 nm, considering molar ellipticity of α-Syn as 5960 cm<sup>-1</sup>. The final concentration was adjusted to 300 µM. \n**Aggregation kinetics monitored by ThT**. \n1. Tranfer the LMW \\(300 µM, 500 µl)  to low binding tube and place tubes into an Echo Thermo model RT11 rotating mixture \\(Torrey Pines Scientific,USA), then place inside a 37<sup>o</sup>C incubator. \n  2. Initiate the aggregation process by rotating the tube containing α-Syn solution at 50 r.p.m. \n  3. At regular time interval, remove some aliquots of sample from the tubes and analyse. \n  4. Monitor aggregation kinetics at regular time intervals \\(4-6 h) with the help of amyloid specific dye ThT. \n  \n**ThT fluorescence measurement**\n1. Dilute 3.3 μl of 300 μM protein solution to 200 μl such that the final protein concentration becomes  5 μM. 2. Take the diluted α-Syn  in a quartz cuvette and add 2 µl of 1 mM ThT \\(prepared in 20 mM Tris Hcl buffer, pH 8). \n  3. Measure the ThT fluorescence by exciting at 450 nm and acquire the emission spectra in the range of 465 nm to 500 nm with excitation and emission slit width of 5 nm. \n  4. Plot fluorescence intensity at 480 nm against incubation time \\(hr).\n  \n**Structural transition measured by Circular dichroism \\(CD)**. \n1. Dilute 7.5 µl of 300 μM incubated protein solution to 150 µl in 20 mM Gly-NaOH, pH 7.4 with 0.01% sodium azide. The final protein concentration should be 15 μM. \n  2. Place the solution into a 0.1 cm path-length quartz cell \\(Hellma, Forest Hills, NY). \n  3. Acquire spectra. In our laboratory we use a JASCO-810 instrument at 25<sup>o</sup>C. \n  4. Record all the Spectra over the wavelength range of 200-260 nm.",
+    "5. Process raw data by smoothing and subtraction of buffer spectra, according to the manufacturer’s instructions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

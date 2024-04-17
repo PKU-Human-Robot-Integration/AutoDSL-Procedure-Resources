@@ -1,0 +1,18 @@
+{
+  "id": 255,
+  "origin_website": "Nature",
+  "title": "Isothermal titration calorimetry to determine the association constants for a ligand bound simultaneously to two specific protein binding sites with different affinities",
+  "procedures": [
+    "1) Prepare 300 uL of protein solution \\(50-60 μM) diluting       the dialyzed protein with buffer Hepes 20 mM \\(pH 8.0).\n2) Prepare ca. 100 μL of ligand solution diluting the ligand batch solution \\(50 mM in DMSO) with the dialysis buffer up to a concentration 10 times that of the protein.\nIn the reverse titration the protein \\(400 μM) is injected into the cell containing the ligand \\(40 μM).\n3) Perform the washing cycles of the cell and syringe to avoid interference of contaminants from previous runs.\n \n**CRITICAL STEP** We found that this step is very          important to carry out a good experiment. If necessary, wash the cell with 5% v/v DECON detergent at 60°C for 1 h and then with abundant water. It is also very important to eliminate any trace of methanol from the syringe.\n4) Perform a preliminar experiment water into water looking at the baseline stability, to be sure of the cleanness of the cell and syringe.\n5) Rinse the sample cell with the protein buffer solution\n6) Fill the sample cell with the protein solution avoiding bubbles.\n**CRITICAL STEP** Degas all solutions using a vacuum pump or centrifuge in order to avoid air bubbles during the experiment.\n**CRITICAL STEP** Filter the protein solution to eliminate        possible precipitates.\n7) Fill the syringe with the ligand solution. A couple of purge-refill cycles may be performed to avoid air bubbles in the syringe.\n**CRITICAL STEP** Determine very accurately the concentration of the ligand, using for example an analytical balance. Remember that the concentration of the syringe reactant is critical to the accuracy of the binding thermodynamic parameters, whilst it is always possible to correct for errors on the protein concentration after the experiment \\(in this case only the accuracy of the molar ratio is affected).",
+    "8) Rinse the surface of the needle with water in order to eliminate any trace of the ligand and then wipe it with a Kimwipe.\n9) Choose instrument settings for your experiments. In our experiments we set as follows: 20 injections,  initial delay 60 sec., spacing 180 sec., filter period 5 sec., injection volume 2 μL, measurement temperature of 25°C, reference power of 5 μcal s<sup>-1</sup>, stirring speed of 1000 r.p.m. \n10) Start the experiment after gently setting the syringe in place\n11) Rerun the ITC assay again for the other experiments \\(reverse titration and the titration with the ligand into the protein pre-equilibrated with a second ligand). Mantain the same ITC running parameters as in the first titration.\n12) Perform blank experiments titrating the buffer in the cell with the ligand solution.\n**Data analysis**\n13) Correct manually the integration of the peaks after adjusting the baseline to eliminate the effect of bubbles or drifting of the baseline.\n  \n14) Subtract the blank experiment to correct for dilution effects of the ligand in the buffer. The last points of the sigmoid curve after this correction should be proxime to zero.\n15) Data fitting. Fit the data using for example the One set of sites model.  Look accurately at the fitting curve and at the errors on Ka and enthalpy after the fitting, to decide if the experiment is reliable."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Structural Biology",
+    "Chemical Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

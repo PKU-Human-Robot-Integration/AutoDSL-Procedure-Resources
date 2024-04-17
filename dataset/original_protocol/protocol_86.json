@@ -1,0 +1,18 @@
+{
+  "id": 89,
+  "origin_website": "Nature",
+  "title": "A practical efficient approach in high throughput screening: using FDR and fold change",
+  "procedures": [
+    "We compared cell viability under two experimental conditions \\(paclitaxel treated or vehicle treated) for all genes available in the genome-scale RNAi library<sup>3</sup>. The analysis was performed in triplicate under each condition. The step by step statistical procedures we used are as follows:\n1. Collect the raw luminescence measurement from each well of the high throughput screen and record as a numeric value. Information about well location in the plate and plate number should also be recorded.\n  2. Normalize numeric luminescence values to internal reference control samples \\(cells with no siRNA in wells) on each plate to allow for plate-to-plate comparisons. The value of each experimental well should be divided by the reference well of the plate.\n  3. For each gene, perform a two sample t-test \\(with pooled variance) to determine whether there is a significant difference between the mean values under the two experimental conditions. Record a _P_-value. We performed this test using both GeneSpring and SAS. The results were almost identical with only minor decimal rounding differences. While we used a two sample t-test , other commonly used statistics, such as _S_- \\(SAM), _U_- \\(Mann&#x2013;Whitney) and _M_- statistics may also be used for computing the _P_-values for each gene. In situations where there are multiple experimental conditions, ANOVA-type of analysis can also be performed to calculate _P_-values.",
+    "4. With the _P_-values generated in step 3 \\(we had 20,960), perform Benjamini-Hochberg&#x2019;s method to control the false discovery rate \\(FDR)<sup>1</sup> ; again, we recommend you use the standard operations in GeneSpring and SAS. The essence of this method is to inflate the raw _P_-values based on their rank in the distribution of all the _P_-values. Let _P\\(i)_ = the _P_-value of gene _i_, let _i_ = rank of _P\\(i)_ in the distribution, let _m_ = total number of comparisons \\(i.e. genes in the genome, in our case, _m_=20,960) and let _q*_ = false discovery rate, the FDR for the _i_<sup>th</sup> gene FDR\\(_i_)= P\\(_i_) \\(_m/i_). Since we pre-specified FDR criterion as FDR&#x2264;0.05, genes with a FDR less or equal to 0.05 were selected into list A.\n  5. In order to take the magnitude of response into account, sort the viability ratios \\(e.g. fold change: mean<sub>paclitaxel</sub>/mean<sub>carrier</sub>) in ascending order and select the genes with a fold change among the lowest 2.5 percentile of the fold change distribution into list B.\n  6. Include genes that were identified by both list A \\(so for our study, FDR&#x2264;0.05) and list B \\(fold change among the lowest 2.5%) in a high priority hit list C. Genes selected in list C can be sorted either using FDR or fold change for further validation and functional tests. \n  \nNote:  In our &#x201C;high confidence&#x201D; list C, we observed high extent of enrichment of proteasome subunits and of Gamma-TuRC subunits. Assuming hypergeometric distribution, the probability of obtaining this high enrichment by chance is close to zero. This further confirms the validity of list C."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

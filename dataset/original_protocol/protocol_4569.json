@@ -1,0 +1,16 @@
+{
+  "id": 4819,
+  "origin_website": "Bio",
+  "title": "Calcium Mobilisation Assay in Response to Chemokine Stimulation",
+  "procedures": [
+    "Cells are collected, washed and resuspended at ~1-2 x 106 cells/ml in RPMI 1640 media (no FBS).   If treated with PTX, then samples are split in 2 with one receiving 100 ng/ml PTX and the other PBS. Tubes are rotated at 37 °C for 3-4 h.    If cells are not pretreated with PTX, then cells are rotated for 1 h at 37 °C.   Cells are then washed twice with assay buffer+ 2.5 mM probenecid.   Resuspend cells in loading buffer (assay buffer + probenecid + 2.28 µg/ml Fluo-4 + 0.91 µg/ml Fura-red) at ~4 x 106 cells/ml. N.B. In both cases, 50 µg of Fluo-4 and Fura-red are dissolved in 22 µl pluronic F-127 (20% solution in DMSO) and 22 µl DMSO.   Light protected tubes are rotated for 30 min at 37 °C.   Cells are then washed once and resuspended with assay buffer + probenecid at ~ 5 x 106 cells/ml.   For SDF-mediated calcium flux analysis, 450 µl of cells are aliquotted into a FACS tube and basal ratio of FITC/PerCP-Cy5.5 levels are recorded. At 1 min, cells are stimulated with 50 µl 10 µg/ml (~125 nM final) SDF-1 and responses recorded for a further 3 min. Finally, cells are stimulated with 50 µl 20 µM ionomycin.  Note: SDF-1 can be replaced by other chemokines as you desire. However, optimal dose needs to be determined."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

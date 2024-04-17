@@ -1,0 +1,16 @@
+{
+  "id": 5624,
+  "origin_website": "Bio",
+  "title": "Determination of Reduced and Total Glutathione Content in  Extremophilic Microalga <em>Galdieria phlegrea</em>",
+  "procedures": [
+    "Preparation of microalgae extractsCollect 100 ml of culture during the exponential growth phase (OD550 between 0.8 and 2.5) by low speed centrifugation (4,500 x g for 10 min) by Bench centrifuge from 100 ml of algal culture. Discard the supernatant, re-suspend the pellet in 3 ml of 5% (w/v) sulfosalicylic acid and mix by vortexing.Note: Sulfosalicylic acid is added to the pellet for its protective effect on stability of GSH (Stempak et al., 2001) but also for the removal of proteins from samples.Lyse the cells by passing twice through a French pressure cell (1,100 psi). Centrifuge at 11,000 x g for 20 min at 4 °C by Superspeed centrifuge. Use the resulting supernatant as crude extract (CE) and assay it for the glutathione content.Note: Other methods and procedures can be used to lyse Galdieria cells; among the most common methods, there are the use of a magnetic stirrer, microwave radiation, ultrasonication and enzyme treatment (Dvoretskyet al., 2016; Farooq et al., 2016; Huang et al., 2016). The breaking of the cells can be observed with an optical microscope.Keep the crude extract on ice before use.Note: The CE for glutathione determination needs to be used within 2 h after the preparation; in fact, after 2 h and after freezing a drastic reduction in GSH content was observed.Preparation of the calibration curveQuantification of glutathione levels is based on the reduced form of glutathione (GSH). Calibration curve is performed with 0-500 μM standard GSH solution. The molar extinction coefficient (ε), calculated at 412 nm, is estimated to be 0.017 mM-1 cm-1.Determination of reduced and total glutathioneTo determine the reduced glutathione (GSH) content add to a 1.5 ml cuvette 600 µl of reaction buffer, 40 µl of 0.",
+    "4% (w/v) DTNB, 10-100 µl of CE and Milli-Q water to a final volume of 1,140 µl, and mix gently. The blank solution contained all reagents except CE.Note: The DTNB solution can be prepared, aliquoted and stored at -20 °C for six months.Incubate the cuvettes at room temperature for 5 min and measure the absorbance at 412 nm using a spectrophotometer.To determine the total glutathione, add to the reaction mix already present in the cuvettes, 50 µl of 0.4% NADPH and 1 µl of GR (0.5 U).Incubate the cuvettes at room temperature for 30 min. Mix gently and read the absorbance by a spectrophotometer at 412 nm.Note: This method has been improved for a cuvette assay but adaption to microplates assays is possible."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5566,
+  "origin_website": "Bio",
+  "title": "Protein Localization in the Cyanobacterium <em>Anabaena</em> sp. PCC7120 Using Immunofluorescence Labeling",
+  "procedures": [
+    "Organism and growth conditionsAnabaena sp. PCC7120 is grown axenically in BG-11 liquid medium at 24 °C under white light (25 µmol m-2 sec-1) and shaking at 90 rpm.Fixation and permeabilization50 µl of cyanobacterial culture (OD750 = 0.3) is added to a poly-lysine microscopy slide and dried for 20 min at 55 °C. Do not fix the cells with organic solvents or aldehydes.Fix the cell spots in 70% ethanol and incubate for 30 min at -20 °C. The slide is immersed in cold 70% ethanol contained in a Petri dish.The slides are air-dried for 20 min at room temperature.Use a hydrophobic PAP pen to draw a circle around the slide-mounted cell spot and let it dry for 15 min at room temperature.Labeling procedurePermeabilize the cells by adding a drop of 0.05% Triton X-100 in PBS for 2 min at room temperature, and repeat it three times by removing the drop each time with a pipette.Incubate with a drop of 3% BSA, 0.2% Triton X-100 in PBS for 1 h at 4 °C in a moisture chamber and remove this blocking solution.The cells are incubated with the primary antibody diluted 1:100 in a solution with 1% BSA, 0.05% Tween-20 in PBS. Pre-immune serum diluted 1:100 in a solution with 1% BSA, 0.05% Tween-20 in PBS was used as a control to ensure that the primary antibody is working. The cells with the solutions are incubated for 2 h at 4 °C, in a moisture chamber.Wash with 0.05% Triton X-100 in PBS for 2 min at room temperature, and repeat three times.Incubate with secondary antibody Alexa Fluor 488 goat anti-rabbit IgG (diluted in PBS with 1% BSA and 0.05% Tween-20, final concentration 10 µg/ml) for 45 min at 4 °C, in a moisture chamber.Wash with 0.",
+    "05% Triton X-100 in PBS for 2 min at room temperature for three times.Add a drop of Prolong Antifade reagent to the sample slide, and then cover this with a cover slip while taking care not to create air bubbles. Seal with nail varnish.The slides are visualized with a Fluoview FV1000 Confocal Microscope and images are acquired in 16 bits. Alexa Fluor 488 is excited at a wavelength of 495 nm and emission is measured at 509 nm. To visualize autofluorescence due to phycobilisomes, samples are excited using 565 nm and fluorescence emission is monitored at 590 nm (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170601/20170601011723_5463.jpgFigure 1. Immunolocalization of CyDiv in Anabaena sp. PCC7120. Deconvoluted image of a Z-stack. A. Autofluorescence; B. Image signal derived from primary antibody anti-CyDiv and secondary antibody Alexa Fluor 488 goat anti-rabbit IgG; C. Merged image of the autofluorescence and CyDiv-Alexa Fluor 488 fluorescence. White scale bar = 5 µm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

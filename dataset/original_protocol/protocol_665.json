@@ -1,0 +1,19 @@
+{
+  "id": 704,
+  "origin_website": "Nature",
+  "title": "Re-using plastic cassettes for vertical gel electrophoresis.",
+  "procedures": [
+    "1. Clean plastic gel plates with 70 % ethanol.  Do not use acetone as it damages the plastic \\(Fig. 1A).\n  2. Place the tall plate on the lab bench, alternatively place tall plate on a yellow-pipette-tip box as shown in Figure 2B.  Pipette 2-3 ml of 1 % liquefied agarose along the outside part of the plate. The agar must cover well the outside part \\(Fig. 1B).\n  3. Carefully place the short plate onto the tall plate \\(Fig 1C).\n  4. Carefully lift up the cassette, while holding it levelled apply the foldback clips as shown in the figure \\(Fig. 2A).  Then place assembled cassette on the bench horizontally.  If you have placed the gel plate on a pipette tip box, the clips can be applied without lifting the plate \\(Fig. 2B). The foldback clips should apply pressure on the tall plate’s rim that gets in contact with the short plate \\(Fig 2C).  \n  5. After the agarose has solidified, lift up the cassette and check whether the outside part of the cassette is well filled with agarose.  If this is not the case, pipet from the outside agarose in-between the plates, then re-apply the foldback clips, and let the agarose solidify \\(Fig. 3A)\n  6. If agarose has leaked into the inside of the cassette, use a piece of a paper towel or Whatman Blotting paper to remove the agarose \\(Fig. 3B)\n  7. Tape scotch tape over the slot at the bottom of the tall gel plate \\(Fig. 4). Note: Folding over one end of the tape will allow easier removal later-on.",
+    "8. The cassette is now ready for casting a gel \\(Fig. 5A or 5B). For pouring an SDS-PAGE gradient gel see reference \\(1), but use 7.5 ml of each premix acrylamide solution, and 75 µl of APS and 7.5 µl of TEMED per mixing chamber.\n  9. After the acrylamide gel has solidified, remove the comb and scotch tape.  Carefully remove the foldback clips, rinse with deionised water, remove excess water, and carefully mount the gel cassette into the electrophoresis unit.  \\(Fig. 6)\n  10.  Load samples following usual procedures."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

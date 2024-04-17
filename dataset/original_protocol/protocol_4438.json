@@ -1,0 +1,17 @@
+{
+  "id": 4671,
+  "origin_website": "Bio",
+  "title": "Glioma Associated Stem Cells (GASCs) Isolation and Culture",
+  "procedures": [
+    "Isolation and primary culture of primitive cells from human glioma (see Video 1)Under biological hood, place the glioma sample into sterile 100 mm Petri dish and cut the fragments into ~1 mm pieces using scalpels.Re-suspend glioma fragments into 3-5 ml of BB and transfer them into a 15 ml Falcon tube. Let the fragments deposit to the bottom of the 15 ml Falcon tube by gravity at room temperature. If fragments will not deposit into the bottom, centrifuge the suspension at 300 x g for 1 min.Remove the supernatant and re-suspend the volume of the pellet in an equal volume of collagenase solution (0.025%).Incubate the suspension for 5 min in an agitation rotor at 37 °C.At the end of the incubation period, gently shake the bottom of the Falcon tube and add 5 ml of IB and gently pipette it with a 10 ml serological pipette for 4-5 min.Pre-wet a 70 μm mesh filter by filtering 5 ml of sterile, fresh HBSS using a 5 ml sterile serological pipette into a 50 ml Falcon tube.Filter the cell suspension through the pre-wet 70 μm mesh filter.Centrifuge the filtered suspension at 500 x g for 5 min at room temperature and re-suspend it into 1 ml of MASC medium.Count the cells using the Burker Counting chamber: Remove 10 μl of cell suspension, mix it with an equal volume of 0.4% Trypan blue in D-PBS and apply 10 μl of diluted cells to the Burker chamber. Count at least four squares and calculate the number of cells by multiplying the medium value obtained for 2 x 104. You will obtain the total amount of cells/ml of cell suspension.Seed 5,000 cells/cm2 into fibronectin-coated dishes and culture them in MASC medium at 37 °C in a 5% CO2, 5% O2 force air incubator.",
+    "Sub-culture of glioma associated stem cells (GASCs) Take out from the incubator (5% CO2, 5% O2, at 37 °C) the dish containing the cells that has to be split. Check at the microscope that cells have reached 80% of confluence (7-10 days after seeding).Transfer the dish below the biological hood, open the dish and discard the supernatant with a 10 ml sterile serological pipette.Add 5 ml of HBSS or D-PBS to the dish, gently move the plate in order to cover the entire surface, and then remove the HBSS or D-PBS. Repeat the washing procedure. Remove carefully the HBSS or D-PBS.Add 2 ml of TrypLE Express solution for each dish. Since cells will detach very fast, check continuously at the microscope the process in order to avoid over-digestion. When cells are finally detached, add 5 ml of HBSS or D-PBS to dilute the TrypLE Express solution.Re-suspend the cells by gently pipetting them through a 10 ml sterile serological pipette. To recover all cells from the dishes, wash the Petri dish one more time, by adding 3 ml of fresh sterile HBSS or D-PBS and put the solution in the Falcon Tube containing the previous obtained cell suspension.Centrifuge the cell suspension at 500 x g for 5 mins at room temperature, discard the supernatant and re-suspend the cell pellet in 1 ml of MASC medium.Seed the cells onto fibronectin-coated dishes at the concentration of 3,500 cells/cm2.Change the medium every three days. Split the cells when they will reach 80% confluence."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

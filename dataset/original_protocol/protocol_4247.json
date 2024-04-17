@@ -1,0 +1,15 @@
+{
+  "id": 4457,
+  "origin_website": "Bio",
+  "title": "VZV Replication Assays",
+  "procedures": [
+    "Take a semi-confluent (~50%) T75 flask of MeWo cells that has been split the previous day (see Note 1).    Remove media, rinse gently in sterile phosphate buffered saline (PBS), and discard wash.   Dislodge cells by adding 3 ml trypsin. Incubate for around 5 min at 37 °C or until cells are fully dislodged.   Inactivate trypsin by adding 7 ml MeWo growth medium.   Pipette up and down to create a single-cell suspension.    Remove 12 μl and count cell density in a disposable hemocytometer.   Dilute cells to a density of 2 x 105 cells/ml in MeWo growth medium and seed 100 μl per well in a black, flat-bottomed 96-well plate to give 2 x 104 cells/well (see Note 2).   Leave cells to adhere overnight in a humidified incubator with 5% CO2 at 37 °C.   Remove a vial of VZV-GFP of known titre from liquid nitrogen storage and thaw immediately in a water bath at 37 °C until just thawed (see Note 3).   Transfer thawed cells to a 50 ml centrifuge tube and slowly add 30 ml growth medium (pre-warmed to 37 °C) drop by drop to gradually increase the temperature of the cells.    Centrifuge for 10 min at 200 x g to pellet cells.   Gently remove the entire washing medium and resuspend in 1 ml growth media.   Dilute the cells in sufficient growth media to result in 1,000 IU/ml (see Note 4).   Remove plates from the incubator, and remove media by inverting plate and shaking over a container of suitable disinfectant.   Add 100 μl of the washed and resuspended VZV-GFP cell inoculum to each well to be infected, and 100 μl growth medium to uninfected control wells (see Note 5).   Replace the lid on the plate and return the plate back to the incubator.",
+    "Monitor virus replication as a measure of GFP fluorescence from ~22 h post-infection until replication plateaus (see Note 6).    For comparison of virus replication in untreated and treated cells (protein overexpression, gene depletion, drug treatment etc.) calculate the replication slope over the linear growth phase and normalise treated cells to untreated (“normal” replication; Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140817/20140817021248_7555.jpg Figure 1. Calculation of replication slopes. A. Virus growth is monitored over multiple rounds of replication as a function of GFP fluorescence. B. Relative fluorescence units for mock transfected and positive controls-transfected (IDE, a cellular receptor for VZV; ORF28, the DNA polymerase for VZV) cells is plotted against hours post-infection to generate growth curve. C. The slope of replication over the linear phase of growth is calculated in Excel using the linest equation, and normalized to control (mock) transfected cells. D. Replication slopes are compared in a bar chart to see the effect of siRNA gene depletion on VZV replication."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

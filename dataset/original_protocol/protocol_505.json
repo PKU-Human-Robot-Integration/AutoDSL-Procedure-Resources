@@ -1,0 +1,18 @@
+{
+  "id": 539,
+  "origin_website": "Nature",
+  "title": "Fabrication of Nanoelectrospray Emitters for LC-MS",
+  "procedures": [
+    "1. Pre-warm the heating block to 95 ºC. Equilibrate the capillary puller laser for 10 minutes.\n  2. Cut the silica tubing in 10 cm pieces.\n  3. In a clean Axygen tube mix and immediately vortex 170 μL K silicate and 30 μL formamide.\n  4. Keeping the capillary almost horizontal, dip one end into the silicate solution until the liquid fills 2-3 cm of the tubing by capillary action \\(approximately 20 seconds). Gently blot the excess solution on the outer part of the tubing, if any.\n  5. Position the liquid-filled end of the capillary under the heating block and incubate for 1 hour at 95 ºC to polymerize silicate. \n  6. Mount the capillary on the liquid chromatograph so that the solvent flows from the fritted end towards the open end of the capillary. Flush the capillary with 50 μL of 50% acetonitrile and 0.1% formic acid in water. \n  7. Visually check for polymerization \\(frit) at the edge. NOTE: Flushing the capillary with the same flow direction as in the final emitter will expel particulate deposited on the inner side of the frit before the tip is pulled, together with any unpolymerized silicate. \n  8. Using the gas burner, burn approximately 1 cm of the polyimide coating, 5 cm from the fritted end of the capillary. Let the capillary cool to room temperature and carefully wipe-off burnt polyimide debris using a Kimwipe soaked with methanol. CAUTION: stripped silica is extremely fragile. Hot silica may fracture if placed in contact with liquids before cooling down.\n  9.  Mount the fritted capillary on the laser puller, with the inner edge of the fritted section 2 cm from the laser target \\(center of the mirror cover).\n  10. Pull the silica capillary using the following program:\n  \nHEAT=250, FIL= , VEL=25, DEL=180, PULL=25\nHEAT=250, FIL= , VEL=25, DEL=180, PULL=25",
+    "HEAT=250, FIL= , VEL=25, DEL=180, PULL=25\nHEAT=250, FIL= , VEL=25, DEL=180, PULL=25\n11. Using a microscope, check the tip geometry at 4X magnification and diameter at 20X magnification \\(Figure 1).\n  12. Optional: To reduce the surface of the tip, etch the tip by dipping the terminus in hydrofluoric acid for 10-15 seconds. Rinse in clean water. Etching may reduce the irregularities in the cross section of the tip, but results in slightly larger and less reproducible tip ID. Prolonged etching may damage the tip.\n  13. Cut the blunt end of the emitter to obtain a 1 mm frit."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Materials Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

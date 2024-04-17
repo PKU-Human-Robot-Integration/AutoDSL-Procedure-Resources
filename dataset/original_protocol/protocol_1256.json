@@ -1,0 +1,17 @@
+{
+  "id": 1340,
+  "origin_website": "Nature",
+  "title": "<p>Autofluorescence imaging for human pluripotent stem cell differentiation into cardiomyocytes</p>",
+  "procedures": [
+    "<p>Human H9 embryonic stem cells<sup>52</sup>, human IMR90-4 induced pluripotent stem cells<sup>53</sup>, and NKX2.5<sup>EGFP/+</sup>&nbsp;hPSCs<sup>37</sup> were maintained on Matrigel (Corning)-coated surfaces in mTeSR1 (STEMCELL Technologies) as previously described<sup>54</sup>. CM differentiation was performed as described previously<sup>11</sup>. &nbsp;Different cell seeding densities and different concentrations of CHIR99021 were applied to manipulate differentiation efficiency. Briefly, hPSCs were singularized with Accutase (Thermo Fisher Scientific) and plated onto Matrigel-coated plates at a density ranging from of 2.9 × 10<sup>4</sup> cells/cm<sup>2</sup> to 5.7 × 10<sup>5</sup> cells/cm<sup>2</sup> (1.0 × 10<sup>5</sup> cells to 2.0 × 10<sup>6</sup> cells per well of a 12-well plate) in mTeSR1<sup> </sup>supplemented with 10 µM Rho-associated protein kinase (ROCK) inhibitor Y-27632 (Selleckchem) 2 days before initiating differentiation. Differentiation was initiated by Wnt signaling activation with 8 µM to 12 µM CHIR99021 (Selleckchem) on day 0, followed by inhibition of Wnt signaling with 5µM IPW2 on day 3.&nbsp;</p><p><br></p><p>Fluorescence lifetime imaging (FLIM) was performed by an Ultima two-photon imaging system (Bruker) composed of an ultrafast tunable laser source (Insight DS+, Spectra Physics) coupled to a Nikon Ti-E inverted microscope with time-correlated single photon counting electronics (SPC-150, Becker &amp; Hickl, Berlin, Germany). The ultrafast tunable laser source enables sequential excitation of NAD(P)H at 750 nm and FAD at 890 nm. NAD(P)H and FAD emission was isolated using 440/80 nm and 550/100 nm bandpass filters (Chroma), respectively. The laser power at the sample for NAD(P)H and FAD excitation was approximately 2.3 mW and 7.9 mW, respectively. Fluorescence lifetime decays with 256 time bins were acquired across 256 × 256 pixel images with a pixel dwell time of 4.8 µs and an integration period of 60 seconds. All samples were illuminated through a 40×/1.15 NA objective (Nikon).",
+    "FLIM was performed on differentiation day 0 (immediately pre-treatment with CHIR99021, a Wnt signaling activator), day 1 (24 hours post-treatment with CHIR99021), day 3 (immediately pre-treatment with IWP2, a Wnt signaling inhibitor), and day 5 (48 hours post-treatment with IWP2). For NKX2.5<sup>EGFP/+</sup>&nbsp;hPSCs, day 8 NAD(P)H lifetime variables were also collected. Two-photon excitation of NKX2.5-EGFP was performed at 890 nm and emission was collected with a 550/100 nm bandpass filter. A 500LP dichroic mirror was used. For the 2DG experiment, H9 embryonic stem cells were imaged before and 2 hours after 10 mM 2DG treatment, respectively. For the rotenone experiment, H9 embryonic stem cells were imaged before and 15 minutes after 10 μM rotenone treatment, respectively. The instrument response function was acquired from the second harmonic generated signal of urea crystals at 890 nm and was measured for each imaging session.</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Stem Cells"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

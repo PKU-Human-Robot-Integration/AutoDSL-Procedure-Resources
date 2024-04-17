@@ -1,0 +1,15 @@
+{
+  "id": 4450,
+  "origin_website": "Bio",
+  "title": "Quantitative Analysis of Cellular Diacylglycerol Content",
+  "procedures": [
+    "Prepare the following solutions before starting the assay   Solubilizing buffer: 7.5% (w/v) octyl-β-D-glucoside and 5 mM cardiolipin in 1 mM diethylenetriaminepenta acetic acid (1 mM DETAPAC, pH 7.0; adjust the pH with NaOH).   1 mM diethylenetriaminepenta acetic acid (1 mM DETAPAC, pH 6.6; adjust the pH with NaOH).   2x reaction buffer: 100 mM imidazole HCl, pH 6.6, 100 mM NaCl, 25 mM MgCl2, and 2 mM EGTA.    100 mM DTT in H2O (prepare fresh).      Sample preparation and total lipid extraction   Wash cells (about 2 x 106) with phosphate-buffered saline (PBS) and extract lipids according to Bligh and Dyer (Bligh et al., 1959).    Dry the chloroform/methanol phase under a gentle flow of N2.       DAG kinase assay  This assay was adapted from Preiss et al. (1986). Steps from 4 onwards need to be performed in lab areas certified for radioactivity work and the proper lab practice should be followed.   Dissolve the dried lipids in 40 µl of solubilizing buffer by vigorously vortexing for 20 sec.    Incubate the dissolved lipid at room temperature for 10 min.    Keep the samples on ice for 5 min and add 100 µl of 2x reaction buffer, 4 µl of 100 mM DTT and 20 µl of E. coli DAG kinase while keeping the samples on ice.    Initiate the reaction by addition of 3 µCi [γ33]-ATP prepared by dilution in 20 µl of 1 mM DETAPAC (pH 6.6).    After vortexing briefly, incubate the reaction at 25 °C for 30 min.    Stop the reaction by keeping the tubes on ice, and re-extract and dry lipids as described above.   Dissolve the dried lipids in ~50 µl of chloroform/methanol (2/1, v/v).   Apply the lipid extracts on a TLC plate along with lipid standards (Phospatidic acid and DAG).",
+    "Run the TLC plate for 30 min by placing it in a TLC chamber that contains about 75 ml of acetone.   Dry the TLC plate and further develop the TLC plate in a chloroform/methanol/acetic acid (65/15/5, v/v/v) solution.    Dry the TLC plate using hair dryer and expose it to phospho-imaging screens.   Detect radiolabeled lipids by scanning the phospho-imaging screen using BAS-2500 scanner."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

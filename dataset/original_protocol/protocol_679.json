@@ -1,0 +1,20 @@
+{
+  "id": 719,
+  "origin_website": "Nature",
+  "title": "DAF-FM detection of nitric oxide in embryonic cortical neurons",
+  "procedures": [
+    "**Preliminaries**\n1. Treat coverslips with 0.1mg/ml poly-D-lysine and 0.01mg/ml laminin and leave at 37<sup>o</sup>C overnight. The next day remove the coating solution and dry thoroughly.\n  2. Prepare the digestion, dissection and cortex media&#x2019;s as described in Reagents.  Place the dissection media on ice, and the cortex media at 37<sup>o</sup>C.\n  3. Prepare the papain solution on the day of culture: Add 1ml 20mM cysteine-HCl and 400U papain to 9ml digestion solution.  Warm the solution at 37<sup>o</sup>C for 20 minutes and then neutralize to pH 7.0 using 0.1M NaOH.  Filter sterilize and keep at room temperature.\n  \n**Isolation of rat embryonic cortices**\n4. Sacrifice E17 rat according to institutional ethically approved procedures.\n  5. Immediately remove the uterus and place in dissection solution on ice.\n  6. Isolate individual embryos, decapitate and remove the whole brain, and place in fresh dissection media.\n  7. Dissect the cortices using a dissection microscope being careful to remove the meninges. Collect the cortices in a 50ml tube containing ice-cold dissection solution.\n  \n**Enzymatic Digestion**\n8. Remove dissection solution from the cortices and add 10mls papain solution.\n  9. Leave at 37<sup>o</sup>C for 25 minutes, gently swirling the cortices every 5 minutes.  Do not shake the tubes during the last 5 minutes of digestion.\n  10. Remove the papain solution carefully as cortices become &#x2018;sticky&#x2019;.  Immediately add 1ml FBS to inhibit any remaining papain.\n  11. Wash the cortices by gentle addition and removal of 10ml warm cortical media. Repeat washes four times.\n  12. Dissociate the cortices in 10mls cortical media by passing through a 10ml plastic pipette 8 times. \n  13. Pass the dissociated culture through a 40&#xB5;M cell strainer.\n  14. Estimate the cell number using a hemocytometer chamber and dilute the culture to 0.5M cells per ml.",
+    "15. Plate 200,000 cells per coated coverslip in a 4-well plate and place in a cell incubator at 37<sup>o</sup>C and 10% CO<sub>2</sub>.\n  \n**DAF Imaging**\n16. Perform DAF imaging on cortical neurons at 4 days _in vitro_.  Starve cells 16 hours prior to the following protocol in media containing 3% serum and 50&#xB5;M DL-AP5.\n  17. Load cells with the probe by replacing media with DMEM containing 1mM glutamine, 50&#xB5;M DL-AP5 and 10 &#xB5;M DAF-FM-DA and left at 37<sup>o</sup>C for 30 minutes.  Use DMEM free of phenol red as it may affect the fluorescence. \n  18. Wash the cells three times using media to remove excess probe.  Replace the cells at 37<sup>o</sup>C for 15 minutes.  This allows intracellular de-esterification of the probe to form the cell impermeable DAF-FM.\n  19. Treat the cells as desired.  NO production usually occurs rapidly, within minutes. However, if longer time courses are required then return the cells to 37<sup>o</sup>C.\n  20. Upon completion of treatment, replace the media with DMEM containing 2.67ng/ml CellTracker Red CMTPX for 30 minutes to allow visualization of cell morphology.\n  21. Wash the cells once in PBS containing Hoescht for 5 minutes.\n  22. Wash twice with PBS alone and fix in 4% PFA at room temperature for 15 minutes.\n  23. Immediately mount the coverslips and image within 24 hours using a confocal microscope at an excitation/emission maxima of 495/515nm."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

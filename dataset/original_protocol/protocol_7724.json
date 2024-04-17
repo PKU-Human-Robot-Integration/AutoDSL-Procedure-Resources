@@ -1,0 +1,15 @@
+{
+  "id": 8127,
+  "origin_website": "Bio",
+  "title": "Analysis of Malondialdehyde, Chlorophyll Proline, Soluble Sugar, and Glutathione Content in <em>Arabidopsis</em> seedling",
+  "procedures": [
+    "Note: The experiment is done at room temperature (RT) except of specific indication. To generate a standard curve, a serial concentration of GSSG is made: 0.5, 1, 2, 5, 10, 20 μM, 2 ml for each dilution of GSSG. 100 μl of each GSSG standard made at step 1 is added to 3 ml of Reaction solution and incubated for 15 min. Then add 100 mM DTNB to a final concentration of 10 mM and incubate at 25 °C for 15 min. Measure the optical density of each sample at 412 nm by spectrophotometer, and make standard curve with a function of the concentration of GSSG standard and the optical density of each GSSG standard.0.5 g of Arabidopsis leaves is ground in liquid nitrogen.The samples are homogenized with 1 ml extract solution and mixed completely by inverting the tube. The mixture is centrifuged at 10,000 x g at 4 °C for 10 min, and then the supernatant is transferred to a new tube.100 μl supernatant is treated as described at step 2, and the optical density of the supernatant is measured at 412 nm as described at step 3, and calculate the GSSG content of the sample according the standard curve.100 μl supernatant is mixed with 3 ml 500 mM TRIS–HCl (pH 8.0) buffer containing 10 mM DTNB and incubated at 25 °C for 15 min. The optical density is then measured at 412 nm. The Glutathione (GSH) content is determined by the same standard curve as described at step 3 with the following formula: [GSH] = 2 x [standard curve].The total glutathione content = [GSH] + [GSSG] (Huang et al., 2005; Chen et al., 2011)"
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1500,
+  "origin_website": "Nature",
+  "title": "<p>Long-term, <em>in toto</em> live imaging of the developing mouse heart</p>",
+  "procedures": [
+    "<p><strong>Reagents Setup</strong></p><p><u>•&nbsp;Dissection medium</u></p><p>88% DMEM/F12 (PH 7.2-7.4)</p><p>10% fetal bovine serum</p><p>2% Pen-Strep solution</p><p>25 mM HEPES</p><p><u>•&nbsp;Basic Culture medium-V1</u></p><p>98% DMEM/F12 (PH 7.2-7.4)</p><p>2% Pen-Strep solution</p><p>15 mM HEPES</p><p><u>•&nbsp;Culture medium-V2 </u></p><p>50% basic culture medium</p><p>50% rat serum</p><p><u>•&nbsp;Culture medium-V3</u></p><p>83% dissection medium</p><p>17% rat serum</p><p>Dissection medium and culture medium pre-heated and balanced in an incubator (37°C, 5% CO<sub>2</sub>, and 95% air) for 1 h before using.</p><p>Detailed Experiment Procedure for embryo preparation</p><p><strong><u>Embryo collection</u></strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Pregnant mice are euthanized with 4% chloral hydrate.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Soak abdomen with 70% ethanol, pinch the skin and make an incision at the midline of the abdomen with surgical scissors, then pull the skin apart.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Cut the peritoneum to expose abdominal cavity.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;Cut the uterus and place it into the dissection medium.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;Separate each embryo with forceps between implantation sites.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;Peel back the surrounding muscle layer and expose decidua tissue.</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;Clip off 1/5 portion of the decidua, and expose the embryo;</p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;Dissect out the enveloped decidua, Reichert’s membrane with fine forceps.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;Remove ectoplacental cone, yolk sac and amnion with super fine forceps (when embryos are later than E8.25).</p><p><strong><u>Embryo culture</u></strong></p><p>10&nbsp;&nbsp;Transfer the embryos to a Petri dish/agarose tube with culture medium-V2, put the Petri dish/agarose tube in an incubator (37°C, 5% CO<sub>2</sub>, and 95% air).</p><p><strong><u>Embryo mounting</u></strong></p><p>11&nbsp;&nbsp;Make hollow agarose cylinders: Component B inserted with component A is filled with 2% low melting-temperature agarose. Triangular hollow is formed after removing component A (Figure 5).</p><p>12&nbsp;&nbsp;Suck the mouse embryo with culture medium-V2 to the hollow in the agarose holder.</p><p>13&nbsp;&nbsp;Combine the agarose holder with a base support, and mount the agarose holder and base on the chamber, full the chamber with culture medium-V3.</p><p><strong><u>Live imaging of the mouse embryos</u></strong></p><p>14&nbsp;&nbsp;Set up the environment on the microscopy: Open and adjust gas mixer to 5% CO<sub>2</sub>, 5% O<sub>2 </sub>and 90% N<sub>2</sub>, pre-heat the chamber to 37°C using water bath which is rolling surrounding the chamber.</p><p>15&nbsp;&nbsp;Image the embryos: Generally, 2.",
+    "5 μm step size, up to total of ~400 μm, 3 min intervals, lower laser power and exposure time are used to obtain better results.</p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Cell Biology",
+    "Genetics",
+    "Cardiology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 460,
+  "origin_website": "Nature",
+  "title": "Lung Epithelial Cell Prep",
+  "procedures": [
+    "1. Animal Surgery: Keep all solutions on ice. Anesthetize animal and clean with 70% Ethanol. Exsanguinate and remove ventral ribcage. Perfuse left then right ventricle with cold sterile PBS until the lungs turn white. Expose trachea and nick with scissors.  Insert 20G cathelter and lavage the lungs with 1ml cold PBS. Repeat 3 times. Inject 1ml of dispase down trachea. Wait 30 seconds then infuse the lungs with 0.2ml warm 1% low melt agarose. Tie off the trachea using string, remove catheter and pour ice cold PBS over lung. Remove the lung carefully without nicking the tissue and place into petri dish containing PBS on ice to allow agarose to harden. Cut each lobe from the mainstem bronchi.  The proximal-most ¼ of each lobe surrounding the bronchi was then cut away to minimize the inclusion of basal cells in the cell preparation. Put the cut lobes into a 50ml tube containing dispase and rock at room temperature for 45 mins.\n  \n2. Cell Isolation: In a cell culture hood add 10ml of sort buffer and 50U/ml DNAse. Pipet up and down until the lung tissue is dissociated.  Incubate 10 mins rocking at 37 degrees. Transfer the contents through 100µm, 70µm, and 40µm cell strainers over 50ml tubes. Transfer filtered suspension to a 15mL tube. Spin for 5 min at 550g at 4°C to pellet cells. You will see a tight pellet of cells at the bottom of the tube and residual agarose above the pellet. Suck away as much of the agarose as possible without disturbing the cell pellet. Resuspend in 10ml of sort buffer and let recover shaking for at least one hour at 37°C.",
+    "3. Flow Cytometry: Centrifuge cells at 550g at 4°C for 8 min. Resuspend cells in 1ml of sort buffer and count. Adjust volume to 10^7cells/ml. Stain cells using chosen combination of antibodies and isotype controls for at least 30mins at 4°C. Wash cells 2 times with cold PBS. Common antibodies used are PE, Alexa Fluor 488, or BV421-conjugated rat anti-mouse EpCAM \\(1:500; Biolegend, G8.8), Alexa Fluor 647 or PE-conjugated rat anti-mouse integrin β4 \\(1:75; BD, 346-11a), Alexa 647-conjugated CD200 \\(1:100, Biolegend, OX-90), and PE/Cy7 conjugated CD14 \\(1:100, Biolegend, Sa14-2)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

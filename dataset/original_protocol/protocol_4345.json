@@ -1,0 +1,17 @@
+{
+  "id": 4563,
+  "origin_website": "Bio",
+  "title": "Enzymatic Activity Assays in Yeast Cell Extracts",
+  "procedures": [
+    "Preparation of yeast cell extractsThe cell extracts from yeast Saccharomyces cerevisiae were prepared as described (Wang et al., 1995; Jazwinski, 1990) with modifications as below.Grow yeast culture in yeast peptone dextrose adenine (YPDA) medium at 30 °C overnight (O/N) with shaking.Prepare a fresh cell culture by diluting 10-fold from O/N culture in 50 ml YPDA medium. Grow the cells to stationary phase at 30 °C with vigorous shaking. When the culture reached an absorbance of 0.5-1.0 at 600 nm, centrifuge cells at 2,000 rpm (300 rcf) for 5 min at 4 °C.Wash the cell pellet with water and then with potassium phosphate buffer. Centrifuge cells again at 2,000 rpm (300 rcf) for 5 min at 4 °C.Resuspend the cell pellet in 500 μl of ice-cold lysis buffer. Transfer the suspension to an Eppendorf tube prefilled with pre-chilled beads (1:1 ratio of beads to lysate), and keep on ice.Disrupt the cells at 4 °C by vortexing the bead/lysate mixture: 10 cycles of 2 min vortex at maximum speed alternating with cycles of 1 min cooling on ice. Centrifuge the bead/lysate mixture at full speed at 4 °C for 15 min to remove cell debris. Transfer the supernatant fraction to a fresh Eppendorf tube. We recommend not collecting the entire supernatant fraction, instead leaving part of it to prevent touching pellet.Determine the protein concentration of the extract prepared by Bradford assay using dye reagent.Enzymatic activity assays in yeast cell extractsPrepare 10 μl of reaction mixture including 1x reaction buffer and 140 nM DNA substrate. DNA substrate used includes an adenylated uracil base at the 5′ end of the 3′-FAM–labeled oligonucleotide (Caglayan et al., 2014).Start the reaction by addition of yeast cell extract prepared as above (to a final amount of 50 μg) to the reaction mixture.",
+    "Incubate the reaction mixture at 30 °C for 5, 15, and 30 min.Stabilize the reaction products by addition of 1 M freshly prepared and ice-cold NaBH4 to the final concentration of 100 mM.Incubate the reaction samples on ice for 30 min.Mix the reaction products with 10 μl of gel loading buffer.The reaction products in the yeast cell extracts were separated on a 15% polyacrylamide gel, the gel was scanned and the data were analyzed as reported (Caglayan et al., 2014). The result image for dRP lyase, FEN1 excision and DNA deadenylation enzymatic activities in yeast extracts has been reported (Caglayan et al., 2014)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8257,
+  "origin_website": "Bio",
+  "title": "Soft Agar Anchorage-independent Assay",
+  "procedures": [
+    "HCC cells transfected with ISX fusion GFP expression plasmid or ISX shRNAi and then were selected to stable clones.   The stable HCC clones were then grown in MEM culture medium supplemented with 10% FBS and 1x NEAA according to ATCC guidelines.   Prepare 0.6% and 1.2% agar in ddH2O by autoclave and keep warm in 65 °C water bath.   Making bottom agar: adding 1 ml of 2x MEM culture medium with 20% FBS to 1 ml 1.2% agar. After well mixing, the mixture was put into one well of six-well culture dish to form bottom gel layer.   The stable HCC cells were harvested and counting the cell numbers. Dilute the cells to 1 x 104 cells per ml in 2x MEM with 20% FBS. Adding 1 ml diluted HCC stable cells into 1 ml 0.6% agar. After well mixing, the mixture were put on the top of bottom agar per well. The cell-agar mixture became solid phase at 37 °C incubator for 30 minutes. Then, 2 ml 10% FBS MEM culture medium were added on the top agar in each well.   These dishes were then cultured at 37 °C incubator for 2 weeks and changed the culture medium for each 3 days.   Colonies were visualized by staining with 0.05% crystal violet-75% ethanol or 40% Methanol to 0.45 μm filter. Colonies larger than 0.5 mm were counted.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131020/20131020195811_3514.jpg"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8253,
+  "origin_website": "Bio",
+  "title": "Immunoblot Analysis of Histone H4 Acetylation and Histone H2A Phosphorylation in <em>Candida albicans</em>",
+  "procedures": [
+    "Whole-cell extract preparation   Inoculate a single colony in 5 ml of YPD medium in a 14 ml Snap-cap tube and grow overnight at 30 °C shaking with 220 rpm.   Dilute overnight culture to an OD600 of 0.1 in 5 ml YPD medium in a 14 ml Snap-cap tube and grow cells to OD600 of 1 at 30 °C shaking with 220 rpm. Note: For strains/conditions with different cell morphologies determine cell number by CASY measurement according to the CASY operator manual and use a total number of 5 x 107 cells. Flasks can also be used instead of Snap-cap tubes.   Harvest cells by centrifugation in 15 ml Falcon tubes for 3 min at 1,500 x g.   Resuspend pellet in 1 ml ice-cold H2O. Note: Work on ice from now on.   Transfer suspension to 1.5 ml tube.   Add 150 μl ice-cold Yex lysis buffer, vortex thoroughly and incubate on ice for 10 min.   Add 150 μl ice-cold 50% (w/v) TCA and incubate on ice for 10 min to precipitate proteins.   Spin for 5 min at 10,000 x g 4 °C and discard supernatant with a pipette.   Spin for 1 min at 10,000 x g 4 °C and remove rest of the supernatant.   Resuspend pellet in 100 μl protein sample buffer. Note: Resuspend by pipetting; if pH turns acidic (protein sample buffer turns yellow), add 1 M Tris base to increase pH (until sample buffer turns blue again).   Incubate at 37 °C for 15 min shaking at 900 rpm.   Spin down cell debris at 10,000 x g for 5 min and use 10 μl (0.5 OD600 units) of the supernatant for SDS-PAGE.      SDS-PAGE and western blotting   Load samples on a polyacrylamid gel (4.5% stacking gel and 20% running gel).   Load 0.",
+    "5 μg recombinant histone H4 in protein sample buffer as negative control and 2 μg calf histones in protein sample buffer as positive control for acetylation analysis. Note: Gel cast as described previously (Sambrook and Russell, 2001); Bio-Rad Mini-Protean gel electrophoresis system was used.   Run gel at 150 V.   Transfer proteins to nitrocellulose membrane by electroblotting using the Bio-Rad Mini Trans-Blot cell. Assemble blotting cassette in transfer buffer according to the Mini Trans-Blot instruction manual and run at 200 mA for 1 h at room temperature.   Block membrane for 1 h at room temperature on an orbital shaker using 5% (w/v) BSA in TBS.   Incubate with primary antibody diluted in TBS-T overnight at 4 °C on an orbital shaker.   Pour off primary antibody solution and wash 3 x 10 min in TBS-T at room temperature. Note: Primary antibody solution can be reused several times (depending on the antibody); if solution is reused, add 0.033% sodium azide as preservative.   Incubate with secondary antibody diluted 1:10,000 in TBS-T for 45 min at room temperature on an orbital shaker. Note: IRDye 800CW or IRDye 680RD secondary antibodies can be used.   Pour off secondary antibody solution and wash 3 x 10 min in TBS-T at room temperature.   Rinse blot briefly with PBS and scan using the LI-COR Odyssey CLx Infrared scanner. Note: Scanner settings: Intensity: 5; Resolution: 168 μm; Quality: medium."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

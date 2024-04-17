@@ -1,0 +1,17 @@
+{
+  "id": 4696,
+  "origin_website": "Bio",
+  "title": "Isolation of Particles of Recombinant ASC and NLRP3",
+  "procedures": [
+    "Perform all the steps on ice and all the centrifugations at 4 °C unless noted otherwise.Start the purification from 107 HEK293 transiently expressing ASC-YFP or stably expressing NLRP3 (p.D303N)-YFP maintained in DMEM: F12 (1:1) supplemented with 10% FCS, 2 mM Glutamax and 1% penicillin-streptomycin.Wash the cells with warm PBS and detached them with 6 ml of cold PBS by pipetting up and down against the bottom of the flask. Transfer the cell suspension into a 15 ml tube (representative scheme of steps from 1 to 8 is shown in Figure 1). The cells were pelleted by centrifugation at 2,000 x g for 3 min. Discard supernatant and re-suspended the pellet in 600 µl of cold Buffer-A and transfer it into a 1.5 ml tube.Cells in buffer A were lysed on ice by passing through a 1 ml syringe with a 20 G needle (10 times) and then through a 25 G needle (20 times). After that, the lysate was freeze in liquid nitrogen (keep in liquid nitrogen around 30-40 sec or until the lysate is frozen) and subsequent thawed in a water bath at 37 °C (repeat this freeze/thaw cycle 3 times). The cell lysate was passed again through a 25 G needle (10 times).The lysates were then centrifuged at 400 x g for 8 min. The supernatant was recovered and the pellet discarded.Supernatant was transferred into a 15 ml tube, diluted with 2 volumes of CHAPS buffer 2x and then filtered using a 5 μm centrifugal filters at 2,000 x g during 10 min. The centrifugal filter was discarded and the filtrate kept.The filtrate was diluted with 1 volume of CHAPS buffer 2x and mixed by gentle pipetting up and down (this step is to lysate organelles such as mitochondria).",
+    "Afterwards, the diluted lysate was centrifuged at 2,300 x g for 8 min and the pellet was recovered, discarding the supernatant.The pellet was re-suspended in 1 ml of CHAPS buffer 1x and centrifuged at 5,000 x g for 8 min, discarding the supernatants and keeping the pellet. Repeat this wash step twice.After the last centrifugation step, the pellet was re-suspended in 1 ml CHAPS buffer 1x and loaded carefully on the top of 200 µl of 40% Percoll (prepared previously in a 1.5 ml tube).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150519/20150519202444_8504.jpg Figure 1. Representative scheme of ASC and NLRP3 (p.D303N) particles purification protocol illustrating steps from 1 to 8Percoll was centrifuged at 16,000 x g for 10 min (turn off the break is not necessary). The interface layer containing the inflammasome particles was collected slowly and gently by pipetting and transferred into a new 1.5 ml tube and then washed with 1 ml of CHAPS buffer 1x by centrifugation using the same conditions (Figure 2).The supernatant was removed and the pellet was re-suspended in 100 µl of 1x CHAPS buffer (Figure 2).Finally, fluorescent particles were quantified in a fluorescence microscope using a Bürker chamber using a 1:10 dilution (this dilution depends on the concentration of recovered ASC or NLRP3 particles). After quantification the volume was adjusted until reach a density of 5 x 105 particles per µl.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150519/20150519202504_9588.jpgFigure 2. Representative scheme of Percoll step (steps 8-10)"
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

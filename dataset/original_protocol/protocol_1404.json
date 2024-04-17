@@ -1,0 +1,16 @@
+{
+  "id": 1503,
+  "origin_website": "Nature",
+  "title": "<p>Collection and handling of mouse oocytes/embryos</p>",
+  "procedures": [
+    "<p>1. For collection of MII oocytes, four to eight-week-old donor female mice were injected with 5 units of pregnant mare serum gonadotropin (PMSG) at 18.00 (100 µl of 50 I.U/ml solution) </p><p><br></p><p>2.  this is followed by 5 units of human chorionic gonadotropin (hCG) at 17.00 (100 µl of 50 I.U/ml solution) the following day. </p><p><br></p><p>3. Donor mice were sacrificed by cervical dislocation 14-15 hours post hCG injection. </p><p><br></p><p>4. Oviducts are transferred to a clean petridish dish with M2 (Sigma) medium. </p><p><br></p><p>5. Cumuli were released from the ampulla in M2 medium and disaggregated in M2 medium containing 0.3 mg/ml hyaluronidase</p><p><br></p><p>6. This is followed by four washes in M2 medium.</p><p><br></p><p>7. For zona removal, oocytes/ preimplantation embryos are transferred in a 50µl drop of Tyrode’s solution (Sigma) to remove the zona pellucida.</p><p><br></p><p>8. this is followed by three washes in M2 medium droplets before downstream processing for Chip or RNA Seq. </p><p><br></p><p>9a. For Chip Seq, oocytes were given a fourth final wash in M2 before crosslinking and fixation as described in a separate protocol. </p><p><br></p><p>9b. For RNASeq, the oocytes and embryos were washed three times in sterile PBS before a final wash in nuclease free water supplemented with RNAse inhibitor, prior to tubing single oocytes/embryos in single 0.25mL units of a sterile 8-tube PCR strip for lysis and downstream cDNA amplification.</p>"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Genetics",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

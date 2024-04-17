@@ -1,0 +1,16 @@
+{
+  "id": 840,
+  "origin_website": "Nature",
+  "title": "Two-group comparison of gene signatures: failure of conventional statistical methods and validation of a novel algorithm",
+  "procedures": [
+    "**Installation of CalcHEPI Add-in** \n1. Open the Excel program and insert the program CD in drive \\(if the CalcHEPI software is in a CD). \n  NOTE: Alternatively the software file \\(115 KB) can be obtained as an e-mail attachment from the author.   \n2. In the &#x2018;Tool&#x2019; menu of Excel workbook, click on &#x2018;Add-Ins&#x2019; and then click on &#x2018;Browse&#x2019;. Locate your appropriate drive and double click on &#x2018;HEPI&#x2019;. \n  3. The message &#x201C;Copy HEPI to &#x2026;&#x201D; will appear, click &#x2018;Yes&#x2019;; the appearance of &#x2018;HEPI&#x2019; on the menu bar indicates the proper installation of the Add-in. \n  4. Remove the software CD \\(if applicable). \n  5. For un-installation, follow all the above steps except selecting &#x2018;HEPI Uninstall&#x2019; instead of &#x2018;HEPI&#x2019;; the removal of &#x2018;HEPI&#x2019; from the menu bar will indicate the proper un-installation of the Add-in.\n  **Running the program** \n1. For computing HEPI score, enter the gene expression data of different groups in separate columns. \n  IMPORTANT: Prior to activating the &#x2018;Input&#x2019; window, ensure that the data to be compared reside in adjacent columns. \nCAUTION: Since most of the gene signatures are composed of tens to a few hundred specific genes the upper limit of the software has been fixed at 1000 genes to prevent unnecessary system-busy situation due to mistake in data selection. The software will alarm the user if more than 1000 rows are selected in the worksheet. \n2. Once the data entry has been completed, click the &#x2018;HEPI&#x2019; button in the menu bar to popup the &#x2018;Input&#x2019; window \\(Fig. 1). \n  3. Select the range of data \\(numbers only) without including the header row \\(if any) as shown in Fig. 1. \n  4. Now clicking the &#x2018;OK&#x2019; button executes the software and a comprehensive report is displayed \\(Fig. 2)."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

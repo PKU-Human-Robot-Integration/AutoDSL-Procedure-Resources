@@ -1,0 +1,17 @@
+{
+  "id": 612,
+  "origin_website": "Nature",
+  "title": "Extracellular RNA isolation using the SeraMir Kit",
+  "procedures": [
+    "1. Add 350 µl LYSIS Buffer to resuspended exosome pellet and vortex 15 seconds. \n  2. Incubate for 5 minutes at room temperature for 5 minutes. \n  3. Add 200 µl of 100% Ethanol.\n  4. Vortex 10 seconds. \n  5. Assemble spin column and collection tube. Transfer mixture \\(600 µl) to spin column.\n  6. Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)\n  7. Discard flow-through.\n  8. Add 400 µl WASH Buffer.\n  9. Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)\n  10. Discard flow-through.\n  11.  Add 400 µl WASH Buffer.\n  12. Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)\n  13. Discard flow-through.\n  14. Centrifuge for 2 minutes at 13,000 rpm at room temperature.\n  15. Transfer spin column to fresh microfuge tube. \n  16. Add 30 µl ELUTION Buffer directly to membrane in spin column.\n  17. Centrifuge for 2 minutes at 2,000 rpm at room temperature \\(loads buffer into membrane).\n  18. Centrifuge for 1 minute at 13,000 rpm at room temperature to elute RNA."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

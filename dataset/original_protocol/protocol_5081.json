@@ -1,0 +1,15 @@
+{
+  "id": 5403,
+  "origin_website": "Bio",
+  "title": "Chitin Extraction and Content Measurement in <em>Magnaporthe oryzae</em>",
+  "procedures": [
+    "All of the strains are cultured on solid CM medium for 7 days at 28 °C. The agar culture is cut into 1 x 1 mm squares and the squares are cultured in liquid CM for another 2 days.Filtered through one layer of Miracloth to collect mycelium from liquid CM. Then the mycelium is quickly lyophilized by a freeze dryer for 24 h. 5 mg mycelium is mixed with 1 ml 6% KOH in each 2 ml microtube using a vortex mixer and then incubated in a water bath at 80 °C for 90 min. Samples are centrifuged at 16,000 x g for 10 min, and the suspension is discarded. Each pellet is washed with 1 ml 1x PBS (which is diluted from 10x PBS) for three times and then centrifuged at 16,000 x g for 5 min to discard the suspension. Each pellet is resuspended with 0.5 ml of McIlvaine’s buffer (see Recipes) (Baker et al., 2007). 100 μl chitinase is added into each sample. And then samples are incubated at 37 °C for 16 h in the dark, at 220 rpm in an incubator shaker. Chitinase-treated samples are mixed with equal volume of 0.27 M sodium borate (pH = 9.0) and incubated at 100 °C for 10 min in a PCR instrument. After being cooled down to room temperature, 200 μl of each sample is added to 1 ml Ehrlich’s solution (see Recipes) and then incubate at 37 °C for 30 min in an incubator shaker. 100 μl of each sample is transferred into a well of a microtiter plate with low-evaporation and the absorbance is measured at 585 nm by a microplate reader. Standard curves are prepared from stocks of 0.1 to 2.0 mM (0.1 mM, 0.5 mM, 1.0 mM, 1.5 mM and 2.0 mM) GlcNAc."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

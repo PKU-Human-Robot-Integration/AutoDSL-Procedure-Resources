@@ -1,0 +1,18 @@
+{
+  "id": 955,
+  "origin_website": "Nature",
+  "title": "RNA-Protein Interaction Detection \\(RaPID)",
+  "procedures": [
+    "A. Generate pMotif construct\nClone BoxB stem loop \\(GCCCTGAAAAAGGGC) adjacent to RNA of interest \nB. Transfection/Infection\nDepending on the cell type, transfect or infect BoxB. In this protocol, we will use HEK293T and RaPID labeler plasmid \\(E.coli BirA*)\n- Day 0 - Plate 300K HEK293T cells per well in a 6 well plate\n- Day 1 - Transfect 2ug of pMotif plasmid with 0.3ug of RaPID labeler plasmid\n- Day 2 -  Make labeling media. Dilute 20x Biotin \\(4mM Biotin) with DMEM to make labeling media. Aspirate out existing media and add labeling media to each well.\n- Day 3 - Processing Samples\nC. Processing Samples\nMake Lysis buffer fresh. Wash Buffer 1 can be made and stored at room temperature. Wash Buffers 2-4 can be made in bulk and stored at 4C.\n1. Aspirate out labeling media. Add cold 1xPBS and gently mix. Aspirate out 1xPBS\n  2. Add 500uL cold 1xPBS to each well and scrape cells. Collect in individual eppendorf tubes\n  3. Spin cells down at 500g at 4C\n  4. Asplirate out PBS \n  \n**STOP Point**: Eppendorf tubes can be stored at -80C for processing later\n5. Lyse cells in each tube with 200uL Lysis buffer at room temperature. \n  6. Add 20uL 25% Triton X-100. Mix thoroughly\n  7. Add 220uL cold Wash Buffer 4\n  8. Sonicate samples throughly - 10% for 10s. Ensure lysate is clear after sonication. If lysate is not clear, cool for 5s and repeat sonication\n  9. Spin lysate at 15,000 g at 4C for 10 minutes\n  10. Carefully transfer supernatant to 3K MWCO filter tube \n  11. Spin filter tubes at 1500g at 4C for 1hour\n  12. Pipette retente into new eppendorf tubes. \n  13. Estimate protein concentration in each tube and use Wash Buffer 4 to equalize concentration across all samples",
+    "14. After equalizing concentration, pipette 20uL into a new tube and label as Lysate_Sample\n  15. Calculate amount of protein in each sample. Calculate the amount of beads required for each sample. \n  \nUse 50uL of MyOne C1 Streptavidin beads per mg of protein. Ensure a minimum of 30uL of beads is used per sample to capture biotinylated proteins and account for loss of beads during processing. \n16. Wash the MyOne C1 beads in Wash Buffer 4 x 2\n  17. Prepare fresh set of tubes and label them Pulldown_Sample. Add equal volume of sample and beads to each tube.\n  18. End-over-end rotation for 1hr at room temperature OR overnight at 4C\n  \nWashing \n19. Place tubes on magnetic stand and aspirate out lysate\n  20. Add 1mL of Wash Buffer 1 to each tube and perform end-over-end rotation for 5 mins \n  21. Place tubes on magnetic stand and aspirate out Wash Buffer 1\n  22. Add 1mL of Wash Buffer 1 to each tube and perform end-over-end rotation for 5 mins \n  23. Place tubes on magnetic stand and aspirate out Wash Buffer 1\n  22. Add 1mL of Wash Buffer 2 to each tube and perform end-over-end rotation for 5 mins \n  23. Place tubes on magnetic stand and aspirate out Wash Buffer 2\n  24. Add 1mL of Wash Buffer 3 to each tube and perform end-over-end rotation for 5 mins \n  25. Place tubes on magnetic stand and aspirate out Wash Buffer 3\n  26. Add 1mL of Wash Buffer 4 to each tube and perform end-over-end rotation for 5 mins \n  27. Place tubes on magnetic stand and aspirate out Wash Buffer 4\n  28. Add 40uL of Elution Buffer to each tube and heat at 98C for 20 minutes.\n  29. Run Western Blot for  Pulldown & Lysate for samples"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

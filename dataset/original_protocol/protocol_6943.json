@@ -1,0 +1,16 @@
+{
+  "id": 7316,
+  "origin_website": "Bio",
+  "title": "Isolation of Single Cells from Mouse Periodontal Ligament",
+  "procedures": [
+    "Preparation for dissectionIn a biosafety cabinet, prepare a 6-well plate with 3 ml dissection media containing 10% FBS and place on ice (2.7 ml DMEM with 300 µl FBS).Warm the water bath to 37°C.DissectionCollect mice used for PDL cell collection.Harvest the maxilla and mandible by separating the head from the body with a blade, followed by cutting above the tongue to separate the maxilla and the mandible. Then separate left and right maxillae or mandibles.Carefully remove all the gingiva tissue attached to the teeth (Figures 1A and 1B).Extract a tooth using fine tweezers by holding the crown and pulling. Be careful; the tooth can jump out of the tweezers. Discard the tooth if contaminated. If the tooth is not easy to remove, insert a 20G needle between the crown of the first and second molars until it loosens (Figure 1C).Remove any excessive tissue-bone residue. This mostly appears at the furcation area or near the apical root (Figure 1D). The PDL tissue should be attached to the tooth surface. Make sure the roots are intact.Store the teeth in a 6-well plate containing media on ice.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4120/bioprotoc-11-16-4120-g001.jpgFigure 1. Dissection procedure. A. Dissect the maxilla and mandible and remove the soft tissue around the tooth (circled area). B. Make sure there is no soft tissue left around the teeth. C. If the tooth is hard to extract, place a needle between the teeth and move around to loosen the tooth, then attempt to extract again. D. The extracted tooth, before enzyme digestion, should show PDL tissue on the root surface (blue arrow); make sure there is no bone tissue in the furcation area (magenta triangle). Keep only the intact teeth (green lines). E. Extracted teeth show a smooth root surface with no PDL tissue attached.",
+    "DissociationMake 3 ml fresh Collagenase P (Col P) solution (3 U/ml) and filter through a 0.22-μm filter into a 15-ml Falcon tube.Transfer the intact teeth to a 15-ml Falcon tube and add 2 ml Col P containing 10% FBS.Place the Falcon tube in a 37°C water bath for 30-45 min with a shaking speed of 140, and homogenise 3 times every 10-15 min by pipetting the solution up and down with a 1-ml pipette. The shaking step helps to breakup collagen and release the cells. If the shaking function cannot be used, 10-min homogenisation intervals are suggested.To harvest single cells, when the cells are released from the tissue after 30-45 min, transfer the liquid through a 40-μm cell strainer into a 50-ml Falcon tube.Centrifuge at 1,200 × g for 5 min. A cell pellet may not be seen if the cell number is low.Carefully discard the supernatant.Store cells on ice for subsequent experiments."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

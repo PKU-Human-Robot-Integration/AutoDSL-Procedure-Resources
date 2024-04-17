@@ -1,0 +1,16 @@
+{
+  "id": 1190,
+  "origin_website": "Nature",
+  "title": "<p>A protocol for the extraction, identification, and quantification of short-chain fatty acids (SCFAs) in silages using Reverse Phase – High Performance Liquid Chromatography with Diode Array Detector (RP-HPLC-DAD)</p>",
+  "procedures": [
+    "<p><strong>5.1 Extraction of short-chain fatty acids in silage:</strong></p><p>1. On the day of the analysis, thaw the fried samples at room temperature (20 ºC).</p><p>2. Weigh 10 g fresh silage and transfer to glass jar blender.</p><p>3. Add 100 mL of Milli-Q water (measured using a class A volumetric pipette) to the glass jar blender.</p><p>4. Blend the mixture during 30s at an intermediate rate.</p><p>5. Filtrate the resulting mixture using a PYREX™ Gooch Type Filtering Crucible and vacuum filtration equipment. Keep the liquid filtrate.</p><p>6. Transfer 2 mL of the filtrate to 6 mL plastic centrifugation tubes and add 2 mL of extraction solution (see 3.1 section).</p><p>7. Vortex the mixture during 30s at an intermediate rate.</p><p>8. Centrifugate the mixture at 10,000 x G for 15 min at 4 ºC.</p><p>9. Recover a portion of the liquid phase after centrifugation using a plastic syringe and filter it through a 0.45 μm PES membrane filter, collecting a minimum of 500 uL of the filtrate in a chromatographic vial.</p><p><strong>5.2 Chromatographic analysis:</strong></p><p><strong>5.2.1 Chromatographic analysis of the calibration curves (lactic acid and SCFAs):</strong></p><p>1. Prepare the calibration curves for lactic acid and SCFAs as described in sections 3.3.1 and 3.3.2, respectively (reagents).</p><p>2. Analyze each point of the calibration curve using RP-HPLC-DAD.</p><p>3. Identify and integrate the resulting chromatographic peaks.</p><p><strong>5.2.2 Chromatographic analysis of silage extract samples:</strong></p><p>1. Place 500 μL of the final extract in a chromatographic vial.</p><p>2. Analyze using RP-HPLC-DAD.</p><p>3. Identify and integrate the resulting chromatographic peaks.</p><p><strong>5.2.3 Chromatographic conditions:</strong></p><p>- Column temperature: 30 ºC.</p><p>- Injection volume: 20 μL.</p><p>- Stationary phase: Hypersil GOLD C18 column (dimensions: 150 x 4.6 mm) equipped with Hypersil GOLD C18 guard column (dimensions: 10 x 4 mm).</p><p>- Working wavelength: 210 nm.</p><p>- Mode: gradient, constant flow: 0.750 mL/min (Figure 3).</p><p>Note: According to the literature findings, the most suitable column for SCFAs chromatographic separation by HPLC-DAD is an ion-exchange column.",
+    "However, the Hypersil GOLD C18 column allows an efficient SCFAs separation, except for butyric and iso-butyric acids. This condition may constitute a limitation of the Hypersil GOLD C18 column use for SCFAs determination. However, considering that the concentration of iso-butyric acid is significantly lower in silages, a good estimation of butyric acid can be obtained with the reported method herein.</p>"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Analytical Chemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

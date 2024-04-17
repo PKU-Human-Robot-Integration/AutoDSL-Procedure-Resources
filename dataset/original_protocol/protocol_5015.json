@@ -1,0 +1,16 @@
+{
+  "id": 5334,
+  "origin_website": "Bio",
+  "title": "An Improved Method for PAGE-based Detection of Phosphorylated Protein in Yeast",
+  "procedures": [
+    "Streak out yeast cells from -80 °C freezer stocks by using a sterilized toothpick, incubate at 30 °C incubator for around 2 days in standard yeast growth media plates.   Inoculate single colony into YPD or synthetic complete (SC) medium overnight at 30 °C shaker.   Subculture yeast cells from OD600=0.1, continue to incubate at 30 °C shaker for around 4-6 h until OD600 =0.4.    To treat with rapamycin, final concentration of 200 nM rapamycin or drug vehicle (methanol) was added to cell cultures for 1 h or as otherwise indicated.    Collect yeast cells by spinning down at 3,000 x g for 15 sec without freezing on ice.  Note: As long as yeast cells remain in YPD and room temperature, phosphorylation should be expected to be the same. Freezing on ice for 10 min tends to mitigate phosphorylation in my hands. Washing with water or PBS buffer also decreases phosphorylation.   Discard most of the supernatant.    Suspend yeast cells in the remaining medium and split into 1.5 ml eppendorf tubes.   Spin down at room temperature at 3,000 x g 15 sec.    Collect cell pellets, immediately add 100 μl (for 10 ml cells OD600=0.4) ice-cold cells lysis buffer and the same amount of ice-cold beads. Immediately breakdown cells by a beads beater at 4°C for 1 min.  Note: Do not exceed 3 min, otherwise protein will begin to dephosphorylate due to overheating. 15 sec x5 beating with 45 sec in between also decreases phosphorylation.   If used for western blot directly, add 25 μl 5x SDS loading buffer and vortex for a few seconds.   Pore the bottom of the tube with 25G needle (heating in flame) and place on the top of a new eppendorf tube.",
+    "Spin down at 3,000 x g for 5 min (the mild spindown will retain some chromatin-associated or strong membrane-bound proteins, which could be phosphorylated form).   For assays such as phosphatase treatment (CIP assay), lysate should be used immediately without freezing-thawing.   For western blot, collect 80 μl lysate and add 20 μl 5x SDS loading dye, place on 100 °C heat blot for 5 min. Samples may be stored at -20 °C for 2 months, -80 °C for up to 6 months.   Run suggested concentration of SDS polyacrylamide gel according to protein molecular weight. Try 50, 100, 150 and 200 volts to detect phosphorylated proteins by using a known phosphorylated protein as positive control.  Note: Phosphorylation of Maf1 cannot be detected by varying acrylamide: bis-arylamide ratio, rather by increasing ruing voltage to 150 volts."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

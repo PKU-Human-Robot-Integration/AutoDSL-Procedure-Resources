@@ -1,0 +1,17 @@
+{
+  "id": 783,
+  "origin_website": "Nature",
+  "title": "Exosome isolation from serum using ExoQuick reagent",
+  "procedures": [
+    "1.  Transfer 500 µL of serum into a 1.5 ml microfuge tube.\n  2. Add 125 µL of ExoQuick Exosome Precipitation Solution to the serum and incubate for 30 minutes at 4°C.\n  3. Centrifuge ExoQuick/serum mixture at 1,500 × g for 30 minutes at room temperature. \n  4. Aspirate supernatant. \n  5. Spin down residual ExoQuick solution by centrifugation at 1,500 × g for 5 minutes at room temperature. \n  6. Remove all traces of fluid by aspiration, taking great care not to disturb the pellet.\n  7. Resuspend the pellet in 50 µL sterile PBS and proceed with RNA isolation using SeraMir Exosome RNA Purification Column Kit."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

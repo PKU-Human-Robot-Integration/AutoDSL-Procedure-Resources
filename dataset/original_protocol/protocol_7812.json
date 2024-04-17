@@ -1,0 +1,16 @@
+{
+  "id": 8220,
+  "origin_website": "Bio",
+  "title": "Measurement of Extracellular Ca<sup>2+</sup> Influx and Intracellular H<sup>+</sup> Efflux in Response to Glycerol and PEG6000 Treatments",
+  "procedures": [
+    "The transformed cells are incubated in 10 ml YPD at 30 °C in a shaking incubator (200 rpm) for 12 h.   Overnight cultures of different transformed cells are adjusted to an OD600nm of 0.2. OD600nm is monitored using microplate reader spectra.   Fifty microliters of each are taken and added to 10 ml YPD containing a final concentration of 25% PEG6000 or 1 M glycerol or no exogenous osmolytes. The transformed yeast cells are grown to an OD600nm of 1.0 in YPD containing different exogenous osmolytes at 30 °C in a shaking incubator (200 rpm). OD600nm is monitored using microplate reader spectra.   One milliliter of each is taken and pelleted at 2,000 rpm for 5 min at room temperature.   Nine hundred microliters of supernatant are removed, and the cells are resuspended in the rest of YPD media.    The coverslips are immersed in the poly-L-lysine solution (0.1% w/v aqueous solution) for 24 h.    Prior to each flux measurement, the microelectrodes must be calibrated in calibration medium (pH 7.0 and pH 5.0), respectively, following to the same procedure and standards. Only Ca2+ electrodes with Nernstian slope > 26 mV/decade and H+ electrodes with Nernstian slope > 53 mV/decade are used in the protocol. Data are discarded if the post-test calibrations fail.   Ten microliters of transformed cells are loaded on the coverslip for 5 min, washed off with standard medium to ensure a monolayer of attached cells and incubated in the standard medium for 5 min at room temperature.   Microelectrodes are positioned 10 μm above the attached cell population consisting of 15 cells with equal size. Micro-volts differences are measured at two excursion points, one 10 μm above the cell population and the other 20 μm away, at a frequency of 0.05 Hz manipulated by a computer.",
+    "The kinetics of net Ca2+ and H+ fluxes near each cell population are monitored for 10 min.   For each sample, four clones are incubated in 10 ml YPD, and the resulting four cell populations are measured (see steps 1-9).   Micro-volts differences are exported as raw data before they are converted into net Ca2+ and H+ fluxes by using the JCal V3.2.1. The ion flux assay around each type of transformed cells is replicated independently three times.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130918/20130918001128_2221.jpg Figure 1. Schematic diagram of ion flux detection (www.xuyue.net[href=http://www.xuyue.net/]). The microelectrode tip is filled with liquid ion exchanger (LIX). A voltage gradient (dV) is measured by the electrometer between two positions over the travel range dx. A concentration gradient (dc) is calculated based on dV. Do, ion diffusion constant; J, net ion flux."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

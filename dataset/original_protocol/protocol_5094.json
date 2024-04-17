@@ -1,0 +1,16 @@
+{
+  "id": 5416,
+  "origin_website": "Bio",
+  "title": "Determination of the Predatory Capability of <em>Bdellovibrio bacteriovorus</em> HD100",
+  "procedures": [
+    "Culture of Bdellovibrio preying upon a prey (Figures 1A and 1B)Preparation of prey cell suspension (Figure 1A)In this example, P. putida KT2440 is used as prey. To obtain cell suspensions, grow the prey in NB medium at 30 °C and 250 rpm for 16 h (see Note 2), centrifuge (30 min, 4000 x g, 4 °C) and resuspend to OD600 = 10 in HEPES buffer (see Note 3). Prey cells can be stored at 4 °C for up to 2 weeks. Immediately prior to use, dilute the cells to OD600 = 1.Preparation of the preinocule of Bdellovibrio (two-step cultivation) (Figure 1B)Recover Bdellovibrio from glycerol stocks stored at -80 °C (see Note 4) by adding 50 µl directly to 10 ml of prey cell suspension prepared in DNB medium at OD600 = 1. Incubate at 30 °C and 250 rpm. After 24 h of predation, transfer 100-300 µl of the co-culture to 10 ml of prey suspension prepared in HEPES buffer at OD600 = 1 (predator-prey ratio of 1:10). Incubate at 30 °C and 250 rpm for 24 h. Note: Set up the co-cultures by adding 10 ml of suspension to 100 ml flasks.Isolation of Bdellovibrio cells (Figure 1B). After predation, filter co-cultures twice through a 0.45 µm filter to recover B. bacteriovorus.Note: Use a new filter for the second filtration step.Set up the co-cultures of interest: transfer 100-300 µl of Bdellovibrio cells to 10 ml of prey suspension prepared in HEPES buffer at OD600 = 1 (predator-prey ratio of 1:10). Incubate at 30 °C and 250 rpm for 24 h.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170315/20170315085425_3329.jpgFigure 1. Workflow to set up Bdellovibrio co-cultures. A. Preparation of the prey cell suspension (here, P. putida KT2440). B. Preparation of Bdellovibrio cells. Two-step cultivation of Bdellovibrio is needed to obtain the predatory cells for the experiment. C.",
+    "Double layer method to quantify the cell number of B. bacteriovorus HD100. D. Development of B. bacteriovorus HD100 on a lawn of prey on DNB agar plates after 2-3 days of incubation at 30 °C. Bdellovibrio cell number can be quantified as plaque-forming-units (pfu/ml).Calculation of the viability of Bdellovibrio and prey cells (Figure 1C)Make serial dilutions of the co-cultures from 10-1 to 10-7 (see Note 5) in DNB medium.Determine Bdellovibrio viability using the double layer method (see Figure 1C) (Lambert et al., 2003):Add 4 ml of DNB 0.7% (w/v) agar into a glass tube and keep at 45-50 °C in a water bath (see Note 6). Add 0.5 ml of prey cell suspension (P. putida KT2440 prepared at OD600 = 10 in HEPES buffer; see Figure 1A).Add 0.1 ml of the appropriate dilution from the co-cultures.Vortex the tube gently.Rapidly, pour the mixture onto a DNB 1.5 % (w/v) agar plate.Incubate the plates for 2-3 days at 30 °C. Bdellovibrio growth is monitored as plaque-forming units per milliliter (pfu/ml) developing on a lawn of the prey (Figure 1D).Calculation of prey cell viabilityPlace 10 µl of each dilution on LB agar plates (see Note 5) and incubate them at 30 °C. Prey cells are counted as colony-forming units per milliliter (cfu/ml)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

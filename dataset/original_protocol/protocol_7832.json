@@ -1,0 +1,15 @@
+{
+  "id": 8240,
+  "origin_website": "Bio",
+  "title": "Blood AST, ALT and UREA/BUN Level Analysis",
+  "procedures": [
+    "Collect blood from the orbital sinus with a microhematocrit blood tube (heparinized). Use dropper to push out the blood in the heparinized blood tube and collect about 300 μl blood in the 1.5 ml polypropylene test tube.Centrifuge at 1500 x g, 4 °C for 15 min. Carefully take the cell-free supernatant plasma (about half volume of blood) and place it in a properly labeled polypropylene test tube and transfer about 150 μl plasma into the sample cups.Use fresh plasma for blood AST, ALT and UREA/BUN level analysis.For analysis, it needs 100-150 μl sample volume in the sample cups. Put the sample cups containing plasma in the sample place and empty cuvettes in the detection place of Chemistry Analyzer. If the sample volume is not enough, it can be diluted with normal saline.Prepare the detection reagent according to the manufacturer’s instruction and transfer the prepared detection reagent into the reagent container for Chemistry Analyzer. It is easy to prepare the detection reagent by mixing R1 and R2 solution provided in the kit. Briefly, in AST and ALT reagent preparation, connect one bottle 1 to one bottle 1a to prepare R1 solution and then combine the volume of R1 and R2 in R1:R2 = 5:1 to get the detection reagent. For UREA/BUN detection reagent preparation, combine the volume of R1 and R2 in R1:R2 = 5:3. These mixed detection reagents are stable for 7 days at 4 °C.It needs to correct the Chemistry Analyzer with commercial calibrator before sample detection. The calibrator is as positive control and normal saline as negative control. After correction, it is ready to analyze AST, ALT and BUN levels of sample in Chemistry Analyzer.The automatic analysis steps for AST and ALT are:Aspirate 10 μl of plasma sample from sample cups into cuvette.",
+    "Dilute sample with 40 μl of normal saline.Add 300 μl of detection reagent into cuvette. Begin to detect the values at 340 nm wavelength at different time points.Report the measured results. For UREA/BUN analysis, the steps are:Aspirate 4 μl of plasma sample from sample cups into cuvette. Dilute sample with 20 μl of normal saline. Add 400 μl of detection reagent into cuvette. Begin to detect the values at 340 nm wavelength at different time points. Report the measured results."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

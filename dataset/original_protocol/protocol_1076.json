@@ -1,0 +1,14 @@
+{
+  "id": 1149,
+  "origin_website": "Nature",
+  "title": "<p>Protocol for a retrospective cohort study for evaluating the early antibiotics use in non-severe COVID-19 patients </p>",
+  "procedures": [
+    "<p>We collected information of hospitalized patients with COVID-19 admitted to four hospitals in Hubei Province, China from 31<sup>st</sup>&nbsp;December, 2019 to 31<sup>st</sup>&nbsp;March, 2020. The demographic information, clinical symptoms, medical history, in-hospital medication, and clinical outcomes obtained from the electronic medical system. Laboratory data were collected from the laboratory information system. Any missing or uncertain records will collate and clarify through communication with involved health-care providers or patients and their families. Patients are screened strictly according to the inclusion/exclusion criteria and are divided into two groups according to their exposure to antibiotics within 48 hours after admission. Patients receiving antibiotic treatment within 48 hours after admission, with a course of treatment≥3 days are classified as early antibiotic use group (EAU group). Otherwise, patients are classified as non early antibiotic use group (NEAU group). The outcomes of interest will be recorded during a follow-up of 30 days for each patients.</p>"
+  ],
+  "subjectAreas": [
+    "Diseases"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

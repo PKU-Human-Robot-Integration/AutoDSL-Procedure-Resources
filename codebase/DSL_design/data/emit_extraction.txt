@@ -1,0 +1,4 @@
+Please help me analyze what we can obtain through this experimental procedure?"
+Note: Please only output one concise noun or noun phrase, and some appropriate adjective for modification, such as "washed cells"
+The experimental procedure is as follows:
++-+-+-

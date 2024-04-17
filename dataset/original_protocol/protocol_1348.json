@@ -1,0 +1,14 @@
+{
+  "id": 1444,
+  "origin_website": "Nature",
+  "title": "<p>Use of Tri-Chloroacetic Acid /Acetone/polyethylene glycol for protein purification from HIV-1 infected human plasma</p>",
+  "procedures": [
+    "<p>TCA/Acetone/PEG-6000 method for plasma protein purification:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100µl plasma was taken in a tube and 50% TCA/Acetone was added to it and incubated for overnight.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the tube was centrifuged at 12000 RCF for 10 minutes and the supernatant was discarded.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the 1ml of chilled acetone was added and kept it for 10 minutes at -20<sup>0</sup>C</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the tube was centrifuged at above same speed and the supernatant was discarded.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poly ethylene glycol -6000(48%) stock solution was prepared.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Various concentrations of 4% to 32% PEG -6000 was added to the samples and kept it for 1 hour in ice. Then the tubes were centrifuged at 12000 RPM for 10 minutes and the supernatant were discarded.</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pellets of each tube were washed with acetone twice at same speed. Then air dried the pellet and 150µl rehydration buffer was added in each tube. </p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then 3K Amicon ultra -4 device was centrifuged at 4000g for 2hrs to remove the salt impurities in the samples and make to narrow&nbsp;&nbsp;volume up to 50µl.Then the samples were measured using the Bradford assay.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then the protein sample was resolved in 10% SDS PAGE and 16% PEG -6000 was found to be better in plasma protein purification.&nbsp;</p>"
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

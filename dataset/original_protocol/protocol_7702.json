@@ -1,0 +1,17 @@
+{
+  "id": 8105,
+  "origin_website": "Bio",
+  "title": "Hairy Root Transformation in <em>Lotus japonicus</em>",
+  "procedures": [
+    "A.  Plant growthSandpaper the surface of L. japonicus Gifu or MG-20 seeds, and then incubate them in 2% sodium hypochlorite solution for 5 min. Wash the seeds several times with sterilized water and incubate the seeds overnight in the sterilized water. Surface-sterilized seeds are germinated and grown in the germination plate. Place the plate vertically in a growth cabinet (For Gifu, 23 °C 24 h dark for first 3 days and 23 °C 16 h light/8 h dark for next 2 days; For MG-20, 23 °C 24 h dark for first 2 days and 23 °C 16 h light/8 h dark for next 2 days).B. Culture of Agrobacterium Streak A. rhizogenes harboring the desired construct on LB plate with appropriate antibodies for 2 days at 28 °C, then spread bacteria all around sterilized dish (9 cm in diameter) and incubate for 1 day.C. Infection of A. rhizogenes with L. japonicus Collect the bacteria with bacteria spreader from LB plate and suspend 6 ml sterilized water.Set a sterilized filter paper in a new dish, and saturate it with bacterial suspension by pipetting.Place the juvenile plants on the saturated filter paper, and cut at the middle of the hypocotyl with surgical knife (Figure 1).Transfer the seedlings of shoot side onto co-cultivation media (cut end is need to be about 1 mm in depth from agar surface), and place the plate horizontally in a growth cabinet (23 °C 24 h dark) for 1 day.Place the plate vertically and incubate at 23 °C (16 h light/8 h dark) for 5 days.D.Induction of hairy rootsTransfer the plants onto hairy root elongation media and incubate vertically in a growth cabinet (23 °C 16 h light/8 h dark).After 10-14 days, the hairy roots should be approximately 2-5 cm in length.",
+    "Pick up plants with transgenic roots expressing florescent proteins for further analysis (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130613/20130613072134_1007.jpgFigure 1. Hairy root transformation in L. japonicus"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

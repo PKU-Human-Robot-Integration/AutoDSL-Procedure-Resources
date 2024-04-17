@@ -1,0 +1,17 @@
+{
+  "id": 5824,
+  "origin_website": "Bio",
+  "title": "Histochemical Staining of Collagen and Identification of Its Subtypes by  Picrosirius Red Dye in Mouse Reproductive Tissues",
+  "procedures": [
+    "Sacrifice mice by cervical dislocation as per the institute ethical guidelines and dissect it to collect the respective tissues. Briefly, following euthanization, make a 1.5-cm midline incision in the lower abdomen and collect different reproductive tissues. To obtain chorio-decidua, incise the bicornuate uterine horns longitudinally along the anti-mesenteric border and collect the fetal membrane.   Fix the tissue overnight at 4 °C in 10% buffered formaldehyde or 4% PFA.   Wash 5 times in PBS (see Recipes) and dehydrate in methanol gradient series (30%, 50%, 70%, 90%, 100% 30 min each) and xylene till tissue gets translucent.   Add molten paraffin (heated at 60 °C on a hot plate) in xylene (v/v, 1:1) and incubate at room temperature for 15 min.    Add molten wax to the tissues and incubate at 60 °C for 15 min. Change the wax and leave the tissues in wax at room temperature.   Next day melt the wax containing the tissue and give one more change of wax and the final incubation lasts for 15 min. For large tissue, the incubation time in wax may be increased to 30-45 min. The timing has to be empirically determined to suit the tissue type.    Pour molten paraffin in the mold and place the tissue in the desired orientation (placing it vertically) and overlay with embedding cassette on it. Leave it overnight at room temperature to completely solidify.    De-mold paraffin embedded tissue along with embedding cassette and section according to standard histopathology protocols using a microtome.   Collect the sections on a poly-lysine coated slide (see Recipes) and let it dry overnight at 37 °C.   Warm the sections on a hot plate (at 60 °C) and quickly dip in xylene containing Coplin jar.   De-paraffinize the sections in xylene twice for 30 min each. Ensure that the sections are nearly translucent.",
+    "Dip the slides through either methanol or ethanol gradient series (100%, 90%, 70%, 50%, 30%, D/W 5 min each).   Stain nuclei with haematoxylin (see Recipes) for 5-10 min.    Wash the slides in running tap water for 2 min.   Put the slides in Picrosirius red (see Recipes) containing Coplin jar for 1 h.   Wash the slides twice with fresh acidified water (see Recipes) (5 min each).   Wash the slides in D/W and dehydrate the sections through either methanol or ethanol gradients (50%, 70%, 90% for 5 min each).   Give three changes of 100% ethanol (5 min each).   Incubate in xylene for 30 min (two changes).   Mount in a D.P.X. and let it dry overnight.   Observe under a bright field or polarized microscope. Images can be captured using a routine digital camera or a CCD."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

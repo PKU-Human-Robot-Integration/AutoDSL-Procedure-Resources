@@ -1,0 +1,16 @@
+{
+  "id": 5304,
+  "origin_website": "Bio",
+  "title": "Antibiotic Disc Assay for <em>Synechocystis</em> sp. PCC6803",
+  "procedures": [
+    "Note: it is recommended that handling of cyanobacterial cultures is done under aseptic conditions using a sterile laminar hood. 100 ml of BG11 media are inoculated with cyanobacterial cells of WT and mutant at an initial OD730 ~0.05 and let to grow for 2-3 days until the OD of the cultures measured with the spectrophotometer at 730 nm is between 0.4-0.8. Count cells using the Beckman Coulter cell counter. Alternatively, if a cell counter is not available, cells can be counted using a hemocytometer. Working under sterile conditions, dilute the cyanobacterial cultures with BG11 to 100,000 cells/ml.Spread 1 ml of diluted cultures (containing 100,000 cells) of the WT and mutant strains on Petri dishes containing 40 ml of solid BG11 media respectively. Leave the plates open in the sterile hood until the liquid has evaporated. One-three antibiotic disks are placed on each plate of the WT and mutant strains. Use at least three biological replicates of each strain to be tested. Petri dishes are placed in an incubator with light and 30 °C and left to incubate (1-2 weeks) until green colonies are visible.Measure the inhibition area around each antibiotic disc to the last mm (Figure 1). If the mutant shows a higher zone of inhibition compared with the WT, this phenotype could be the consequence of the mutation interfering with the biogenesis/function of cell wall.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161219/20161219010144_0968.jpgFigure 1. Antibiotic sensitivity test assay. Susceptibility of the WT (A, C, E) and Δdeg (B, D, F) to the different antibiotics is shown by their zone of inhibition (ZOI). ZOI induced by Polymixin B is 0.55 (± 0.1) cm and 0.8 (± 0.08) cm in WT (A) and Δdeg mutant (B) respectively. ZOI of Carbenicillin was 1.6 (± 0.19) cm for the WT (C) and 2.4 (± 0.25) cm for Δdeg (D).",
+    "Colistin affected similarly WT (E) and Δdeg (F), ZOI of 0.4 cm. The black arrows indicate the measured zone of inhibitions. Adapted from Cheregi et al. (2015)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

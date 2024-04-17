@@ -1,0 +1,15 @@
+{
+  "id": 4533,
+  "origin_website": "Bio",
+  "title": "An Experimental Model of Neonatal Nociceptive Stimulation in Rats",
+  "procedures": [
+    "Ethical statement: All procedures discussed here are in accordance with and were approved by the Independent Ethics Committee of the Universidade Federal de São Paulo.    Obtain approval from local ethics committee.   Pregnant Wistar rats from the 14th day of gestation have to be housed individually in plastic cages and placed in the animal facility, equipped with an automatic temperature control system (23 ± 2 ºC), ventilation, a 12-h light-dark cycle (lights on at 7:00 AM) and unrestricted access to food and water.   The day of birth is designated as P0.   Each litter is restricted to 8 pups within 24 h after birth, excluding those pups with body weights lower than 0.5 g.   From P1 (postnatal day one) on, animals from all litters have their body weight recorded on a weekly basis, with an electronic scale (sensitivity 0.1 g), until the end of the experimental protocol.   To compare the effects of CFA injection during neural development, on postnatal days 1, 8 or 21 rat pups receive a single intraplantar subcutaneous injection of an inflammatory agent, the complete Freund’s adjuvant (CFA; 25 µl) into the left hindpaw. Note: Take care to avoid spending more than 2 min with each pup. This would cause higher stress levels in the dam.   All animals in a single litter are assigned to a particular group (CFA-stimulated at P1, P8, P21 or control), to avoid the influence that handling of pups at different ages could have on maternal care towards the remainder of the litter.    After CFA injection, the pups return to their home-cage with their dams.    As a result, paws of stimulated pups show swelling, edema and redness, starting a few hours after injection, lasting 5-7 days. The edema can be visually observed, as in Figure 1.",
+    "Control animals are subjected to needle insertion like the experimental pups, but without fluid infusion.   All litters are weaned on P21, and from then on, housed in same-sex groups of 5 animals of the same experimental group at most.    To avoid litter effects, pups from different litter were randomly assigned to different groups.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141103/20141103231927_8469.jpg Figure 1. In A the intraplantar subcutaneous injection of CFA on postnatal day 1. Just after the injection B the bleaching and swelling under the skin of the left paw is visible. At day 3 C and day 6 D after CFA injection, the left paw is still swollen (red arrow) compared with the right paw."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6551,
+  "origin_website": "Bio",
+  "title": "Image-based Quantification of Direct Cell-to-cell Transmission of Bovine Viral Diarrhea Virus",
+  "procedures": [
+    "Infection of MDBK cells with cytopathic BVDV (Figure 2)Seed 3 x 104 cells per well on 12 mm glass coverslips in 500 μl of complete medium in 24-well plates and allow to grow overnight in 5% CO2 cell culture incubator. On the following day, prepare a dilution of cpBVDV/mCherry-E2 to 105 TCID50/ml in infection medium.Wash cells and add 200 μl of virus dilution per well.Spinoculate the cells by centrifuging the plate at 500 x g for 10 min.Move the plate to 37 °C in a 5% CO2 cell culture incubator for 4 h. At this stage, it is not necessary to replace the virus containing infection medium with fresh medium.Co-culture with MDBK-GFP cells (Figure 2)Lift MDBK-GFP cells with trypsin and count.Prepare a suspension of cells in complete medium at a density of 2 x 105 cells/ml and add an appropriate dilution of virus neutralizing antibodies. Keep 1 ml of the suspension without neutralizing antibodies for the control.Thoroughly, wash infected cells with PBS and plate 500 μl of MDBK-GFP cell suspension on top of the adhered infected cells per well.Incubate for two days at 37 °C in 5% CO2 cell culture incubator.Note: Due to faster replication kinetics of the cytopathic biotype of BVDV compared to the non-cytopathic biotype, cell spread is assessed 2 days after infection. Usually, extended cytopathic effect is observed in the cell monolayer 3 days in assays using cpBVDV. Proceed to fixation and DAPI staining as described for Procedure C in the Main Protocol.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190729/20190729030258_0807.jpgFigure 2. Schematic representation of the experimental setup used to assess cell-to-cell transmission of cpBVDV. To set up the co-culture, producer cells are first infected with cpBVDV/mCherry-E2 (red), and next non-infected target cells expressing GFP (green) are plated on to the infected cell monolayer."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

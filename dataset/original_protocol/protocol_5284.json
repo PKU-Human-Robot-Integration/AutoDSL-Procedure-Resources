@@ -1,0 +1,18 @@
+{
+  "id": 5611,
+  "origin_website": "Bio",
+  "title": "Macrophage Infection by Dimorphic Fungi",
+  "procedures": [
+    "Note: All steps performed in the Biological Safety Cabinet. Use sterile materials and reagents and aseptic techniques. All incubation steps are at 37 °C, 5% CO2 in a cell culture incubator unless indicated.Day 1In the biological safety cabinet, gently remove the culture media from the flask (or petri dish) of confluent J774 murine macrophages and discard.Gently wash the cells 1x with 10 ml PBS.Add 1x Trypsin-EDTA solution to detach the cells (1 ml for a 25 cm2 small flask, 2.5 mL for a 75 cm2 big flask).Incubate for 30-60 min in the cell culture incubator to detach the cells.Add complete DMEM media to stop the digestion (4 ml for small flask, 7 ml for big flask) and transfer the cells into a sterile 10 ml centrifuge tube.Pellet the cells by centrifugation for 8 min at 1,500-1,800 rpm.Pour off media and discard and resuspend the cell pellet in 1 ml complete DMEM media. Calculate the concentration of cells using dilutions in PBS and a haemocytometer (want to add 1 x 105 cells total).Holding with fine tweezers, dip a coverslip into 70% ethanol, dab off excess ethanol by placing edge of the coverslip on a tissue and pass through the flame of a Bunsen burner to sterilze. Place the sterile coverslip into the well of a 6 well sterile cell culture plate. Repeat, placing a coverslip per well. Add 2 ml of complete DMEM media to each well of the 6 well cell culture plate. Add 1 x 105 macrophages per well. Incubate in the cell culture incubator overnight (24 h).Day 2Add 0.1 µg/ml LPS (in total volume) to each well of the 6 well cell culture plate. Incubate overnight (24 h) in the cell culture incubator.Day 3Remove the media from wells with a 10 ml pipette and discard.",
+    "Pipette 5 ml of PBS into each well to wash the cells, then remove and discard. Repeat 3x in total. Add 2 ml fresh complete DMEM media to each well. Add 1 x 106 fungal conidia (10 µl of 1 x 107 fungal conidia/ml suspension) to each of the five wells (can do 5 different strains per experiment) leaving one well as a minus infection control. Incubate 2 h in the cell culture incubator (to allow phagocytosis of conidia).Remove media and discard. Gently wash off unbound spores with 5 ml PBS. To assess phagocytosis, continue straight to DAY 4. To assess yeast cell production, add 2 ml of fresh complete DMEM media and incubate for 24 h in the cell culture incubator. Day 4Remove the PBS or media from the wells and discard. Add 2 ml of 4% fixation solution. Leave 30 min at room temperature. Remove the fixation solution and discard. Add 2 ml of PME to each well to wash.On a microscope slide, place 5 µl 0.001% Tween 20. Add 1 µl of 0.1 mg/ml calcofluor to the Tween and mix using a pipette tip. Using fine tweezers, remove the coverslip from the cell culture plate well and invert, macrophage side down, onto a microscope slide. Blot with a tissue and seal with nail vanish. View on a microscope under the UV filter."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

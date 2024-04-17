@@ -1,0 +1,14 @@
+{
+  "id": 262,
+  "origin_website": "Nature",
+  "title": "A simple, rapid and very efficient protocol for DNA isolation from mosquito species",
+  "procedures": [
+    "1.Wash preserved mosquitoes in sterile distilled water or phosphate buffer saline\\(PBS) to remove excess alcohol. Fresh mosquitoes can be ground directly.\n2.Grind mosquitoes  in  1.5 ml eppendorf  tube with micropistle in 50-100 µl 1X STE buffer \\( 50mM Nacl,50mM Tris- HCL,100mM EDTA, Ph 8.0) along with 100mM sucrose. Add 1X STE buffer to a total volume of 300-500 µl for a single mosquito and 1 ml for mosquito pool like 4,6,8,10 numbers. Then add 1% SDS ,1% Triton -X , 10 µl/ ml  Rnase A \\(20mg/ml), 20 µl/ ml  Proteinase K \\(20mg/ml) and mix it.\n3.Lyse for 1 hour 30 minutes at 37º celcius. Gently mix the tube by inverting every 15 minutes.\n4.Centrifuge at 12,000g  for 10 minutes at 4º celcius  .Transfer  the supernatant to a fresh tube.\n5.Add equal volume of phenol:chloroform\\(1:1) ,shake the tube well for 5 minutes and  centrifuge at 12,000g for 10 minutes at 4º celcius  .\n6.Repeat the above step\\(5) , then add chloroform:isoamyl alcohol\\(24:1) and centrifuge at 12,000g for 10 minutes at  4º celcius  .\n7.Transfer the very clear supernatant to a fresh tube , add two fold volume cold  isopropanol and keep it for 1 hour at -20º celcius  .\n8.Centrifuge at 12,000g for 30 minutes at 4º celcius and then  remove the supernatant .\n9.  Wash the pellet with 70% ethanol .\n  10. Keep the pellet  at 37 º celcius  for  10 minutes.\n                    \n11. Dissolve the dry pellet in nuclease free water or TE buffer \\(Ph 8.0). Store DNA at 4 º celcius  or -20 º celcius ."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

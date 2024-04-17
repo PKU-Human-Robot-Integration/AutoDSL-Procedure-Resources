@@ -1,0 +1,16 @@
+{
+  "id": 6666,
+  "origin_website": "Bio",
+  "title": "Measurement of Mitotic Spindle Angle and Mitotic Cell Distance in Fixed Tissue of <em>Drosophila</em> Larval Brains",
+  "procedures": [
+    "Stain larval brains according to the following protocolNote: All the washes and incubations are done on an orbital shaker at slow motion.Roughly dissect about 15 brains per genotype in cold PBS. Try not to prolong more than 20 min the dissection time to preserve the quality of the material. Keep the material already dissected on ice-cold PBS.Fix by incubation in 4% PFA in PBT-0.1T for 20 min with gentle agitation.Rinse with PBT by replacing the solution 3 times and wash by gentle agitation for another 3 x 15 min each. During these washes, clean the brains of other pieces of tissue sticking to it.Incubate brains in PBT + 0.1% BSA for at least 1 h at Room Temperature (RT).Incubate brains with the corresponding primary antibodies at the right dilution in blocking reagent overnight at 4 °C.Rinse with PBT by replacing the solution 3 times and wash for another 3 x 15 min each.Incubate with secondary antibodies at the right dilution in blocking reagent for 2 h at RT in the dark.Rinse with PBT by replacing the solution 3 times and wash for another 3 x 15 min each.Wash with PBS for 10 min at RT.After removing the PBS, add Vectashield to the well and leave at 4 °C overnight (this incubation facilitates the mounting step).Mount brains onto glass slides using the bridge method illustrated in Figure 1, preserving their three-dimensional configuration.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20191114/20191114184413_4023.jpgFigure 1. Bridge method for mounting Drosophila brainsGlue two pieces of adhesive tape leaving a thin space (approx. 5 mm) in between as shown in Figure 1.Add the brains in the smallest possible volume of Vectashield with a cut yellow pipette tip.Remove as much as possible the excess of Vectashield with a cut white pipette tip.Arrange the brains with the ventral side facing up.",
+    "Add a cover glass and fix it with 2 pieces of adhesive tape.Fill the space under the bridge with Vectashield.Imaging acquisitionFluorescent images were recorded using a Leica upright DMR microscope with an HCX Plan Apochromat 63x/1.32-0.6 NA oil confocal scanning objective. 2 x Zoom with a distance between focal planes in each Z-stack of 0.8 μm was used."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

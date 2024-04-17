@@ -1,0 +1,16 @@
+{
+  "id": 6367,
+  "origin_website": "Bio",
+  "title": "Cartilage Induction from Mouse Mesenchymal Stem Cells in High-density Micromass Culture",
+  "procedures": [
+    "imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181228/20181228005019_2064.jpgFigure 1. Summary of experimental procedure. In brief: A-C. Dissect the limb buds from embryonic mice. D-E. Digested them with enzymes (dispase and collagenase). F-I. Seed the cells at high density. J. Add the chondrogenic medium and incubate for 6 days. K. Alcian blue staining.Preparation of the cellsDissect the limb buds from mouse embryonic day 12.5 (the part surrounded by circle in Figure 1B). One limb bud is enough to induce 2 or 3 wells of cartilage (Figures 1A-1C).Collect the limb buds in a 1.5 ml tube and add 1 ml enzyme solution (0.1% Dispase, 0.1% Collagenase in D-MEM/Ham's F-12) (Figure 1D).Rotate the tube at 60 rpm on a microtube rotator (AS ONE) for 1.5 h at 37 °C (Figure 1E).Centrifuge the tube for 5 min at 300 x g and resuspend the cells in 1 ml D-MEM/Ham's F-12 (Figure 1F).Apply the cell suspension to a 40 μm cell strainer placed in a 5 ml round bottom tube and measure the cell density using an automated cell counter (Bio-Rad) (Figure 1G).Cartilage formationCentrifuge the tube for 5 min at 300 x g and resuspend the cells in D-MEM/Ham's F-12 containing 10% FBS to adjust the cell density to 1.5 x 107 cells/ml (Figure 1H).Place a 10 μl droplet in 4-well culture plate and incubate the cells in the CO2 incubator for 1.5 h (Figure 1I).Add the 500 μl chondrogenic medium (D-MEM/Ham's F-12 containing 10% FBS and 50 μg/ml L-ascorbic acid) with care not to disrupt the droplet and incubate in the CO2 incubator (Figure 1J).Change the medium every 2 days and incubate for 6 days.Alcian blue staining (Figure 1K)Fix the cells in 500 μl 4% PFA for 10 min and wash the cells twice using Milli-Q water.",
+    "Add 500 μl 1% acetic acid for 5 min and replace acetic acid by 500 μl Alcian blue solution for 30 min.Wash the cells with 500 μl 1% acetic acid and wash twice using Milli-Q water.Image the stained cells using optical microscope (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181228/20181228005036_1265.jpgFigure 2. Alcian blue staining"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

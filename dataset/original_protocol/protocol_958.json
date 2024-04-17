@@ -1,0 +1,15 @@
+{
+  "id": 1022,
+  "origin_website": "Nature",
+  "title": "GPCR identification in parasitic worm genome assemblies",
+  "procedures": [
+    "1. Acquire all previously identified GPCR gene IDs from C. elegans, B. malayi, O. volvulus. S. mansoni, and S. mediterranea. \n  2. Using the gene ID seeds from \\(1), use the WormBase ParaSite API to pull out all orthologues in the database. Pull the orthologous gene IDs and their sequences and organize into gene families based on the original seed.\n  3. Use MAFFT \\(Katoh & Standley 2013) \\(--auto) to individually align the sequences of each family.\n  4. Use trimal \\(Capella-Gutiérrez 2009) \\(-automated1) to trim remove columns that contain ambiguous sites or poorly aligned characters.\n  5. Use HHsuite \\(hmmbuild) to create profile Hidden Markov Models \\(HMMs) for each trimmed alignment.\n  6. Acquire curated HMM databases from UniProt, SCOPUS, Pfam, and the PDB.\n  7. Use HHsuite \\(Soding 2005) \\(hmmsearch) to search each family HMM against the four databases and retain the best-hit for each search \\(i.e. resulting in four best-hits for each family).\n  8. Manually peruse the best-hits for each family and remove families that contain <2 GPCR-like best-hits – these are the most likely false positives.\n  9. Take two or three representative sequences from each family and use blastp \\(Camacho et al. 2009) to search against the NCBI non-redundant protein database. Cross-reference the annotations of significant hits with GPCRdb \\(Pandy-Szekeres et al. 2018) to categorize the GPCR family as Class A \\(rhodopsin-like), Class B \\(secretin/adhesion-like), Class C \\(glutamate-like), or Class F \\(frizzled-like).\n  10. Append manually identified GPCR families and families identified via a separate analysis of synapomorphic families to the final list of putative GPCR families and their members."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

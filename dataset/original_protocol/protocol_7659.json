@@ -1,0 +1,15 @@
+{
+  "id": 8062,
+  "origin_website": "Bio",
+  "title": "Immunofluorescence (Indirect Staining) Protocol for Adherent Cells",
+  "procedures": [
+    "Grow cells on round cover slips in 24-well plates to 30-60% confluence. Do not overgrow because it will be difficult to distinguish cell components when stained.Wash cells with 500 μl/well DPBS twice, then add 250 μl/well 4% paraformaldehyde for 15 min at room temperature (RT).Remove paraformaldehyde, wash the fixed cells with 500 μl/well PBS + 3% FBS for 3 times.Permeabilize cells with 250 μl/well DPBS + 0.2% Triton X-100 for 5 min, then wash with 500 μl/well DPBS + 3% FBS for 3 times.Block with 500 μl/well DPBS + 3% FBS + 0.5% Tween 20 for 1 h at RT.Remove the blocking buffer, add 250 μl/well primary antibodies and incubate at RT for 1 h.Remove the antibodies, wash with 500 μl/well DPBS + 3% FBS in 5 min for 3 times.Add 250 μl/well fluorescent secondary antibodies and incubate at RT for 30 min.Remove the antibodies, wash with 500 μl/well DPBS + 3% FBS in 5 min for 3 times.Place a small drop of anti-fade reagent on a glass slide, then get the cover slip from the well and put it face down on the drop, push it tightly and attach to the glass slide. Leave the slide in the dark for 5 min to let it dry. The slide now it is ready to observe under a fluorescence microscope."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 423,
+  "origin_website": "Nature",
+  "title": "High-efficiency transfection of small RNAs and plasmid DNA in human cells",
+  "procedures": [
+    "Day1: \n1) Plate cells at ~25% confluency in 24-wells plates, using standard growth medium.\nDay2: \n2) Check cells confluency \\(it shoud be ~50%) and replace the medium with 500&#x3BC;l of growth medium without antibiotics.\n3) Mix 600 ng  of siRNA in 50ul of Opti-MEM \\(amounts and volumes used for a single well)\n4) Mix 1 ul of RNAiMAX in 50 &#x3BC;l of Opti-MEM\n5) Combine the 2 solutions, mix gently and incubate 10 minutes at room temperature\n6) Add the solution uniformly to the cells\n7) After 4-6 hours replace medium with standard growth medium\n8) Incubate cells for 48 hours under standard conditions.\nDay4:\n9) Replace the medium with 500ul of growth medium without antibiotics\n10) Mix 600ng  of miRNA, 80ng of reporter plasmid and 40ng of pCS2-lacZ plasmid in 50ul of Opti-MEM \\(amounts and volumes used for a single well; pCS2-lacZ is used as normalizer for luciferase assays)\n11) Mix 1ul of Lipofectamine2000 in 50&#x3BC;l of Opti-MEM\n12) Combine the 2 solutions, mix gently and incubate 10 minutes at room temperature\n13) After 4-6 hours replace medium with standard growth medium\nDay5:\n14) Replace the medium with 500&#x3BC;l of growth medium containing 0.1% serum and incubate for 8 hours\n15) Dilute the protein ligand in 0.1% serum medium and add the solution to the cells \n16) Incubate cells under standard conditions for 2-16 hours \\(according to the ligand activity)\n17) Replace medium with 200&#x3BC;l per well of luciferase lysis buffer\n18) Perform a standar luciferase assay"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

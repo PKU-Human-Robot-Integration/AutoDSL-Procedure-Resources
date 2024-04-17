@@ -1,0 +1,16 @@
+{
+  "id": 8208,
+  "origin_website": "Bio",
+  "title": "End-synapsis Assay",
+  "procedures": [
+    "First, PCR is used to synthesize a ~500 bp dsDNA fragment (e.g. from pBluescript plasmid) with a non-biotinylated or biotinylated reverse primer and a non-biotinylated forward primer, producing a fragment biotinylated at one end (500 bio) or not. The non biotinylated fragment was then radiolabeled with T4 polynucleotide kinase in the presence of [32P]-ATP (500*).    Next, beads associated with biotinylated DNA fragments were prepared: per point, 0.5 pmol of 500 bio dsDNA fragment were immobilized on 10 μl streptavidin paramagnetic beads as recommended by the manufacturer.   In parallel, NHEJ competent cells extracts from human cells were used (Bombarde et al., 2010). Briefly, exponentially growing cells were lysed through three freeze/thaw cycles in lysis buffer containing protease and phosphatase inhibitor cocktail, then lysates were incubated at 4 °C for 20 min, cleared by centrifugation, and dialyzed against dialysis buffer as described (Bombarde et al., 2010). Protein concentration was determined using the Bradford assay and end-joining extracts were stored at -80 °C. Here, 40 μg extracts were incubated for 10 min at 30 °C with 2 mM glucose and 0.2 U hexokinase. Glucose and hexokinase is an ATP consuming system used to prevent any ligation activity (Calsou et al., 2003). Note: DNA end-synapsis is an early step of NHEJ which relies on protein/DNA interactions and is reversible (e.g. by washing with high salts or detergent) while ligation is the final step and is irreversible (resistant to harsh washes). Ligation has to be prevented to focus the analysis on synapsis.    10 μl of mocked (control) or DNA-treated beads were washed twice in 100 μl of 0.5x PBS.   Wet mocked or DNA-treated beads were mixed at 16 °C for 30 min in 10 μl EJ buffer containing 0.",
+    "1 pmol of radioactive 500* DNA fragment and 40 μg of NHEJ competent cell extracts pre-incubated as above. The beads were gently hand-agitated by every 5 min.   After incubation, supernatant was removed for storage and wet beads were washed twice in 50 μl 0.5x PBS.    The washes were pooled with the supernatant.   Radioactivity associated with supernatants and beads were measured in a scintillation counter.    Results are expressed as the % of radioactivity pulled down after subtraction of the counts in the sample without 500 bio on the beads (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130911/20130911021435_7504.jpg Figure 1. Quantification of the specific radioactivity pulled-down under synapsis conditions in vitro with extracts of Nalm6 or N114 cells. N114 cells have a defect in Lig4 expression which impacts on synapsis formation."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

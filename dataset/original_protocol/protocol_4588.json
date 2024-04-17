@@ -1,0 +1,15 @@
+{
+  "id": 4841,
+  "origin_website": "Bio",
+  "title": "Alcian Blue – Alizarin Red Staining of Mouse Skeleton",
+  "procedures": [
+    "Adults:Fix mouse skeleton in 10% neutral buffered formalin for at least 24 h.Rinse the sample in ddH2O O/N (1 h for embryos) with gentle shaking, and post-fix it in 70% ethanol.Note: At this point, samples can be stored in 70% ethanol for a long period.Remove skins and internal organs carefully from the sample.Note: Remove all skins, even those on the small toes.  Stain the sample with 0.02% Alcian blue 8GX (prepared in ethanol/ glacial acetic acid, 7:3) for 1 to 2 days.Note: Cartilage tissues will be stained blue.  Wash the sample with plain ethanol/ glacial acetic acid (7:3) for 1 h.  Soak the sample in 100% ethanol O/N, and then in ddH2O for 1 to 2 days.  Treat the sample with 1.0% trypsin (prepared in water solution containing 30% saturated sodium borate) O/N.Should limp and blue cartilage be readily observed at this point, proceed to stain the sample with Alizarin red (prepared in 0.5% KOH) O/N.Note: Add enough (no specific amount) saturated Alizarin red until the solution appears dark purple. Mineralized bones will be stained red.  Treat the sample with a gradient series of 0.5% KOH/ glycerol (i.e., 2:1, 1:1, 1:2 and 100% glycerol, 2 days for each step), and store it in glycerol with a crystal of thymol.Embryos:A similar protocol can be used to stain embryos. To do this, fix embryos in 90% ethanol for at least 1 week.Treat the sample with 0.01% Alcian blue 8GX for 3 days, and then perform rehydration through a gradient series of ethanol (70% ethanol, 2 to 3 h, twice; 40% ethanol, 2 to 3 h; 15% ethanol, 2 to 3 h; ddH2O, until the sample sinks to the bottom of a conical tube). Treat the sample further with fresh 1% KOH for 1 to 2 days until it becomes clear.",
+    "Treat the sample with 0.001% Alizarin red for 2 to 3 days until the bone becomes purple.Rinse the sample ~ 3 times in 1% KOH, several hours each time.  Treat the sample through a gradient series of glycerol-KOH (20% glycerol/ 1% KOH, 24 h; 50% glycerol/ 1% KOH, 24 h; 80% glycerol/ 1% KOH, 24 h; 100% glycerol, 24 h x 2)."
+  ],
+  "subjectAreas": [
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

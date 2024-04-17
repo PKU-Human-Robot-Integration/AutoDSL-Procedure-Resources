@@ -1,0 +1,15 @@
+{
+  "id": 515,
+  "origin_website": "Nature",
+  "title": "A Bioconductor R pipeline for analysis of RNA-seq data",
+  "procedures": [
+    "1. Check the sequencing quality of RNA-seq data using 'qualityScores' function in Rsubread package.\n  \n2. Use 'align' function in Rsubread to align the reads.\n  \n3. Use 'featureCounts' function in Rsubread to assign reads to genes.\n  \n4. Use 'voom' function in limma package to normalize read counts and to estimate the mean-variance relationship.\n  \n5. Use 'lmFit' function in limma to fit linear models to genes.\n  \n6. Use 'treat' \\(or 'eBayes') function in limma to compute moderated t statistic for each gene for each comparison.\n  \n7. Call differentially expressed genes using the 'decideTests' function in limma.\n  \nThe Rsubread package can be downloaded from http://bioconductor.org/packages/release/bioc/html/Rsubread.html. The limma package can be downloaded from http://bioconductor.org/packages/release/bioc/html/limma.html"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

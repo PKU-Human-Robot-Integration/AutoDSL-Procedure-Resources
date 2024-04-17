@@ -1,0 +1,15 @@
+{
+  "id": 9891,
+  "origin_website": "Jove",
+  "title": "Hydrolysis of a Ni-Schiff-Base Complex Using Conditions Suitable for Retention of Acid-labile Protecting Groups",
+  "procedures": [
+    "1. Hydrolysis of Ni-Schiff-Base Complex\nDissolve 1 mmol of the Ni-PBP-Schiff-base complex in 40 mL of N,N-dimethylformamide (DMF) with stirring in a 250 mL round bottom flask at room temperature.\nAdd 60 mL of 0.2 M aqueous EDTA solution, pH 4.5.\nUsing a magnetic stir bar and stir plate, stir the combined solution overnight. As the Schiff-base complex is hydrolyzed, the color will shift from a deep red to white.\nAfter completion of the reaction as indicated by the absence of any red coloring, transfer the reaction to a 250 mL separatory funnel.\nAdd 50 mL dichloromethane, cap the separatory funnel, and mix. Drain the organic wash into a waste beaker. Repeat this process three times to remove PBP and any residual Ni-PBP-Schiff-base complex. Collect the remaining aqueous layer in a 250 mL round bottom flask.\n2. Fmoc Protection of Hydrolyzed Amino Acid\nAdjust the isolated aqueous layer from step 1.5 described above to pH 7 using solid sodium bicarbonate. Check pH periodically using pH test strips.\nAdd 168 mg sodium bicarbonate (2.00 mmol, 2 equiv) to the solution and stir using a magnetic stir bar and stir plate.\nDissolve 337 mg Fmoc N-hydroxysuccinimide ester (1.00 mmol, 1 equiv) in a minimal amount of dioxane (roughly 4 or 5 mL) in a 10 mL vial. Transfer this solution to the aqueous solution and stir overnight.\nAfter allowing the reaction to stir overnight, acidify the resulting solution to pH 2 with 1 M hydrochloric acid. Check pH periodically using pH test strips.",
+    "Transfer the reaction to a 250 mL separatory funnel and add 50 mL ethyl acetate. Cap the separatory funnel, mix well, and collect the organic layer in a 250 mL Erlenmeyer flask. Repeat this process two additional times, combining the organic extracts. Dry the combined organic extracts with roughly 3 g of magnesium sulfate.\nConcentrate the combined organic extracts using a rotary evaporator to afford the crude Fmoc-protected amino acid.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

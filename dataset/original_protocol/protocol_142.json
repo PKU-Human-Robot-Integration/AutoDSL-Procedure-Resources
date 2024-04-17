@@ -1,0 +1,14 @@
+{
+  "id": 146,
+  "origin_website": "Nature",
+  "title": "Separation of Lipids by Solid Phase Extraction \\(SPE)",
+  "procedures": [
+    "1. Determine the total lipid concentration in liver lipid extraction or bile.\n  *SPE method allows lipid concentration <1.46 mg/100µl.\n2. Prepare new solvent in dispenser from stock solution.\n  *Throw away the old solvent because it is easy to evaporate in dispenser than in stock bottle.\n3. Take proper amount of liver lipid extraction or bile. Evaporate under N2. Add 900µl HBA into the tube.\n  \n4. Connect the SPE vacuum apparatus to the negative water pressure system. Switch on the pressure control. \\(Don’t exceed 2)\n  \n5. Switch the upper part of SPE vacuum apparatus to “Waste” position.\n  \n6. Use 1000 µL automatic pipette to add 600 µL ACW twice to wash the SPE column.\n  \n7. Change the switch on the SPE vacuum apparatus from WASTE to COLLECTIVE.\n  \n8. Use 1000 µL automatic pipette to add 1000 µL hexane twice.\n  \n9. Apply 300 µL lipid HBA \\(LHBA) into the column.\n  \n10. Set up the tubes of CE fraction into the SPE vacuum apparatus.\n  \n11. Use dispenser to add 5 mL hexane into the column to elute CE. Wait until all the solution is eluted.\n  \n12. Change the tubes to TG. Use dispenser to add 5 mL HCA.\n  \n13. Change the tubes to MDG. Use dispenser to add 5 mL CIP.\n  \n14. Change the tubes to FFA. Use dispenser to add 5 mL CMA.\n  \n15. Change the tubes to PL. Use dispenser to add 5 mL MCW.\n  \n16. For PL fraction, add 2 mL water + 1 mL chloroform to separate water in the PL fraction. Shake upside down 3 times. Siphon off the upper layer. Cap tightly and seal it with Teflon tape. Evaporate the lower layer for FA analysis."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

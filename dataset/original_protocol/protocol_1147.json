@@ -1,0 +1,17 @@
+{
+  "id": 1226,
+  "origin_website": "Nature",
+  "title": "<p>Profiling Serum Antibodies with a Pan Allergen Phage Library Identifies Key Wheat Allergy Epitopes</p>",
+  "procedures": [
+    "<p>1. Construct AllerScan phage display library </p><p>\ta. Download all protein sequences from Uniprot database included in the Allergome and collapsed on 90% sequence identity</p><p>\tb. Design peptide sequences 56 amino acids in length that overlap by 28, to tile through all representative allergen proteins. </p><p>\tc. Next, reverse-translate these sequences into DNA nucleotide sequences optimized for&nbsp;<em>E. coli&nbsp;</em>expression and added adapter sequences to both the 5’ and 3’ ends. </p><p>\td. Construct/purchase these 200 nucleotide sequences.</p><p>\te. PCR amplify oligonucleotide library and restriction clone into the T7FNS2 vector backbone. </p><p>\tf. Package resulting library via the T7 Select Packaging Kit (EMD Millipore) and expand for use as a PhIP-Seq library.</p><p><br></p><p>IgG screening of the AllerScan library</p><p><br></p><p>1. Quantify IgG serum concentrations via ELISA (Southern Biotech).</p><p>2. Add two&nbsp;mg of IgG to 1 mL of AllerScan library at 1.9 × 109&nbsp;pfu for each reaction. </p><p>3.\tRotate serum and phage library overnight at 4°C</p><p>4. Add 20&nbsp;mL of protein A and 20&nbsp;mL of protein G coated magnetic beads (Invitrogen, 10002D and 10004D)  to each reaction</p><p>5. Rotate an additional 4hr at 4°C. </p><p>6. Wash beads three times in 0.1% NP-40 and then resuspend in a Herculase II Polymerase (Agilent cat # 600679) PCR master mix. </p><p>7. Perform 20 cycle PCR.</p><p>8. Add two&nbsp;mL of each reaction to new PCR reactions containing sample specific barcoding primers.</p><p>9. Perform an additionall 20 cycles of PCR. </p><p>10. Pool final amplified product and submit for sequencing using an Illumina NovaSeq 6000 or NextSeq 500.</p><p><br></p><p>IgG screening of the AllerScan library</p><p><br></p><p>1. Quantify IgE serum concentrations via ELISA (Southern Biotech).</p><p>2. Add 100&nbsp;ug of IgE to 1 mL of AllerScan library at 1.9 × 109&nbsp;pfu for each reaction. </p><p>3.\tRotate serum and phage library overnight at 4°C</p><p>4.a.",
+    "For each reaction, coat 10 ug of Streptavidin-bound M280 magnetic beads (ThermoFisher - 11205D) with biotinylated omalizumab (Genentech, CA) - follow manufacturer guidelines</p><p>4.b. Mix 10 ug of omalizumab coated Streptavidin-bound M280 magnetic beads with each reaction</p><p>5. Rotate an additional 4hr at 4°C. </p><p>6. Wash beads three times in  0.01% PBST and then resuspend in a Herculase II Polymerase (Agilent cat # 600679) PCR master mix. </p><p>7. Perform 20 cycle PCR.</p><p>8. Add two&nbsp;mL of each reaction to new PCR reactions containing sample specific barcoding primers.</p><p>9. Perform an additionall 20 cycles of PCR. </p><p>10. Pool final amplified product and submit for sequencing using an Illumina NovaSeq 6000 or NextSeq 500.</p>"
+  ],
+  "subjectAreas": [
+    "Biomarkers",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

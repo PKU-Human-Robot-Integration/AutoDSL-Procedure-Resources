@@ -1,0 +1,15 @@
+{
+  "id": 865,
+  "origin_website": "Nature",
+  "title": "Barcoding lentiviral Cre vectors for use in experiments involving downstream Tuba-seq analysis.",
+  "procedures": [
+    "1. PCR amplify the barcoded insert off of Lenti-PGK/Cre plasmid.\n  \nReaction mix:\n200 l PrimeStarHS Mix\n12 l  Forward Primer \\(10 M)\n12 l  Reverse Primer \\(10 M)\n8 l Template \\(500 ng/L)\n168 l H20                          \n--------------------------------------\n400 l Total  Split into 4, 100 l reactions\nPCR Program:\n   Temp. \\(°C)  Time \\(min)\n1. 98              1:00\n  2. 98              0:15\n  3. 55              0:05\n  4. 72              1:00\n  5. Go to step 2, 34x\n  6. 72              5:00\n  7. 4                forever\n  \n2. Pool the PCR reactions and PCR purify using the Qiagen® PCR Purification Kit. Elute in 35 l H20. \n  3. Digest barcoded insert with BspEI and BamHI.\n  Reaction mix:\n5 l Buffer 3.1\n1.5 l  BspEI\n1.5 l  BamHI\n3 g Barcode Insert \nH20 to 50 l                         \n--------------------------------------\n50 l Total  Incubate at 37°C 2 hours\n4. Concurrently digest Lentiviral Plasmid with XmaI and BamHI.\n  Reaction mix:\n5 l Cutsmart Buffer \n1.5 l  XmaI\n1.5 l  BamHI\n5 g Lentiviral Plasmid\nH20 to 50 l                         \n--------------------------------------\n50 l Total  Incubate at 37°C 2 hours\n5. Run out digested products on a 2% agarose gel and gel extract the fragments using the Qiagen® MinElute Gel Extraction Kit \\(Qiagen, 28604) and elute in 25 l of H20.\n  6. Ligate digested barcoded insert into digested Lentiviral Plasmid\n  Reaction mix:\n8 l   Ligation Buffer \n1.6 l   T4 DNA Ligase \\(NEB, M0202)\n300 ng Digested Lentiviral Plasmid\n180 ng Digested Barcoded Insert \nH20 to 80 l                         \n--------------------------------------\n80 l Total  Incubate at 16°C overnight\n7. PCR purify the ligation product using the Qiagen® PCR Purification Kit \\(Qiagen, 28106)\n  8. Transform 1 l into 20 l ElectroMAX DH10B cells \\(Thermo Fisher, 18290015). Use 0.1 cm GenePulser/MicroPulser Cuvettes \\(Bio-Rad, 165-2089) and BD MicroPulser™ Electroporator \\(Bio-Rad,165-2100)at 1.9 kV.",
+    "9. Ad 500 l of SOC media and shake at 200 rpm for 30 minutes at 37°C.\n  10. Plate on LB-Amp plates \\(1x1 l, 1x 10 l, and 5x 100 l) and incubate at 37°C overnight.\n  11. Count colonies on either the 1 l or 10 l plate and use these counts to estimate the colony number on the 100 l plates. The total number of colonies counted will provide an estimate of the number of unique barcodes obtained.\n  12. Scrape bacterial colonies off of the LB-Amp plates in 10 mL of LB-Amp per plate.\n  13. Pool liquid in a flask and shake at 200 rpm for 30 minutes at 37°C.\n  14. Midi-prep the barcoded plasmid pool using the Qiagen® HiSpeed MidiPrep Kit \\(12643).\n  15. Determine plasmid concentration and confirm barcoding by Sanger sequencing."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

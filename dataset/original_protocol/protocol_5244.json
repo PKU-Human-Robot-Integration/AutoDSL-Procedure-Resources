@@ -1,0 +1,16 @@
+{
+  "id": 5571,
+  "origin_website": "Bio",
+  "title": "Determining Genome Size from Spores of Seedless Vascular Plants",
+  "procedures": [
+    "Prepare buffer for useAllocate appropriate amount of Backmen stock buffer to a 50-ml tube based on an estimation of 1-1.5 ml per sample.Add 0.04 g PVP-40, 5 μl 2-mercaptoethanol, 1 μl RNase per ml of buffer.Extract spore nuclei by bead-vortexingFor each sample, weigh ~0.007 g spores into a 1.7-ml tube. Green spores that usually have thin spore walls, 4 times the amount of spores are recommended (Kuo et al., 2017)*.*Note: For bead-vortexing, the detailed process can be seen in the video supplied in Kuo et al. (2017): http://onlinelibrary.wiley.com/store/10.1111/nph.14291/asset/supinfo/nph14291-sup-0002-VideoS1.mov?v=1&s=dae6f0590d33413f1444bc0add857d285fb73cd6[href=http://onlinelibrary.wiley.com/store/10.1111/nph.14291/asset/supinfo/nph14291-sup-0002-VideoS1.mov?v=1&s=dae6f0590d33413f1444bc0add857d285fb73cd6]Add 16 stainless steel beads into each 1.7-ml tube.Add 250 μl of buffer into each 1.7-ml tube.Vortex these tubes at a speed of 1,900 rpm for 1 min. For green spores, a speed of 3,200 rpm and a vortex duration of 0.5 min are recommended (Kuo et al., 2017).Filter bead-vortexed samples into 2.0-ml tubes through nylon meshes. The size of nylon mesh is selected based on spore sizes to prevent spore being filtered through the mesh.Add additional buffer to the samples, and ensure each of filtered spore nuclei solutions is greater than 500 μl in volume.Extract standard nuclei by chopping leaf tissueAdd 500 μl of buffer to a glass Petri dish.Add a (~400 mm2) piece of young leaf to the Petri dish, and chop it with a razor on ice until most tissue slices are less than 1 mm in size.Filter the chopped sample into a 2.0-ml tube through a 30-μm nylon mesh.Add additional buffer to the sample, and ensure that the filtered leaf nuclei solution is greater than 500 μl in volume or more depending on need.Staining nuclei solutionsMix spore nuclei and standard leaf nuclei solutions into a 500-μl volume in 2.0-ml tubes.Add 10 μl PI solution into each of mixed nuclei solutions.",
+    "Incubate in the dark at 4 °C for 1 h for staining."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

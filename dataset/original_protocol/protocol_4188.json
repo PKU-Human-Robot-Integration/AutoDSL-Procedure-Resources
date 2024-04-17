@@ -1,0 +1,16 @@
+{
+  "id": 4395,
+  "origin_website": "Bio",
+  "title": "Protoplast Preparation and Determination of Cell Death",
+  "procedures": [
+    "Protoplast extraction Harvest whole young seedlings with sterile forceps and put them in a sterile Petri plate.Cover the leaves with the digestion solution (~15 ml for a 10 cm round plate). Close the plates with micropore tape and let digest at room temperature in the dark, overnight (~16 h).Separate the protoplasts from the seedlings by pipetting and releasing delicately the medium using a 3 ml sterile pipette.Filter the medium containing the protoplasts with a sieve of 100 µm, mounted on a sterile 150 ml beaker.Transfer the content of the beaker in a sterile 15 ml tube. Centrifuge 5 min at 180 x g at room temperature, eliminate the supernatant and resuspend the pellet in 4 ml of W5A medium. Very slowly deposit the protoplasts on 8 ml of 21% sucrose using a 3 ml sterile pipette (use a 50 ml tube if you have a lot of material, and a 15 ml tube otherwise).Centrifuge 13 min, 720 x g at room temperature.Carefully harvest the living protoplast at the surface of the sucrose solution (thin cushion, Figure 1) using a 3 ml sterile pipette and transfer them into a 15 ml sterile tube. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706202124_5706.jpgFigure 1. Living and dead protoplasts after centrifugation on 21% sucrose Complete to 15 ml with W5A and calculate protoplast concentration on an aliquot using an appropriate slide (e.g. Malassez slide) and a light microscope (20x magnification). Centrifuge 5 min, at 180 x g at room temperature.Eliminate the supernatant, and resuspend the pellet in the appropriate volume of culture medium depending on the required concentration.Cell death determinationAdd 1 µl of 1% Evans blue to an aliquot of 25 µl of protoplast.Using light microscopy and an appropriate slide (e.g. Malassez slide), calculate the percentage of dead protoplasts that are stained with Evans Blue (blue protoplast/total protoplast, Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140610/20140610073940_6543.",
+    "jpgFigure 2. Control protoplast (left panel) and singlet oxygen-treated protoplast. Dark blue protoplasts are dead (Danon et al., 2005)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

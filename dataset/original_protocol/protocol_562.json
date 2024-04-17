@@ -1,0 +1,16 @@
+{
+  "id": 598,
+  "origin_website": "Nature",
+  "title": "Cell Culture Supernatant Collection",
+  "procedures": [
+    "This protocol has been performed using human embryonic stem cells \\(hESCs), neonatal rat ventricular myocytes \\(NRVMs), and KMBC cholangiocarcinoma cells.\n1. On Day 1, plate cells at a concentration of 1 million cells / mL.\n  2. 24 hours after plating, switch to serum-free or EV-cleared media.\n  3. Collect supernatant after 24 hr \\(hESCs) or 48 hr \\(NRVMs or KMBCs).\n  4. Centrifuge at 500 x g for 10 min.\n  5. Transfer supernatant to a fresh tube and centrifuge at 2,000 x g for 10 min. \n  6. Store cell-free supernatant at -80°C."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

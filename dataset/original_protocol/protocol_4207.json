@@ -1,0 +1,17 @@
+{
+  "id": 4416,
+  "origin_website": "Bio",
+  "title": "Pulse Chase of Suspension Cells",
+  "procedures": [
+    "Cells are pulse-labeled and chased in a single tube and an aliquot of cells is removed from this tube for each time point of the chase. After determining the numbers of chase time points (x), prepare enough cells for the experiment (x + 1, 2 x 106 per sample). See Note 1.Pulse chaseWash cells (2 x 106 per sample) with 2 ml of HBSS. Pellet cells at 500 x g for 3 min at room temperature. Resuspend cells in 2 ml/sample of pre-warmed labeling medium. Mix gently.Incubate the cells for 20 min at 37 ℃ incubator. Pellet cells at 500 x g for 3 min at room temperature and resuspend cells in 100 μl/sample of pre-warmed labeling medium. Keep the cells at 37 ℃, either in a water bath or an incubator during the labeling and chase periods.Pulse for 2 min at 37 ℃ with [35S] methionine (100 μCi/ml) (see Note 2).Add 400 μl/sample of chase medium. Pipet up and down gently to ensure proper mixing. Immediately take out 500 μl for the 0 min sample. Transfer to an eppendorf tube filled with 500 μl of 2x ice cold stop buffer (see Note 3).Spin cells at 500 x g for 2 min at 4 ℃ and freeze pellet.Repeat steps 7-8 for every time point.Proceed to cell lysis or keep the pellet frozen in -80 ℃.Cell lysis and immunoprecipitationAdd 1ml cold lysis buffer to each cell pellet.Apply mechanical shearing force to the cell lysate by passing it through a 26-gauge needle attached to a 1 ml syringe (repeat 5-10 times for thorough lysis). Incubate on ice for 15 min. Spin at 16,000 x g for 15 min at 4 ℃ to clarify the lysate. Transfer the clarified cell extracts to a new tube.",
+    "Add antibody against protein of interest to equal volume of cell extracts and rotate overnight at 4 ℃ (see Note 4).Add 30 μl of Protein A/G beads and incubate for another 2 h at 4 ℃.Wash the immunoprecipitates twice with 1 ml of lysis buffer.Add 50 μl of sample buffer without reducing agents (such as DTT or 2-mercaptoenthanol). See Note 5.Heat the samples 65 °C for 5 min. Centrifuge briefly before proceeding to non-reducing SDS-PAGE.SDS-PAGELoad 25 μl of the immunoprecipitates on SDS-polyacrylamide gel.Immerse the gel in fixing buffer for 15-30 min at room temperature.Immerse the gel in amplify solution for 15 min at room temperature.Immerse the gel in gel drying solution for another 15 min at room temperature.Dry the gel on filter paper on top of a gel dryer of choice. [35S] methionine-labeled proteins can be visualized after exposure to a Phosphor imaging screen."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

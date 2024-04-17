@@ -1,0 +1,21 @@
+{
+  "id": 911,
+  "origin_website": "Nature",
+  "title": "Manipulation of α7 nicotinic acetylcholine receptor signaling in primary ovine fetal microglia cultures",
+  "procedures": [
+    "**In vitro microglia culture protocol**\nObtain the fetal sheep brain tissues  during sheep autopsy after completion of the in vivo experiment to conduct the in vitro study. \nFetal sheep microglia culture protocol was adapted from an established human adult and fetal microglia culture protocol that was modified to include a myelin removal step following the high-speed centrifugation.\nFetal sheep cells were plated on poly-L-lysine \\(PLL)-coated tissue culture flasks at a concentration of 2 × 10<sup>6</sup> cells /ml in DMEM with 5% heat-inactivated fetal bovine serum \\(Gibco, Canada Origin), 1% penicillin/ streptomycin, and 1% glutamine \\(5% DMEM), in which microglia grow best.56 Cells were allowed to incubate for seven days at 37°C, 5% CO<sub>2</sub>, followed by a media change by centrifugation and the addition of re-suspended cells back to the culture flask. Cells were continued to incubate for seven more days with 5% DMEM at 37°C, 5% CO<sub>2</sub>, before the floating cells were collected. After carefully collecting the floating microglia to avoid contamination with astrocytes and oligodendrocytes, the cells were incubated in 24-well plate at 1 x 10<sup>5</sup> cells/mL with 5% DMEM for another 4-5 days, and then treated with or without LPS \\(100ng/ml, Sigma L5024, from E coli O127, B8) for 6h. Cell conditioned media were collected for cytokine analysis, 0.5ml TriZol per well added for RNA extraction. \nTo verify microglia purity, a portion of floating cells was cultured in 24-well plate under the above conditions for flow cytometry analysis \\(see below). The cell morphology was documented with light microscopy. Another portion of floating cells was plated onto Lab-Tek 8 well chamber glass slide \\(Thermo Scientific) and treated with or without LPS for immunocytochemistry analysis.\n**RNAseq approach**\nThe overall experimental design was divided into three phases: sequencing, quantification and discovery \\(Figure 1A).",
+    "RNA extraction and RNA quantification: Total RNA was extracted from cultured microglia using TRIzol Reagent \\(Life Technologies). \nRNA quantity and quality \\(RNA integrity number, RIN) was established by using a RNA Nano Chip \\(Agilent RNA 6000 Nano Chips) with Agilent 2100 BioAnalyzer. \nRNAseq libraries were prepared using Illumina TruSeq RNA Sample Preparation v2 kit \\(Illumina) and quality control was performed on the BioAnalyzer. Single-end 50-bp sequencing was performed at high throughput on an Illumina HiSeq2500 at the CHU Ste-Justine Core Facility Sequencing Platform."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Cell Biology",
+    "Biological Techniques",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

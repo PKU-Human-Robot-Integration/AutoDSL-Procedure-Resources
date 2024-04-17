@@ -1,0 +1,19 @@
+{
+  "id": 866,
+  "origin_website": "Nature",
+  "title": "Genomic DNA Isolation from Tissue Samples and Library Prep for Tuba-Seq Barcode Analysis",
+  "procedures": [
+    "1. Digest tissue in 10 mL of lysis buffer.\n  1.1. Make Lysis Buffer:\nLysis Buffer \\(500ml):\n100mM NaCl \\(10ml 5M NaCl)\n20mM Tris 7.6  \\(50ml 1M Tris 7.6)\n10mM EDTA 8.0 \\(10ml 0.5M EDTA)\n0.5% SDS \\(12.5ml 20% SDS)\n1.2. Step 1: Place tissue in 50 mL conical tube in 10 mL of Lysis Buffer with 100 ul proteinase K \\(1:100 dilution of a 20mg/ml).\n1.3. Step 2: Add “benchmark” controls to tube. \n1.4. Homogenize solution using the TissueMeiser, takes about 15-45 seconds depending on amount of tissue.\n1.5. Repeat for remaining samples.\nNOTE: Between every sample, sterilize TissueMeiser in water, followed by bleach, followed by 70% EtOH followed by PBS. Change water after every sample, other wash liquids can be used for 3-4 samples.\n1.6. Place tubes at 55C overnight. This can be done in a water bath or incubator.\n2. Phenol-Chloroform Extract and Precipitate gDNA\n  2.1. Take 500ul of the cell lysate from above digestion. \\(Make sure to mix well before taking the 500ul…VORTEX)\n2.2. Add 300ul saturated NaCl\n2.3. Shake 200x spin 14K for 10 mins @ 4C\n2.4. Transfer 500ul to a new tube\n2.5. Add 500ul phenol/chloroform/IAA \\(if it is red use another bottle)\n2.6. Shake 200x spin 5 minutes at 13000rpm\n2.7. Withdraw top layer, don’t be greedy \\(~400ul)\n2.8. Add equal volume chloroform\n2.9. Shake 200x and spin 5 minutes at max\n2.10. Transfer aqueous top layer \\(really don’t be greedy) to 2.5 vol 100% ethanol \\(1.25ml) 1/30 vol 3M Sodium Acetate pH5.2\n2.11. Shake to precipitate\n2.12. Spin 2 minutes at 13000rpm, decant and wash with 70% Ethanol\n2.13. Spin 30 seconds at 13000rpm decant, withdraw all liquid, do not air dry too much.\n2.14. Add 200ul TE and put at 37C O/N\n2.15. Nanodrop, note 260/280 and 260/230",
+    "3. Preparation of Sequencing Libraries\n  3.1. Prepare Master Mix:\n        32 ug gDNA\n        32 ul Primer Mix \\(10uM)\n        400 ul OneTaq \\(NEB)\n        H20 to 800 ul\nUniversal Forward Primer \\(5’ → 3’): \nAATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTGCGCACGTCTGCCGCGCTG\nReverse Primer \\(5’ → 3’): \nCAAGCAGAAGACGGCATACGAGATNNNNNNGTGACTGGACTTCAGACGTGTGCTCTTCCGATCCAGGTTCTTGCGAACCTCAT\nNNNNNN = Multiplexing tag, design a different one for every sample.\n3.2. Split into 8 individual wells of an 8-strip PCR tube, spin down.\n3.3. Run PCR Program:\n        94C 10 min\n        32x:\n        94C 30sec\n        55C 30sec\n        68C 30sec\n        68C 7min\n        4C hold\n3.4. Pool PCR reactions back to 800ul volume\n3.5. Run out 100 ul of your PCR product on a 5% agarose gel.\n3.6. Gel extract product using the Qiagen MinElute Gel Purification Kit; Elute in 25 ul H20.\n3.7. Send samples for BioAnalyzer QC DNA 1000 assay to obtain molar concentration and confirm product size.\n3.8. Pool libraries. \nNOTE: You will have to decide how you want to pool your libraries. You could pool 1:1:1…:1, you could also pool based on tissue weight, etc."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biological Techniques",
+    "Genetics",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

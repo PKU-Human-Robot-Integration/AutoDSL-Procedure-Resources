@@ -1,0 +1,18 @@
+{
+  "id": 1246,
+  "origin_website": "Nature",
+  "title": "<p>Sharpness Recognition Based on Synergy between Bio-inspired Nociceptors and Tactile Mechanoreceptors&nbsp;</p><p><br></p>",
+  "procedures": [
+    "<p>1. The human tactile system converts the contact events at the fingertip to trains of action potentials (spikes) and then transmits to upper processing layers. The biological SA-I afferents produce a sustained response to a static indentation of the skin, and the biological RA-I afferents respond only to the onset and offset phases of indentation. Similarly, we have developed a new communication architecture for e-skins that can functionally mimic the behavior of mechanoreceptors and nociceptors.</p><p>2. Tactile information is collected from the pressure sensor grid and then transmitted to the neuromorphic system through the interface circuit.</p><p>3. A population of 23 afferents (12 RA-I, 6 SA-I, and 5 nociceptors) is digitally realized in the FPGA. The ratio of these two afferents is according to previous research and can be scaled up easily based on the applications. </p><p>4. The data which are delivered to the FPGA comes from three groups. Individual digital SA-I afferent receives its inputs directly from the specified receptive field. For each digital RA-I afferent, from its receptive field, the derivative of the input signal is first calculated and then is rectified to be applied to the Izhikevich neuron model. This is due to the fact that based on the biological evidence, the RA-I afferents respond to dynamic skin deformations, hence, for the trapezoidal indentation profile, the RA-I afferents are activated during the onset and offset phases.</p><p>5. Individual digital nociceptor also receives the sensor data from all taxels. In this case, we detect the number of taxels (‘<em>NoT</em>’) that exceed the predefined thresholds. Next, the maximum current value (‘<em>MCV</em>’) of the 25 taxels is determined and then the division of ‘<em>MCV</em>’ over ‘<em>NoT</em>’ is calculated (shift to the right in the FPGA). </p><p>6. Finally, this value is applied to the Izhikevich neuron model to produce spikes.",
+    "To analyze the tactile data, all 23 obtained spike trains are transmitted to the Personal Computer (PC) through the Universal asynchronous receiver-transmitter (UART) interface. </p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

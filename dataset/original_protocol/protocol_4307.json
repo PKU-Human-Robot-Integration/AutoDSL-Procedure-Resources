@@ -1,0 +1,16 @@
+{
+  "id": 4522,
+  "origin_website": "Bio",
+  "title": "Synchronization of <em>Saccharomyces cerevisiae</em> Cells in G1 Phase of the Cell Cycle",
+  "procedures": [
+    "Grow up a small overnight starter culture inoculated from one single colony from a YPD plate in YPD in a culture tube (180 rpm, 30 °C). Usually 1/10th of the final working culture is enough for the starter.   From the overnight culture inoculate into fresh media to get OD600:0.2 in a culture flask or tube (this is your working culture with its working volume).   Grow the culture to get the required amount of cells, but do not go higher than OD600:0.8 because at very high density even bar1 deletion cells do not synchronize. Keep in mind that during synchronization the density of the culture will increase since cells that already passed G1 will complete the cycle until they reach G1 of the next cycle.   Spin down the cells and discard the media (3 min with 3,000 rpm at room temperature).   Wash the cell pellet with at least 10 cell pellet volumes of water.   Spin down the cells and discard the water (3 min, 3,000 rpm RT).   Resuspend the cells in working volume of fresh YPD containing 50 ng/ml α-factor.   Grow the cells.    After 60, 90, 120 min check the cells under the microscope with 40x magnification. Before checking vortex the samples thoroughly to disturb clamps. G1 arrested cells have typical pear shape. Usually between 90 and 120 min ~100% synchrony can be observed.   To release the cells from the arrest, spin down the cells and wash them with water.   Repeat washing.   Resuspend the cells in the working volume of fresh YPD containing 50 µg/ml pronase. It is important to add pronase because even a remaining small amount of α-factor can inhibit release.   After adding pronase cells will enter the cell cycle.",
+    "Depending on your goal, you can let them cycle, treat them with different agents, or collect them at any desired time points. Pronase does not affect cell growth.  This experiment is easy to reproduce once you can recognize arrested cells (Figure 1). If your strain has a selectable marker, you can carry out the experiment using the appropriate media instead of YPD.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141015/20141015002713_0333.jpg Figure 1. Yeast cells treated with α-factor. (Source: Arkowitz, 2009)"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

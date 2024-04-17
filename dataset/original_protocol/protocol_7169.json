@@ -1,0 +1,16 @@
+{
+  "id": 7550,
+  "origin_website": "Bio",
+  "title": "Activity-based Protein Profiling of Serine Hydrolase Superfamily Enzymes",
+  "procedures": [
+    "Active site peptide enrichmentAliquot 1 mg of protein in a 1.7 mL microtube, and make up the volume to 500 μL with assay buffer (described in Recipes section).Add 10 μL (20 µM ) of desthiobiotin–FP serine hydrolase probe or DMSO (No probe control) as control and incubate at 37°C for 1 h.Stop the reaction by adding 500 μL of 10 M urea. Next, add 10 μL of 500 mM DTT, and incubate the sample at 65°C for 30 min.Allow the sample to cool down to room temperature (RT). Add 40 μL of 1 M iodoacetamide and incubate protected from light at RT for 30 min.Desalt the protein using a Zeba spin desalting column, to reduce the urea to a suitable concentration for trypsin digestion (as per the manufacturer’s instruction).Digest the desalted protein with 20 μg of MS grade trypsin at 150 rpm and 37°C for 7 h.Affinity captur the labelled peptides on 75 μL of 50% high capacity streptavidin agarose, by incubating the matrix with the digested peptides at constant rotation at RT for 1 h.Pellet the labelled peptides bound to streptavidin agarose beads by centrifugation at 1,000 × g at RT for 1 min .Wash the beads three times with 1.5 mL of washing buffer (see Recipes). Mix the beads by briefly vortexing after the addition of the buffer. Centrifuge the sample at 1,000 × g at RT for 1 min to collect the beads, and carefully remove the supernatant without disturbing them. This precaution was followed for all the subsequent steps of washing.Wash the beads three times with 1.5 mL of PBS buffer (pH 7.4, see Recipes) followed by three washes with 1.5 mL of LC-MS grade water.",
+    "Elute the captured peptides by adding 100 μL of elution buffer (see Recipes) and incubating the sample at RT for 3 min. This step was repeated two additional times and the eluted fractions were pooled together and lyophilized by vacuum concentration.Mass spectrometry analysis of enriched probe targetsSuspend the lyophilized and labelled peptides in 0.1% TFA and inject them directly onto a Thermo LTQ Orbitrap coupled with an EASY nano LC1200 system (Agilent).Set the column temperature to 35°C and limit the flow rate to 250 nL/min.The LC solvent system consists of two mobile phases, such as Solvent A (see Recipes) and Solvent B (see Recipes).Separate the peptides on the analytical column“[EASY SPRAY PREAMP (RSLC C18 3 µm; 50cm × 75µm; 100Å) silica column]”, by running a 180 min gradient of solvents A and B (Start with 10% B for 2 min, gradient 10–45% for 166 min, gradient 45–95% for up to 172 min).Set the mass spectrometer in positive ion mode with the following parameters: precursor ion scanning in an orbitrap analyzer in the range of 375–1,700, at a resolution of 120,000, with a maximum ion injection time of 50 ms; high collision energy (CID) to 30% for the MS/MS spectra generation; MS2 scan range (m/z) to 100–2,000, with a maximum ion injection time of 35 ms."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

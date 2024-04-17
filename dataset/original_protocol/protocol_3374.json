@@ -1,0 +1,16 @@
+{
+  "id": 3571,
+  "origin_website": "Cell",
+  "title": "Protocol for measuring erythrocyte glutathione reductase activity coefficient to assess riboflavin status",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nLoad 96-well plate\nTiming: 1.5–2 h\nIn this step the samples and QCs are added to the plate in quadruplicate. For each sample or QC, a pair of wells is spiked with FAD to fully activate EGR. The other pair of wells have only buffer added to maintain sample volume and basal enzyme activity. After incubation, glutathione is added as substrate and NADPH as a reducing agent.\nCentrifuge the hemolysate samples and controls in the refrigerated centrifuge for 10 min at 4000 × g.\nProduce 200-fold dilutions of the hemolysate samples and controls with phosphate buffer; 5 μL + 1000 μL phosphate buffer in a 2 mL Sarstedt micro tube. Cap and invert 10 times to mix.\nPipette 60 μL quadruplicates of each sample, QC and blank as per the plate map in Figure 1[href=https://www.wicell.org#fig1].\nimgsrc:https://prod-shared-star-protocols.s3.amazonaws.com/protocols/3140-Fig1.jpg\nFigure 1. Recommended plate map\nAbbreviations: BLK, blank; QC, quality control\nNote: The samples should be assayed at the positions shown, ensuring that the position of any individual QC is varied from assay to assay. Phosphate buffer is used for the four blanks.\nUsing a multichannel pipette, add 12 μL phosphate buffer to rows A, B, E, F (basal). Add12 μL FAD-assay dilution to rows C, D, G, H (activated).\nCover the plate with a self-adhesive sealer and mix the plate on the plate shaker at 600 RPM for 60 s.\nCarefully place the plate in the incubator at 37°C for 30 min.\nRemove plate from incubator. Remove the plate sealer and, using a multichannel pipette, add 100 μL of glutathione solution per well and re-seal with a new plate-sealer.\nMix the plate on the plate shaker at 600 RPM for 2 min.",
+    "Remove the plate sealer. Using a multichannel pipette, add 30 μL of NADPH solution per well and re-seal with a new plate-sealer.\nMix the plate on the plate shaker at 600 RPM for 30 s.\nRemove the plate sealer. Load plate onto the plate reader.\nRead plate\nTiming: 40 min\nIn this step the absorbance at 340 nm is measured 40 times in each of the wells at 1 min intervals at a controlled temperature of 28°C. During this time the EGR in the sample catalyzes the reduction of oxidized glutathione to glutathione, utilizing added NADPH as the electron donor. Oxidization of NADPH to NADP causes a measureable change in absorbance at 340 nm that is proportional to the activation of EGR.\nG\nl\nu\nt\na\nt\nh\ni\no\nn\ne\no\nx\ni\nd\ni\ns\ne\nd\n+\nN\nA\nD\nP\nH\n+\nH\n+\n⇋\nG\nl\nu\nt\na\nt\nh\ni\no\nn\ne\nr\ne\nd\nu\nc\nt\na\ns\ne\nG\nl\nu\nt\na\nt\nh\ni\no\nn\ne\nr\ne\nd\nu\nc\ne\nd\n+\nN\nA\nD\nP\nRead each well of the plate at 340 nm 40 times at 1 min intervals, with reader set to briefly shake the plate for 5 s before each read."
+  ],
+  "subjectAreas": [
+    "Health Sciences",
+    "Chemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5112,
+  "origin_website": "Bio",
+  "title": "Cell Tracer Violet and CellTracker Red CMTPX Staining of Purified Mature Plasmodium-infected Red Blood Cells",
+  "procedures": [
+    "6-8 weeks old RAG2KO mice (used here because we observed higher proportion of mature parasite forms in circulation instead bound to endothelial cells-personal observation) are infected i.p. with 106 Pc-infected iRBCs. The infection in RAGKO allows the posterior collection of a greater proportion of mature iRBCs (Borges da Silva, personal observation).Seven days after infection, mice are euthanized with halothane by inhalation and bled by cardiac puncture with a 1 ml syringe with a 25 gauge needle, in the presence of approximately 50 µl of heparin. A volume of approximately 500 µl of blood is enough to collect up to 5 x 108 mature iRBCs.Note: Verify the institution approved ethical regulations on animal welfare if other euthanization methods are in place.The blood collected is diluted in approximately 1 ml of PBS 1x (1:1), and placed on a 74% Percoll solution in 15 ml tubes (5 ml). The tubes are centrifuged for 30 min at 2,500 x g, at room temperature with acceleration/break of 5/0, respectively.After the centrifugation, the mature iRBCs are located as a layer above the 74% Percoll (Figure 1), and are collected by using 1-ml micropipettes into new 15 ml tubes. The mature iRBCs are then washed twice with 1x PBS.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160727/20160727200518_0117.jpgFigure 1. Percoll-based purification of mature iRBCs. A. A representative picture of 15-ml conical tubes containing RBCs over Percoll 74% before centrifugation. B. A representative picture of 15-ml conical tubes containing the layer with mature iRBCs after Percoll 74% centrifugation.After washing, a sample of the mature iRBCs (approximately 5 µl) is collected for a blood smear, to confirm the purity for mature iRBCs versus non-mature iRBCs (Figure 2) by counting the percentage of mature iRBCs versus non-mature iRBCs in the blood smear (at this point, it is expected up to 97% of mature iRBCs in the blood smear).",
+    "Then, 1 x 108 mature iRBCs (resuspended in 2 ml of PBS) are incubated with 5 µM of CTV or with 5 µM of CMTPX (both dyes previously diluted in DMSO and with final suspension volume of 2 ml), at 37 °C, for 30 min.Notes: The expected purity for the samples is between 90-99% of mature iRBCs.During the incubation, mix the cells gently for homogenization. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160727/20160727200747_2415.jpgFigure 2. Mature iRBCs purification assessment. A. A representative picture of a blood smear of a Plasmodium-infected mouse, pre-Percoll enrichment. B. A representative picture of a blood smear of post-Percoll enrichment blood of the same mice. Obs: The infected RBCs can be detected by the bright green spots (these images were acquired in Bright Field, in a Leica DM6000B Epi-Fluorescent Microscope).After incubation, the mature iRBCs are washed twice with 1x PBS for removal of excess dye. The stained mature iRBCs are, then, ready for use in phagocytosis assays as described in (Borges da Silva et al., 2015)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

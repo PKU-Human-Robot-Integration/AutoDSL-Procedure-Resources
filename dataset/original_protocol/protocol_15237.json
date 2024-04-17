@@ -1,0 +1,15 @@
+{
+  "id": 19063,
+  "origin_website": "Jove",
+  "title": "Rapid Point-of-Care Assay of Enoxaparin Anticoagulant Efficacy in Whole Blood",
+  "procedures": [
+    "1.  Heparinase Reconstitution\nLyophilized heparinase I is obtained commercially (Siemens, Newark Delaware, DadeHepzyme REF B4240-10) in vials containing 1 μg of the purified protein.  The protein is dissolved in 0.25 ml of saline (0.9% NaCl).  \n2.  Collection of Blood Samples\nTwo blood samples are drawn by vacuum into sodium citrate (0.3 ml 0.109M; 3.2%) buffered Vacutainer tubes (Becton-Dickinson; Franklin Lakes, NJ); the tubes are both pre-spiked with a known concentration of enoxaparin; the blood volume that is drawn is 2.7 ml.  The total content is then 3.0 ml.  \n3.  Heparinase Digestion\nThe entire contents of the heparinase vial that can be aspirated into a syringe (approximately 0.2 ml; 80% of the vial; 0.8 μg of protein), is transferred to one Vacutainer tube; 0.2 ml of saline (0.9% NaCl) is added to the second tube, which serves as the baseline state before elimination of the enoxaparin effect.  \nBoth Vacutainer tubes are placed in the thermostated wells of the Hemochron apparatus for a period of 5 min.  (The adequacy of a 5 min digestion time with heparinase was established in our previously published work.1) \n4.  Clotting Assays\nAt the end of the heparinase incubation, 2.0 ml of blood is transferred to the assay cartridge.  In the case of the MAA tube, it is pre-filled with 0.1 ml of 250 mM CaCl2 to initiate coagulation.  The commercial aPTT assay cartridge (A104) is designed to initiate clotting in whole blood that has been drawn into Vacutainer tubes containing sodium citrate as anticoagulant.",
+    "The Hemochron apparatus signals the completion of blood coagulation and preserves the clotting times in seconds.  The difference in clotting times between the heparinase-treated sample and the baseline sample, divided by the clotting time for the baseline sample, yields the percent decrease resulting from elimination of enoxaparin.  As discussed below, strong linear correlations have been obtained for the relationship between percent decrease in clotting time and the concentration of enoxaparin in spiked samples of whole blood, as well as for the correlation with measured concentrations of enoxaparin by the chromgenic assay of anti-Xa activity.  Anti-Xa assays of enoxaparin concentration were conducted with a commercial kit for a two-stage chromogenic assay (BIOPHEN; Aniara, Mason, OH)."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

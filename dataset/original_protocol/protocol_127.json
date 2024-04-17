@@ -1,0 +1,16 @@
+{
+  "id": 131,
+  "origin_website": "Nature",
+  "title": "Frozen Permanents of E. coli Cultures",
+  "procedures": [
+    "1. Inoculate 5ml LB 100ug/ml ampicillin \\(or other appropriate antibiotic for your culture) with cells.\n  2. Grow overnight on roller.\n  3. Mix 800ul culture with 200ul 100% w/v glycerol \\(sterile) in sterile screw cap freezer tube.\n  \\(usually make several tubes)\n4. Invert a few times\n  5. Bury tube in dry ice until frozen solid.\n  6. Store in -80°C freezer."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Microbiology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

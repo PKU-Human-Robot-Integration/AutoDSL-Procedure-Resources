@@ -1,0 +1,15 @@
+{
+  "id": 51,
+  "origin_website": "Nature",
+  "title": "Calcium flux:  Indo-1 loading and sample staining procedure for simultaneous measurement of intracellular Ca<sup>2+</sup>",
+  "procedures": [
+    "1. Incubate cells \\(2x10<sup>7</sup>/ml) in RPMI with 1-5 mM Indo-1 \\(acetoxymethyl ester) at   37&#xB0;C for 40 min for loading. \n   \n2. Incubate aliquots of Indo-1 loaded cells with saturating concentrations of e.g., FITC, PE, PerCP, or Tricolor-conjugated antibodies for 20 min.  Incubate at 20&#xB0; to 25 C unless the antigen is subject to capping, otherwise use 4&#xB0; to 8 C. \n  **Note:** mAbs must be azide free.  \n**Note:** set-up single color stained cells for setting appropriate fluorescence compensation on the instrument. \n \n3. Wash cells twice in RPMI and suspend them at the desired concentration \\(usually 2x10<sup>6</sup>/ml).  Higher cell concentrations \\(4x10<sup>6</sup>/ml) are required when the cells of interest represent less than 10% of the total population.  Cells can be kept at 20&#xB0; to 25 C unless the antigen is subject to capping, otherwise use 4&#xB0; to 8 C. \n   \n4. Samples should be analyzed shortly after the cells were prepared. \n   \n5. Ionomycin \\(1-3mM final conc.) is used as a positive control for Indo-1 loading and maximum Ca<sup>2+</sup> flux."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

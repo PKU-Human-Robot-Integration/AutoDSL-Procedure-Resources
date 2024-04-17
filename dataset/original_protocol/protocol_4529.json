@@ -1,0 +1,16 @@
+{
+  "id": 4774,
+  "origin_website": "Bio",
+  "title": "Tissue Culturing and Harvesting of Protonemata from the Moss <em>Physcomitrella patens</em>",
+  "procedures": [
+    "Note: Steps 2-12 should be carried out under sterile conditions. BCDA medium is prepared according to Table 1 and sterilized by an autoclave for 20 min at 121 °C;Surface sterilization is performed with 70% alcohol in the Laminar flow hood;Media was cooled to 60 °C and approximately 30 ml BCDA medium was poured into sterile petri dishes (90 mm). This was allowed to cool until the media solidified; Place a piece of sterile cellophane discs onto the BCDA medium (Video 1);    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Place a piece of sterile cellophane discs onto the BCDA medium  Place one petri dish tissue (vigorously growing tissue) into one test tube (Video 2);    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 2. Place one petri dish tissue into one test tube  Add 6-8 ml of H2O to one sterile test tube (containing one petri dish tissue), and cut it into fragments using dispensing instrument for 1-2 min at a speed of about 15,000 rpm;Pipette 1-2 ml of the protonemata suspension from step 6 onto each petri dish from step 4. Spread the suspension evenly by gently swirling the plates (Video 3);    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 3. Pipette 1-2 ml of the protonemata suspension from step 6 onto each petri dish from step 4. Spread the suspension evenly by gently swirling the plates  Seal the Petri dishes with micropore surgical tape;Incubate these fragments for 6-7 d under standard conditions (25 °C) with a light cycle of 16 h of light/8 h of darkness and a light intensity of 70-80 μmol/s/m2; Transfer 1-2 dishes of the tissue (over cellophane) onto BCD solid media (Table 2) growth 3-4 d under the same culture conditions to step 9 for next cycle (this is a vigorously growing tissue which is about 10 d old tissues; Video 4);    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 4.",
+    "Transfer 1-2 dishes of the tissue onto BCD solid media growth 3-4 d under the same culture conditions to step 9 for next cycle  Harvest the tissue (protonemata of P. patens from step 9) for downstream analysis by scraping them from the cellophane using sterile tweezers. For tissue stock, take a tiny amount (about 2 mm2; using sterile tweezers) of 10 d old tissues into sterile test tubes with BCD medium. Wrap the tubes in foil and store them at 4 °C. They remain viable for about six months."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

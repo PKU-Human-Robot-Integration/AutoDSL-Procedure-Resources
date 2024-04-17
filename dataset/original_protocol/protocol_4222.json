@@ -1,0 +1,16 @@
+{
+  "id": 4431,
+  "origin_website": "Bio",
+  "title": "Chromatin Fractionation Assay in Fission Yeast",
+  "procedures": [
+    "Culture fission yeast cells in 200 ml of YES medium in a 500 ml flask at 26 °C.  Note: Stop culturing during the mid-log phase (OD595 = ~1.0).   Prepare approximately 2.5 x 108 cells by dilution of inoculum to 25 ml at OD595 = 0.5.   Harvest the cells by centrifugation at 400 x g for 5 min at 4 °C.    Resuspend the cell pellet in 1 ml of ice-cold STOP buffer and transfer the cell suspension to a 1.5 ml microtube.    Centrifuge the cell suspension at 400 x g for 5 min at 4 °C and pour out the supernatant (STOP buffer) by aspiration.   Place the microtube containing the cell pellet on ice for 5 min.   Resuspend the cell pellet in 1 ml of PEMS buffer dissolving 1 mg/ml lysing enzymes and 1 mg/ml Zymolyase 100T.    Incubate the cell suspension for 20 min at 37 °C for making spheroplasts which readily burst for enabling to fractionate chromatin-bound and -unbound proteins at the later step. Note: To test whether these lysing enzymes work adequately, take a small volume of the cell suspension, add the equal volume of 10% SDS, and then monitor yeast lysis progression by light microscopy. If lysing is successful, almost all cells (spheroplasts) are expected to burst in the presence of SDS.   Centrifuge the spheroplast suspension at 400 x g for 5 min at 4 °C. Pour out the supernatant (PEMS buffer) carefully by aspiration.   Wash the spheroplast pellet twice by resuspending in 1 ml of 1.2 M sorbitol to avoid bursting of spheroplasts, followed by centrifugation at 400 x g for 5 min at 4 °C.   Lyse the spheroplasts by resuspending in 0.5 ml of ice-cold lysis buffer, followed by incubation on ice for 5 min.",
+    "Take 1/10 aliquot of the resulting lysate and save it as the whole cell extract (optional). Note: To check the protein expression of our interest, we recommend an immunoblot of the whole cell extract with the other samples.   Centrifuge the rest of the lysate at 22,000 x g for 15 min at 4 °C.   Save the supernatant as the chromatin-unbound fraction.    Wash the pellets twice by resuspending in 1 ml of lysis buffer, followed by centrifugation at 22,000 x g for 5 min at 4 °C.   Resuspend the pellet in 0.45 ml of lysis buffer and save it as the chromatin-bound fraction.   Add an equal volume of 2x Laemmli protein sample buffer to all of the saved fractions.    Apply an equal volume of these fractions to the 8% SDS-PAGE gel and immunoblot using antibodies against histone H3 (1/5,000 dilution), alpha-tubulin (1/5,000 dilution) and specific protein(s). Note: We detected the chromatin association of Pcf1-GFP protein by using the anti-GFP antibody (1/1,000 dilution). The secondary antibody was diluted at 1/10,000."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

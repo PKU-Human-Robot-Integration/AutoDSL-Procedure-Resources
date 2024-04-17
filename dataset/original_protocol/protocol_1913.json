@@ -1,0 +1,19 @@
+{
+  "id": 2025,
+  "origin_website": "Cell",
+  "title": "Protocol for computationally evaluating the loss of stoichiometry and coordinated expression of proteins",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nSource IQR functions\nTiming: 5 min\nTo run this protocol, a sourcing of provided convenience R functions from GitHub is required to calculate and visualize the IQR analyses. The functions, example data, and a tutorial are available at https://github.com/LaBargeLab/IQR_test[href=https://github.com/LaBargeLab/IQR_test].\nDownload IQR functions in R.\nif(!require(devtools)){ install.packages(\"devtools\") # If not already installed }\nsource_url(\"https://raw.githubusercontent.com/LaBargeLab/IQR_test/main/clean_functions.R\")\nFormat input data\nTiming: 5–30 min\nThe functions require input data with gene name, sample name, expression value, and grouping variable columns. Any parametric units are valid for expression values, such as counts-per-million, reads-per-kilobase transcript for RNA-seq, or protein abundance data. An example can be downloaded through the provided GitHub page.\nImport expression matrix.\nCritical: Data must be in long format - i.e., every combination of gene name and sample name must have its own row.\nurlfile <- “https://raw.githubusercontent.com/LaBargeLab/IQR_test/main/example_gene_data.csv[href=https://raw.githubusercontent.com/LaBargeLab/IQR_test/main/example_gene_data.csv]”\ndata <- read.csv(urlfile)\ndata\n# Symbol name value variable\n## <chr> <chr> <dbl> <chr>\n# 1 gene1 sample1 99 A\n# 2 gene1 sample2 131 A\n# 3 gene1 sample3 74 A\n# 4 gene1 sample4 145 A\n#\n#\n#...\n#10000 gene1000 sample10 0 B\n.\nRun analyses\nTiming: 1 min\nExecute the stoichiometry function with the long format input data from step 2 to calculate the IQR for every sample by conditions and return a data frame with the results.\nCritical: The stoichiometry function input requires the following arguments:\nsymbol - character vector of gene symbols\nexpression - numeric vector of expression values\nvariable - character or factor vector with condition information\nsample - character vector of sample IDs\ngeneset - character vector of interested genes (same nomenclature as symbol); if no geneset is supplied IQR analyses are performed based on all provided symbols\nstoi <- stoichiometry( expression = data$value,\n                          symbol = data$Symbol,\n                          variable = data$variable,",
+    "geneset = c(\"gene1\", \"gene2\", \"gene3\", \"gene4\", \"gene5\"),\n                          sample = data$name)\nUse the output from the stoichiometry function as input for the plotting function for visualization.\nstoi_plot(stoi)"
+  ],
+  "subjectAreas": [
+    "Proteomics",
+    "Rnaseq",
+    "Bioinformatics",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioinformatics & Computational Biology"
+  ]
+}

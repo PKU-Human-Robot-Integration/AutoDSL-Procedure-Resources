@@ -1,0 +1,15 @@
+{
+  "id": 9344,
+  "origin_website": "Jove",
+  "title": "Use of a Caspase Multiplexing Assay to Determine Apoptosis in a Hypothalamic Cell Model",
+  "procedures": [
+    "1. Plating and Maintenance of Cell Culture\nWarm Dulbecco's Modified Eagle Medium (DMEM) culture media (DMEM + 10% FBS + 1% Penicillin/Streptomycin/Neomycin) to 37 °C.\nObtain stock of frozen A12 cells from -80 °C.\nRapidly thaw cells in 37 °C water bath; once thawed, gently pipette cells to transfer to a 75 cm2 vented culture flask and add 10 ml of culture media.\nIncubate flask overnight in 5% CO2 incubator at 37 °C. Aspirate media after 24 hr and replace with fresh media. Continue growing cells until 70-80% confluence is obtained (2-3 days growth).\n2. Counting and Plating Cells\nWarm DMEM and 1x-trypsin-EDTA solution to 37 °C.\nAspirate media from cells and wash two times with sterile phosphate buffered saline (PBS).\nAdd 500 μl of trypsin solution and incubate at 37 °C for 2-5 min.\nDetach cells from flask using a scraper and suspend cells in 5 ml of media. Pass cells through strainer and pass through cell strainer into a clean 50 ml tube. May need to pass cells through strainer more than once, but do not repeat more than three times.\nCount cells using a hemocytometer to determine amount of cells to culture to seed 6,000 cell/well in a 96-well clear bottom black or white walled plate in a final volume of 100 μl of media. Incubate plate in 5% CO2 at 37 °C for 24 hr.\n3. Determining Cell Viability and Caspase-3/7 Activity\nTransfer PA to a sterile 5 ml glass vial and solubilize in 100% dimethyl sulfoxide (DMSO). Dilute stock PA solution 1:10 in DMSO and add it to prewarmed DMEM to obtain a final working concentration of 0.1 mM PA. For control media, add the same concentration of DMSO that is added to media containing PA.",
+    "Remove the media in each well and replace with 50 μl media +/- PA. Incubate the plate for 2 hr in 5% CO2 at 37 °C. Then add 5 μl resazurin reagent and incubate for 10 min at room temperature.\nUsing a multimode microplate reader, record fluorescence (560EX/590EM) to measure cell viability. Results are presented as relative fluorescence units (RFU).\nTo the same plate, add 55 μl of caspase reagent and incubate at room temperature for 2 hr.\nAgain using the microplate reader, record luminescence to measure caspase-3/7 activity. Results are presented as relative luminescence units (RLU), with luminescence directly proportional to caspase-3/7 activity.\nTo normalize caspase-3/7 activity to cell count, divide cell viability (RFU) by caspase-3/7 activity (RLU).\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

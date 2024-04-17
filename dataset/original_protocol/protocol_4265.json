@@ -1,0 +1,16 @@
+{
+  "id": 4477,
+  "origin_website": "Bio",
+  "title": "Centrifuge Microscopy to Analyze the Sedimentary Movements of Amyloplasts",
+  "procedures": [
+    "Excise an approximately 1-cm-long segment of an inflorescence stem at 1-2 cm from the apex of the primary stem.Place the stem segment onto a hand-made stem holder and slide a razor blade to split the stem longitudinally (Figure 2) (Saito et al., 2005; Nakamura et al., 2011). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140901/20140901001134_7866.jpgFigure 2. Making longitudinal sections of Arabidopsis inflorescence stems. A. Place the stem segment onto a hand-made stem holder. B. Close the holder and slide a razor blade in the direction of the arrow. C. Open the holder and retrieve the longitudinally-sectioned stem segments.Drop a small amount of growth medium onto the sectioned side of the stem to prevent the tissue from drying out.Keep the sectioned side up and put this segment into a slit in a round silicone rubber sheet (0.5 mm deep) on the bottom glass of an aluminum chamber (Toyota et al., 2013).Pour growth medium into this slit, put a cover glass onto the silicone rubber and remove spilt growth media with Kimwipes.Mount the aluminum chamber in a holder under an objective lens of the CMS.Turn on the LED light to illuminate the specimen and the CCD camera to acquire images.Acquired bright-field images are transmitted through a radio system and shown on the video capture software in the computer. Adjust focus and field of view in the CMS while monitoring the computer.Set a centrifugal acceleration between 0 to 33 x g in the MEGATORQUE MOTOR™ controller of the computer. In case of wild-type Arabidopsis stems, maximum gravitropic responses are seen at 10 x g.Start video capture and run MEGATORQUE MOTOR™ (Videos 1 and 2).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Side view of the CMS during operation  <p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Top view of the CMS during operation  Monitor real-time images (30 frames per sec) on the computer during centrifugation.",
+    "Stop the motor and video capture and save the images as an avi file in the computer.Open this file in G-Track spot-tracking software. This software automatically recognizes many white or black spots (amyloplasts) and traces them (Video 3; Figure 2). If necessary, you can modify image parameters such as gain or contrast, and invert brightness.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 3. Single-particle tracking analysis of amyloplast movement during centrifugation at 10 x g (Toyota et al., 2013). Most amyloplasts are automatically recognized by the G-Track spot-tracking software and traced while they are recognized as white or black spots. Please note that this software does not precisely recognize an amyloplast (spot) with weak contrast nor aggregated amyloplasts. Video duration = 152 s (8 x speed). Run the tracking program. You can automatically get data [i.e., mean square displacement (MSD) of an amyloplast, Table 1] and then calculate velocity and displacement.Export the data to Excel/CSV file (Table 1)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

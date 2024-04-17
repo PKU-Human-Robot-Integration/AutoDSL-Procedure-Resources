@@ -1,0 +1,14 @@
+{
+  "id": 457,
+  "origin_website": "Nature",
+  "title": "Selection of aptamers by cell-SELEX",
+  "procedures": [
+    "1. Dissolve ssDNA \\(400 pmol) in 400 µl of binding buffer \\(PBS with 0.1 mg ml<sup>–1</sup> yeast tRNA \\(Sigma), 0.1 mg ml<sup>–1</sup> salmon sperm DNA \\(Invitrogen) and 1.0 mM MgCl2 \\(Sigma)).\n  2. Denature by heating at 95 °C for 5 min and then cool on ice for 10 min. \n  3. Incubate this ssDNA pool with 1–2×10<sup>6</sup> target cells at 37 °C for 0.5–1 h \\(1 h for the first 8 cycles and 0.5 h for the left cycles). \n  3. After the incubation, centrifuge the cells and then wash with the washing buffer \\(PBS with 1.0 mM MgCl2 \\(Sigma)). \n  4. Elute the bound DNAs by heating at 95 °C for 5 min in 400 µl of binding buffer. \n  5. Incubate the eluted DNAs with negative cells at 37 °C for counter selection for 1 h. \n  6. After centrifugation, desalt the supernatant and amplify by PCR with FAM and biotin-labeled primers \\(10–20 cycles of 0.5 min at 94 °C, 0.5 min at 56 °C and 0.5 min at 72 °C, followed by 5 min at 72 °C; the Taq polymerase and dNTP were obtained from Takara).\n  7.  Separate the selected sense ssDNA strand from the biotin-labeled antisense ssDNA strand by streptavidin-coated magnetic beads \\(Promega). \n  \nIn the first-round selection, the initial ssDNA pool should be 20 nmol dissolved in 1.0 ml of binding buffer. If this is the case, eliminate the counter-selection step. \n8. After multiple rounds of selection, amplify the selected ssDNA pool by  PCR using unmodified primers. \n  9. Clone into Escherichia coli by using the TA cloning kit \\(Invitrogen). \n  10. Determine the cloned sequences. \n  11. Predict the secondary structures of the aptamers using RNAstructure 5.6 software."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

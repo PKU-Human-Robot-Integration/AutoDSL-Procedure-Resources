@@ -1,0 +1,18 @@
+{
+  "id": 736,
+  "origin_website": "Nature",
+  "title": "A protocol for the differentiation of brown adipose progenitors derived from human induced pluripotent stem cells at a high efficiency with no gene transfer",
+  "procedures": [
+    "_Derivation of brown adipose progenitor \\(BAP) from hiPSCs_\n1. Maintain undifferentiated hiPSC cells in hiPSC growth medium on 6-well-tissue-culture-grade.\n  2. Initiate the differentiation of hiPSCs by floating cultivation to form embryoid bodies \\(EBs). As a guideline, seed hiPSCs from one well of 6-well-tissue-culture-grade plates onto one well of 6-well-ultra-low attachment plates in hiPSC growth medium without FGF2.  This is taken as the day 0 of differentiation. \n  \n**TIP**:  Do not move the plate for 3 days in the incubator. This will improve the formation of EBs.\n3. Change the hiPSC growth medium without FGF2 at day 3 and then change the medium daily to day 10. \n  \n**TIP**: To change the medium, collect the medium containing EBs in a 15 ml conical tube. Leave the tube 15 minutes under the hood for allowing EBs to sediment at the bottom of the tube by gravity. A short spin of the tubes at a low speed \\(10 sec at 800g) may increase the number of EBs collected. Remove gently the supernatant, add fresh medium and seed EBs back on the 6-well-ultra-low attachment plates. It is important to not dissociate EBs formed by using un-appropriate pipettes. We recommend the use of 3 ml sterile Pasteur pipettes.\n4. At Day 10, plate EBs from one well of 6-well-ultra-low-attachment plate onto one gelatin-coated well of 6-well-plate-tissue-grade-culture in hiPSC growth medium. \n  \n**TIP**: Do not move the plate for 3 days to improve adhesion of EBs on the bottom of the well. \n5. Then, change the medium every day.\n  6. At day 17, wash EB outgrowths twice with PBS. Remove PBS and replace the hiPSC growth medium to the adipose progenitor proliferation medium.  Change the medium every day for a week.",
+    "7. At day 24, passage the cells using trypsin. Split one well of 6-well plate in one 10 cm tissue culture grade plate. Maintain cells in adipose progenitor proliferation medium. This is determined as passage number 1.\n  8. Split cells with a 1:3 split ratio when reaching 80% of confluence. \n  9. Repeat step 8, usually 3-4 times, until achieving a cell population with a homogenous CD73 labelling determined by FACS analysis. Then, BAPs must be characterized in more details as CD105+/CD90+/CD140a+/CD31-/CD45- by FACS analysis and by expression of _PAX3_, _DIO2_ and absence of expression of _HOXC8_, _HOXC9_, _HOXA5_ by real time PCR. \n  \n**Note**: At that stage adipose progenitors can be amplified and cryopreserved using conventional methods \\(as an example, see reference \\[11]. \n_Differentiation of hiPSC-brown adipose progenitor_ \n1. Plate BAPs at a high density, i.e., 1-5x10<sup>4</sup> cells/cm2 and maintain cells in the adipose progenitor proliferation medium.\n  2. When cells reach confluence, determined as the day 0 of differentiation, wash cells once with PBS and change the adipose progenitor proliferation medium to the hiPSC-BAP differentiation medium.\n  3. Three days after, change the hiPSC-BAP differentiation medium but with no IBMX and no dexamethasone.\n  4. Change the BAP differentiation medium with no IBMX and no dexamethasone once a week."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

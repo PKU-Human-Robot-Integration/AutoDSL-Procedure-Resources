@@ -1,0 +1,16 @@
+{
+  "id": 6550,
+  "origin_website": "Bio",
+  "title": "Measuring Protein Half-life in <em>Arabidopsis thaliana</em>",
+  "procedures": [
+    "For MYC2 half-life measurement in WT and fer mutantNote: Steps A1 to A4 are carried out in a sterile culture hood. Sterilize and germinate seeds on ½ MS plates for 7 days, vertically with constant light at 100 μmol m-2 s-1, 22 °C.Add 1 ml of liquid ½ MS medium to each well of a 24-well plate, 5 wells for each genotype.With a pair of sterilized forceps, gently transfer 50 mg of whole seedlings to the wells.Note: The number of seedlings for 50 mg can be predetermined by weighing the seedlings. Add 5 μl of 10 mM MG132 to each well. The final concentration of MG132 is 50 μM.Seal the plate with Micropore tape and incubate at room temperature with gentle rocking at 40 RPM, for 16 h.Gently remove the liquid from the well with a P1000 pipettor and wash the seedlings with 1 ml fresh ½ MS liquid medium. Repeat the process for a total of 5 washes.Gently add 1 ml fresh ½ MS liquid medium to each well, add Cycloheximide to 4 wells, and add the same volume of 100% DMSO to 1 well as control for each genotype, the final concentration of Cycloheximide is 200 μM.Collect the seedlings at 30-min intervals by gently picking out the seedlings with a pair of forceps. Dab dry on Kimwipes. Gently put the seedlings into a microtube and freeze in liquid nitrogen. For Western blotting to estimate the amount of MYC2 protein, add 150 μl of 2x SDS sample buffer to 50 mg of frozen seedlings and grind the tissue for about 30 s with a brief stop every 10 s, with a blue pestle mounted to an electric drill machine.Vortex and boil the ground samples for 5 min and cool down on ice for 1 min.",
+    "Spin the cooled samples for 5 min at full speed in a microcentrifuge and load 20 μl to SDS-PAGE gel. The Mini-Protein Tetra Cell and Trans-Blot Turbo system are used for protein gel electrophoresis and transfer.Conduct Western blotting with proper primary and secondary antibodies to detect protein levels.For the MYC2-FLAG and MYC2A12-FLAG half-life in transgenic plantsSterilize and germinate seeds on Gentamycin containing plates (75 μg/ml) for 7 days.Add 1 ml fresh ½ MS liquid medium to each well of a 24-well plate, 5 wells per genotype.With a pair of forceps, gently transfer 50 mg of seedlings to the wells. Leave the plate for 2 h to minimize the effect of mechanical touch. Add 1 ml ½ MS liquid containing 400 μM Cycloheximide to 4 wells and 1 ml ½ MS liquid containing the same volume of DMSO to 1 well. Gently rock the plate a few times to mix. The final concentration of Cycloheximide is 200 μM.Then follow Steps A8-A12 described above.For a comprehensive read on Western blotting, please refer to the manufacturer’s instructions (bulletin#2895 at https://www.bio-rad.com[href=https://www.bio-rad.com/])."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

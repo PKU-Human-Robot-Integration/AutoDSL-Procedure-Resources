@@ -1,0 +1,17 @@
+{
+  "id": 823,
+  "origin_website": "Nature",
+  "title": "The Non-Instrument Based Preparation of Tissue Samples Destined for Imaging Mass Spectrometry \\(IMS) Analysis",
+  "procedures": [
+    "1) Prepare nitrocellulose slides: Cut ITO slides as necessary, according to size of sublimator then coat them with a layer of liquid nitrocellulose \\(40 mg/ml in 100% acetone) using the same procedure as preparing a blood smear. \n2) Section the desired tissue at 12 µm and thaw or float mount onto the surface of the nitrocellulose. \n3) Wash the whole slide in order; 75% ethanol, 95% ethanol, Carnoy’s fluid, 95% ethanol, de-ionised water, 95% ethanol. Each wash is for 30 s except for Carnoy’s fluid which is for 2 min. \n4) Place slide into a small plastic beaker containing 20 mmol Tris-HCl \\(pH 8.8) and place into a pressure cooker \\(70 kPa internal pressure at >100 C) and cook for 15 min.\n5) Remove slide and allow to dry and cool at room temperature.\n6) Pipette 10 µl Trypsin \\(1 mg/mL in water) onto the centre of the tissue section. Using the longitudinal side of the pipette tip, Use surface tension to ’drag’ the trypsin solution droplet to cover the whole of the section. Be careful not to scratch the tissue section. \n7) Place the slide in a fan-forced oven at 25°C with a dust filter placed over the top to protect from keratin contamination and allow to dry. \n8) Place sample slide in custom vapour chamber as previously described by O’Rourke et al, and evenly pipette 650 μL of a 50:50 mix of 50 mmol ammonium bicarbonate/100% acetonitrile onto the centre paper tab.\n9) Seal the chamber with para-film and leave at 37 C overnight. \n10) Disassemble the chamber, remove and weigh slide. \n11) Mount slide onto cooling finger of sublimation apparatus, place 300 mg of appropriate matrix evenly onto the bottom petri dish of sublimator and assemble the chamber.",
+    "12) Evacuate chamber to ~25 mtorr and pack cooling finger with ice. Allow to settle for 5 mins\n13) Place sublimator into oil bath at an appropriate temperature \\(this depends on matrix) and allow to sublimate until a coverage of 0.2 mg/cm2 has been achieved \\(this will vary with temperature and volatility of matrix e.g. CHCA requires 45 mins at 200-210C).\n14) Dissemble chamber quickly and remove slide to prevent condensation forming. Allow to return to room temperature.\n15) Mount sample into vapour chamber again and evenly pipette 650 µL of 50:50 100%ACN: 0.1% TFA, onto the paper tab making sure the paper tab and slide align correctly.   \n16) Leave at 37C for 1 hour.\n17) Disassemble the chamber and remove slide. This sample is now ready for analysis in the mass spectrometer."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4429,
+  "origin_website": "Bio",
+  "title": "Wnt Reporter Activity Assay",
+  "procedures": [
+    "Grow low passage NIH3T3 or HEK293 cells from liquid nitrogen stock   Briefly thaw cells at 37 °C water bath.   Pipette cells into 15 ml thermal scientific Nunc conical tubes and spin for 5 min at 1,500 x g. Aspirate media, re-suspend cells in 15 ml growth media and plate in T75 culture flask (Cells are plated at the density at 1 x 106  and are cultured at 37 °C with 5% CO2.).   Split the cells when they grow to 60% sub-confluency.    The cell line should be subculturing for one or two time before performing the actual assay, and then plate the cells into 24-well plates as triplicate according to the experimental conditions (5 x 104 cells/well).      Transfection   Day 0: Seed cells (density as above-mentioned) in a total volume of 500 μl complete growth media (DMEM/10% FBS).   Day 1: Transfection (use ratio of 7XTCL/LEF-firefly luciferase: pRL-SV40-Renilla luciferase as 10: 1; use 1.5 μl TransIT-2020/300 ng of DNA/well).   Day 2: Change media 24 h after transfection (optimal).   Day 3: Change to serum-deprived media.   Day 5: Lyse cells (1x whole cell lysis buffer available from the Dual-Luciferase @ Reporter Assay System) and collect aliquot of supernatant (20 μl) from cell lysis, plate them into 96-well plate.        Reading luminescence signal   Thaw dual-luciferase reporter reagents.   Flash and prime Berthold luminometer with firefly luciferase and renilla luciferase substrate reagents. Firefly luciferase substrate is a derivative of D-luciferin. In response to D-luciferin enzymatic activity (firefly luciferase), a firefly luciferase chemical reaction will generate oxyluciferin and a specific light signal at 560 nm that can be detected by the luminometer. Renilla luciferase substrate is a derivative of Coelenterazine.",
+    "In response to renilla enzymatic activity (renilla luciferase), a renilla luciferase chemical reaction will generate coelenteramide and a specific light signal at 480 nm that can be detected by the luminometer. 20 μl of each substrate is added sequencially by the luminometer and light signals generated are instantly measured by the luminometer (Light signals are detected at an enclosed chamber of the luminometer at ambient temperature).   Read firefly and renilla luciferase signals (firefly luciferase signal is detected at 560 nm and renilla luciferase signal is detected at 480 nm)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6281,
+  "origin_website": "Bio",
+  "title": "Examining Autophagy in Plant by Transmission Electron Microscopy (TEM)",
+  "procedures": [
+    "Nicotiana bentiamiana plants are grown for 4 weeks in growth rooms at 25 °C under a 16-h light/8-h dark cycle.Agrobacterium strain GV3010 containing pTRV1 and pTRV2 or its derivative GAPCs or GAPCs/ATG3 co-silencing construct are mixed at the proportion of 1:1 and infiltrated into the top two leaves of the plants to silence GAPCs and GAPCs/ATG3 in plants, respectively.When target genes are silenced successfully at 16-18 days post infiltration (dpi), infiltrate 20 μΜ E-64d into the top two new leaves where the genes are silenced successfully.After treatment with E-64d for 8-12 h, cut the treated leaves into small pieces (1 mm x 1 mm). Fix the small pieces of leaves in 300 μl paraformaldehyde-glutaraldehyde fixative solution (2%/2.5%, pH 7.2) in a 1.5 ml tube. Vacuumize them using the diaphragm vacuum pump at 0.1 MPa for 10-30 min until the pieces sink to the bottom of the tube. Poke the pieces with toothpicks to help them sink to the bottom of the tube. Fix these pieces with paraformaldehyde-glutaraldehyde fixative solution (2 %/2.5%, pH 7.2) on ice for 1 h.Wash the pieces with 0.1 M PBS buffer in a shaker for 3 times, 15 min each time (Steps 5 to 10 should be achieved in a shaker).Fix the samples with OsO4-hexacyanoferrate fixative solution (1%/1.5%) on ice for 1 h.Wash the pieces with 0.1 M PBS buffer at room temperature (RT) for 3 times, 15 min each time.Wash the pieces with ddH2O at RT for 3 times, 10 min each time.Stain the samples with 1% uranyl acetatein the dark at RT for 1 h.Wash the pieces with ddH2O at RT for 3 times, 15 min each time.Dehydrate the samples in a graded series of ethanol of 30%, 50%, 70%, 80%, 90% and 95% (v/v), 10 min each time.",
+    "Dehydrate in 100% ethanol for 3 times, 10 min each time.Dehydrate the samples with 100% epoxypropane for 2 times, 10 min each time.Incubate the samples with epoxypropane: epon 812 at the volume proportion of 2:1 in a shaker for 30 min at RT.Incubate the samples with epoxypropane: epon 812 at the volume proportion of 2:1 in a shaker for 30 min at RT.Incubate the samples with epon 812 in a shaker overnight.Refresh the epon 812 for 3 times, 3 h each time.Embed the samples in 40 holes flat embedding mold with epon 812.Permeate the samples with epon 812 at 37 °C for 4 h.Aggregate resin at 60 °C, 24-48 h.Cut the embedding block with art knife until the sample could be saw. Continue to cut the sample with glass knife until the surface is smooth.Cut the sample surface in trapezoidal with an art knife.Cut the embedding block into 70-nm ultrathin sections on ultramicrotome with a diamond knife.Collect them with eyelash pen on Formvar-coated grids.Stain the sections with 2% uranyl acetate for 30 min and 0.2% lead acetate for 5 min using a Dyeing machine.Examine the sections under an electron microscope.Observe the autophagic structures in mesophyll cells, record the number of autophagic structures and the number of cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

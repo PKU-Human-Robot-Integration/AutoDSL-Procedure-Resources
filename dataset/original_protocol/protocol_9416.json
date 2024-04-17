@@ -1,0 +1,15 @@
+{
+  "id": 9827,
+  "origin_website": "Jove",
+  "title": "Axoplasm Isolation from Rat Sciatic Nerve",
+  "procedures": [
+    "This protocol allows axoplasm isolation with minimization of glial and vascular tissue contamination. The method yields approximately 70-100 μg total axoplasm protein per one 8-10 week old Wistar rat.\n1. Dissect Sciatic Nerves\nEuthanize two rats by CO2 inhalation followed by cervical dislocation. Confirm death by palpating for lack of heartbeat prior to beginning dissection.\nSwab the dissection area with 70% ethanol.\nCut the skin, separate muscles and isolate sciatic nerve using scissors and forceps carefully without damaging blood vessels. Dissect both sciatic nerves (about 1.5 cm each) from each animal and collect all four nerves in an eppendorf with 500  μL PBS 0.2X + inhibitors, kept on ice.\nTransfer the nerve segments to plastic dishes containing at least 2 mL of PBS 0.2X + protease inhibitors.\nRemove the epineurium from the nerves using fine forceps under the binocular scope. Separate the fascicles very carefully until they become cloudy and start to float on the surface of solution. This step should be practiced until it can be performed quickly and accurately (not taking more than 10 min per nerve).\n2. Incubation, Washing and Elution\nTransfer separated fascicles to a fresh eppendorf tube with 500  μL of PBS 0.2X containing protease inhibitors for incubation for 2 hr at room temperature.\nWash at least 3 times with 1 mL of the same buffer by transferring the fascicles from eppendorf tube to eppendorf tube and shaking for 5 min after transfer. \nTo remove excess of fluid put the fascicles into a new empty eppendorf  tube and then transfer the fascicles to a new eppendorf tube with 300  μL of PBS 1X containing protease inhibitor for incubation for 20-30 min at RT.\nCentrifuge 10 min at 10,000 x g at 4°C.\nTake the supernatant and measure protein concentration. This is your axoplasm preparation.",
+    "3. Representative Results\nimgsrc://cloudfront.jove.com/files/ftp_upload/2087/2087fig1.jpg\nFigure 1. Western blot comparing axoplasm isolated by the manual squeeze method with  axoplasm samples isolated as shown in this protocol. Note the reduced levels of albumin and GFAP, representing blood protein and glial cell contaminations, respectively. In contrast, axonal tubulin b3 is enriched in this preparation, indicating a high level of axonal proteins.Subscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

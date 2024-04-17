@@ -1,0 +1,25 @@
+{
+  "id": 302,
+  "origin_website": "Nature",
+  "title": "Dental calculus examination for forensic and anthropological purposes",
+  "procedures": [
+    "Sampling: for each individual, two 3–5-mm-long fragments of DCD are sampled directly from the teeth \\(lingual position of mandibular premolar or molar) with sterile or decontaminated surgical instruments, and deposed in sterile box without any conservative agent.\nSamples are then cleaned by a fine scraping with non-contami- nating plastic instruments and a delicate vaporization of pressured air on all the faces during 10 min. No gold covering is realized in order to be able to perform elemental analysis on the surface. \nEnvironmental Scanning Electron Microscope \\(SEM) examination of each sample is directly performed on a Philips XL30 CP with X-ray micro- analysis \\(energy-dispersive X-ray spectroscopy). The resolution of the microscope is 3.5 nm at 30 kV using the secondary electron detector. All images are stored using a standard resolution digital frame store.\nA study with optical microscope is also carried out on other samples of DCD.\nThe methodology employed for the sampling and preparation of DCD was:\n- The first step consists in a very fine fragmentation of the sam- ple. This is justified by the fact that DCD has no architecture of its own and that this fragmentation does not consist in a loss of information \\(since we worked in a microscopic scale). In addition, this reduction allows for a better penetration of the fixative substances.\n- In order to rehydrate and fix the samples, they are immersed in 20% diluted acetic acid for 48 h, in order to slowly decalcify the fragments of DCD.\n- A solution is obtained using the following two phases: a liquid phase made of the DCD in suspension and a solid-phase slope. These two phases are studied separately.",
+    "- The cytological analysis of the DCD in suspension began with the sampling of 200 lL from the supernatant. This liquid is then centrifuged \\(800 turns per minute for 10 min) in order to obtain two spots per slide. Four slides are produced by sample: two slides are colored by the technique of Papanicolaou after a fixing of the spots with a lacquer; the two other slides are colored by the technique of the May–Grünwald–Giemsa \\(MGG) after fixing of the spots to the air.\n- The study of the remaining solid phase \\(base of centrifugation) is carried out after a new centrifugation \\(3500 turns per minute for 10 min). The supernatant is kept in reserve \\(for a later possible cytological study) while the base is recuperated then fixed 24 h in the AFA \\(acetic acid, formaldehyde and alcohol). Soon after fixation and decalcification, the sample is put in cassette on a foam, followed by the traditional circuit of inclusion \\(dehydratation in xylene and increasing alcohol baths, then inclusion in liquid paraffin, cooling, section with the microtome \\(from 6 to 10 lm), deposit on an albumenized slide, air-drying free, dewaxing and rehydratation by immersion in xylene then in increasing alcohol baths to distilled water). Four colorations are carried out for each sample: periodic acid Schiff \\(PAS), Gram, toluidine blue and hematoxylin–eosin-saffron \\(HES)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Biological Techniques",
+    "Materials Science",
+    "Plant Sciences",
+    "Drug Discovery",
+    "Microbiology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Ecology & Environmental Biology",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4334,
+  "origin_website": "Bio",
+  "title": "α2β1-integrin Clustering and Internalization Protocol",
+  "procedures": [
+    "Subculture suitable adherent cells (e.g. A549 or Hela cells) on round coverslips one or two days before the experiment: place sterile coverslips on a suitable cell culture dish and plate the cells on top of them. Before the experiment you may transfer coverslips with adherent cells to a suitable support, e.g. 4-well, 6- well or 12-well plates.Cool the cells on ice for a few minutes (in order to inhibit endocytosis/α2β1-integrin uptake) under a cover.Discard the medium and add primary antibody: 30 µl/coverslip, 60 min on ice.Wash the unbound antibody gently, by adding BSA-PBS carefully to the cells, not to cause detachment (3x ice-cold PBS containing 0.5 % albumin, 5 min each). For albumin, Fraction V is applicable.Secondary antibody (Alexa 555) incubation: 30 µl/coverslip, 30 min on ice (keep the coverslips under cover in the darkness).Wash the unbound antibody (3x BSA-PBS, on ice).α2β1-integrin internalization: add medium (with 10% serum) on cells and incubate the cells at 37 °C in CO2 incubator for the preferred time (example 2 h).Labeling the uninternalised/cell surface-associated α2β1-integrin: cool the cells on ice and do the secondary antibody incubation as in step 4 but now with different fluorescent tag (e.g. Alexa 488).Wash the unbound antibody (3x BSA-PBS).Fix the cells with 4% PFA for 20 min at room temperature.Mount the cells with DAPI prolong gold (or any other mounting media).As you image the cells, you will have your internalized α2β1-integrin in “red” (labelled with Alexa 555 conjugated secondary) and the cell surface-associated α2β1-integrin in “green/yellow” (labelled with both Alexas 555 and 488). The ratio of intracellular α2β1-integrin can be analyzed by comparing the intensities of the total α2β1-integrin pool (Alexas 555 and 488 colocalizing) and the intracellular α2β1-integrin (Alexa 555). The intensity analysis can be done for example with ImageJ or BioImage XD.",
+    "In addition, BioImageXD contains a simple algorithm for calculating the ratio of surface/internalized antigen. The formula is Ch1/(Ch2 - Coloc), where Ch1 is number of voxels that are cell-surface associated and Ch2 is the total pool of antigens (cell surface and intracellular) and Coloc is number of colocalized voxels."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

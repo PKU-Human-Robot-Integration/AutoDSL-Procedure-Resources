@@ -1,0 +1,15 @@
+{
+  "id": 5536,
+  "origin_website": "Bio",
+  "title": "Primary Tumor Preparation",
+  "procedures": [
+    "Perform ex vivo gross total resection of the tumor, shred and mince the tissue in a small amount of PBS. Note: Enzymatic and mechanical dissociation followed a modified protocol (Gensert and Goldman., 2001).   Treat the shredded tissue with 11 ml per sample digestive enzyme (1:1,000 dilution of Trypsin 2.5% in MEM containing 20 mM HEPES) for 30 min in a 37 °C shaking bath. After the digestion, filter the dissociated cells through a 70 µm mesh.   Add 5 ml of 10% heat-inactivated FBS to inactivate the trypsin. Centrifuge cells for 10 min at 450 x g and re-suspend in MEM containing 20 mM HEPES and 30% sucrose.   Centrifuge cells for 20 min at 770 g and re-suspend in media.   Plate tumor cells onto 6-well tissue culture plates coated with poly-L-lysine (concentration) at a concentration of 2 million cells per well.    Grow the cells in culture media containing a 2:1 mixture of basal media and B104 conditioned media (Canoll et al., 1996), further supplemented with 10 ng/ml PDGF-AA and 10 ng/ml FGFb.   Basal media contained N2 supplement, 20 ng/ml T3, 0.5% FBS, and penicillin/streptomycin/amphotericin in DMEM.   Collect B104 conditioned media from confluent cultures of the B104 neuroblastoma cell line maintained in basal media for 48 h."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

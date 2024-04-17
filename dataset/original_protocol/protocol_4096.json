@@ -1,0 +1,16 @@
+{
+  "id": 4301,
+  "origin_website": "Bio",
+  "title": "Cyclic Nucleotide (cAMP and cGMP) Assays and Capture ELISA for Quantitative Analysis of <em>Plasmodium falciparum</em> Blood-stage Egress",
+  "procedures": [
+    "Assay of cGMP levels in the malaria parasite   For measurement of intracellular cyclic nucleotide levels, Percoll-enriched schizonts were suspended at a 5% haematocrit in gassed, protein-free RPMI 1640 at 37 °C. Standard procedures were used to culture the parasites and enrich schizonts (Blackman, 1994; Yeoh et al., 2007). The suspension was divided into aliquots each containing 2 x 108 schizonts (2 x 108 schizonts corresponds to ~20 μl packed cells).   Duplicate zero time samples (each containing 2 x 108 schizonts) were pelleted by centrifugation (1 min, 13,000 x g) and snap-frozen in a dry ice-ethanol mix.    Further duplicate samples were then taken at various time intervals following addition of 75 µM zaprinast, zaprinast plus the 2.5 µM PKG inhibitor compound 1, or vehicle only (DMSO), and similarly processed. Zaprinast is an inhibitor of parasite phosphodiesterase (which degrades cGMP and cAMP), and so results in an increase in cGMP levels, inducing egress.   All samples were stored at -70 °C until required for assay.    cGMP and cAMP levels in schizont extracts were measured using a DetectX Direct cGMP or cAMP immunoassay kit , precisely as directed by the manufacturer.      Capture ELISA for quantitative analysis of P. falciparum blood-stage egress   Coat 96-well Immulon plates with 100 μl/well of a stock solution of purified monoclonal antibody 4G2dc1 made up at 2.5 μg/ml in carbonate/bicarbonate buffer (pH 9.6).   Seal the plates and incubate overnight in a humidified atmosphere at 4 °C. This and all subsequent incubations are done whilst stationary.   Wash the plates once with PBS 0.5% (v/v) Tween 20 (PBS/T), then block by adding 250 μl/well of a 1:4 dilution of gelatine-Tween stock solution, and incubating for 2 h at room temperature.   Prepare serial 2-fold dilutions of test culture supernatant samples in a separate 96-well plate.",
+    "Dilute the samples into RPMI 1640 culture medium containing 0.5% Albumax. For negative control wells, use RPMI Albumax medium only. Add samples to the washed ELISA plates, then seal and incubate the plates for 1 h at room temperature.   Wash plates 3x in PBS/T.    Make up a solution of rabbit polyclonal anti-AMA1 serum diluted 1:1,000 in PBS/T. Add 100 μl/well, then seal and incubate the plates a further 1 h at room temperature.   Wash plates 3x with PBS. Note: No Tween at this stage, as it interferes with the alkaline phosphatase activity in the next step of the assay.   Add 100 μl/well phosphatase-conjugated goat anti-rabbit IgG (whole molecule), diluted 1:30,000 in PBS. Seal the plates, then incubate 1 h at room temperature.   Wash plates 5x with PBS (no tween) then add 50 μl/well substrate (1 tablet of phosphatase substrate, in 5 ml diethanolamine buffer). Incubate in the dark at 37 °C for at least 30 min. Determine OD405 using an ELISA reader.    Use the data to produce titration curves of antigen levels in the various culture supernatants."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

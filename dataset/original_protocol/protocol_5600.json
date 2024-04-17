@@ -1,0 +1,16 @@
+{
+  "id": 5941,
+  "origin_website": "Bio",
+  "title": "Infectious Subviral Particle to Membrane Penetration Active Particle (ISVP-to-ISVP*)  Conversion Assay for Mammalian Orthoreovirus",
+  "procedures": [
+    "Generation of infectious subviral particles (ISVPs)Propagate and purify reovirus virions as previously described (Berard and Coombs, 2009; Kobayashi et al., 2010). Using a NanoDrop spectrophotometer, determine particle concentration by measuring the optical density of the purified virus stocks at 260 nm (OD260; 1 unit at OD260 = 2.1 x 1012 particles/ml) (Smith et al., 1969).In 1 tube of an 8-well tube strip, dilute 2 x 1011 virions into 90 µl of ice cold VB (see Recipes).Add 10 µl of ice cold 2 mg/ml TLCK-treated chymotrypsin (see Recipes) to the diluted virus. Mix by pipetting up and down 3-4 times.Note: For an undigested control, substitute 10 µl of ice cold VB for 10 µl of TLCK-treated chymotrypsin.Incubate the reaction for 20 min at 32 °C in a thermal cycler.Note: Under these conditions, σ3 is degraded (Joklik, 1972; Borsa et al., 1973a) and µ1 is cleaved (Nibert and Fields, 1992; Chandran et al., 1999).Following digestion, quench chymotrypsin activity by the addition of 1 µl of 100 mM PMSF (see Recipes). Mix by pipetting up and down 3-4 times.Incubate the reaction for 20 min on ice.To confirm that ISVPs are generated, run 2 x 1010 particles per lane on a 10% SDS-polyacrylamide mini gel. Run the gel for 40-45 min at 200 V constant.Visualize the protein bands by Coomassie Brilliant Blue staining (see Data analysis, Figure 1).Store ISVPs on ice, and use within 2-3 h for ISVP-to-ISVP* conversion experiments.ISVP-to-ISVP* conversion assayAdd 10 µl of ISVPs to each tube of an 8-well tube strip on ice.Incubate the ISVPs for 1 h on a temperature gradient in a thermal cycler (i.e., each tube is incubated at a different temperature).Note: Appropriate temperature ranges will vary based on the incubation time (5 min to 1 h) and the reovirus strain under investigation.",
+    "Each step in the temperature gradient should be no less than 1 °C. ISVP-to-ISVP* conversion typically occurs between 30 °C and 50 °C.  Incubate the heat treated ISVPs for 5 min on ice.Add 0.9 µl of 1 mg/ml trypsin (see Recipes) to each tube of heat treated ISVPs. Mix by pipetting up and down 3-4 times.Incubate the reactions for 30 min on ice.Note: As a consequence of ISVP-to-ISVP* conversion, the central δ fragment of µ1 adopts a protease sensitive conformation (Chandran et al., 2002).Following digestion, add 3.3 µl of 4x Laemmli sample buffer to each reaction. Mix by pipetting up and down 3-4 times.Boil each reaction for 5 min at 95 °C.To determine the temperature at which ISVP-to-ISVP* conversion occurs, run 2 x 1010 particles (i.e., the entire ISVP-to-ISVP* conversion reaction at a given temperature) per lane on a 10% SDS-polyacrylamide mini gel. Run the gel for 40-45 min at 200 V constant.Visualize the protein bands by Coomassie Brilliant Blue staining (see Data analysis, Figure 2)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

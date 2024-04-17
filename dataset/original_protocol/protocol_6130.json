@@ -1,0 +1,16 @@
+{
+  "id": 6485,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Tumorsphere Formation Assays",
+  "procedures": [
+    "Add B27 supplement (50x) to tumorsphere medium for making 1x concentration as needed for experiments. B27 should be freshly added before each experiment.Note: The addition of B27 has been shown to increase tumorsphere formation and sustain several passages of sphere cultures (Gu et al., 2011).Harvest cells and suspend the resulting pellet in 5 ml 1x PBS. Keep cells on ice while not in use for the duration of the experiment.Gently mix the suspension and pipette 20 μl of the suspension into an eppendorf tube.Add 20 μl (1:1 ratio) of Trypan Blue to the cells in the eppendorf tube and mix well.Pipette approximately 10 μl of the mixture onto the hemocytometer.Count only the bright cells within the four corner quadrants of the counting chamber for viable cell count.Take the needed number of cells and add the appropriate volume of tumorsphere medium to make the cell concentration at 1 cell/L. Keep this suspension on ice and mixed well for plating.Add 1x PBS to the first and last columns (column 1 and 12) of the 96-well plate to help minimize medium evaporation. This will leave 10 wells available for each row.Seed 200 μl of the cells suspended in tumorsphere medium into each well (200 cells per well).Note: The number of cells used for tumorsphere formation assays may vary with the cell type. For each cell line or treatment, seed cells into the wells of 2 rows for a total of 20 wells. This will equal a total of 4,000 cells.Seal the upper and lower edges of the 96-well plate with laboratory tape to avoid evaporation of medium and place the cells in an incubator set to 37 °C and supply the cells with 5% CO2 for one week.",
+    "Note:The medium is not changed or added so as to not disturb the formation of the tumorspheres.After one-week incubation, tumorsphere numbers are counted under a phase-contrast microscope using the 40x magnification lens (See Figure 1).Results can be presented as a percentage of the number of tumorspheres present divided by the initial number of cells seeded (4,000 cells)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

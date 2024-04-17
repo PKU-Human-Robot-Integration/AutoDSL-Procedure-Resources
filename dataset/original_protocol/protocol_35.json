@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "origin_website": "Nature",
+  "title": "Assay of cell adhesion molecules in transfected cells grown in suspension",
+  "procedures": [
+    "1. Day 1. Prepare an exponential culture of Jurkat cells in complete medium \\(RPMI, 10% fetal bovine serum, gentamycin).\n  \n2. Day 2. Seed 2 ml from a 5x10<sup>5</sup> cells/ml Jurkat cell suspension in 12 well-plates  \\(i.e. 1x10<sup>6</sup> cells per well). Each DNA construct to be tested \\(or controls as appropriate) will require 2 wells. \n  \n3. Prepare transfection mixes as follows: i) combine 4.5 &#x3BC;g of each expression construct \\(or empty vector control) with 0.5 &#x3BC;g of EGFP plasmid; ii) in separate reactions combine another 4.5 &#x3BC;g of each expression construct \\(or controls as appropriate) with 0.5 &#x3BC;g of Ds-Red plasmid; iii) prepare Fugene6 dilution by combining 12 &#x3BC;l of Fugene6 \\(per transfected well) with 160 &#x3BC;l of serum- and antibiotic-free RPMI medium, leave to activate at room temperature for 5 min; iv) add 170 &#x3BC;l of Fugene6 dilution to each DNA mix, leave 15 min at room temperature. \n  \n4. Add each transfection mix drop-wise to a well with Jurkat cells. You will end up with green \\(EGFP) and red \\(Ds-Red) series of all constructs to be tested.  Incubate in CO<sub>2</sub> incubator overnight. \n  \n5. Day 3. Prepare a 48-well plate with 100 &#x3BC;l of serum-free RPMI \\(but containing antibiotics) in each well. Prepare 4 times as many wells as adhesion assays \\(for quadruplicate determinations). Ligands or other substances capable of modifying or altering cell adhesion may also be added here. Allow additional 4 wells for each new condition to be tested. \n  \n6. Combine 100 &#x3BC;l of cell suspensions from the green and red series and add to each of quadruplicate wells in 48 well-plate containing plain medium or ligands. Mix well and incubate in CO<sub>2</sub> incubator for 2 days.",
+    "7. Day 5. Resuspend cells by carefully shaking the plate side-wise, and spin for 1 min at low speed to pellet the cells to the bottom of the wells. For best results, the cells should lie at the bottom uniformly covering the whole well. \n  \n8. Count manually under epifluorescence illumination \\(FITC and Rhodamine channels) the number of green and red cells, and the proportion of each forming part of cell aggregates containing green and red cells. Cell adhesion can be expressed as the percentage of green \\(or red) cells present in mixed cell clusters.\n  \n9. Alternatively, photographs can be taken in an inverted epifluorescence microscope. We have developed an automated procedure for OpenLab software with which we typically photograph three horizontal rows of 8 fields each across the well diameter at 10X magnification using a motorized Axiovert 200 microscope. Using the photographs, green and red cells and overlapping cell clusters \\(yellow) can be quantified off-line, either manually of through a second OpenLab automation that counts everything automatically and saves the results as a tab-delimited document. OpenLab automations are available upon request."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

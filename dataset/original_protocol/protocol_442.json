@@ -1,0 +1,14 @@
+{
+  "id": 470,
+  "origin_website": "Nature",
+  "title": "Induction of IBD by transferring CD4+ CD45RB high cells in to SCID or Rag-/- mice",
+  "procedures": [
+    "**Cell transfers _in vivo_** \n1| Harvest splenocytes from 5 to 8 week old mice.  \n2| Osmotically-lyse the erythrocytes and incubate the single cell suspensions with FITC-conjugated anti-CD4 and biotin-conjugated anti-CD45RB followed by incubation with anti-FITC microbeads. \n3| Purify CD4+ T cells by magnetic isolation using the Auto MACS sorter \\(Miltenyi Biotec). For isolation of CD4+CD45RB high naive cells, after releasing the beads, incubate the purified CD4+ T cell suspension with &#x3B1;-biotin microbeads followed by separation using the Auto MACS. In all of our experiments, 99% of these cells were positive for CD4 and high for CD45RB. \n4| For the first intra peritoneal \\(i.p.) injection, inject Thy1.2+ C.B-17 scid mice with 4 &#xD7; 10<sup>5</sup> fresh Thy1.1+CD25&#x2013; CD45RBhighCD4+ congenic cells. \n5| After 6 or 7 days, administer an i.p. injection of PBS or 0.8-1 &#xD7; 10<sup>6</sup> freshly isolated Thy1.2+ Treg cells.  Control mice receive PBS in both the injections.  C57BL/6 Rag1&#x2013;/&#x2013; or Rag2&#x2013;/&#x2013; mice \\(CD45.1) can be used as recipients  C57BL/6 donor cells were transferred. After 6 or 7 days, they received an i.p. injection of PBS or 1 &#xD7; 10 6 freshly isolated CD45.1+ Treg cells. Cells were transferred in 100ul of PBS/ mouse.  On day 6-10 after Treg cells were transferred, mesenteric lymph node cells or lamina propria cells were isolated \\(using the protocol from Current protocols in Immunology) and Annexin V and Propidium iodide staining was performed to measure apoptosis using flow cytometry.  TUNEL staining was also done on cryo-sections of the gut to measure apoptosis of the effector cells in the lamina propria of the gut followed by confocal immunofluorescence analyses."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

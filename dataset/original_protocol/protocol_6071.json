@@ -1,0 +1,17 @@
+{
+  "id": 6423,
+  "origin_website": "Bio",
+  "title": "Acute Cerebellar Slice Preparation Using a Tissue Chopper",
+  "procedures": [
+    "Prepare 1 L of artificial cerebrospinal fluid (aCSF) (see Recipe 1). Pour 500 ml of freshly prepared aCSF into a brain slice container. Put the brain slice container in a 37 °C water bath. Connect the brain slice container to a 95% O2/5% CO2 air tank and oxygenate aCSF. Gas flow pressure is set at around 2 p.s.i.Pour 100 ml of cutting solution into a 150 ml beaker. Cover the beaker with parafilm, and place it in a -80 °C freezer for 5-10 min, until the solution has a slushy consistency.Place the ice-cold cutting solution on a large ice tray. Bubble the solution with a gas dispersion tube connected to a 95% O2/5% CO2 air tank for 5 min.Place the lid of a 60 mm Petri dish on ice. Put a round filter paper onto the lid and wet the filter paper with the cutting solution. This is the brain dissection stage.Chill dissection tools including angled-tip dissector scissors, large scissors, a curved-tip forceps, a surgical blade, a spoon, a disposable pipette with the tip cut off and two dissecting spatulas on ice. The whole dissection setup is shown in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190301/20190301180229_4165.jpgFigure 1. Dissecting setup for acute cerebellar slice preparation. A beaker with cutting solution, a dissection stage, and dissection tools were placed on a large ice tray.Anesthetize animal with isoflurane and decapitate with the appropriate tool (e.g., scissors). Immediately extract the whole brain with dissection tools and place it into the ice-cold cutting solution. This step should be done within 1 min.Chill the brain in ice-cold cutting solution for 1 min.Place the brain onto the cold dissection stage. First, cut off forebrain, midbrain, and medulla. Then, cut off pons to isolate the cerebellum (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190301/20190301180353_8621.jpgFigure 2. Steps to isolate cerebellum from whole mouse brain.",
+    "Forebrain, midbrain, and medulla were cut off, followed by the removal of pons beneath the cerebellum. Top, the axial view of mouse brain. Bottom, the coronal view of Cerebellum and Pons. Numbers and dotted lines indicate steps and sites of the incision.Immediately transfer the cerebellum onto the stage of a McIlwain Tissue Chopper. Drain the extra solution around the tissue. Slice the cerebellum into 200-400 µm thick sagittal slices (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190301/20190301180502_2103.jpgFigure 3. McIlwain Tissue Chopper (The Mickle Laboratory Engineering, Brinkmann)Move the cerebellum to a 100 mm Petri dish containing ice-cold cutting solution and carefully separate each slice without damaging them using two small painting brushes.Transfer slices into warm aCSF in the brain slice container using a disposable pipette with the tip cut off.Incubate slices in aCSF at 37 °C for 1-2 h with the 95% O2/5% CO2 bubbling on. Slices can now be used for electrophysiology or slice treatment."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

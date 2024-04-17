@@ -1,0 +1,17 @@
+{
+  "id": 7139,
+  "origin_website": "Bio",
+  "title": "Trypanosomatid, fluorescence-based <em>in vitro</em> U-insertion/U-deletion RNA-editing (FIDE)",
+  "procedures": [
+    "gRNA/pre-mRNA substrate formationTwo thin-walled 0.5 ml polypropylene reaction tubes are used to separately assemble the trimeric U-insertion and U-deletion gRNA/pre-mRNA substrate RNAs. The final gRNA/pre-mRNA concentration is 10 nM.Combine the 3'-pre-mRNA Cl-fragment, the fluorescently labeled 5'-pre-mRNA Cl-fragment and the corresponding gRNA oligoribonucleotide at a final concentration of 30 nM each in TE buffer (pH 7.5). You will need 10 µl of gRNA/pre-mRNA substrate for a 30 µl editing reaction.Mix by vortexing (5 s) and collect the content of the tubes by brief centrifugation (10 s quick-spin).Thermally unfold the oligoribonucleotides for 2 min at 75 °C and anneal the 3 RNAs by cooling to 27 °C with a rate of 0.08 °C/s.Note: The formation of the gRNA/pre-mRNA hybrid must be verified in a separate analysis (see Note 5). The yield of the trimeric RNA-hybrid should be ≥90%. RNA-editing reaction and sample clean-upAdd an equal volume of 3× editing reaction-mix to the annealed gRNA/pre-mRNA substrate from Step 1c.Aliquot 20 µl of this pre-mix into thin-walled 0.2 ml polypropylene reaction tubes.Adjust the volume with ddH2O, so that the final volume, including the volume of editosomes (to be added later), will be 30 µl.Mix by vortexing (5 s) and collect the content of the tubes by brief centrifugation (10 s quick-spin).Add editosomes and mix by gently pipetting up and down (see Note 6).Incubate at 27 °C for 30 min to 3 h (see Note 6).Transfer samples to 1.5 ml reaction tubes and terminate the reaction by adding 17 µl ddH2O, 3 µl 125 mM Na2EDTA and 50 µl PCI. Mix vigorously.Spin for 5 min at >15,000 × g at 4 °C.Transfer the H2O-phase to a new 1.5 ml reaction tube. Add 5 µl 3 M NaOAc/HOAc (pH 4.8) and 121 µl 100% (v/v) cold (-20 °C) EtOH.",
+    "Mix and immediately spin at 4 °C for 30 min at >15,000 × g to pellet the RNA.Aspirate the supernatant and add 0.75 ml 70% (v/v) cold (-20 °C) EtOH.Wash RNA-pellets by vortexing and spin for 5 min at 4 °C at >15,000 × g.Repeat Steps 2j-2k.Remove any liquid by aspiration and dry RNA-pellets for 2 min in vacuo.Dissolve RNA-pellets in 15 µl Hi-DiTM formamide. Collect the contents of the tube by brief centrifugation (10 s quick-spin).Denature the RNA-samples by incubation at 95 °C for 2 min. Snap-cool on ice.CE/LIF-separationTransfer 3 µl of the samples to 0.5 ml reaction tubes (see Note 13).Add 4 fmol of each of the 4 size-standard RNA oligonucleotides.Add Hi-DiTM formamide to a final volume of 20 µl. Mix and spin down.Cut off the lids and place the tubes into the autosampler of the CE/LIF-instrument.Run capillary electrophoresisOn an CE/LIF-ABI PRISM® 310 DNA-Sequencer with a 50 cm glass capillary use the following settings: ModuleSeq POP6 (1 ml); laser power: 7 mW; injection voltage: 2.5 kV; run voltage: 12.2 kV; sample injection time: 10 s (see Note 7); run time: 25 min.After completion of the CE/LIF-run, inspect the raw electropherograms. Since only non-saturated CE/LIF-traces can be quantitatively analyzed it may be necessary to re-run the samples at a higher dilution."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Molecular Biology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

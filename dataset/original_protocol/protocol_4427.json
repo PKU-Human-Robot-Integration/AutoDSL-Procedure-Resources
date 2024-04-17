@@ -1,0 +1,15 @@
+{
+  "id": 4658,
+  "origin_website": "Bio",
+  "title": "In Gel Detection of Lipase Activity in Crude Plant Extracts (<em>Olea europaea</em>)",
+  "procedures": [
+    "Tissue homogenization and protein extractionNote: Do not denature the sample at any time. Proteins must remain in their native, folded state. Homogenize tissue (0.2 g) to a very fine powder in liquid nitrogen using a precooled mortar and pestle.Transfer the powder to a 2 ml microcentrifuge tube and add 1.5 ml of extraction buffer and mix well using vortex (see Note 3).Note: If samples are used immediately or stored properly it is not necessary to use protease inhibitors. Stir sample in tubular glass vials using a magnetic stirrer for 1 h at 4 °C. Centrifuge at 13,500 x g for 30 min at 4 °C.After centrifugation, collect the supernatant. Quantify extract and make aliquots. Note: The protein concentration was measured using the 2D Quant Kit following the manufacturer’s instructions.SDS-PAGEMix protein sample (approx. 25 μg per sample) with an equal volume of 2x SDS sample buffer. Do not heat at any time. Load protein sample and perform the SDS-PAGE on a 12% separation gel.In-gel detection of lipase activityRemove SDS from the polyacrylamide gels by washing them three times for 30 min each in a solution containing 0.05 M phosphate buffer (pH 7.0) and 2.5 % (v/v) Triton X-100.Incubate the gels for 30 min at 37 °C in a developing solution in the dark. Wash gels with distilled water three times for 10 min on a shaker. The gels can be stored in distilled water up to two months at 4 °C without a significant loss of staining intensity.To quantify the level of lipase activity, the Quantity One software can be used to measure the density of appearing brown bands."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

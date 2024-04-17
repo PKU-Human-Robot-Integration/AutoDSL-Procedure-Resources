@@ -1,0 +1,16 @@
+{
+  "id": 5323,
+  "origin_website": "Bio",
+  "title": "A Simple RNA Preparation Procedure from Yeast for Northern Blot Using Hot Phenol",
+  "procedures": [
+    "Prepare reagents according to recipes. Note that everything is in DEPC water.Inoculate W303a cells expressing different TOR1-RR variants in 2 ml SC medium overnight.Subculture the cells starting from OD600=0.1 in 10 ml SC media, shake vigorously at 30 °C, 300 rpm for around 4-6 h until OD600=0.4-0.5.Collect the cells by spinning down without freezing on ice. Discard supernatant. Re-suspend cells with 1 ml water and transfer to a 1.5 eppendorf tube, quickly spin down at 3,000 x g for 15 sec. Re-suspend cell pellet in 400 µl of AE buffer at room temperature.Add 40 µL 10% SDS (final around 1%) and vortex briefly at room temperature (RT).Immediately add 500 µl hot phenol/AE (put in 65 °C for 10 min before use), vortex vigorously for 1 min. Incubate at 65 °C for 5 min. Briefly vortex every 30 sec.Immediately freeze by dumping into liquid nitrogen (labels won’t get off). Wait to thaw at RT (put in 30 °C to thaw may crack the tube).Centrifuge for 10 min on a standard laboratory microfuge at 20,000 x g at RT.Transfer around 400 μl supernatant to a new eppendorf tube. Recycle the lower phenol fraction carefully following the chemical safety protocol in your laboratory. Add equal volume (400 μl) phenol: CHCl3/AE-Na. Vortex vigorously for 1 min at RT.Spin down at 20,000 x g for 5 min in a standard laboratory microfuge.Transfer supernatant (around 350 μl) to a fresh 1.5 ml eppendorf tube.Add CHCl3: isoamyl alcohol (24:1). Vortex vigorously for 1 min at RT.Transfer aqueous supernatant to fresh 1.5 ml microfuge tube. If white cloudy precipitate is observed between aqueous phase and organic phase, repeat steps 17-18.Add 1/10 volume of 3 M NaOAc (pH 5) and vortex vigorously. Add 2.5 volumes of ethanol. Vortex again.Place at -20 °C for at least 30 min.",
+    "Spin down in the microfuge at 20,000 x g, 15 min at 4 °C. RNA pellet is usually visible.Add ice-cold 75% EtOH, place at 4 °C for around 10 min. Vortex and spin down on microfuge 20,000 x g, 15 min at 4 °C. Discard supernatant. Suck out the liquid droplets in the tube.  The white RNA pellet will turns clear when it dries out. Add 30-50 µl ddH2O (DEPC) immediately after it becomes clear. Do not let the RNA over-dry, which will make it difficult to dissolve. If RNA pellet is over-dry, dissolve RNA at 37 °C for 30 min. Store RNAs at -80 °C for more than 2 months."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

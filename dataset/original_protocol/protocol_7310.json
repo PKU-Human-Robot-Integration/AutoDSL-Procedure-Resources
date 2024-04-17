@@ -1,0 +1,16 @@
+{
+  "id": 7693,
+  "origin_website": "Bio",
+  "title": "A Novel Imaging Technique for The On-site Assessment of Renal Biopsy Specimens",
+  "procedures": [
+    "Preparation of the fluorescent probe Thaw ProteoGREENTM-gGlu stock solution on ice (protect from light).Dilute ProteoGREENTM-gGlu stock solution into PBS to prepare fluorescent solution (concentration of 50 μM).Handling of renal biopsy specimen Perform renal biopsy (Donovan et al., 1991).Briefly rinse biopsy specimen with 10 mL of normal saline in 6 cm dish. Protect the specimen from drying.Apply 100 μL of the fluorescent solution to the biopsy specimen. Incubate for 3 min under dark conditions at room temperature.Illuminate and observe the specimen. Excitation wavelength of 450 nm passes through the band pass filter; the fluorescent solution is excited and emits fluorescence. Sharp cut filter eliminates redundant wavelengths except for fluorescence.Capture images of the renal biopsy specimen at 2.0× magnification ratio. The corticomedullary junction of the specimen can be easily identified (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4517/bioprotoc-12-18-4517-g002.jpgFigure 2. Fluorescent image of the renal biopsy specimen incubated with gGlu-HMRG. Cortex emits stronger fluorescence than the medulla. Scale bar = 1 mm."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Biophysics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

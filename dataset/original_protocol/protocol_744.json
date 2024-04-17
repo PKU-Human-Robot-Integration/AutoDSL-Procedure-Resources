@@ -1,0 +1,17 @@
+{
+  "id": 787,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from serum or plasma using the New England Peptide ME<sup>TM</sup> kit",
+  "procedures": [
+    "1. Reconstitute the Vn96 peptide to 2.5 µg/µL by adding 200 µL ME-buffer. Reconstitute the negative control Vn96-Scr peptide by adding 40 µL ME-buffer. Store at 4°C.\n  2. Transfer 500 µL of serum or plasma into a 1.5 mL microfuge tube.\n  3. Add 500 µL PBS.\n  4.  Mix thoroughly.\n  5. Add 5 µL protease inhibitor cocktail.\n  6. Centrifuge for 7 minutes at 10,000 x g at room temperature to remove debris.\n  7.  Transfer supernatant to fresh tube, avoiding any pelleted material.\n  8.  Add 20 µL reconstituted Vn96 peptide \\(use same amount of Vn96-Scr as a negative control).\n  9.  Invert tube 10 times.\n  10.  Incubate at room temperature for 30 minutes on a rotator.<sup>1</sup>\n  11.  Centrifuge for 7 minutes at 10,000 x g at room temperature to pellet extracellular vesicles.\n  12.  Carefully remove and discard supernatant.\n  13.  Wash by adding 1 mL PBS + 5 µL protease inhibitor cocktail, inverting 10 times, centrifuging for 7 minutes at 10,000 x g at room temperature, and carefully removing and discarding supernatant.\n  14.  Repeat Step 13.\n  15.  Resuspend pellet in 700 µL Qiazol and isolate RNA using miRNeasy micro kit."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

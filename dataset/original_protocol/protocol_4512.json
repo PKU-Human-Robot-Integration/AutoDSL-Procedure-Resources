@@ -1,0 +1,14 @@
+{
+  "id": 4757,
+  "origin_website": "Bio",
+  "title": "Micro-scale NMR Experiments for Monitoring the Optimization of Membrane Protein Solutions for Structural Biology",
+  "procedures": [
+    "NMR sample preparation    Add 100 µl of freshly prepared stock solution of unfolded protein to 600 μl refolding buffer and stir overnight at 4 °C.    Exchange with NMR buffer by repeated dilution/concentration cycles. ‘‘Upconcentration’’ of the detergent during these dilution/concentration cycles was taken into account when adjusting the detergent concentration in the NMR sample. For details on how to adjust these cycles, see Stanczak et al. (2009). For example, 10 mM 30-Fos in the NMR buffer results in approximately 160 mM 30-Fos in the NMR sample (Stanczak et al., 2012).   Added 5 μl of D2O and 1 μl of a 100 mM solution of 4, 4-dimethyl-4-silapentane-1-sulfonic acid (DSS) as an internal reference for the 1H chemical shifts to 45 μl of the protein solution.     Evaluation of different sample conditions based on 2D [15N, 1H]-TROSY experiments. The following criteria were used (see Zhang et al., 2008; Stanczak et al., 2012 for examples):   Completeness of NMR observation of the IMP by comparison of the number of observed backbone 15N–1H correlation peaks with the number expected from the amino acid sequence.   High average peak intensity and uniform distribution of peak intensities.   Analysis of the peak line shapes to support the interpretation of the peak intensity measurements.     Evaluation of the hydrodynamic radius of IMP/detergent mixed micelles, using 1H-TRO-STE (Horst et al., 2011) and TRACT (Lee et al., 2006) experiments.   Determine the translational diffusion coefficient, Dt, using the 1H-TRO-STE experiment.   Determine the rotational diffusion coefficient, Dr, using the TRACT experiment.   Calculate the hydrodynamic radius, Rh, using the formula Rh = (3Dt/4Dr)1/2.    Optimize sample conditions towards small Rh values, which favors the recording of high-quality NMR data."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

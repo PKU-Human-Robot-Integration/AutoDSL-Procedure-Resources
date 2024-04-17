@@ -1,0 +1,16 @@
+{
+  "id": 4352,
+  "origin_website": "Bio",
+  "title": "Sandwich Enzyme-linked Immunosorbent Assay (ELISA) Analysis of Plant Cell Wall Glycan Connections",
+  "procedures": [
+    "Coat the microtitre plate using 0.5 to 1 µg/ml CBM in 1x PBS, 100 µl per well at 4 °C overnight.  Note: The amount of CBM necessary to obtain a good signal will vary depending of its affinity to the substrate. Trials may be necessary to find the appropriate dilution.    Wash the plate 3 times using tap water or 1x PBS 0.1 % (v/v) Tween 20. Shake the plate dry. Note: We routinely used tap water but one might prefer using 1x PBS 0.1 % (v/v) Tween 20. The drying step is critical as any remaining water/buffer would dilute the next reagent. Make sure the plates are fully dried after each washing step.   Block the plate for 2 h using 5% (w/v) milk powder in 1x PBS, 200 µl per well at room temperature.   Wash the plate 3 times using tap water or 1x PBS 0.1 % (v/v) Tween 20. Shake the plate dry.   Incubate for 90 min with a cell wall extract or test glycan diluted in 5% (w/v) milk/1x PBS, 100 µl per well at room temperature.  Note: Normal ELISA analysis can be used to determine which dilution of the extract gives the best signal. However, the amount of CBM used will determine the amount of glycan that can be immobilised. Therefore it is better to use more concentrated sample rather than less.    Wash the plate 6 times using tap water or 1x PBS 0.1 % (v/v) Tween 20. Shake the plate dry.   Incubate with a primary antibody appropriately diluted in 5% (w/v) milk/1x PBS, 100 µl per well for 1 h at room temperature. Note: Use 10x dilution of hybridoma cell culture supernatants if working with PlantProbes monoclonal antibodies.   Wash the plate 6 times using tap water or 1x PBS 0.1 % (v/v) Tween 20.",
+    "Shake the plate dry.   Incubate with secondary HRP-conjugated antibody diluted 1:1,000 in 5% (w/v) milk/1x PBS, 100 µl per well for 1 h at room temperature.   Wash the plate 9 times using tap water or 1x PBS 0.1 % (v/v) Tween 20. Shake the plate dry. Note: Plates should be thoroughly washed at this step to ensure no false positive signals due to non-specifically bound secondary antibody/HRP.   Develop the plate using 150 µl of substrate solution per well to detect secondary antibody binding. Let the plates develop for 5 to 10 min. Stop the reaction by adding 50 µl of 2.5 M sulphuric acid. Note: As developing the plate is a time dependent process it is important to ensure that all comparable samples are developed for the same time.   To collect the data, read the plates at 450 nm using the microtitre plate reader."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

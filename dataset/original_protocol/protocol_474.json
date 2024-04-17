@@ -1,0 +1,16 @@
+{
+  "id": 508,
+  "origin_website": "Nature",
+  "title": "Mineral Salt Medium \\(MSM) for extreme acidophilic microorganisms",
+  "procedures": [
+    "For 1x Medium:\n3.0 g/l \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>\n3.2 g/l Na<sub>2</sub>SO<sub>4</sub> x10H<sub>2</sub>O\n0.1 g/l KCl\n0.05 g/l K<sub>2</sub>HPO<sub>4</sub>\n0.5 g/l MgSO<sub>4</sub> x7H<sub>2</sub>O\n0.01 g/l Ca\\(NO<sub>3</sub>)<sub>2</sub>\nFor 10x Stock:\n30 g/l \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>\n32 g/l Na<sub>2</sub>SO<sub>4</sub> x10H<sub>2</sub>O\n1 g/l KCl\n0.5 g/l K<sub>2</sub>HPO<sub>4</sub>\n5 g/l MgSO<sub>4</sub> x7H<sub>2</sub>O\n0.1 g/l Ca\\(NO<sub>3</sub>)<sub>2</sub>\n- Add the constituents into a final volume of 1 liter of water, one at a time, dissolving before adding the next.\n- Adjust the pH to 2.0 with sulfuric acid \\(and/or sodium hydroxide)\n-Autoclave"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

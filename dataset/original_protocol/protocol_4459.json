@@ -1,0 +1,17 @@
+{
+  "id": 4695,
+  "origin_website": "Bio",
+  "title": "Midbrain Neuron-glia Mixed Cultures",
+  "procedures": [
+    "Coating and washing culture platesIn a laminar hood, dilute poly-D-lysine stock solution (5x) with sterile water to 20 µg/ml. Add 0.25 ml to each well of 24-well plates. Leave the plates in the hood for 2-3 h or in the in incubator for at least 1 h. Before use, remove the coating solution. Wash the wells twice with 1 ml/well of sterile water. Add 1 ml sterile PBS to each well. Completely remove the PBS right before use. In the animal procedure room, remove embryos from time-pregnant rats or mice at embryonic day 13/14 and place embryos in cold MEM. Under a microscope, dissect out the midbrain portion of the embryonic rat or mouse brains. Remove meninges and blood vessels. Pool tissues and keep in ice cold MEM.In a laminar hood, transfer tissues to a 50-ml tube. Gently triturate the tissues (5-10 times each) first with a 10-ml pipet, then with a 1-ml pipet tip fitted to the 10-ml pipet followed by a fitted 200 µl pipet tip.Centrifuge the triturated tissues for 10 min at 6.5x speed setting (~1,500 rpm).Carefully remove the supernatant and resuspend the pelleted cells in 10 ml of maintenance culture medium.Take 30 µl of the cell suspension and mix with 270 µl of Trypan blue dye. Load 10 µl onto a hemocytometer to count cell density.Adjust the cell density to1 x 106 cells/ml with maintenance culture medium. Add 0.5 ml of cells to each well of the poly-D-lysine-coated 24-well plate. Place the plates in a humidified 37 °C incubator with 5% CO2.Three days after the initial seeding, add 0.5 ml of warm (37 °C) maintenance culture medium to each well.Seven days after initial seeding, cultures will be ready for treatment with vehicle or desirable reagents in treatment medium.",
+    "At the time of treatment, the neuron-glia cultures are made up of ~10% microglia, 50% astrocytes, and 40% neurons of which 2-3% are tyrosine hydroxylase-immunoreactive neurons."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

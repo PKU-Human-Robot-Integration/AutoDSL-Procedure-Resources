@@ -1,0 +1,16 @@
+{
+  "id": 199,
+  "origin_website": "Nature",
+  "title": "Preparation of detergent-solubilized membranes from Escherichia coli",
+  "procedures": [
+    "1. Resuspend the cell pellet from 1 l of E. coli culture in Lysis Buffer \\(20 mM Tris-HCl, pH 8.0, 0.5 mM EDTA). Adapt the buffer volume to your French pressure cell.\n  \n2. Disrupt E. coli cells by passage through a French pressure cell \\(20,000 psi) and remove unbroken cells by centrifugation at 10,000g \\(4˚C, 10 min). \n  \n3. Ultracentrifuge the supernatant at 100,000g \\(4˚C, 1 h).\n  \n4. Resuspend and homogenize the pellet containing the E. coli membranes in Lysis Buffer and ultracentrifuge again.\n  \n5. Remove water-soluble proteins adhering to the membrane by homogenization in 20 mM Tris-HCl, pH 8.0, 300 mM NaCl and ultracentrifugation.\n  \nBreakpoint: Membrane pellet can be resuspended in 1 ml buffer without detergent and stored at -80 °C for months to years prior detergent solubilization.\n6. Resuspend and solubilize the membrane pellet in 1% DDM, 20 mM Tris-HCl, pH 8.0, 300 mM NaCl, 10% glycerol, 0.01% NaN3 for 2 h at 4˚C under gentle agitation \\(final volume: 7 ml).\n  \n7. Ultracentrifuge at 100,000g \\(4˚C, 50 min).\n  \n8. The supernatant represents solubilized membranes, which can be used for purification of the His-tagged protein or SPA-binding experiments directly."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

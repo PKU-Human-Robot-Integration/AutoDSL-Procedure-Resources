@@ -1,0 +1,18 @@
+{
+  "id": 292,
+  "origin_website": "Nature",
+  "title": "Protocol for lentiviral knock down in mouse ES cells",
+  "procedures": [
+    "Note\nIt is important to carefully check the integrity of the shRNA-pLKO DNA for each DNA preparation by restriction enzyme digestion. The reason is that the short hairpin sequence is easily removed from the plasmid by recombination during propagation in DH5alpha cells. Recombination may be avoided by using fresh antibiotics and a limited number of bacterial cell divisions. \nDay 1\n- morning: plate Cos-7 cells in Cos-7 medium at ~40% confluency on 10 cm dishes. 1 dish per transfection. Make sure cells are distributed evenly over the plate.\n- Afternoon: transfect plated Cos-7 cells as follows:\n• Tube 1: Mix 300 ul DMEM low glucose \\(Lonza) with 24 μl Fugene 6 by flicking. Incubate 5 min at RT \n• Tube 2: Mix the following plasmids:\no 2 μg  pRSV-rev\no 2 μg  pMDLg/pRRE\no 2 μg  pMD2.G\no 2 μg  pLKO-short hairpin construct\n• add contents of Tube 1 to Tube 2, mix by flicking, incubate 20-30 min at RT. \n• Add mixture to Cos-7 cells.\nDay 2\n- replace the medium of the transfected Cos-7 cells with 10 ml ES medium/10 cm dish. \n- Plate IB10 ES cells on gelatinized dishes at 4.4 x 10e4 cells/10 cm dish\nDay 3\n- collect viral supernatant from Cos-7 cells using a syringe and filter through 0.45 μm low protein binding filter \\(to remove cells). Add fresh ES medium to the Cos-7 cells. \n- Remove the medium from the IB10 cells\n- Supplement the viral supernatant with 8 μg /ml final concentration polybrene, mix, and add to the IB10 cells. 10 ml undiluted viral supernatant is used to infect 1 x 10 cm dish of IB10 cells. \nDay 4\n- repeat the infection as described for day 3. Add fresh ES medium to the Cos-7 cells. \nDay 5",
+    "- Optional: repeat the infection once more as described for day 3. Discard the Cos-7 cells. \n1-2 days after the last infection: \n- From this point, refresh the medium of the infected IB10 cells every day with ES medium containing 1.8 μg /ml puromycin.\nNote: it is important to asses the condition of the IB10 cells. They should have clearly grown compared to the day of plating \\(day 2), and have formed small colonies. If this is not the case 24 hr after the last infection, it is better to wait an additional day before starting the puromycin selection. \nDay 11\n- analyze the cells for alkaline phosphatase colony staining or RT-qPCR to determine knock down efficiency. \nMedium composition:\nCos-7 medium\n- 500 ml DMEM low glucose \\(Lonza BE12-707F)\n- 55 ml FBS \\(Hyclone cat SV30160.03)\n- 5 ml Penicillin/Streptomycin \\(Lonza cat 17-603E)\n- 5 ml glutamine \\(Lonza cat 17-605E)\nES cell medium\n- 500 ml DMEM high glucose \\(Lonza BE 12-604F)\n- 90 ml FBS \\(Hyclone cat SV30160.03)\n- 6 ml Penicillin/Streptomycin \\(Lonza cat 17-603E)\n- 6 ml Glutamine \\(Lonza cat 17-605E)\n- 6 ml sodium pyruvate \\(Lonza BE 13-115E)\n- 6 ml beta-mercaptoethanol \\(stock: 70 ul of beta mercapotethanol \\(Sigma M-6250) in 100 ml H2O, aliquot and store -20C)\n- 6 ml non essential amino acids \\(lonza 13-114E)\n- 60 ul LIF \\(500 U/ml final) \\(Gibco 13275-029)"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

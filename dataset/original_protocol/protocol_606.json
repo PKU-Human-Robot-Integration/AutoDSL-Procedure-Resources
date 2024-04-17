@@ -1,0 +1,16 @@
+{
+  "id": 643,
+  "origin_website": "Nature",
+  "title": "Cells and Stripes - image analysis software",
+  "procedures": [
+    "1. Copy the TIF files you want to analyze into the 'data' folder.\n  2. Run the 'APos_Segment_and_Track.m' routine.\n  3. Run the 'BPos_Evaluate_Stripes.m' routine."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

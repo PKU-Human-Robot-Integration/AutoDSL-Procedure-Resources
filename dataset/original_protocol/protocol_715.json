@@ -1,0 +1,20 @@
+{
+  "id": 757,
+  "origin_website": "Nature",
+  "title": "Optimized immunofluorescence staining protocol to detect the nucleoporin Nup98 in different subcellular compartments",
+  "procedures": [
+    "**CELL CULTURE**\nCulturing of HeLa cells on poly-lysine coated coverslips has been described previously<sup>12,13</sup>. \n**INDIRECT IMMUNOFLUORESCENCE**\nAll steps are carried out in a humidity chamber.\n**Option 1**\nMethanol/acetone fixation.\n1. Fix in methanol/acetone 1:1 \\(vol/vol) for 30 min at -20 &#xB0;C. All subsequent steps are at room temperature.\n  2. Dry for 15 min and rehydrate with PBS for 15 min.\n  3. Block non-specific binding sites with PBS/2 mg/ml BSA for 1 h.\n  4. Incubate overnight with anti-Nup98 \\(0.5 &#xB5;g/ml) in blocking solution.\n  5. Next day, wash 3 times for 10 min with PBS/2 mg/ml BSA. Incubate 2 h with secondary antibodies \\(2 &#x3BC;g/ml) in blocking solution.\n  6. Wash 3 times for 10 min in blocking solution; incubate with 1 &#x3BC;g/ml DAPI in blocking solution for 2 min.\n  7. Mount specimen in Vectashield and seal with nail polish. \n  \n**Option 2**\nFormaldehyde  fixation.\n1. All steps are carried out at room temperature. Wash once with PBS and fix with 3.7% formaldehyde in PBS for 25 min.\n  2. Rinse with PBS, and then permeabilize with 0.1% Triton X-100 in PBS/2 mg/ml BSA/1 mM NaN<sub>3</sub> for 5 min.\n  3. Block with 0.05% Tween 20 in PBS/2 mg/ml BSA/1 mM NaN<sub>3</sub> \\(blocking solution) for 1 h. \n  4. Incubate overnight with anti-Nup98 \\(0.5 &#xB5;g/ml) in blocking solution.\n  5. Wash 3 times for 10 min with blocking solution, then incubate for 2 h with secondary antibodies \\(2 &#x3BC;g/ml) in blocking solution. \n  6.  Wash 3 times for 10 min with blocking solution, then incubate with 1 &#x3BC;g/ml DAPI in blocking solution for 2 min.\n  7. Mount specimen in Vectashield and seal with nail polish.  \n  \n**Option 3**\nFormaldehyde  fixation.\n1. Wash once with PBS and fix with 4% formaldehyde in PBS for 10 min at room temperature.",
+    "2. Rinse with PBS, then permeabilize with PBS/ 0.2% Triton X-100/2 mg/ml BSA/1 mM NaN<sub>3</sub> on ice for 10 min.  All subsequent steps are carried out at room temperature.\n  3. Block with PBS/0.02% Triton X-100/3% BSA/1 mM NaN<sub>3</sub> \\(blocking solution) for 30 min.\n  4. Incubate with anti-Nup98 \\(2 &#xB5;g/ml) in blocking solution for 30 min.\n  5. Wash 4 times with PBS/0.02% Triton X-100/1.5% BSA/ 1 mM NaN<sub>3</sub>; then incubate with secondary antibodies \\(20 &#x3BC;g/ml) in blocking solution for 30 min.   \n  6.  Wash 4 times with PBS/0.02% Triton X-100/1.5% BSA/ 1 mM NaN<sub>3</sub>. Incubate with 1 &#x3BC;g/ml DAPI in washing solution for 2 min.\n  7. Mount specimen in Vectashield and seal with nail polish.  \n  \n**Option 4**\nFormaldehyde fixation.\nSame as protocol 3 except for the antibody concentrations and incubation periods \\(0.5 &#xB5;g/ml anti-Nup98, overnight incubation) and \\(secondary antibodies 2 &#xB5;g/ml for 2 h).\n**IMAGE ACQUISITION**\nAcquire images by confocal microscopy \\(for example, Zeiss LSM510) using a 63x objective \\(oil, NA = 1.4), pixel resolution of 0.65 &#xB5;m, scan speed 5, four-line averaging<sup>13</sup>.\n**PROCESSING OF IMAGES**\nProcess images with appropriate software such as Adobe Photoshop 8.0."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

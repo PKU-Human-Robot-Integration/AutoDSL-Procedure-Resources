@@ -1,0 +1,15 @@
+{
+  "id": 1089,
+  "origin_website": "Nature",
+  "title": "Detection protein ubiquitination level using immunoprecipitation and western blot methods",
+  "procedures": [
+    "1. 293FT cells were transfected with HA-PD-1, Myc-FBXO38 and V5-Ub constructs for 36 hours and further incubated with MG132 \\(15 uM) for another 4 hours before harvesting.\n  2. Harvest cells and wash it with 1ml PBS .\n  3. Add 100 ul RIPA buffer containing 1% SDS, mix quickly.\n  4. Boil it for 10 minutes to disrupt the interactions between HA-PD-1 and its associated proteins.\n  5. Mix the 100 ul lysates with 900 ul RIPA buffer without SDS to dilute SDS concentration to 0.1%.\n  6. Incubate it at 4 ˚C on rotator for 1 hours.\n  7. Centrifuge \\(15 000 g, 4 ˚C, 15 min) and move the supernatant to a new tube.\n  8. Add protein G agarose beads \\(20 μl) to the supernatant for pre-clearing and incubate at 4 ˚C on rotator for 2 hours.\n  9. Centrifuge \\(500 g, 4 ˚C, 5 min) and move the supernatant to a new tube.\n  10. Add anti-HA \\(H6908, 4 ug/ml) to immunoprecipitate HA-PD-1 and incubate at 4 ˚C overnight on rotator.\n  11. Add Protein G agarose beads \\(30 μl) to the supernatant, incubate at 4 ˚C for 1 h on rotator.\n  12. Wash the beads five times with 1 ml RIPA containing 0.1% SDS, and centrifuge \\(500 g, 4 ˚C, 5 min). \n  13. Remove the buffer, and elute HA-PD-1 by boiling the beads with SDS loading buffer for 10 min.\n  14. Centrifuge \\(500 g, 25 ˚C, 5 min), and apply the supernatant to SDS-polyacrylamide gel. Perform immunoblot."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

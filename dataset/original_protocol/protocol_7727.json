@@ -1,0 +1,15 @@
+{
+  "id": 8130,
+  "origin_website": "Bio",
+  "title": "Isolation of Phagosomes from Dendritic Cells by Using Magnetic Beads",
+  "procedures": [
+    "Detach bone marrow-derived dendritic cells (BMDCs) with 1x PBS-5 mM EDTA (10 min at 37 °C). Wash the cells with PBS twice by centrifugation at 367 x g for 10 min.Resuspend the cells in 15 ml falcon tube (7.5 x 107 cells/750 μl) in CO2 independent medium. Add the magnetic beads (ratio: 6.5 x 105 beads/μl) to the cells. Incubate 20 min in the water bath at 30 °C. Raise the temperature of the water bath to 37 °C and leave the cells for 20 min (pulse).Stop the reaction by adding 10 ml cold-ice 1x PBS-0.1% BSA and centrifuge for 10 min at 340 x g at 4 °C.Repeat step 7 3 times.Resuspend the cells in 3 ml of BMDCs medium and split the cells in 3 falcon tubes of 15 ml (1 ml of cells each).Add 10 ml cold PBS-0.1% BSA fort = 0 (pulse) and leave on ice, put the other tubes at 37 °C for different times (chase, 40 min and 100 min). T = 0 corresponds to early phagosomes (20 min of pulse); t = 60 min correspond to intermediate phagosomes (20 min of pulse + 40 min of chase), t = 120 min correspond to phagolysosomes (20 min of pulse + 100 min of chase). At the end of the chase, centrifuge the cells at 463 x g for 10 min. Now, perform the following steps on ice. Wash the cells in ice-cold HB buffer. Resuspend the cells in 1 ml of HB buffer. Break the cells using a 1 ml syringe and a 22 g needle. You need about 30 flushes to break the cells. Check the broken the cells under a microscope (about 70% of the cells should be dead).",
+    "Transfer the broken cells into cold eppendorf tubes and place the eppendorf tubes on the magnetic stand on ice. Leave 5 min; aspirate the supernatant with a thin tip. Keep the supernatant aside (on ice).Wash the beads carefully with 1 ml PBS-0.1% BSA and repeat 8x step 16. Resuspend the beads in lysis buffer or RIPA buffer (50 μl) and leave on ice for 15 min.Centrifuge at 13,400 x g for 15 min and freeze the supernatant. Phagosomes are ready to use and can be checked for their purity using a panel of antibodies (EEA1 or TfR for early markers, LAMP1 or Rab7 for late markers, see Figure 1). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130712/20130712025654_2577.jpgFigure 1. Phagosomes from BMDCs are purified with magnetic beads after 20, 60 and 120 min. 5 μg of proteins are resolved by SDS-PAGE. Late marker (LAMP1) is visualized by immunoblot."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

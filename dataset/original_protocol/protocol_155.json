@@ -1,0 +1,14 @@
+{
+  "id": 160,
+  "origin_website": "Nature",
+  "title": "Generation of stem/progenitor cultures from mouse lungs",
+  "procedures": [
+    "1. Mechanical disruption of mice lungs passing the homogenates through a 70 &#x3BC;m strainer to obtain single cells. \n  \n2. Plate the cells in DMEM supplemented with 20% FBS and 30 &#x3BC;g/ml Insulin \\(Sigma). Incubate at 37C in a 5% CO<sub>2</sub> atmosphere.\n  3. After 4 h to allow the cells to attach to the plate, FibrOutTM \\(CHISCIENTIFIC) was added to eliminate fibroblasts. \n  4. Keep he cells under these conditions for 2 weeks, changing the media every 3 days and splitting them when needed. \n  5. After that time, the cells are changed to serum free DMEM supplemented with FGF \\(10 ng/ml) and EGF \\(20 ng/ml). \n  6. After 2 or 3 weeks the resulting cell population must be analyzed by flow cytometry. \n  An aliquot of these cells fixed, permeabilized and labeled with SPC and CC-10 antibodies confirming the percentage of the double positive cells \\(SPC+/CC10+). \n7. The remaining cells are to be sorted for Sca-1+/CD45&#x2013;/PECAM&#x2013; using a FACS Aria cytometer \\(BD Bioscience). \n  8. After re-plating, the sorted cells are maintained in serum free media \\(plus FGF and EGF). \n  An aliquot of these cells must be analyzed again by flow cytometry and confirmed to be SPC+/CC10+. Thus, the final population in culture should be SP-C+/CC-10+/Sca1+/CD45&#x2013;/PECAM&#x2013;. \n9. To isolate clones, serial dilutions of the cells were plated in 96 well plates to obtain wells with single cells. Six of these clones obtained can be expanded in serum-free media and then tested for their potential to differentiate. The stem/progenitor cells tend to aggregate when maintained in serum free media, but in the presence of 20% FBS the cells expand to form single cell layers and start differentiating."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

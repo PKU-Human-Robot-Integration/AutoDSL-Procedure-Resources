@@ -1,0 +1,17 @@
+{
+  "id": 249,
+  "origin_website": "Nature",
+  "title": "Evaluation of antigen binding by CD8+ T cells after _in vivo_ treatment with myeloid derived suppressor cells",
+  "procedures": [
+    "Day 1: Isolate T cells from OT-1 mice using T cell enrichment column and transfer 5-6 X 10<sup>6</sup> cells intravenously into CD45.1 mice.\nDay 3. Isolate MDSC from 3 week  tumor-bearing mice \\(EL4 or MC38) using biotin-Gr-1 and streptavidin beads \\(Miltenyi biotech, CA) antibody and  transfer 4-5 X 10<sup>6</sup> cells intravenously into mice which have received OT-1 T cells. Immunize mice with SIINFEKL peptide 100 ug in 100 ul PBS plus 100 ul of incomplete Freund&#x2019;s adjuvant.\nDay 10:\n1. Harvest spleens from mice and prepare a single cell suspension.\n  2. Pellet the cells by centrifugation \\(1700 RPM 5 min) at room temperature \\(RT) and aspirate the supernatant. \n  3. Resuspend the pellet in 5 ml/spleen of ACK Lysis Buffer. \n  4. Incubate at RT for 4-5 minutes with occasional shaking. \n  5. Stop the reaction by adding 40-50 &#x3BC;l of PBS. \n  6. Wash the cells with PBS twice \\(1700 RPM  5 min) at RT.  \n  7. Use Cy5 \\(Molecular probes, OR) labeled SIINKb-Ig and SIYKb-Ig dimers as specific and non-specific MHC-Ig ligands, respectively.\n  8. Prepare a serial dilution \\(2000 nM &#x2013; 12.5 nM) of 20 &#x3BC;l of Cy5 labeled MHC-Ig dimer in a FACS tube.\n  9. Adjust cells to a concentration of 10<sup>7</sup> cells/ml in FACS wash buffer \n  10. Add 10 ul aliquot of cells to the FACS tube with the MHC-Ig dimer.   \n  11. Incubate cells with the MHC-Ig dimers for 60-90 min on ice. \n  12. Without any washing add FITC labeled anti-CD8 and PE labeled anti-CD45.1 antibodies to each aliquot.\n  13. Incubate cells for an additional 20 min on ice and wash two times before flow cytometric analysis.\n  14. Specific MHC-Ig staining is calculated by subtracting the non-specific MHC-Ig staining from the total MHC-Ig staining within the population of CD45.1 negative CD8 positive cells."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

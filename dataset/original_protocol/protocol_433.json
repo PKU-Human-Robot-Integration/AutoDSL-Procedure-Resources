@@ -1,0 +1,17 @@
+{
+  "id": 461,
+  "origin_website": "Nature",
+  "title": "Orthotopic lung epithelial cell transplantation",
+  "procedures": [
+    "1. Influenza Injury: Recipient mice are administered 280 FFU of Influenza A/H1N1/Puerto Rico/8/34 \\(PR8) intra-nasally.  PR8 virus dissolved in 30 μl of PBS is pipetted onto the nostrils of heavily anesthetized mice.  Proper anesthesia can be visually confirmed by agonal breathing and usually requires about 5 minutes in an isoflurane chamber. Properly anesthetized mice will aspirate the fluid directly into their lungs.\n  \n2. Donor cell isolation and transplantation: At 9 days post-infection, isolate donor cells from a ubiquitously fluorophore-expressing mouse, following the Epithelial Cell Isolation protocol.  Ub-GFP and mTmG are particularly useful strains for this.  After sorting, donor cells are resuspended in 50ul sterile PBS.  Recipient mice receive cell solution intranasally, exactly as described above for influenza administration.  After transplantation, we’ve observed that keeping mice in a nose cone with a flow of 100% oxygen can aid in recovery and decrease the chance of accidental death.  We observe engraftment using anywhere between 1,000 to 1 million donor cells.",
+    "3. Tissue Harvest: Endpoint analysis is performed at day 21 post-infection \\(or desired experimental endpoint). Mice are anesthetized and lungs perfused and lavaged three times with 1 ml PBS.  Lungs are inflated with about 0.75 mls of 4% PFA and tied off at the trachea, being careful not to overinflate.  Place lungs in an additional 20 ml of 4% PFA and rock at room temperature for 1 hour.  Decant PFA and rinse with PBS. Decant PBS and replace with fresh PBS and incubate 1-4 hours rocking at room temperature. This allows for the diffusion of remaining PFA inside the lungs to prevent over-fixation. Incubate in 30% sucrose in PBS + 0.02% azide at 4 degrees on a rocker overnight. The following day, decant sucrose solution and replace with 50% OCT / 15% sucrose / PBS for 2 hours at room temp. Pour out the lung and carefully dissect each lobe and trachea apart. Arrange the lungs and trachea in a cryomold containing 100% OCT and incubate on ice for 1 hour. Freeze entire cryomold in a dry ice alcohol bath."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

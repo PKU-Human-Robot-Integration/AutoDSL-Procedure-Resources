@@ -1,0 +1,16 @@
+{
+  "id": 8131,
+  "origin_website": "Bio",
+  "title": "Measurement of Endogenous MALT1 Activity",
+  "procedures": [
+    "To activate MALT1 plate 2.5 x 106 cells (Jurkat T-cells, primary T cells or PBMCs) and either stimulate with PMA/Ionomycin (200 ng/ml and 300 ng/ml final concentrations) in 10 ml of complete RPMI media in 25 cm2 cell culture flasks or with anti-CD3 and anti-CD28 antibodies (1 μg/ml final concentration each) in the presence of anti-IgG1/IgG2a coupling antibodies (0.5 μg/ml each) in 1 ml of complete RPMI media in 12-well for 30 min or treat with solvent (H2O) in the control. Cells with constitutive MALT1 activity (e.g. ABC-DLBCL) can be left untreated.   As a negative control treat the above cells with MALT1 inhibitors, e.g. the tetrapeptide Z-VRPR-FMK (50 μM) or small molecule inhibitors like mepazine (10 μM) 3 - 6 h prior to stimulation and lysis.   All 2.5 x 106 cells per reaction are then pelleted at 300 x g for 5 min.   Removal of supernatant and lysis of the cells with cellular lysis buffer (500 μl) by rotating for 20 min on 4 °C in a 1.5 ml reagent tube.   Centrifugation of the lysates for 10 min at 21,000 x g to remove cell debris.   Incubation of all of the lysate with 700 ng MALT1 antibody over night at 4 °C on a rotary mixer.   Incubation with 15 μl Protein-G sepharose beads (beads were washed and diluted 1:2 in PBS and equilibrated before usage) for 60 min at 4 °C on a rotary mixer.   Beads are pelleted and washed 3 times with PBS at 300 x g for 2 min at 4 °C.   In the last washing step all PBS is discarded via a syringe and 45 μl cleavage buffer is added to the beads.",
+    "The beads are pelleted at 300 x g for 1 min afterwards re-suspended carefully and 49 μl of the suspension (beads and cleavage buffer) are subsequently transferred to one well of a 384-well assay plate.   1 μl of the fluorogenic substrate Ac-LRSR-AMC is then added to the wells in a final concentration of 20 μM and the plates are placed into the plate reader where they are shaked for 10 sec to mix the reagents.   After an incubation of 30 min at 30 °C the release of AMC fluorescence due to MALT1 cleavage is measured at 360 nm excitation and 460 nm emission over a time course of 90 min.   Specificity of MALT1 cleavage activity in vitro can be assessed by adding 5 nM of Z-VRPR-FMK to a separate control reaction (negative control).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130712/20130712191833_1283.jpg Figure 1. Fluorogenic MALT1 cleavage assay. Jurkat T-cells (2.5 x 106) were pre-incubated with Mepazine or DMSO for 4 h and subsequently stimulated with PMA/Ionomycin (P/I) or antiCD3/CD28 for 30 min or left untreated. After lysis of the cells MALT1 was precipitated and the catalytic activity was measured after addition of Ac-LRSR-AMC in a Synergy II plate reader over 60 min at 2 min intervals."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

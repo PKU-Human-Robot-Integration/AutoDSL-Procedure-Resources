@@ -1,0 +1,14 @@
+{
+  "id": 8226,
+  "origin_website": "Bio",
+  "title": "Hydroxyproline Assay Using NaBr/NaOCl",
+  "procedures": [
+    "Prepare dilute sodium hypobromite (NaOBr) from NaOCl, mix equal volumes (a) + (b) (e.g. 5 ml each) (prepare fresh weekly-store at 4 °C).Add 775 μl lab bleach to 10 ml 4% NaOH (fresh weekly).Prepare 100 mM NaBr (1.03 g in 100 ml 4% NaOH) (stable).Add 250 μl aqueous sample to 2 ml screw-cap microtubes (e.g. SARSTEDT AG). Add 500 μl dilute hypobromite to:Analysis samples each in 250 μl distilled water.Hyp standards of 2.5, 5.0, 7.5 and 10 μg, each in 250 μl distilled water.A reagent blank contains reagents plus an additional 250 μl distilled water.Mix and leave for 5 min to oxidize at room temperature.Add 250 μl 6 N HCl.Add 500 μl 5% p.dimethylaminobenzaldehyde in n.propanol (total volume = 1.5 ml).Mix and heat at 70 °C for 15 min, then cool in ice-water.Measure absorbancy of samples and standards at 560 nm against the reagent blank. e.g. 10 μg Hyp → ~680 mAUsConstruct the standard curve and calculate sample values by interpolation."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

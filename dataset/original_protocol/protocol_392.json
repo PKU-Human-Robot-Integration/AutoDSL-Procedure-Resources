@@ -1,0 +1,19 @@
+{
+  "id": 417,
+  "origin_website": "Nature",
+  "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(5) Chromatin immunoprecipitation",
+  "procedures": [
+    "1|  Crosslink protein/DNA by adding 37% \\(54 &#xB5;l) formaldehyde to 2ml of media\n2|  Shake gently to mix and then incubate at room temperature for 10 min.\n3|  Add 10X Glycine solution \\(200 &#xB5;l) to quench unreacted formaldehyde\n4|  Mix gently and incubate at room temperature for 5 min.\n5|  Remove medium and wash with cold PBS \\(2X)\n6|  Add 0.1ml PBS containing protease inhibitor cocktail \n7|  Collect cells, centrifuge at 700xg for 3 min at 4 <sup>o</sup>C and discard supernatant\n8|  Resuspend cell pellet in 200&#x3BC;l lysis buffer containing protease inhibitor cocktail. \n9|  Sonicate cell lysate on ice for 4 second 3 times \n10|  Centrifuge at 14,000 rpm at 4 <sup>0</sup>C for 10 min and transfer supernatant \\(~100 &#x3BC;l) to fresh tube \n11|  Add 900 &#x3BC;l of dilution buffer containing protease inhibitor cocktail\n12|  Add 60 &#x3BC;l of protein G agarose and incubate for 1 hr at 4 0C with rotation\n13|  Centrifuge at 3000g for 1 min and collect supernatant into fresh tube\n14|  Add 4&#x3BC;g of anti STAT1 antibody and incubate overnight at 4 0C with rotation\n15|  Add 60 &#x3BC;l of protein G agarose for 1 hr at 4 <sup>0</sup>C with rotation\n16|  Centrifuge at 3000X g for 1 min and remove supernatant\n17|  Wash pellet with low salt wash buffer, high salt wash buffer, LiCl immune complex wash buffer and finally TE buffer\n18|  Add 100 &#x3BC;l of elution buffer and mix gently\n19|  Incubate at room temperature for 15 min\n20|  Centrifuge at 3000 x g for 1 min and collect supernatant into new tube\n21|  Repeat step 19 to 21 and combine supernatant\n22|  Add 8ul 5M NaCl and incubate at 65 <sup>o</sup>C for 5 hrs \n23|  Add 1ul of RNase A and incubate for 30 min at 37 <sup>o</sup>C",
+    "24|  Add 4ul 0.5M EDTA, 8ul 1M Tris-HCl and 1ul Proteinase K and incubate at 45oC for 2 hrs\n25|  Add 1ml of bind reagent A to each tube and mix well\n26|  Transfer 600 &#x3BC;l of mixture to spin filter in collection tube and centrifuge at 14,000 g for 30 second\n27|  Discard liquid in collection tube and put the spin filter back into same collection tube\n28|  Transfer the remaining 600 &#x3BC;l of mixture to spin filter and centrifuge at 14,000 g for 30 second\n29|  Remove the liquid in collection tube and add 500 &#x3BC;l of wash reagent B to the spin filter in collection tube\n30|  Put the spin filter into new collection tube and add 50 &#x3BC;l of elution buffer to the spin filter\n31|  Centrifuge at 14,000 x g for 30 second and save eluate for PCR"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics",
+    "Biotechnology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

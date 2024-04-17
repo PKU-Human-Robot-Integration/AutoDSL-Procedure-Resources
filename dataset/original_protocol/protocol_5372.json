@@ -1,0 +1,16 @@
+{
+  "id": 5703,
+  "origin_website": "Bio",
+  "title": "GUS Staining of Guard Cells to Identify Localised Guard Cell Gene Expression",
+  "procedures": [
+    "Arabidopsis plants were grown according to Arabidopsis growing guide http://www.bio-protocol.org/e126[href=http://www.bio-protocol.org/e126].Harvest the fully expanded rosette leaves from 3-4 week-old plants, and peel the epidermal strips from the abaxial surface of the leaf (Figure 1A), remove the mesophyll tissue from the strips with a brush pen (Figure 1B). Epidermal strips or leaf are then immersed in 1.5 ml Eppendorf tubes with GUS staining solution (see Recipes), and keep the tubes in an incubator at 37 °C under darkness for 16-20 h.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170718/20170718025813_5938.jpgFigure 1. Images show the peeling of the epidermis from the abaxial surface of leaf (A) and removing the mesophyll tissue from epidermal strip by a brush pen (B)Replace the supernatant with 1 ml 100% ethanol and incubate for 30 min, repeat this step for 2 times.Replace the supernatant with 1 ml 75% ethanol, and incubate for 5 min.Replace the supernatant with 1 ml 20% methanol in 0.24 N hydrochloric acid, and incubate at 37 °C for 15 min.Replace the supernatant with 1 ml 60% ethanol in 7% sodium hydroxide, and incubate for 15 min.Replace the supernatant with 1 ml 40% ethanol, and incubate for 5 min; replace the supernatant with 20%, 10% and 5% ethanol gradually each for 5 min. After all these steps, the leaf tissue will turn to white, and keep the samples in 5% ethanol.Put one drop of 50% glycerol on the slide, and place the samples in the glycerol solution; put the cover glass on the samples.Observe the samples under a microscope and take pictures:Switch on the light source of the microscope, and rotate the nosepiece to the lowest-power objective. Place the slide on the stage of the microscope, and move the slide to center the specimen under the lens.Adjust the large coarse focus knob until the specimen is in focus.",
+    "Scan the slide at low power objective (4x or 10x objective), center the part of the specimen that one wants to view, and then rotate the nosepiece to the 20x or 40x objective. Adjust the small fine focus knob until the cells are in focus, and adjust the diaphragm until the cells have clear and sharp contrast.Take a picture with the CCD."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

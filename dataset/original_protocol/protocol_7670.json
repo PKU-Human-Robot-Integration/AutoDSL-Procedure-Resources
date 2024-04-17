@@ -1,0 +1,17 @@
+{
+  "id": 8073,
+  "origin_website": "Bio",
+  "title": "Cell Isolation of Spleen Mononuclear Cells",
+  "procedures": [
+    "B-cells, total T cells and/or single positive CD4+ and CD8+ T cells, were purified from spleen cells by magnetic separation with the Mini-MACS system [Miltenyi, 1990] (http://www.miltenyibiotec.com[href=http://www.miltenyibiotec.com]). The scheme illustrates how to manage the procedure.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130422/20130422045220_1966.jpg Figure 1. Schematic view of the experimental strategy using magnetic MACS beads to isolate CD4+ cells. Cells were incubated with CD4-,CD8-,CD90- and CD43-antibody conjugated magnetic beads. The cell suspensions were subjected to column selection and placed in the magnetic separator. Flow-through was discarded. Then the column was washed with separation puffer to increase purity and removed afterwards from the magnetic separator. With a plunger the magnetically labelled cells were flushed out of the column.     Sacrifice mouse and isolate the complete spleen.    Pass spleen through a 100-μm cell strainer to get single cells suspension by crushing with forceps and collecting the cell suspension in 5 ml PBS.   Wash with 1x PBS & centrifuge the cells (100 x g for 5 min), then resuspend spleen cells in 80 μl ice-cold separation buffer per 107 cells. From a normal spleen you will get approximately 8 x 107 cells. The overall operation temperature is room temperature. The buffers should be ice cold.   Add a 20 μl aliquot of antibody-conjugated microbeads per 107 cells incubate for 30 min at 4-8 °C at a shaker. No prewash is needed. The number of cells is depending from the animal. The following microbeads were used: anti-CD43 microbeads for negative isolation of resting B cells, anti-CD90 microbeads for positive isolation of total T cells, anti-CD4 and anti-CD8 microbeads for positive isolation of the respective T-cell subset.    Wash the column by putting 5 ml 1x PBS on the top. The liquid passes the column by gravity.",
+    "Then pipette the labelled cell suspension on top of a separation column, which had been washed three times with separation buffer and placed in the MiniMACS separation unit. Pass the suspension through the column.    In case of negative selection of CD43- B cells the effluent was collected as a B-cell fraction and washed respectively centrifuged three times with 5 ml PBS.  In case of positive selection of CD90+, CD4+ or CD8+ T-cells the effluent was discarded and the columns were washed twice with 500 μl separation buffer. Subsequently, remove columns from the separator and wash magnetically labelled cells out with 1 ml separation buffer using a plunger.    Wash the respective T-cell fraction three times with medium same as B-cells   Assess the purity of the various cell fractions by Flow cytometry analysis using a Flow cytometer. Stain cells with fluorescein isothiocyanate (FITC)-conjugated anti-CD3 (clone 145-2C11 to detect total T-cells), phycoerythrin (PE)-conjugated anti-CD19 (clone 1D3 to detect B-cells), FITC-conjugated anti-CD4 (clone RM4-5 to detect CD4+ T-cells) and PE-conjugated anti-CD8 (clone 53-6.7 to detect CD8+ T-cells) and analyse for positive cells according to standard procedures."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

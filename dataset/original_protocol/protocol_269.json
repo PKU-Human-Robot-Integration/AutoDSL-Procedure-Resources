@@ -1,0 +1,17 @@
+{
+  "id": 284,
+  "origin_website": "Nature",
+  "title": "Synthesis and Engineering of Functional Graphene Films for Matrix-Free LDI Mass Spectrometry Detection",
+  "procedures": [
+    "1. Oxidation of graphite\n  a. concentrated sulphuric acid \\(87.5 mL) and fuming nitric acid \\(45 mL) were mixed and cooled in an ice-water bath.\nb. 5.0 g of graphite was added and dispersed undering stirring.\nc. 55 g of KClO3 was added very slowly with a period longer than 15 min into the mixture. It’s noted that all the operations were carried out very carefully in a fume hood to reduce the risk of explosion due to the release of chlorine dioxide gas.\nd. The mixture was poured into 4 L of water, completely filtered and washed to obtain graphite oxides, after stirring for 96 h at room temperature.\n2. Exfoliation of graphite oxide\n  a. 150 ml of ethylene glycol, 75 ml of water and 75 ml of PEG-2000 were mixed together.\nb. 0.30 g of graphite oxide was dispersed in the above solution.\nc. The mixture was sonicated for 2 hours to form a homogeneous graphene oxide suspension.\n3. Reduction of graphene oxide\n  The whole suspension was transferred into a Teflon-lined stainless steel autoclave and reacted to perform solvent thermal reduction of graphene oxide to graphene sheets at 180 ºC for 24 hours.\n4. Preparation of graphene film\n  a. 50 mL of reacted mixture was filtrated using commercial vacuum filtration device and dried for 24 h at room temperature to form the film product. \nb.The as-made film was carefully removed from the filtration device to avoid potential damage.\n5. Engineering of graphene film\n  a. The free-standing graphene film from previous step \\(Figure 1a) was place on the commercial MALDI plate from Bruker for further laser engineering.",
+    "b. The pulsed nitrogen laser with wavelength of 337 nm \\(200 Hz) was used in the Bruker Autoflex III MS chamber. The imaging mode was employed for the laser engineering \\(Figure 1b), where the spot-to-spot distance is set to be 30 µm and 500 shots were taken at each spot. The laser intensity was set to be 50% \\(about 121.8 µJ for 100%). \n6. Deposition of the analytes \n  a. Diluted analytes solutions were prepared in a step-wise manner. The solution should be stocked in -20 ºC fridge before use.\nb. 0.4 µL of analytes was taken and deposited on the engineered area for drying. Larger amounts of analytes were applicable. \n7. Matrix-free LDI MS detection\n  a. Mass spectra were obtained in the RP-HPC-Proteomics mode via an accumulation of 500 laser shots under a laser intensity of 36% for data collection.\nb. Standard analytes should be used for molecular weight calibration. Two standard peptides, Angiotensin II \\(M.W. 1046.5) and ACTH-Clip \\(M.W. 2465.7), were used for calibration to reduce variability."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

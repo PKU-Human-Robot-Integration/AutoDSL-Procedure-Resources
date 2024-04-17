@@ -1,0 +1,17 @@
+{
+  "id": 87,
+  "origin_website": "Nature",
+  "title": "Genotyping of the VNTR polymorphism in the exon 4 of the L-SIGN gene and its negative association with the risk of SARS coronavirus infection",
+  "procedures": [
+    "**A. Blood collection and DNA preparation**\n1. Rigorously select case-control samples. The case-control population contain unrelated adults recruited from outpatient clinics and hospitals.\n  2. Collect 5ml blood by standard venipuncture into a tube with 40 &#x3BC;l EDTANa2 \\(10 mM) for each participant.\n  3. Extract genomic DNA from 5 ml whole blood using standard phenol/chloroform method.\n  4. Determine DNA concentration using a spectrophotometer.\n  5. Dilute DNA samples to 10 ng/&#x3BC;l and distribute them to 96-well plates.\n  \n**B. Polymorphism genotyping**\n6. Analyze the VNTR polymorphism by PCR in the case-control populations in a blind manner.\n  7. The PCR reaction was carried out at 94&#xBA;C for 2 min, 32 cycles of denaturing at 94&#xBA;C for 30 s, annealing at 56.5&#xBA;C for 30 s and extension at 72&#xBA;C for 40 s, and final extension at 72&#xBA;C for 10 min, using a forward primer 5&#x2019;-CTTTTCTTCTTGGCCCAGTGT-3&#x2019; and a reverse primer 5&#x2019;-CTCAGGCAGGGTTGGTAACTC-3&#x2019; in a reaction mixture of 15 &#x3BC;l containing 10~20 ng genomic DNA, 0.25 mM dNTPs, 1.5 mM MgCl2, 200 pM of each primer and 1 unit \\(U) Ex Taq DNA polymerase \\(TaKaRa, Otsu, Shiga).\n  8. Separate the amplified products by 2% agarose gel electrophoresis.\n  9. Determine the length of alleles using marker standards and express genotypes as the number-of-repeat combinations.\n  10. Validate the accuracy of genotyping data for the VNTR polymorphism by resequencing 15% masked, random samples of patients and controls.\n  \n**C. Statistical analysis**",
+    "11. The allele and genotype frequencies for the polymorphism can be determined by direct gene counting. The fitness to Hardy-Weinberg equilibrium can be tested by using the Markov chain method implemented in the GENEPOP software package \\(available at: \"http://wbiomed.curtin.edu.au/genepop/\":http://wbiomed.curtin.edu.au/genepop/). Comparisons of sex distribution between patient and control groups can be performed by use of the Chi-square test. Differences of mean age between the groups can be analyzed by use of an unpaired t test. Comparison of allele or genotype frequencies can be done using the CLUMP program \\(available at: \"http://www.mds.qmw.ac.uk/statgen/dcurtis/software\":http://www.mds.qmw.ac.uk/statgen/dcurtis/software). Genetic association for heterozygote and homozygote genotype with the SARS risk can be assessed by use of logistic regression using SPSS software \\(version 9.0; SPSS Inc., Chicago, IL), and the odds ratio \\(OR) and 95% confidential interval \\(c.i.) can be calculated and adjusted for age and gender, where appropriate. An association can be considered significant at a P value of less than 0.05, and all statistical tests should be two-sided."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

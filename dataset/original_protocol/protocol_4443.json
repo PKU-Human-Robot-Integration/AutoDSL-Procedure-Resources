@@ -1,0 +1,17 @@
+{
+  "id": 4677,
+  "origin_website": "Bio",
+  "title": "A Protocol to Measure the Cytoplasmic Calcium in <em>Arabidopsis</em> Guard Cells",
+  "procedures": [
+    "Sample preparation   Seeds of Arabidopsis thaliana were surface-sterilized by soaking in 75% ethanol for 3 min and 2% sodium hypochlorite for 10 min. The seeds were washed for 3 to 5 times with sterile distilled water, and then were placed on MS medium (1% agar). Arabidopsis seedlings were grown in a growth chamber at 160 μmol/m2/s light intensity and 14/10 h (24/21 °C) day/night regimes. The cotyledons of 7-day-old seedlings were cut from the plants and used for experiments.   The cotyledons were incubated with epidermal buffer at 24 °C for 2 h in growth chamber (160 μmol/m2/s light intensity) to induce stomatal opening prior to various treatments.   The samples were then incubated in 10 μM fluo-3 AM loading buffer (diluted from 5 mM stock solution in 10 mM MES-KOH pH 6.1) for 2 h at 4 °C in darkness. Higher concentration of fluo-3 AM at room temperature for incubation may result in false positive signals from other ions, for example Mn2+, Zn2+ and Pb2+.   The samples were rinsed with loading buffer for 3 times to remove fluo-3 AM and were kept in growth chamber (24 °C) for 1 h before ABA or PA addition.    For ABA or PA treatment, the cotyledons were incubated with 10 μM ABA or 50 μM PA working solution, and observed by the confocal laser scanning microscope.      [Ca2+]cyt imaging    [Ca2+]cyt imaging was performed with a 488 nm excitation and a 510-545 nm emission filter to record [Ca2+]cyt images. Increases in [Ca2+]cyt occurred after ABA or PA addition. Fluorescence intensity of Fluo-3 dye increases when bound to [Ca2+] in the cytosol. The Kd of Fluo-3 for calcium is 325 nM. Fluo-3 can also detect calcium near the chloroplasts membrane and plasma membrane, and display higher fluorescence in cytosol because of higher concentration of calcium.",
+    "Changes in [Ca2+]cyt were visualized in pseudocolour as indicated by the color bars. The color bar showed the pixel intensity as the arrow indicated (Figure 1).   The imaging parameters were as follows: Plan-Apochromat 10×/0.45 M27 objective, image dimension 1,024 x 1,024, pinhole 3 Airy unit, scanning speed 1936.28 ms. The images were acquired at the time indicated. Fluorescence pixel intensity values in guard cells were measured using the Zeiss confocal software ZEN 2012 (blue edition). The pixel intensity value of background is about 4.5 for subtraction. Please note that the laser power, gain, offset, zoom, scan speed, etc. should not be changed across experimental conditions if using intensity to distinguish phenotype. Set values at the brightest sample and continue imaging with same conditions to get an appropriate dataset. If the fluorescence is high enough, it can be performed with a fluorescence scope. The confocal scanning will be more sensitive and reproducible."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

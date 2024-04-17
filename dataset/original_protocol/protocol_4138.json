@@ -1,0 +1,15 @@
+{
+  "id": 4344,
+  "origin_website": "Bio",
+  "title": "Quantification of Anthocyanin Content",
+  "procedures": [
+    "Add bleach solution to Arabidopsis thaliana seeds and shake gently for 7 min.    Rinse three to five times with sterile dH2O.   Sow surface-sterilized seeds on modified MS medium.   Grow the plants under long day (16 h light/8 h dark) or continuous light condition (50~70 µmol/m2/s) at 22 °C for 7~10 days.   Measure fresh weight of 10~15 seedlings. Note: Remove surface moisture with paper towel before measurement.   Freeze seedlings with liquid nitrogen and grind in a mortar and pestle.   Add 5 volumes (based on fresh weight) of extraction buffer and mix thoroughly.   Centrifuge at 12,000 x g for 5 min at room temperature.   Transfer supernatant to new tube.   Centrifuge at 12,000 x g for 5 min at room temperature.   Transfer supernatant to new tube.   Measure absorbances at 530 and 637 nm.   Calculate anthocyanin content (Abs530/g F.W.) by [Abs530 - (0.25 x Abs657)] x 5. Note: To correct contribution of chlorophyll to the absorbances at 530 nm, the formula Abs530 - (0.25 x Abs657) was used. Multiplication of “5” can be changed depending on volumes of added extraction buffer in step 5. For example, if 10 volumes of extraction buffer was added, multiply “10”."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

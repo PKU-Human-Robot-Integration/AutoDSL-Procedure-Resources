@@ -1,0 +1,15 @@
+{
+  "id": 6511,
+  "origin_website": "Bio",
+  "title": "Measurement of Airway Responsiveness on Vigil and Unrestrained Mouse",
+  "procedures": [
+    "Turn the plethysmograph system on, and wait for 15 min to let the airflow and signal be stable.   Control the permeability of each pneumotachograph, and change it for a new pneumotachograph if the permeability is altered.   Control the dryness of the drierite; dry drierite is blue and turns pink in the presence of humidity. Drierite has to be changed regularly.   Control functionality of each ventilation pump in the plethysmograph system; each ventilation pump must be regulated to 0.8 L per minute. Check the balls in each flowmeter: All balls have to be perfectly mobile, and show no sign of oxidation (these 3 controls have to be performed before each experiment).   Turn on the IOX software (delivered with the plethysmograph system).   Proceed to calibration of each functional plethysmograph chamber.   Place the animals carefully into each plethysmograph chamber.   Wait for thirty minutes for the animals to become quiet and calm in the plethysmograph chamber.   Begin the measurement session.   Add saline to the nebulizer, start the first nebulisation (30 sec) and record the enhanced pause (PenH) during 20 min.   Add 0.05 M Methacholine solution, nebulize for 30 sec and record PenH (20 min).   Add 0.1 M Methacholine solution, nebulize for 30 sec and record PenH (20 min).   Add 0.2 M Methacholine solution, nebulize for 30 sec and record PenH (20 min).   Add 0.3 M Methacholine solution, nebulize for 30 sec and record PenH (20 min).   Save data.   Turn off the database (IOX software) and the computer.   Remove each mouse from each chamber.   Clean all devices.   Proceed to data analysis. Use the Datanalyst software (delivered with the plethysmograph system) for data collected by the IOX software.",
+    "The mean PenH of the data measured during 5 min around the peak PenH is used for each dose of methacholine (as shown by the arrows and dotted lines on the Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130127/20130127050250_4067.jpg Figure 1."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

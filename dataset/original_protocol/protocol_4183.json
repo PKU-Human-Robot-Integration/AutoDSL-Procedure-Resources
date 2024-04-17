@@ -1,0 +1,16 @@
+{
+  "id": 4390,
+  "origin_website": "Bio",
+  "title": "Protocol for Macrophage Depletion from Mice ",
+  "procedures": [
+    "Twenty, 8-week-old mice were randomly divided into two groups.    One group of mice were intravenously injected t using 1-ml syringe with 26 G 1/2 needles, twice per week with clodronate-loaded liposomes in 150 µl for the first month and 100 µl following the first month’s injection to reduce possible side effects, such as infection, live toxicity et al. The mice were treated for 3 months totally.   The second group was treated with PBS-liposomes.    At different time points (such as 2, 4, 8 weeks after treatments) of the experiment, one or two mice from each group will be euthanized to examine inflammation and other interesting analysis. Based on our experiments, the FACS analysis detected around 90% of macrophage reduction in the group that treated with the clodronate-loaded liposomes versus the control group after 2 weeks treatment, and this reduction kept to the end of the experiments.   During the whole treatment period, the treated mice need to be closely monitored for the possible signs and symptoms such as weight loss, yellow, bloody, or tar-colored stool, dark urine color, diarrhea, fatigue etc.    At the end of the experiment, (depend on the experiment), the mice were euthanized and the lung tissues were collected for various analyses."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

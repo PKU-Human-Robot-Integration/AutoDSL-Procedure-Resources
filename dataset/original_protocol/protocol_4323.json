@@ -1,0 +1,14 @@
+{
+  "id": 4539,
+  "origin_website": "Bio",
+  "title": "Analysis of Intestinal Permeability in Mice",
+  "procedures": [
+    "On day 1, in the evening remove water bottles from the cages to water starve the mice overnight.On day 2, in the morning weight the mice.Dissolve FITC-dextran in PBS at a concentration of 100 mg/ml and administer FITC-dextran to each mouse (44 mg/100 g body weight) by oral gavage with a needle attached to a 1 ml syringe. The procedure for oral gavage is described elsewhere (Bertola et al., 2013). A gap of 30 min between each mouse is recommended for the FITC-dextran oral gavage (see Notes).After 4 h, anesthetize the mice by isoflurane inhalation and collect the blood using a 1 ml syringe with 25 G needle by cardiac puncture, then kill the mice by cervical dislocation. Isoflurane is delivered at a concentration of 4% in oxygen using a precision vaporizer for the initial induction and then is maintained at 3% during the blood collection. Typically, we collect 300-400 μl of blood in order to get enough serum for the next step. Immediately, transfer blood to a Microtainer SST tube, mix by inverting the tube 3-4 times and store at 4 °C in in the dark. Once blood has been collected from all the mice, SST tubes are processed to separate the serum following the manufacturer’s instruction.Dilute the serum with an equal volume of PBS.Add 100 μl of diluted serum to a 96-well microplate in duplicate.Determine the concentration of FITC in serum by spectrophoto fluorometry with an excitation of 485 nm (20 nm band width) and an emission wavelength of 528 nm (20 nm band width) using as standard serially diluted FITC-dextran (0, 125, 250, 500, 1,000, 2,000, 4,000, 6,000, 8,000 ng/ml) (Figure 1). Serum from mice not administered with FITC-dextran is used to determine the background."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

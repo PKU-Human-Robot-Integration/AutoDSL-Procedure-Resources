@@ -1,0 +1,16 @@
+{
+  "id": 1421,
+  "origin_website": "Nature",
+  "title": "<p>Dephosphorylation of epitopes in murine skin sections</p>",
+  "procedures": [
+    "<p><u>Deparaffinization</u></p><p>Deparaffinize the tissue sections from adult murine skin by submerging the sections in the following alcohol row: xylol for 5 minutes, fresh xylol in a different container for 5 minutes, isopropanol for 5 minutes, 96% ethanol for 5 minutes, 75% ethanol for 5minutes, 50% ethanol for 5 minutes, and H<sub>2</sub>O for 5 minutes.</p><p><br></p><p><u>Antigen retrieval</u></p><p>Retrieve the epitopes by boiling the sections in Dako Antigen Retrieval Agent pH9 (Dako) for 20 minutes inside a boiling cuvette in a pressure cooker.</p><p>Allow slides to cool down within the retrieval solution for 1h at room temperature and then wash twice with PBS<sup>++</sup>. </p><p><br></p><p><br></p><p><u>Epitope dephosphorylation</u></p><p>Delimit the tissue sections with a fat pen (Dako pen).</p><p>Incubate tissue sections with 25U Antarctic Phosphatase in AP buffer, or with AP buffer only (vehicle control) for 2 hours at 37°C in a humidified chamber.</p><p><br></p><p><u>Blocking</u></p><p>Block unspecific binding sites with 5% BSA in PBS<sup>++</sup> for 1h at room temperature in a humidified chamber. Ensure that the blocking solution covers the entire tissue section.</p><p>Proceed with standard immunostaining protocols.</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

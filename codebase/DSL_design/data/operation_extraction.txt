@@ -1,0 +1,7 @@
+I need you to help me analyze this experimental procedure converted into imperative sentences. What would be the verb placed at the beginning of the sentence?
+Please note: 
+1. Only need to output one English verb word, such as "CLEAN"
+2. Please retain the core actions of the experimental procedure.
+3. If this experimental procedure serves as a description and there are no actual executable actions, please output 'NONE'.
+The experimental procedure is as follows:
+------

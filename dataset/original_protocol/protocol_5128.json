@@ -1,0 +1,16 @@
+{
+  "id": 5451,
+  "origin_website": "Bio",
+  "title": "Gliding Assay to Analyze Microtubule-based Motor Protein Dynamics",
+  "procedures": [
+    "Polarity marked microtubulesMake bright GMPCPP seed, which serves as a ‘primer’ for microtubule polymerization as well as an indicator of the microtubule minus-end.Make a 10 mg/ml solution of tubulin by dissolving 250 µg of tubulin into 25 µl of BRB80.Make a 10 mg/ml solution of rhodamine tubulin by dissolving 20 µg into 2 µl of BRB80.Mix 4 µl of the 10 mg/ml tubulin solution, 2 µl of the10 mg/ml rhodamine tubulin solution, 18 µl of BRB80, 3 µl of 10 mM DTT, and 3 µl 10 mM GMPCPP. Store mix on ice.Centrifuge at 410,000 x g for 7 min at 4 °C.Take out 3 µl of bright seed mix supernatant and incubate in water bath at 37 °C for 15 min.Make N-ethylmaleimide tubulinMake a 10 mg/ml tubulin solution on ice (see step A1a).Make a fresh 1 mM N-ethylmaleimide (NEM) solution. Add 0.5 μl 50 mM NEM to 25 μl 10 mg/ml tubulin. Let the solution sit at room temperature for 5 min.Add 0.5 µl of 1 M DTT to 25 µl NEM-tubulin solution. Let the solution sit on ice for 30 min.Centrifuge NEM-tubulin solution at 350,000 x g for 15 min at 4 °C. Collect the supernatant.Measure the concentration of supernatant with NanoDrop at 280 nm absorbance.Make dim elongation mixTo make 10 μl elongation mix:1.34 μl unlabeled tubulin (10 mg/ml) 0.17 μl rhodamine tubulin (10 mg/ml) 3 μl NEM-tubulin (4 mg/ml) 1 μl 10 mM DTT (diluted 1 M DTT into 10 mM DTT first)0.2 μl 50 mM GTP4.29 μl 1x BRB80 Incubate the mix in water bath at 37 °C for 1 min.Make polarity marked microtubules.Add 2 µl of bright seed mix to 10 µl dim elongation mix and gently mix.",
+    "Incubate the solution in water bath at 37 °C for 30 min, and add taxol stepwise to 10 µM final solution. Store the microtubules at room temperature and protect from light.Gliding assayMake glass chamberAcid wash coverslips (22 x 22 mm) with HCl for 24 h and rinse with ddH2O for 10 min each, 3 times. Air dry the coverslips for 24 h.Attach the coverslip to a glass slide (75 x 25 mm) using two pieces of double-sided tape on the top and bottom. There should be open slits on both sides (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170327/20170327223451_7737.jpgFigure 1. Illustration of glass slide chamber using double-sided tapeFlow in 25 µl of 1 mg/ml casein into the chamber and let it sit for 5 min. Casein serves as a cushion to anchor motor proteins.Wash out the unbinding casein with 3 x 20 µl buffer L.Flow in 10-100 nM purified motor protein (in buffer L), and let it sit for 5 min. Full-length kinesin motor proteins are expressed and purified from baculoviral expression system.Wash out unbinding proteins with 3 x 20 µl buffer L.Flow in 25 µl polarity marked microtubules at a 1/250 dilution into the chamber.For 100 µl volume, mix 95.4 µl buffer L, 1 µl 100 mM ATP, 1 µl 1 mM taxol, 2 µl anti-fade, 0.2 µl 1 M DTT, and 0.4 µl MT’s. Observe microtubule motility under fluorescence microscope (Nikon E600, excitation wavelength, 547 nm; emission wavelength, 576 nm. Also, see following Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Example of microtubule gliding assay"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

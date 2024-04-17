@@ -1,0 +1,16 @@
+{
+  "id": 4342,
+  "origin_website": "Bio",
+  "title": "Seed Coat Ruthenium Red Staining Assay",
+  "procedures": [
+    "Place ~20 seeds in a clean (but not necessarily sterile) microfuge tube.   Add 800 μl dH2O or 50 mM EDTA. Shake vigorously (~400 rpm) on an orbital shaker for 2 h at room temperature to hydrate, and therefore release the mucilage from the epidermal seed coat (see Note 6).   Remove as much of the first solution as possible with a pipet or an aspirator and replace with 800 μl of 0.01% ruthenium red solution.   Shake vigorously (~400 rpm) on an orbital shaker for 1 h at room temperature.   Remove the ruthenium red solution and replace with dH2O.   Observe the seeds, mounted in water, under a dissecting microscope in a white porcelin depression plate, or on a clean depression slide under a compound microscope.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140328/20140328225732_3013.jpg Figure 1. Mucilage staining of WT and echidna mutant seeds incubated in EDTA and ruthenium red solution (Gendre et al., 2013). Wild-type seeds hydrated and stained with ruthenium red display a ‘halo’ of stained mucilage around the seed. This halo was almost completely absent in echidna seeds indicating a putative defect in mucilage biosynthesis, secretion, or release."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1141,
+  "origin_website": "Nature",
+  "title": "Combination of chemical cross-linking and pull-down assay to study transient protein-protein interactions",
+  "procedures": [
+    "**Crosslinking and His-tag pull-down.**\n1. Grow 200 ml yeast cells expressing V5-His6 tagged protein in YPG \\(yeast extract/peptone/galactose) to A<sub>600</sub> of approximately 0.6. After UV \\(100 J/m2) or mock treatment, incubate cells at 30 &#xB0;C in the dark \\(to prevent photoactivation repair of UV lesions by photolyase \\(5)) for one hour. \n  2. Add formaldehyde directly to the culture to 1% \\(final concentration). After incubation for 20 min at room temperature, quench cross-linking by addition of 0.5 M glycine \\(final concentration). \n  3. Harvest cells, wash with cold Tris-buffered saline followed by cold lysis buffer \\(50 mM HEPES-KOH, pH 7.5, 10 mM MgCl<sub>2</sub>, 200 mM KCl, 0.1 mM EDTA, 10% glycerol and 1% Triton X-100). Resuspend approximately 0.5 ml yeast cells in 1 ml of lysis buffer containing 1 mM phenylmethylsulfonyl fluoride and protease inhibitor mixture \\(Roche). \n  4. Disrupt the cells by votexing in the presence of 0.5 ml glass beads. Sonicate the lysate \\(the average size of DNA fragments should be less than 1 kb) and centrifuge for 20 min at 10,000 g. \n  5. For each His-tag pull-down reaction, incubate 0.5 ml cell-free extracts \\(approximately 20 mg/ml protein) and 0.1 ml Ni-NTA-Agarose beads \\(Qiagen) overnight at 4 &#xB0;C. Transfer the beads to a 2 ml tube and wash three times with 1.5 ml lysis buffer, three times with 1.5 ml of the same buffer but with 20 mM imidazol and twice with 1.5 ml of TE \\(10 mM Tris-HCl, pH 8.0, 1 mM EDTA).",
+    "6. Transfer the beads to a 1.5 ml microcentrifuge tube with TE and pellet. Add SDS-PAGE sample buffer \\(2x, 0.1 ml) and cross-links reversed by boiling for 20 min. Analyze samples by Western blotting using antibodies specific for DNA repair proteins Rad4 and Rad23 \\(6). Strip the PVDF membrane and reprobe with V5 antibody \\(Invitrogen).  Use the detected Snf6-V5His6 and/or LacZ-V5His6 as loading controls.\n  \n**Confirmation of protein-protein interactions by a reciprocal experiment.**\n7. In this experiment, yeast cells expressing tandem affinity purification \\(TAP)-tagged Rad4 from its native promoter are used to purify Rad4-TAP. Putative association of SWI/SNF subunits with Rad4-TAP is then examined. Yeast culture, crosslinking and extracts preparation are performed as described in steps 1-4. To purify TAP-tagged Rad4, incubate Human IgG-Agarose beads \\(0.1 ml, sigma) with 0.5 ml cell-free extracts overnight at 4 &#xB0;C. Transfer the beads to a 2 ml tube and wash three times with 1.5 ml lysis buffer and twice with 1.5 ml of TE \\(10 mM Tris-HCl, pH 8.0, 1 mM EDTA). Reverse crosslinks and analyze proteins as described in step 6. \n  \n**DNase I digestion to disrupt interactions bridged by DNA.**\n8. Pull-down materials from step 5 can be treated by DNase I to examine if the putative protein-protein interactions were mediated by DNA. Recall that formaldehyde, commonly used in chromatin immunoprecipitation, produces both protein-protein and DNA-protein crosslinks. To perform DNase I digestion, resuspend 0.01 ml washed Ni-NTA-Agarose beads from step 5 in 0.2 ml 1X DNase I buffer and treat with 5 units of DNase I \\(New England Biolabs) for 3 hours at 37 &#xB0;C. Wash beads twice with 1.5 ml of TE \\(10 mM Tris-HCl, pH 8.0, 1 mM EDTA). For protein analysis and reversal of crosslinks, see step 6. \n  \n**His-tag pull-down in the presence of ethidium bromide to confirm protein-protein interactions**",
+    "9. To pull-down proteins without formaldehyde cross-linking, omit step 2 and prepare yeast extracts. Incubate cell-free extracts \\(0.5 ml, approximately 20 mg/ml protein) and 0.1 ml Ni-NTA-Agarose beads \\(Qiagen) overnight at 4 &#xB0;C in the presence of various amount of ethidium bromide \\(from 0.05 to 0.5 mg/ml; Note that EtBr disrupts DNA-protein interactions \\(7)). Wash Ni-NTA-agarose beads gently three times with the following buffer: 25 mM HEPES-KOH, pH 7.5, 50 \\(or 200) mM KCl, 10% glycerol). For protein analysis and reversal of crosslinks, see step 6."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Molecular Biology",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

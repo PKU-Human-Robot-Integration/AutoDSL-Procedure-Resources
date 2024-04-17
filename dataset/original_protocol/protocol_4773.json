@@ -1,0 +1,16 @@
+{
+  "id": 5075,
+  "origin_website": "Bio",
+  "title": "Positional Analysis of Fatty Acids in Phospholipids by PLA<sub>2</sub> Treatment",
+  "procedures": [
+    "Total plant lipids were reconstituted by chloroform and the amount of lipids corresponding to 0.2 mg dry weight were aliquoted in glass tubes. Same amount of untreated lipid samples will be used as controls in step 9.Lipids were dried in the nitrogen evaporator thoroughly (>30 min), mild heating (<50 °C) may be used to accelerate the process.Dried lipids were hydrated in 500 µl reaction buffer at room temperature for >10 min, followed by sonication (30% power, on ice) to disperse the lipids uniformly.10 units (10 µl) of PLA2 were added to the reaction, mixed by vortex. The reaction mixtures were incubated at 37 °C for 2 h to completely digest phospholipids.500 µl of 500 mM NaCl was added to the mixture to facilitate phase separation. 2 ml extraction solution was added and vortexed to terminate the reaction and extract lipids.Centrifuge at ~200 x g for 10 min. Transfer the bottom (organic) phase to another glass tube.Add 1 ml chloroform and repeat step 6, twice for complete extraction.Dry extracted lipids under nitrogen gas, reconstitute the lipids in 50 µl chloroform.Use total lipids corresponding to 0.2 mg dry weight as control, profile both digested and undigested lipids in mass spectrometry as described in the companion lipid extraction and profiling protocol by the same authors (Liu and Wang, 2016). Three or more biological repeats are recommended and Student’s t-test is used for statistical analysis. Compare regular lipids in undigested samples and lysolipids in digested samples to determine position/composition of fatty acid in different lipid classes. For more quantitative results and more phospholipids classes besides phosphatidylcholine (PC) and phosphatidylethanolamine (PE), lipid samples can first be resolved by thin layer chromatography (TLC) (Refer to the method in Liu et al.",
+    ", 2015) and each lipid/lysolipid spot can be quantified by transmethylation and GC analysis (Politz et al., 2013)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

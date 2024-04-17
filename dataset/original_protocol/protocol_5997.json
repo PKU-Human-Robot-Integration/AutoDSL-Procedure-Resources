@@ -1,0 +1,18 @@
+{
+  "id": 6349,
+  "origin_website": "Bio",
+  "title": "Quantitation of Regulatory Activity for the Complement Alternative Pathway Using an Adaptation of the AP<sub>50</sub> <em>in vitro</em> Assay",
+  "procedures": [
+    "Preparation of rabbit RBCNote: All procedures are performed on a standard laboratory bench.Collect rabbit blood into a 50-100 ml flask containing a layer of glass beads and gently swirl to allow a clot to form. This should occur within 10 min and be complete by approximately 20 min.Decant the defibrinated blood. Allow the cells to settle under gravity for 2-5 min. Discard supernatant and wash in approximately 25 ml AP buffer. The starting solution will be red, then becomes clear upon washing. Once the final cell-free supernatant is clear (usually following 3-4 washes) the cells are ready for use. Store at 4 °C until use (maximum 1-2 months).Prior to use, re-wash RBC in approximately 25 ml AP buffer.Enumerate the cells using a hemocytometer and adjust to 5 x 107 cells/ml with AP buffer.Assay methodDilute HuS, 2 in 5 with AP buffer to chelate calcium and inactivate the CP and LP, resulting in a 40% HuS stock. For instance; add 720 μl of AP buffer to 480 μl of HuS in a 1.5 ml tube. Incubate on ice, 15 min.In 1.5 ml flip-topped tubes, mix 40% HuS with the test substance and AP buffer in a total volume of 100 μl. Include final concentrations of HuS at 0, 5% and 10% HuS for each test sample. Include 0, 5% and 10% HuS alone, controls. Include 0, 5% and 10% HuS with 50 µg purified FH, as a negative regulator (inhibition) control. Volume should be reconstituted to 100 μl with an appropriate vehicle, i.e., the media corresponding to the test sample, such as DMEM or RPMI. Sample set up is shown in Table 1.",
+    "Note: Each test sample is assayed with a final concentration of HuS at 5% and 10% to ensure activity is neither saturated nor at the limit of detection so that both activators and inhibitors of the AP can be measured. Table 1. Tube components for test samples and controlsimgsrc:https://en-cdn.bio-protocol.org/attached/image/20181213/20181213182926_8404.jpgAdd 50 μl of each sample mix from Step B3 into a 96-well plate, in duplicate or triplicate if desired.Add 50 μl of the RBC suspension prepared as above in Procedure A. Include a total hemolysis control (50 μl cells + 50 μl of water). An example of sample setup is shown in Figure 2A.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20181213/20181213182859_9645.jpgFigure 2. Example data. A. Assay plate setup. Red = HuS alone controls; Blue = HS + FH inhibition controls; Green = test samples 1-8; Pink = 100% hemolysis; Purple = Blank control Grey = wells left empty. B. OD measurements. C. Example calculations.Seal plate with plastic film and incubate for 30 min in a 37 °C oven with gentle rocking every 10 min.Add 150 μl of ice-cold saline buffer to all wells except the 100% hemolysis control.Spin the plate, 1,000 x g, 5 min.Carefully remove 100 μl of the clarified supernatant with a pipette and transfer to a new flat-bottomed 96-well plate, taking care not to disturb the pelleted RBC.Read absorbance at 405 nm, yielding an example range of OD values shown in Figure 2B.Note: A multichannel pipette can be used for Steps B5, B7 and B9."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

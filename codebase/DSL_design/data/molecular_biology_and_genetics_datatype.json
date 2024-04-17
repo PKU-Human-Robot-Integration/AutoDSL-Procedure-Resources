@@ -1,0 +1,29 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Time": "time",
+        "String": "string",
+        "Bool": "boolean",
+        "Temperature": "Temperature",
+        "Volume": "Volume",
+        "Concentration": "Concentration",
+        "Mass": "Mass",
+        "Length": "Length",
+        "Force": "Force"
+    },
+    "example": [
+        "Remove the [MPSC]{REG} from the [splenic vein]{REG} and the [IVC graft]{REG} on the [IHIVC]{REG}",
+        "Transfer the [solution]{REG} with {pasteur pipette}[Device] into the [vials]{Container}",
+        "Centrifuge for [70 min]{Time}",
+        "See PDF file [\"Explant Protocol Procedure\"]{String}",
+        "The opposite is [true]{Bool}",
+        "Measure the [37 \u00b0C]{Temperature} of the solution before adding any reagents.",
+        "Add [3 mL]{Volume} of distilled water to the mixture and stir thoroughly.",
+        "Determine the [2%]{Concentration} concentration of the sample using a spectrophotometer.",
+        "Weigh the sample using a balance and record the [0.05 g]{Mass} mass.",
+        "Measure the [250 nm]{Length} length of the DNA strand using a UV-VIS spectrophotometer.",
+        "Apply a [50 mN]{Force} force to the object and observe its displacement."
+    ]
+}

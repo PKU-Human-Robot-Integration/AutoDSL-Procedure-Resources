@@ -1,0 +1,16 @@
+{
+  "id": 421,
+  "origin_website": "Nature",
+  "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(6) Retinal cell isolation",
+  "procedures": [
+    "**Preparation of retinal cells**\n1|  Bleed mice by aspirating blood from the heart: Insert a 24G needle, on a 1ml syringe, below the rib cage in the center, directed slightly to the left and downwards at an angle of about 15-20<sup>o</sup> to the surface\n2|  Enucleate eyes and put in complete medium in Petri dish for immediate retinal isolation.\n3|  Under a dissecting microscope cut along the limbus of the eye and carefully remove the lens and cornea; peel the retina off carefully and cut off the attachment at the optic nerve.\n4|  Mince retina tissue in collagenase/DNase digestion buffer\nBuffer: Complete medium containing collagenase \\(1mg/ml) + DNase \\(10ug/ml)\n5|  Incubate retina in DNAse buffer at 37&#xB0;C for 3hrs.\n6|  Pipette cells intermittently \\(every 30 or 60 minutes) using 10 ml pipette.\n7|  After 3 hrs quench digestion reaction with 5-10 fold volume 10% FBS in medium.\n8|  Fill tube with medium and centrifuge at 1200rpm for 10minutes\n9|  Wash pellet in complete medium \\(2X)\n10|  Count the retinal cells\n**Retina organ-TH17 Co-culture system**:\n1|  Isolate naive syngeneic CD4+ T-helper cells \\(&gt;95%) \n2|  Culture the na&#xEF;ve T cells in medium containing anti-CD3/anti-CD28 Abs under TH17 polarizing condition \\[TGF-&#x3B2;1 \\(10ng/ml), IL-6 \\(10ng/ml) anti-IFN&#x3B3; \\(10 &#xB5;g/ml) and anti-IL-4 \\(10&#xB5;g/ml) Abs) for 48 hours\n3|  Add differentiating TH17 cells to freshly isolated retina cells \\(1 TH17 cell: 5 retina cells) \n4|  Propagate co-culture for additional 48 hours under the TH17 polarizing condition in the presence or absence of 10&#xB5;g/ml anti-IL-27p28 Abs \n5|  Controls: retinal cells alone; Differentiating TH17 cells alone.\n6|  Add PMA and Ionomycin for last 5 hours and Golgistop for last 1 hour as described above into the cultures.\n7|  Perform four-color cell surface/intracellular staining using antibodies against CD4, IL-17, IFN-&#x3B3;, and CD44 and isotype control antibodies."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

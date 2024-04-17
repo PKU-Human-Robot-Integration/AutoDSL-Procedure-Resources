@@ -1,0 +1,17 @@
+{
+  "id": 58,
+  "origin_website": "Nature",
+  "title": "EphB2-Fc precipitates from rat hippocampal neurons in culture and from brain lysates",
+  "procedures": [
+    "**A: Mouse brain**\n1. Homogenize a murine brain in 2 ml LBA lysis buffer\n  2. Spin down at 16,000 g, 10 min, 4<sup>o</sup>C\n  3. Take supernatans and measure protein concentration.\n  4. Incubate 1.5 mg protein with protein-G sepharose beads for 30 min at 4<sup>o</sup>C.\n  5. Spin samples down at 6,000 g, 5 min, 4<sup>o</sup>C. \n  6. Incubate overnight at 4<sup>o</sup>C these pre-cleared supernatans with protein-G Sepharose beads and 5 &#x3BC;g EphB2-Fc \\(precipitate) or Fc \\(control for unspecific protein binding).\n  7. Spin them down at 6,000 g, 5 min, 4<sup>o</sup>C.\n  8. Wash beads three times with HNTG buffer\n  9. Add 20 &#x3BC;l Loading buffer\n  10. Boil samples for 5 min. Load in a 9% SDS-PAGE gel and develop by Western blot with the desired antibodies.\n  \n**B: Hippocampal neurons**\nB1. Stimulation of hippocampal neurons.\n1. Cluster EphB2- Fc or Fc one hour prior stimulation at RT: Mix EphB2-Fc/Fc 1 &#x3BC;g/ml + 1/10 anti-hFc \\(0.1 &#x3BC;g/ml) \n  2. Wash neurons 2 x with HBSS.\n  3. Add EphB2-Fc/Fc clusters to pre-warmed NB medium.\n  4. Apply to the neurons and incubate at 37<sup>o</sup>C for 1 hr\n  \nB2. Neuron lysates\n1. Place plates on ice and wash twice with cold PBS.\n  2. Lyse cells in PLC buffer; incubate at 4<sup>o</sup>C for 10 min; spin down samples at 16,000 g 10 min 4<sup>o</sup>C.\n  3. Take supernatans and measure protein concentration.\n  \nB3. EphB2-Fc precipitation\n1. Incubate 3 mg total protein from the neuron lysates with protein-G Sepharose beads for 1 hr at 4<sup>o</sup>C.\n  2. Add 10 &#x3BC;g of EphB2-Fc or Fc to the appropriate sample\n  3. Incubate overnight at 4<sup>o</sup>C.\n  4. Spin them down at 6,000 g, 5 min, 4<sup>o</sup>C.\n  5. Wash beads three times with HNTG buffer\n  6. Add 20 &#x3BC;l Loading buffer",
+    "7. Boil samples for 5 min. Resolve in a 7.5% SDS-PAGE gel and develop by Western blot with the desired antibodies."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4347,
+  "origin_website": "Bio",
+  "title": "Radioactive Pulse-Chase Analysis and Immunoprecipitation",
+  "procedures": [
+    "Radioactive Pulse-Chase   Detach MDCK cells [grown in a T-75 tissue culture flask and infected with 10 infectious doses of influenza A/Puerto Rico/8/34 (PR8) virus per cell for 5 h at 37 °C (Magadan et al., 2013)] by incubating them with 5 ml Trypsin-EDTA for ~15 min at 37 °C.   Transfer cells to a 50 ml BD Falcon tube and wash them twice with 10 ml pre-warmed DPBS by centrifugation for 1 min at 2,500 x g, room temperature.   Resuspend cells in 1 ml DPBS and transfer them to a 1.5 ml micro-centrifuge tube.    Centrifuge cells for 15 sec at max speed, 4 °C.   Resuspend cells in 200 µl of pre-warmed pulse medium.   Incubate cells for 2 min at 37 °C in a water bath (pulse).   Centrifuge cells for 15 sec at max speed, 4 °C.   Aspirate the supernatant and resuspend the cell pellet in 1.05 ml of pre-warmed chase medium.   Incubate labeled cells for up to 20 min at 37 °C in a water bath.   Take aliquots of 190 µl each at 0, 5, 10, 15, and 20 min and immediately transfer them to new 1.5 ml micro-centrifuge tubes containing 1 ml of ice-cold DPBS.   Centrifuge cells for 15 sec at max speed, 4 °C.   Aspirate the supernatant and resuspend the cell pellet in 1 ml ice-cold non-denaturing lysis buffer.   Incubate cell lysates for 30 min at 4 °C with slow rotation.   Clear cell lysates by centrifugation for 15 min at max speed, 4 °C.   Keep the supernatant but discard the pellet.      Immunoprecipitation   Wash 30 µl of protein A sepharose/each chase-time point twice with 0.5 ml of ice-cold DPBS by centrifugation for 1 min at 3,000 x g, 4 °C.   Resuspend resin in 0.5 ml of ice-cold DPBS supplemented with 0.001% Triton X-100 and the anti-HA antibody of choice.",
+    "Incubate for at least 2 h at 4 °C with slow rotation.   Wash resin twice with 0.5 ml of ice-cold non-denaturing lysis buffer (without protease inhibitors).   Add 10 µl 10% BSA.   Add the cleared cell lysate from each chase-time point.   Incubate for at least 2 h at 4 °C with slow rotation.   Wash resin twice with 0.5 ml of ice-cold non-denaturing lysis buffer (without protease inhibitors) but containing 0.1% instead of 0.5% Triton X-100.   Wash resin once with 0.5 ml of ice-cold DPBS.   Resuspend resin in 20 µl of 4x LDS sample buffer.   Boil samples for 5 min.      SDS-PAGE and Fluorography   Load 15 µl of every sample onto protein mini-gels.   Run for ~3 h at constant 50 mA/gel.   Fix gels with 10 ml fixation solution for at least 30 min at room temperature with slow rocking.   Dry gels in a gel drier for 1.5 h at 80 °C (in the case of 1 mm gels).   Expose films to the radioactive gels overnight at room temperature.   I usually develop my films using a Kodak X-OMAT 2000A processor.   Please refer to Figure 1 on our prior publication (Magadan et al., 2013) for representative results and conclusions."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

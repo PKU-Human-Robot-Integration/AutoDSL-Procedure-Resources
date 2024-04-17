@@ -1,0 +1,21 @@
+{
+  "id": 1081,
+  "origin_website": "Nature",
+  "title": "An Integrative Procedure for Apoptosis Identification and Measurement",
+  "procedures": [
+    "&#xFF08;1&#xFF09; **Cell Culture and Induction of Apoptosis**\nCulture cancer cells in RPMI 1640 supplemented with 10% FBS, 10mM HEPES plus penicillin-streptomycin \\(100 IU/ml penicillin, 100 &#xB5;g/ml streptomycin). Induce apoptosis with an apoptosis-inducing drug for 24h. Culture control group cells in medium without drug at 10<sup>4-6</sup>/ml in a flat-bottom plate \\(Costar). \n&#xFF08;2&#xFF09; **Cell Collection and fixation**\nTrypsinize cancer cells&#xFF08;1-2&#xD7;10<sup>7</sup>&#xFF09;with 1 ml 0.25% trypsin at 37&#x2103; for 2-3 min until cells detach completely from the flat-bottom. Add 0.5%FBS-RPMI 1640 medium to terminate trypsinization and pipette gently to disrupt cell clumps into single cells.  Transfer into an eppendorf tube, spin at 1000 rpm for 5min and discard the supernatant. Wash the cell pellet with 1&#xD7;PBS at 1000 rpm for 5min&#xD7;2, resuspend cells into single cell status with a little 1&#xD7;PBS \\(20&#xB5;l), then add 2ml 70% ethanol and place at -20&#x2103; overnight to fix cells.\n&#xFF08;3&#xFF09; Centrifuge at 1000 rpm for 10 min; discard the supernatant to remove ethanol thoroughly.\n&#xFF08;4&#xFF09; Resuspend cells with 0.5ml 1&#xD7;PBS, transfer into a micro-eppendorf tube, spin at 1500 rpm for 10 min and discard the supernatant.\n&#xFF08;5&#xFF09; Add 40&#xB5;l 0.2M phosphate-citric acid buffer \\(pH7.8) to each tube respectively and stand at room temperature for at least 30min with intermitten shaking.\n&#xFF08;6&#xFF09; Spin at 1000 rpm for 10 min, transfer the supernatant to new micro-eppendorf tubes and incubate the cell pellets on ice for fluorescence observation and for flow cytometric analysis.\n&#xFF08;7&#xFF09; Add 3&#xB5;l 0.25% NP40 and 3&#xB5;l RNase A solution&#xFF08;1mg/ml&#xFF09;to the supernatant, vortex the mixture thoroughly and incubate at 37&#x2103; for 30min.\n&#xFF08;8&#xFF09; Add again 3&#xB5;l Proteinase K&#xFF08;1mg/ml&#xFF09;to the mixture&#xFF0C;vortex thoroughly and incubate at 37&#x2103; for 30min.",
+    "&#xFF08;9&#xFF09; Mix each 16&#xB5;l reaction solution thoroughly with 2&#xB5;l 6&#xD7;DNA loading buffer&#xFF0C;and resolve the DNA ladder on a 0.8% 1&#xD7;TAE agarose gel after electrophoresis at constant voltage 2 V/cm for 2h.  Visualize by UV light after standard ethidium bromide staining. \n&#xFF08;10&#xFF09; Resuspend the cell pellets in step&#xFF08;6&#xFF09;with 0.5ml 1&#xD7;PBS, add 10&#xB5;l Proteinase K \\(1mg/ml), vortex gently and stand at room temperature for 30min.  Wash with 1ml 1&#xD7;PBS by spinning at 1000 rpm for 5min&#xD7;2, resuspend again with 20&#xB5;l 1&#xD7;PBS into single cells after discarding the supernatant and then add 300&#xB5;l DNA staining solution \\(containing 150&#xB5;g/ml PI, 20U/ml RNase A).  Incubate at room temperature for 30min.\n&#xFF08;11&#xFF09; Place a drop of the above single cell suspension on a air-drying glass slide, then place a glass coverslip over the cells to reduce light diffraction and observe cells using a fluorescence microscope equipped with a G.B filter, using the 40&#xD7;objective. The remaining cell suspension can be used for flow cytometry, and the ratio of apoptotic cells analyzed with MULTYCYCLE software."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

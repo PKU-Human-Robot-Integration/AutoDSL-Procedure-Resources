@@ -1,0 +1,17 @@
+{
+  "id": 368,
+  "origin_website": "Nature",
+  "title": "PCR_Sequencing for genotyping SNPs PF3D7_1343700 Kelch protein propeller domain",
+  "procedures": [
+    "1. PCR\n  \n1.1. Prepare Primary PCR Master Mixes in a 1.5 mL centrifuge tube according to the volumes calculated using Table 2. Include enough reactions for DNA controls \\(3D7) and negative \\(no template) controls.\n1.2. Label PCR tubes and add 20 µl Primary Master Mix to each tube.\n1.3. Add 5 µl of template DNA to each tube. Seal and run PCR in thermocycler according to the conditions listed in Table 3.\n2. Nested PCR\n  \n2.1. Prepare nested PCR Master Mixes in a 1.5 mL centrifuge tube according to the volumes calculated using Table 4.\n2.2. Label PCR tubes and add 45 µl Secondary Master Mix to each tube. \n2.3. Add 5 µl of Primary PCR product to each tube. Seal and run PCR in thermocycler according to the conditions listed in Table 5.\n2.4. Run an agarose gel of Nested PCR product to ensure amplification has been successful \\(See Section 3).\nNOTE: PCR product may be stored at 4 °C for up to 1 week or at – 20 °C or -80 °C for long-term storage.\n3. Agarose gel electrophoresis\n  \n3.1. Make a 2% agarose gel: Dissolve 2 grams of agarose and 100 mL of 1X TBE in the microwave. \nCool, then add 4 µL Ethidium bromide and gently swirl to mix.\nPour into assembled gel tray with comb\\(s) and leave at room temperature for 30 minutes to set.\n3.2. Load the gel:\nPlace the gel in gel apparatus and fill to line with 1X TBE.\nPlace 2 µL dots of xylene cyanol per sample on Parafilm. \nCarefully pipet 10 µL Nested PCR product to each dot of dye. \nAdd 4-5 µL of size standard.\n3.3. Run gel at 100-150 volts for 60 minutes and view using a UV transilluminator.\nExpected size: 849 bp \\(Figure 1).\n \n4. Sequencing",
+    "Send 40 µl of N1 PCR products for sequencing, according to the company’s instructions."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

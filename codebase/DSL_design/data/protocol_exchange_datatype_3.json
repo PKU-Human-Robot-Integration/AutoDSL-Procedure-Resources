@@ -1,0 +1,25 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "COND": "condition",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Volume": "Volume",
+        "Concentration": "Concentration",
+        "Temperature": "Temperature",
+        "Mass": "Mass",
+        "Length": "Length",
+        "Speed": "Speed"
+    },
+    "example": [
+        "Remove [the supernatant]{REG}",
+        "Remove [the MPSC]{REG} [from the splenic vein]{COND} and [the IVC graft]{REG} [on the IHIVC]{COND}",
+        "Transfer [the solution]{REG} with {pasteur pipette}[Device] into [the vials]{Container}",
+        "Add [50 \u03bcl]{Volume} of [buffer solution]{REG} to the [reaction mixture]{REG}.",
+        "Dilute the [10% stock solution]{Concentration} to obtain a [2% solution]{Concentration} for further use.",
+        "Preheat the oven to [180 degrees]{Temperature} before baking the cake.",
+        "Measure the [20 g]{Mass} of the solid [sample]{REG} using a digital scale.",
+        "Cut the piece of fabric to a [length of 2 meters]{Length} for sewing the dress.",
+        "Set the [centrifugal speed to 5000 rpm]{Speed} and spin the samples for 10 minutes at room temperature."
+    ]
+}

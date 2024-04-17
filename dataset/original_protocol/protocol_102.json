@@ -1,0 +1,14 @@
+{
+  "id": 105,
+  "origin_website": "Nature",
+  "title": "Enantioseparation of racemic compounds in capillary electrophoresis using cationic single isomer cyclodextrin",
+  "procedures": [
+    "Running buffer preparation\n1] Add a certain amount of NaH2PO4•2H2O into ultra-pure water to prepare 50 mM NaH2PO4 stock solutions.\n2] Adjust the pH of NaH2PO4 solutions using 1 M NaOH until the desired pH \\(generally 6~9) was obtained. \n3] Add a certain amount of CD selector into the NaH2PO4 solution to obtain the desired CD concentration \\(generally 0~30 mM).\n4] Add a certain amount of organic modifier \\(MeOH or ACN) \\(generally 0~20%, vol/vol) into the solutions from Step 3.  \n5] Transfer 1.5 mL solutions into two 2 mL-vials\n6] Degas the buffer before use.\nSample preparation\n1] Add a certain amount of racemic analytes into 50/50 \\(vol/vol) methanol/water mixture to form stock solutions of 50 μg•mL-1.\n2] Transfer 1.5 mL stock solutions into 2 mL-vials.\n3] Degas the analyte solution before use.\nCapillary conditioning\n1] Flush the capillary using 1 M NaOH solution for 30 min.\n2] Flush the capillary using 0.1 NaOH solution for 30 min.\n3] Flush the capillary using ultra-pure water for 30 min.\n4] Flush the capillary using running buffer for 15 min.\nCE enantioseparation operation\n1] Put the cartridge with fused-silica capillary on the CE equipment and put the two buffer vials and one analyte vial in the sample trays. \n2] Set sample injection by pressure at 0.5 psi for 4 s.\n3] Set the separation voltage as 15 kV. \n4] Start injection and separation.\n5] Collect separation data and stop running.\n6] Flush the capillary using 1 M NaOH solution for 4 min.\n7] Flush the capillary using ultra-pure water for 4 min.\n8] Flush the capillary using running buffer for 4 min\n9] Start next run."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 7709,
+  "origin_website": "Bio",
+  "title": "Analysis of the Ubiquitination and Phosphorylation of Vangl Proteins",
+  "procedures": [
+    "HEK293T cells are commonly used cell line for protein ubiquitination studies, and Vangl2 ubiquitination is easily detected under our investigation. Based on our experimental experience, Wnt5a/CK1 could induce more robust phosphorylation of Vangl proteins in CHO cells than in HEK293T cells (the band shift is more remarkable in CHO cells), so we switch from HEK293T cells to CHO cells for better demonstration of Vangl phosphorylation assay. To analyze the phosphorylation of Vangl2, we transfect CHO cells with plasmids expressing Wnt5a/Ror2 or CK1δ, to induce Vangl2 phosphorylation (Feng et al., 2021; Gao et al., 2011; Yang et al., 2017). The phosphorylation is detected by western blotting analysis with HA and Vangl2 phospho-specific antibodies. Procedures of cell culture, transfection, harvest, sample preparation, and western blotting analysis are similar to those in the ubiquitination assay.CHO cells are maintained in DMEM complete medium (DMEM supplemented with 10% FBS and 1% PS) in a humid incubator at 37 °C and 5% CO2.Culture CHO cells in a 100 mm diameter culture dish until 90% confluency.Pass cells at the ratio of 1:30 into a 12-well cell culture plate.Incubate the cells at 37 °C, 5% CO2 for ~20 h until 50%–70% confluency.Replace with 1 mL of fresh medium 4 h before transfection.Transfect cells with plasmids expressing HA-Vangl2, and/or FLAG-Wnt5a/Ror2 and Myc-CK1δ, using 1 mg/mL PEI at the ratio of 1:4 (µg DNA: µg PEI). For each well of a 12-well culture plate, transfect 1 µg plasmids in total (0.5 µg HA-Vangl2 + 0.5 µg empty vector, 0.5 µg HA-Vangl2 + 0.5 µg FLAG-Wnt5a/Ror2, or 0.5 µg HA-Vangl2 + 0.5 µg Myc-CK1δ).Incubate the cells for 12 h.Replace with 1 mL of fresh medium 12 h post transfection.Culture the transfected cells for 48 h in total.",
+    "Gently aspirate media, and rinse cells with cold PBS three times immediately before cell harvest.Collect cells as follows: detach cells using trypsin, and inactivate trypsin using DMEM complete medium. Pipette cells into an Eppendorf tube for centrifugation, and resuspend the cell pellet using 200 µL of cold PBS.Centrifugate at 1,500 × g, 4 °C for 3 min, to collect the cells. Discard the supernatants.Prepare the sample for western blotting. Lyse the cells in 75 µL of RIPA lysis buffer containing protease and phosphatase inhibitors. Incubate on ice for 20 min. Centrifugate at 16,000 × g, 4 °C for 15 min, and collect the supernatants. Add 25 µL of 4× Laemmli Sample Buffer containing 10% 2-Mercaptoethanol to the supernatants. Boil at 95 °C for 10 min. Store at -20 °C until use.Detect and analyze the phosphorylation of Vangl2 by western blotting. Run an 8% Tris/Bis SDS-PAGE gel at 120 V for ~2 h, until the 55 kDa marker band runs to the bottom of the gel.Use HA and Vangl2 phospho-specific antibodies for detection."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

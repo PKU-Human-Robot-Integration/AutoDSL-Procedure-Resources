@@ -1,0 +1,14 @@
+{
+  "id": 663,
+  "origin_website": "Nature",
+  "title": "Replacement of magnesium chloride with magnesium nanoparticles in polymerase chain reaction",
+  "procedures": [
+    "1. Prepare a reaction mixture:  27.5 μL of master mix \\(0.05 units/μL Taq DNA Polymerase), 2.5 μL MgO nanoparticles \\(2.48 mM), 0.4 mM dNTPs, 1 μM of each forward/reverse primer and 20 μL of template DNA per 50 μL reactions. \n  2. Keep the reaction mixture in a thermocycler.\n  3. Program the thermocycler as follows:\n  3.1. Hold the sample at 95 <sup>◦</sup>C for 10 min\n3.2. Denature step at 95 <sup>◦</sup>C for 15 sec\n3.3. Anneal temperature of 65 <sup>◦</sup>C for 25 s \n3.4. Extend at 72 <sup>◦</sup>C for 15 sec\nfollowed by a uniform three-step amplification profile for another 45 cycles, and finally held at 4 <sup>◦</sup>C."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

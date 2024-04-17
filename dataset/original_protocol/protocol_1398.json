@@ -1,0 +1,15 @@
+{
+  "id": 1496,
+  "origin_website": "Nature",
+  "title": "<p>Optogenetic control of mRNA localization and translation in live cells</p>",
+  "procedures": [
+    "<p>Cell culture</p><p><br></p><p>- HeLa (ATCC) was cultured in Dulbecco’s modified Eagle’s medium (DMEM; Gibco) supplemented with 10% FBS (Invitrogen) at 37 °C with 10% CO2.</p><p>&nbsp;</p><p>- Prewarm culture media (DMEM + 10% FBS) and Trypsin in a 37°C water bath.</p><p><br></p><p>- Aspirate culture media, gently rinse cells with DPBS, aspirate 1xPBS, then add 3 ml Trypsin to the culture flask (75T flask), and incubate under 37°C for 5 minutes to detach cells from the flask.</p><p><br></p><p>- Gently tap the flask to make sure all the cells are fully detached. </p><p><br></p><p>- Add 4 ml of culture media to the culture flask, and collect all the cells. </p><p> </p><p>- Transfer resuspended cells from the culture flask to a 15 ml tube, then centrifuge resuspended cells in the 15 ml tube at 2000rpm for 1 minutes.</p><p><br></p><p>- Aspirate supernatant, and resuspended cell pellet with fresh culture media, pipette up and down gently, to make sure cells are fully resuspended.</p><p><br></p><p>- Count the number of cells using a hemocytometer.</p><p><br></p><p>Transfection</p><p><br></p><p>- Use the microporator to transfect all mRNA-LARIAT components to the cells (except for PAMmer).  The condition  for HeLa cell is two electroporation pulses of 980V for 35ms. We suggest to determine the optimal amount of plasmid encoding LARIAT components and MS2 or RCas9 components depends on the target mRNA abundance. We used 1:1 ratio. </p><p><br></p><p>-Plate the transfected cells to 96-well plate in 37°C with 10% CO2 incubator overnight. </p><p><br></p><p>- On the next day, if RCas9 is used, transfect PAMmer using Lipofectamine<sup>®</sup>RNAiMax at least 6 hours before imaging. &nbsp;</p><p><br></p><p>Imaging</p><p><br></p><p>- Move the imaging plate to the microscope in the prewarmed environmental chamber.</p><p><br></p><p>- Set up software to acquire fluorescence images.</p><p><br></p><p>- Photostimuatlion can be performed in single 1s loops with a 488-nm laser at a light power density of  490 μW mm-2 to generate a cluster. </p>"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

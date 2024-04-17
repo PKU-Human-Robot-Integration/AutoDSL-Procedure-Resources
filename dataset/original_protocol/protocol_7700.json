@@ -1,0 +1,15 @@
+{
+  "id": 8103,
+  "origin_website": "Bio",
+  "title": "Amino Acid Transport Assays in Resting Cells of <em>Lactococcus lactis</em>",
+  "procedures": [
+    "L. lactis cells harvested in the late exponential growth phase between OD660 of 0.6 and 1.0, washed and resuspended to OD660 of 2 in potassium phosphate (KPi) buffer, kept on ice.   Homogenize cell suspension by briefly vortexing.   Distribute alliquotes of 100 μl of the cell suspension over 5 glass tubes. Keep on ice.   Incubate one of the tubes for 5 min at 30 °C under continuous stirring.   Mount filter in setup and apply vacuum.   At t = 0, add 1 μl of the 14C-labelled amino acid stock solution to the cells in each of the five tubes giving 1-5 μM concentrations.    At each of the time points t = 0.5, 1, 2, 4 min, add 2 ml of ice cold 0.1 M LiCl  and filtrate cells over the nitrocellulose filter. For most amino acids these four time points cover a complete uptake curve. Occasionally, other time points may have to be selected.   Immediately rinse tube with another 2 ml of 0.1 M LiCl and filtrate over the same filter.   Remove vacuum, and transfer filter with tweezer to a 2 ml Eppendorf tube and put a new filter back to the filtration setup for the next sample.   For the zero time point (final tube), skip the incubation at 30 °C (step 3); add the radioactivity to the cell suspension on ice , immediately followed by 2 ml LiCl and filtration plus rinsing (steps 6 and 7). Keeping the sample on ice prevents uptake during processing of the sample.   Add 1 μl of the 14C-labelled amino acid stock solution to a 2 ml Eppendorf tube to determine the total amount of radioactivity used per time point.   Add 1.8 ml of scintillation fluid to the Eppendorf tubes.   Measure radioactivity retained on the filters by scintillation counting.",
+    "Best results are obtained after allowing the filter plus bacteria to dissolve in the scintillation fluid.   Uptake (rate) can be calculated from retained activity and total added activity and expressed in nmol amino acid/(mg protein x minute). The amount of amino acid is calculated from the data provided by the manufacturer and the amount of protein determined by standard assays for cell protein."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

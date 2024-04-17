@@ -1,0 +1,15 @@
+{
+  "id": 5591,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Assay to Measure DNA Polymerase β Nucleotide Insertion Coupled with the DNA Ligation Reaction during Base Excision Repair",
+  "procedures": [
+    "Prepare 10 μl of reaction mixture (final volume) including 1 μl of 10x reaction buffer (1x final concentration), 2 μl of 1 mM dGTP or 8-oxo-dGTP (200 μM final concentration), and 1 μl of 2.5 μM DNA substrate (250 nM final concentration). Each reaction tube contains 10 µl of the reaction mixture needed for each time point. (see Recipes)Preincubate the enzyme mixture including 1 μl of 1 μM pol β and DNA ligase I (100 nM final concentration) at 37 °C for 3 min. (see Recipes)Start the reaction by addition of the enzyme mixture, prepared as above, to the reaction mixture, and pipette up and down to mix the reaction components.Incubate the reaction mixture at 37 °C for time points of 0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, and 15 min.Quench the reactions with 0.3 mM EDTA. (see Recipes)Mix the reaction products with an equal volume of gel loading dye.Heat the reaction samples at 95 °C for 3 min before loading onto the gel, and load 5 μl of reaction sample.Separate the reaction products in a 15% polyacrylamide gel containing 8 M urea at 30 mA for ~2 h.Scan the gel on a Typhoon Phosphor Imager as described (Çağlayan et al., 2014; 2015 and 2017)."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

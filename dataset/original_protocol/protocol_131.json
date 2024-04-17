@@ -1,0 +1,17 @@
+{
+  "id": 135,
+  "origin_website": "Nature",
+  "title": "The Matrigel Cytokine Assay",
+  "procedures": [
+    "**Injection of Tumour Cells in Matrigel :**\n1. Wash the cancer cells 1X in sterile ice cold PBS.\n  2. Count cells. Adjust to a suitable concentration, e.g. 4x10<sup>6</sup>/ml.\n  3. Anesthetize the mice with hypno/dormicum intraperitoneally or subcutaneously.\n  4. Mix on ice 1125µl Matrigel + 125µl tumour cells \\(i.e. 10X dilution).\n  5. Inject, subcutaneously, carefully 250µl ice-cold tumour cell/Matrigel solution using a 1ml syringe with a 0.6mm x 25mm needle \\(This will give 10<sup>5</sup> cancer cells per Matrigel plug if the original concentration was 4 x 10<sup>6</sup>/ml).\n  \n**Preparation of Matrigel samples for extracellular matrix cytokine detection and flow cytometry analysis:**\n**Note:** During the whole procedure, keep samples on ice as much as possible.\n1. Sacrifice the mice\n  2. From each mouse, dissect carefully the Matrigel plug and transfer it into a 50ml tube with 1ml cell medium RPMI1640 supplemented with 0.3mg/ml DNase and 1mg/ml collagenase IV.\n  3. Cut the Matrigel plug in small pieces using sterile scissors. \n  4. Put sample on ice.\n  5. Clean dissection equipment and scissors between each mouse.\n  6. Go back to step two until all Matrigel plugs are collected. \n  7. Place the tubes in a water bath for 30 minutes at 37°C.\n  8. After 30 minutes, place the samples on ice and keep them on ice as much as possible.\n  9. Mesh the Matrigel samples through a stainless-steel sieve onto the lid of a 5cm Petri dish, and transfer the solution with a pipette to a 1.5ml Eppendorf tube.\n  10. Clean and burn mesh, using 70% ethanol, between each Matrigel sample.\n  11. Centrifuge the tubes for 7 minutes 300g.\n  12. Remove the supernatant with a pipette and transfer to a clean 1.5ml Eppendorf tube.\n  13. Prepare the cell-pellet for flow analysis.\n  14. Filter the supernatant through a 0.45µm filter.",
+    "15. Aliquot the samples in 1.5ml Eppendorf tubes \\(e.g. 50µl per tube). Freeze immediately at -70° C or below and keep samples frozen until analysis with ELISA or luminex technology. \n  \n**Note:** After incubation I _step 7_, you will still observe some Matrigel clumps in the sample. These clumps are easily meshed through the stainless sieve. After meshing \\(_step 9_) you will loose the rest of the Matrigel collagen fibers in centrifugation \\(_step 11_) and filtering \\(_step14_).\nCytokines in Matrigel extracellular matrix are diluted approximately five times in _step 2_ \\(1ml RPMI + ~250µl Matrigel plug). Final concentration is therefore found by multiplying observed concentration with 5.  A starting volume of 1ml RPMI + Matrigel plug will typically give 400-700µl filtered supernatant."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

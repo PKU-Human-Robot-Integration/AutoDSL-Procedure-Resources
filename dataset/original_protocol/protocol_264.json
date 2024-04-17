@@ -1,0 +1,17 @@
+{
+  "id": 279,
+  "origin_website": "Nature",
+  "title": "Tumorsphere Passage for Breast Cancer Stem Cells",
+  "procedures": [
+    "1. Preparation of sphere media:\n       a. In serum-free and phenol red-free DMEM, add 20 ng/ml EGF, 20 ng/ml bFGF, and 1X B27 supplement. For example, to create 100 ml sphere media, add 2000 ng EGF, 2000 ng bFGF, and 2 ml of 50X B27 supplement. \n     b. Alternatively, add 1% FBS \\(v/v) into phenol red-free DMEM in the absence of EGF, bFGF, or B27 supplement.\n2. Preparation of cellular subsets:\n       a. Aspirate media from flask containing cancer cells, wash twice in 1X PBS, and trypsinize cells.\n     b. Centrifuge cells at 300 x g at room temperature \\(15-25°C) for 10 minutes.\n     c. Decant supernatant and resuspend cells carefully in sphere media prepared from Step 1.\n     d. Use 40µm cell strainer cap filter to obtain single-cell suspension.\n     e. Isolate cellular subsets of interest via FACS or MACS \\(if necessary).\n     f.        Determine cell viability via 0.4% Trypan Blue dye exclusion.\n     g. Seed cell suspension at 1 cell per well in ultra low-attachment 96-well plate.\n3. As a negative control, use non-tumorigenic breast cells, such as MCF-10 or MCF-12A.\n  \n4. Incubate ultra low-attachment 96-well plates under standard conditions at 37°C and 5% CO2.\n  \n5. Using microscope \\(with fluorescent capability if necessary), assess wells daily for sphere formation. Allow plates to incubate for 10 days or more.\n  \n6. Calculate sphere-forming efficiency in the 96-well plate using the following equation:\n  \nTumorsphere efficiency \\(%)   =  \\(# of spheres) / \\(# of wells seeded) x 100% \n7. Serial passaging of spheres\n       a. Dissociate sphere mechanically using P1000 pipette or chemically using pre-warmed trypsin-EDTA.\n     b. Centrifuge at 300 x g for 10 minutes at room temperature \\(15°C-25°C).\n     c. Prepare cells in sphere media created in Step 1.\n     d. Seed 1 cell per well into a new ultra low-attachment 96-well plate.",
+    "e. Assess sphere-forming efficiency in secondary, tertiary, and quaternary passages using formula from Step 6."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

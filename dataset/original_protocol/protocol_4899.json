@@ -1,0 +1,17 @@
+{
+  "id": 5212,
+  "origin_website": "Bio",
+  "title": "PKC-θ <em>in vitro</em> Kinase Activity Assay",
+  "procedures": [
+    "Harvest 5 x 106 Jurkat E6.1 cells or 1 x 106 HEK293T cells transfected with vector, wild type (WT), kinase-dead mutant (K409R) and sumoylation deficient mutant (2KR [K325R, K506R]) of Myc-PKC-θ (indicated in Figure 2) by centrifugation (300 x g, 3 min, 25 °C). Wash the cells once with 1 ml ice cold PBS.Centrifuge the cells at 300 x g for 3 min at 25 °C.Add 300-500 µl lysis buffer to the cell pellets, vortex for 1-2 min.Place the tube on ice for 10 min.Centrifuge at 8,500 x g for 10 min at 4 °C.Transfer the clear supernatant to a new microcentrifuge tube.Immunoprecipitate endogenous or transfected PKC-θ by adding 2.5 µl anti-PKC-θ or anti-Myc antibodies into the clear supernatant obtained in step 7. Incubate overnight at 4 °C with rotation. Then add 30 µl protein G sepharose beads (50% [v/v] in PBS) and incubate for 2-4 h at 4 °C with rotation.Centrifuge for 5 min at 8,500 x g at 4 °C, carefully remove the supernatant. Wash the immunoprecipitates extensively by adding 1 ml lysis buffer and vortexing for 3-5 min.Repeat step 9.Centrifuge for 5 min at 8,500 x g at 4 °C, carefully remove the supernatant. Wash the immunoprecipitates extensively by adding 1 ml PKC-θ kinase buffer and vortexing for 3-5 min.Repeat step 11.Centrifuge for 5 min at 8,500 x g at 4 °C, carefully remove the supernatant and resuspend the pellet in 25 μl of the reaction buffer.Incubate samples in the Thermomixer with gentle shaking at 300 rpm for 30 min at 30 °C. Stop the reaction by adding 6.25 µl 5x SDS-PAGE loading buffer. Heat samples at 95 °C for 10 min and subject the samples to 15% SDS-PAGE, then cover the gel with plastic wrap to minimize the chance of radioactive contamination.",
+    "Open the exposure cassette, place the wrapped gel on the internal surface of the cassette, and then place the phosphor-storage screen on top the wrapped gel with the phosphor (white) side facing down onto the gel. Close and lock the cassette, place it for 30 min to 6 h at room temperature and then take the phosphor-storage screen out of the cassette avoiding direct light. Scan the screen with the Typhoon Trio+ system.(Optional) A pilot experiment to verify the specificity of this kinase assay is recommended. In detail, HEK293T cells were transfected with wild type Myc-PKC-θ, which has proven to be an active kinase as T538, S676, and S695 are constitutively phosphorylated on recombinant PKC-θ isolated from HEK293T expression systems (Wang et al., 2012). 24 h after transfection, Myc-PKC-θ was immunoprecipitated and subjected to the kinase assay as described previously. When doing the kinase assay, the ATP-competitive PKC-θ inhibitor or DMSO was added into the reaction buffer which served as the negative and the positive control individually."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4408,
+  "origin_website": "Bio",
+  "title": "Lysosomal Stability Assay",
+  "procedures": [
+    "Notes on protocol versions: This protocol exists in two versions, one for use with common cancer cell lines (such as U2OS or Mcf7) and one for mouse embryonic fibroblasts (MEFs) transduced with either the SrcY527F oncogene or empty vector (or indeed any other transduced genes of interest). The main difference between the two protocols is in the recording of the images on the confocal microscope. When needed, both versions will be described at each step and designated either COMMON or MEF. Grow cells in borosilicate lab-tek wells overnight or for as long as required by necessary treatments. The exact nature of the growth medium is not important. The amount of cells in each well on the day of analysis is critical to the successful use of this protocol. In order to keep the variation low, the cells should be 50-75% confluent, and should never reach 100% confluency. Add Acridine Orange directly to the growth medium to a final concentration of 2 µg/ml. Incubate the cells at 37 ºC for 20 min.Wash the cells twice in PBS containing 3% serum.Add PBS with 3% serum to cover the cells (100 or 200 µl for 8-well or 4-well respectively). Proceed immediately to analysis at the microscope. The cells are only suited for analysis for the first 60 min after washing. After this time, the variation between different observation fields will increase.Identify a group of cells in the brightfield, and make sure the lysosomes (visible as black dots) are in focus. Be quick at this point, since brightfield also contains blue light. Microscope settings:This protocol was developed and used on a Zeiss LSM 5 LIVE DUO microscope. It is important to note that, as for all microscope protocols, the exact settings should be determined empirically for each instrument and experimental setup.",
+    "As noted above, the protocol used for ‘normal’ cancer cell lines (i.e. U2OS & Mcf7) was different from the one used for MEFs. The slower protocol with less frames (and less exposure to blue light) for MEFs was developed since lysosomes loose their integrity a lot faster in these cells, making quantification challenging when recorded at high speed.table:",
+    "﻿0,1\nHeat chamber,37 ºC\nOcular,40x c-apochromat\nLaser intensity,2.6 (most cancer cell lines)/0.9 (MEF) (can vary greatly between instruments)\nImage quality,8 bit (16 bit makes the files unnecessary large)\nRecording speed,1 frame every 0.5 (most cancer cell lines)/12 sec (MEF)\nImages recorded,200 (most cancer cell lines)/120 (MEF)\nLaser wavelength,489 nm\nRecording filters,\"495-555 nm band pass (green), 650 nm long pass (red)\"\nRecord movies. Any focus corrections should be made within the first 10 sec of recording. Make sure never to record the same place twice (easy to see due to absence of red dots). Allow time for all wells to be analyzed within an hour. Note the order in which the recordings were made, for use in troubleshooting later."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

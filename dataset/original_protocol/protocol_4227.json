@@ -1,0 +1,16 @@
+{
+  "id": 4436,
+  "origin_website": "Bio",
+  "title": "Gene Networks Based on the Graphical Gaussian Model",
+  "procedures": [
+    "Preparation of the microarray dataDownload the microarray data from your favorite database, and format it into a single table of expression intensities, with every row representing a gene and every column representing a microarray experiment. A good example can be found here for Arabidopsis transcriptomes: http://affy.arabidopsis.info/narrays/help/usefulfiles.html.[href=http://affy.arabidopsis.info/narrays/help/usefulfiles.html] You can use the file titled super bulk gene download.Remove any columns (experiments) containing large number of ‘null’ measurements, and then do the same for any genes containing ‘null’ measurements.Normalize the expression intensities between experiments using the quantile normalization method.Random sampling and partial correlation calculationRandomly pick 2,000 genes from the large expression table and make a small expression table for these 2,000 genes. A Perl script can be written to do this step.Using the GeneNet package to calculate partial correlation between these 2,000 randomly selected genes. The GeneNet package should be lauched within the R environment, and the specific function to be used is ‘ggm.estimate.pcor’ with the default settings.Save the resulting partial correlation matrix, together with the gene ids for the 2,000 genes.Repeat the step from 1 to 3 at least 1,999 times. The more the better. After these calculations, most of the gene pairs should be sampled >10 times, each time with a calculated pcor.Determine the final pcor values for every gene pair, so that pcor value with the smallest absolute values will be kept. This should be done via consolidating the resulted pcor matrix. This should be done with a C++ script.Network building and analysisTo test the significance of the resulted pcors, the function ‘ggm.test.edges’ in GeneNet can be used. From all the pcors, ~2,000,000 can be randomly selected and fed into the function, so that a pValue for significance can be calculated.Depending on the pValue, a cutoff for the pcors can be set. A good estimation would be 0.1, 0.",
+    "08, and 0.05. Any pcor with absolute value larger than the cutoffs can be retained.A Pearson’ correlation coefficient filter should be applied. Gene pairs with Pearson’ correlation coefficient value between -0.3 and 0.3 should be removed.After the pcor selection and Pearson correlation coefficient filters, the remaining gene pairs are said to have interaction between each other, and can be used to build a gene network using Cytoscape software. The network analysis can be done with the Cytoscape software itself."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

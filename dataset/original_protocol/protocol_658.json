@@ -1,0 +1,15 @@
+{
+  "id": 697,
+  "origin_website": "Nature",
+  "title": "Subunit stoichiometry determination by perfluorooctanoic acid polyacrylamide gel electrophoresis \\(PFO-PAGE)",
+  "procedures": [
+    "1- Rinse the cells twice with ice-cold phosphate-buffered saline \\(PBS).\n2-  Harvest the cell pellet in ice-cold PBS supplemented with protease inhibitors and sonicate. Alternatively, solubilize the cells in the presence of 1% NP-40, a mild detergent diluted in PBS, for 20 min at 4&#xB0;C under agitation and centrifuged at 16,000 &#xD7; _g_ for 10 min to remove cellular debris.\n3- Measure the protein content by a small-volume micromethod using the Bio-Rad D<sub>C</sub> protein assay. \n4- Mix 30-40 &#xB5;g of lysates at 2 &#xB5;g/&#xB5;l of protein with doubly concentrated PFO sample buffer \\(100 mM Tris base, 2-8% NaPFO \\(Oakwood Products Inc), 20% glycerol, and 0.005% bromophenol blue, pH adjusted at 8.0 with NaOH) and 25 mM DTT.\n5- Incubate at room temperature for 25 min, vortex briefly, and centrifuge 5 min at 10,000 &#xD7; _g_.\n6- Load your samples at room temperature on a 4-12% precast gradient Novex Tris-Glycine gel without SDS \\(Invitrogen) along with molecular weight standards resuspended in PFO sample buffer \\(high-molecular-mass rainbow marker kit \\(GE Healthcare), cross-linked Albumin and phosphorylase b \\(Sigma)). \n7- Perform electrophoresis at 140 V with a running buffer \\(25 mM Tris, 192 mM glycine, 0.5% NaPFO, pH 8.5, adjusted with NaOH) precooled to 4&#xB0;C. During the run, the electrophoresis box is kept at 4&#xB0;C.\n8- Transfer the proteins to a nitrocellulose membrane for 1 hr in a transfer buffer containing 25 mM Tris, 192 mM glycine and 20% \\(v/v) methanol. \n9- Analyze the protein band sizes either by Amido black staining \\(Sigma) for the molecular weight standards or by standard immunoblotting."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 210,
+  "origin_website": "Nature",
+  "title": "Targeted transfection of cells/tissue in vivo",
+  "procedures": [
+    "A/ In vivo PolyMag\nThe DNA, In vivo PolyMag and saline solutions should be at room temperature. We recommend using 1 µL of In vivo PolyMag per µg of DNA.\n1. Reagents preparation.\n  a. In vivo PolyMag. Before each use, vortex In vivo PolyMag vial. Add the required volume of In vivo PolyMag \\(according to DNA amount needed) to a sterile microtube. \nNote:  For DNA doses of less than 1 µg, pre-dilute an aliquot of In vivo PolyMag reagent with deionized water only, and use the volume required for your DNA dose. Discard the diluted In vivo PolyMag after use. \nb. DNA solution. Dilute DNA in the final injection volume in a sterile vial \\(subtract the In vivo PolyMag volume). \nNote: The final concentration of DNA should not exceed 0.5 mg/mL. \n2. Complexes formation. Add the DNA solution to the In vivo PolyMag and mix immediately by pipetting up and down. Incubate the complexes for 20 min at room temperature.\n  \n3. Injection.\n  a. Place the magnet on your targeted tissue\nb. Slowly inject the complexes \nc. Let the magnet stand from 5 min to 1 h \nNotes for intracerebroventricular or intra tumoral injections: Place the magnet few seconds after the complexes injection. Dye e.g. Fast Green FCF can be added to the complexes solution for a better monitoring of the injection.\n4. Monitor gene expression at the appropriate time point.\n  \nImportant notes: \n• Do not inject more than 1 mL of In vivo PolyMag per animal.\n• Do not inject complexes if precipitate has formed \nB/ In vivo DogtorMag\nThe DNA, In vivo CombiMag, Dogtor reagents and saline solutions should be at room temperature. We recommend using 1 µL of Dogtor and 1 µL of In vivo CombiMag per µg of DNA.\n1. Reagents preparation.",
+    "a. DNA solution. Dilute DNA in half of the injection volume in a sterile vial \\(subtract the In vivo CombiMag volume).\nNote: The final DNA concentration should not exceed 0.5 mg/mL. Dilute DNA in saline buffer \\(HBS, PBS, normal saline, Ringer’s solution) or glucose 5% solution.\nb. Dogtor solution. Gently mix the reagent before use. Dilute Dogtor in half of the injection volume. Incubate for 5 minutes at room temperature.\nc. In vivo CombiMag reagent. Vortex the reagent before each use. Use 1 µL of CombiMag / µg DNA. Add the In vivo CombiMag reagent directly into a tube \\(do not dilute with any solution). \nNote: For DNA doses of less than 1 µg pre-dilute an aliquot of In vivo CombiMag reagent with deionized water only and use the volume required for your DNA dose. Discard the diluted In vivo CombiMag after use.\n2. Complexes formation. Combine the DNA solution with the Dogtor solution. Mix gently and incubate 5 min at RT. Combine the DNA/ Dogtor mixture with the In vivo CombiMag reagent. Mix gently and incubate for 20 minutes at room temperature.\n  \n3. Injection.\n  a. Place the magnet on your targeted tissue\nb. Slowly inject the complexes \nc. Let the magnet stand from 5 min to 1 h \\(see Table 6)\nNotes for intracerebroventricular or intra tumoral injections: Place the magnet few seconds after complexes injection. Dye e.g. Fast Green FCF can be added to the complexes solution for a better monitoring of the injection.\n4. Monitor gene expression at the appropriate time point.\n  \nImportant notes: \n• Do not inject more than 1 mL of In vivo CombiMag per animal.\n• Do not inject complexes if precipitate has formed",
+    "Note: Magnetofectamine™ \\(MTX0750) has also been successfully tested in vivo. Please contact our technical support team at tech@ozbiosciences.com for more details."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Genetics",
+    "Molecular Biology",
+    "Microbiology",
+    "Developmental Biology",
+    "Nanoscience And Technology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

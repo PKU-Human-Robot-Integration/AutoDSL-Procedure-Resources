@@ -1,0 +1,17 @@
+{
+  "id": 5643,
+  "origin_website": "Bio",
+  "title": "Non-radioactive LATS <em>in vitro</em> Kinase Assay",
+  "procedures": [
+    "Purification of GST-YAP proteinTransform pGEX-KG-GST-YAP in BL21(DE3) competent cells by heat shock at 42 °C for 45 sec.Plate the cells on LB agar plates with 100 μg/ml carbenicillin and incubate overnight at 37 °C. Pick a single colony and inoculate in 5 ml LB broth with carbenicillin. Incubate overnight at 37 °C.Pour the 5 ml cultured bacteria in 500 ml LB broth and grow at 37 °C for around 2-3 h until OD600 = 0.6-0.8. Induce with 0.1-0.4 mM IPTG. Shake overnight at 16 °C.Spin down the bacteria at 4,000 x g for 15 min at 4 °C.Lyse the cells in 9 ml of PBS + 1x protease inhibitor + 1 mM PMSF + 1 mM DTT.Sonicate on ice. Total sonication time 1 min 30 sec, interval 15 sec. Amp = 30%.Add 1% Triton-X to the sonicated bacterial samples. Shake in 4 °C for 20-30 min.At the meantime, wash the glutathione Sepharose 4B beads 3 times with 0.1% Triton-X in PBS. 200 μl beads were used for 500 ml of bacteria culture. Spin down the bacteria at 10,000 x g for 30 min at 4 °C.Collect supernatant and add the beads. Rotate overnight at 4 °C. Centrifuge down the beads at 500 x g for 5 min at 4 °C. Wash with PBS + 0.1% Triton-X 3 times, 5 min each.Add 500 μl elution buffer and rotate for 1 h at 4 °C. Spin down the sample at 500 x g for 5 min at 4 °C. Repeat elution again. Collect the elution for dialysis against dialysis buffer at 4 °C twice. Snap freeze the protein and store at -80 °CLATS in vitro kinase assayHEK293A cells are cultured in Dulbecco’s modified Eagle’s medium (DMEM) with 10% fetal bovine serum (FBS).",
+    "Cells were seeded in 10 cm plates at a density of 1.5 x 106 per plate and were incubated in 37 °C, 5% CO2 until 80% confluent. A positive control can be cells that are serum starved for 30 min (Figure 2).Wash the cells with cold PBS. Remove PBS and scrape down the cells with 1 ml cold Mild lysis buffer (see Recipes) supplemented with 1x protease inhibitor, 1x phosphatase inhibitor, and 1 mM PMSF. Transfer the cells into 1.5 ml Eppendorf tubes. Incubate the samples on ice for 10 min. Spin down the lysates at 12,000 x g for 15 min at 4 °C. Collect the supernatants and incubate with 1 μl LATS1 antibody per sample overnight at 4 °C with constant rotation. Using a magnetic rack, wash the magnetic beads (10 μl per sample) 3 times with Mild lysis buffer. Resuspend the magnetic beads in 50 μl of Mild lysis buffer and add to the lysate. Rotate for 1 h at 4 °C.Using a magnetic rack, wash samples 3 times (10 min each) with 1 ml Mild lysis buffer per sample at 4 °C. Wash samples once with 1 ml 1x TBS (see Recipes) per sample for 10 min at 4 °C. While washing with TBS, prepare a master mix for the kinase reaction. Each kinase reaction contains 4 μl 10x kinase buffer, 500 μM cold ATP, and 1 μg GST-YAP in 40 μl reaction mix.Spin down the samples and remove the TBS using a magnetic rack. Add 40 μl of master mix into each reaction. Shake the reaction mixture at 30 °C for 30 min. Add 4x SDS sample buffer to stop the reaction, and heat the samples at 100 °C for 5 min. The samples are then subjected to SDS-PAGE and Western blotting."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

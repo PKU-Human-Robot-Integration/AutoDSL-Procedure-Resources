@@ -1,0 +1,15 @@
+{
+  "id": 8267,
+  "origin_website": "Bio",
+  "title": "Analysis of <em>Moraxella catarrhalis</em> Outer Membrane Protein Profiles",
+  "procedures": [
+    "M. catarrhalis strains were inoculated on brain heart infusion (BHI) plates (supplemented with antibiotics when appropriate), and grown overnight at 37 °C in an atmosphere containing 5% CO2.    Bacteria were harvested from plate and resuspended in PBS supplemented with 0.15% gelatin (PBS-G). This suspension was used to inoculate BHI broth to an OD620 nm of ~ 0.05 and grown at 37 °C at 200-250 rpm until OD620 nm of 1.0 to 1.2 (mid-log). Use of different growth media is possible, but may affect outer membrane protein profiles. Always use the same growth media when comparing outer membrane protein profiles of different strains.    Subsequently, bacteria were harvested by centrifugation for 10 minutes at 3,200 x g.    Outer membranes were isolated using the ReadyPrep Membrane I kit according to manufacturer’s instructions.    During the lysis procedure, 50 mg acid-washed glass beads (150-212 μm) were added for homogenization with the TissueLyser LT. The TissueLyser was operated 5 times for 1 minute at 50 Hz.   Suspensions were chilled on ice for 1 minute between every TissueLyser step.   Protein quantification was performed using the 2D-Quant Kit according to manufacturer’s instructions.    Five microgram of outer membrane preparations were separated on a 4-15% TGX gel and analyzed by colloidal Coomassie staining (Pink et al., 2010)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

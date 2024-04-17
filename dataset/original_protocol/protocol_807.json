@@ -1,0 +1,16 @@
+{
+  "id": 859,
+  "origin_website": "Nature",
+  "title": "Determination of antibodies binding specificities by printed glycan array technology",
+  "procedures": [
+    "Glycochips \\(microchips printed with 577 different carbohydrate structures, Semiotik LLC Moscow, Russia) were incubated in an incubation chamber for 15 min at 25 °C with PBS plus 0.1% \\(v/v) Tween-20 \\(buffer 3) \\(Sigma-Aldrich, St. Louis, MO, USA), and the buffer was then carefully removed from the microchip surface using Whatman® filter paper \\(Sigma-Aldrich, St. Louis, MO, USA). αGal-KO mouse serum was diluted \\(1:15) in PBS plus 1% \\(w/v) bovine serum albumin \\(BSA; Sigma-Aldrich, St. Louis, MO, USA) and 1% \\(v/v) Tween-20 \\(buffer 1). Diluted serum was spread over the slide surface and incubated with agitation \\(30 rpm) at 37 °C for 1.5 h. After a round of washing steps with buffer 3, buffer 4 \\(PBS with 0.001% v/v Tween-20), and distilled water \\(Milli-Q grade), the glycochips were drained by mild centrifugation \\(1 min, 175g, Eppendorf, Hamburg, Germany). The glycochips were then incubated for 1 h at 37 °C \\(30 rpm) with goat anti-mouse IgG+IgM \\(H+L) conjugated to biotin \\(Thermo Fisher Scientific, Waltham, MA, USA) and diluted 200-fold in PBS plus 1% BSA and 0.1% Tween-20 \\(buffer 2). The unbound fraction was removed by repeating the same round of washing steps. Glass slides were incubated in darkness at 25 °C for 45 min \\(30 rpm) with streptavidin labeled with Cy5 dye \\(GE Healthcare, Little Chalfont, Buckinghamshire, UK) and diluted 1:500 in buffer 2. After another round of washing, the glycochips were dried by airflow in darkness. Finally, the glycochips were scanned using a ScanArray GX Plus scanner \\(PerkinElmer, Waltham, MA, USA) with a laser \\(excitation wavelength of 633 nm). All data analysis was performed with the ScanArray® Express Microarray Analysis System \\(PerkinElmer, Waltham, MA, USA).",
+    "Interactive exploration of multidimensional data \\(heat mapping and clustering analysis) was performed with the Hierarchical Clustering Explorer \\(HCE) application developed by the University of Maryland, Maryland, USA \\(http://www.cs.umd.edu/hcil/hce/)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

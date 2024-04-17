@@ -1,0 +1,15 @@
+{
+  "id": 6816,
+  "origin_website": "Bio",
+  "title": "Environmental Conditioning and Aerosol Infection of Mice",
+  "procedures": [
+    "Pre-conditioning of mice in environmental chambersTransfer the mice to biosafety level 2 (BSL2) adaptive feeding for 3-7 days. Divide the mice randomly for housing under different humidity conditions at 20 °C, 5 mice for each group.House the mice in cages placed in chambers set to either 20% or 50% RH for 5-7 days.Influenza infection via aerosol exposure (to be carried out under BSL2 condition)Dilute hvPR8 2 x 105 pfu/ml in PBS and prepare 4 ml of diluted virus solution.Note: This virus concentration is the lethal dose 50 (LD50) for this study. If you change influenza virus or mouse strain, you should determine LD50 for your conditions before the experiment following this protocol. General protocol of measurement of LD50 is reported in Zhao et al. (2018). Put mice (up to 12 mice simultaneously) in the pie cage.Set nebulizer and pour 4 ml of diluted virus solution (3 ml is exact volume that would be will be used during 15 min of aerosol delivery).Turn on the switch for the nebulizer and expose for 15 min (Figure 1 and Video 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200410/20200410105106_6284.jpgFigure 1. Representation of how to infect influenza virus in mice using a nebulizer. A. Mice are diagonally put into the pie cage if the number of mice is less than 12. B. Image of connected pie cage and nebulizer.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Infection via aerosol administration. (All procedures used in this study complied with federal and institutional policies of the Yale Animal Care and Use Committee (protocol #10365).)Put mice back in the cage and house them at respective environmental conditions.Monitor the weight and death of the mice for 2 weeks (Figure 2 and Video 2). Euthanize the animals according to the guidelines of the institutional animal care and use committee.",
+    "(All procedures used in this study complied with federal and institutional policies of the Yale Animal Care and Use Committee (protocol #10365).)imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200410/20200410105043_9562.jpgFigure 2. Measuring of body weight Mouse put on the weight scaler to measure the body weight<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. Measure the body weight"
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

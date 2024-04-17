@@ -1,0 +1,16 @@
+{
+  "id": 4551,
+  "origin_website": "Bio",
+  "title": "Isolation and Characterisation of Dendritic Cells from Peripheral Blood",
+  "procedures": [
+    "Mononuclear cell isolationCool MACS magnet adaptor and LS column at 4 °C. LS columns have a total loading capacity of 2 x 109 unpurified cells (which would allow the isolation of 108 labelled cells). Cool MACS Buffer and PBS on ice.Dilute the blood 1:1 in PBS. Add 15 ml histopaque-1077 (density 1.077 g/ml) to a 50 ml conical tube.Carefully layer 30-35 ml of blood/PBS on top.Spin at 800 x g for 20 min at RT. No brake on centrifuge.Take WBC at interphase. To do this use a Pasteur pipette. Squeeze the teat prior to adding to Falcon and then suck up the white fluffy looking layer resting on histopaque. Avoid aspirating excessive histopaque-1077 as it can prevent pelleting of cells.Pellet cells at 300 x g for 10 min (RT). If there is a problem pelleting cells possibly due to contaminating lymphoprep then dilute a further 1:4 in PBS and repeat centrifugation step.Wash in cold PBS 300 x g for 10 min. Add 50 ml of PBS to pelleted cells.Count cells. May need to dilute (1:100). A sample is taken as pre-sort control for FACs analysis to determine enrichment.Centrifuge at 300 x g for 10 min (RT). Re-suspend pellet in 300 µl of MACS buffer per 108 total cells. So for 3 x 109 the cells would be re-suspended in 9 ml. Add 100 µl of FcR Blocking reagent (in kit) per 108 and 100 µl of Microbead dendritic antibody cocktail.Incubate for 10 min at 4 °C.Transfer to a 50 ml Falcon and wash in PBS. Spin 300 x g for 10 min (RT).As spin ends, charge the column. To charge the column insert LS column into magnet. Then run 3 ml of MACS buffer through the column. Discard flow through.",
+    "Re-suspend the centrifuged cells in 500 µl of MACS buffer per 108 cells and add to column.Collect flow through. Re-apply this flow through to the column. Collect again and then wash the column a further two times with 3 ml washes. The flow through represents the dendritic cell population. Count cells.Cells are then used for downstream application.FACS stainingUsing the cell count above. 105 cells are pelleted (400 x g for 5 min) in FACs tubes and re-suspended in residual PBS in tube (approximately 50 µl). Add 1 µl of normal mouse serum to cells and incubate for 10 min (RT).Proceed directly to adding directly conjugated antibody to cells (or isotype matched controls) as dictated by antibody datasheet. Stain in presence of normal serum. Stain for 20 min at RT in the dark (unless IgM which is then done at + 4 °C). Have one tube unstained for setting the parameters for collection.Wash cells in 10x PBS and then spin (400 x g; 5 min, RT). Resuspend in 500 µl and proceed to FACs analysis. Cells are characterized by the expression of a panel of cell surface markers consistent with a DC phenotype. The cells should be HLA-DRhigh whilst TCR, CD14 and CD19 negative. Cells will also express CD1a, CD86 and CD83low."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

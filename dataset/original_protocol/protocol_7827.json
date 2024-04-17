@@ -1,0 +1,15 @@
+{
+  "id": 8235,
+  "origin_website": "Bio",
+  "title": "Batch Culture Fermentation of Endophytic Fungi and Extraction of Their Metabolites",
+  "procedures": [
+    "5 discs of 5 mm diameter of endophytic fungus from petridish were inoculated in Wickerham medium.Flasks with inoculated media were incubated at 24 °C for 24 days under static culture condition without light. One flask of medium without any inoculam served as a control.After 24 days of incubation, 250 ml of ethyl acetate was added to each flask, mixed, and left overnight. Ethyl acetate immersed fungus culture was blended with a hand blender for 15 min and filtered by whatman filter paper under vacuum (Wicklow et al., 1998). The filtrate was collected and residual aqueous phase was partitioned thrice times with equal volumes of ethyl acetate in a separator funnel (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130926/20130926042941_9384.jpgFigure 1. Partitioning by separator funnelAqueous phase obtained after ethyl acetate extraction was further partitioned three times with equal volumes of saturated butanol. Aqueous phase obtained after butanol extraction was discarded after immersing in detergent.The ethyl acetate and butanol extracts were dried with vacuum rotary evaporator. Dried ethyl acetate extract resuspended in 90% methanol and extracted with n-hexane. After drying the hexane, butanol, and methanol extracts with vacuum rotary evaporator they were subjected to further experimentation. Schematic diagram for the extraction of the metabolite has been given in Figure 2.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130928/20130928225836_4412.jpgFigure 2. Schematic diagram of extraction procedure for obtaining crude fungal extracts"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

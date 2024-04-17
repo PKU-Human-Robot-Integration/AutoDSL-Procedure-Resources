@@ -1,0 +1,14 @@
+{
+  "id": 677,
+  "origin_website": "Nature",
+  "title": "Isolation of human NK subsets",
+  "procedures": [
+    "1)  Isolate peripheral blood lymphocytes from different healthy donors using Ficoll gradients. \n2)  Isolate NK cells using the NK isolation kit II \\(Miltenyi Biotec), according to manufacturer&#x2019;s instructions. \n3)  Sort 100 X 10<sup>6</sup> cells enriched for CD56+CD3-NK cells from each donor, as described below, in order to purify CD56dimCD16+CD3- and CD56brightCD16-CD3- subsets. \n4)  For each experimental with NK subsets, also perform mock isolation of pbNK cells as if they were dNK cells to rule out the possibility that differences between NK subsets was due to methodological differences in isolation procedures. Achieve this by subjecting isolated pbNK cells to the same isolation protocol used for the isolation of dNK cells\\(2).\n**Staining and cell sorting**\n1)  Wash cells in PBS supplemented with 2% FCS and incubate with mAb on ice for 30 min.\n2)  Wash twice. \n3)  Cell sort and measure fluorescence on a MoFlo high performance cell sorter \\(DakoCytomation). \n4)  Collect data from single cell events using a standard FACScaliburTM flow cytometer \\(Immunocytometry systems; Beckton Dickinson). \n5)  Highly purify peripheral blood NK subsets to obtain 2 subsets: CD56dimCD16+CD3- NK \\(pbCD16+ NK) and CD56brightCD16-CD3- \\(pbCD16- NK). Decidual NK cells should be uniformly of the CD56brightCD16-CD3-phenotype \\(dNK) cells.  Subset purity should be routinely higher than 99%.  \n6)  Perform intracellular staining with a Cytoperm-Cytofix Intracellular Staining kit \\(Pharmingen) according to the manufacturer&#x2019;s instructions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

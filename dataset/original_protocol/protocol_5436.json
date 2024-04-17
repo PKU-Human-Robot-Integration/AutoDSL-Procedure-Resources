@@ -1,0 +1,16 @@
+{
+  "id": 5767,
+  "origin_website": "Bio",
+  "title": "Polyadenylated RNA Sampling",
+  "procedures": [
+    "RNA extractionBacteria were grown in LB medium.At OD650=0.4 10 ml aliquots were rapidly mixed with an equal volume of 100% ethanol preequilibrated at -70 °C.Cells were pelleted for 10 min at 4,300 x g and 4 °C in the JA20 rotor of a Beckman centrifuge.Cells were resuspended in 1.5 ml 4 °C preequilibrated buffer 1.Mix with 1.5 ml of buffer 2 lysis buffer prewarmed at 95 °C.Cells were lysed for 2 min at 95 °C.RNAs were extracted twice at 65 °C with 3 ml of phenol saturated with water.RNAs were extracted once with chloroform at room temperature.RNAs were then precipitated with 2.5 volumes ethanol in the presence of 0.3 M NaCl, washed with 70% ethanol, and dissolved in water.RNA concentration was determined using a Nanovue.RT-PCR1 μg total RNA was incubated with 10 pmol CDSIII/3’PCR (5’-ATTCTAGAGGCCGAGGCGGCCGACATG-d(T)30NN-3’) and 10 pmol d’oligo SMART IV (5’-AAGCAGTGGTATCAACGCAGAGTGGCCATTACGGCCGGG-3’) oligos (kit SMART cDNA, BD Biosciences) dissolved in water.Incubate for 2 min at 72 °C then 2 min in ice.Add 10 units PowerScript reverse transcriptase in 2 mM DTT, 2 mM dNTP, 1x buffer from the supplier).Incubate for 1 h at 42 °C. Amplify cDNA with 20 pmol 5’PCR Primer (5’-AAGCAGTGGTATCAACGCAGAGT-3’), 20 pmol CDSIII/3’PCR oligo, 0,2 mM dNTP, 2 μl Avantage 2 Polymerase Mix 1x. Incubate 1 min at 92 °C, then perform 22 cycles (15 sec at 95 °C, 6 min at 68 °C).PCR products were analysed on agarose 1% and purified according to their size if required.Cloning and sequencingDigest cDNAs with 200 units Sfi I for 3 h at 37 °C.Digest pDNR-LIB plasmid with 30 units Sfi I for 3 h at 37 °C.Purify the linear plasmid on agarose gel and elute the DNA by using the Jetsorb kit.Precipitate both cDNAs and plasmid and resuspend in water.",
+    "Ligate cDNAs and linear plasmid with 600 units T4 DNA ligase, 1 mM ATP, in recommended buffer for the night at 16 °C for 24 h.150 μl supercompetent Escherichia coli XLI Blue were transformed with 5 μl ligation mix."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

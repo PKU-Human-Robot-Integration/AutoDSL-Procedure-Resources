@@ -1,0 +1,18 @@
+{
+  "id": 4577,
+  "origin_website": "Bio",
+  "title": "Polysomal-mRNA Extraction from <em>Arabidopsis</em> by Sucrose-gradient Separation ",
+  "procedures": [
+    "Pre-treatment: All glass materials were heated in 180 °C for 12 h and all plastic materials were treated with non-sterile DEPC-H2O overnight, then autoclaved at 121 °C for 20 min. RNase-free water was used to prepare all buffers.Collect 0.5-1 mg plant tissue sample into a mortar and then add liquid nitrogen immediately.After grinding the plant tissue finely, add 1,250 μl polysome extraction buffer into the mortar.Transfer the crude extract in an Eppendorf tube and let it sit on ice for 10 min.Centrifuge the crude extract for 10 min at 13,000 rpm at 4 °C.Transfer the supernatant into a QIA shedder column (700 μl/column). The column is spun for 1 min at 13,000 rpm at 4 °C, then the flow-through is collected. Detect the OD260 unit for the flow-through by spectrophotometry. Prepare the four different sucrose gradient layers in the Hitachi centrifuge column.Carefully add 800 μl sample (20-25 OD260 unit; the nucleic acid concentration for 1 OD260 unit is equal to 40 µg/ml RNA) onto the top sucrose layer (the 20% layer). Balance tubes and buckets to 0.03 g by adding sample or polysome extraction buffer. Ultracentrifuge for 225 min at 39,000 rpm at 4 °C in an Hitachi P40AT swing rotor.Link the pump with a UV detector and the fraction collector. Link the UV detector with the recorder.Put the 260-nm filter into the UV detector system and turn it on at least 20 min before polysome profile analysis.Put the probe into a sample separated in sucrose gradient after ultracentrifugation, turn on the pump to suck the sample, and turn on the recorder to create the sucrose gradient profile. According to the sucrose gradient profile, combine the polysomal fractions together into a 15-ml tube.",
+    "Add the washed FLAG beads to the 15-ml tube and incubate for 2 h at 4 °C on a rocking platform. Centrifuge the mixture for 3 min at 3,000 rpm at 4 °C. Remove the supernatant. Add 2 ml wash buffer to the tube and mix gently by inverting it for 5 min at 4 °C, then centrifuge the mixture for 3 min at 3,000 rpm at 4 °C. Remove the supernatant (first wash).Add 2 ml wash buffer to the tube and mix gently by inverting it for 5 min at 4 °C, then centrifuge the mixture for 3 min at 3,000 rpm at 4 °C. Remove the supernatant. Repeat 3 times.Transfer the mixture to a new Eppendorf tube.To elute the affinity-purified polysomes, add the 300 μl FLAG peptide (400 ng/μl) with RNAsin (20 U/ml) to the Eppendorf tube and incubate for 30 min at 4 °C on a rocking platform.Centrifuge for 1 min at 8,200 x g at 4 °C. Transfer the supernatant to a new Eppendorf tube. If the supernatant still contains the beads, centrifuge again for 5 min at 13,000 rpm at 4 °C.Add additional wash buffer to the eluent to reach 500 μl volume.Add phenol/chloroform (1:1) in an equal volume (500 μl) to the eluent and mix by inverting. Centrifuge for 10 min at 13,000 rpm at 4 °C.Transfer the supernatant to a new Eppendorf tube and add an equal volume of chloroform.Centrifuge for 10 min at 13,000 rpm at 4 °C.Transfer the supernatant to a new Eppendorf tube and add 0.1 volume 3 M NaOAC (pH 5.2) and 2.5 volume 100% EtOH to precipitate the RNA overnight at -20 °C.Centrifuge for 25 min at 13,000 rpm at 4 °C.Pour out the supernatant, then wash the pellet with 70% EtOH twice.",
+    "Air-dry the RNA pellet and use 20 μl RNase-free water to suspend the RNA pellet."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

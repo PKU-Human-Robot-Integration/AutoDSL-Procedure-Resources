@@ -1,0 +1,17 @@
+{
+  "id": 7392,
+  "origin_website": "Bio",
+  "title": "Electrophysiological Recordings of the Polycystin Complex in the Primary Cilium of Cultured Mouse IMCD-3 Cell Line",
+  "procedures": [
+    "Pipette fabrication for ciliary patch clampRun a ramp test to determine the level of heat required to melt the individual batch of glass pipettes. To run a ramp test, select the option of “ramp test” on the screen of the puller. The result of the ramp test is automatically determined when the glass pipette is melted and the puller bars drift apart.Customize program to fabricate pipettes with bath resistance 18-26 MΩ. We designed the program (Table 1) and pulled the pipette using a Sutter micropipette puller (given that ramp is 584).Table 1. Micropipette program using BF150-75-10 borosilicate glass. The number of each setting can be re-calculated based on ramp test of the pipette.table:\n﻿0,1,2,3,4\nHEAT,PULL,VELOCITY,DELAY,PRESSURE\n600,0,25,1,500",
+    "After pulling, carefully polish pipette tip using microforge.After polishing the pipette, place the pipette into the bath solution of the chamber.Confirm the bath resistance of pipette (18-26 MΩ). The bath resistance of the pipette is automatically shown in the Clampex program (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4196/bioprotoc-11-20-4196-g001.jpgFigure 1. Clampex software for patch clamp recording. Red box 1 shows the resistance of the pipette in the bath mode (bath resistance). Red box 2 indicates the record button that can be selected for electrophysiology recording. In this figure, the Clampex software is run in the demo mode.Ciliary patch clamp recordingsSeed IMCD-3 cells (number of cells: 0.05 × 106) on cover slips (12 mm diameter) in 24-well culture plate and add 1 ml of DMEM media.Transfect with the ARL 13B gene encoding ADP-ribosylation factor-like protein 13B-Enhanced green fluorescent protein (Caspary et al., 2007) as a ciliary marker when cell confluency is 70-90% with Lipofectamine LTX following the manufacturer’s instruction[href=https://www.thermofisher.com/us/en/home/].Incubate overnight in a CO2 incubator.The next day, replace medium with OPTI-MEM and incubate for 1-2 days until the number of cells reaches >0.24 × 106 to induce primary cilium formation.Transfer cover slip to patch clamp chamber and confirm that cells have formed a primary cilium by detecting green fluorescent labeled ARL-13B in the microscope (Figure 2B).Place the borosilicate pipette into the chamber using the manipulator (Figure 2B) and carefully position it near the primary cilium (Figure 2B).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4196/bioprotoc-11-20-4196-g002.jpgFigure 2. Schematic illustration for ciliary patch clamp set-up. A. Schematic drawing for single channel patch clamp recordings of ciliary membrane. B. Full view of patch clamp set-up.Position pipette at ciliary tip and apply negative pressure by suctioning the tube connected to the electrode to form a gigaseal that should be between 8.0-32.0 Giga Ohms (GΩ). The value of a giga-seal is automatically recorded in the Clampex software.",
+    "Record currents by selecting the record option in the Clampex and discard data obtained at less than 8.0 Giga Ohms (GΩ) seal (Figure 1)."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Biophysics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

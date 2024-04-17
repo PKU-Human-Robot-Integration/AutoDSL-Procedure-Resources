@@ -1,0 +1,15 @@
+{
+  "id": 5602,
+  "origin_website": "Bio",
+  "title": "Soft Agar Colony Formation Assay as a Hallmark of Carcinogenesis",
+  "procedures": [
+    "Preparing 5% agar solution (see Recipes).Production of the bottom layer of agar.Add 9 ml complete medium (37 °C) to 1 ml 5% agar solution (50 °C) and mix thoroughly.Pipette 0.8 ml mixture to each well of 12-well plate and allow it to solidify for 30 min at room temperature.Preparation of cell suspension.Remove the complete medium from culture dish and wash cells with 1x PBS.Add 0.5 ml 0.25% trypsin (37 °C) for 3-5 min and collect detacted cells by adding complete medium.Spin cells at 60 x g for 5 min and resuspend cells in complete medium, then count cells and adjust the concentration of cells to 1 x 103 cells/ml.Production of the upper layer of agar.Add 9.4 ml re-suspended cells (37 °C) to 0.6 ml 5% agar solution (50 °C) and mix homogeneously.Pipette 0.8 ml the cell-agar mixture onto the solidified bottom layer of agar in 12-well plate and allow it to solidify for 30 min at room temperature. Add 800 μl complete medium on top to prevent drying of agar and then cells were maintained in a 37 °C humidified incubator with a mixture of 95% air and 5% CO2.Clone countingMonitor colony formation for 2-3 weeks before counting.All colonies per well were counted with a gel count colony counter, and then determine the average number of colonies of the three replicates for each group.Capture images of colonies at room temperature using an advanced microscopy group microscope (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170614/20170614193258_5964.jpgFigure 1. Photographs of representative colonies from SGC7901 cell lines. SGC7901 cells were cultured in the upper layer of agar and the formation of colonies was captured at 2-3 weeks after culture. Scale bars: A, 400 μm; B, 100 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 299,
+  "origin_website": "Nature",
+  "title": "Protocol for the Rat Mesentery Ischemia/Reperfusion",
+  "procedures": [
+    "1. Anesthetize: urethane, 2 g/kg body weight, i.m.\n  \n2. Open abdomen: midline incision, 20 –30 mm long.  \n  \n3. Prepare the mesentery: an ileocecal portion of the mesentery was gently exteriorized and mounted on a custom-designed transparent plastic stage. The mesentery was kept at 37 ºC and moist by continuous superfusion with saline solution. \n  \n4. Standard of choosing microvessle: single unbranched venules with diameters ranging between 30 and 50 μm and a length longer than 200 μm were selected for study.\n  \n5. Basal observation of venule condition: at least within 10 minutes, there should be no leukocyte adhesion, and rolling leukocyte number should be less than 10 per visual field. Otherwise, change to another venule to test.\n  \n6. Ligating to induce ischemia: ligate the feeding branch of the anterior mesenteric artery and the corresponding vein simultaneously with a snare created by 2-0 silk suture or polyethylene tube for 10 min. Both artery and vein were ligated to stop blood supply and induce venule congestion to enhance ischemia．Sham-operated rats without I/R were used as control.\n  \n7. Reperfusion: release of the blood flow by cutting apart the snare.\n  \n8. Observation the microcirculation: use LOSOM to observe leukocytes’ rolling and adhesion."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

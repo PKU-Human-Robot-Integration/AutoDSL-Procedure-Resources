@@ -1,0 +1,12 @@
+{
+    "datatype": {
+        "REG": "experimental material", 
+        "COND": "condition", 
+        "RET": "product"
+    },
+    "example": [
+        "Remove [the supernatant]{REG}",
+        "Remove [the MPSC]{REG} [from the splenic vein]{COND} and [the IVC graft]{REG} [on the IHIVC]{COND}",
+        "Mix [RPMI-1640]{REG} and [4% BSA]{REG} to get [0.4% BSA]{RET}."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 285,
+  "origin_website": "Nature",
+  "title": "Laser capture microdissection \\(LCM) and RNA isolation",
+  "procedures": [
+    "Tissue samples from 12 μm-thick frozen sections for RNA analysis were obtained from each hypothalamic\nnucleus or 50 captured GFP-positive or -negative cells onto a single CapSure HS LCM Cap \\(Arcturus Engineering, Mountain View, CA) using the following parameters: spot size = 7.5 μm; power = 50–80 mW; and pulse duration = 50–1,000 ms. Total RNAs were isolated by PicoPure RNA Isolation Kit \\(Arcturs Engineering), and treated with DNase I \\(Invitrogen)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

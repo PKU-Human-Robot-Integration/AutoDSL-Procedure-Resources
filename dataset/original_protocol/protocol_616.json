@@ -1,0 +1,17 @@
+{
+  "id": 653,
+  "origin_website": "Nature",
+  "title": "Heart ink injection",
+  "procedures": [
+    "1. Anesthetize the mouse\n  2. Using a 1 ml syringe withdraw 0,5 ml of mouse blood from the heart ventricle \n  3. Inject 1 ml of China Ink and wait for 30 sec \\(until the eyes, mouth and legs became black)\n  4. Quickly dissect and fix in 4% PFA over night at 4&#xB0;C\n  5. Treat the sample with a solution of 0,5% KOH for one day \n  6. Treat the sample with a solution of 0,5% KOH/Glycarol 2:1 one day\n  7. Treat the sample with a solution of 0,5% KOH/Glycerol 1:1 for one day\n  8. Treat the sample with 100% Glycerol for one day \\(in order to visualize clearly all the inner blood vessels)"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

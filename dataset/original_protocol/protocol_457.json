@@ -1,0 +1,16 @@
+{
+  "id": 487,
+  "origin_website": "Nature",
+  "title": "RNAseq: mRNA to Illumina library",
+  "procedures": [
+    "1. **Assess mRNA using Agilent RNA 6000 Nano kit**, assay mRNA Nano \\(Supplementary 1).\n  a. Best if each mRNA sample run in duplicate so an average mRNA concentration can be used.\nb. Following procedure requires 10-400ng of mRNA for each sample. \n2. **Proceed with Illumina TruSeq Stranded mRNA Sample Preparation Guide, Low Sample \\(LS) Protocol \\(15031047 Revision E).** \n  a. Since starting with mRNA, start at page 20 step #12 by adding mix to desired amount of mRNA. \ni. Illumina recommends having mRNA concentrated into 5 µL or less to start; however, we have had success with using up to 42 µL, equal to 400ng of mRNA. \nb. Proceed with incubation.\nc. Since starting with mRNA, without beads, skip page 22 step #2. At step #3 only transfer 17 µL of mRNA/mix and continue protocol as Illumina has written. \n3. **Validate library after complete.** \n  a. Assess quantity of dsDNA library using Quant-iT™ PicoGreen® dsDNA Assay Kit  \\(Supplementary 2). Minimum quantity will depend on laboratory/core the library will be submitted to. \nb. Assess size of library using Agilent High Sensitivity DNA Kit  \\(Supplementary 3) . Refer to the Quick Guide. The final product should be approximately 260bp."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

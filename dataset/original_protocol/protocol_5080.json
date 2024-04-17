@@ -1,0 +1,16 @@
+{
+  "id": 5402,
+  "origin_website": "Bio",
+  "title": "Knock-in Blunt Ligation Utilizing CRISPR/Cas9",
+  "procedures": [
+    "Generation of the knock-in blunt ligation cassetteSet up a minimum of 8 PCR reactions according to the manufacturer’s instructions using 1 ng of double-stranded DNA template and a minimum reaction volume of 50 µl. Carry out the PCR on a thermocycler using appropriate parameters.Following PCR, pool the reactions and purify the product using the MinElute PCR Purification Kit according to the manufacturer’s instructions. Elute in 20 µl of the provided EB buffer.To remove carried-over plasmid, perform a restriction digest using FastDigest DpnI. Use a reaction volume of 30 µl and the following thermocycler protocol:37 °C for 1 h80 °C for 10 min12 °C for infinityBring the reaction to 100 µl with nuclease-free water and purify the cassette product from the digest using a CHROMASpin+TE-1000 chromatography column according to the manufacturer’s instructions (see Note 1).Knock-in blunt ligationOne day prior to transfection, plate 150,000 to 500,000 HEK293 cells per well in a 24-well plate in 500 µl of growth media and place in a tissue culture incubator.On the day of transfection, assemble the transfection reactions in microcentrifuge tubes in a tissue culture hood using 100-200 ng of purified cassette, 0.5-1.5 µg of guide RNA + Cas9 vector, FuGENE® HD reagent at a 3:1 reagent-to-DNA ratio, and Opti-MEM I to 50 µl. Perform each reaction in triplicate, making sure to include a negative (transfection reagent alone) control. Vortex the reactions briefly and incubate at room temperature for 30 min.After 30 min, aspirate media from cells and replace with 500 µl of fresh growth media. Remove 50 µl of media from each well. Then, add the transfection reaction dropwise to each well, followed by gently swirling the plate to mix. Place the plate in a tissue culture incubator.",
+    "Two days post-transfection, trypsinize cells (see Note 2), harvest in microcentrifuge tubes, spin down at 300 x g for 5 min in a microcentrifuge, and aspirate the supernatant. Then, resuspend the pellets in 200 µl of FACS media supplemented with NucBlue® Fixed Cell Stain ReadyProbes® reagent and filter the cell suspension through the strainer of a Falcon test tube. Place tubes on ice, protected from light.Using a FACSAria II flow cytometer, clone individual cells into individual wells of a 96-well plate containing 200 µl growth media. Briefly centrifuge (300 x g) the plate after cloning and place in a tissue culture incubator for 5 days undisturbed (see Note 3). Note that this cloning process is greatly facilitated by a fluorescent reporter, either in the cassette or on the Cas9 expression vector (see Note 4).After 5 days, replace old media with 200 µl of fresh media regularly until colonies are large enough to passage. When passaging colonies for the first time, reserve half of the cells in each colony for diagnostic PCR to identify which colonies contain the desired knock-in event."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

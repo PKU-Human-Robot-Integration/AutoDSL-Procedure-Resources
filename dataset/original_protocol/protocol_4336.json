@@ -1,0 +1,16 @@
+{
+  "id": 4553,
+  "origin_website": "Bio",
+  "title": "Secretion Assay in <em>Shigella flexneri</em>",
+  "procedures": [
+    "Prepare a pre-culture by inoculating 2 ml of LB medium with a single colony of S. flexneri from a Congo red tryptone soy agar plate and grow overnight (~16 h) at 37 °C with agitation (180 rpm). Note: Ensure that the colonies used are secretion-competent, i.e. forming red colonies on the plate due to Congo red absorption (Payne and Finkelstein, 1977).    Subculture by diluting 100 µl of the pre-culture in 10 ml of fresh LB medium (i.e. 1:100 dilution).   Grow to OD600 (absorbance at 600 nm) of 0.3-0.4 at 37 °C with agitation. Note: In case genes from expression plasmids are to be induced, this should be done at OD600 of ~0.1.   Add Congo red to a final concentration of 200 µg/ml (i.e. 400 µl of 5 mg/ml stock solution to 10 ml of culture).   Grow for 2-3 h at 37 °C with agitation – the final OD600 of the culture should be between 2 and 3.   Pellet cells by centrifugation for 10 min at 10,000 x g and 4 °C. Note: For the following TCA precipitation a supernatant volume corresponding to 1 ml culture of OD600=2 is used, meaning that centrifugation of 1.4 ml of culture in 1.5 ml tubes should be sufficient (considering the dead volume of the filter units in step 7).   Transfer the supernatant to the 5 ml syringes and filter through 0.2 µm filters.  Note: For maximum yield remove the piston from the syringe and add the filter. Transfer the supernatant into the syringe and replace the piston- the additional air will minimize the volume lost in the filter.   Take a volume of filtered supernatant corresponding to 1 ml culture of OD600=2 and add ice-cold 99% trichloroacetic acid to a final concentration of 10% (v/v).",
+    "Note: Congo red will turn blue at this point and precipitate as well.   Transfer the tubes to -20 °C for 20 min.   Centrifuge at top speed (12,000 x g to 16,000 x g) in a microfuge for 30 min at 4 °C.   Carefully discard the supernatant and rinse the pellet with 1 ml ice-cold acetone.   Centrifuge again (12,000 x g to 16,000 x g, 30 min, 4 °C).   Carefully remove the supernatant and let the pellet air dry for 15 min.   Resuspend the pellet in sample buffer. Note: The volume required may vary with the method of detection after electrophoresis: for analysis by Coomassie staining, resuspension in 25 µl to 100 µl will produce sufficiently strong bands.   Analyse by SDS-PAGE through 12% acrylamide gels."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

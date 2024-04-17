@@ -1,0 +1,15 @@
+{
+  "id": 18267,
+  "origin_website": "Jove",
+  "title": "A Mouse Model of Single and Repetitive Mild Traumatic Brain Injury",
+  "procedures": [
+    "These studies were performed in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes Health. The protocol was approved by the Institutional Animal Care and Use Committee at Georgetown University. Mice were housed in a temperature controlled animal facility and were kept on a 12 h light/12 h dark cycle. Food and water were available ad libitum.\n1. Preparation of the mTBI Apparatus\nNOTE: The mTBI apparatus includes a data acquisition (DAQ) box to control impact parameters, a high-velocity pneumatic impactor to perform the impaction, and a moulded gel filled base to decelerate head after impact.\nTurn on compressed air and initialize the high-velocity pneumatic impactor to a pressure setting of 861.85 kPa.\nCalibrate the DAQ control system to following parameters- piston velocity of 2.35 m/s, surface dwell time of 31.5 ms.\nPlace the molded gel-filled base (compressibility 64 kPa/mm) such that the midline is perpendicular with the trajectory of impactor tip.\n2. mTBI Impaction\nRecord the weights of all mice to be used.\nAnesthetize mice with 3% isoflurane in oxygen for 120 s in an induction chamber.\nTransfer mice to mTBI apparatus, continuing anesthesia via a pliable, non-fixed nose cone.\nWhilst in nose cone, position mouse head on the gel pad so that the flat surface of the skull is presented perpendicular to the impactor tip.\nPlace tape over mouse head to create a flat surface and hold ears away from the impact site.",
+    "Lower the polytetrafluoroethylene impactor tip to align with the sagittal midline in the center of the head. The impactor tip used is 10 mm in diameter and will cover the area of the scalp from just behind the eyes to the midline of the ears. Adjust the impactor so it is just touching the surface of the mouse head.\nRetract the impactor tip and manually dial down the required deflection depth (7.5 mm).\nArm the DAQ control system and depress trigger button to impact mouse head, either a singular or repetitive impacts. Repetitive impacts are delivered in succession with no delay between each impact.\nImmediately after the final impact, remove mouse from anesthesia and the mTBI apparatus and place in supine position.\nUsing a stopwatch measure the latency of the return of righting reflex (supine to prone), to determine loss of consciousness time, as well as time to ambulation (unimpeded walking).\nMonitor mouse and upon recovery to normal behaviour, return to its home cage.\nSham mice receive identical handling and anesthesia, but receive no impact.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

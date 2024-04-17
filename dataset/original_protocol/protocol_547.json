@@ -1,0 +1,14 @@
+{
+  "id": 583,
+  "origin_website": "Nature",
+  "title": "_In vitro_ differentiation of human Th-17 CD4+ T cells",
+  "procedures": [
+    "**DAY 1**\n1. Isolate mononculear cells from adult or cord blood on a FicollPAQUE gradient\n  2. Use Miltenyi human CD4+ beads and procedure to isolate CD4+ T cells \n  3. Isolate naive CD4+ T cells by cell storing. Human naive CD4+ T cells are typically defined as CD3+CD4+CD45RA+CD25-HLA-DR- but more complex sorting schemes can been utilized \\(1).\n  **TIP**: Coat tubes with serum-free media for harvesting cells during sort.\n4. Count cells and resuspend in fresh serum-free media at a concentration of 250,000 to 500,000 cells per mL\n  5. Add 10 U/ml of IL-2, 10 ng/mL of IL-1beta, 10 ng/ml of IL-23, 1 &#xB5;g/ml of anti-IL-4, 1 &#xB5;g/mL of anti-IFNgamma and anti-CD3/CD28 activation beads at a ratio of 1 bead per cell\n  6. In U-bottom 96-well plates, aliquote 200 &#xB5;L per well\n  7. Add an increasing concentration of TGF-beta to a serie of four wells : 0, 0.1, 1 and 10 ng/mL\n  **TIP**: TGF-beta is a highly hydrophobic protein and its activity can be variable. Thus, it is important to titrate TGF-beta systematically in each experiment.\n**DAY 3**\n**TIP**: At day 3, cells spontaneously gather to the center of each well and should be visible macroscopically.\n8. Spin plates, remove media and replace with fresh media containing all cytokines and antibodies\n  \n**DAY 5**\n9. Split each well in half\n  10. Spin plates, remove media and replace with fresh media containing all cytokines and antibodies\n  \n**DAY 6**\n11. Activate cells for 5 hours in the presence of 50 ng/ml of PMA, 500 ng/ml of ionomycin and 1x of BD GolgiStop\n  12. Fix cells in BD Perm/Fix and proceed for intracellular staining of IL-17A and IFNgamma in BD Perm/Wash buffer\n  13. Analyse cells by flow cytometry\n  **TIP**: In the presence of TGF-beta, 1% to 15% of IL-17A+ cells are typically observed"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

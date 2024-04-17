@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "origin_website": "Bio",
+  "title": "Assessing Swarming of Aerobic Bacteria from Human Fecal Matter",
+  "procedures": [
+    "Prepare the agar LB plates with a final agar concentration of 0.4% (see Recipes).Remove fecal samples from the freezerFresh human fecal samples were obtained in 2015 (under protocols IRB# 2009-446 and 2015-4465) from healthy donors without intestinal distress and donors known to suffer from intestinal inflammation. Specimens were collected in sterile fecal specimen cups without preservatives. Specimens were then kept at 4°C for up to 15 min before transport to the laboratory at ambient temperature for processing, which consisted of aliquoting the specimen into a 100-μl microcentrifuge and storage at -80°C since 2015.Remove the fecal samples from the freezer and allow to thaw at room temperature on the bench.Under a biological hood, use a pipette to inoculate 7.5 μl healthy sample on one side of a plate (as a control) and 7.5 μl disease sample on the other half of the plate.Note: If the samples are not pre-homogenized, homogenization is preferable using a homogenizer for uniformity. Take care to avoid puncturing the agar with the pipette tip, as this may impede the ability to identify future swarming.Leave the cover off the Petri dish and allow to dry under a biological hood for 10 min.Incubation(Optional) Once dry, take an image of the plate on the scanner, which will serve as a “before image” for later reference. See Figure 1A below.Place the plate upright (not inverted) in an incubator, set to 37°C and a humidity of 80%.Remove the plate from the incubator after 24 h and assess visually for the presence of swarming.(Optional) Scan an image of the plate and label as “after image” for record-keeping. See Figure 1B below.(Optional) Input the before and after images into the NIH’s ImageJ program to quantitatively measure the folds of expansion.",
+    "Use the “Free Select” tool to highlight an area in the ‘before image’, then highlight the area of swarming in the ‘after image’. This method allows measurement of the pixels of growth and enables quantitation even when swarming occurs in irregular directions.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4008/bioprotoc-11-09-4008-g001.jpgFigure 1. Bacterial swarming on LB agar plates before and after incubation. A. 7.5 μl fecal samples were inoculated onto 20 ml 0.4% LB agar plates, which were then scanned. B. Plates were placed in an incubator, set to 37°C and a humidity of 80%, and were removed and scanned after 24 h."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7060,
+  "origin_website": "Bio",
+  "title": "Triacylglycerol Measurement in HeLa Cells",
+  "procedures": [
+    "Cell cultureSeed HeLa cells in 6-cm dishes (5 x 105 cells per dish) in 3 ml of DMEM supplemented with 10% FBS and 1x Penicillin-Streptomycin.Incubate cells at 37 °C in a humidified incubator with 5% CO2 for 24 h.Treat cells with 400 µM of oleic acid-albumin from bovine serum by adding 0.24 ml of the stock solution (3.3 mM) to 1.76 ml of culture medium.Lipid extractionWash cells in the dishes twice with 2 ml of buffer A.Wash cells once with buffer B.Aspirate the buffer residues with pipette tips.Add 2 ml of hexane-isopropanol (3:2) to each dish and incubate for 30 min at room temperature in a fume hood with the lid on.Note: Hexane and chloroform are hazardous to breathe. Therefore, the handling of these reagents should be carried out in chemical fume hood that is safely vented to outside the laboratory. Transfer the organic solvent from each dish to a 2 ml glass vial.Rinse each dish briefly with 1 ml of the same solvent and combine into the same glass vial. Carefully remove all of the organic solvents and save the dish for protein determination.Evaporate the solvent to dryness inside the fume hood by leaving the vial uncapped in the fume hood with the airflow running (takes approximately 16 h).Protein determinationAdd 1 ml of 0.1 M NaOH in water to the original cell culture dish and dissolve the cell remnants by pipetting up and down.Remove 20 µl of aliquots in duplicate and dilute in 20 µl of water for BCA assay to determine total proteins in each dish (protein amount of each assay x 50). A typical protein yield per dish is 500-600 µg.",
+    "Lipid quantification with the Kit # STA-617  from Cell BioLabs with modificationsMix 50 ml of methanol with 25 ml of chloroform in a 100 ml glass bottle. Store at room temperature.Thoroughly resuspend each extracted TAG sample from Step B7 with 200 µl of methanol/chloroform mixture in capped glass vials using a vortex mixer at high speed for 30 s. Keep on ice after the vortexing.Prepare serial dilutions of lipid standards in the methanol/chloroform mixture, with a concentration range from 0 to 5 µg/µl (Table 1). Mix each standard well before further dilution.Table 1. Lipid standards with a serial dilution imgsrc:https://en-cdn.bio-protocol.org/attached/image/20201215/20201215183251_8386.jpg Add 40 µl of standards or TAG samples in duplicates to a 96-well microplate for fluorescence-based assays.Evaporate the organic solvent by incubating the plate on top of a heating block set as 55 °C for 30 min or until dryness in a safety chemical hood.Warm the 100x Fluorometric Reagent stock in a 37 °C water bath until thawed.Prepare 1x Fluorometric Reagent by adding 0.5 ml of the thawed 100x stock to 49.5 ml of water in a 50 ml falcon tube.Cool the 96-well plate on ice for 2 min.Add 40 µl of isopropanol to standards or TAG samples. Pipette up and down gently to mix each well.Add 200 µl of 1x Fluorometric Reagent to each well.Incubate the plate in the dark for 10 min at room temperature.Read the plate at 490 nm excitation and 585 nm emission with a POLARstar Omega Microplate Reader."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

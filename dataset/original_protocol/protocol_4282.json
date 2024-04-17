@@ -1,0 +1,16 @@
+{
+  "id": 4494,
+  "origin_website": "Bio",
+  "title": "Perls Staining for Histochemical Detection of Iron in Plant Samples",
+  "procedures": [
+    "Perls stainFix plant material for 1-2 h under vacuum (500 mbar) in the fixing solution. Usually this can be done with 1 ml solution in a standard 1.5 ml tube. Larger samples will require recalculating the volumes. Vacuum application allows rapid penetration of the fixative. Samples need to be completely submerged. Using of vacuum desiccator is fully sufficient for this step. During this time, prepare the staining solution and pre-warm it at 37 °C in a standard incubator.Remove the fixing solution.Wash 3 times for 1-2 min each with distilled water.Add the pre-warmed staining solution and incubate for 15 min to 1 h under vacuum (500 mbar). Again, the usual volume is 1 ml solution in a 1.5 ml tube.Remove the staining solution.Wash 3 times for 1-2 min each with distilled water. Gentle shaking might be applied.Store in distilled water. It is advisable to analyze, or image, the samples within one week. (Optional step) Dehydration: Incubate in an ethanol dilution series: 10%, 30%, 50%, 70%. Dehydration will intensify the blue stain. This step is not recommended if further intensification of the signal is planned. For samples with high iron content, such as roots or samples from metal hyperaccumulating plants, Perls stain alone may be fully sufficient for obtaining intensive signal. If the aim is a detailed view of tissue or cellular level iron detection the additional intensification should be performed (see below).DAB intensificationIncubate the samples, prepared and washed in distilled water in step A6, for 1 h with the preparation solution. No vacuum is applied here.Remove the solution and wash three times with 0.1 M Phosphate buffer.Incubate the samples with Intensification solution at room temperature. Brown staining may appear as early as five min after the beginning of the incubation.",
+    "In any case, the reaction should not continue for more than 30 min.To stop the reaction, remove the Intensification solution and wash three times with distilled water.Store samples in distilled water."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

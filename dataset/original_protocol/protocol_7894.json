@@ -1,0 +1,17 @@
+{
+  "id": 8305,
+  "origin_website": "Bio",
+  "title": "<em>Escherichia coli</em> Outer Membrane Vesicle Immunization Protocol and Induction of Bacterial Sepsis",
+  "procedures": [
+    "Vaccine preparationPrepare a suspension containing 10 μg/ml of E.coli OMVs in PBS. Notes: The total amount of the sample depends on the number of mice in the immunized group. For each mouse, 100 μl of sample will be given. Add extra 100 μl to compensate for any loss of sample during each injection. i.e. If N=5 per group, make a total of 600 μl for each group. Refer to the protocol \" Preparation of Out Membrane Vesicle from Escherichia coli [href=http://www.bio-protocol.org/e995]\" (Kim et al., 2013b) for preparing OMVs. Make three aliquots of the above OMVs sample in each 1.5 ml microtube and store at -80 °C until use.ImmunizationAt day 0, label the cage (or mouse) to distinguish between immunized and sham.Bring one of the OMVs sample aliquot to room temperature and mix by vortexing before use.Hold the mouse in your hand by the dorsal skin so that the head of the mice is pointing the top and its rear legs are down. Maintain the tail with the fingers as in Figure 1 below.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131204/20131204073947_6827.jpgFigure 1. Intraperitoneal injectionBacteria challenge for induction of sepsisAt day 21, prepare E. coli (5 x 109 CFU/ml) in PBS after culturing E. coli in LB broth for 200 rpm at 37 °C until OD600=1.0.Note: The total amount of the sample depends on the number of mice that will be challenged. For each mouse, 200 μl of the sample will be given. Add extra 100 μl to compensate for any loss of sample during each injection. i.e. For a total of 10 mice, make 2,100 μl of the sample. Hold the mouse in your hand by the dorsal skin so that the head of the mice is pointing the top and its rear legs are down. Maintain the tail with the fingers.",
+    "Use sterile 1 ml syringe to intraperitoneally inject 200 μl of the E. coli suspension per mouse.Monitor the survival of mice every 12 h and record.Note: The symptoms for sepsis will appear after about 6-8 h of challenge. Sacrifice the mice after 5 days of monitoring. Please refer to the reference article for survival results."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

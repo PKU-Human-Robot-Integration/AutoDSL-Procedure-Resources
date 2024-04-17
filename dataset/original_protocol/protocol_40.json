@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "origin_website": "Nature",
+  "title": "Immunoprecipitation of endogenous MEKK1 and kinase assay",
+  "procedures": [
+    "**Preparation of lysates**\n**1** Harvest approximately 1&#xD7;10<sup>7</sup> cells by centrifugation at 2000 RPM for 5 min. Aspirate media and resuspend cell pellet with 1 ml of ice cold PBS and transfer to a 1 ml centrifuge tube. Microcentrifuge at 2000 RPM for 5 min at 4 &#x2DA;C. \n**2** Aspirate PBS, and then add Hypotonic Buffer \\(supplemented with 1% Triton X-100, to disrupt membrane and cytoskeleton bound MEKK1 fractions). \n**3** Cell lysates are then homogenized by passing through 22 gage needles, and tubes are put on ice for 15 min to complete the lysis. Crude extracts are then centrifuged at 2500 RPM for 5 min. Supernatants are then transferred to fresh centrifuge tubes, and cold 5 M NaCl is added to each sample to make a salt concentration of between 0.7 &#x2013; 1.0 M, in order to disrupt protein-protein interactions. \n**4** Spin the crude extracts by ultracentrifugation at 55000 RPM to properly pellet residual insoluble proteins from the extract. Transfer supernatants into fresh centrifuge tubes.\n**Immunoprecipitation**\n**5** Rinse Protein A beads in Hypotonic Buffer and place on ice till ready for use. \n**6** Take a volume of cell lysates \\(prepared as described above), and dilute with Hypotonic Buffer to 250 &#x2013; 500 mM salt to enable protein-protein interactions. \n**7** Add 2 &#xB5;g of preclearing antibody to the diluted lysate \\(e.g. anti-Myc or anti-p65), vortex, add 50 &#xB5;l of Protein A beads, and rock at 4 &#x2DA;C for 45 min.\n**8** Touchspin samples, and transfer supernatant to a fresh tube. \n**9** Next, add 2 &#xB5;g of polyclonal anti-MEKK1 \\(4) to the lysates, and rock for 1 h. After this period add 50 &#xB5;l of Protein A beads and rock tubes at 4 &#x2DA;C for 1 h.",
+    "**10** Touchspin beads, wash beads with hypotonic buffer \\(supplemented with NaCl to a concentration of 300 mM), vortex, and rock for 10 min. In total, 3 &#x2013; 5 washes of the beads are performed. \n**11** Finally, wash once with Hypotonic Buffer, and resuspend in Kinase Assay Buffer. Purified MEKK1 may be stored by snap freezing in liquid nitrogen and long-term storage at -80 &#x2DA;C.\n**Kinase assay**\nFollowing preparation of MEKK1 immunoprecipitates \\(as above), incubate with 7 &#xB5;g of JNKK1\\(K131M) along with 5 &#xB5;Ci of \\[&#x3B3;-<sup>32</sup>P]ATP in Kinase Assay Buffer for 30 min at 30 &#x2DA;C."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

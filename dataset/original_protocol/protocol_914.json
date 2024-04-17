@@ -1,0 +1,14 @@
+{
+  "id": 973,
+  "origin_website": "Nature",
+  "title": "_In vitro_ analysis of cytotoxic T cell recruitment mediated by the DC-derived chemokine CCL17",
+  "procedures": [
+    "1. Coating of plastic channel slides Timing: 75 min\n  To coat plastic channel slides, place 100 µl of Fibronectin-coating solution in the channel and incubate 60 min at room temperature. Subsequently aspirate the solution and wash once with 1 ml PBS. \n2. Fluochrome labeling of cytotoxic T cells \\(CTL) or dendritic cells \\(DCs), respectively   Timing: 20 min\n  For fluorochrome labeling 1-2x107 cell/ml were resuspended in PBS followed by addition of appropriate plasma membrane permeable cell tracker \\(final concentrations and incubation times, see below).\nCFSE: 5 µM, 10 min\nCMTMR: 5 µM, 10 min\nFarRed 5 µM, 20 min \n3. Seeding cells  Timing: 15 min\n  Mix CTL and DCs from spleen at a ratio of 4:1 in RPMI medium containing 2% FBS to a total cell number of 2x106/ml  and apply 100 µl cell suspension into the channel of the µ-slide. Cover reservoirs loosely with supplied caps following live cell imaging.\n4. Video microscopy Timing: 2-3 h \n  Record time-lapse series with the help of a fully automated inverted widefield fluorescence respective confocal microscope equipped with motorized xyz-stage and a climate chamber \\(37°C, humidified, 5% CO2). Record cell motility and cell-cell interactions over a period of 2-3h by capturing fluorescence and phase contrast or differential interference contrast \\(DIC) images every minute. Stage inserts for more than one slides allows simultaneous time-lapse series of different approaches. \n5. Analysis of cell motility and cell-cell interactions\n  In each individual experiment track 100-300 motile CTL using the Manual Tracking and Plugin of Image J \\(NIH). Calculate directionality of migrating CTL before physical contact to DC and duration of cell-cell interactions \\(contact duration) by analysis with the Chemotaxis and Migration Tool Plugin \\(IBIDI) for Image J."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

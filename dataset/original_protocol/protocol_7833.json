@@ -1,0 +1,15 @@
+{
+  "id": 8241,
+  "origin_website": "Bio",
+  "title": "Colon Tissue Immunoelectron Microscopy",
+  "procedures": [
+    "Sample preparation   Fix whole mice by perfusion.   Set up perfusion system consisted of needle, tubing, peristaltic pump and beakers with PBS (ice-cold) or 4% paraformaldehyde in PBS (ice-cold).   Anesthetize mice and expose hearts by surgery.   Insert the needle into the left ventricle and make a hole in the right atrium.   Remove blood from mice by perfusion (8 ml/min) with PBS (ice-cold).   Fix mice by perfusion (8 ml/min) with 4% paraformaldehyde in PBS (ice-cold).     Isolate colons and cut them up into small pieces (~1.5 mm thick).   Fix again with 0.1% glutaraldehyde and 4% paraformaldehyde in 0.1 M phosphate buffer (pH 7.2) for 2 h at 4 °C.   Wash samples by 0.1 M phosphate buffer (pH 7.2) containing 8% sucrose.   Dehydrate samples with a series of ethanol as follows.   25% ethanol, 10 min at 4 °C    60% ethanol, 30 minu at -30 °C   80% ethanol, 30 min at -30 °C   99% ethanol, 30 min at -30 °C   99% ethanol, 10 min at RT   100% ethanol, two changes, 10 min each at RT     To promote the infiltration of resin, remove ethanol with propylene oxide as follows.   Ethanol-propylene oxide (2:1), 10 min at RT   Ethanol-propylene oxide (1:1), 10 min at RT   Ethanol-propylene oxide (1:2), 10 min at RT   Propylene oxide, 20 minutes at RT      Make resin infiltrate into samples by immersion as follows.   Propylene oxide-LR White containing accelerator (3:1), 2 h at RT   Propylene oxide-LR White containing accelerator (1:1), 2 h at RT   Propylene oxide-LR White containing accelerator (1:3), 2 h at RT   LR White containing accelerator, 12 h at RT     Polymerize resin under UV irradiation for two days at RT.   Cut the embedded samples (90 nm thick) with ultra microtome and mount on uncoated gold grids (300 mesh).",
+    "Immunostaining   Treat sections with 3% (vol/vol) hydrogen peroxide for 30 min at RT to unmask epitope.   Wash sections with distilled water.   Treat sections with antigen-retrieval solution for 15 min under microwave at 95 °C by interval of 2 sec.   Block sections with 0.1% gelatin in PBST (PBS containing 0.05% Tween 20) for 30 min at 37 °C.   Reacted sections with primary antibodies diluted with PBST overnight at RT.   Wash sections three times with PBST for 10 min each at RT.   React sections with 10-nm gold-conjugated secondary antibodies diluted with PBST for 2 h at RT.   Wash sections twice with PBST for 10 min each at RT.   Wash sections twice with distilled water for 5 min each at RT.   Stain sections with 4% uranyl acetate for 10 min at RT.   Wash sections with distilled water.   Observe sections with an electron microscope."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

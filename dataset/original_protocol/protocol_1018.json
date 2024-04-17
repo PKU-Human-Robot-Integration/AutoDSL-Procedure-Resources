@@ -1,0 +1,15 @@
+{
+  "id": 1086,
+  "origin_website": "Nature",
+  "title": "In vitro antimicrobial assay of nano-iron sulfide \\(nFeS)",
+  "procedures": [
+    "**Bacteria culture and inoculum preparation**\n1. Cryopreserved Streptococcus mutans  UA159 were thawed from a frozen stock, and spread on tryptone-yeast extract ager broth with 1% glucose. Then the plate was incubated  at 37°C and 5% CO<sub>2</sub> for 48 h.\n  \n2. Transfer several colonies with inoculation loop and place into 15 mL of sterile tube, resuspend, and incubated the pre-culture at 37°C and 5% CO<sub>2</sub> for 12-16 h.\n  3. Transfer 200 µL of overnight cultured bacteria solution to 3.8 mL fresh tryptone-yeast extract broth with 1% glucose and cultured for 4 h when the optical density \\(OD) at 600 nm was about 1.0.\n  CAUTION: Streptococcus mutans  UA159 on ager broth stored at 4°C was easy to lose activity. Choose the bacteria on the ager plate stored within two weeks, and pick several colonies for activating bacteria overnight. \n4. Harvest the bacteria by centrifugation at 5000 g for 5 min.\n  5. Wash the bacteria two times by resupending the pellet into 0.1M NaAc \\(pH 4.5) and centrifugr two times at 5000 g for 5 min.\n  6. Resuspend the pellet into 0.1M NaOAc \\(pH 4.5)\n  7. Adjust the bacteria population to 10<sup>8</sup> CFU/mL.\n  \n**Antimicrobial preparation**\n1. Wash the Cys-nFeS, DADS-nFeS nanoparticles with ethyl alcohol 3 times, respectively.\n  2. Resuspend the nanoparticles into ddH<sub>2</sub>O and magnetic separation for 3 times.\n  3. Autoclave the nanoparticles by 121°C, 20 min.\n  4. Dilute the autoclaved nanoparticles to 5 mg/mL.\n  \n**In vitro antimicrobial assay**\n1. Add 100 µL of bacteria into 900 µL of 0.1 M sodium acetate \\(pH 4.5) and resuspend the mixture. Dilute and plate \\(at least 3 dilutions per sample) accordingly.",
+    "2. Add 100 µL of bacteria and 100 µL of  5 mg/mL Cys-nFeS nanoparticles into 800 µL of 0.1 M sodium acetate \\(pH 4.5), and resuspend the mixture. Dilute and plate \\(at least 3 dilutions per sample) accordingly.\n  3. Add 100 µL of bacteria and 100 µL of  5 mg/mL DADS-nFeS nanoparticles into 800 µL of 0.1 M sodium acetate \\(pH 4.5), and resuspend the mixture. Dilute and plate \\(at least 3 dilutions per sample) accordingly\n  4. Count colonies 24-48 h later and plot them."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

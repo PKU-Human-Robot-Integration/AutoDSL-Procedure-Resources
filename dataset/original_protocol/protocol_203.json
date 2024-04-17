@@ -1,0 +1,15 @@
+{
+  "id": 209,
+  "origin_website": "Nature",
+  "title": "GPS: A computational protocol for kinase-specific phosphorylation site prediction",
+  "procedures": [
+    "**How to predict the PK-specific phosphorylation sites in protein sequences:**\n1. Open the prediction page at \"http://bioinformatics.lcd-ustc.org/gps_web/predict.php\":http://bioinformatics.lcd-ustc.org/gps_web/predict.php .\n  2. One or more protein sequences can be input into the text box of the prediction page of GPS web service, as shown in **Figure 1**. The sequence data can be in raw or FASTA format.\n  3. Choose the protein kinases \\(PKs) for prediction.\n  4. Select a proper cut-off value for each PK, or the default parameter will be used.  \n  5. Click on the &#x201C;Submit&#x201D; button and wait for results.\n  \n**How to interpret the results**:\n6. If a single protein sequence is input in the raw sequence format, i.e. only the amino acid sequence, it will be named as ProteinWithNoName. \n  7. If protein sequences are provided in the FASTA format, the results will be separated by the description line, starting with &#x201C;&gt;&#x201D;, of each sequence in FASTA format. \n  8. The prediction results are organized in tab delimited format. For each predicted phosphorylation site, the position, kinase, flanking peptide, GPS score and Cut-off value are presented. A higher score indicates that the peptide is more probable to be a real phosphorylation site. \n  9. The prediction results are downloadable as a text file, as in **Figure 2**, and can be easily accessed with other automatic analyzing programs."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 524,
+  "origin_website": "Nature",
+  "title": "Systematic classification of metalloproteins based on three-dimensional structural similarity of their metal sites",
+  "procedures": [
+    "The protocol leverages the organization of MFSs in equistructural groups \\(EGs hereafter) that is already provided by the MetalPDB database \\(http://metalweb.cerm.unifi.it/). Such groups contain the MFSs that are found in proteins with the same fold and occur at the same position within that fold. EG are computed in MetalPDB by superimposing the entire domain containing the MFS in the protein structures under consideration and then computing the distance between the metal centers. MFSs whose metal centers are within a threshold of 3.5 Å from one another are assigned to the same equistructural group.\nThe workflow consisnts of the following steps:\n1. Select all structures of MFSs that bind the metal cofactor of interest \\(e.g. heme-binding sites, zinc sites, copper sites, etc.). Each site has an EG identifier assigned \\(e.g. 3c25_4; 21566).\n  2. Divide the sites into two sets: the first set contains sites from EGs populated with more than one member, the second set contains the sites that are the only members of their corresponding EGs.\n  3. For each EG from the first set perform an all-vs-all superposition of its sites with MetalS<sup>2</sup> \\(1). This provides a matrix containing the pairwise distances of a set of site.\n  4. Cluster sites within each EG into groups of highly similar structures \\(first or intra-group stage). For this, we used the hierarchical clustering algorithm with the complete linkage method \\(12). The cut-off value of the global MetalS<sup>2</sup> similarity score used to determine the resulting clusters was set as 2.25. This constitutes a very stringent threshold \\(1), so that each first stage cluster contains sites with high structural similarity.\n  5. For each cluster obtained at the previous stage, define a representative site as the MFS by minimizing the sum of the MetalS<sup>2</sup> score values to all other MFSs in the same cluster.",
+    "6. Prepare the data for the second level analysis \\(second or inter-group stage) by merging the list of all representative MFSs from clusters built at the first level \\(point 5) and the list of sites from single-membered EGs \\(point 2).\n  7. Perform the all-vs-all superposition of sites from point #6.\n  8. Build the clusters \\(as done in points 3-4) by applying complete or average linkage and specifying the threshold value of the global MetalS<sup>2</sup> similarity score that defines the maximum distance allowed between two clusters. Reasonable values are in the range between 2.25 and 3.5.\n  \nFigure 1 graphically recapitulates the protocol."
+  ],
+  "subjectAreas": [
+    "Structural Biology",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

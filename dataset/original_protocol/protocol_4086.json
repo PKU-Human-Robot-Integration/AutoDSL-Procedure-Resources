@@ -1,0 +1,16 @@
+{
+  "id": 4291,
+  "origin_website": "Bio",
+  "title": "Limiting Dilution Assays to Determine Frequencies of Lymphohematopoietic Progenitors",
+  "procedures": [
+    "Grow stromal cells to a sub-confluent state in 10 cm-dishes. Use MS-5 growth media to grow MS-5 stromal cells. Use OP-9 growth media to grow OP-9 stromal cells.    Wash the stromal cells twice with PBS and trypsinize with trypsin/EDTA solution at 37 °C for 5 min. Dissociate the cells by pipetting. After centrifugation at 300 x g for 5 min, re-suspend the cells in the growth medium. Seed half of the cells from a 10 cm dish into one 96-well plate on a day before the start of co-culture. The density and volume of stromal cells are 40~50 cells/ml and 50 ml/well when they are seeded into 96-well plates.    Prepare testing lymphohematopoietic progenitors. (The testing progenitors should differ according to the aim of each experiment.) Put the progenitors with the different densities (for example 1, 2, 4, 8, 16, 32, 64 cells per well) onto the prepared stromal layers by using a cell-sorting machine. Culture the progenitors on stromal cells in alpha Modification of Eagle’s Medium supplemented with 10% FCS, rmSCF (10 ng/ml), rmFlt3-ligand (20 ng/ml), and rmIL7 (1 ng/ml).   Feed the cultures twice a week by removing half of the medium and replacing it with fresh medium. Cytokines should be freshly added with each feeding.   At 10 days of culture, inspect the wells for the presence of hematopoietic clones. Positive wells are harvested and analyzed by flow cytometry for the presence of CD45+ hematopoietic cells, CD45R/B220+ CD19+ Mac1- (and/or Gr1-) B-lineage cells, and Mac1+ (and/or Gr1+) myeloid-lineage cells (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140216/20140216161339_0274.jpg Figure 1. Shown above is a representative profile of flow cytometry showing the expression of Mac1 and CD19 on recovered CD45+ cells (from Yokota et al., 2009)     Determine the frequencies of progenitors by calculating with linear regression analysis on the basis of Poisson distribution.",
+    "The frequencies are given as the reciprocal of the concentration of test cells that result in 37% negative cultures. See Figure 2 for an example.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140216/20140216161403_7534.jpg Figure 2. Semilogarithmic plots for hematopoietic cells and B lineage cells are made of % of negative cultures as a function of the dose of input ESAM-/Lo or ESAM+ progenitors in each well. One in 2.1 ESAMHi cells and 1 in 3.5 ESAM-/Lo cells gave rise to CD45+ blood cells, indicating that both populations are potent sources of hematopoietic progenitors (left). However, while 1 in 8 ESAMHi cells gave rise to CD19+ B lineage cells, only 1 in 125 ESAM-/Lo cells produced B lineage cells under these conditions (right) (from Yokota et al., 2009)."
+  ],
+  "subjectAreas": [
+    "Stem Cell",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6411,
+  "origin_website": "Bio",
+  "title": "Preparing Single-cell DNA Library Using Nextera for Detection of CNV",
+  "procedures": [
+    "This library prep procedure starts with a 96-well plate with each well containing one cell in 5 μl TBE or ddH2O. (Single cells can be dispensed with a cell sorter according to manuals of manufacturers or by manual means [Knouse et al., 2017]). The overall workflow is shown in the table below: imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190217/20190217230704_7970.jpgTo each of the well, add 3 μl solution that contains 1 μl of 5x Transposase buffer, 0.5 μl of Proteinase K (NEB), and 1.5 μl of H2O. Spin down to make sure that the protease solution enters cell suspension. Incubate the suspension at 55 °C for 5 h to break the cell open and remove histone proteins, and then 65 °C for 20 min to denature Proteinase K. Add 1 μl of 1.5 mg/ml Chymostatin to each well, spin down, incubate at room temperature for 10 min to inactivate remaining Proteinase K activity.Add 1.5 μl solution that contains 1 μl of 5x Transposase buffer and 0.5 μl of Tagment DNA Enzyme (TDE) from Illumina’s Nextera DNA Library Preparation Kit. Spin down. Keep the tagmentation reaction at 55 °C for 20 min.Add 1 μl solution that contains 0.5 μl of 100 mM EDTA and 0.5 μl of Proteinase K. Vortex and spin down. Incubate at 37 °C for 1 h and then 65 °C for 20 min.To each well, add 12.5 μl of 2x Hot-start Phusion Master Mix and 1.25 μl of 100 μM each of Read1 and Read2. Mix well, and run the following PCR protocols: 65 °C for 30 min and 95 °C for 2 min followed by 6 cycles between 15 s at 98 °C and 30 min at 65 °C, plus 7 cycles between 15 s at 98 °C and 3 min at 65 °C.",
+    "The thermal cycling protocol is summarized in the table below:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190217/20190217230734_1231.jpgAfter PCR, add 45 μl AMPure beads to purify the PCR product according to the manufacturer’s instruction. Elute in 10 μl ddH2O and purify with 18 μl of AMPure beads, and then elute in 10 μl ddH2O. Detailed steps are listed in the table below:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190217/20190217230752_3660.jpgUse 2.5 μl from last step in 20 μl sample-barcoding PCR which contains 1x Hot-start Phusion Master Mix, 1x EvaGreen, 1 μM each of 5xx and 7xx barcodes for Illumina sequencing, one unique pair for each cell. Amplification is carried out by heating at 95 °C for 2 min, then followed by 8 cycles between 15 s at 98 °C and 3 min at 65 °C, Reactions is optionally monitored at 65 °C. The thermal cycling protocol is summarized in the table below:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190217/20190217230811_6145.jpgUse 36 μl of AMPure beads to purify barcoded product according to manufacturer’s instruction, and elute in 10 μl ddH2O.Take 1 μl for analyses on BioAnalyzer.If both the profile and the yield meet the requirements (see Notes), it is ready for sequencing using Illumina’s system."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

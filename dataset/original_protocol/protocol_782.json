@@ -1,0 +1,17 @@
+{
+  "id": 828,
+  "origin_website": "Nature",
+  "title": "_Drosophila_ Schneider 2 \\(S2) cell culture",
+  "procedures": [
+    "1.Seed S2 cells at a concentration of 1 x 10<sup>6</sup> cells/ml in 100 x 20 mm tissue culture plates in 10 ml of conditioned medium \\(supplemented with 25% of the medium in which cells have been formerly grown).\n2.Incubate in a 28&#xB0;C incubator \\(no CO2 requirements) and split cells at 1:2 to 1:5 dilution when cell density is between 6 to 20 x 10<sup>6</sup> cells/ml.\n3.If planning to perform LPS or PGN stimulation on S2 cells, pretreat cells with 1 microM 20-hydroxy-ecdysone for 24 hours before stimulation."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

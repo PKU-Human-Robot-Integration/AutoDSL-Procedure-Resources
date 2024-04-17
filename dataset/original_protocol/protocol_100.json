@@ -1,0 +1,17 @@
+{
+  "id": 103,
+  "origin_website": "Nature",
+  "title": "Generating highly concentrated yeast whole cell extract using low-cost equipment.",
+  "procedures": [
+    "**1.** Cell pellets should be in round base tubes, no more than 0.8 g of wet weight cell pellet per tube \\(equivalent to a 300 ml yeast cell culture grown to A<sub>600nm</sub>=1).\n**2.** If cell pellet is frozen, thaw in a mixture of ice and water.\n**3.** Dissolve pellet in 200 μl of ice cold breaking buffer with inhibitors.\n**4.** Add 700 μl volume of acid washed glass beads.\n**5.** Vortex sample at maximum speed for 30 sec.\nImportant: See Figure 2 for the exact procedure.  Efficient breakage is visible by the sample forming a whitish film and tiny bubbles on the inside wall of the tube \\(see Figure 1).\n**6.** Place sample in a mixture of ice and water for 30 sec. \n**7.** Repeat steps 5 and 6 seven more times.\nTip: If more than one sample needs to be processed the time spent for cell breakage can be shortened by vortexing 2 samples at a time on 2 vortexers for 30 sec.  While these samples rest for 30 sec the next 2 samples can be vortexed.\n**8.** Spin samples at 4°C for 3 min at low g \\(e.g. 2,500g). If a centrifuge for round base tubes is not available, transfer samples to microfuge tubes and spin in microfuge centrifuge at low speed.\n**9.** Transfer supernatant to fresh microfuge tubes.\n**10.** Spin in microfuge centrifuge at 4°C for 10 min at 10,000 rpm. \n**11.** Transfer supernatants to fresh tubes.  \nNote: A highly concentrated WCE has an opaque appearance.  A yellowish colour is due to pigments and does not necessarily indicate good breakage.  \n**12.** Depending on your subsequent application, determine the protein concentration e.g. via the Bradford method, or determine the A<sub>260nm</sub>, using breaking buffer alone as reference."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

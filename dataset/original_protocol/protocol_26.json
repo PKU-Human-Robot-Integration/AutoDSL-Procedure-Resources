@@ -1,0 +1,14 @@
+{
+  "id": 26,
+  "origin_website": "Nature",
+  "title": "Generation of pDRf1-GW",
+  "procedures": [
+    "1)  pDRf1-GW is a yeast shuttle vector carrying a GATEWAY<sup>TM</sup> cloning cassette \\(Invitrogen, Carlsbad, CA) and an f1 viral replication origin. Generate pDRf1-GW by substituting a SpeI-SalI fragment from pDR196<sup>1</sup> with a new multi-cloning sequence \\(SpeI, EcoRI, NotI, PstI, SalI). \n2)  Amplify by PCR a 500bp DNA fragment containing the f1 replication origin from pGEM-T-easy \\(Promega, Madison, WI).  Use  primers containing a HindIII restriction site, and then clone into the HindIII site located upstream of the PMA1 promoter fragment to generate the pDRf1 vector. \n3)  Amplify the GATEWAY<sup>TM</sup> fragment by PCR with primers containing an EcoRV site and clone in a blunt-ended NotI site in pDRf1 to generate pDRf1-GW."
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

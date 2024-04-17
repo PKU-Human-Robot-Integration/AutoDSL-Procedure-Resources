@@ -1,0 +1,15 @@
+{
+  "id": 4682,
+  "origin_website": "Bio",
+  "title": "Measurement of Chlorophyll a and Carotenoids Concentration in Cyanobacteria",
+  "procedures": [
+    "Work under modest irradiance [up to 5 µmol (photons) m-2 s-1 of white light or 10 µmol (photons) m-2 s-1 of green light] in order to prevent degradation of extracted pigments. Harvest 1 ml of cyanobacterial culture suspension (Note 2). Centrifuge cells at 15,000 x g at laboratory temperature for 7 min and thoroughly discard supernatant. If necessary repeat the centrifugation (Note 3).Add 1 ml of methanol, precooled to +4 °C.Homogenize the sample by mixing (Silamat S6, 2 sec), vortexing (2,000 rpm, 4 sec), or by gentle pipetting up and down.Cover the samples with aluminum foil. Incubate at +4 °C for 20 min in order to extract the pigments from the cells (Note 4).Centrifuge at 15,000 x g, +4 °C for 7 min and visually check pellet; it should be ranging between bluish and purple (Figure 1) with no green color. If the pellet is green, repeat steps 5-6.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150512/20150512230933_5006.jpgFigure 1. Colors of cyanobacteria pellets before addition of methanol (A) and after chlorophyll a and carotenoids extraction (B). The color of pellets after the methanol extraction will be ranging from bluish (Synechocystis sp. PCC 6803) to purple (Lyngbya sp. IPPAS B-1204), depending on particular combination of phycobiliproteins.Calibrate spectrophotometer using methanol as blank.Measure pigments concentration by spectrophotometer with slit width 1 nm.Measure absorbance of sample and blank at 470 nm, 665 nm and 720 nm (Note 5).Calculate concentration of chlorophyll a content according to equations: Chla [µg/ml] = 12.9447 (A665 − A720) (Ritchie, 2006)Chla [µM] = 14.4892 (A665 − A720); for Chla molar mass = 893.4890 g/molCarotenoids [µg/ml] = [1,000 (A470 − A720) − 2.86 (Chla [µg/ml])] / 221 (Wellburn, 1994).Perform the analysis at least in triplicates as necessary for calculations of averages and standard deviations from each pigments assessment."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

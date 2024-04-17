@@ -1,0 +1,15 @@
+{
+  "id": 4271,
+  "origin_website": "Bio",
+  "title": "Preparation of <em>Bacillus subtilis</em> Cell Lysates and Membranes",
+  "procedures": [
+    "Inoculate B. subtilis to an OD600 of 0.1 in appropriate medium [e.g. CH, lysogeny broth (LB), Spizizen minimal medium (SMM); here we used 50 ml cultures in CH-medium].   Grow cells to respective OD600 (here we used an OD600 of 4, cells growing at 37 °C; 150 rpm in 250 ml flasks with baffles).   Harvest cells by centrifugation (10,000 x g; 15 min; 4 °C).   Discard supernatant and resuspend cells in 1/5 volumes of original culture at 4 °C in pre-cooled Buffer A.   Centrifuge again (10,000 x g; 15 min; 4 °C).   Discard supernatant and resuspend cells in 5-8x times volume of the cell pellet in Buffer A at 4 °C supplemented with proteinase inhibitor and DNase I. Use concentrations as specified by the manufacturer.      Disrupt cells  Note: If cell disruption is critical, the cell suspension can be incubated with lysozyme (50 μg/ml) on ice for 30-120 min prior to cell disruption, check microscopically.   Small cell volumes (1 ml in reaction tubes) can be disrupted in a FastPrep tissue homogenizer for 30 sec at 6.5 m/s with diameter 0.2-0.3 mm glass beads and cooling for 5 min on ice between runs (minimum 5 runs).    Larger cell volumes can be disrupted in a French press homogenizer at 125 MPa and 3-5 passes. Cool sample on ice for 5 min between every pass. Note that only use of a French Press system will yield inside-out vesicles.     Remove cell debris by centrifugation (12,000 x g; 15 min; 4 °C).   Collect the supernatant (cell lysate) and centrifuge it at ≥ 200,000 x g; 4 °C and 60-90 min (e.g. in a Beckman-Coulter® Ti-70 rotor at 45,000 rpm). Note: Longer centrifugation time results in a better separation of membranes at high protein concentrations.   The supernatant represents the cytoplasmatic fraction; the pellet contains B.",
+    "subtilis membranes (lipids, trans-membrane proteins and membrane associated proteins).  Note: Resuspend the pellet in an appropriate buffer, e.g. Buffer A."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

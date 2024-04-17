@@ -1,0 +1,17 @@
+{
+  "id": 4393,
+  "origin_website": "Bio",
+  "title": "Infant Rabbit Colonization Competition Assays",
+  "procedures": [
+    "Check the litters on the day when they arrive: Litters of 2-5 day old New Zealand white rabbits and the lactating doe are obtained from a commercial vendor and housed together for the duration of the experiments. A minimum of six rabbits need to be assayed for each strain to be evaluated.   Inocula preparation: A single colony from a freshly streaked plate of each mutant (lacZ+) and wild type (lacZ-) is grown in LB containing the selective antibiotic of the experimental strains for approximate 5 to 6 h at 37 °C with shaking. The bacterial cells are pelleted (9,000 rpm for 5 min), the supernatant is discarded and the pellet is resuspended in sterile sodium bicarbonate buffer. The concentration of bacteria is adjusted to about 2 x 109 cfu/ml. Wild type and mutant solutions are then mixed together (1:1).   Zantac treatment (3 h prior to inoculation): Infant rabbits are weighed and administered Zantac by intraperitoneal (i.p) injection (2 mg per kg body weight) using a 26 G needle and 1 ml syringe. (This dose of anti-acid treatment has been found to transiently alter the pH of the stomach without causing ill-effects in the infant rabbits.).     3 h post-Zantac treatment: Infant rabbits are oro-gastrically inoculated with 0.5 ml of bacteria using a size 5 French catheter with flexible tip. The suggested dose is 1 x 109 cfu/ml per 90 g of rabbit body weight.   Input ratio determination: Inocula are serial diluted in 1x PBS and plated on LB agar containing X-gal. CFU of white and blue colonies are counted after overnight incubation at 37 °C.    Clean the catheter: Wash the catheter with 70% ethanol, H2O and 1x PBS sequentially.   Monitor rabbits: Infant rabbits are monitored for diarrhea and signs of illness (e.g.",
+    "dehydration, low body temperature, scruffy fur, lethargy and decreased muscle tone) and routinely euthanized within few days.   Euthanasia: Infant rabbits are anesthetized by inhalation of isoflurane and euthanized by intracardiac injection of KCl (2 mEq/ml, 3 ml).   Necropsy: The entire intestinal tract from the duodenum to the rectum is removed.   Cecal fluid: Cecal fluid (1-2 ml per rabbit) is collected by first isolating the cecum from the rest of the intestine with silk ligatures; then, the cecal contents are collected by snipping the end of the cecum and allowing the contents to drain under gravity into a collection tube. 1 ml cecal fluid of each rabbit is used for the CFU counting.   Distal small intestine and colon: A 1 cm sample is cut and removed, and then homogenized (e.g. bead beater or slides scissoring) in 1 ml of 1x PBS.     Output ratio determination: Serial dilutions of each sample are plated in LB solid media with antibiotic and X-gal and incubated overnight at 37 °C to enumerate the output ratio of the wild type and mutant strain.   Competitive Index (C.I) counting: The competitive index for each mutant is defined as the input ratio of mutant/WT strain divided by the output ratio of mutant/WT strain. (Figure 1)"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

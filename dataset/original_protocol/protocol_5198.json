@@ -1,0 +1,16 @@
+{
+  "id": 5524,
+  "origin_website": "Bio",
+  "title": "1-MCP (1-methylcyclopropene) Treatment Protocol for Fruit or Vegetables",
+  "procedures": [
+    "Preparation of 1-MCP gas stock (1,000 ppm or 0.1%)Gently pour 0.82 g of 1-MCP powder into the 1,000 ml volumetric flask and close tightly with the rubber septa.Inject a volume of 50 ml of water into the closed flask (5 times, 10 ml of water) and dissolve the powder to release the 1-MCP gas (Figure 1A). Turn the volumetric flask upside down to check that the gas volume is 1,000 ml otherwise add water up to the marked line (Figure 1B).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170511/20170511195122_5089.jpgFigure 1. Preparation of 1-MCP gas stock and application to the tomato fruit. A. Injection of water into the volumetric flask through the rubber septa; B. Volumetric flask filled with water up to the marked line to allow accurate volume of gas; C. Injection of 1-MCP gas through flexible latex hose into the closed barrel with tomatoes inside (Pictures: Dan Gamrasni).1-MCP treatment.Place the tomatoes (It is recommended not to exceed over one third of the barrel volume) inside the barrel and close the lid tightly. You can use wrapped plastic or other solution to prevent any gas leakage. The tomatoes and the barrel should be placed in a 20-25 °C room.To apply 1 ppm of 1-MCP: injection of 30 ml of 1,000 ppm 1-MCP in 30 L barrel will give a concentration of 1 ppm 1-MCP to the tomatoes.C1 x V1 = C2 x V2; 1,000 (ppm) x V1 (ml) = 1 (ppm) x 30,000 (ml)Where, C1 = the concentration of 1-MCP gas stock in the volumetric flask (ppm); V1 = the unknown volume of the 1-MCP gas stock sample that should inject into the Barrel (ml); C2 = the wanted concentration of 1-MCP in the barrel (ppm); V2 = the volume of the barrel (ml).",
+    "The application of 1-MCP: Inject 10 ml of water into the volumetric flask (1-MCP) through the septa, draw up 10 ml of 1-MCP gas and inject immediately into the closed barrel through the flexible latex hose or the septa (Figure 1C).Repeat step 2c two more times until injecting a total of 30 ml 1-MCP gas into the barrel.Incubate for 24 h.Open the barrel and air the tomatoes for at least 2 h to allow the tomatoes to adjust to the atmospheric environment. It is possible to measure ethylene levels and/or carbon dioxide in the barrel before opening. As a control, untreated tomatoes should be placed in similar conditions without 1-MCP or any other gas treatment (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170511/20170511195319_6890.jpgFigure 2. The effect of 1-MCP treatment on the color change of tomatoes (Lycopersicon esculentum cv. Ailsa Craig) harvested at different ripening stages (mature green, breaker or early orange) 48 h after the end of the treatment (Picture: Dario Breitel)"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

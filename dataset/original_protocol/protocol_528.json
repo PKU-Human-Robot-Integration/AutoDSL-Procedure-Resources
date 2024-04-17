@@ -1,0 +1,17 @@
+{
+  "id": 563,
+  "origin_website": "Nature",
+  "title": "Generation of murine sympathoadrenergic progenitor-like cells from embryonic stem cells",
+  "procedures": [
+    "**Mouse Embryonic Stem Cell Culture:**\nThe murine embryonic stem cell \\(mESC) line D3 was cultivated on mitotically inactivated primary mouse embryonic fibroblasts \\(MEFs).\n**Embryoid body formation:**\nAbout 75 drops of ES medium containing various numbers of ES cells were placed on the  lids  of  10 cm  petri  dishes filled with  phosphate-buffered  saline \\(PBS) and were cultivated as hanging drops for 2 days. EB aggregates were then transferred from the hanging drops into 6 cm bacteriological petri  dishes and were further cultivated for 5 days in suspension.\n**Generation of ESC-derived Neural Progenitor Cells \\(NPCs):**\nEmbryoid bodies \\(EBs) generated from mESCs by the hanging drop method were plated in Iscove’s Modified Dulbecco’s Medium containing 10% FCS on 0.1% gelatin-coated dishes. After 1 day, medium was replaced with Dulbecco's Modified Eagle Medium:Ham’s F-12 \\(DMEM/F-12) supplemented with 5 µg/ml insulin, 50 µg/ml transferrin, 30 nM selenium and 5 µg/ml fibronectin. Cells were cultured at 37°C and 5% CO2 for 7 days, generating NPCs.\n**Enrichment of NCSCs from NPCs with CD57 expression sorting:**\nDissociated NPCs were plated on poly-D-lysine/fibronectin \\(both at 150 µg/ml) coated culture dishes and cultured in NCSC medium, consisting of 5:3 DMEM low-glucose:neurobasal medium supplemented with 20 ng/ml bFGF, 20 ng/ml IGF-1, 1% N2 supplement, 2% B27 supplement, 35 ng/ml retinoic acid, 50 µM β-mercaptoethanol and 15% chicken embryonic extract. The cells were cultured for 7 days in a hypoxia chamber adjusted to 3% oxygen. FACS sorting of low-enriched NCSC-like population for expression of CD57 generated higher-enriched NCSC-like cells. CD57 antibody \\(clone NK1, Abcam, Cambridge, UK) was used for FACS sorting.\n**Higher Enrichment of SAP-like Cells by Sorting for Expression of GD2:**",
+    "Low-enriched NCSC-like population were FACS-sorted for GD2 expression to generate highly-enriched SAP-like cells. GD2 antibody \\(Clone 14.G2a, BD Biosciences) was used to stain the cells for 30 min, followed by FACS sorting."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

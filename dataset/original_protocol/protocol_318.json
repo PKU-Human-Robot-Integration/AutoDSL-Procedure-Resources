@@ -1,0 +1,17 @@
+{
+  "id": 336,
+  "origin_website": "Nature",
+  "title": "High throughput HIV-1 microneutralization assay",
+  "procedures": [
+    "**Optimal multiplicity of infection \\(MOI) determination for each pseudotype virus**  TIMING 1.0 h, then 48-54 hours\n1| Select the two strains that are most potently neutralized by the donor’s serum, or alternatively easy-to-neutralize strains, such as HIV-1-BaL and HIV-1-MN. \n2| Titer pseudovirus stock in a mock neutralization assay, using medium as a substitute for antibody. In a 384-well plate prepare 11 2-fold and 11 5-fold serial dilutions of each virus in the presence or absence of DEAE-dextran which may facilitate viral entry.  Each lot should be optimized typically approximately 7.5 mgs ml-1. Choose a dilution that gives a 40,000 to 100,000 RLU signal that is 50-100 fold above background. See steps 3-13 below.\n**Incubation of B cell culture supernatant with virus**● TIMING 1-2 h\n3| Thaw supernatants and dilute virus in complete DMEM using the concentration titered in step 2. A total of 2 viruses are tested one on each of the 2 harvested plates.  \n4| Robotics: transfer 20 μl virus to each of the 2 plates harvested at step 48 each of which contains 20 μl of supernatant. \\(one of each pair of plates for each virus).  \n**CRITICAL STEP:** when designing the plate plan, set up at least 8 wells with medium instead of antibody \\(virus-only) and 8 wells with medium instead of antibody and medium instead of virus \\(cells-only). When using supernatants from B cell culture, all of these wells should use supernatants from culture plate wells that received feeders and cytokines but no B cells.\n5| Incubate at 37oC for 45-90 minutes.\n**Incubation with TZM-bl cells** ● TIMING 48-54 h\n6| During the incubation, discard the TZM-bl culture media and remove the adherent cells by slowly adding 5 ml of 0.25% Trypsin-EDTA.\n7| Incubate at 37°C for 10 minutes.",
+    "8| Add 10 ml of complete DMEM and suspend the cells by gentle pipet action.  \n9| Transfer the suspension to a 50 ml conical tube.\n10| Spin, resuspend in complete DMEM, and count the cells. \n11| Dilute TZM-bl cells in complete DMEM to a concentration of 1.5 x 105. Add DEAE–dextran to the cell suspension at a lot optimized concentration of approximately 7.5 µg ml-1. Dispense cells to each well of the assay plate at a total of 3x103 cells to each well.\n12| Incubate for 48-54 hours at 37°C .\n**Plate Harvest and Result Evaluation**● TIMING 0.5 h\n13| Remove 30 μl from each assay well. Lyse the cells with the addition of 30 µl of Britelite Plus substrate. \n**CRITICAL STEP:** Read in a luminometer that is capable of accurately reading 384- well plates. Some models will read 384-well plates but have an unacceptably high level of cross-talk between wells due to the detector configuration. We use a Molecular Devices Paradigm luminometer.\n14| To calculate neutralization, first subtract the average signal from the cells-only wells from all wells. Next, average the signal from wells with feeders but no B cells. For each well with antibodies, % neutralization = 100*\\(Vo-Vn)/Vo where Vn is the RLU in the virus plus antibody wells and V0 is the RLU in the virus only wells."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

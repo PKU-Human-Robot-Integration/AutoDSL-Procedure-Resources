@@ -1,0 +1,14 @@
+{
+  "id": 6087,
+  "origin_website": "Bio",
+  "title": "Glucose Production Assay in Primary Mouse Hepatocytes",
+  "procedures": [
+    "Primary mouse hepatocytes were cultured in BD BioCoat™Collagen I 6-well plates (1 x 106 cells per well) in Medium199 supplemented with 5% FBS, penicillin (100 units/ml) and streptomycin (100 μg/ml).6-48 h after plating, serum-starved overnight in 2 ml/well of Medium199 supplemented with penicillin (100 units/ml) and streptomycin (100 μg/ml) without FBS.Wash the cells by 2 ml/well of warm (37 °C) PBS+/+ twice.Replace PBS+/+ with 1 ml of glucose production buffer consisting of glucose-free DMEM (pH 7.4) without phenol red supplemented with 20 mM sodium lactate, 2 mM sodium pyruvate, 2 mM L-glutaminie and 15 mM HEPES.Incubate cells at 37 °C for 6 h with or without 0.1 mM pCPT-cAMP and/or 100 mM insulin, 0.2 ml of medium was collected and the glucose concentration was measured with a colorimetric glucose assay kit.Collect 0.2 ml of medium from each well.Measure the glucose concentration with a colorimetric glucose assay kit following manufacturer’s instruction.Normalized the readings to the total protein content determined from the whole-cell lysates by bicinchoninic acid (BCA) protein assay kit following manufacturer’s instruction."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4421,
+  "origin_website": "Bio",
+  "title": "Autoradiography of Pi Distribution in Barley Seedlings",
+  "procedures": [
+    "Barley plants are germinated on moist filter paper for 2-3 days and then seedlings are grown in hydroponic culture for 7-8 days.   Cotton is put in a 1.5 ml tube from which the cap has been removed, then a radioisotope medium consisting of 600 µl of 0.2  mM NaH232PO4 (specific activity 3.7 MBq nmol−1) in 5 mM CaSO4 is added. Cotton is put enough to absorb all 600 µl NaH232PO4, But, do not put too much cotton to keep it moisture.   Into the 15 ml tube, an appropriate amount of incubation medium (5 mM CaSO4) is added. A barley plant sandwiched with sponge is put into the medium, and the barley leaf is manipulated into position against the plastic sponge separated from solution, such that when the smaller tube containing the cotton is mounted into a hole in the cap of the 15 ml tube, the tip of the leaf comes into contact with the cotton soaked in radioactive medium (Figure 1).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706171021_2649.jpg Figure 1. Setup for the radioisotopic labelling of a leaf tip    After an appropriate labelling period (about 2 h) at 25 degrees, the sample is washed with water several times and wrapped with cling film. The sample is then set on an imaging plate and exposed (Figure 2).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706171053_6505.jpg  Figure 2. Setup of the radiolabeled sample on an imaging plate  To avoid contamination of imaging plate with 32P, samples are wrapped by cling film. Wrapped sample is attached to the imaging plate by using binding case to expose.    Examine the imaging plate with an imaging analyzer (Figure 3). 32P concentration is indicated by pseudo-color.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706171142_6658.jpg Figure 3.",
+    "Autoradiogram of 32P distribution in a barley plant which was radiolabeled from the leaf tip    Following imaging, plants can continue to be incubated in 5 mM CaSO4 solutions under the same light conditions for 1 or 2 d without cap in order to examine the movement of the radioisotope. In Figure 3 it can be seen that NaH232PO4 absorbed at the leaf tip was translocated to the root after one day of incubation. Figure 4 shows autoradiograms taken every 2 days following the initial incubation of roots in a Pi-deficient barley plant with an appropriate amount of incubation medium mixed NaH232PO4 (Mimura et al., 1996)  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706171222_5083.jpg Figure 4. Autoradiogram of 32P distribution in 10 days old barley plant grown in a Pi-deficient medium, which was radiolabeled from the root. The number put at the leaves in order of development."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

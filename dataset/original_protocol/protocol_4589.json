@@ -1,0 +1,16 @@
+{
+  "id": 4843,
+  "origin_website": "Bio",
+  "title": "Product Analysis of Starch Active Enzymes by TLC",
+  "procedures": [
+    "Enzyme reaction  Prepare 20x concentrated solutions of the enzyme of interest and the appropriate buffer. The concentration of enzyme required will be enzyme and substrate specific, but 1 µg/ml final concentration (20 µg/ml stock) is likely to be a reasonable starting place. Mix 90 µl of each substrate to be studied with 5 µl of concentrated buffer and pre-incubate at the desired temperature.Add 5 µl of the concentrated enzyme, mix by pipetting up and down and take a 20 µl sample, immediately freezing or otherwise halting the reaction. Continue to take samples at 10 min, 20 min and 30 min (Note 3), freezing the samples until you are ready to perform TLC.TLC Add 100 ml of the mobile phase to the TLC developing chamber. Soak 1 or 2 pieces of the filter paper in the mobile phase and stick it to the wall of the chamber (see Note 4). Replace the lid of the chamber and allow 30 min for equilibration of the mobile phase with the atmosphere of the chamber.With a pencil draw a line 2 cm from the bottom of the TLC plate and include evenly spaced hashmarks (at least 1 cm apart) for each sample to be loaded. These may be labelled below the line in pencil.Load 1 µl of each standard and sample. Standards may be combined to save space, though at a slight cost to resolution. For less concentrated samples the initial spot can be allowed to dry prior to addition of another 1 µl drop in the same position. This can be done repeatedly as a method for concentrating the sample. Once the spots have dried place the TLC plate in the developing chamber, immersing the bottom of the plate into the mobile phase at the bottom.",
+    "The liquid level of the mobile phase should not come above your pencil line. Replace the cover on the chamber.Incubate until the mobile phase reaches the top of the plate, approximately 3 h for a 20 cm plate. To separate longer oligosaccharides (>approximately 12 monosaccharide units), remove the plate from the chamber, allow it to dry and then put it back in the chamber to perform a second ascent. <p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Steps of TLC procedure Staining Allow the plate to dry and then spray the plate with the staining solution, coating it evenly.Allow the plate to dry and then place it in the oven or use a heat gun at 120 °C, until spots become clearly visible, approximately 10 min in oven, somewhat less with the heat gun.Analysis Use the standards to determine the identity of the products produced. Note that sugars containing α-1, 6 linkages will run approximately equivalent to an all α-1, 4 linked oligosaccharide one monosaccharide unit longer, for each α-1, 6 linkage present. e.g. isomaltose, runs at approximately the same distance as maltotriose and panose runs at the same distance as maltotetraose (see Figure 2)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5537,
+  "origin_website": "Bio",
+  "title": "Flow Cytometric Analysis of Drug-induced HIV-1 Transcriptional  Activity in A2 and A72 J-Lat Cell Lines",
+  "procedures": [
+    "A2 and A72 J-Lat suspension cell cultureA2 and A72 cells are cultured in RPMI medium (supplemented with 10% FBS, 1% L-glutamine and 1% penicillin/streptomycin) in 75 cm2 tissue culture flasks in 40 ml medium. The flasks are placed horizontally to increase the surface area in which the cells are grown. Cells are split every 1-2 days and should be kept at a concentration of 2 x 105/ml-1.5 x 106/ml.One day before drug treatment split A2 or A72 cells to 5 x 105/ml.Analysis of HIV-1 LTR transcriptional activation by flow cytometryCount the cells and adjust cell number with new media. About 2 x 105/well of A2 or A72 cells are plated in 96-well tissue culture plates in 195 µl RPMI medium (supplemented with 10% FBS, 1% L-glutamine and 1% penicillin/streptomycin). For each condition perform three replicates.Cells are stimulated with 0.016-10 ng/ml of TNFα, 100 nM-1 µM JQ1, 100 nM-2.5 µM Prostratin, 330 nM-2.5 µM SAHA, DMSO control, or left untreated. If treated with TNFα, use PBS or water as control, depending on what was used as diluent. All drugs and controls are pipetted in 5 µl to reach a total volume of 200 µl/well. Mix cells and drugs by pipetting up and down at least 3 times.Culture in a CO2 incubator at 37 °C for 18-48 h.Take the plate from the incubator and centrifuge at room temperature for 2 min at 1341 x g (2,400 rpm) (Tabletop centrifuge, Beckman).Then proceed directly to flow cytometry analysis. Cells do not have to be washed or fixed. Notes:  For flow cytometry, MACSQuant VYB FACS analyzer was used to run 96-well plates. However, other flow cytometers such as Calibur or LSRII are also suitable for these experiments.If the analysis of cell viability by forward scatter (FSC) vs.",
+    "side scatter (SSC) is not sufficient for accurate assessment of drug toxicity in drug studies, one of a variety of dyes/stains; for example 7AAD, Propidium iodide or one of the Zombie viability dyes can be used according to manufacturer’s instructions in the flow cytometric analysis in this protocol.Viability, cytotoxicity and apoptosis was measured with ApoTox-GloTM Triplex Assay (Promega) according to manufacturer’s instructions using a SpectraMax MiniMaxTM 300 Imaging Cytometer (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170514/20170514222236_5250.jpgFigure 1. Measurement of Viability, Cytotoxicity and Apoptosis of drug treated cells. ApoTox-GloTM Triplex Assays (Promega) were performed in drug-treated A72 J-Lat cells. A. Cytotoxicity and Viability; B. Apoptosis; All measurements were repeated at least three times and average of three technical replicates (± SD) is shown."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

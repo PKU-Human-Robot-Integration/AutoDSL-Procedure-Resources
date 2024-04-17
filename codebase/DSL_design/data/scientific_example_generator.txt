@@ -1,0 +1,8 @@
+You need to write new sentences about the data types ******. 
+Requirements:
+1. The output format should be only one sentence per line, approximately two to three lines totally. Each sentence should contain at least one new data type, like ------.
+2. Please do not explain or introduce any other data types.
+Example:
+Remove [the supernatant]{REG}
+Remove [the MPSC]{REG} [from the splenic vein]{COND} and [the IVC graft]{REG} [on the IHIVC]{COND}
+Mix [RPMI-1640]{REG} and [4% BSA]{REG} to get [0.4% BSA]{RET}.

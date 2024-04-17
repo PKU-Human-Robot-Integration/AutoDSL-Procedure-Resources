@@ -1,0 +1,22 @@
+{
+  "id": 1197,
+  "origin_website": "Nature",
+  "title": "<p>Chemiluminescence imaging of cells (CLIC)</p>",
+  "procedures": [
+    "<p>- Cells are cultured in 6, 12, 24, or 96-well transparent cell culture plates.</p><p>- Cells are fixed with freshly made 4% paraformaldehyde (PFA) in phosphate buffered saline (PBS) for 30-60 mins at room temperature.</p><p>- Cells are washed twice in Tris buffered saline (TBS).</p><p>- Cells are incubated with a blocking solution (TBS containing 5% [w/v] bovine serum albumin [BSA], 5% serum from the same species as the secondary antibody, and the appropriate permeabilizing agent depending on the expected subcellular localization of the protein, as detailed below) for 30-60 mins at room temperature.</p><p>- Cells are incubated with primary antibodies in blocking solution overnight at 4°C.</p><p>- The next day cells are washed 3-5 times, 3 mins each in TBS on a shaker.</p><p>- Cells are incubated with HRP-conjugated secondary antibodies in blocking solution for 2-4 hours at room temperature.</p><p>- Cells are washed 3-5 times, 3 mins each in TBS on a shaker.</p><p>- Cells are incubated with enhanced chemiluminescence (ECL) substrate (SuperSignal West Pico Chemiluminescent Substrate; Pierce) for 2-5 mins.</p><p>- Cells are placed in ChemiDoc MP imaging system (Bio-rad), and images are taken using the Chemiluminescence application <em>Chemi Hi Sensitivity</em> and the <em>auto exposure</em> option.</p><p>- After imaging, the cells are washed twice in TBS to remove the ECL substrate and kept in TBS at 4°C for future stripping and re-probing if necessary.</p><p>- The image files aret analyzed using Fiji/ImageJ, see figure 1.</p><p>- In Fiji, first an area of interest (AOI) is chosen. The AOI used is typically a circular selection about 60% of the size of the well in the image, placed approximately in the center of each well to avoid the well edges as they are known to cause noise and variability in cell-based assays.</p><p>- The signal in each well is quantified using the <em>Measure</em> command under the <em>Analyze</em> tab.",
+    "The AOI selection is then dragged to the next well to ensure that the size remained constant, and this process is repeated for each well. The AOI can be saved for future experiments using the “ROI manager” tool in ImageJ. The <em>Integrated density </em>values for each well is then recorded.</p>"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Chemical Biology",
+    "Microbiology",
+    "Molecular Biology",
+    "Cancer",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

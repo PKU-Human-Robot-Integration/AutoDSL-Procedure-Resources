@@ -1,0 +1,17 @@
+{
+  "id": 1097,
+  "origin_website": "Nature",
+  "title": "ChIP \\(Chromatin Immunoprecipitation)",
+  "procedures": [
+    "Chromatin Immunoprecipitation assay\nCrosslinking and sample collection\n1. Collect approximately 5 × 10<sup>8</sup> cells from a exponentially growing yeast culture\n  \n2. Crosslink the cells by adding formaldehyde 1% \\(v/v) to the growth medium and incubate 15 min \n  \n3. Stop crosslinking adding glycine 125 mM and incubate during 5 minutes \n  \n4. Collect the cells by centrifugation at 4000xg and washed four times with 25 mL of cold TBS buffer at 4ºC\n  \n5. Cells can be stored at -20ºC \n  \nInmunoprecipitation\n6. Resuspend the cell pellet in 300 μL of Lysis buffer\n  \n7.  Lyse the cells by vortexing with glass beads for 30 min at 4°C with Genie-2 \\(Scientific Ind.) and supplement with lysis buffer to a final volume of 600 μL\n  \n8. Fragment the chromatin by sonication using a BioRuptor Diagenode with discontinuous pulses during 10 min \n  \n9. Centrifuge the sample at 13400xg for 15 min at 4°C \n  \n10. Keep 20 μL from the supernatant as a control of whole-cell extract \\(Input)\n  \n11. Incubate the remaining volume with orbital rotation for 2 h at 4°C with Dynabeads Protein G \\(Invitrogen) previously bound to a specific antibody\n  \n12. Wash the beads 4 times in PBS containing 0.02% \\(v/v) Tween 20 \n  \n13. Elute the bound protein with two times 40 μL of Elution buffer by heating at 65°C for 8 min\n  \nDeproteinization, DNA purification and qRT-PCR\n14.  Revert the cross-linking by overnight incubation at 65°C shaking \n  \n15. Digest the eluted sample for 90 min at 37°C with 0.33 mg/mL proteinase K \\(Roche Diagnostics)\n  \n16. Purify the DNA using the High Pure PCR product purification kit \\(Roche Diagnostics)\n  \n17. Analyse the co-immunoprecipitated DNA in triplicate by quantitative PCR in a DNA Engine Peltier Termal Cycler \\(Bio Rad) using the SYBR® Premix Ex TaqTM Tli RNase H Plus Green with ROX \\(Takara)",
+    "18. Binding values indicates the specific enrichment of the analysed promoter region in the immunoprecipitated sample compared to the whole cell extract \\(Input) using the intergenic region as a control, calculated with the ΔΔCT method. Values are relative to the no tag control strain \\(value of 1 equivalent to no specific enrichment of the analysed region)\n  \nSchmittgen, T.D. and Litvak, K.J. \\(2008) Analyzing real-time PCR data by the comparative CT method. Nat. Protoc. 3, 1101–1108doi:10.1038/nprot.2008.73\nGEN PROMOTER ANALYSED REGION\nCLN2 –753 to –428\nRNR1 –725 to –442\nFKS1 –556 to –304\nMNM1 –755 to –456"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

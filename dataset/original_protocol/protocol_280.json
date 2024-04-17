@@ -1,0 +1,16 @@
+{
+  "id": 296,
+  "origin_website": "Nature",
+  "title": "Culture of extracellular protease-producing and non-producing bacterial strains for antimicrobial activity assay",
+  "procedures": [
+    "1. Inoculate single colony of _P. aeruginosa_ and _S. aureus_ into 10 ml each of Luria-Bertani \\(LB) broth and Tryptone Soy Broth \\(TSB), respectively, and shake the culture at 200 rpm for 16 h at 37 &#xBA;C.  \n  2. For _P. aeruginosa_, in order to induce the production of PAE, dilute the overnight cultures of PAO-Iglewski and PAO-B1A1 with LB broth to 10<sup>3</sup> cfu/ml, and incubate as standing cultures at 37 &#xBA;C for 48 h<sup>1</sup>. \n  3.  For _S. aureus_, dilute the overnight cultures of each strain in TSB until OD<sub>600nm</sub> reaches 1.0, and shake the culture at 220 rpm, 37 &#xBA;C for 4 h. \n  4.  For the naturally occurring _Bacillus_ species, dilute the overnight culture with marine broth until OD<sub>600nm</sub>  reaches 0.5, and then shake at 220 rpm, 37 &#xBA;C for 2 h.\n  5.  Collect the bacterial cultures by centrifugation at 8000 x g for 10 min.  \n  6.  To evaluate the extracellular protease production, filter the supernatant through 0.22 &#x3BC;m pore-sized membrane-filter and measure the soluble protease activity in the filtered bacterium-free culture medium using the Azocoll protease assay \\(see protocol #12)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

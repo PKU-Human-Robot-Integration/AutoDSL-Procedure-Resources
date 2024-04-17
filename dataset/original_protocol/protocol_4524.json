@@ -1,0 +1,16 @@
+{
+  "id": 4769,
+  "origin_website": "Bio",
+  "title": "Detection of HBV C Protein Phosphorylation in the Cell",
+  "procedures": [
+    "Huh7 hepatoma cells were grown in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% fetal bovine serum and 1% penicillin/streptomycin under a humidified atmosphere at 37 °C in 5% CO2. Cells were passaged every three days (passage at 80~90% confluency) and 2 x 106 Huh7 cells were seeded in 10-cm dishes one day before the transfection. Next day, Huh7 cells were transfected using polyethylenimine (PEI). PEI transfection method: In a sterile tube, total 10 μg of plasmid DNA was mixed with 500 μl Opti-MEM. Add 30 μl of PEI solution (1 μg/1 μl) to DNA-Opti-MEM solution and then vortex immediately. Incubate 15 min at room temperature.Then add PEI/DNA-Opti-MEM mixture to cells.For transfections, 10 µg of plasmid encoding HBV STSSSS (WT) or phosphoacceptor-site mutant C proteins in a P-deficient mutant backbone were used. As a transfection control, 1 µg of green fluorescent protein (GFP)-expressing plasmid was included in the transfection mixture. Transfection experiments were repeated at least three times. Forty-eight hours after transfection, Huh7 cells were incubated at 37 °C in 5% CO2 incubator for 6 h in 10 ml DMEM containing 10% dialyzed FBS, then labeled at 37 °C in 5% CO2 for additional 14 h with 250 µCi orthophosphate [32Pi] per 107 cells, rinsed with ice-cold phosphate-buffered saline, and lysed with 1 ml of lysis buffer. (Isotope was added directly onto the cells containing DMEM-dFBS.)Lysates were transferred to 1.5 ml tube, incubated on ice for 10 min for further lysis, spin down at 13,000 rpm at 4 °C for 2 min, and supernatant was transferred to fresh 1.5 ml tube.The supernatant lysates were incubated for 2 h at 4 °C with 1 μl of polyclonal rabbit anti-HBc antibody on the rotator.",
+    "Next, 15 μl of protein A/G Plus agarose beads was added, and the mixture was incubated at 4 °C for 1 h and centrifuged at 1,500 rpm for 10 sec. (Protein A/G Plus agarose bead preparation: Take 15 μl of bead/sample to fresh 1.5 ml tube, add 1 ml lysis buffer, vortex briefly, spin down at 1,500 rpm for 10 sec, and discard supernatant. Repeat above washing procedures 2 more times.)The pellets in 1.5 ml tube (containing beads bound to immune complexes of radiolabeled WT or mutant C proteins and anti-HBc antibodies) were washed twice with 1 ml lysis buffer, eluted by boiling (100 °C for 5 min) in 15 μl of 2x sample buffer, and separated by SDS-PAGE on 13.5% gels. Running time was 3 h at 80 voltage.Separated proteins were transferred to PVDF membranes (250 mA 1 h 30 min) and subjected to autoradiography."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

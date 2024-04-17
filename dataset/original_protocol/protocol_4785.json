@@ -1,0 +1,16 @@
+{
+  "id": 5089,
+  "origin_website": "Bio",
+  "title": "An Improved and Simplified Radial Gel Diffusion Assay for the Detection of Xylanase Activity",
+  "procedures": [
+    "Mix 1.0% (w/v) birch wood xylan with 1.0% (w/v) agarose in McIlvaine’s buffer (15 ml/Petri dish) and boil in 150 ml Erlenmeyer flask (approximately 10 min) until the birch wood xylan is dissolved completely; mix thoroughly and then dispense it in a Petri plate (44 mm base diameter x 12 mm depth).Allow the birch wood xylan–agarose solution to solidify in the Petri dish and then prepare a 0.5-cm-diameter well on it. The hole in agarose is poked using a hallow flat end of a 0.5-cm-diameter drinking straw.Place 30 µl of A. niger or T. longibrachiatum xylanase solution (total volume to be adjusted with McIlvaine’s buffer) in 0.5-cm-diameter wells of birch wood xylan-agarose Petri plate. Incubate the Petri plate at 30 °C for 16 h. Overlay the plate with 95% ethanol and keep the plate at room temperature for 30 min to reveal the halo representing the degradative activity of xylanase. Measure the diameter of the halo using a scale.Take the image using a digital camera or scan the Petri plate using a scanner to keep the record of the results (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160630/20160630230025_1701.jpgFigure 1. Example of agarose diffusion assays for detection of xylanase activity. Haloes represent xylanase activity. 1: Buffer (negative control); 2: Aspergillus niger xylanase M4 (0.006U); 3: A. niger xylanase M4 (0.012U); 4: A. niger xylanase M4 (0.018U); 5: A. niger xylanase M4 (0.024U)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

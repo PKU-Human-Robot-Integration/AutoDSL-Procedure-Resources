@@ -1,0 +1,15 @@
+{
+  "id": 5441,
+  "origin_website": "Bio",
+  "title": "Measuring Behavioral Individuality in the Acoustic Startle Behavior in Zebrafish",
+  "procedures": [
+    "Zebrafish embryos are raised in Petri dishes at low densities (~2 fish per ml) at 28.5 °C in E3 medium.Larvae without inflated bladders and that do not respond to light taps on the dish on 4 dpf are removed.Larvae are individually pipetted in 300 µl of E3 medium with a P1000 PIPETMAN pipettor, with the pipette tip cut to prevent damage to the larvae, and individually transferred from Petri dishes to the wells of a 48-well multi-well plate. To prevent experimenter selection bias zebrafish larvae are randomly chosen for transfer to the 48-well plate.48-well microplate is transferred to a plexiglass box (Figures 4-7) kept inside an isolated dark chamber. Interior of chamber illuminated with constant diffuse white light is supplied by a 60 W bulb.The behavioral apparatus is housed in a climate controlled environment at 22 °C.If exposed to different treatments, larvae from different groups are tested simultaneously in the same micro-well plate.Larvae used in single-day experiments are 6 dpf, whereas those used in the three-day long experiments are 5-7 dpf. For the three-day experiments, the larvae are kept in the microplates with 1,300 µl E3 overnight at 28.5 °C between measurements. The medium is refreshed the next day and then readjusted to 300 µl for the next habituation trial.Behavioral activity within the microplate is recorded with a CCD camera, which is backlit by an array of infrared LEDs.The behavioral assay consists of 15 min of acclimation to the high-throughput apparatus, followed by 10 min of spontaneous activity recording, and then the habituation protocol.Sound stimuli are administered by two speakers mounted to the same platform as the microplate. The speakers are powered by a 15 W amplifier and delivered 900 Hz square waves of ~3 msec duration. Stimuli are delivered via a Native Instruments PCI-6229 DAQ controlled by MATLAB.",
+    "Habituation protocol consists of 10 stimuli at 90 sec ISI (0.4 V, ~95 dB) followed by 100 stimuli at 5 sec ISI (0.4 V, ~95 dB).For each behavior experiment, data is analyzed from randomly sampled larval zebrafish derived from multiple clutches obtained on different days. We empirically determined that measuring behavior in approximately 100 larvae is sufficient to quantify behavioral variation at the population level."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 47,
+  "origin_website": "Nature",
+  "title": "Dlgh1 knockdown in primary OT-1 T lymphocytes",
+  "procedures": [
+    "It is important to keep everything RNAase free including gloves, tubes, reagents and use barrier tips\\!\n1) Using a purified population of T cells \\(see the protocol &#x201C;Culture and expansion of OT-1 TCR transgenic T cells&#x201D; for details of how to obtain these) wash all cells once in unsupplemented RPMI 1640 media.\n2) Resuspend cells at 4 X 10<sup>6</sup> /ml in unsupplemented media. Aliquot out 500ul of the cell suspension into each well of a 24 well plate \\(2 X 10<sup>6</sup> cells/well) place back in incubator. \n3) Combine all of the below reagents per sample \\(2 X 10<sup>6</sup> = 1 sample):\na. 84 &#x3BC;l of Buffer EC-R \\(from Qiagen Transmessenger Reagent box 301525)    \nb. 6.5&#x3BC;l of enhancer R \\(from Qiagen Transmessenger Reagent box)\nc. 9.7&#x3BC;l of a 20&#x3BC;M solution of  double stranded annealed Dlgh1 siRNA \\(purchased from Qiagen against the target sequence TAC GGG AGC AGA TGA TGA ATA purified by HPP with rXrY overhangs)\n4) If performing more than one sample: multiply these numbers by number of desired samples and pool together.\n5) Vortex reagents and allow to sit at room temperature for 5 minutes\n6) Add 11&#x3BC;l of Qiagen Transmessenger transfection Reagent/ sample\n7) Vortex and allow to sit at room temperature for 15 minutes. The solution should begin to get cloudy.\n8) In parallel, the same should be done for your control siRNA oligo \\(purchased from Qiagen against the target sequence AAT TCT CCG AAC GTG TCA CGT)\n9) Add 400&#x3BC;l of incomplete RPMI 1640 media supplemented with 200U/ml of IL-2 to the above combined reagents per sample\n10) Add 500&#x3BC;l of this mixture \\(siRNA, Transmessenger reagents and media) to your cells in a dropwise fashion.",
+    "11)  Gently swirl and place back in incubator for 3-4 hours. Do not exceed 5 hours as this will cause increased death of cells while less than 3 hours does not result in as efficient a transfection. \n12) Spin cells out of transfection media and resuspend at 2 X 10<sup>6</sup> /ml in complete media for splenic culture supplemented with 200 U/ml of IL-2.  \n13) Assay these cells 48-52 hours post-transfection."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8097,
+  "origin_website": "Bio",
+  "title": "High Resolution Detection of Genetic Changes Associated with Transposons",
+  "procedures": [
+    "Adapter pair preparationMix the two adapter oligonucleotides to a final concentration of 250 ng/μl.Incubate them at 95 °C for 5 min and then at room temperature for 10 min.Restriction/LigationAdd to a 0.2 ml tube: 1 μl of 10x ligase buffer, 1 μl of 0.5 M NaCl, 1 μl of the adapter pair, 120 units of T4 ligase, 2 units of Mse I, 300-500 ng of genomic DNA and ddH2O to a final volume of 10 μl.Mix well and incubate at 37 °C for 2-3 h.Dilute reaction 1:10 by adding 90 μl of ddH2O.This reaction can be stored at -20 °C.Pre-selective amplificationAdd to a 0.2 ml tube: 2 μl of 10x Taq DNA polymerase buffer, 2 μl of 25 mM MgCl2, 0.8 μl of dNTP mix, 1 unit of Taq DNA polymerase, 1 μl of 50 ng/μl adapter-specific pre-selective primer,1 μl of 50 ng/ul transposon-specific primer, 4 μl of Restriction/Ligation reaction products (cut with Mse I) and ddH2O to a final volume of 20 μl.Use the thermal cycler to PCR with the following program:94 °C for 3 min94 °C for 30 sec60 °C for 30 sec72 °C for 1 minReturn to stage b for 29 times.Run the relevantly-sized PCR products (usually a narrow band between 150-550 bp, such as 300-500 bp, depending on the expected number of amplicons) in a 454-pyrosequencing machine (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130528/20130528051952_7670.pngFigure 2. An example of PCR products from pre-selective amplification, using a primer from the adapter and a prom from a Stowaway-like MITE, called Eos, on a 1.5% agarose gel. The lanes include a 100 bp marker (left), pre-selective amplification of goatgrass Aegilops longissima (accession TL05; middle lane) and pre-selective amplification of diploid wheat Triticum urartu (accession TMU06; right lane)."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

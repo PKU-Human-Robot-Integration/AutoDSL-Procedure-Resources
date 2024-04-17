@@ -1,0 +1,18 @@
+{
+  "id": 800,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from urine using the Qiagen ExoRNeasy maxi kit",
+  "procedures": [
+    "1. Thaw samples on ice\n  2. Transfer 0.5 mL of urine into a 1.5 mL microfuge tube.\n  2. Add 0.5 mL XBP.\n  3. Invert 5 times.\n  4. Add the sample/XBP mixture onto the exoEasy spin column \\(in 15 mL collection tube).\n  5. Centrifuge for 1 min at 500 x g at room temperature.\n  6. Discard flow-through.\n  7. Add 3.5 mL XWP to the exoEasy spin column.\n  8. Centrifuge for 5 min at 5,000 x g at room temperature.\n  9. Transfer the spin column to a fresh collection tube.\n  10. Add 700 µL Qiazol to the membrane of the spin column.\n  11. Centrifuge for 5 min at 5,000 x g at room temperature.\n  12. Transfer the flow-though, which is the lysate, to a PLG tube.<sup>1</sup>\n  13. Vortex for 5 s.<sup>2</sup>\n  14. Incubate at room temperature for 5 min.\n  15. Add 90 µL chloroform.\n  16. Shake vigorously for 15 s.\n  17. Incubate for 3 min at room temperature.\n  18. Centrifuge sample for 15 min at 12,000 x g at 4°C. After this spin, allow centrifuge to warm up to room temperature.\n  19. Transfer the upper aqueous phase \\(270 µL) to a new microcentrifuge tube. \n  20. Carefully measure the aqueous phase and add 2 volumes \\(540 µL) of 100% ethanol.\n  21. Mix gently and thoroughly. Do not centrifuge and do not delay moving on to the next step.\n  22. Assemble a MinElute spin column in a new collection tube.\n  23. Load up to 700 µL of the mixture from step 21, including any precipitate that may have formed, onto the column. \n  24. Centrifuge for 15 s at 1,000 x g at room temperature.<sup>3</sup>\n  25. Discard flow-through.\n  26. Repeat steps 23-25 until entire sample has been loaded.\n  27. Add 700 μL Buffer RWT to the RNeasy MinElute spin column.",
+    "28. Centrifuge for 15 s at ≥ 8000 x g at room temperature to wash the column. \n  29. Discard the flow-through.\n  30. Pipet 500 μL Buffer RPE onto the RNeasy MinElute spin column. \n  31. Centrifuge for 15 s at ≥ 8000 x g to wash the column. \n  32. Discard the flow-through.\n  33. Pipet 500 μL Buffer RPE onto the RNeasy MinElute spin column. \n  34. Centrifuge for 2 min at ≥ 8000 x g \\(≥10,000 rpm) at room temperature to wash the column. \n  35. Discard the collection tube with the flow-through.<sup>4</sup>\n  36. Transfer the RNeasy MinElute spin column into a new 2 mL collection tube \\(supplied). \n  37. Open the lid of the spin column and centrifuge at full speed \\(14,000 x g) for 5 min to dry the membrane.<sup>5</sup> \n  38. Discard the collection tube with the flow-through.<sup>4</sup> \n  39. Transfer the RNeasy MinElute spin column to a new 1.5 mL collection tube \\(supplied). Add 14 μL RNase-free water directly to the center of the spin column membrane.<sup>6</sup> \n  40. Centrifuge for 1 min at 100 x g. \n  41. Centrifuge at full speed for 1 min to elute the RNA."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

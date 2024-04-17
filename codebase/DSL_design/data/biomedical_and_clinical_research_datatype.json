@@ -1,0 +1,33 @@
+{
+    "datatype": {
+        "REG": "experimental material",
+        "Device": "laboratory equipment",
+        "Container": "laboratory containers",
+        "Time": "time",
+        "String": "string",
+        "Bool": "boolean",
+        "Volume": "Volume",
+        "Concentration": "Concentration",
+        "Mass": "Mass",
+        "Temperature": "Temperature",
+        "Voltage": "Voltage",
+        "Length": "Length",
+        "Force": "Force",
+        "Frequency": "Frequency"
+    },
+    "example": [
+        "Remove the [MPSC]{REG} from the [splenic vein]{REG} and the [IVC graft]{REG} on the [IHIVC]{REG}",
+        "Transfer the [solution]{REG} with {pasteur pipette}[Device] into the [vials]{Container}",
+        "Centrifuge for [70 min]{Time}",
+        "See PDF file [\"Explant Protocol Procedure\"]{String}",
+        "The opposite is [true]{Bool}",
+        "Pour [10 mL of TBS (Tris-buffered saline) buffer]{Volume} into the petri dish.",
+        "Add [500 mM Tris-HCl solution]{Concentration} to the reaction mixture.",
+        "Weigh [60.5 grams of Tris-Cl powder]{Mass} and dissolve it in the solution.",
+        "Place the sample in an incubator set at [10 degrees Celsius]{Temperature}.",
+        "Apply a [200 volt]{Voltage} electrical current to the circuit.",
+        "Measure the length of the object using a ruler, it is approximately [10 centimeters]{Length}.",
+        "Apply a centrifugal force of [16,000 times gravity]{Force} to separate the components.",
+        "The signal has a frequency of [4,000 hertz]{Frequency}."
+    ]
+}

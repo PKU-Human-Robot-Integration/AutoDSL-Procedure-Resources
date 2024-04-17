@@ -1,0 +1,17 @@
+{
+  "id": 798,
+  "origin_website": "Nature",
+  "title": "Isolation of exosomal RNA from serum or plasma using ultracentrifugation and the Qiagen miRNeasy Micro kit",
+  "procedures": [
+    "1. Start with 500 µL serum or plasma.\n  2. Bring up volume to fill ultracentrifuge tube \\(2.3-2.5 mL) with PBS.\n  3. Centrifuge for 70 min at 100,000 x g at 4°C.\n  4. Discard supernatant and resuspend pellet in PBS to fill ultracentrifuge tube.\n  5. Centrifuge for 70 min at 100,000 x g at 4°C.\n  6. Discard supernatant.\n  7. Resuspend pellet in 50 µL PBS and store at -80°C, or\n  8. Proceed to miRNeasy RNA isolation by adding 700 µL Qiazol to pellet."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5345,
+  "origin_website": "Bio",
+  "title": "Immunofluorescence Analysis of Yeast Protein",
+  "procedures": [
+    "Inoculate yeast cells overnight in a 30 °C shaker.Subculture cells at OD600=0.1 in 5 ml YPD or defined media.Continue to shake at 30 °C for 4-6 h to a concentration of 1-5 x 107.Add 0.6 ml of 37% formaldehyde solution directly to the cells and continue to incubate with shaking for 90 min (to be exact) at the same temperature as growth.Transfer cells to a 15 ml conical tube and pellet by centrifugation at 660 x g for 3 min at 4 °C.Aspirate supernatant and wash cells with ice-cold 5 ml phosphate buffer. Be gentle at this step because yeast cells are very fragile after fixation by formaldehyde.Repellet cells and wash with ice-cold 5 ml sorbitol buffer.Pellet cells and aspirate supernatant. Resuspend in ~1 ml sorbitol buffer.Pre-warm the cells at 30 °C for 5 min.Add 25 μl of zymolyase, mix gently and incubate on 30 °C heat blot for 15-30 min.Check the digestion under a light microscope (fully digested cells are gray while undigested cells are bright).When 80% of cells are digested, Pellet cells 660 x g for 3 min at 4 °C. Re-suspend cells gently in 0.5 ml ice-cold sorbitol buffer.Repeat step 12.Prepare slides by coating them with Poly-L-lysine for 10 min at room temperature (RT).Wash slides 5 times with water and let them dry at RT.Place 20 μl of cell suspension into each well on the slide. Incubate in a wet chamber for at least 10 min.Immediately immerse slide in ice-cold methanol for 6-7 min. Remove and immerse immediately in ice-cold acetone for 30 sec. Dry the slides on 30 °C heat blot. From this step on, don’t let the wells dry. Wash wells several times with blocking buffer and incubate a moist chamber for at least 10 min.",
+    "Note: longer incubation time may give better results, for example, incubate in blocking buffer at 4 °C overnight. Remove supernatant and add 20 μl of primary antibody (diluted in blocking buffer). Incubate in a moist chamber for at least 2 h. Note: can put the slides at 4 °C overnight.Aspirate excess solution and wash 5x with blocking buffer. Add 20 µl of fluorescence conjugated-secondary antibody (diluted in blocking buffer). Place in a dark/moist chamber for ~1 h. Remember to keep slides in the dark as much as possible to prevent bleaching of fluorescence. Aspirate excess solution and wash 5x with blocking buffer. Then, wash once with 1x PBS. Dilute DAPI (1:1,000) in 1x PBS. Add DAPI solution to wells for 2 min. Aspirate excess solution and wash once with 1x PBS. Do not allow the slide to dry and add 2 µl Vectorshield to the well and immediately cover with cover slide. Seal the edge of the slides with Cytoseal 60 and examine under a fluorescence microscope."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

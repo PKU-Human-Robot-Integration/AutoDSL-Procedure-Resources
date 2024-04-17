@@ -1,0 +1,15 @@
+{
+  "id": 6617,
+  "origin_website": "Bio",
+  "title": "A Highly Sensitive, Reproducible Assay for Determining 4-hydroxynonenal  Protein Adducts in Biological Material",
+  "procedures": [
+    "Sample PreparationSerumDilute serum 1:10 in PBS (see Recipes) before plating.Tissue HomogenateUsing a Duall Tissue Grinder (Kimble) and a 1 g: 10 ml weight to volume ratio, homogenize heart tissue in TEE-T buffer (see Recipes).Cell LysateLyse cells using RIPA buffer at a ratio of 1 ml buffer: 106 cells.Positive ControlsFor cell culture: Add 100 μM H2O2 to cells for 2 h, and prepare cell lysate in RIPA buffer. Include those samples on ELISA plate.For serum or tissue homogenate: After homogenization and prior to antigen adsorption step (Step 2), add 1.25 μM HNE-BSA adduct (from Step 2) to at least 2 unknown samples, and include those samples on ELISA plate.Preparations of HNE-adduct solutions for standard curveA standard curve is prepared fresh, one day prior to each ELISA, with serial dilutions of HNE in 1% BSA (diluting BSA solution in 50 mM PBS, pH 7.4). While keeping BSA constant, HNE is varied serially (0-0.019-0.0375-0.075-0.15-0.31-0.625-1.25-2.5-5 μM) in a 200 μl solution of 1% BSA.Incubate at 37 °C for 24 h.Antigen adsorptionAdd 100 μl of standard curve solutions and 100 μl of unknown samples to wells, in triplicate, and cover with adhesive seal.Incubate overnight at 4 °C while rocking.Plate washEmpty plate and remove excess fluid by blotting on paper towel.Add 200 μl of ELISA wash buffer to each well.Repeat Steps 4a and 4b until the plate has been washed a total of 6 times.BlockingAdd 200 μl of Immuno Shot-Platinum blocking agent to each well and cover with adhesive seal.Incubate for 4 h at room temperature while rocking.Plate washWash plate as described in Step 4.Primary antibody incubationAdd 100 μl of a 1:100 dilution of primary antibody (Percipio Biosciences) in PBS to each well and cover with adhesive seal.Incubate for 2 h at 37 °C with agitation in the Incu-Mixer.",
+    "Plate washWash plate as described in Step 4.Secondary antibody incubationAdd 100 μl of a 1:7,500 dilution of secondary antibody (Santa Cruz BioTechnology,) in PBS to each well and cover with adhesive seal.Incubate for 2 h at 37 °C with agitation in the Incu-Mixer.Plate washWash plate as described in Step 4.Developing and reading fluorescence (Amplex UltraRed Solution)Add 100 μl of Amplex UltraRed Solution (prepared fresh) to each well and cover with adhesive seal.Incubate at room temperature, protecting from light.Using a multi-well plate reader, measure fluorescence in each well at ~560 nm/590 nm (ex/em spectrum for Resorufina, the oxidized product formed in the reaction of H2O2 with Amplex Red, catalyzed by HRP). Do this 15, 30, and 60 min after addition of Amplex UltraRed Solution."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6416,
+  "origin_website": "Bio",
+  "title": "An Improved Staining Method for Low Signal <em>LacZ</em> Reporter Detection in Mouse Embryos",
+  "procedures": [
+    "Collect embryos from pregnant mice as reported previously (Shea and Geijsen, 2007) and fix the embryos in 10 ml 4% PFA (Recipe 2) in 6-well plates at room temperature (the volumes used here and in the following steps are for one embryo). The 6-well plates should be placed in humidified chambers, which are kept on orbital shakers set to 65 rpm. The fixation time varies and depends on the developmental stage of the embryos. The following table lists the recommended fixation times.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190222/20190222013627_8343.jpgUse forceps to transfer the embryos to a new well of the 6-well plate filled with 10 ml Wash Buffer (Recipe 4). Wash the embryos three times with a 10 min incubation at room temperature for each wash. During the washing steps, the 6-well plates should be placed in humidified chambers on an orbital shaker set at 65 rpm.Use forceps to transfer the embryos to a new well of the 6-well plate filled with 10 ml Staining Buffer 1 (Recipe 5). Incubate overnight at 37 °C in a microbiological incubator (remember to protect samples from light). The 6-well plates should be placed in humidified chambers.Use forceps to transfer the embryos to a new well of the 6-well plate filled with 10 ml Wash Buffer and incubate for 10 min at room temperature. Next use forceps to transfer the embryos to a new well of the 6-well plate with Staining Buffer 2 (Recipe 6) and incubate at 37 °C in a microbiological incubator. The 6-well plates should be placed in humidified chambers. The staining should be closely monitored with a stereomicroscope until specific staining appears. The staining time could vary from several minutes to one hour. Use forceps to transfer the embryos to a new well of the 6-well plate filled with 10 ml Wash Buffer and wash three times.",
+    "Incubate each wash for 10 min. During the wash, the 6-well plates should be placed in humidified chambers, on an orbital shaker set to 65 rpm. After the embryos are washed, they can be imaged directly or kept at 4 °C in Wash Buffer for up to one week. Take images using Leica Application Suite V3.7 on a Leica DFC340 FX microscope. We use the Z-stack option in the Leica Application Suite V3.7 because the stained embryos are relatively thick. The images generated from the Z-stack processing are used as final results. Embryos that do not express the LacZ gene are used as negative controls. Figure 2 shows representative staining images of X-gal/FeCN, S-gal/TNBT, and the improved method described here.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190222/20190222013102_8033.jpgFigure 2. The representative LacZ staining images of X-gal/FeCN, S-gal/TNBT, and the improved method in detecting miR-322/-503’s expression in E10.5 embryos. A. Embryos stained with X-gal/FeCN method. B. Embryos stained with S-gal/TNBT method. C. Embryos stained with the improved method described here. The images were taken with a Leica DFC340 FX microscope at 10x magnification."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

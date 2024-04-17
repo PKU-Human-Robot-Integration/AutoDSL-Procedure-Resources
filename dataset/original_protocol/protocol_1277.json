@@ -1,0 +1,14 @@
+{
+  "id": 1362,
+  "origin_website": "Nature",
+  "title": "<p>In Vivo Electrophysiology Recording During Optogenetic Manipulation via UCNPs</p>",
+  "procedures": [
+    "<p>1. Mice were head-fixed on stereotaxic setup (Thorlabs Inc, US).</p><p>2. A respiratory mask was placed around the nose and mouth to deliver 1.5 % isoflurane for anaesthetization during surgery, and turned down to 0.5 % isoflurane during electrophysiology recording.</p><p>3. The eyes were covered with erythromycin ointment to block the environmental light.</p><p>4.After removing the scalp, a craniotomy window was created stereotaxically on V1. The craniotomy was filled with fresh warm sterile buffered saline throughout the entire recordings.</p><p>5. The dura was carefully removed.</p><p>6. The silicon electrode (A4x8-5mm, Neuronexus, US) was slowly inserted into V1 at a depth about 0.4-0.6 mm by a micromanipulator (Scientifica, US).</p><p>7. Electrical signals were recorded at 30 kHz and amplified × 200 by multichannel data acquisition system (Bio-Signal Technologies, China).</p><p>8. Spikes were high-pass filter at 300 Hz, detected as events exceeding a threshold of 5 × s.d. below the noise, raster plot and peri stimulus time histogram (PSTH) were made.</p><p>9. The spike waveforms were sorted off-line by OfflineSorter (Plexon, US).</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

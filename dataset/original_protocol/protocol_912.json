@@ -1,0 +1,20 @@
+{
+  "id": 971,
+  "origin_website": "Nature",
+  "title": "Preparation of single cell suspensions from the adult mouse lung",
+  "procedures": [
+    "1. Preparation. Weigh two aliquots of 10 mg of collagenase type 2 powder. Keep at -20°C until ready to be used 2. Kill the mouse using an approved method of euthanasia \\(terminal anesthesia followed by heart perfusion with HBSS, or cervical dislocation). Remove the lungs.\n  3. Transfer the lungs to a Petri dish and chop it with sharp scissors for about 30 seconds, or until no large pieces are visible. The pieces should be small enough to pass through a cut pipette tip \\(see next step).\n  4. Dissolve 10 mg of collagenase powder in 2 ml of DMEM\n  5. Transfer the lung pieces to a 5 ml tube and mix them with the collagenase solution \\(5 mg/ml). Use a p1000 with cut tip and wash the petri dish.\n  6. Mix the suspension well using the cut p1000 tip. The solution has to pass the tip freely with no blockage\n  7. Incubate the suspension for 10 minutes at 37 °C with fast rotation \\(>20 rotations per minute).\n  8. During incubation: Prepare Neural Tissue dissociation enzyme mix: Mix 30 µl of buffer 3 with 15 µl of buffer 4.\n  9. Take the suspension from the rotator and add the Neural Tissue dissociation enzyme mix.  \n  10. Mix the solution with a Pasteur pipette and a rubber bulb 10 times. When clogging occurs, remove the clog by tapping the tip of the Pasteur pipette on the bottom until the clog resolves. The solution should pass the Pasteur pipette without clogging before proceeding to the next step.\n  11. Incubate for 5 minutes at 37 ºC with fast rotation",
+    "12. Pass the lung suspension firmly, but without creating bubbles or foam, through a 20 G needle \\(use a 1 ml syringe). Do this a minimum of 10 times. The suspension should pass the needle without clogging, and no major tissue pieces should be visible after this step.\n  13. Incubate 10 minutes at 37 ºC \n  14. Transfer the suspension to a 15 ml tube, add 8 ml of cold FACS Buffer and pass through a 70 µm mesh. From this moment on, the cell suspension should stay on 4 ºC.\n  15. Centrifuge at 300g for 5 minutes at 4 ºC.\n  16. Resuspend the cells in 500 µl of FACS buffer and proceed with FACS."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Molecular Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

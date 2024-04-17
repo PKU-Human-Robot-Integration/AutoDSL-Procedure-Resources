@@ -1,0 +1,15 @@
+{
+  "id": 538,
+  "origin_website": "Nature",
+  "title": "Differential scanning calorimetry \\(DSC)",
+  "procedures": [
+    "1) Load 0.7 ml of buffer to reference and sample cells\n2) Run 0 to 120 &#xB0;C at 1 degree/min\n3) Load 0.7 ml of fresh buffer to reference cell\n4) Load 0.7 ml of protein to sample cell\n5) Run 0 to 120 &#xB0;C at 1 degree/min"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

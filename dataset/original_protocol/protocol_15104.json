@@ -1,0 +1,15 @@
+{
+  "id": 18930,
+  "origin_website": "Jove",
+  "title": "In vivo Imaging of Tumor Angiogenesis using Fluorescence Confocal Videomicroscopy",
+  "procedures": [
+    "1. Preparation of the Contrast Agent\nFor FITC-dextran 70 kDa, the dose injected is 500 mg/kg (10 mg of FITC-dextran diluted in 0.1 ml of saline for a mouse weighing 20 g).\nThe agent should not be exposed too long to light. To avoid bleaching, it is recommended to cover the tube with aluminum foil.\n2. Anesthesia\nMice were anesthetized by an intraperitoneal injection of a mixture of 1:4 of xylazine (Rompun 2%, Bayer, Puteaux, France) and Ketamine (Kétamine 500, Virbac, Carros, France), respectively 66 mg/kg and 264 mg/kg for a 20 g mouse.\n3. Preparation of the Organ of Interest\nWe shaved the mice at the location of interest (for example, over a subcutaneous tumor). Animal hair is often auto-fluorescent when white. When black, it absorbs light.\nThe skin facing the organ to be imaged was incised. It is important to wait until the bleeding has stopped before injecting the contrast agent, otherwise it will leak in the blood and contaminate the image.\n4. Acquisition\nThe contrast agent was injected through either the jugular vein or the caudal vein. There is no or little background signal in the organ observed in the absence of a fluorescent contrast agent.\nThe probe was placed in front of the organ to be imaged. In our study, this was the tumor.\nThe laser was turned on to illuminate the tumor and see the fluorescence in the capillaries.\nThe tumor was explored manually by moving the probe in a very slow movement while recording to visualize the capillary network. It is important to maintain a steady hand, and this technique requires a little experience. In our study, this first step allowed quantification of functional capillary density.",
+    "The second step was the dynamic acquisition over time. For this study, we used a 70 kDa FITC-dextran. There is no interstitial leakage in most normal organs but there is in tumors. To acquire images of the same location over time (as in our case), it is important to set up a system to maintain the probe on the area of interest. This was done by using a handmade support to hold the probe, and by placing a bit of ultrasound gel on the tip of the probe. Before recording, time was spent to stabilize the probe placed in contact with the tumor. Once the position was secured, there was only minimal motion due to the mouse's breathing. The laser was turned on to record 3 images every 30 sec for 20 min to detect the presence of capillary leakage. It was turned off between each recording to reduce contrast agent bleaching.\nIn our experiment, mice were sacrificed at the end of the procedure for histological analysis of tumors.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

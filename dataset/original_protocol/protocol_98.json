@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "origin_website": "Nature",
+  "title": "BaCelLo: a Balanced subCellular Localization predictor.",
+  "procedures": [
+    "How to predict the subcellular localization for a protein:\n1.   Go to \"http://gpcr.biocomp.unibo.it/bacello/pred.htm\":http://gpcr.biocomp.unibo.it/bacello/pred.htm\n  2.   Select the kingdom of the organism expressing your protein\\(s) \\(choosing between Animals, Fungi or Plants).\n  3.   Paste the sequences \\(up to five sequences per time) in the corresponding field.\n  4.   Submit the request and wait for results.\n  \nHow to read results:\n&#x2022;   The result page will be available for a maximum of 24h\n&#x2022;   In the result page you will find, for each protein:\n   a)   the prediction of the subcellular localization\n   b)   the path along the decision tree \\(Figure 1).\nAs shown in table 1, the performance depends on the hierarchy of the tree."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

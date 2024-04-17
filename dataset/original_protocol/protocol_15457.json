@@ -1,0 +1,15 @@
+{
+  "id": 19283,
+  "origin_website": "Jove",
+  "title": "Ex Vivo Culture of Patient Tissue & Examination of Gene Delivery",
+  "procedures": [
+    "Preparation of Media and Reagents\nAntibiotic Solution\n    Phosphate buffered saline (PBS) with 200 U/ml penicillin, 200 μg/ml streptomycin, 5 μg/ml fungizone\nCollection and Treatment medium\n    Dulbecco's modified eagle medium (DMEM) with 200 U/ml penicillin, 200 μg/ml streptomycin, 5 μg/ml fungizone\nCulture medium\n    Collection medium containing 10% heat-inactivated fetal bovine serum\nI. Tissue collection and storage\nApproval for patient tissue collection was obtained from the Clinical Research Ethics Committee of the Cork Teaching Hospitals and informed consent was obtained from the patients the day before surgery. Liver tissue was obtained from patients undergoing partial hepatectomy for malignant disease.\n Fresh patient tissue is obtained at the time of surgical resection.\n Tissue is stored in collection media at 4°C (Tissue may be stored refrigerated for up to 12 h without significant loss of viability, however immediate processing is recommended).\nII. Tissue slice preparation and culture\nSlicing was performed using a vibratome (Leica, Germany). The tissue slicing system was used according to the manufacturer's instructions. Tissue slice preparation was performed under a sterile hood using instruments cleaned with 70% 2-propanol. Slice thickness is set at 2000 microns and cut using a reciprocating blade at 22-26 rpm.\n Tissue is washed in antibiotic solution three times.\n Tissue is attached to mounting stage using non-toxic adhesive (Dermabond).\n Slice thickness is set and slicing is achieved at 22-26 rpm.\n Slices are maintained in culture medium in 6-well culture dishes (one slice per well) at 37°C with 5% CO2 in a humidified environment.\nIII. Gene delivery to tissue slices\n Slices are pre-incubated at 37°C for 2 h prior to treatment.\n Culture medium is replaced with treatment medium.\n Slices are directly injected with viral vector (25 μl of viral particles Ad5.CMVluc [1x109]). Alternatively, particles may be added to the medium, for passive infusion.",
+    "After two hours of incubation, serum is added to medium.\nIV. Analysis of gene expression by bioluminescent analysis\n Slices are injected with 100 μl of luciferin substrate (3 mg/ml).\n 6-well culture dish is placed on stage and incubated for 10 min.\n Slices are imaged for 5 min at high sensitivity (Figure 1).\nV. Representative Results\nimgsrc://cloudfront.jove.com/files/ftp_upload/2378/2378fig1.jpgFigure 1. Bioluminescent imaging of patient liver slices using IVIS detection system.Subscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

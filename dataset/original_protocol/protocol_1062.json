@@ -1,0 +1,21 @@
+{
+  "id": 1134,
+  "origin_website": "Nature",
+  "title": "Bead aggregation assay to demonstrate presynaptic differentiation induced by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+  "procedures": [
+    "**Preparation of NGL-2 ectodomain fusion proteins**\n1. Transfect HEK293T cells with NGL-2-Ecto-Fc, in which the ectodomain of NGL-2 was fused to the human immunoglobulin Fc domain.\n  \n2. After 2 days of incubation, change the medium to serum-free medium and incubate for a further 3 days.\n  \n3. Purify NGL-2-Ecto-Fc from the serum-free medium using protein-A sepharose.\n  \n**Bead coating**\n4. Mix 5 &#x3BC;g of NGL-2-Ecto-Fc, 5 &#x3BC;g of biotin-conjugated anti-human antibodies, and 2 &#x3BC;L of neutravidin-conjugated FluoSphere beads \\(Molecular Probes; 1 &#x3BC;m diameter), and incubate for 1 h.\n  \n5. Increase the volume of the mixture to 1 mL by adding Hank&#x2019;s balanced salt solution \\(HBSS), and centrifuge at 13,000 rpm for 1 min in a microcentrifuge.\n  \n6. Carefully remove the supernatant, and resuspend the precipitates in 100 &#x3BC;L of conditioned media where neurons were growing.\n  \n**Bead binding to neurons**\n7. Place the coverslips with cultured neurons \\(DIV12) face-up on 6-well \\(or larger) dishes. Save the conditioned media for Step 9.\n  \n8. Add 100 &#x3BC;L of the resuspended beads onto the neurons and incubate at 37 <sup>o</sup>C for 30 min. Do not let the coverslips dry during bead loading.\n  \n9. Wash the neurons twice with HBSS, and place the coverslip back into the conditioned media and incubate for 24 h.\n  \n10. Fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies.\n  \n**Image acquisition and quantitation**\n11. Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging.\n  \n12. For quantitation, manually trace the boundaries of the beads. Copy a bead boundary to a nearby axonal region for normalization. \n  \n13. The mean immunofluorescence intensity of a synaptic marker in a bead area was determined and normalized by that from a nearby control area."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

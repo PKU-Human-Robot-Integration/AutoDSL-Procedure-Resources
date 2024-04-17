@@ -1,0 +1,15 @@
+{
+  "id": 248,
+  "origin_website": "Nature",
+  "title": "Estimation of total Terpenoids concentration in plant tissues using a monoterpene, Linalool as standard reagent.",
+  "procedures": [
+    "1. Harvest plant material \\(approximately 500mg.) in screw-capped tubes & freeze immediately in liquid Nitrogen. \\[Sample must be stored at -80⁰ C for 1-2 months but fresh sample must be preferred]\n  2. To homogenize the tissue, place three tungsten Carbide beads & 3.5 ml of ice-cold 95% \\(Vol/Vol) Methanol in each sample tube & insert sample into pre-cooled teflon adaptors. Homogenized tissue for 5 minutes at 30 Hz. If a mixture mill is not available tissue can be homogenized in an ice-cold mortar & pestle.\n  3. Remove tungsten carbide beads with a magnet & incubate the sample at room temperature for 48 h in dark.\n  4. Centrifuge the samples \\(4000g for 15 min. at room temperature) & collect the supernatant in a fresh 2 ml micro-tube.\n  5. Add 1.5 ml Chloroform in each 2 ml microcentrifuge tube & then add 200µl sample supernatant in each.\n  REMARK For the standard curve 200µl of previously prepared Linalool solution in methanol will be added to 1.5 ml Chloroform & serial dilution must be done\\[dilution level-100mg/200µl to 1mg/200µl \\( 12.965 µM- 1.296 µM) Linalool Conc. In case of serial dilution total volume of 200µl will be make up by addition of 95% \\(Vol/Vol) Methanol].\n6. Vortex the sample mixture thoroughly & take the time 3 min to rest.\n  7. Add 100µl Conc. Sulfuric acid \\(H2SO4) to each 2 ml microcentrifuge tube.\n  CRITICAL STEP   If heat generation occurs then the entire system must be cooled by using ice-pad but not more than 15 min.\n8. Then the assay tube must be incubated at room temperature for 1.5h-2h in dark.\n  PAUSE POINT  For standard solution \\(Linalool) incubate not more than 5 minutes and during incubation time the microcentrifuge tube must not be disturbed.",
+    "9. At the end of incubation time a reddish brown precipitation will be formed in each assay microcentrifuge tube. Then carefully & gently decant all supernatant reaction mixture liquid with-out disturbing the precipitation. \n  CRITICAL STEP  The reddish brown precipitation is partially soluble in reaction mixture solution so must gently decant the supernatant fluid.\n10. Add 1.5 ml of 95% \\(Vol/Vol) Methanol & vortex thoroughly until all the precipitation dissolve in Methanol completely.\n  11. Transfer the sample from assay tube to Colorimetric cuvette \\[95% \\(Vol/Vol) Methanol will be used as blank] to read the absorbance at 538 nm.\n  \nTotal Terpenoid Calculation\n12. Calculate a standard curve from the blank-corrected at wave length at 538nm of the Linalool standard \\(Fig.1). Calculate total terpenoids concentration of unknown plant sample as Linalool equivalents using the regression equation of  Linalool standard curve."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

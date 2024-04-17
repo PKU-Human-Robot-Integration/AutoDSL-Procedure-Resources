@@ -1,0 +1,17 @@
+{
+  "id": 4298,
+  "origin_website": "Bio",
+  "title": "Isolation and Culture of Peritoneal Cell-derived Mast Cells",
+  "procedures": [
+    "Note: All procedures are done in sterile environment in a safety cabinet.   Day 1    Kill mouse by cervical dislocation.   Spray mouse thoroughly with 70% alcohol (or IMS) and lay down on 70% alcohol soaked paper.   Make a small incision below the sternum of the mouse and peel the fur back from the chest. Be careful not to puncture the peritoneum. Use sterile scissors and tweezers.   Inject 1 ml air and 10 ml ice cold sterile PBS into the peritoneal cavity of the mouse using 10 ml syringe with a 19-gauge needle. Note: 1:1 mixture of air and PBS can also be used to avoid leaking.   Do not remove the needle.   Give 30 sec massage on two sides of the mouse with fingers. Be careful not to push too hard the mouse.   Collect the PBS with the cells into a Falcon tube with the syringe. Note: Needle can be replaced for a bigger one to collect cells from the peritoneal cavity.   Open the peritoneal cavity with new scissor and forceps and collect the rest of the PBS with a sterile pipette.   Place the Falcon tube onto ice until centrifugation.   Centrifuge cells at 4 °C with 300 x g for 10 min.   Resuspend cells in 5 ml PBS per mouse.   Centrifuge cells at 4 °C with 300 x g for 10 min.   Resuspend cells in 5 ml medium [with 10 ng/ml IL-3 and 30 ng/ml SCF per two mice (approximately 1 million cells obtained per mouse)] and transfer them into a small culture flask.   Put the flasks into the incubator (37 °C, 5% CO2).     Day 3    Remove non-adherent cells by discarding the medium and add 5 ml fresh medium (with 10 ng/ml IL-3 and 30 ng/ml SCF) to every flask.   Put them back into the incubator (37 °C, 5% CO2).",
+    "Day 6    Add 5 ml fresh medium (with 10 ng/ml IL-3 and 30 ng/ml SCF) to every flask.     Day 9 or 10    PCMCs are the non-adherent cells and can be used for experiment.   Cell number and viability can be measured with trypan blue staining in haemocytometer.   Purity can be tested with Kimura staining by mixing the cell suspension and Kimura dye (1:1) and after 5 min at 37 °C count cells under a light microscope. Mast cells will be stained red/purple (Kimura et al., 1973). Note: Expected cell number is 0.5-1.5 x 106 PCMC/mouse after culturing. Purity is > 95% (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140217/20140217010615_3247.jpg Figure 1. The purity of peritoneal-derived cultured mast cells is over 95% after 9 days of cultivation. Peritoneal cells were cultured for 9 days in complete RPMI medium in the presence of 10 ng/ml IL-3 and 30 ng/ml SCF. Purity was assessed on the basis of APC-conjugated c-kit and Fitc congugted-FcεRI cell surface expression measured by flow cytometry as previously described (Vukman et al., 2013). A: unstained control; B: double stained sample."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

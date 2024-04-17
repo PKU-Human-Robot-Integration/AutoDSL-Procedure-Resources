@@ -1,0 +1,14 @@
+{
+  "id": 721,
+  "origin_website": "Nature",
+  "title": "Immunohistochemistry analysis",
+  "procedures": [
+    "1)  Perform immunohistochemistry for chemokine receptors CXCR1, CXCR3 and CXCR4 on first trimester human placental paraffin-embedded sections as previously described \\[1], with microwave antigen retrieval using sodium citrate buffer \\(Zymed Laboratory Inc, San- Francisco, CA, USA). \n2)  Stain with the same concentration of isotype match controls for each chemokine receptor on the same serial sections as controls.  \n3)  Perform immunohistochemistry on decidual sections with NCR-Fc fusion proteins \\(prepared as previously described 3) by microwave heating the formalin-fixed, paraffin embedded tissue sections in citrate buffer in order to retrieve antigens. \n4)  Then stain sections with the different NCR-Fc fusion proteins or control-Fc \\(8 &#xB5;g/ml, final concentration) followed by biotinylated-goat-anti-human-Fc \\(Jackson ImmunoResearch, West Grove, PA). \n5)  Detect using the avidin-biotin peroxidase complex method with a Vectastain kit \\(Vector Laboratories, Burlingame, CA)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4254,
+  "origin_website": "Bio",
+  "title": "Colony Forming Assay for HCV-Replicon Cell Line",
+  "procedures": [
+    "Day one: HCV-replicon cells are sub-cultured and are seeded on 35 mm cell culture dish at density of 2 x 105 in 2 ml of complete DMEM.    Day two: Before transfection, media was replaced with DMEM not containing Penicillin/Streptomycin.    4 μM of test or control nucleic acid-based drugs were transfected using Lipofectamine 2000 reagent according to manufacturer's instruction.   Four hours after transfection, cells were replaced with 2 ml of fresh complete DMEM containing 500 μg/ml G418, and incubated for 2 days.   Step 2 to step 4 was repeated every 2 day during about two weeks.   About two weeks later, cells were trypsinized and sub-cultured, and one-tenth of the cells were replated to 35 mm dishes with 2 ml of 500 μg/ml G418 containing complete DMEM.    Step 2 to step 6 was repeated until visible colonies were obtained (usually, colonies formed one month after first transfection).   After acquiring colonies, media was removed and cells were washed 1 time with 1ml of 1x PBS.   Cells were treated with 1 ml of 2% paraformaldehyde for 15 min at room temperature.    Remove the paraformaldehyde from the cells and add 1 ml of 1% methylene blue for 10 min.   Remove the methylene blue and wash cells with 1 ml of dH2O three times.   Cells were air-dried for 15 min, and analyze appearance of drug-resistant cells by counting the number of G418-resistant cell colonies. You can find examples of picture showing drug-resistant colonies in the Figure 4C of Reference 1 (Lee et al., 2013)."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 486,
+  "origin_website": "Nature",
+  "title": "Rtl1 and CD31 double-immunohistochemistry",
+  "procedures": [
+    "1. Embed fresh placenta in OCT compound immediately after picking up from uterus.\n  2. Freeze the compound in cooled 2-methyl butane in a liquid nitrogen bath.\n  3. Cut into 5-&#xB5;m sections on a cryostat and dry them at room temperature.\n  4. Fix the sections in 4% paraformaldehyde for 10 min.\n  5. Wash the slides in 0.01M PBS for 5 min three times.\n  6. Put the slides in 0.3% H<sub>2</sub>O<sub>2</sub>/Methanol for 15 min.\n  7. Wash the slides in 0.01M PBS for 10 min three times.\n  8. Apply a drop of normal goat serum to each specimen and incubate for 10 min in moistening box at room temperature.\n  9. Discard the serum, apply a drop of 1st antibody mixture to each specimen and incubate for 1 hr at room temperature in the moistening box.\n  1st antibody mixture for each specimen: anti-Peg11 antibody 1 &#xB5;l + anti-CD31 \\(Pecam-1) \\(BD Pharmingen) 2 &#xB5;l + 1% BSA 97 &#xB5;l\n10. Wash the slides in 0.01M PBS for 10 min three times.\n  11. Apply a drop of normal goat serum to each specimen and incubate for 1 min in moistening box at room temperature.\n  12. Discard the serum, apply a drop of 2nd antibody mixture to each specimen and incubate for 1 hr at room temperature in dark moistening box.\n  2nd antibody mixture for each three specimens: Alexa Fluor 488 goat anti-rat IgG \\(Invitrogen) 1.5 &#xB5;l + Cy3-conjugated AffiniPure Goat anti-rabbit IgG \\(Jackson ImmunoResearch) 1 &#xB5;l + Hoechst33342 \\(Invitrogen) \\(1/100 diluted by DDW) 1&#xB5;l + 1% BSA 300 &#xB5;l\n13. Wash the slides in 0.01M PBS for 10 min three times.\n  14. Apply a drop of 50% glycerol to each specimen, cover it with coverslip and completely seal the edges of coverslip with nail polish.\n  15. Observe under fluorescence microscope.\n  \\(Excitation, Emission)\nAlexa 488 \\(495, 520)",
+    "Cy3 \\(512/552, 570)\nHoechst33342 \\(360, 450)"
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

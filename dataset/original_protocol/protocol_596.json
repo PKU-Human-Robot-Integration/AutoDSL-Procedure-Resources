@@ -1,0 +1,17 @@
+{
+  "id": 632,
+  "origin_website": "Nature",
+  "title": "Immunofluorescence staining of kidney sections to monitor ischemia-induced damage",
+  "procedures": [
+    "**Day 1**\n1. Deparaffinize tissue sections by immersing slides in a Xylene solution \\(twice; 10min each).\n  2. Hydrate tissue sections by immersion in descending alcohol concentrations.\n  100% ethanol \\(10min)\n100% ethanol \\(5min)\n95% ethanol in PBS \\(5min)\n70% ethanol in PBS \\(3min)\n50% ethanol in PBS \\(3min)\n30% ethanol in PBS \\(3min)\n3. Wash slides in PBS \\(twice; 5min each).\n  4. In glass jar, immerse slides in 10mM sodium citrate pH6.0/Tween-20 to retrieve antigens.\n  Place glass jar in center of the microwave \\(high power setting).\nMicrowave twice, 3min each for each step.\nMake sure tissue sections remain submerged in the solution throughout the procedure. \n5. Allow solution to cool down to room temperature \\(30-45min).\n  6. Remove slide from jar. Draw hydrophobic borders with a Dako-pen around each tissue section.\n  7. Add 0.1% Triton-X100 solution to permeabilize cell membranes \\(5min; room temperature).\n  8. Block unspecific binding sites with 5% FBS/Tween-20 solution \\(1h; room temperature).\n  9. Dilute antibodies against HuR \\(1:250) and aquaporin-1 \\(1:125) in blocking solution.\n  10. Transfer slides to a humidified chamber and add 50-100µl of primary antibodies diluted in blocking solution \\(overnight; room temperature). \n  \n**Day 2**\n11. Wash with blocking solution \\(three times; 5min each).\n  12. Dilute secondary antibodies in blocking solution \\(1:500 for Cy3- conjugated anti-mouse IgG; 1:250 for AlexaFluor®488-conjugated anti-rabbit IgG). \n  13. Incubate slide with diluted secondary antibodies in a humid chamber \\(2h; room temperature). Protect from light.\n  14. Wash with blocking solution \\(three times; 5min each).\n  15. Stain DNA with 1µg/ml in blocking solution \\(2min).\n  16. Add mounting medium, glass coverslip and seal with nail polish.\n  \n_Negative controls_\n1. Incubate one section on each slide without primary antibodies; add secondary antibodies as described above.\n  2. To assess autofluorescence, process control samples without addition of primary or secondary antibodies."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

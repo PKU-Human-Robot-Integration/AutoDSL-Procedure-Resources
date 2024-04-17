@@ -1,0 +1,17 @@
+{
+  "id": 96,
+  "origin_website": "Nature",
+  "title": "Artificial Sputum Medium",
+  "procedures": [
+    "1. Take 800 ml of distilled water in a beaker and place it on a magnetic stirring plate.\n  2. Use a magnetic stirrer to dissolve the ingredients completely.\n  3. Add mucin, DNA, DTPA, salts NaCl and KCl, and Tris base one after another with constant stirring.\n  4. Add 250 mg of each amino acid except tryptophan.\n  5. Stir the mixture continuously to dissolve amino acids.\n  6. Insert a calibrated pH probe and check the pH of the medium continuously with constant stirring.\n  7. Adjust the pH using Tris base until it stabilizes at 7.0.\n  8. Make up the volume of the medium to 1000 ml.\n  9. Sterilize the medium in an autoclave  at 110<sup>o</sup>C for 15 minutes. \n  10. Cool the sterilized medium and add filter-sterilized tryptophan \\(250 mg/L of medium) from the stock. \n  11. Add 5 ml of egg yolk emulsion. \n  12. Maintain sterile conditions for steps 10 and 11.\n  13. Mix the medium well and store in a refrigerator for several months.\n  \nNote: For preliminary/routine experiments, casamino acids could also be used at 5 g/L of medium, instead of individual amino acids."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

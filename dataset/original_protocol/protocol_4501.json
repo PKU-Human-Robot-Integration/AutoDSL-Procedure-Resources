@@ -1,0 +1,16 @@
+{
+  "id": 4744,
+  "origin_website": "Bio",
+  "title": "A Phosphopeptide Purification Protocol for the Moss <em>Physcomitrella paten</em>",
+  "procedures": [
+    "This procedure includes proteins extraction, protein digestion and phosphopeptide purification. The following should all be carried out at cold room temperature except for special instructions.    Add protease inhibitor mix (protease inhibitors and phosphatase inhibitors) to the ice-cold protein extraction buffer according to the manufacturer’s instructions.   Pour liquid nitrogen into mortar until nearly full in order to pre-cool the mortar and pestle.   Add the fresh or frozen (-80 °C freezer) tissue (about 1 g) into mortar, grind them to fine powder in liquid nitrogen, and then thaw on ice for 10-15 min.   Add 2 ml ice-cold protein extraction buffer into mortar, homogenize by grinding on ice for 10 min, and then transfer 0.8 ml to each tube.   Add an equal volume of ice-cold Tris-HCl (pH 7.5)-saturated phenol to each tube, vortex tubes for 5-10 min.   Centrifuge samples at 13,000 rpm for 15 min at 4 °C.   Collect phenol phase and mixed with three volumes of 100 mM ammonium acetate in methanol.    Precipitate proteins from mixture of phenol phase and 100 mM ammonium acetate overnight at -20 °C.   Centrifuge proteins at 13,000 rpm for 15 min at 4 °C.   Rinse proteins 3 times with ice-cold acetone containing 13 mM DTT and then lyophilize by freeze dryer for 5-10 min.   The protein concentration was determined according to Peterson (1977) using BSA as a standard.   Dissolve 500 µg protein power in 100 µl protein resuspension buffer at room temperature.   Reduce protein (500 µg protein in 100 µl resuspension buffer) with 20 mM DTT at 37 °C for 2.5 h and alkylate protein with 40 mM iodoacetamide for 40 min at room temperature in the dark.   Precipitate the protein mixture with 1 ml 100% acetone overnight at -20 °C.   Collect protein by centrifugation, dissolve protein in 100 mM ammonium bicarbonate (pH 8.",
+    "5), and digest protein with trypsin (50:1 w/w, protein to trypsin ratio) at 37 °C for 16 h.   Lyophilize the digested peptide mixture, and then dilute in a 200 µl loading buffer.   Rinse the titanium dioxide micro-columns (TiO2 columns, 320 µm x 50 mm) with 100 µl loading buffer.   Load the 200 µl samples onto TiO2 columns by applying air pressure created with a plastic syringe.   Wash the TiO2 columns with 100 µl loading buffer, 100 µl washing buffer I, and finally with 100 µl washing buffer II.   Elute the columns which bound phosphopeptides with 100 µl of elution buffer.   Pool and lyophilize the eluates which is purification of phosphopeptides [Representative data is shown in Wang et al. (2014a) and Wang et al. (2014b)]."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

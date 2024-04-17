@@ -1,0 +1,15 @@
+{
+  "id": 4839,
+  "origin_website": "Bio",
+  "title": "<EM>In vivo</EM> Fluorescein Isothiocyanate-dextran (FD4) Permeability Assay",
+  "procedures": [
+    "Dissolve FITC-Dextran in sterile water at a final concentration of 20 mg/ml.Trim the hair over the abdomen of a transplanted NSG mouse then clean the skin with isopropyl alcohol and povidone-iodine to create a sterile field.Induce anesthesia via nose cone with 2% inhaled Isofluorane.Once the mouse is anesthetized, cut the skin of the abdomen using scissors for several centimeters over the region of the transplanted tissue.Bring and secure the desired transplanted intestinal tissue up into the incision field using a dissecting microscope.Draw 100 μl of the FITC-Dextran solution into a 1 ml syringe equipped with a 30 gauge injection needle.Inject the lumen of the transplant with 100 μl of FITC-Dextran solution.Seal the injection site with skin glue to prevent leakage of the solution into the peritoneal cavity.Close the skin of the mouse using 3-0 vicryl suture in a running fashion.Give the mice a subcutaneous injection of buprenorphine (0.05 mg/kg) for analgesia.Remove the mouse from anesthesia and place the mouse into a clean, warm area for recovery.At 30 min after injection, return the injected mouse to the anesthesia machine for inhaled isoflurane anesthesia.Collect blood in EDTA blood collection tubes via retro-orbital bleeding using heparinized capillary tubes. Mix by inverting the tube 3-4 times.Return the mouse to the recovery area until the second timepoint of 4 h from the initial injection.Repeat step 13 at 4 h after injection.Sacrifice the mice using a CO2 exposure and confirm the euthanasia by cervical dislocation and collect tissues for histology at this time if desired. All animal euthanasia must be performed in accordance with the IACUC guidelines and an approved animal protocol within the institution.Centrifuge the EDTA tubes at 300 rpm for 10 min at 4 °C using the microcentrifuge.Remove the serum supernatant from the EDTA tubes.",
+    "Dilute each sample in an equivalent amount of chilled PBS.Prepare a standard curve using serial dilution of FITC-Dextran in PBS (0, 125, 250, 375, 500, 750, 1,000 µg/ml).Add 100 μl of diluted serum to a 96-well, flat-bottom plate in duplicates. Remember to include a negative control with serum from a mouse that was not injected with FITC-Dextran solution.Determine the concentration of FITC-Dextran in the serum using a spectrophotometer (Excitation: 485 nm; Emission: 528 nm).Plot the data to determine the concentration of the sample using the standard curve (Figure1)."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8121,
+  "origin_website": "Bio",
+  "title": "Cellular Extract Preparation for Superoxide Dismutase (SOD) Activity Assay",
+  "procedures": [
+    "Arabidopsis cellular extract preparationArabidopsis seedlings were grown at 23 °C with 16 h of light at 60–100 μmol m-2 s-1. Nine-day-old seedlings were collected and weighted.Seedlings were homogenized with ice-cold Grinding buffer (tissue weight/buffer volume = 1 mg/3 μl). Note that the tissue and extract should be kept at 4 °C during all extraction processes.Centrifuge at 16,000 x g at 4 °C for 10 min.The supernatant is the resulting cellular extract, and the amount of protein was quantified by Bradford method (1976). SOD activity stainingProteins or cellular extract (15 to 25 μg) was subjected to 10% native-PAGE at 4 °C.Wash the gel with distilled water for 3 times.Incubate with NBT solution in dark with shaking for 15 min at room temperature (RT).Pour off the NBT solution, wash the gel with distilled water for 3 times.Incubate with Riboflavin solution in dark with shaking for 15 min at RT.Pour off the Riboflavin solution, wash the gel with distilled water for 3 times.Gel was illuminated with a white-light box for 10-15 min at RT. During illumination, immerse gel in a thin layer of distilled water to avoid drying the gel.Under light exposure, the riboflavin is reduced then leading the production of O2-. NBT is reduced by O2- to form formazan, a dark blue color precipitate. The enriched SOD activity scavenges the O2- to prevent the formation of formazan, thus, the white SOD activity bands appear in the blue background.Identification of different SOD species (Figure 1)KCN treatment: KCN inhibits the CuZnSOD activity only.All procedures are the same as SOD activity staining processes except the addition of KCN to final 8 mM in Riboflavin solution.H2O2 treatment: H2O2 inhibits both CuZnSOD and FeSOD activities.",
+    "After native-PAGE and prior to NBT staining of SOD activity staining processes, soak the gel with 8 mM H2O2 solution for 30 min with shaking at room temperature. Wash the gel with distilled water for 3 times, and follow the remaining processes of SOD activity staining.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130702/20130702022257_8300.jpgFigure 1. SOD activity verification in Arabidopsis thaliana. KCN is an inhibitor of CuZnSOD activity, whereas H2O2 inhibits both CuZnSOD and FeSOD activities. MnSOD activity is not inhibited by either treatment."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

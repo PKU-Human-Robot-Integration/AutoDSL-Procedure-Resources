@@ -1,0 +1,14 @@
+{
+  "id": 369,
+  "origin_website": "Nature",
+  "title": "Multiplex PCR for amplifying mitochondrial and nuclear products in plants",
+  "procedures": [
+    "1. First step:\n  1.1. Prepare the PCR master mix according to Table 1.\n1.2. Add 24 µl of master mix to each PCR eppendorf tube.\n1.3. Add 1 µl of genomic DNA to each tube. Mix well.\n1.4. Set the thermal profile in the thermocycler according to Table 2 and run the PCR reaction for 10 cycles.\n2. Second step                                            \n  2.1. Prepare the master mix according to Table 3.\n2.2. Add 2 µl of the master mix to each PCR tube.\n2.3.  Set the thermal profile in the thermocycler according to Table 2 and run the PCR reaction for 35 cycles.\n3. Agarose Gel Electrophoresis \n  3.1. Make a 2% agarose gel \\(w/v) in 0.5 X TBE with ethidium bromide. \n3.2. Load the gel adding 1X xylene cyanol dye to each sample. Include a 100bp ladder DNA marker.\n3.3. Run the gel at 80 volts for 60 minutes and visualize under UV light."
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

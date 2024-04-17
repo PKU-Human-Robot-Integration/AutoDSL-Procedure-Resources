@@ -1,0 +1,16 @@
+{
+  "id": 6363,
+  "origin_website": "Bio",
+  "title": "Detection of Intracellular Reactive Oxygen Species (CM-H<sub>2</sub>DCFDA)",
+  "procedures": [
+    "In the protocol described below, we detect the intracellular ROS after exposure of non cancerous human thyroid epithelial cell line “HTori-3.1” to the oxidative stress. HTori-3.1 cells are grown in complete culture medium (see Recipes).HTori-3.1 cells were plated at a density of 2.5 x 105 cells per well into six-well plates in complete culture medium.Sixteen hours later, the cells (90% confluence) were washed by warm DPBS, harvested by trypsinization (250 μl of trypsin / Well).Add 1 ml of complete culture medium (10% FCS) to stop trypsinization and resuspend cells by gently pipetting up and down. Collect cells into 5 ml polystyrene round bottom tube by centrifugation (5 min at 200 x g) at room temperature and aspirate supernatant. Wash cell pellet with 4 ml DPBS and centrifuge 5 min at 200 x g at room temperature.Resuspend cell pellet in HBSS with 10 μmol/L of CM-H2DCFDA and increased concentration of H2O2 (1 – 5 -10 -15 - 20 - 25 and 50 μmol/L) by gently pipetting up and down (500 μl/tube).Incubate cells (resuspended in tubes) in cell incubator [(37 °C), high relative humidity (95%), and controlled CO2 level (5%)] in the dark for 45 min.Add Propidium Iodide 0.5 μl/0.5 ml/tube (final concentration = 1 μg/ml) and place the tubes on ice (still in the dark) and proceed immediately to flow cytometry analysis. Note that: a) the propidium iodide staining procedure should be performed immediately before analysis on the flow cytometer, b) when we place tubes on ice we minimize cell activity and we avoid artifactual fluctuations of ROS detection between the first tube analyzed in FACS and following tubes. A total of 5,000 events are analyzed in flow cytometry. The cellular viability is assessed by propidium iodide staining.",
+    "Collect PI fluorescence in the FL-3 channel (620 nm) of FACSVantage SE (Becton Dickinson).Living cells, which are PI negative, were selected by FACS gating. In these living cells, we record the fluorescence of DCF on FL-1 channel (525 nm) of FACSVantage SE (Becton Dickinson)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

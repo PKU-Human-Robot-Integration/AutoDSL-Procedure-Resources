@@ -1,0 +1,17 @@
+{
+  "id": 741,
+  "origin_website": "Nature",
+  "title": "Trans-well migration assay",
+  "procedures": [
+    "**Transwell in vitro migration assays.**\n1)  Place 150 x 10<sup>3</sup> isolated human trophoblasts in the upper chamber of 8 micron Transwells, \\(Costar Inc) on 100&#xB5;l of solid growth factor reduced Matrigel \\(BD Biosciences, Bedford, MA). \n2)  Place different NK cell subsets \\(100 x 10<sup>3</sup> cells in 600 &#xB5;l of Bio-MPM-1 medium \\(Biological Industries, Beit Haemek, Israel) supplemented with 5 U/ml of IL-15 and 5% pen-strep and non-essential amino acids) in the lower chamber for five days. \n3)  Where neutralizing antibodies for chemokines are to be used, add to the lower chambers \\(anti-IL-8, anti-IP-10, anti-SDF1 and anti-Eotaxin mAbs; all from RnD systems) at a concentration of 5&#xB5;g/ml each.  \n4)  Induce NK subset ability to induce HUVECs migration by placing NK derived supernatants or control media in the lower chamber of Transwell inserts with 6.5&#xB5;m pores. \n5)  Plate HUVECs \\(5 X 10<sup>4</sup>) in the upper chamber, and allowed to migrate for 4 hours at 37<sup>o</sup>C. \n6)  At the end of the trophoblast or HUVEC migration assays, cleanse the filter side of the upper chamber with a cotton swab and stain the filter for one hour with crystal violet \\(Sigma) in 2% ethanol and then rinse in water.\n7)  Gently cut the filter from the chamber and count the cells that have migrated through the filter pores from the underside of the filter. \n8)  Count the number of cells that migrated across the filters in 4 high-power fields per insert, and average values afterwards. For each migration condition, three identical replicates should be performed."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 63,
+  "origin_website": "Nature",
+  "title": "High throughput phenotype screening pipeline for functional genomics in <em>Magnaporthe oryzae</em>",
+  "procedures": [
+    "Regeneration of mutants in 24-well plate from the library marks the entry of mutants into HPS pipeline. In our screens of mutants, alterations at seven phenotypes covering fungal development and physiology were monitored in a step-by-step manner \\(Fig. 1). Phenotypes of primary interest are growth rate, pigmentation, conidiation, conidial morphology, conidial germination, appressorium formation, and pathogenicity. In each stage, phenotypes of interest were described according to the assigned numerical scale \\(Table 1).\n1) Measure growth of the mutants after 3 days incubation on V8 agar. Score growth by comparing relative growth rate with that of wild-type \\(Fig. 1a).\n2) After 6 days incubation, score mycelial color visually \\(Fig. 1b).\n3) Harvest conidia from 6-day old cultures of mutants by adding 1ml of Tween 20 solution \\(250ppm) into each well and rubbing with cotton swab. Pipette fourty-microliters of conidial suspension drops onto 12.5&#xD7;8.2cm green mirror glass, and place in a moistened plastic box to prevent the drops from drying.  Incubate at room temperature for 24 hr.\n4)  Observe conidiation, conidial morphology, conidial germination and appressorium formation under a microscope with x100 magnification \\(Fig. 1c, d, e, and f). Conidiation can be scored by comparing relative number of conidia from mutants with that of wild-type. Conidial germination rate can be measured as the percentage of germinated conidia. Ability to form appressorium can be measured as the percentage of appressorium-forming conidia among the germinated conidia.",
+    "5) After dropping conidial suspension onto the green mirror, use the rest of the conidial suspension for a pathogenicity test \\(Fig. 1g). Spray-innoculate approximately 1000-microliter of spore suspension on rice plants* using an artist&#x2019;s airbrush connected to compressed air. Keep the test tubes in a dew chamber to maintain the high humidity required for the fungus to penetrate the cuticle of plants. Following 20-24 hours of incubation in dew chamber, place plants at room temperature for 3 days and assess for pathogenicity. Score blast disease symptoms by visual examination of lesions produced.\n*Rice plants for pathogenicity assay can be prepared as follows. Surface-sterilize plant \\(Rice cv. Nagdongbyeo) seeds with clorox \\(Yuhanrox regularTM) for 20 min, rinse well with distilled water, plant in test tube containing Murashige and Skoog \\(MS) agar medium \\(4.4gL-1and 0.9% agar), and grow for 7-to 8 days until 2 or 3 leaf-stage is reached."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Biological Techniques",
+    "Genetics",
+    "Plant Sciences",
+    "Computational Biology And Bioinformatics",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Ecology & Environmental Biology",
+    "Molecular Biology & Genetics"
+  ]
+}

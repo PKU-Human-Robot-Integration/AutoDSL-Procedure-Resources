@@ -1,0 +1,17 @@
+{
+  "id": 5330,
+  "origin_website": "Bio",
+  "title": "FICZ Exposure and Viral Infection in Mice",
+  "procedures": [
+    "In vivo treatment with FICZFICZ is dissolved at 10 mg/ml in corn oil (see Recipes). Mice are intraperitoneally injected with 200 μl of corn oil (as a negative control) or 10 mg/ml FICZ solution (2 mg per mouse).In vivo infection with VSVAn aliquot of VSV stock is suspended in PBS to 1.5 x 109 PFU/ml.At 12 h after treatment with FICZ, mice were intraperitoneally infected with 200 μl of PBS (as an uninfected control) or this virus solution (3 x 108 PFU per mouse).Measurement of serum interferon-beta levels and viral titersAt 12 h after infection with VSV, collect blood samples from mouse tail veins by making a cut around 5 mm from the tip of the mouse tail using scalpel blade.Allow the whole blood to clot by leaving it undisturbed at room temperature for 30 min.Remove the clot by centrifuging at 1,000 x g for 10 min at 4 °C.For measurement of serum interferon-beta levels, use VeriKine-HSTM mouse IFN beta serum ELISA kit. ELISA is performed according to the manufacturer’s protocol.For measurement of serum viral titer, plaque-forming assay is performed. In this assay, 5 x 106 Vero cells on 6-well plate is infected with virus of serum samples for 1 h and overlaid with 2 ml of DMEM containing 2.4% methylcellulose and 5% heat inactivated FBS for 24 h. Plaques (i.e., focus of dead cells) can be more visible by staining live cells through the following method: Cells are fixed for 15 min with 1 ml of fixation solution (see Recipes), and then remove the above-mentioned, overlaid media with running water. Plaques are counterstained with 1 ml of crystal violet solution for 15 min, and washed with running water. A representative image of counterstained plaques is shown in Figure 1. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161229/20161229194338_4019.jpgFigure 1. An image of plaques.",
+    "This is the result of VSV infection in Vero cells. One representative well of the 6-well plate is shown. Live cells are stained with crystal violet, while dead cells following viral infection, so-called ‘plaques’, are not stained."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

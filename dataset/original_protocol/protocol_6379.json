@@ -1,0 +1,15 @@
+{
+  "id": 6735,
+  "origin_website": "Bio",
+  "title": "Approaching RNA-seq for Cell Line Identification",
+  "procedures": [
+    "RNA sequencing: CCLE cell lines were subjected to non-strand specific RNA sequencing performed at the Broad Institute (Tsherniak et al., 2017). RNA sequencing included poly-A selection, cDNA synthesis, library preparation (400 bp insert), sequencing (101 bp paired reads) and a sample identification quality control check (Tsherniak et al., 2017). Samples were prepared using an automated variant of the Illumina TruSeqTM RNA sample preparation protocol (https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-rna-v2.html[href=https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-rna-v2.html]). An amount of 200 ng of total RNA was used as starting material followed by mRNA selection from the total RNA using oligo dT beads, heat fragmentation, cDNA synthesis and Illumina library preparation (end repair, base “A” addition, adapter ligation and enrichment; please see https://www.illumina.com/documents/products/datasheets/datasheet_truseq_sample_prep_kits.pdf[href=https://www.illumina.com/documents/products/datasheets/datasheet_truseq_sample_prep_kits.pdf]). Sequencing was done using the Illumina HiSeq 2,000 or HiSeq 2,500 platform (Illumina Inc., San Diego, CA)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

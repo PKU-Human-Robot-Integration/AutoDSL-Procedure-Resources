@@ -1,0 +1,16 @@
+{
+  "id": 6881,
+  "origin_website": "Bio",
+  "title": "Identification of Buffer Conditions for Optimal Thermostability and Solubility of Herpesviral Protein UL37 Using the Thermofluor Assay",
+  "procedures": [
+    "Buffer and Protein PreparationMake 1 ml of the following buffers:100 mM Sodium Acetate pH 5.0100 mM Sodium Citrate pH 5.5100 mM MES pH 6.0100 mM Sodium Cacodylate pH 6.5100 mM Bis-Tris pH 6.5100 mM Imidazole pH 7.0100 mM PIPES pH 7.0100 mM Sodium Malonate pH 7.0100 mM MOPS pH 7.5100 mM HEPES pH 7.5100 mM Tris pH 8.0100 mM Bicine pH 9.0100 mM Glycine pH 9.0100 mM CHES pH 9.5100 mM CAPS pH 9.5200 mM HEPES pH 7.5200 mM HEPES pH 7.5, 50 mM NaCl200 mM HEPES pH 7.5, 150 mM NaCl200 mM HEPES pH 7.5, 300 mM NaCl200 mM HEPES pH 7.5, 500 mM NaCl200 mM HEPES pH 7.5, 150 mM NaCl, 5% glycerol200 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol200 mM HEPES pH 7.5, 500 mM NaCl, 5% glycerolNote: Buffers should be made 2x the concentration intended to be screened since addition of the protein solution in a 1:1 ratio will dilute the buffer by half. Any buffers (i.e., pH, salt, detergents, etc.) can be used. Here a screen of a pH range from 5.0-9.5 is used as well as targeted optimization of the buffer used for protein purification. Optimization includes increasing salt and glycerol concentrations, both of which are known to improve protein stability (Yamasaki et al., 1990 and Vagenende et al., 2009). Make a 300 µl solution of protein to a final concentration of 0.15 mg/ml in TBS.Add SYPRO orange dye to protein solution at a 1:1,000 dilution.Pipet 10 µl of screen buffers (from Step A1) per well of 96-well microplate.Add 10 µl protein-dye solution to each well containing buffer (1:1).Note: Final protein concentration is 0.075 mg/ml and final buffer concentrations are 0.5x what is listed in Step A1. Set-up control well with buffer and dye (no protein).Seal plate with transparent film.",
+    "Spin 96-well microplate at 500 x g for 1 min at room temperature.Create Thermofluor method on Roche LightCycler 480Set filters to 465 nm for excitation and 610 nm for emissionClick the New Method icon, select Melting Curves as the Analysis Mode in the Programs windowCreate a two-step method:Step 1: Set a target of 25 °C held for 10 s (without data acquisition)Step 2: Set a target of 95 °C with continuous acquisition at a rate of 3 fluorescent measurements per °CSave method as a templateInsert 96-well microplate containing protein-dye-buffer solutionNew Method Template > Thermofluor > Apply TemplateClick Start Run, enter name for data fileWhen run is finished, export data as a .txt file, save to drive"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

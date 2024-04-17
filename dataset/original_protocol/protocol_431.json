@@ -1,0 +1,17 @@
+{
+  "id": 459,
+  "origin_website": "Nature",
+  "title": "Preparation of aptamer-functionalized lipid nanoparticles \\(LNPs) encapsulating siRNAs",
+  "procedures": [
+    "**Synthesis of aptamer-PEG2000-DSPE.**\n1. Dissolve the lipids of DSPE-PEG2000-Mal in chloroform.\n  2. Dry into a thin film and hydrate with 20 mM HEPES buffer \\(pH 6.5). \n  3. Meanwhile, activate 3’ thiol-modified aptamer in 100 mM Tris-\\(2-carboxyethyl) phosphine \\(TCEP) solution at 4 °C for 30 min. \n  4. Then, add the freshly prepared aptamers to DSPE-PEG2000-Mal solution at a lipid/aptamer molar ratio of 5:1. \n  5. Perform the coupling reaction overnight at 4 °C with gentle stirring. \n  6. Evaluate the conjugation by polyacrylamide gel electrophoresis \\(PAGE). \n  7. Purify by ultracentrifugation \\(10,000 g, 15 °C, 15 min) in centrifugal filter tubes \\(MWCO 10,000). \n  \n**Preparation of LNPs.** \nThe LNPs were prepared by spontaneous vesicle formation.  \n1. Dissolve approximately 5 mg of lipids, including Dlin-KC2-DMA, DPPC, cholesterol and C16 Ceramide-PEG2000, in 350 µl of ethanol at a molar ratio of 48:10:38:4.\n  2. Slowly add the lipids to 650 µl of 0.62 mg ml–1 siRNA solution \\(50 mM citrate buffer at pH 4) under a strong vortex. \n  3. Perform dialysis in PBS \\(155 mM NaCl, 3 mM Na2HPO4 and 1 mM KH2PO4 at pH 7.4) through a regenerated cellulose tubular membrane \\(MWCO 10,000) for 5 h to remove the ethanol. Increase the external pH by exchanging the buffer at intervals. \n  \n**Post-insertion of aptamer into the surface of LNPs and purification.** \n1. Add 4 mol% aptamer-PEG2000-DSPE \\(relative to the total lipids) to the LNPs suspension and incubate in a water bath at 37 °C overnight. \n  2. After incubation, purify the aptamer-LNPs by size exclusion chromatography on a Sepharose CL-4B column using HBS \\(pH 7.4) as a running buffer to remove external siRNA, unconjugated micelles and chemical reagents."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Synthetic Chemistry",
+    "Nanoscience And Technology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5218,
+  "origin_website": "Bio",
+  "title": "Reconstruction of the Mouse Inflammasome System in HEK293T Cells",
+  "procedures": [
+    "Plate HEK293T cells in 24-well microplates at a density of 2 x 105 cells per well in 0.5 ml complete DMEM cell culture medium and incubate at 37 °C in a forced-air incubator overnight.Extract the pro-IL-1β-Flag, NLRP3, ASC, pro-caspase-1 and NEK7 plasmids from their respective bacterial cultures (35 ml) by using a QIAGEN Plasmid Plus Midi Kit according to the manufacturer’s instructions[href=https://www.qiagen.com/us/resources/resourcedetail?id=3da21fc3-a078-4665-aefe-06154db2b6d2&lang=en].Note: Click here[href=https://www.addgene.org/plasmid-protocols/inoculate-bacterial-culture/] for a detailed protocol on how to prepare a liquid culture of the Addgene plasmid. Briefly, add 35 ml of LB medium (with the appropriate antibiotic) to a tube or flask for each Addgene plasmid. Inoculate the LB medium using a sterile pipette tip and incubate 12-18 h at 37 °C in a shaking incubator. In 1.5 ml Eppendorf tubes, dilute 1.5 μl of Lipofectamine® 2000 in 100 μl Opti-MEM per well.In 1.5 ml Eppendorf tubes, dilute the pro-IL-1β-Flag (200 ng/well), ASC (20 ng/well), pro-caspase-1 (100 ng/well), NLRP3 (200 ng/well) and NEK7 (200 ng/well) plasmids in 100 μl Opti-MEM.Note: Avoid transfecting more than the amount indicated for the ASC plasmid. Excess ASC promotes self-aggregation and induces NLRP3-independent caspase-1 activation.Add the diluted DNA to the diluted Lipofectamine® 2000 (1:1 ratio), incubate for 5 min at room temperature, and then add the DNA-lipid complex to the HEK293T cells in 0.5 ml DMEM cell culture medium.24-36 h after transfection, replace the medium with 250 μl DMEM cell culture medium.Supernatants are collected 6-12 h after media change.Optional: To stimulate the NLRP3 inflammasome, 10 μg/ml nigericin can be directly added to the 250 μl DMEM media one hour before supernatant collection (step 7).ELISA (or Western blot) to assay the amount of mature IL-1β in the supernatants. Perform ELISA according to the manufacturer’s instructions. Note: When using Western blot to detect the mature IL-1β, the supernatants do not need to be concentrated.",
+    "Mature IL-1β in 15 μl of supernatant could be detected by SuperSignalTM West Pico chemiluminescent substrate (Thermo Fisher Scientific)."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

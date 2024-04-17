@@ -1,0 +1,15 @@
+{
+  "id": 5962,
+  "origin_website": "Bio",
+  "title": "Differential in vivo Thiol Trapping with N-ethylmaleimide (NEM) and 4-acetamido-4'-maleimidylstilbene-2,2'-disulfonic acid (AMS)",
+  "procedures": [
+    "Cultivate bacterial strains in LB media at 37 °C, shack 250 rpm, until OD600 of 0.4-0.5 was reached.   Collect 1 ml cells as untreated control, 2 tubes of 1 ml cells as labeling controls (see step 13 for detail) and then add 3 mM HOCl (final concentration) to rest of culture directly and continue incubation at 37 °C, shack 250 rpm.   After the 20 min of HOCl stress treatment, collect 1 ml of treated cells.   Acidify collected samples and precipitate proteins with TCA to a final concentration of 10%. This step also prevents any further thiol oxidation.   Incubate samples 30 min on ice, pellet precipitated proteins by centrifugation [13,000 rpm (15.7 x g), 20 min, 4 °C].   Rinse protein pellet (not resuspend) with 100 μl 5% TCA, remove TCA with centrifugation [13,000 rpm (15.7 x g), 2 min, 4 °C]. Carefully remove all TCA, residual acid will interfere subsequent labeling.   Resuspend the protein pellet in 50 μl DAB buffer supplemented with 100 mM NEM to irreversibly alkylate all in vivo reduced cysteines.   Incubate samples for 30 min at 25 °C, with 1,300 rpm shaking.   Precipitate the proteins again with TCA to remove any unbound NEM, and pellet by centrifugation.   Resuspend protein pellets in 50 μl DAB buffer supplemented with 10 mM DTT to reduce all in vivo oxidized cysteines, and incubate for 1 h at 25 °C, with 1,300 rpm shaking.   Remove excess DTT by TCA precipitation and centrifugation.   For differential thiol trapping with AMS, modify all newly accessible cysteines (previously oxidized) with 10 mM of the thiol-specific alkylation reagent AMS, which adds 500 Da mass to every modified cysteine.   As controls, we also prepared fully NEM-labeled proteins (represent the fully reduced species) and fully AMS-labeled proteins (represent the fully oxidized protein species).",
+    "Take untreated cell aliquots, precipitate with TCA and resuspend in 50 μl DAB buffer supplemented with 10 mM DTT to reduce all in vivo thiol modifications.   After incubation of the samples for 1 h at 25 °C, precipitate proteins with TCA to remove DTT, centrifuge and resuspend in 50 μl DAB buffer supplemented with either 100 mM NEM or 10 mM AMS.     Separate proteins on SDS-PAGE and visualize your protein by western blot analysis mass addition significantly slows the migration of AMS-labeled proteins and allows direct visualization of the in vivo redox status of proteins."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

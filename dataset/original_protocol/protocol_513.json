@@ -1,0 +1,14 @@
+{
+  "id": 548,
+  "origin_website": "Nature",
+  "title": "An improved DAPI staining procedure for visualization of polyphosphate granules in cyanobacterial and microlagal cells",
+  "procedures": [
+    "1. Take 1 ml of microalgal and cyanobacterial culture grown for 25 days at 28°C in BG-11 \\(non-N<sub>2</sub> fixer medium) and BG-0 \\(N<sub>2</sub> fixer medium).\n  2. Centrifuge the samples at 2350 g for 5 minutes. Discard the supernatant.\n  3. Wash the cell pellet with 200 µl Mcllvaine’s buffer.\n  4. Fix the pellet with 200 µl of 4% formaldehyde \\(prepared in Mcllvaine’s buffer) and incubate for 30 minutes.\n  5. Wash again with the buffer.\n  6. Make the cells permeable by treating them with 200 µl of 0.3% \\(v/v) Triton-X-100 solution \\(prepared in Mcllvaine’s buffer) for 5 minutes. Repeat washing with the buffer.\n  7. Mix the cells on the slide with 200 µl of DAPI solution and incubate for 30 minutes in the dark.\n  CRITICAL STEP: All the further steps including the present one should be strictly carried out in the dark.  \n8. Re-wash it gently with the buffer.\n  CRITICAL STEP: Proper and gentle washing should be done to minimize the background noise due to the fluorescence of extra DAPI stain present on the slide during microscopy.\n9. Dry the slides at room temperature in the dark.\n  10. Observe the slides under confocal microscope by setting the excitation filter at 370 nm and emission filter at 526 nm."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

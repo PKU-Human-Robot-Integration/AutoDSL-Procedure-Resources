@@ -1,0 +1,16 @@
+{
+  "id": 4727,
+  "origin_website": "Bio",
+  "title": "Metabolic Assays for Detection of Neutral Fat Stores",
+  "procedures": [
+    "Plate 10,000-20,000 cells per well in 100 μl DMEM high glucose with L-glutamine, 10% FBS, in the 96-well plate. Doing a serial dilution can be helpful to determine the effect of cell number on BODIPY intensity.Incubate the cells at 37 °C overnight.Dilute the sodium palmitate stock solution in pre warmed DMEM high glucose with L-glutamine, 10% FBS. A range of 50-500 μM is useful to demonstrate BODIPY-based lipid content relative quantification. Prepare appropriate vehicle controls.Carefully aspirate medium from the 96-well plate and replace with treatment medium (use 100 μl per well).Incubate the cells at 37 °C overnight.Prepare a 5% formaldehyde solution in PBS. Add 100 μl per well directly into the tissue culture medium to achieve a final formaldehyde concentration of 2.5%.Incubate for 15 min at room temperature.Prepare the staining solution; dilute the BODIPY and Hoechst stock solutions in PBS to a working concentration of 10 μg/ml BODIPY and 1 μg/ml Hoechst. Calculate 100 μl per well. Both dyes can be added in parallel, there is no need for sequential staining.Carefully remove the formaldehyde from the cells and wash twice with 100 μl of PBS per well.Add 100 μl staining solution per well.Incubate for 30 min at room temperature, in the dark.Wash twice with 100 μl of PBS per well.Remove PBS, add 130 μl of PBS per well (only required for IN Cell Analyzer).BODIPY and nuclei Hoechst fluorescence are imaged and quantified using fluorescence microscopy with appropriate filter sets. Our laboratory makes extensive use of the INCell Analyzer 2200 and INCell Investigator software for these measurements. Fluorescence intensity per cell is proportional to the neutral lipid content in the cell."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

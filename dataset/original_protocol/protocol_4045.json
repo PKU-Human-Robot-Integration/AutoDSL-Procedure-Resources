@@ -1,0 +1,16 @@
+{
+  "id": 4249,
+  "origin_website": "Bio",
+  "title": "Influenza Virus-cell Fusion Inhibition Assay",
+  "procedures": [
+    "(Day 1) CV-1 cells in 100 μl MEM including 10% FBS are passaged to 96-well plate at 2.5 x 105/ml and incubated in the CO2 incubator for 24 h.   (Day 2) The cells are rinsed with 100 μl PBS once, adsorbed with 50 μl viruses in MEM at an MOI of 0.3 for 1 h in the CO2 incubator.    The cells are rinsed with 100 μl PBS once, added 100 μl DMEMF12 including 0.2% BSA and incubated for 24 h in the CO2 incubator.   (Day 3) The cells are rinsed with 100 μl MEM twice.   The cells in 100 μl MEM including 2.5 μg/ml acetyrated trypsin are incubated in the CO2 incubator for 15 min.   They are rinsed with 100 μl MEM twice.   50 μl MEM containing different concentration of monoclonal antibody (concentration is 100, 25, 6.25, 1.5, 0.4 and 0.1 μg/ml) is incubated with the cells in different wells for 30 min in the CO2 incubator.    After aspiration of medium, 100 μl fusion medium with each of pH is added and then incubated for 2 min in the CO2 incubator.   The cells are rinsed with 100 μl MEM twice.   The cells are suspended with 100 μl DMEMF12 including 0.2% BSA and incubated in the CO2 incubator for 3 h.   After aspiration of medium, the cells are fixed using 100 μl absolute methanol for 30 sec.   After aspiration of methanol, the cells are stained with 100 μl diluted Giemsa staining solution (1 drop per ml dH2O) for 30 min at room temperature.   After rinsing the cells on tap water, the cells are observed by microscope (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131215/20131215024011_8670.jpg Figure 1. Giemsa staining of CV-1 cells in fusion inhibition assay. Arrow heads show multinuclear giant cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 316,
+  "origin_website": "Nature",
+  "title": "A protocol for isolation of target proteins of natural compounds",
+  "procedures": [
+    "**1) Preparation of 1-immobilized beads**\nA) Incubate Magnetic FG beads \\(NH<sub>2</sub> beads; TASB848 Nii30; 5 mg) with 10 mM 1-hydroxybenzotriazole, 10 mM 1-ethyl-3-\\(3-demithyl-aminopropyl)-carbodiimide HCl, and various concentrations \\(0.4, 2, and 10 mM) of **1** in 1.5 ml of N,N-dimethylformamide for 4 h at room temperature.\nB) Mask unreacted residues using 20% carbonic anhydride in N, N-dimethylformamide\nC) Store beads at 4 °C.\n**2) Cell fractionation**\nUse ProteoExtract subcellular proteome extraction kit \\(S-PEK) extracting PC-3 cell fractions\n**3) Purification and identification of **1**-binding protein**\nA) Equilibrate Compound 1-immobilized beads \\(the final concentrations of 1 were 0.4, 2, and 10 mM) and FG beads \\(without 1) with 0.5% NP-40 lysis buffer.\nB) Incubate cell protein fractions with beads for 4 h at 4 °C.\nC) Wash Beads five times with 100 mM KCl \\(200 µl).\nD) Wash beads with 1M KCl \\(30 µl). Use this fraction for SDS-PAGE on a 10% gel.\nE) Performe silver staining of the gel\nF) Cut and treat the cutting gel with trypsin.\nG) Analyze recovered peptides with electrospray ion trap mass spectrometer coupled on-line with nano-scale HPLC on a C18 column to acquire MS/MS spectra.\nH) Use peptide mass fingerprinting for protein identification from tryptic fragment sizes using the Mascot search engine \\(http://www.matrixscience.com) querying to the entire NCBI database of theoretical human peptide masses.\n**4) QCM system**\nA) Dissolve all compounds in 50% EtOH\nB) Use paclitaxel and vinblastine sulfate salt as stabilizing and destabilizing controls\nC) Fix tubulin on one electrode \\(ch1) and the other one was absolutely blocked with BSA \\(ch2) for reference\nD) Use NAPiCOS QCM system to investigate the affinity of compound with tubulin\nE) Stabilize baseline with PBS/50% EtOH, flow rate was set to 20 l/min.",
+    "F) Inject one hundred microliters of each compound into the system to react with fixed tubulin to obtain differential frequency shift between ch1 and ch2\nG) Calculate _Kd_ values by standard scatchard analysis with frequency changes from several concentrations of compound\n**5) Tubulin polymerization assay**\nA) Use Tubulin Polymerization Assay Kit to test tubulin polymerization on each compound\nB) Paclitaxel \\(Wako Co., Japan) and vinblastine were used as positive and negative controls, respectively.\nC) Measure fluorescence using FlexStation3 \\(Molecular Devices, USA)"
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Chemical Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

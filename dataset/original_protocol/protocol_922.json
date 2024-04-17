@@ -1,0 +1,18 @@
+{
+  "id": 981,
+  "origin_website": "Nature",
+  "title": "Novel FACS strategy for identification of early hematopoietic progenitors including BFU-e, CFU-e and erythroid-biased MPPs",
+  "procedures": [
+    "**1. Preparation of cell suspensions from mouse bone marrow**:\n• Obtain femora and tibiae from 10 mice and remove the muscles\n• Cut the tip of the bones and flush the shaft with 2 to 3 ml of staining buffer or medium using a 2 ml syringe with a 26-gauge needle.\n• Crush the bones after flushing, using mortar & pestle to obtain any remaining cells \n• Pass cells through 70 μm cell strainer to remove cell clumps. Moisten filter with buffer or medium before use.\n• Pellet cells by centrifugation at 1400 rpm for 5 min.\n• Resuspend the cells in staining buffer and count. \\(approximately 2 x 10<sup>9</sup> cells are obtained from 10 wild type mice.)\n**2. EasySep mouse Streptavidin RapidSpheres negative selection for Lin+ cells:**\n• Mouse Streptavidin RapidSpheres Isolation Kit \\(Cat No. 19860A) and “The Big Easy” magnet \\(Cat No. 18001) from STEMCELL technologies are used for this selection.\n• For Negative selection for Easy Sep sort, cells are resuspended at 2 x 10<sup>8</sup> cells/ ml in Easy Sep buffer. \n• For tibia/femur of 10 mice, cells are resuspended in total volume of 10ml EasySep buffer, containing Rat Serum \\(1% final concentration) to block the Fc receptors, and a cocktail of lineage-specific antibodies, each at a final concentration of 0.005 mg/ml: of biotin lanti-TER119, anti-CD11b \\(Clone M1/70), anti-Ly-6G and Ly-6C \\(Clone RB6-8C5), anti-CD4 \\(Clone RM4-5), anti-CD8a \\(Ly-2) \\(Clone 53-6.7), anti-CD19 \\(Clone 1D3). Mix and incubate for 30 min on ice. \n• Vortex RapidSpheres and add to sample at 100μl/ml \\(1ml /10ml). Mix well and incubate on ice for 15 min.\n• Divide 10 ml total volume of sample into two 5 ml samples \\(Use 15 ml conical Falcon tubes).",
+    "• Bring each sample to a 10 ml total volume with Easysep buffer, and place the tube in The Big Easy magnet for 10 minutes. Pour the supernatant into a new empty 15 ml Falcon tube. Repeat the magnet wash for higher purity.\n• Pellet lineage- depleted cells by centrifugation at 1400 rpm for 5 min.\n**3. Staining for populations P1 to P5:**\n• Wash the lineage-depleted cells with cold staining buffer and pellet by centrifugation at 1400 rpm for 5 min.\n• Stain for 1 hour on ice in 1ml of staining buffer containing 1%  Rat Serum and the following antibodies:\n• 0.01 mg/mL Streptavidin Alexa Fluor 488 \n• 0.001 mg/mL CD117- APC Cy7 \n• 0.002 mg/mL TER119-BUV395 \n• 0.0001 mg/mL CD71- PE Cy7 \n• 0.01 mg/mL CD55-AF647 \n• 0.004 mg/mL CD105-PE \n• 0.004 mg/mL CD150-BV650 \n• 0.002 mg/mL CD41-BV605 \n0.0005 mg/mL CD49f – BV421\n• Wash cells with cold staining buffer and resuspend in 1ml staining buffer containing DAPI and 5 mM EDTA.\n• Use cells for FACS analysis or for Cell sorting"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8217,
+  "origin_website": "Bio",
+  "title": "Fluorescence Measurement of Postharvest Physiological Deterioration (PPD) in Cassava Storage Roots",
+  "procedures": [
+    "Cut fresh cassava storage roots into smaller segments about 5 x 5 x 0.5 mm in length, width and height by razor blade. The areas (Figure 1):The center: vascular tissue found within the center of the root cross-section.The middle: the tissue filled with storage cells with streaks of xylem throughout.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130915/20130915182911_2169.jpgFigure 1. Cassava storage root cross-section (Rickard, 1985). 1: periderm; 2: sclerenchyma; 3: parenchyma; 4: latex tubes; 5: cambium; 6: parenchyma (The middle); 7: xylem vessels (The middle); 8:  xylem bundles (The center).Immersed in the sodium phosphate buffer with Dihydrorhodamine123 or MitoTracker Deep Red FM, stain for 10 and 20 min, respectively in the dark at room temperature.Afterwards, wash with sodium phosphate buffer once before viewing under the microscope. Use sodium phosphate buffer to mount the sample on slides.Use a Zeiss LSM (Laser Scanning Microscope) 510 META Confocal with the capturing program LSM 510 equipped with a10x and 20x objective.Allow the microscope and lasers to warm up for about 20 minutes before use.The settings used for each stain are as follows:Dihydrorhodamine123 excitation/emission 488/515 nm.MitoTracker Deep Red FM excitation/emission 635/680 nm.First use the visible spectrum to find the sample, after that change to fluorescence spectrum (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130915/20130915182941_3874.jpgFigure 2. Fluorescence determination of PPD in cassava storage roots. a, xylem vessel; b, bundle sheath; Scale bar = 20 μm."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

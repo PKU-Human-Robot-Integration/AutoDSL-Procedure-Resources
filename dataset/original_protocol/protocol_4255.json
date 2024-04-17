@@ -1,0 +1,16 @@
+{
+  "id": 4467,
+  "origin_website": "Bio",
+  "title": "Intracellular Cytokine (INF-gamma) Staining Assay",
+  "procedures": [
+    "Stimulation of cellsFor stimulating IFN-gamma release from T cells, add PMA (5 ng/ml) and ionomycin (500 ng/ml) to the cell culture and incubate for 6 h at 37 °C.Add 4 µl of BD GolgiStopTM for every 6 ml of cell culture and mix thoroughly (it is recommended that BD GolgiStop not be kept in cell culture for longer than 12 h).Harvest cellsCollect the cells and centrifuge at 1,500 rpm for 3 min.Wash twice with PBS.Dilute single-cell suspensions to 1 x 107 cells/ml in PBS with 2% FBS.Add 100 µl cells (1 x 106) per well in 96 well plates.Spin plate at 800 x g, 3 min, at 4 °C.Wash 3 times with cold PBS, spinning as in step 7.Stain cell surface antigensResuspend the cells in 100 µl Fc block (recommended dilution: 1:1,000 in PBS/2% FBS). Incubate on ice, 10 min. Spin.Resuspend in 100 µl surface antibody mixture (recommend dilution: 1:100 in PBS/2% FBS). Incubate at room temperature, 20 min in the dark. Spin.Wash once with cold PBS.Stain intracellular antigensResuspend in 200 µl of BD Cytofix/CytoPerm solution. Incubate at room temperature, 30 min in the dark. Spin 1500 x g, 3 min, 4 °C.Wash twice with 200 µl BD Perm/wash buffer. Spin as in step 12.Resuspend in 100 µl cytokine stain (recommended dilution: 1:100 in 1x Perm/Wash). Incubate on ice, 30 min in the dark. Spin as in step 12.Wash twice with BD Perm/Wash, spinning as in step 12.Resuspend cells in 300-400 µl FACS buffer and transfer to Falcon round-bottom tubes for acquisition on a flow cytometer."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

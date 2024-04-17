@@ -1,0 +1,15 @@
+{
+  "id": 505,
+  "origin_website": "Nature",
+  "title": "Mitpred2: an improved method for predicting mitochondrial proteins using SVM and HMM",
+  "procedures": [
+    "How to predict \n1. Go to \"http://www.imtech.res.in/raghava/mitpred/\":http://www.imtech.res.in/raghava/mitpred/\n  2. Click on \"Submission Form\" button in left menu\n  3. Paste the one or more than one sequences in box in FASTA format\n  4. Select the model\n  5. Enter your email address if you are using HMM model"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

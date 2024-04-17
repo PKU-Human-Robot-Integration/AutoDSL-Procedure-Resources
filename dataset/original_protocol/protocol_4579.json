@@ -1,0 +1,14 @@
+{
+  "id": 4830,
+  "origin_website": "Bio",
+  "title": "Total RNA Extraction from Formalin-Fixed, Paraffin-Embedded (FFPE) Blocks",
+  "procedures": [
+    "Cut 20 μm sections from the interior of the paraffin block using a microtome, to minimize the nucleic acid damaged by exposure to the atmosphere during storage (for recovery of miRNA ≥20 μm slices are recommended, otherwise the miRNA will be lost during deparaffin washes).   Place tissue slices into 1.5 ml siliconized tubes, and add 1 ml 100% xylene to the sample.    Incubate at 50 °C for 3 min to melt the paraffin. Centrifuge the sample for 1 min at maximum speed to pellet the tissue, then discard the xylene without disturbing the pellet. Repeat the xylene wash once.   Wash the pellet twice with 1 ml 100% ethanol and air dry.   Add 150 μl 1x protease K digestion buffer containing 500 μg/ml protease K to each sample, incubate at 55 °C for 3 h.   Add 1 ml Trizol to each sample, incubate at 15 to 30 °C for at least 5 min to dissociate nucleoprotein complexes. Add 0.2 ml of chloroform, vortex the tubes vigorously for 15 sec and incubate at 15 °C to 30 °C for 2 to 3 min. Centrifuge the samples at no more than 12,000 x g for 15 min at 4 °C.   Transfer the aqueous phase to a fresh tube, add 10 μg glycogen and mix. Precipitate the total RNA by mixing with 0.6 ml isopropyl alcohol, and put the tube at -20 °C for at least 1 h. Centrifuge at 12,000 x g for 10 min at 2-8 °C.   Wash the RNA pellet with 100% ethanol, briefly air-dry. Dissolve in RNase-free water or TE."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

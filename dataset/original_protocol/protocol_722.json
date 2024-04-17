@@ -1,0 +1,21 @@
+{
+  "id": 765,
+  "origin_website": "Nature",
+  "title": "Protocol for DNA extraction from any plant species \\(alkaline PVPP method)",
+  "procedures": [
+    "Reagent setup\nWeigh out approximately 50 mg of fresh leaf and put in 2-mL sampling tube together with two metal balls, and freeze in deep freezer \\(-80°C) for at least 1 h, if extracting with MicroSmash. Weigh out up to 1 g of fresh leaf and cut to small particles with scissors, if extracting with mortar and pestle.\nAdd 1% 2-mercaptoethanol to PVPP buffer, and mix by vortex.\nPre-cool MicroSmash\nPre-heat heat block to 60°C.\nProcedure\n1. Cool mortar and pestle with liquid nitrogen. Freeze leaf particles at the same time. Grind thoroughly and completely, until leaves become fine powders. Add fine sand together, when grinding hard leaves such as rice and camellia. When grinding with MicroSmash, shake sampling tubes at 2500 rpm for 30 s, then centrifuge briefly. Add PVPP buffer 5-10 times the amount of leaf sample \\(e.g. 5-10 mL to 1 g of leaf). Grind again with mortar and pestle and recover everything in 15-mL or 50-mL plastic tubes. When using MicroSmash, add 500 μL of PVPP buffer, and shake again at 3000 rpm for 30 sec.",
+    "2. Heat in heat block for 30 min. During heating, mix the tubes two or three times. Centrifuge for 10 min at 4°C and recover supernatant to new tubes. Add quarter to half volume of PCI solution, vortex, centrifuge at maximum speed for 2-5 min, and recover water phase to new tubes. Repeat this step \\(PCI treatment) again. Dilute solutions with the same volume of autoclaved water. Add the same volume, to the diluted solution, of isopropanol. Cool in deep freezer at least for 10 min \\(or in freezer at least for 1 h). Centrifuge for 45-60 min and recover pellet. All supernatant has to be removed. Dry with hair drier. This white pellet is the mixture of DNA, RNA and other impurities.\n  \n3. Dissolve pellet in water. Volume of water is the same as the amount of original leaf sample \\(e.g. 1 mL for 1 g of leaf sample). Add 1 μL of RNase-A stock solution. Mix and put at room temperature \\(or 37°C) for 5 min to degrade RNA. Add twice the volume of ethanol, mix, and put in deep freezer at least for 10 min. Centrifuge for 45-60 min and recover pellet. Dry with hair drier and dissolve in water. This is \\(roughly purified) DNA solution.\n  \n4. DNA amount and purity is estimated in this step. Estimate DNA concentration with NanoDrop. DNA concentration is estimated as 50 times the value of absorbance at 260 nm \\(ng/μL). The actual DNA amount cannot be estimated by UV absorbance. Actual DNA amount can only be estimated by agarose gel electrophoresis. Compare band intensities of extracted DNA with a series of different amounts of control λ-DNA. Purity of DNA, roughly purified by isopropanol as above, will be 50% or lower.",
+    "5. Optionally, DNA is highly purified with ultracentrifuge. Dissolve DNA in 3-mL TE buffer. Add and dissolve 3-g CsCl. Add ethidium bromide \\(120 μL; 10 mg/mL) or GelRed \\(10000x stock; 20 μL). Put 3.8-mL solution to each 5-mL tube. Ultracentrifuge at 50000 rpm for 24-48 h. Recover DNA band, and rinse with n-butanol for several times to remove ethidium bromide. Precipitate DNA with ethanol. Figure 1 shows extracted and purified DNA from ornamental plants."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Plant Sciences",
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Ecology & Environmental Biology",
+    "Molecular Biology & Genetics"
+  ]
+}

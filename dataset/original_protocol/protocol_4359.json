@@ -1,0 +1,16 @@
+{
+  "id": 4578,
+  "origin_website": "Bio",
+  "title": "Hepatitis C virus Cell-to-cell Spread Assay",
+  "procedures": [
+    "Preparation of non-growing Huh7 cell cultures.   Seed ~2 x 106 Huh7 cells in a BioCoat T75 cm2 flask in 15 ml of 10% FBS cDMEM.    Incubate the flask at 37 °C in 5% CO2 cell culture incubator overnight or until the cells reach 95%-99% confluence.   Replace the medium with 20 ml of 10% FBS cDMEM containing 1% DMSO and continue to incubate cells at 37 °C in 5% CO2 cell culture incubator changing the 1% DMSO, 10% FBS cDMEM every other day.     RNAiMAX siRNA transfection.    On day 14-20 post DMSO treatment, trypsinize flask with 5 ml trypsin for 10 min at 37 °C. Neutralize with 7 ml serum containing DMEM without antibiotics.    Transfer cells to a 50 ml centrifuge tube and spin at 1,000 x g for 5 min in a table top centrifuge.    Rinse the cells twice in 35 ml OptiMEM, collecting the cell pellet by centrifugation in between. Resuspend cells to 7.8 x 105 cells/ml in OptiMEM.   Preparation of transfection mixes (as master mixes or individual transfections in Eppendorf tubes or plate format, as appropriate).  For each well of a 96-well plate to be transfected:    Mix 0.84 µl 10 µM siRNA stock with 30 µl OptiMEM.    Add 1.2 µl RNAiMax to the siRNA-OptiMEM and gently mix.    Incubate at RT for 20 min.    During incubation transfer 30 µl of the transfection mix into appropriate well of a waiting 96 well transfection plate.     After the 20 min incubation period, add the 90 µl of the cell suspension to each well containing the transfection mix and pipette gently once to mix. (The goal is to reestablish the non-growing cell monolayer of ~65,000 cells.",
+    "Based on the above, each well should receive ~70,000 cells in a final volume of 120 µl with final siRNA concentration of 70 nM allowing for some cell loss.)   Incubate at 37 °C in 5% CO2 cell culture incubator overnight.    Proceed with infection as described in the Main protocol step B2. (If the silenced gene may be required for cell-free extracellular virus entry, it is recommended to infect the cultures 20-24 h post-transfection before the targeted gene is efficiently silenced.)"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

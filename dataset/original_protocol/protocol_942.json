@@ -1,0 +1,18 @@
+{
+  "id": 1005,
+  "origin_website": "Nature",
+  "title": "BCP-MG: A Web Server for Predicting Bacterial Community of Metagenome",
+  "procedures": [
+    "1.Choose the data type you used for representing the metagenomic sample data.\nThe data type includes enzyme and reaction. You can use the enzyme information extracted from the sample to predict the bacterial community; reaction information reconstructed from the sample can be used also. \n2.upload the data file\nThe data file must be a text file. \\! CAUTION Uploaded file must be a plain text file \\(generally using ASCII or Unicode schemes) while other rich text formats like those produced by most text editing tools e.g. Microsoft Word , cannot be processed by BCP-MG server. It may take a little time to upload this file depends on the size of the file you want to upload and the bandwidth limit. \n3.Choose the metabolic database to use\nThere are two metabolic databases that you can use, BioCyc and KEGG. Individual databases or the union can be applied. Please note that there are many differences between these two databases. One is that the organisms’ number and kinds are not identical in the two databases. The other is that even the same organism in the two databases will have different metabolic network for they have used diverse pathway reconstruction algorithms and curative methods.\n4.Choose the organisms selecting strategy\nThere are two organisms selecting strategies in use: all-organisms and base-set-organisms. If all-organisms is chosen, the predict algorithm considers all organisms without predilection which may introduce some organisms with same strain. Reversely, the base-set-organisms strategy eliminates these organisms with same strain and reserves one typical organism.\n5.Check for any messages.",
+    "If your data were uploaded successfully to the BCP-MG server, you can see the message “upload successfully”, and then a preprocess script will be employed to check whether your data is complied with the request. Depending on the success or failure of enzymes or reactions information submission different messages will be displayed. If you have not given required information, an error message, “Incorrect file content. Please make sure the content of the file uploaded are enzymes or reactions\\!” will be displayed, you need to recheck and fill the required information for successful submission. \n6.Obtain the results.\nOnce your submission is successful, the data will be processed by the server and the results can be accessed by pressing the “Show Results” button which is available on the neck of the process finished. Time required for processing of your data highly depends on the size of your query and on the parameters you have chosen \\(please see the section on Time Taken to obtain an indication).\n7.Interpret the results.\nThe results are displayed using a table, see Figure 3. The table displays the size of the predicted bacterial community and the microorganisms with details \\(Domain, Phylum, Class, Order, Genus and Population according to the KEGG)"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

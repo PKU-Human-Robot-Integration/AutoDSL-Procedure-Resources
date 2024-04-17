@@ -1,0 +1,16 @@
+{
+  "id": 4445,
+  "origin_website": "Bio",
+  "title": "Assay for GTP Cyclohydrolase II Activity in Bacterial Extracts",
+  "procedures": [
+    "Cell extract preparation   Grow S. meliloti on YMB plate for 48 h at 30 °C. The optimal temperature for S. meliloti growth is between 28 °C and 30 °C.    Inoculate S. meliloti from the stock YMB plate to an OD600 of ~0.1 in 3 ml MMNH4 medium.    Grow cells for 48 h at 30 °C, 250 rpm in 14 ml Falcon or glass tubes.   Dilute the cells 20-fold into 10 ml fresh MMNH4 medium and grow overnight at 30 °C, 250 rpm in 50 ml glass tubes or flasks.     Harvest cells from 10 ml culture by centrifugation at 3,600 x g for 15-20 min at 4 °C in 14 ml Falcon tubes.     Discard the supernatant and wash the cells with 5 ml 50 mM Tris buffer at 4 °C.   Resuspend the pellet in 1 ml of lysis buffer at 4 °C.    Incubate at room temperature for 15 min, without shaking.   Centrifuge the lysate at maximum speed for 15 min at 4 °C.   Measure protein concentration in the cell lysates using Bio-Rad Protein Assay Kit.      Enzymatic assay  This assay protocol was adapted from a method for assaying GTP cyclohydrolase II activity in the purified enzyme (Bacher et al., 1997) and modified for using with bacterial extracts.   Desalt the cell lysate using 2 ml Zeba Spin Desalting Columns following the manufacturer’s instructions. The column was equilibrated with 3 ml desalting buffer.    Add 25 µl of the desalted whole cell lysate form the previous step in a total volume of 50 µl reaction mixture containing 10 µl 5 x RibA assay buffer, 5 µl 10 mM GTP (prepare GTP in ultrapure water).    Incubate the assay at 37 °C for 30 min.   Terminate the assay by adding 2.5 µl EDTA (0.5 M, pH 8.0).",
+    "Derivatize the product by adding 50 µl of the derivatization reagent, followed by incubation at 70 °C for 20 min.   Clear the samples by centrifugation at 3,000 x g for 10 min at 4 °C.   Filter the supernatant using a 0.22 µm syringe filter.    Analyze the derivatization products using HPLC with fluorescence detection.      HPLC purification and signal detection   Separate the fluorescent products on a XTerra MS C18 column (4.6 x 100 mm, 5 µm) using a Waters Alliance 2695 HPLC system linked to a 2475 fluorescence detector. Excitation and emission wavelengths are 330 nm and 435 nm, respectively.       Data analysis   Quantify the products by comparison to standards. A standard curve was obtained by running sequential dilution of 6,7-dimethylpterin (0.25 nM, 2.5 nM, 25 nM, 0.25 µm, 2.5 µM and 25 µM) on HPLC.    Normalize the enzyme activity against protein concentration and assay incubation time in nmol/min/mg protein.    Perform three replicates on each assay. Data is the average ± S.E. of three replicates. Note: The activities of GTP cyclohydrolase II vary in different organisms. The activity of purified recombinant enzymes have been reported from about 0.1- 182 nmol/min/mg protein, the activity in bacterial extracts can be lower (Herz et al., 2000; Kaiser et al., 2002; Yurgel et al., 2014)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

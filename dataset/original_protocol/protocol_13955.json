@@ -1,0 +1,15 @@
+{
+  "id": 17781,
+  "origin_website": "Jove",
+  "title": "Intrathecal Application of a Fluorescent Dye for the Identification of Cerebrospinal Fluid Leaks in Cochlear Malformation",
+  "procedures": [
+    "This protocol was approved by the local ethics committee in accordance with the Helsinki Declaration (Reg. No. A2019-0214). Informed consent was obtained from all participants. In the presented case involving a child, written informed consent was obtained from both parents.\nNOTE: Fluorescein is a fluorescent dye that emits green light (520-530 nm) when stimulated with blue light (of wavelength ~485 nm). It is used for visualization of the tear film in ophthalmology. Its intrathecal use is off-label and based on an individual therapeutic agreement. Fluorescein-Natrium at a 10% concentration is available and regularly used in fluorescein angiography of the ocular fundus in ophthalmology.\n1. Preparation for surgery\nObtain audiological testing, high resolution computed tomography (HRCT), and magnetic resonance imaging (MRI) of the skull base.\nObtain written, informed consent from the patient regarding off-label use of fluorescein.\nPerform a lumbar puncture and place a lumbar drain for later application of the dye.\nUse fluorescein sodium (10% concentration). For lumbar application, dilute the fluorescein to 5% concentration with water.\nApply 0.1 mL of the dilution per 10 kg of body weight, with a maximum of 1 mL, intrathecally.\nPerform the application immediately before surgery to achieve intraoperative visualization.\n\tNOTE: When applying the method to children, the application should be performed under general anesthesia.\nPerform general anesthesia according to the patient's individual clinical history and risk factors and according to the decision of the anesthesiologist.\nCover the microscope with a blue light filter to visualize the fluorescein, or use a fully digital microscope.\nUse sterile draping to cover the patient.\n2. Surgery\nFor the transmastoid approach, perform a mastoidectomy and posterior tympanotomy.\nExpand the surgery according to the expected origin of the leak.\nAs a first landmark, expose the dura to the middle cranial fossa.",
+    "Thin the posterior canal wall of the outer ear canal.\nExpose the short incus process in the antrum and identify the lateral semicircular canal.\nExpose the chorda facial angle at which the chorda tympani leaves the facial nerve.\nOpen the facial recess. Leave the facial nerve with a bony coverage.\nAccess the middle ear through a posterior tympanotomy. The origin of the fluid leak can easily be identified in the stapes footplate (Figure 2).\nUse fascia from the temporal muscle and absorbable collagen fibrin sealant patches to seal the CSF leak until no more fluid leaves the footplate. The stapes suprastructure stabilizes the sealant.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

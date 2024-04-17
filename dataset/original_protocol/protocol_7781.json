@@ -1,0 +1,16 @@
+{
+  "id": 8187,
+  "origin_website": "Bio",
+  "title": "Measurement of Net NO<sub>3</sub><sup>-</sup> Flux in Rice Plants with the SIET System",
+  "procedures": [
+    "Rice seeds were surface sterilized with 10% (v/v) hydrogen peroxide for 30 min and then rinsed thoroughly with deionized water.The sterilized seeds were germinated on plastic supporting netting (mesh of 1 mm2) mounted in plastic containers for 1 week in a growth room with a 16-h-light (30 °C)/8-h-dark (22 °C) photoperiod, and the relative humidity was controlled at approximately 70%. Uniform seedlings were selected and then transferred to IRRI nutrient solution. Rice seedlings were grown in IRRI nutrient solution for 2 weeks and then deprived of N (IRRI nutrient solution without NH4NO3) for 3 d. All the plants were grown in a growth room with a 16-h-light (30 °C)/8-h-dark (22 °C) photoperiod, and the relative humidity was controlled at approximately 70%.The roots of seedlings were equilibrated in measuring solution 1 (without NO3-) for 20 to 30 min before measuring at room temperature (24 °C–26 °C).The equilibrated seedlings were then transferred to the measuring chamber, and a small plastic dish (6 cm diameter) was filled with 10 ml of fresh measuring solution 2 containing 0.25 mM NO3-.Ion-selective Electrodes were made from 1.5 mm (external diameter) borosilicate blanks. The blanks were pulled to < 1 μm diameter tips using a vertical pipette puller and then silanized with tributylchlorosilane. The tips of electrode blanks were broken to a diameter of 2–3 μm, and then back-filled with appropriate solutions. The back-filling solutions for NO3- were 0.5 M KNO3 and 0.1 M KCl. The electrodes were calibrated with calibrate solution 1 (0.05 mM NO3-) and calibrate solution 2 (0.5 mM NO3-) prior to flux measurements.When the root became immobilized at the bottom of the dish, the microelectrode was vibrated in the measuring solution between two positions, 5 and 35 μm from the primary root surface, along an axis perpendicular to the root meristem zone.",
+    "The background was recorded by vibrating the electrode in measuring solution not containing roots. The measuring lasted for 15 min.The data obtained were analyzed and converted into NO3- influx (negative) (pmol cm-2s-1) using the MageFlux program (http://www.xuyue.net/mageflux). The ion flux assay around each type of transformed cells was replicated independently five times."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

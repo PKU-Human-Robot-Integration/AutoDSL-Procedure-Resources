@@ -1,0 +1,15 @@
+{
+  "id": 4304,
+  "origin_website": "Bio",
+  "title": "Protein Sample Preparation for Proteomic Analysis in <em>Leishmania donovani</em>",
+  "procedures": [
+    "Leishmania donovani parasites in the logarithmic phase (~5 x 106 parasites/ml) were cultured in fully supplemented culture medium at 25 °C and synchronized with the addition of 2.5 mM hydroxyurea for 12 h.    After this period of time the parasites are gently washed three times with 10 ml of PBS and released in 10 ml of fully supplemented RPMI medium.    5 x 108-109 parasites are harvested by centrifugation (500 x g, 15 min, RT).   The parasitic pellet is washed twice with 10 ml of PBS supplemented with 0.1% (w/v) glucose.    The parasitic pellet is resuspended in 50 μl Lysis buffer using a pipette.   The lysed parasites are subjected to five freeze-thaw cycles in solid CO2/ethanol.    The sample is centrifuged at 20,000 x g for 30 min at 4 °C.   To the supernatant 400 μl of Rehydration buffer [containing 0.2% (v/v) Bio-Lyte®] are added.   The sample is incubated for 30 min at RT under gentle rotation.    After the end of the incubation, the sample is centrifuged at 17,000 x g for 40 min at RT.   The supernatant can now be used for proteomic analysis or can be stored at -80 °C for future use."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

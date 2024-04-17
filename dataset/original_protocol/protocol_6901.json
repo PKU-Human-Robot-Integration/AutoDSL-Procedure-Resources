@@ -1,0 +1,16 @@
+{
+  "id": 7273,
+  "origin_website": "Bio",
+  "title": "Monitoring Changes in the Oxidizing Milieu in the Endoplasmic Reticulum of Mammalian Cells Using HyPerER",
+  "procedures": [
+    "Cell culture and seedingCells should be cultured in their corresponding growth medium until they reach a confluence of around 70%.Wash the cells with 10 ml 1× PBS.Detach the cells with 2 ml pre-warmed (37°C) 1× trypsin (0.5 g/L) at room temperature for 4 min and resuspend in 8 ml complete growth medium.Determine the number of cells in the suspension using a Casy cell counter or hemocytometer.Seed 30,000 cells in 400 µl complete growth medium to the center well of a Matek glass-bottomed dish.Cell density may depend on the cell type and transfection method used.Place the dish in a humidified cell culture incubator (37°C, 5% CO2) and incubate overnight.TransfectionMix 25 µl Opti-MEM medium with 0.5 µg HyPerER plasmid and 1.5 µl Fugene® HD solution (according to the manufacturer’s protocol).Incubate the mixture for 15 min at room temperature and add dropwise to the cells.Add 2.6 ml complete growth medium approximately 6 h after transfection.Incubate the cells at 37°C for 24-48 h.Note: The optimal transfection conditions, e.g., cell density, DNA amount, and DNA:Fugene® HD ratio, will require optimization depending on the cell line of choice. ImagingImaging is performed on an Olympus Fluoview 3000 laser-scanning microscope with a temperature- and CO2-controlling unit. Samples are excited sequentially using the 405 nm and 488 nm lasers. Emission is recorded in a window from 500 to 600 nm.Note: There is only one emission window for both excitation wavelengths! Take out the cell culture dish from the incubator and remove culture medium with a pipette.Carefully wash the dish twice with 1 ml pre-warmed HEPES Imaging Buffer.Add 1 ml HEPES Imaging Buffer and place the dish on the microscope stage.Search for a field of view that contains several healthy-looking cells with sufficient YFP fluorescence signal.",
+    "Optimize the voltage of the photomultiplier tube to obtain good image quality (signal-to-noise) for both channels.Measure the baseline oxidative status of HyPerER in the cells every 20 s for at least 5 min, then carefully add stimulating substances, such as thapsigargin (final concentration 1 µM), at double working concentration in 1 ml HEPES Imaging Buffer with a pipette and record until the signal stabilizes (or according to the stimulation protocol). Make sure to complete the addition within the 20-s time window between two image acquisitions. The speed of the acquisition and the total imaging time should be optimized to achieve proper temporal resolution but also to avoid photobleaching.Conclude each measurement by the addition of a single dose of saturating H2O2 (100 µM final concentration in 1 ml HEPES Imaging Buffer) as a positive control, carefully applied with a pipette. An example in HeLa cells is shown in Figure 1."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

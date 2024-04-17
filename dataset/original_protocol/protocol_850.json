@@ -1,0 +1,16 @@
+{
+  "id": 907,
+  "origin_website": "Nature",
+  "title": "Chemical and topographical 3D surface profiling using atmospheric pressure LDI and MALDI MS imaging",
+  "procedures": [
+    "**1) Sample fixation, 3D optical microscopy and matrix application**\na) Sample is fixed on MALDI target holder with superglue, and 3D optical microscopy of the sample is performed. \\(Figure 1a, 3a, 4a).\nb) Matrix \\(DHB 30 mg/ml; CHCA 7 mg/ml) are dissolved in 1 ml 1:1 \\(v/v) acetone/water mixture containing 0.1% TFA. \nc) 100 µl matrix solution is applied using the pneumatic sprayer system with a flow rate of 10 µl/min and a gas pressure of 1 bar. \nd) Matrix layer quality, crystal size and homogenous coverage are checked with an optical microscope \\(Figure 1b).\n**2) Autofocusing AP LDI or MALDI MSI measurement**\na) Mass spectrometer is calibrated with known DHB cluster signals.\nb) MALDI target with sample is mounted on the target support of the modified AP-SMALDI10 MSI source.\nc) Region of interest is searched in the optical sample observation camera.\nd) The mass spectrometer is set to a mass range of m/z 100-1000 and a fixed injection time of 500 ms. A voltage of 4 kV is applied to the MALDI target with respect to the MS inlet. Laser settings are set to 30 laser pulses per spot \\(pixel) with a repetition rate of 60 Hz. \ne) The step size \\(lateral resolution) of the measurement \\(10-30 µm) and the corresponding pixel number for measuring the entire region of interest are set in the control software of the AP-SMALDI10 MSI source. Laser pulse energy is adjusted to the desired lateral resolution.\nf) Lock mass is set in the mass spectrometer to calibrate spectra of each single pixel to a known matrix cluster peaks in order to achieve mass accuracies less than 2 ppm.\ng) Mass spectrometer data acquisition is started and the 3D scan is initialized in the control software of the MSI source.\n**3) Data evaluation and representation**",
+    "a) Mass spectrometric data and 3D imaging data are loaded in MIRION<sup>32</sup> imaging software or MATLAB software, respectively. \nb) Image bin width is set to m/z ±0.01 \nc) All relevant images with their corresponding intensity-weighted centroid m/z value are exported as **.jpg and as a **.csv file, respectively. \nd) 3D imaging data is used to display sample topography in heat map color scale \\(Figure 2b, 3b, 4b) using MATLAB scripts.\ne) Three different ion images are combined into a red-green-blue \\(RGB) overlay image \\(Figure 2d) and combined with the topographic information into 3D RGB MS surface images \\(Figure 2e, 3c, 4c). All MS images are generated without further image processing steps such as smoothing or interpolation. MS images are normalized to the base pixel \\(highest intensity) per image \\(m/z bin).\nf) The m/z value list \\(csv file) is imported into METLIN<sup>33</sup> database within a search window of 2 ppm for accurate mass compound assignment."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

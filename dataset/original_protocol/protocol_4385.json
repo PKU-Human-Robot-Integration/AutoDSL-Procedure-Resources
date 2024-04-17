@@ -1,0 +1,15 @@
+{
+  "id": 4609,
+  "origin_website": "Bio",
+  "title": "Measuring Anxiety-like Behavior in Crayfish by Using a Sub Aquatic Dark-light Plus Maze",
+  "procedures": [
+    "Because our maze has been developed to measure the consequences of stress, crayfish must be submitted to some stressful situation before being tested in the dark/light plus maze. Any source of stress can be considered, either from natural or experimental origin. Previous data were obtained with electric fields applied to individual crayfish (Fossat et al., 2014), but we have verified that this protocol is also suitable for analyzing the consequences of social interactions (Fossat et al., to be published). Three groups of animals should be considered: unstressed or control animals, stressed animals (including stressed animals injected with saline) and stressed animals injected with the anxiolytic drug CDZ. Before experiment, the pump allowing water oxygenation is switched off and the white LED are switched on, while room light is switched off. The white LED intensity is adjusted to generate approximately a 50-lux intensity in the light arms and a 10-lux intensity in the dark arms.Each crayfish is carefully fished with a fishnet and placed in an opaque tank placed in the middle of the plus maze (see Figure 4). The video camera is switched on. A drawing board is filmed during a few seconds to record experiment data (date, reference number of animal).After at least 1 min, crayfish is released by carefully removing the opaque tank (pierced with small holes to prevent water backwash). Crayfish is allowed to freely visit the entire maze for a period of 10 min.After 10 min, video camera is switched off. Crayfish is carefully removed from the maze and replaced in its aquarium.The pump is activated to agitate the freshwater of the maze in all arms for 30 sec. Another crayfish can be tested.",
+    "At the end of the experiment, the freshwater is removed from the maze, which is refilled with new freshwater and the pump is activated for oxygenation.Movies (see Videos 1 to 3) are then analyzed with Ethovision or other tracking software. It is recommended to particularly measure the total distance moved, the time spent in each arm, the number of entries, the latency for the first entry, the mean duration in each arm.Crayfish often stops moving before entering light arms and then enter or retreat. It is thus possible to estimate a retreat ratio calculated as the number of retreat divided by the total number of attempts.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150202/20150202205109_4438.jpgFigure 4. An opaque chamber containing the crayfish is placed in the central zone of the plus maze"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

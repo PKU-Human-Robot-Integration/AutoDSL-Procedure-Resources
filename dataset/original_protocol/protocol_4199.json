@@ -1,0 +1,15 @@
+{
+  "id": 4406,
+  "origin_website": "Bio",
+  "title": "Determination of Luciferase Activity in <em>Arabidopsis</em> seedling",
+  "procedures": [
+    "Sow the transgenic seeds minimum (24 plants for each treatment) in Petri dish containing Johnson media (0.6% agar) with 1 mM phosphate and incubate in growth chamber with 16-h-light/8-h-dark regime (24 °C/21 °C) for 7 days.   Transfer the seedlings to Johnson media (0.6% agar) lacking phosphate and leave for 3 days.   Add 200 µl of Johnson liquid media (without agar) to White 96-well plate and then transfer single seedlings to each well by placing upside down.  Note: Since PHT1;1 is prominently expressing in root we submerged the seedlings upside down.   Add D-Luciferin substrate (50 µM final concentration) to each well and incubate for 1 h.   Measure the initial luminescence i.e. Luminescence (0).   Add arsenate to each well (30 µM final concentration) and cover the plate with MicroAmp optical adhesive Film (refer to Reference 1 to understand the behavior of PHT1;1 in response to Arsenic).   Measure the luminescence of the plate in every 10 min interval with the luminometer using Mikron Win 2000 software (counting time for each well is two seconds).   Calculate the percentage of luciferase activity (%LUC activity) as follows: %LUC activity = [Luminescence(n) – Luminescence(0)]/Luminescence(0)*100 Luminescence (0) = Luminescence at time zero Luminescence (n) = Luminescence at 2nd and consecutive readings  Once we calculate the %LUC activity for each time point, we have to calculate the average Luminescence of all the independent plants at each time point.    Luciferase activity can be also determined in Nicotiana benthamiana (N. benthamiana) using 1 cm discs of agro infiltrated leaves transferred to a microplate and proceed as described above."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

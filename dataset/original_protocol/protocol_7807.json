@@ -1,0 +1,14 @@
+{
+  "id": 8214,
+  "origin_website": "Bio",
+  "title": "Enrichment of Golgi membranes from HeLa cells by sucrose gradient ultracentrifugation",
+  "procedures": [
+    "Remove medium and wash cells 3x with PBS and 1x with Breaking buffer (BB).Harvest the cells by scraping and pellet the cells (for instance at 300 x g, 5 min).Wash pellet 2x in PBS centrifuge cells at 300 x g, 5 min.Wash 1x in ice-cold BB.Dilute the pellet 1:5 in ice-cold BB.Homogenize pellet with an EMBL cell cracker 20x on ice.Note: Make sure there are no air bubbles during the homogenization.Mix a few μl of homogenate with a trypan blue solution on a glass slide and cover it with a coverslip. Check homogenization by microscope.Note: Plasma membrane should not be intact anymore. Cell nuclei should stain blue with Trypan Blue. There should be a lot of membrane fragments and particles in the homogenate, but the nucleus should stay intact.Mix the homogenate with 62% sucrose2 ml homogenate1.83 ml of 62% ice-cold sucrose41.7 μl of 100 mM EDTA (pH 7.4)Check the sucrose concentration to 37% +/- 0.5% with a refractometer.Sucrose gradients: solutions are w/w%.Check pH of the solutions after dissolving the sucrose.Run gradient4 ml homogenate (in 37% sucrose)4.5 ml 35% sucrose3.5 ml 29% sucrose (to the top)Note: Homogenate at the bottom, then add 35% sucrose, then add 29% sucrose. Centrifugation: SW 40 Ti Rotor, centrifuge for 1.5 h at max speed (x g) at 4 °C.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130914/20130914071824_3601.jpgPull the Golgi band in 0.4 ml using a 1 ml syringe with 20/21 G needle (the Golgi band is located at the 35%/29% sucrose interphase).Measure protein concentration and the functional Golgi membranes can now be snap frozen in liquid N2 and stored at -80 °C."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

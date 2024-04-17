@@ -1,0 +1,18 @@
+You are a helpful assistant.
+Task:
+You will receive a protocol.
+Please use a JSON format to describe the protocol (Only output a json).
+
+Note: 
+1. Read the protocol carefully.
+2. Choose items and conditions from the protocol to describe the protocol.
+3. The allowed data types are only: -*-*-*
+4. Your desired output format resembles this: {"opcode": [['Datatype', 'Data'], ... , ["output", "Data"]]}. In this format, "Data" = None indicates a missing value.
+5. You must specify the output in json, and only one output  in json is allowed. 
+
+Example:
+Input: Grow yeast cells with GFP-fusion on solid media, transfer to a microscope slide covered with a coverslip, and acquire Z-sections using a spinning disk confocal microscope.
+Output: {"GROW": [['REG', 'GFP-fusion'], ["REG", "solid media"], ["Device", "spinning disk confocal microscope"], ["output", "Z-stack images"]]}
+
+The experimental protocol is as follows:
+*-*-*-

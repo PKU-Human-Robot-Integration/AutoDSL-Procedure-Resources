@@ -1,0 +1,16 @@
+{
+  "id": 570,
+  "origin_website": "Nature",
+  "title": "RNAi vector feeding protocol for distal tip cell \\(DTC) migration studies in _C. elegans_",
+  "procedures": [
+    "Day 1.\nStreak out culture from desired library well on LB/Amp plate \\(40 &#xB5;g amp/ml) \\(optional).\nDay 2.\n1. Culture bacteria containing each RNAi clone in 1 ml LB medium containing 40 &#xB5;g/ml ampicillin overnight \\(Table 1 shows vectors used in this particular study &#x2013; link to RNAi primer info file).\n  2. Chunk a starved nematode plate and allow starved nematodes to recover on fresh _E.coli_ OP50-seeded NGM plates for two days \\(until Day 4 of experiment).\n  \nDay 3.\nIn the 24 well format, 20 &#xB5;l of each culture was spotted in a single well of a 24-well plate containing NGM agar, 6 mM IPTG and 25 &#xB5;g/ml carbenicillin. In the 6 cm format, spread out 150&#xB5;l of culture. I usually make duplicate plates, so I have a plate ready to score a second generation.\nDay 4.\nRelease eggs from gravid hermaphrodites on the plates chunked on Day 2 using alkaline hypochlorite solution. Following washes in M9 buffer, transfer eggs to plates seeded with _E. coli_ HT115\\(DE3) bacteria expressing double-stranded RNA \\(dsRNA) \\(Seeded Day 3) and incubated at 23&#xB0;C. \\(For detailed protocol, see Hope \\(1999))\nDay 5.\nTake the day off.\nDay 6.\n1. Analyze animals with light microscopy.\n  Primary screen: Score the animals for clear patches using a dissecting microscopy. This is approximately 48h after hatching; animals should be young adults.\nSecondary screen: Mount the animals on agar pads using 0.08M sodium azide as an anesthetic. View DTC migration using 40X Nomarski microscopy \\(see figure below - RNAi scheme).\n2. Transfer 5 young adults to new plates seeded with RNAi bacteria.\n  \nDay 7.\nTake the day off.\nDay 8.\nAnalyze young adult progeny animals as described for Day 6. If the worms aren&#x2019;t old enough \\(likely), analyze them on Day 9."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

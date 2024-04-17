@@ -1,0 +1,16 @@
+{
+  "id": 8266,
+  "origin_website": "Bio",
+  "title": "Adhesion of <em>Moraxella catarrhalis</em> to Respiratory Tract Epithelial Cells",
+  "procedures": [
+    "The human pharyngeal epithelial cell line Detroit 562 and the type II alveolar epithelial cell line A549 were routinely grown in DMEM with GlutaMAXTM-I and 10% FCS at 37 °C and 5% CO2.    For passage or seeding purposes epithelial cells were washed once in 10 ml PBS and detached using trypsin-EDTA as follows: add 3 ml Trypsin-EDTA per 75 cm2 culture flask, incubate 5 min at 37 °C and 5% CO2 until cells have detached from the bottom, collect cells with 7 ml culture medium, count cells, spin required amount for 5 min at 400 x g, resuspend pellet in required volume of culture medium.    Two days prior to the adherence assay, 2 x 105 Detroit 562 cells per well were seeded into a 24-well tissue culture plate, and after one day, the growth medium was refreshed.    A549 cells were seeded into 24-well tissue culture plates one day prior to the assay at 4 x 105 cells.    For both cell lines, monolayers of approximately 1 x 106 cells per well were used for adherence assays.    M. catarrhalis strains were inoculated on brain heart infusion (BHI) plates (supplemented with antibiotics when required) and grown overnight at 37 °C in an atmosphere containing 5% CO2.    Bacteria were harvested from plate and resuspended in PBS supplemented with 0.15% gelatin (PBS-G).    This suspension was used to inoculate BHI broth to an OD620 nm of ~ 0.05 and grown at 37 °C at 200-250 rpm until OD620 nm of 1.0 to 1.2. Subsequently, glycerol was added to a final concentration of 20%, and 1-ml aliquots were stored at -80 °C.   Before each assay, bacteria were thawed on ice, washed once in 1 ml DMEM with GlutaMAXTM-I and 1% FCS (infection medium) and resuspended in the infection medium to 1 x 107 CFU ml-1.",
+    "Epithelial cells were washed twice with 1 ml PBS, infected with 1 ml of the M. catarrhalis suspension (multiplicity of infection, 10 bacteria per cell), centrifuged for 5 minutes at 200 x g to facilitate contact between bacteria and cells, and incubated 1 h at 37 °C in a 5% CO2 environment.    Non-adherent bacteria were removed by 3 washes with 1-ml PBS (PBS was added and subsequently carefully aspirated, no agitation). Detroit 562 or A549 cells were detached and lysed by addition of 1 ml 1% saponin in PBS-G followed by incubation at 37 °C and 5% CO2  for 10 min.    CFUs were enumerated by plating 10-fold serial dilutions on BHI plates supplemented with the appropriate antibiotics. The percentage adherence of the mutants was calculated as the fraction of the inoculum that bound to the Detroit 562 cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

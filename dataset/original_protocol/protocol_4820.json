@@ -1,0 +1,16 @@
+{
+  "id": 5124,
+  "origin_website": "Bio",
+  "title": "Bone Marrow Mesenchymal Stem Cells Adhesion Assay",
+  "procedures": [
+    "Coat plate with lamininsSlowly thaw recombinant laminins at 2 °C to 8 °C before use.Dilute the thawed laminin stock solution with 1x DPBS (Ca2+/Mg2+) to 10 μg/ml, Add 60 μl diluted laminin solution to each well of 96 well culture plate (The final coating concentration is 2 μg/cm2). Make sure the laminin solution is spread evenly across the surface. Leave some wells uncoated as negative control.Incubate at 2 °C to 8 °C overnight.Wash with wash buffer (200 μl/well) for 2 times.Block plates with blocking buffer (200 μl/well) at 37 °C in CO2 chamber for 60 min.Wash with wash buffer (200 μl/well) for 2 times.Note: All the wash procedures do not need some time incubation, the followings are the same.Prepare and seed cellsTaking a 10 cm culture dish as an example, wash the cells with 2 ml PBS.Detach the cells with 2 ml 0.25% Trypsin-EDTA, neutralize trypsin with 2 ml 0.25 mg/ml soybean trypsin Inhibitor. Mix the cells by pipetting up and down using a 1 ml pipette, then transfer them to a 15 ml sterile tube and centrifuge at 300 x g for 5 min.Resuspend the cells in 2 ml DMEM with 0.5% FBS.Count the cells and dilute to a final concentration of 2 x 105/ml, add 100 μl (2 x 104 cells) to each well. Set up at least triplicate wells for each condition.Note: Cell number vary depending on the coated ECM, for laminins, 2 x 104 is appropriate. However, 4 x 105 cells may be required for non-coated wells.Incubate at 37 °C (in a CO2 chamber) for 20 min. Note: Adhesion time depends on the coated ECM.",
+    "It is useful to observe the adherent condition under microscope at different time points, choosing between 5 min and 30 min (5, 10, 15, 20, 30), even do a time course first. In our system, cells adhere to the laminin-coated wells within at least 10 min, while for non-coated wells, it may take longer time.Stop the assayDiscard the seeding medium carefully without scratching the bottom of wells.Rinse cells once with 200 μl PBS per well.Shake the plate at 2,000 rpm for 15 sec.Discard the PBS and wash with 200 μl wash buffer per well for 3 times. Fix with 200 μl 4% paraformaldehyde per well. Incubate at room temperature for 10-15 min.Wash with 200 μl PBS per well.Staining and analysisAdd 100 μl 0.1% crystal violet to each well and incubate for 10 min at room temperature. Remove the crystal violet and wash with ddH2O (200 μl/well) for 3 times.Turn the plates upside down on the absorbent papers. Let the plates dry up completely. The plates can be scanned by a scanner firstly.Add 100 μl 2% SDS to each well and incubate for 10 min with gently shaking at room temperature.Read the absorbance within 5 min on a microplate reader/spectrometer at a wavelength of 550 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

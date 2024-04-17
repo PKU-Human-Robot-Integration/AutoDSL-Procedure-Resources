@@ -1,0 +1,15 @@
+{
+  "id": 50,
+  "origin_website": "Nature",
+  "title": "SLIC sub-cloning using iPCR or mixed PCR products",
+  "procedures": [
+    "1. Digest 2 &#x3BC;g of vector with restriction enzymes.  Gel purify the vector and isolate the DNA using QIAEX II gel extraction kit.  Quantitate the vector.\n  2. Inserts are amplified using Taq DNA polymerase.  Set up a 100 &#x3BC;l PCR reaction with 250 &#x3BC;M of each dNTP, 0.5 &#x3BC;M of each primer, and 2.5 U of Taq DNA polymerase \\(from Eppendorf).  Cycle as follows: 94&#xB0;C for 45 seconds; 30 cycles of 94&#xB0;C for 45 seconds, 54&#xB0;C for 45 seconds, and 72&#xB0;C for 1 minute; 72&#xB0;C for 10 minutes.  Add 20 U of DpnI to 100 &#x3BC;l of PCR products after PCR, incubate at 37&#xB0;C for 1 hour.  Purify the PCR products by QIAquick PCR purification column.  Quantitate PCR products. \n  3. For iPCR insert, heat the PCR product to 95&#xB0;C for 5 minutes to denature, cool slowly to room temperature in 1 hour to renature, dilute and proceed to annealing reaction.  For mixed PCR inserts, the two PCR products should be mixed in equal amounts and heated to 95&#xB0;C for 5 minutes to denature, cooled slowly to room temperature for 1 hour to renature and diluted priot to proceeding to the annealing reaction.\n  4. Take 1 &#x3BC;g of the vector and treat with 0.5 U of T4 DNA polymerase in T4 buffer \\(NEB) plus BSA in a 20 &#x3BC;l reaction at room temperature for 30 minutes.  Stop the reaction by adding 1/10 volume of 10 mM dCTP and leave on ice.\n  5. Set up a 10 &#x3BC;l annealing reaction using 1:1 or higher insert to vector ratio with 150 ng of a 3.1 kb vector \\(0.074 pmol), 1x ligation buffer, appropriate amount of insert, and water.  Incubate at 37&#xB0;C for 30 minutes.  Leave on ice or store at -20&#xB0;C.",
+    "6. Add 5 &#x3BC;l of the annealed mixture into 150 &#x3BC;l of BW23474 chemical competent cells, incubate on ice for 30 minutes, heat shock at 42&#xB0;C for 45 seconds, return to ice for 2 minutes, add 0.9 ml of SOC and recover at 37&#xB0;C for 1 hour.\n  7. Plate 100 &#x3BC;l onto plates containing the appropriate antibiotics; and incubate in 37&#xB0;C for over-night."
+  ],
+  "subjectAreas": [
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

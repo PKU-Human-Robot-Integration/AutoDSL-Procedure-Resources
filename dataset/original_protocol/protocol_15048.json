@@ -1,0 +1,15 @@
+{
+  "id": 18874,
+  "origin_website": "Jove",
+  "title": "Method for Obtaining Primary Ovarian Cancer Cells From Solid Specimens",
+  "procedures": [
+    "Ethics Statement \nSolid specimens of ovarian cancer were obtained from the University of Minnesota Tissue Procurement Facility (TPF) after Institutional Review Board Committee: Human Subject Board (IRB) approval.\n1. Reagent Setup\nPrepare Complete DMEM medium by supplementing DMEM with 10% FBS, and 100 units penicillin-streptomycin. Store the medium at 4 °C and warm to 37 °C prior to use.\nAliquot dispase II into separate volumes of 5-10 ml to avoid multiple freeze thaws and store at -20 °C in a nonfrost-free freezer.\n2. Tissue Collection\nCollect solid specimens of ovarian cancer (~5 g in size) at the time of surgery from areas macroscopically identified as cancer by a pathologist. Clinical specimens are de-identified and registered according to institutional protocols.\nPlace specimens in a sterile, screw lid, polypropylene specimens container filled with 30 ml of ice-cold PBS. Transport the specimens from the surgical pathology laboratory to the research laboratory for processing on ice, and within 30 min from specimen collection (Figure 1).\n3. Tissue Processing\nWorking under sterile conditions, transfer the samples onto a Petri dish (60 mm x 60 mm) containing 10 ml of fresh, ice-cold PBS and using a sterile razor blade, further cut into the smallest pieces possible (2 mm or less) (Figures 2A and 2B).\nTransfer the minced tissues into a 15 ml conic tube containing 10 ml of prewarmed (37 °C for 30 min) dispase II (2.4 U/ml) in DMEM and incubate at 5% CO2 and 37 °C for 30 min. To ensure optimal digestion of the specimens, manually agitate the cell slurry every 5 min.",
+    "After 30 min incubation, transfer (using a 10 ml serological pipette) the cell slurry onto a cell strainer (70 μm mesh) placed on top of a 50 ml conical tube and apply a gentle pressure against the mesh using a syringe plunger. Discard any undissociated tissue (remaining on the top of the mesh) and collect the obtained cell suspension in the 50 ml sterile conical tube. Centrifuge at 320 x g for 7 min at 4 °C (Figure 3).\nDiscard the supernatant and resuspend the cell pellet in 10 ml of DMEM containing 10% FBS.\nIncubate the cell suspension in a Petri dish at 5% CO2 and 37 °C (Figure 4).\nChange the medium after 24 hr from the initial plating. This allows for removal of cellular debris and the majority of the erythrocytes present in culture.\nChange the medium every three days for the following two weeks, after which the cultures of primary EOC are ready for downstream applications.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

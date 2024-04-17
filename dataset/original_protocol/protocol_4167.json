@@ -1,0 +1,16 @@
+{
+  "id": 4374,
+  "origin_website": "Bio",
+  "title": "<em>Arabidopsis thaliana</em> Embryo Sac Mitochondrial Membrane Potential Stain",
+  "procedures": [
+    "Pistils isolation (Figure 1, A-E). Using a pair of tweezers, take flowers, at different developmental stages from an Arabidopsis inflorescence (Alvarez-Buylla et al., 2010). On a microscopic slide and under a dissecting microscope, remove sepals, petals, anthers and stigma using the needles of two 1 ml insulin syringes (0.3 x 13 mm) and make longitudinal superficial cuts on pistils at each side of the septum (Figure 1).   Pistils stain (Figure 1, F-G).   Submerge the pistils in 100 µl of a solution containing 10 µg/ml of JC-1 in buffer A.   Incubate for 30 min at room temperature without shaking. Protect from light, as the dye is photosensitive.   Gently wash the pistils three times with buffer A.     Sample preparation for microscopy (Figure 1, H-L).   On a microscopic slide under a dissecting microscope, use the needles of two 1 ml insulin syringes (0.3 x 13 mm) to dissect the pistils exposing the ovules   Add a drop of buffer A and cover the sample with a coverslip.   Immediately observe under a confocal microscope. The intensities of green (excitation/emission wavelength = 485/538 nm) and red (excitation/emission wavelength = 485/590 nm) are analyzed.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140520/20140520230647_8612.jpg Figure 1. Schematic illustration showing the steps required for embryo sac mitochondrial staining       Image analysis (Power Point 1[href=https://en-cdn.bio-protocol.org/attached/file/20140520/Power Point 1.pptx]). The ratio of red to green fluorescence of JC-1 images is calculated using NIH ImageJ software.   The outline of each embryo sac is delimited using the freehand tool to create a region of interest (ROI) and saved using the ROI manager tool (Analyze>tools>ROI manager>Add).   In the “Analyze” menu, select “set measurements” and click on area and “mean gray value”.   Using the image Menu, select “color” and then “split channels”.   Close the image in the blue channel. On the green channel, go to the analyze>tools>ROI manager and select the ROI added before.",
+    "The ROI will appear on the image. Still in the ROI manager go to more>multi Measure. The result will appear in a new window.    Repeat this step with the image in the red channel.   Copy the results and paste them in an excel worksheet.   Calculate the red to green fluorescence ratio for each ROI."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

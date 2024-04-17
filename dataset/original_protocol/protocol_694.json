@@ -1,0 +1,15 @@
+{
+  "id": 734,
+  "origin_website": "Nature",
+  "title": "Neurofeedback training with MEG-based BMI prosthetic hand",
+  "procedures": [
+    "All patients participated in a crossover trial consisting of three experiments on different days \\(wash out period was more than two weeks). Each experiment consisted of three tasks: offline task \\(pre-BMI), BMI training, and offline task \\(post-BMI) \\(Figure1)<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4783/original/Figure5.png?1473139098\">See figure in Figures section.</a>\n1. Take face scan and fiducial points \\(6 points in face and more than 50 points in head)\n  2.  Put EMG electrodes on face and both forearms \\(the signals for eye ball movements and blinks, ECG,  flexor digitorum superficialis and the extensor digitorum communis)\n  3. Put the patient into the MEG scanner \n  4. Start to record MEG signals\n  5. After taking 60 seconds of rest, the patients attempted to move their phantom hands at the presented times. \n  6. At first, the patients were visually instructed regarding the movement type to perform with the Japanese word for “grasp” or “open.\"\\(Figure 2)\n  <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4787/original/Figure2.png?1473140019\">See figure in Figures section.</a>\n7. After 1 second, two sounds and one execution cue sound were given to the subjects as the timing to move their hands. The execution cues were repeated four times every 5.5s.\n  8. The procedure 6 and 7 were repeated for 10 times for each movement types.\n  9. Repeat 5 to 10 with moving their intact hands \\(grasping and opening)\n  10. Construct the decoder to control the BMI neuroprosthetic hand using the recorded MEG signals.\n  11. Evaluate the pain by McGill Pain questionnaire and visual analog scale \\(VAS)\n  12. Present the prosthetic hand in the monitor for patient\n  13. Instruct the patient to control \n  the MEG signals to the online decoder to control the neuroprosthetic hand by intending to move their phantom hands without moving their actual bodies for 10 minutes.\n14. The patient controlled the prosthetic hand for 10 minutes",
+    "15. Evaluate the pain by McGill Pain questionnaire and VAS and record the patient's report how they felt to move the robot\n  16. Repeat from 4 to 9.\n  \n17. For the analysis, VBMEG \\(variational bayesian multimodal encepharography) was used with the following parameters:\n  act = 'uniform', a0_act = 100, w = 0.0002, time constance in twin_meg = 1000, Tperiod = 1000, Tnext = 1000, trial_average = off, filter condition; common to conditions"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

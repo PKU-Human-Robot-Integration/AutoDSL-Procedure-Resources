@@ -1,0 +1,16 @@
+{
+  "id": 4449,
+  "origin_website": "Bio",
+  "title": "Floral Dip Transformation in <em>Lepidium campestre</em>",
+  "procedures": [
+    "Germinate L. campestre seeds on soil, keeping the seeds moist and covered until seedlings emerge.   Transfer seedlings to individual pots and grow them for 6 weeks with a 16 h photoperiod at 20 °C and 8 h without illumination at 15 °C.   Vernalize the plants for 8 weeks at 4 °C with 8 h of illumination.   Move the plants back to greenhouse conditions. After 1-2 weeks, inflorescences should emerge.   Ideally, the first dipping should take place shortly before the first flowers open.   2 days before dipping, grow a 5 ml over-night culture of GV3101 at 28 °C under constant rotation at 200 rpm in YEB medium.   Use this culture to inoculate 500 ml of YEB medium and cultivate as above for 24 h.   Pellet Agrobacterium cells by centrifugation at 16 °C and 5,500 x g for 15 min.   Resuspend the cells in approximately 20 ml of infiltration medium by vortexing.   Add infiltration medium to reach a final OD600 of 2.0 (should result in approximately 400-600 ml).   Keep the cells at room temperature in the dark for approximately 2 h.   Put the Agrobacterium solution in a beaker and stir it constantly using a magnetic stirrer.   At least 10-15 plants should be treated per transformation construct, in order to generate several independent transgenic lines (transformation efficiency of ~0.4% results in approximately 1 transformant per plant)。   Gently spread and open up the plants inflorescence using your finger in order to allow the liquid to reach as much of the surface as possible.   Immerse the plant’s inflorescence for 5 sec into the Agrobacterium solution.   Cover inflorescences with a plastic bag to retain humidity.   Keep the plants without direct illumination for 24 h (i.e. Switch off all lights directly above your plants and close the shades.",
+    "It does not need to be completely dark, but strong light it known to reduce motility and infectivity of Agrobacteria).   Repeat the dipping weekly, until no new flowers are produced (3-5 runs).   Cultivate the plants until all fruits are yellow and dry (approximately 3-6 weeks).   Collect the seeds by manually opening the fruits.   Germinate the seeds until cotyledons emerge.   Spray seedlings with 0.01% Basta solution in 3-4 day intervals until no further seedlings emerge and Basta-resistant plants can be clearly distinguished from Basta-sensitive plants (approximately 2 weeks).   After a few days, Basta-sensitive seedlings stop growing and die while transformed plants continue to grow.   Confirm transgene integration by phenotyping PCR or Southern blotting."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

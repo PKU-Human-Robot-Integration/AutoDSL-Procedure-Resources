@@ -1,0 +1,15 @@
+{
+  "id": 5198,
+  "origin_website": "Bio",
+  "title": "Artificial Optogenetic TRN Stimulation of <em>C. elegans</em>",
+  "procedures": [
+    "Prior to blue light stimulation, 10 worms are transferred from the 6-cm cultivation plate to a 3-cm seeded stimulation plate including ATR. The lid of the plate is removed (so that it does not interfere with the light) and the plate is placed inside the optical stimulation box. Then stimulation is started by running the Led3.m Matlab script.In our application, we were interested in examining the effects of prolonged artificial TRN stimulation on subsequent locomotion patterns of mechanosensory mutants. Since we found that loss of body mechanosensation leads to an enhanced reversing frequency when the worms are removed from their source of food, we tested reversing frequency after artificial TRN stimulation to see if it decreases back towards wild-type levels (Rabinowitch et al., 2016).In each testing round, four to six worms of each genotype are picked from the 3-cm stimulation plate either immediately, after no flashing at all or 2 h after the end of the flashing session, and their reversing rate off food is measured. The assay is repeated on at least three different testing days, and in each testing day all genotypes are equally represented.The reversing assay is based on a well-established protocol (e.g., Tsalik and Hobert, 2003). Each worm is first transferred to an area in the plate that is free of food in order to release bacterial remainders from its body. As soon as there is no visible trail of food, the worm is placed on a 6-cm unseeded NGM test plate. Prior to the assay, the test plate is left for 1 h with its lid off to dry its surface. 1 min after transferring the worm to the test plate, the number of reversal events is counted over a duration of 3 min.",
+    "A reversal was counted only if it consisted of at least two consecutive head bends while the worm reversed. Note: We observed an effect only 2 h after the end of the light stimulation."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

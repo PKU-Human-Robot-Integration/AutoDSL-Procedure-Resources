@@ -1,0 +1,16 @@
+{
+  "id": 7980,
+  "origin_website": "Bio",
+  "title": "Computational Analysis of Plasma Lipidomics from Mice Fed Standard Chow and Ketogenic Diet",
+  "procedures": [
+    "Allow mice to acclimate undisturbed to research facility with soft food for one week prior to changing diets.Separate mice and change diets to SC or KD two weeks prior to plasma collection date.Note: The KD is soft and requires refrigeration and daily food changes; cages must be cleaned or replaced every three days. Immediately prior to euthanizing mice, prepare heparin solution (~5 mL) and coat syringes for cardiac punctures by aspirating and expelling the solution with each syringe. The same heparin solution can be used for multiple syringes. After coating, syringes may be placed on a sterile surface resting on needle caps. Ensure that the needles are bevel up and ready for use.Prepare blood collection tubes and ice bucket and set tabletop centrifuge temperature to 4 °C.Euthanize mice one at a time with CO2 and prior to cervical dislocation, place mouse supine on bench, and quickly perform cardiac puncture using 3 mL BD Luer-Lok syringe with attached 25 G needle.It is important that the needle gauge used for this procedure is between 23 and 25 G, in order to avoid hemolysis. Hemolysis is the destruction of red blood cells, and it has been shown to significantly impact levels of certain lipid species in the blood (Burla et al., 2018).Transfer blood (200–700 μL depending on size of mouse) to BD Vacutainer blood collection tubes and keep on ice.Transfer blood samples to microcentrifuge tubes and centrifuge at 1,500× g for 20 min at 4 °C.Collect transparent plasma (supernatant) and transfer to a fresh microcentrifuge tube.Seal tubes with parafilm and store at -80 °C or ship on dry ice for sample processing to: Jan F. Stevens & Jaewoo Choi. Linus Pauling Institute, Oregon State University, Corvallis, OR, USA (Choi et al., 2015).",
+    "Frozen plasma (20 μL) was extracted with lipidomics extraction solvent (480 μL, methylene chloride:methanol:isopropanol = 25:10:65, v/v/v + 0.1% BHT), vortexed for 30 s, centrifuged for 10 min at 13,000 rpm at 4 °C. The aliquot (95 μL) was transferred into mass spectrometry analysis tubes and SPLASH LipidoMix (Avanti Lipids) as internal standard mixture (5 μL) was spiked. UPLC was performed using a 1.7 μm particle, 2.1 × 100 mm, CSH C18 Column (Waters, Milford, MA, United States) coupled to a quadrupole TOF mass spectrometer (AB SCIEX, TripleTOF 5600) operated in information-dependent MS/MS acquisition mode. LC and MS conditions were developed as described previously by Choi et al. (2015) with some modifications. For positive ion mode LC-QToF-MS/MS, the mobile phases consisted of (A) 60:40 (v/v) acetonitrile: water with ammonium formate (10 mM) and formic acid (0.1%) and (B) 90:10 (v/v) isopropanol:acetonitrile with ammonium formate (10 mM) and formic acid (0.1% formic acid). For analyses run in the negative ion mode, ammonium acetate (10 mM) was used as the modifier."
+  ],
+  "subjectAreas": [
+    "Systems Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

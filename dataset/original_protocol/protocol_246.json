@@ -1,0 +1,16 @@
+{
+  "id": 260,
+  "origin_website": "Nature",
+  "title": "Direct imaging furin-controlled intracellular condensation with two-photon laser microscope",
+  "procedures": [
+    "1. MDA-MB-468 human breast adenocarcinoma epithelial cells were cultured in Dulbecco’s modified eagle medium \\(GIBCO) supplemented with 10% fetal bovine serum \\(FBS, GIBCO) in incubator supplied with 5% carbon dioxide humidified air at 37 °C.\n  2. Seed the healthy cells on the coverslips in each well of a 24-well plate at about 60% density, then incubate overnight.\n  3. Suck off the culture medium, add 500 μL DMEM containing 100 μM **2** or **2-Scr** \\(mix 5 μL of PBS stock solution of **2** or **2-Scr** at 10 mM with 495 μL DMEM)  into different each well respectively, then incubate for 8 h.\n  4. Suck off the medium, wash the cells with PBS for three times at room temperature.\n  5. Add 500 μL of 4% paraformaldehyde in PBS into each well to fix the cells at room temperature for 30 min, wash the cells with PBS a further three times.\n  6. Drop 1 μL of 50% glycerol PBS solution on a glass slide and then pick up the coverslip in 24-well plate, mount the coverslip on the glycerol drop with the cells facing to the glass slide, fix the edges of coverslip with glass slide using nail enamel."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

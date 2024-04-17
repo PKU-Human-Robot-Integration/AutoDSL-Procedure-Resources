@@ -1,0 +1,18 @@
+{
+  "id": 318,
+  "origin_website": "Nature",
+  "title": "ELISA-based protein-PAMP interaction assay",
+  "procedures": [
+    "1. Incubate aliquots of 100 &#x3BC;l LPS or LTA which is resuspended in 0.01 M pH 7.4 PBS in a 96-well microtitre plate \\(Maxisorp&#xAE;, NUNC, Denmark) at room temperature overnight.  \n  2. Rinse the wells three times with 300 &#x3BC;l of PBS each. \n  3. Block the wells with 150 &#x3BC;l of PBS with 2% \\(w/v) BSA at 37 &#xB0;C for 2 h.  \n  4. Rinse the wells three times with 300 &#x3BC;l of PBS each. \n  5. Add to each well, 100 &#x3BC;l of the serially diluted protein \\(HMC or Hb in 2% BSA) in PBST \\(PBS containing 0.05% v/v Tween 20) and incubate at 37&#xB0;C for 1 h. \n  6.  Rinse the wells three times with 300 &#x3BC;l of PBST each.  \n  7. Add to each well, 100 &#x3BC;l of primary antibody \\(rabbit-anti HMC or rabbit-anti Hb), which is diluted to 1:500 with 2% BSA in PBST and further incubate at 37 &#xB0;C for 30 min. \n  8. Rinse the wells three times with 300 &#x3BC;l of PBST each.  \n  9. Add to each well, 100 &#x3BC;l of the horseradish peroxidase-conjugated goat-anti-rabbit antibody \\(DAKO, Japan), which is diluted to 1:1000 in 2% BSA in PBST, and incubate at 37 &#xB0;C for 30 min. \n  10. Rinse the wells three times with 300 &#x3BC;l of PBST each. \n  11. Immediately before using, dissolve peroxidase substrate tablet \\(ABTS, 2,2&#x2019;-azino-bis\\[3-ethylbenzthiazoline-6-sulfonic acid], Roche) in substrate solution \\(Roche) as indicated by the manufacturer&#x2019;s manual.  \n  12. Add to each well, 50 &#x3BC;l of the peroxidase substrate and incubate for 10 min at room temperature. \n  13. Read the OD at 405 nm. \n  14. To verify the specificity of the protein-PAMP interaction observed in the ELISA, further examine whether or not pre-incubation of HMC or Hb with LPS or LTA could reduce the ELISA-readout in a dose-dependent manner.",
+    "a) Choose a concentration of either HMC or Hb that shows an ELISA-readout\\(A405)at the linear range. \n b) Incubate the HMC or Hb with 0-200 &#x3BC;g/ml LPS or LTA in 2% BSA in PBST at 37 &#xB0;C for 1 h.  \n c)  Then transfer the reaction mixture to the LPS- or LTA- immobilized microtitre plate.\n d) Conduct the ELISA as described in steps 5-13. \n e) The reduction of the readout of HMC or Hb pre-incubated with LPS or LTA respectively, demonstrates the specificity of the protein-PAMP interaction."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

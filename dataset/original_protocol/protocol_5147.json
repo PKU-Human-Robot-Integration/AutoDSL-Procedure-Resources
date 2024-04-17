@@ -1,0 +1,14 @@
+{
+  "id": 5471,
+  "origin_website": "Bio",
+  "title": "Measurement of Liver Triglyceride Content",
+  "procedures": [
+    "Creation of saponified, neutralized liver extract   Moved 100-300 mg of liver to pre-weighed microfuge tube.   Record tube + liver weight.   Add 350 μl ethanolic KOH.    Incubate overnight 55 °C    Vortex early in incubation till the tissue is completely digested.   By morning, tissue should be digested and no oil layer should be visible (if oil layer is present then one must digest longer, and may need more ethanolic KOH).   Bring volume to 1,000 μl with H2O: EtOH (1:1).   Spin in microfuge 5 min, move supernatant to new tube.   Bring volume of supernatant to 1,200 λ with H2O: EtOH (1:1), vortex.   Move 200 μl to new eppendorf tube, add 215 μl 1 M MgCl2, vortex.    10 min on ice.   Microfuge 5 min, move supernatant to new tube.      Assay of glycerol content   Reconstitute reagent A according to instructions for determination of glycerol content.   Pipette 1 ml of reconstituted reagent A into cuvettes.   Add samples, standards and blank. Standards: 10 μl + 20 μl H2O Samples: 30 μl Blank: 30 μl H2O   Shake.   Incubate 15 min & read at 540 nm.      Calculation of liver TG content   Note that the Sigma glycerol standards are expressed as triglyceride (triolein) equivalents.   Subtract blank from all samples/standards.   Create standard curve by linear regression.    Determine cuvette (triolein equiv) (CTE) glycerol concentration by comparison to standard curve.   Liver TG content (in mg TG / gram liver) = CTE (mg/dl)*(10/30)*(415/200)*0.012 (dl)/wt (gr)"
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

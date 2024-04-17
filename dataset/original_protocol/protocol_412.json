@@ -1,0 +1,17 @@
+{
+  "id": 437,
+  "origin_website": "Nature",
+  "title": "Protocol for delivery of macromolecules using dfTAT into live cells",
+  "procedures": [
+    "1- Seed cells \\(HeLa, HDF, etc) in a dish \\(e.g. 8 well or 24 well dish).\n2- Grow cells in appropriate medium \\(e.g. DMEM supplemented with 10% FBS and Pen/Strep) until 80-90% confluency in a 37°C humidified atmosphere containing 5% CO2.\n3- Wash cells 3 times \\(3X) with PBS.\n4- Make a 5 µM working concentration of dfTAT by diluting dfTAT in nrL-15 media \\(for a 8 well dish the total volume should be 200 µL). A concentration of 5  µM dfTAT leads to efficient delivery \\(high level of cytosolic delivery in more than 90% of cells present in a dish) in most cell types tested to date. However, lower or higher concentrations might be more adequate for cell types with a high or low propensity for penetration. \n5- Incubate cells with dfTAT with or without cargo \\(e.g. EGFP, TAT-Cre etc.) and keep at 37°C for 1h \\(incubation time can be reduced but dfTAT typically requires approximately 30 to 45 min to induce endosomal leakage). \n6- Wash cells with heparin \\(1 mg/ml) in L-15 \\(3 washes are recommended) to remove dfTAT bound to the plasma membrane of cells. \n7- Incubate cells with cell-impermeable nuclear stain such as Sytox Blue or Sytox Green \\(2 µM in nrL-15) to determine whether the plasma membrane of cells is compromised \\(dead cells will be stained while live cells will not).",
+    "8- Image cells using a fluorescence microscope \\(100X oil immersion or 20X objective). dfTAT is imaged using a RFP filter \\(Ex = 560 ± 20 nm/Em = 630 ± 35 nm). Successful delivery leads to a diffuse fluorescence of dfTAT throughout the cell \\(assessing the delivery of protein or peptide of interest will depend on application). Staining of nucleoli by fTAT \\(the reduced product of dfTAT upon cytosolic entry) can be used as an indication that the fluorescence detected is intracellular. fTAT will degrade within few hours. At this point, the fluorescence of the degradation fragments will appear as punctate. This should not be confused for the punctate distribution that is also seen if dfTAT remains unsuccessfully trapped inside endosomes \\(this can happen if dfTAT is present at too low of a concentration)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

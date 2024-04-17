@@ -1,0 +1,18 @@
+{
+  "id": 306,
+  "origin_website": "Nature",
+  "title": "Social interaction test: a sensitive method for examining autism-related behavioral deficits",
+  "procedures": [
+    "Preparation of the cage and mice\n1. Change the bedding material in the home cage 24 h or earlier before testing.\n  2. Weigh the novel mice and mark them on the tail 24 h or earlier before testing. This step can be skipped if the novel mice can be identified in a different way, such as by ear punching.\n  3. Weigh the test mice and mark them on the tail at the time of the first injection of rapamycin. This step can be postponed until testing if the mice are to be examined without any treatment.\n  4. Pair a test mouse and a novel mouse of the same sex, on the condition that the novel mouse is not heavier \\(< 5%) than the test mouse.\n  \nTesting\n5. Transfer the mice to the testing room.\n  6. Turn on ventilating fans in the sound-attenuating chamber.\n  7. Allow the mice to acclimate to the testing room for 1 h or longer. Steps 3 and 4 above should be completed at this time.\n  8. Clean the sound-attenuating chamber with 70% alcohol.\n  9. Move all of the cagemates of the test mouse to a novel cage.\n  10. Place the home cage of the test mouse alone with the camera, and leave the mouse undisturbed for 15 min or longer.\n  CRITICAL\nThe investigators should remain outside the testing room to let the test mouse acclimate to the environment.\n11. Start video recording.\n  12. Place the paired novel mouse into the home cage, and record behavior for 10 min.\n  CRITICAL\nThe investigators should remain outside the testing room during the video recording to not disturb the behavior of the test mouse.\n13. Stop recording.\n  14. Return the mice to their cagemates, and remove the cage.",
+    "15. Repeat steps 8 to 14 if other test mice are to be examined.\n  \nMeasurement\n16. Download the recorded data.\n  17. Watch the videos and score active interaction, defined as sniffing, close following, and allo-grooming.\n  CRITICAL\nAggressive behaviors should not be included as dependent measures."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Chemical Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4982,
+  "origin_website": "Bio",
+  "title": "Dissection and Staining of Mouse Brain Ventricular Wall for the Analysis of Ependymal Cell Cilia Organization",
+  "procedures": [
+    "The general procedure described here is suitable for staining ependymal cells from lateral wall whole mounts of P1 to P21 mice. However, the last sub-dissection step of the tissue has to be performed before the staining for mice older than P5 and after the staining for mice younger than P5 to ensure an optimal result.After cervical dislocation of the mice, the brain is removed from the skull. Dissection of the brain at RT in 1x PBS to reveal the ventricular lateral wall (Figure 2) [a protocol including a video is provided in Mirzadeh et al. (2010)].Fixation of the whole mount by immersion in 500 μl fresh solution of 4% PFA-0.1% Triton X-100 12 min at room temperature (RT). Wash 3 times 10 min in 1x PBS-0.1% Triton X-100 (1 ml) at RT with agitation. Sub-dissection of the lateral wall by separating it from the underlying striatum [see  Mirzadeh et al. (2010) for a precise description of this step]. Performing this sub-dissection at this step of the protocol improves the staining for tissues older than P5. Incubation in blocking solution 1x PBS-3% BSA (1 ml) 1 h RT with agitation. Incubation with primary antibody diluted in 1x PBS-3% BSA (250-500 μl) over-night RT with agitation. Wash 3 times 1x PBS -0.1% Triton X-100 (1 ml) 10 min RT with agitation. Incubate with secondary antibody (1:800) and Hoechst (1:1,000) diluted in 1x PBS (For confocal observation of samples) OR with secondary antibody (1:800) diluted in 1x PBS only (for STED observation of samples) (800 μl) 1 h RT with agitation. Wash 3 times 1x PBS-0.1% Triton X-100 (1 ml) 10 min RT with agitation. For tissues younger than P5: sub-dissection of the LWWM by separating the lateral wall and the underlying striatum in 1x PBS [see Mirzadeh et al. (2010)].",
+    "Place the whole mount on the slide with ependymal face up. Add 7-8 drops of Mowiol (for confocal observation of samples) or of Prolong mounting medium (for STED observation of samples) directly on the whole mount. Place a coverslip on the sample.Keep slides at room temperature, protected from the light, for at least 24 h before imaging."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

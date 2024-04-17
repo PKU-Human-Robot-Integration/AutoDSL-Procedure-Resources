@@ -1,0 +1,16 @@
+{
+  "id": 5509,
+  "origin_website": "Bio",
+  "title": "Pathogenicity Assay of <em>Penicillium expansum</em> on Apple Fruits",
+  "procedures": [
+    "Fruit disinfectionThe seasonal apple fruits with uniform size and colour and without physical injuries are used as experimental materials.The fruits are surface disinfected for 2 min in a container with 2% sodium hypochlorite solution, rinsed three times with deionized water, and air dried in a clean bench.Two wounds (3 x 3 mm) are made face to face with a sterile nail on the equator of each apple prior to inoculation with pathogen (Figure 1A).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170427/20170427190126_4611.jpgFigure 1. Inoculation of apple fruits with P. expansum. A. Wounding of fruit with sterile nail; B. The storage condition of fruits after inoculation.Pathogen inoculum preparationFive-microliter spore suspension (5 x 106/ml in 16% glycerol, stored at -80 °C) of P. expansum is inoculated on PDA plate and cultured for 2 weeks at 25 °C in the dark. Conidia are harvested with 0.05% Tween 20 and filtered through four layers of sterile polyester filter cloth. Conidia are counted with a hemocytometer using an optical microscope and diluted to a concentration of 1 x 105 conidia/ml with 0.05% Tween 20.InoculationEach wound site of the apple fruits is inoculated with 5 μl spore suspension (the suspension is mixed by vortexer before inoculation) using a pipette. Sterile distilled water with 0.05% Tween 20 is used as the control.Six inoculated fruits are put into a plastic basket and sealed with plastic film, about 5 ml sterile water is sprayed on the inside of the plastic film with a hand held sprayer to maintain a high relative humidity (about 95%), and stored at 25 °C in the dark (Figure 1B).Disease scoringThe lesion diameters are measured on a daily basis after three days post-inoculation. Two diameter values of each lesion in two mutually perpendicular directions are recorded. The average of the two values is defined as the diameter of the lesion (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170427/20170427190523_1225.",
+    "jpgFigure 2. Pathogenicity analysis of infected apple fruits. A. Symptoms of infected apple fruits after inoculation for 4 days at 25 °C; B. Disease scoring of the decayed apple fruits."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

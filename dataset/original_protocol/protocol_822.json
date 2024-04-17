@@ -1,0 +1,23 @@
+{
+  "id": 876,
+  "origin_website": "Nature",
+  "title": "Quantitative mRNA Imaging in Whole Mount Drosophila Brains",
+  "procedures": [
+    "Day1\nDissection:\n• 3-5 days old flies are dissected in ice-cold Schneider’s Insect Medium.\n• Dissected tissues are fixed in 2% PFA at 25 ̊ C for 55 min.\n• Fixed tissues are washed with 0.5% PBT, 3x, 10 min each \nDehydration:\n• Dehydrate the fixed tissues with graded EtOH series: 30%, 50%, 70%, 100%, 100%, 100%, 10 min each.\n• Dehydrated tissues are stored at 4 ̊C with 100% EtOH overnight on a rocker.\nDay2\nPermeation:\n• Dehydrated tissues are rehydrated with graded EtOH series: 70%, 50%, 30%,  10 min each.\n• Rehydrated tissues are incubated at 4 ̊C 5% acetic acid for 5 min \\(do this in the cold room or on ice).\n• Wash tissues with 4 ̊C 1xPBS, 3x, 5 min each.\n• Fix tissues with 2% PFA at 25 ̊C for 55 min.\n• Wash tissue with 0.5% PBT, 3x, 10 min each.\nAutofluorescence quenching:\n• Prepare 1xPBS with 1% sodium borohydride at 4 ̊C \\(prepare fresh, use 4 ̊C 1xPBS to prepare the solution).\n• Incubate tissues in 1xPBS with 1% sodium borohydride for 30 min at 4 ̊C, change solution every 10 min \\(do this in the cold room or on ice).\n• Wash with 4 ̊C 1xPBS for 3x, 5 min each.\nPre-Hybridization:\n• Prepare fresh pre-hybr soln with formamide \n• Incubate tissues with pre-hybr soln at 50 ̊C for 2 hrs.\nHybridization:\n• Incubate FISH probes in 90 ̊C for 3 min, then snap cold the FISH probes on ice for 10 min.\n• Prepare ~48μL hybr soln for 1 reaction, which can stain 3-5 brains.   \n• Add 1-2 μL of 50-100ng/μL of FISH probes to the hybr soln \\(total reaction value is 50μL)\n• Incubate at 50 ̊ C for 10 hrs, then at 37 ̊ C for 10 hrs.",
+    "Day3\nWashing:\n• Warm up the pre-hybr soln to 37 ̊C.\n• Add 200μL 37 ̊C pre-hybr soln directly to the hybridization reaction, incubate for 10 min.\n• Wash with pre-hybr soln, 1x, 37 ̊C, 10 min. \n• Wash with pre-hybr soln, 1x, 25 ̊C, 10 min. \n• Wash with 30% formamide washing soln, 2x, 25 ̊C, 30 min each .\n• Wash with 2xSSC washing soln, 3x, at 25 ̊C, 10 min each \n• Wash with 1xPBS, 1x, at 25 ̊C, 10 min \n• Fix tissues at 2% PFA at 25 ̊C for 55 min.\n• Wash with 0.5% PBT, 3x, at 25 ̊C, 10 min each.\nClearing and mounting:\n• Mount tissues on glass coated with poly-L-lysine.\n• Dehydrate the tissues with graded EtOH series: 30%, 50%, 75%, 100%, 100%, 100%, 10 min each.\n• Clear tissues in xylene, 3x, 5 min each \\(perform this step in a fume hood)\n• For confocal imaging, mount tissues in DPX \\(Electron microscopy sciences).\n• For BB-SIM, hold tissues in xylene until imaging."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Developmental Biology",
+    "Nanoscience And Technology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

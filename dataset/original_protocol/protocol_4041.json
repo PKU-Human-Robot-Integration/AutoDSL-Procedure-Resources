@@ -1,0 +1,16 @@
+{
+  "id": 4245,
+  "origin_website": "Bio",
+  "title": "ImmunoFISH for Mice and Baboons Frozen Sections",
+  "procedures": [
+    "Frozen tissue placed in OCT without fixation.   When needed, slice to the desired thickness (8-10 micron), dry the slides few minutes (often the time to prepare the other slides) and freeze again at -80 °C.   The day of the staining, thaw the slides and fix for 20 min in 4% formaldehyde.   Wash slides with PBS for 3 x 5 min at RT.   Permeabilize slides with 0.5% Triton in PBS for 5 min at RT.   Wash 2x with PBS 5 min at RT.   Block in 5% Goat serum diluted in PBS + 1% BSA for 60 min.   Incubate at 4 °C: 53BP1 #NB 100-304 (rabbit from Novus) 1:100 in PBS, 2.5% goat serum, 1% BSA. Use 60-80 μl for each slide.    Wash once quickly and 3 x 10 min with PBS at RT.   Secondary: goat anti-rabbit (Alexa 488) (1/100) in PBS + 1% BSA for 60 min at RT.   Wash once quickly and 3 x 10 min with PBS RT.   Re-fix tissue with PFA 4% + Triton 0.1%, 10 min RT.   Incubate with glycine 10 mM in H2O, 30 min, RT.   Wash with 1x PBS, 3 times, 5 min.   Prepare the hybridization mixture and put 30-50 μl directly on the sample.   Put a glass slide carefully on the drop without making bubbles.   Put the slide directly on a metal thermoblock at 80 °C, 5 min.   Hybridize in a humidified chamber, 2 h, RT.   Remove glass from the slide.   Wash with Wash solution I, twice, 15 min.   Wash with Wash solution II, 3 times, 5 min.   Incubate with DAPI, 2 min, RT.   Wash briefly with 1x PBS.   Mount with mowiol.   Store the slides at 4 °C for short time storage (2 weeks) or at -20 °C. It is recommended to analyze the fluorescence as soon as possible to avoid fluorophore fading.  imgsrc:https://en-cdn.",
+    "bio-protocol.org/attached/image/20131214/20131214050019_4364.jpg Figure 1. A representative figure of ImmunoFISH stained mouse hippocampus tissue. DAPI is in blue, 53BP1is in green and telomeric PNA probe is in red."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

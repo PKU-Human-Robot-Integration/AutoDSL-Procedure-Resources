@@ -1,0 +1,16 @@
+{
+  "id": 481,
+  "origin_website": "Nature",
+  "title": "A one-step kinetics-based rapid sandwich ELISA procedure using leach-proof antibody immobilization for the highly-sensitive detection of human fetuin A",
+  "procedures": [
+    "**KOH pretreatment   TIMING ~ 12 min**\n1. Incubate the MTP well surface with 100 μL of 1% \\(w/v) KOH in DIW for 10 min at 37°C and wash five times with 300 μL DIW per well).  CRITICAL STEP KOH treatment should not be longer than 10 min as it may cause strong aberrations in the surface that may change the surface properties. **? TROUBLESHOOTING** \n  \n**Ab immobilization and BSA blocking   TIMING ~ 1 h 15 min**\n2. Mix EDC-activated anti-HFA capture Ab \\(8 µg mL<sup>-1</sup>) with 1% \\(v/v) APTES in a ratio of 1:1 \\(v/v). Incubate each of the desired wells of 96-well MTP with 100 μL of the freshly prepared anti-HFA capture Ab solution, with a final concentration of 4 µg mL<sup>-1</sup> in 0.5% APTES, for 30 min at 37°C. Wash five times with 300 μL of 0.1M PBS, pH 7.4. Washing can also be performed with an automatic plate washer.\n    \n3. Block the MTP wells by incubating with 300 μL of 1% \\(w/v) BSA for 30 min a 37°C and wash with 300 μL of 0.1M PBS, pH 7.4 five times. Washing can also be performed with an automatic plate washer. The blocking is essential to prevent non-specific binding to the unbound sites available on the MTP<sup>28</sup>.  **CRITICAL STEP** Use filtered BSA or filter the BSA solution prior to use to remove any microbial or other contaminants. **? TROUBLESHOOTING**\n  \n**Developed HFA IA    TIMING 40 min**\n4. Dispense sequentially 100 µL of biotinylated anti-HFA detection Ab \\(0.17 µg mL<sup>-1</sup>) pre-conjugated to SA-HRP and 100 µL of HFA \\(varying concentrations; 0.1-243 ng mL<sup>-1</sup>) to the Ab-bound and BSA-blocked MTP wells. Incubate for 15 min at 37°C.  **CRITICAL STEP** Prepare the HFA concentrations in BSA-preblocked sample vials to minimize the analyte loss due to non-specific surface binding <sup>28</sup>. **? TROUBLESHOOTING**",
+    "5. Wash the resulting sandwich immune complex-bound MTP with 300 µL of 0.1M PBS, pH 7.4 five times to remove the non-specifically substances and excess IA reagents. \n  \n6. Add 100 µL of the TMB-H<sub>2</sub>O<sub>2</sub> mixture to each MTP well and incubate at RT for 14 min to allow the enzymatic reaction to develop color. **? TROUBLESHOOTING**\n  \n7. Stop the enzymatic reaction by adding 50 µL of 2N H<sub>2</sub>SO<sub>4</sub> to each MTP well.\n  \n8. Record the absorbance at a primary wavelength of 450 nm taking 540 nm as the reference wavelength in a Tecan Infinite M200 Pro microplate reader.  **CRITICAL STEP** Determine the absorbance within 10 min of stopping the enzyme substrate reaction."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4794,
+  "origin_website": "Bio",
+  "title": "Detection of Poly (A) RNA in Mesophyll Cells of <EM>Nicotiana benthamiana</EM> Using in situ Hybridization",
+  "procedures": [
+    "Poly (A) RNA in situ hybridizationCut leaves of N. benthamiana into small pieces (e.g. 3 mm x 3 mm) by knife and put ~10 leaf pieces/sample in 3 ml vial container. Note that the center of larger pieces won’t be stained with AF488 probe.Add 1 ml Fixation solution A in the vial container and shake (Approx. 80 rpm) for 30 min at room temperature (RT). Leaf pieces will float on the surface of the solution at the start, but will sink later (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150904/20150904223445_5706.jpg  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150904/20150904223534_6639.jpgFigure 1. Leaf discs of N. benthamiana in Fixation solution A before (left) and after (right) shaking for 30 min (step A2)Remove Fixation solution A by pipeting.Add 1 ml methanol. Shake (80 rpm) for 5 min at RT and remove methanol (twice). Note that the inner side of the vial should be washed well with methanol.Add 1 ml ethanol, shake (80 rpm) for 5 min at RT and remove ethanol (three times).Add 1 ml ethanol/xylene (1:1). Shake (80 rpm) for 30 min at RT and remove the solution. Note that leaf tissues will become white during steps A4-6.Add 1 ml 100% ethanol. Shake (80 rpm) for 5 min at RT and remove ethanol (twice).Add 1 ml 100% methanol. Shake (80 rpm) for 5 min at RT and remove ethanol (twice).Add methanol/Fixation solution B (1:1). Shake (80 rpm) for 5 min at RT and remove the solution.Add 1 ml Fixation solution A and shake (80 rpm) for 30 min at RT.Remove Fixation solution A.Add 1 ml Fixation solution B. Shake (80 rpm) for 5 min at RT and remove the solution (twice).Add 1 ml PerfectHyb Plus, and shake (80 rpm) for 5 min at RT. Remove the solution and add 1 ml of fresh PerfectHyb Plus.",
+    "Shake (80 rpm) at 50 °C in hybridization oven (incubator with rotary shaker can be used) for more than 1 h.Add 1 µl of 10 µM Alexa Fluor-488-labeled oligo d(T). Shake (80 rpm) at 50 °C overnight. It is preferred to perform fluorescent microscopy immediately after the preparation of samples, but the samples can be kept at least for a couple of days at RT, shaded.Microscopic observationMount the sample in PerfectHyb Plus on slide glass with cover slip.Observe the localization of mRNA with confocal laser-scanning microscopy. Use appropriate setting for the detection of Alexa Fluor-488 (excitation peak 490 nm, emission peak 525 nm). We generally use 488-nm excitation source, and Alexa Fluor-488 fluorescence is recorded between 500 and 600 nm.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150904/20150904223638_4992.jpgFigure 2. Distribution of Poly (A) RNA in mesophyll cells of control (TRV-infected) or NbNup75-silenced Nicotiana benthamiana. In NbNup75-silenced plant, abnormal accumulation of mRNA in nuclei is observed as a result of impaired export of mRNA. Bars=30 µm. (Ohtsu et al. 2014)"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

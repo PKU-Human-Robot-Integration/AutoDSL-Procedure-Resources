@@ -1,0 +1,17 @@
+{
+  "id": 8149,
+  "origin_website": "Bio",
+  "title": "Subcellular Fractionation of Mouse Brain Homogenates",
+  "procedures": [
+    "Mouse is sacrificed by cervical dislocation; Restrain the mouse on a hard, flat surface. Hold a strong stick or metal rod firmly against the base of the skull, and the tail firmly with the other hand. Pull the mouse body away from the head in one single quick motion. Verify the dislocation by feeling for a separation between cervical vertebras.Cut the head off the mouse, and open the skin of the head with a pair of scissor. Open the skull of the mouse using a pair of scissor, and gently lift out the exposed brain using a brain scooper and transfer to ice-cold PBS.Brains are quickly rinsed in ice-cold PBS.Brains are put in 10 ml solution A containing proteinase inhibitors and continue to point 9 when all brains have been isolated.Repeat steps 1-7 for the remaining mice.The brains are homogenized using a Thomas® Teflon Pestle. Transfer the homogenized brain tissue to a 15 ml Falcon tube.Centrifuge at 1,000 x g for 10 min at 4 °C.Transfer the supernatant (there are typically several layers of supernatant – take them all) to a new 15 ml Falcon tube.Centrifuge at 3,000 x g for 10 min at 4 °C.Transfer the supernatant to an ultracentrifugation tube. Centrifuge at 13,000 rpm for 10 min using an ultracentrifuge with a T70.1 Ti rotor. Transfer the supernatant to a new ultracentrifugation tube and centrifuge at 50,000 rpm for 45 min at 4 °C (using the same rotor (T70.1 Ti rotor) as previous step). Note: During this centrifugation step, one can prepare the sucrose gradient.Discard the supernatant.Dissolve pellet in 600 μl solution A containing proteinase inhibitors. Use a 1 ml syringe with an 18 G needle first, thereafter a 27 G needle to dissolve pellet.",
+    "Carefully layer 500 μl of the homogenate (= dissolved pellet) on top of a continuous 0.8 to 1.6 M sucrose gradient and centrifuge at 25,000 rpm for 18 h/overnight, using a SW41 Ti swing bucket rotor.Notes for preparation of the gradient:The gradient is made with a Gradient Master 107 ip.Insert a tube in the marker block and mark a line on the tube at the half-full mark for short, 4 mm cap.Add 5.5 ml 0.8 M sucrose solution to the tube. Add 1.6 M sucrose beneath the 0.8 M sucrose solution using a cannula (a cannula is received together with the Gradient Master) and a 10 ml syringe until the bottom of the 0.8 M sucrose solution reaches the recently marked line. Adjust the level of the Gradient Master before use, to ensure that the plate is in level.Prepare the 10-57% linear gradient, by choosing “SW41” in the ”gradient menu” list of BioComp Gradient Master. This program will mix the gradient at 50 degrees for 10 min, followed by 1 min at 80 degrees. Next day the gradient is fractionated into 24 samples (500 μl/sample), using a 1 ml pipette. Alternatively, one can use a Piston Gradient Fractionator to collect the fractions. Store the fractions at -20 °C until Western blot analysis."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8080,
+  "origin_website": "Bio",
+  "title": "Immunoprecipitation for Cell Culture",
+  "procedures": [
+    "Coupling antibody to Protein A beads   Wash 30 μl beads with 20 fold volume (20 vol) PBS or PBST twice. Notes:   For washing beads, we usually add buffer to the beads, mix in the tube several times, spin down the beads, and remove the supernatant.   Spin down the beads at 4,000 rpm, 30 sec.   We usually couple 1 μg antibody with 3 μl beads. If beads are stored in 1: 1 storing buffer, thus take 6 μl of the suspension of beads and buffer.     Dilute 10 μg antibody in 100 μl PBS.   Add diluted antibody to beads, rotate on the Hematology/chemistry mixer equipment for 1 h at room temperature (RT).   Spin down beads, wash and resuspend in 20 vol 0.2 M sodium borate (pH 9.0).   Add 20 mM DMP to crosslink the antibody to the beads. Note: We usually take dry DMP powder directly (DMP powder is stored at 4 °C) and add 5.2 mg DMP per 1 ml total sodium borate suspension.   Incubate DMP in the sodium borate for 30 min, rotate, RT.   Spin down the bead and wash once with 20 vol 1 M Tris-HCl (pH 7.7).   Spin down the bead and resuspend in 20 vol 1 M Tris-HCl (pH 7.7). Incubate for 2 h, rotate, RT, to quench the activity of DMP.   Spin down beads and wash with PBS twice.   Spin down the beads and store antibody coupled beads in 60 μl PBS (33% beads), add 0.05% NaN3. Store the beads at 4 °C for a couple of months.      Lysis of cells   Lyse the cells in 7 vol lysis buffer.   Put the lysis solution on ice for 30 min to 1 h.   Centrifuge the lysis solution at 13,000 rpm for 10 min, 4 °C.   Transfer supernatants. The supernatants can be stores at -80 °C for future use.",
+    "Coimmunoprecipitation   Incubate 3 μl antibody coupled beads in 250 μl cell lysis supernatants, rotate overnight at 4 °C.   Wash beads 4 times with 20 vol lysis buffer containing 500 mM KCl and 0.5 % NP-40, and wash once with lysis buffer. Note: For wash beads, we usually add buffer to the beads, mix the tube several times, spin down the beads, and remove the supernatant.   Elute protein with 1x SDS protein gel sample loading buffer, separated by SDS-PAGE (5-15%) and analyze by western blot."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

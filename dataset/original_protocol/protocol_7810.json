@@ -1,0 +1,16 @@
+{
+  "id": 8218,
+  "origin_website": "Bio",
+  "title": "Illumina Sequencing Library Construction from ChIP DNA",
+  "procedures": [
+    "Purification from ethanol precipitated ChIP DNA. Use QIAquick PCR purification kit, and elute in 50 μl elution buffer. Use 34 μl for library construction and the rest for qPCR verification.   Input DNA needs to be diluted before making library. After purification, measure the concentration of input DNA by Nanodrop. If it reads 20 ng/μl, dilute 5 fold, if close to 40 ng/μl dilute 10 fold.   End-repair:  Mix the following components in a 1.5 ml Eppendorf tube: 34 μl purified ChIP DNA (or add Gibco water up to 34 μl) 5 μl 10x end repair buffer 5 μl 2.5 mM dNTP mix 5 μl 10 mM ATP 1 μl end-repair enzyme mix 50 μl total Incubate for 45 min at room temperature (RT). Purify using QIAquick PCR purification column, elute in 34 μl.   Addition of ‘A’ base to the 3’ ends: Mixing the following components in a 1.5 ml Eppendorf tube: 34 μl ChIP DNA from step 3 5 μl Klenow buffer = NEB buffer 2 10 μl 1 mM dATP 1 μl Klenow fragment (3’-5’ exo minus) 50 μl total reaction volume (1 mM dATP is diluted from 100 mM dATP stock and aliquoted in 25 μl, freeze-thaw only once) Incubate 30 min at 37 °C. Purify using MinElute PCR purification column, elute in 12 μl.   Adaptor ligation: Mix the following components in a 1.5 ml Eppendorf tube: 11 μl ChIP DNA from step 4 15 μl DNA ligase buffer 1 μl 1:20 diluted adaptor oligo 3 μl DNA ligase 30 μl total (If doing multiplexing, make sure to add in each reaction with different adaptor, and label clearly.) Incubate 15 min at RT.",
+    "Gel selection to get rid of excessive adaptors: Dilute cyan/orange loading buffer 10 fold, add 6 μl to the 30 μl reactions from step 5, load in two wells of an E-gel. Also load 20 μl 10-fold diluted 50 bp ladder. Run E-gel for 20 min. Cut between 150 and 450 bp. Purify the DNA using QIAquick gel extraction kit, elute in 30 μl buffer.   PCR with Illumina primers: 1:1 dilute Illumina PCR primers 1.1 and 2.1 with Gibco water.  Mixing the following components in PCR stripe tubes: 30 μl ChIP DNA from step 4 28 μl Phusion PCR mastermix 1 μl diluted primer 1.1 1 μl diluted primer 2.1 60 μl total reaction volume Run PCR cycle: 98 °C 30 sec 98 °C 10 sec 65 °C 30 sec 72 °C 30 sec GOTO step 2 for 15 times 72 °C 5 min 4 °C hold.   Size selection on 2% agarose gel: Add 1 μl undiluted cyan/orange loading dye to the PCR reaction, load all in 3 wells on E-gel, run for 30 min alongside with 20 μl 1:10 diluted 50 bp ladder and 20 μl 1:10 diluted 100 bp ladder. Cut between 150 and 450 bp. Take pictures before and after the slice is excised. Make sure to avoid the ~100 bp adaptor band. A good library should have a smear centering at ~200 bp. Strong band at ~100 bp indicates over amplification of adaptors and the library may not be good enough quality. Purify the DNA using QIAquick gel extraction kit and elute in 30 μl buffer.   Measure DNA concentration: Use NanoDrop to measure the DNA concentration. A good library should be relatively concentrated (e.g., > 10 ng/μl)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Systems Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

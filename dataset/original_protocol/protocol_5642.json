@@ -1,0 +1,15 @@
+{
+  "id": 5984,
+  "origin_website": "Bio",
+  "title": "Promoter Orientation of Prokaryotic Phase-variable Genes by PCR",
+  "procedures": [
+    "Start 5 ml overnight culture of E. coli isolate UTI89 (Note 1) in LB at 37 °C with aeration. Culture can be started from a colony on an agar plate or from a -80 °C glycerol stock.Setting up the phase-PCR reactionPhase PCR was performed using a 1:1:1 mixture of 3 phase primers including 1) an anchor primer outside of the invertible region (primer 1); 2) a phase-specific primer for the OFF orientation (primer 2); and 3) a phase-specific primer for the ON orientation (primer 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140924/20140924213500_2097.jpgReaction mixture (Note 2)1 μl overnight bacterial culture (template)2.5 μl of 10x APEX NH4 buffer (1x final concentration)0.5 μl of 1 unit/μl APEX Taq polymerase (0.5 unit final concentration)1.25 μl of 50 mM MgCl2 (2.5 mM final concentration)0.1 μl of 100 μM stock of each of 3 primers (0.4 μM final concentration of each primer)0.5 μl of 10 mM dNTP mix (0.2 mM final concentration)up to 25 μl total volume with sterile diH2O.Thermal cycler program:imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140924/20140924213528_2118.jpgMake 50 ml volume of 2% agarose in 1x TBE (see below). Pour gel into casting apparatus.Cover gel completely with 1x TBE (running buffer).Mix 5-10 μl of PCR reaction with 0.5-1.0 μl 10x DNA loading dye (approx. 1x final concentration). Load into wells and run samples at 100-120 V for 45 min to 1 h.Visualize and photograph using a UV gel transilluminator.Mixed phase populations show two bands by PCR, corresponding to the OFF and ON promoter orientations. The OFF orientation gives a 196 bp amplicon vs. a 231 bp amplicon for the ON orientation."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

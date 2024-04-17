@@ -1,0 +1,16 @@
+{
+  "id": 4616,
+  "origin_website": "Bio",
+  "title": "Isolation of Lung Infiltrating Cell in Mice ",
+  "procedures": [
+    "The lungs are harvested after animal euthanasia. Sterilize the skin of the mice with 70% ethanol and cut the skin and ribs using scissors to expose the thoracic cavity.    Remove the left lung lobes.   Wash the lungs with sterile 1x PBS and placed in Petri dishes with RPMI 1640 medium* (2 ml).   Mince organ with forceps and scissors to 1mm sized chunks.   Once the lung dissected, incubate the tissue with 2 ml of 2x digestion medium* (final concentration: 0.5 mg/ml) or liberase (final concentration 2 μg/ml) and Type IV DNase I (final concentration: 25 units/ml) at 37 °C under agitation (200 rpm) conditions for 45 min. *Note: If use the whole lung, it is recommended mince organs in 3 ml of RPMI 1640 medium and then add 3 ml of 2x digestion medium.    Stop the reaction adding 1 ml of FBS heat inactivated.   Disperse the cells with a 10-ml syringe fitted with an 18-gauge needle (10-times).   Filter the cells using cell strainer (100 μm) using 50 ml conical tube to remove tissue debris. Transfer the homogenate from 50 ml to 15 ml conical tube prior centrifugation.   Centrifuge the cells at 10 °C and 300 x g for 5 min.   Remove the supernatant by aspirating.   Add 1 ml of Red cells lysing buffer and incubate at room temperature for 1 min.   Stop the reaction adding 10 ml of 1x PBS with 10% FBS heat inactivated.   Centrifuge the cells at 10 °C and 300 x g for 5 min.   Discard the supernatant and resuspend the pellet in RPMI supplemented with 10% FBS and gentamicin (10 μg/ml). Cells have to be maintained in the fridge prior to flow cytometry processing or ex vivo pulmonary cell cultures."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "origin_website": "Nature",
+  "title": "Plasma Collection Procedure \\(Small Scale) for the analysis of extracellular RNA",
+  "procedures": [
+    "1. Sample should be processed, aliquoted and placed into the freezer within 2 hours of collection.  \n  2. Collect 10 ml whole blood by peripheral venipuncture using a 21 gauge butterfly needle into a K2EDTA vacutainer tube. \n  3.  Invert tube gently 8-10 times. \n  4. Centrifuge tubes at 500 xg for 10 minutes at room temperature<sup>1</sup>.\n  5. Transfer the plasma to a fresh 15 ml centrifuge tube.  Avoid the buffy coat \\(the white blood cell layer that lies between the plasma at the top and the red blood cells at the bottom).\n  6.   Centrifuge tubes at 2000 xg for 10 minutes at room temperature.\n  7.   Using a fresh pipet, transfer the top 80% of the plasma, avoiding the pellet at the bottom of the tube, to a fresh 15 ml tube<sup>2</sup>.\n  8.  Transfer 1 ml of plasma into each screw-cap microcentrifuge tube. \n  9. Place the 1 ml aliquots into a -80°C freezer for storage."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

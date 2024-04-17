@@ -1,0 +1,17 @@
+{
+  "id": 6567,
+  "origin_website": "Bio",
+  "title": "Fibroblast Gap-closure Assay-Microscopy-based <em>in vitro</em> Assay Measuring  the Migration of Murine Fibroblasts",
+  "procedures": [
+    "Establish healthy culture of 3T3 cells in a fully supplemented media (10% serum) according to instructions from ATCC.On the day of the experiment, trypsinize the cells, count and re-suspend in a pre-warmed serum-free media (100 μl per well). Add approximately 5 x 104 cells per well (100% confluent) to a migration assay plate; this step may need optimization depending on cell size and doubling time. Plan to have 3 wells per condition. Let the cells to adhere for 3 h. Note that the plaque in the center of the well dissolves within 30 min; therefore, it is suitable only for rapidly adherent cells. For example, we found that freshly sorted primary mouse lung fibroblasts needed a longer time to adhere, and we failed to obtain consistent results from primary cells.Using the light microscope (phase contrast for unlabeled cells), verify the cell attachment and the presence of a circular cell-free zone in each well. Exclude the wells that have an excessive amount of cells in a cell-free zone or have uneven distribution of cells in cell growth area (approximately 5% of wells). Take the 0 h timepoint picture of each well, remembering to number or name the wells and images. We recommend using a microscope with a built-in incubator chamber to avoid additional stress to the cells.Add 100 μl of pre-warmed media with antibodies/drug or conditioned media. Make sure that all of the wells have the same serum conditions. For example, our conditioned media from mouse macrophages contained 10% serum; we therefore used 10% serum media for blocking antibody and all control wells.Acquire images at 24 h and, if needed, at later timepoints for each well.",
+    "We found that at 48 h the gaps in majority of wells were completely closed and the most significant difference of the gap closure occurred during the first 24 h. It is possible that shorter timepoints might be necessary for other cell types, or when using conditions with potent mitogens."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

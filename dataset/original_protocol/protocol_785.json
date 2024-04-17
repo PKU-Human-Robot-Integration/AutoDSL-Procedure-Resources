@@ -1,0 +1,17 @@
+{
+  "id": 831,
+  "origin_website": "Nature",
+  "title": "mRNA expression analysis by real-time PCR",
+  "procedures": [
+    "1.Extract total RNA from at least 2 x 10<sup>6</sup> cells using TRIZOL reagent \\(Ambion) and the appropriate RNeasy RNA extraction kit \\(Qiagen).\n2.Reverse-transcribe 60 ng of total RNA with a High-capacity cDNA Reverse Transcription kit \\(Applied Biosystems) in a reaction volume of 200 microl.\n3.Prepare a reaction mix \\(25 &#x3BC;l) according to the following recipe:\n2X Sybr Green PCR Master Mix - 12,5 microl\n1 &#x3BC;M primer mix - 2,5 microl\ncDNA \\(5 ng/microl) - 2 microl\nwater - 8 microl\n4.Perform Real-Time PCR on 10 ng of cDNA using a Power Sybr Green PCR Master MIX \\(Applied Biosystems).\n5.Start the amplification procedure according to the following standard 7500 run protocol: 50&#xB0;C \\(2min) - 95&#xB0;C \\(10min) - 95&#xB0;C \\(15sec), 60&#xB0;C \\(1min), 40 cycles - 95&#xB0;C \\(15sec), 60&#xB0;C.\n6.Perform a dissociation assay to evaluate any problem related to primer unspecific annealing or secondary structure formation.\n7.Analyze data with built-in SDS Analysis Software."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

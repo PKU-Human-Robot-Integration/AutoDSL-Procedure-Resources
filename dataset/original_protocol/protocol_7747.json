@@ -1,0 +1,15 @@
+{
+  "id": 8150,
+  "origin_website": "Bio",
+  "title": "Extravillous Trophoblast Migration and Invasion Assay",
+  "procedures": [
+    "DAY 1For Invasion Assay, pre-Coat Fluoroblok Filter (8 μm porous membrane)Prechill Fluoroblok inserts, companion plates and pipet tips to help maintain Matrigel in the liquid state.Place desired number of prechilled inserts into a 24-well companion plate.Add 50 μl of 1:10 Matrigel (diluted in HamF10) to each transwell insert. Incubate at 37 °C, 3 h.Serum starve cultures (70-75% confluent) for 24 h in 0.5% FBS/HamF10Aspirate media.Wash with 7 ml warm DPBS (without Ca2+ and Mg2+).Add 12 ml warm 0.5% FBS/HamF10.Incubate cells for 24 h at 37 °C.DAY 2Prepare cells (Upper Chamber)Rinse cells once with 10 ml DPBS (without Ca2+ and Mg2+); add 3 ml TrypLE Express and incubate at 37 °C for 3-5 min; add 7 ml 0.5% FBS/HamF10 →10 ml total.Count cells using a hemacytometer. In a 50 ml conical tube, centrifuge cells at 300 x g for 10 min.Remove supernatant and resuspend cells in 0% FBS/HamF10 to obtain a cell suspension concentration of 1.2 x 106 cells/ml (or 1,250 cells/μl).Cap tube and store at room temperature till ready to load in chamber.Prepare the chemoattractant (Treatments in Bottom Chamber)Dilute desired chemoattractant in 0% FBS/HamF10. You will need 800 μl per well. Prepare 10 ng/ml EGF as positive control.Add 800 μl of chemoattractant to the bottom of each well. Avoid bubbles.Assemble invasion chamberUsing a forceps, carefully remove insert from empty well.Add 200 μl of cells (2.5 x 105 for Invasion Assay or 5 x 104 for Migration Assay) to Matrigel-coated (for Invasion Assay) or uncoated insert (for Migration Assay). Lower the insert at an angle into the well containing the chemotactic substance. Check for bubbles by looking under the plate. If there are bubbles, remove insert and try again.Incubate at 37 °C for 12 h for Cell Migration Assay or 20-22 h for Cell Invasion Assay.",
+    "DAY 3After invasion period, label invaded cells (on lower side of filter) with Calcein AM. For each well, add 2 μl of Calcein AM to 500 μl of HBSS.Carefully aspirate the media from the insert, without disturbing the Matrigel layer.Transfer the insert to a fresh well containing Calcein AM/HBSS solution.Incubate at 37 °C for 1 h in the dark. Read plate on fluorescent plate reader at 520 nm or take pictures using an epifluorescent microscope."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

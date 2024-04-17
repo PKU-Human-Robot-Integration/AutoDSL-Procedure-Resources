@@ -1,0 +1,15 @@
+{
+  "id": 372,
+  "origin_website": "Nature",
+  "title": "Desktop scanner replaces spectrophotometer for  low cost and  rapid  ELISA technique",
+  "procedures": [
+    "1. Preparation of PPµTP\n  PPµTP was made from locally purchased white polypropylene sheet. The sheet was cut into a strip having dimension of 9 cm in length and 3 cm in width. On the strip, array of test zones \\(small cavities) were made by mildly hammering or pressing with a blunt end metal rod. Each cavity was separated by 0.5 cm. Cavity of the PPµTP had an average diameter of 3.5 mm and a depth of around 1 mm. All the dimensions were measured by an electronic caliper. \n2. Activation of PPµTP \n  \nThe wells of a PPµTP were activated by pouring FNAB \\(0.0625 mg/2.5µl of methanol/cavity)  solution to each well followed by slow evaporation of the solvent. The dry coated plate was activated by UV light for 20  min at a wavelength of 365 nm as described \\(1).    \nCRITICAL   Fast evaporation may remove  FNAB from the bottom of the cavity to the top. In such case activation may not occur at the bottom.\n3. Detection of analyte\n  Analyte \\( human IgG, human IgE) was detected by immobilizing a capture molecule \\(anti-human IgG, anti-human IgE,) onto the activated and untreated cavities of PPµTP, blocking, binding  of analyte  and binding  of secondary antibody-conjugate by ultrasound waves in a sonicator bath operating at a frequency of 40 KHz and  an output power of 120 W. The plates were washed after each step. Color development was carried out by adding 8µl of substrate- dye buffer and then stopped by adding 2µl of 5% sulphuric acid. \n4. Image- based quantification",
+    "The PPµTP was then scanned on a desktop scanner \\(HP photo smart C6388) by placing the plate upside down to get the image. From Adobe Photoshop the mean value of each R, G and B of the scanned image was obtained which was then converted to HSB \\(Hue, Saturation, and Brightness) using freely available ‘Macbeth color calculator’ software. Image was then quantified as color saturation percentage."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 321,
+  "origin_website": "Nature",
+  "title": "Immunohistochemical detection of preproenkephalin in the mouse brain",
+  "procedures": [
+    "1. Anesthetize the mouse by intraperitoneal injection of sodium pentobarbital according to manufacturer guideline.\n  2. Immobilize the fully anesthetized animal on an appropriate surface surrounded by a plastic container for recovery of any biological fluid.\n  3. Cut open the chest and secure the tissue in order to obtain visibility of the hart.\n  4. Insert a 20-gauge needle hooked up to a perfusion pump into the left ventricle.\n  5. Perform a small incision into the left atrium and perfuse the animal at 3ml/min for 3 minutes with TBS.\n  6. Switch the perfusion to CS at 3ml/min for additional 3 minutes.\n  7. Remove the brain from the skull and postfix it in CS for 1h at RT.\n  8. Wash the tissue twice with TBS to remove residual CS and place it in CPB until it sinks to the bottom of the tube.\n  9. Wash the brain twice with TBS to remove excess sucrose\n  10. Embed the brain in OCT and snap-freeze it using liquid nitrogen. Store blocks \n  at -80ºC until use.\n11. Prepare cryosections of 30-to-40 µm thickness in the appropriate orientation using a cryostat. Place free-floating sections in 24 well plates with 300µl TBS maintaining the sequential order.\n  12. Wash the sections twice with 300µl TBS for 10min.\n  13. Incubate for 30min at RT with QS.\n  14. Wash three times with 300 µl WS.\n  15. Incubate for 1h at RT with BB.\n  16. Remove BB and incubate tissues with 200µl AIB with 1:200 dilution of anti-preproenkephalin antibody and incubate overnight at 4ºC with gentle rocking.\n  17. Wash tissues three times as above.\n  18. Incubate with Alexa488-cognugated secondary antibody 1:1000 dilutions in AIB for 3h at RT with gentle rocking.\n  19. Wash three times as above\n  20. Counterstain the tissue with 100ng/ml DAPI for 10 minutes at RT",
+    "21. Wash once as above\n  22. Place sections on a gelatin-coated slide using a fine brush\n  23. As soon as the sections appear dry mount the slides using Vectashield Mounting Medium and cover with a coverslip glass\n  24. Seal the edges of the coverslip with nail polish to reduce oxidation of the mounting medium\n  25. Let the slides dry at RT for 30 minutes and then proceed with the analysis."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

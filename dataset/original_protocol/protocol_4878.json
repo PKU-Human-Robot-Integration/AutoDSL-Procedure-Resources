@@ -1,0 +1,14 @@
+{
+  "id": 5190,
+  "origin_website": "Bio",
+  "title": "Sucrose Preference Test to Measure Anhedonic Behaviour in Mice",
+  "procedures": [
+    "Prior to beginning testing, mice are habituated to the presence of two drinking bottles for at least 3 days in their home cage.In order to detect possible side preference in the drinking behaviour, the water intake is measured daily in both bottles.After the acclimatization the mice are separated single per cage and presented to two drinking bottles: one containing 1% sucrose and the other water for 3 days in their home cage. Water and sucrose solution intake is measured daily by weighing the bottles.The positions of two bottles is switched daily to reduce any confound produced by a side bias. Sucrose preference is calculated as a percentage of the volume of sucrose intake over the total volume of fluid intake and averaged over the 3 days of testing.Sucrose preference = V(sucrose solution)/[V(sucrose solution)+V(water)] x 100%"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

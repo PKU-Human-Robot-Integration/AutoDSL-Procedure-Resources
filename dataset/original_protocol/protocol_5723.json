@@ -1,0 +1,15 @@
+{
+  "id": 6068,
+  "origin_website": "Bio",
+  "title": "Protein Translation Study – Label Protein with S35 Methionine in Cells ",
+  "procedures": [
+    "Metabolic labeling   Wash 1 x 107 cells/sample in 30 ml methionine-free medium (DMEM) supplemented with 10% fetal bovine serum and penicillin/streptomycin/glutamine for 3 times.   Harvest cells for 60 min in 10 ml methionine-free medium in T25 flask.   Resuspend cells in 10 ml medium containing 250 uCi/sample [35S]-methionine for 30 min.   Wash cells twice in 10 ml PBS and centrifuge them at 1,200 rpm for 10 min.   Lyse the cells with 500 μl of lysis buffer for 30 min by vortexing 15 sec every 5 min at 4 °C.   Centrifuge at 10,000 x g for 30 sec to pellet the DNA at 4 °C.   Determine the protein levels in the supernatant by DC Protein assay kit I.   Take same amount of protein extracts (about 1 mg) for immunoprecipitation after protein quantification.      Immunoprecipitation   Incubate equal amount of lysates onvernight at 4 °C by rotation with 3 μg antibody against protein of interest (here 30 μl of anti-MDM2 antibody) in eppendorf tubes.   Spin down the lysates (in order to collect all the drops in the cap after rotation).   Add 30 μl of Protein A/G PLUS-Agarose slurry volume by pipetting with tips (edge already cut off) (see Recipes 3) and incubate 2 h on a rocker at 4 °C.   Wash immunoprecipitates (beads) with 500 μl HNTG buffer for 4 times by centrifuging beads at 10, 000 x g for 30 sec at 4 °C.   At the end aspirate HNTG buffer with Hamilton syringe.   Add 30 μl of Laemmli buffer 2x on beads.   Boil the sample for 5 min.      Resolving protein of interest on SDS-polyacrylamide gel electrophoresis and autoradiography   Resolve the protein on SDS-polyacrylamide gel electrophoresis under denaturing conditions.   Transfer it onto nitrocellulose membrane and newly synthesized [35S]methionine-protein will be visualized after exposure to X-AR films.",
+    "Verify the immunoprecipitation loading by incubating overnight with appropriate primary and secondary antibodies (see Western-blot protocol).   Detect the protein with a chemoluminecent HRP substrate detection kit."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

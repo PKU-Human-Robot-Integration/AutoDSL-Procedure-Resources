@@ -1,0 +1,16 @@
+{
+  "id": 1420,
+  "origin_website": "Nature",
+  "title": "<p>Immunohistochemistry for phospho-myosin light chain 2 in adult murine skin</p>",
+  "procedures": [
+    "<p><u>Deparaffinization</u></p><p>Deparaffinize the tissue sections from adult murine skin by submerging the sections in the following alcohol row: xylol for 5 minutes, fresh xylol in a separate container for 5 minutes, isopropanol for 5 minutes, 96% ethanol for 5 minutes, 75% ethanol for 5minutes, 50% ethanol for 5 minutes, and H<sub>2</sub>O for 5 minutes.</p><p><br></p><p><u>Antigen retrieval</u></p><p>Retrieve the epitopes by boiling the sections in Dako Antigen Retrieval Agent pH9 (Dako) for 20 minutes inside a boiling cuvette in a pressure cooker.</p><p>Allow slides to cool down within the retrieval solution for 1h at room temperature and then wash twice with PBS<sup>++</sup>. </p><p><br></p><p><u>Blocking</u></p><p>Delimit the tissue sections with a fat pen (Dako pen).</p><p>Block unspecific binding sites with 5% BSA in PBS<sup>++</sup> for 1h at room temperature in a humidified chamber. Ensure that the blocking solution covers the entire tissue section.</p><p><br></p><p><u>Primary Antibodies</u></p><p>Incubate tissue sections with primary antibodies diluted in antibody buffer overnight at 4°C in a humidified chamber. Verify that the antibody solution covers the entire tissue section. Use pMLC2 Ser19 (CST #3675) at 1:200 dilution and ppMLC2 Thr18/ Ser19 (CST #3674) at 1:100 dilution.</p><p><br></p><p><u>Secondary Antibodies</u></p><p>Wash the tissue sections 2x with PBS<sup>++</sup> for 5 minutes each.</p><p>Incubate tissue sections with secondary antibodies and DAPI (2µg/ml) for 1h at room temperature in a humidified chamber in the dark.</p><p><br></p><p><u>Mounting</u></p><p>Wash the tissue sections 2x with PBS<sup>++</sup> for 5 minutes each.</p><p>Briefly wash the tissue sections 1x with H<sub>2</sub>O.</p><p>Mount tissue sections in Mowiol. Ensure that the Mowiol solution covers the entire tissue section. Remove any air bubbles. </p><p>Cover with coverslip.</p><p>Let the Mowiol solidify for 24 hours (store dry in the dark at room temperature).</p><p>Seal slides with quick-dry nail polish.</p><p>Store samples in the cold and dark until further analysis.</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

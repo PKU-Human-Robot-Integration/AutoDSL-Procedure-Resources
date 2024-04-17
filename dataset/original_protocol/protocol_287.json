@@ -1,0 +1,26 @@
+{
+  "id": 303,
+  "origin_website": "Nature",
+  "title": "Multidisciplinary examination of putrefaction fluid deposits \\(PFD) for forensic and anthropological purposes",
+  "procedures": [
+    "Sampling: at least 1-cm- long fragment of PFD is sampled directly into the skull, ideally during anthropological or archeological survey.\nCleaning/decontamination: each sample is then cleaned by a fine scraping with non-contaminating plastic instruments and a delicate vaporization of pressured air on all the faces during 10 min. No gold covering is realized in order to be able to perform elemental analysis on the surface.\nEnvironmental SEM examination of each sample is directly performed on a Philips XL30 CP with X-ray microanalysis \\(energy-dispersive X-ray spectros- copy). The resolution of the microscope is 3.5 nm at 30 kV using the secondary electron detector. All images are stored using a standard resolution digital frame store.\nOptical microscope sample preparation is as follows:\n- The first step consists in a very fine fragmentation of the sample. This is justified by the fact that the PFD has no architecture of it own and that this fragmentation does not consist in a loss of information \\(since we worked in a microscopic scale). In addition, this reduction allows for a better penetration of the fixative substances.\n- In order to rehydrate and fix the samples, they are immersed in 20% diluted acetic acid for 48 h, in order to slowly decalcify the fragments of PFD.\n- A solution is obtained using the following two phases: a liquid phase made of the PFD in suspension and a solid-phase slope. These two phases are studied separately.",
+    "- The cytological analysis of the PFD in suspension began with the sampling of 200 μL from the supernatant. This liquid is then centrifuged \\(800 turns per minute for 10 min) in order to obtain two spots per slide. Four slides are produced by sample: two slides are colored by the technique of Papanicolaou after a fixing of the spots with a lacquer; the two other slides are colored by the technique of the May–Grünwald–Giemsa \\(MGG) after fixing of the spots to the air.\n- The study of the remaining solid phase \\(base of centrifugation) is carried out after a new centrifugation \\(3,500 turns per minute for 10 min). The supernatant is kept in reserve \\(for a later possible cytological study) while the base is recuperated, then fixed 24 h in the AFA \\(acetic acid, formaldehyde, alcohol). As soon after fixation and decalcification, the sample is put in cassette on a foam, followed by the traditional circuit of inclusion \\(dehydration in xylene and increasing alcohol baths, then inclusion in liquid paraffin, cooling, section with the microtome \\(from 6 to 10 μm), deposit on an albumenized slide, air-drying free, dewaxing and rehydration by immersion in xylene then in decreasing alcohol baths to distilled water). Several colorations are carried out for each sample: periodic acid Schiff, Gram, toluidine blue, and hema- toxylin, eosin, saffron \\(HES)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Materials Science",
+    "Plant Sciences",
+    "Drug Discovery",
+    "Microbiology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Ecology & Environmental Biology",
+    "Bioengineering & Technology"
+  ]
+}

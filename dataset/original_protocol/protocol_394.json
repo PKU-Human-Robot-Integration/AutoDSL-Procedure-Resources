@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "origin_website": "Nature",
+  "title": "Bt-CoV HKU5 PCR/Sequencing Primers",
+  "procedures": [
+    "Reverse Transcription:\n1. In a 1.5-µL Eppendorf tube, add 1-4 µL RNA and 1 µL Random Hexamers.\n  2. Incubate at 70ºC for 5 min.\n  3. Place reaction briefly on ice and assemble the reverse transcription reaction using the kit-supplied reagents \\(a master mix can be made if multiple reactions are being run):\n  4 µL 5X First-Strand Buffer\n2 µL DTT\n1 µL SuperScript III reverse transcriptase\n1 µL dNTPs\n1 µL RNasin \\(if desired)\nx µL H2O to 20 µL\n3. Incubate at 55ºC for 45 min to 1 h.\n  4. Inactivate the reverse transcriptase at 70ºC for 15 min. Place reaction on ice after inactivation.\n  5. Proceed with PCR setup.\n  \nPCR \\(with Phusion PCR kit):\n1. Assemble PCR reactions to generate amplicons according to those detailed in Table 3 \\(for whole-genome sequencing) or with any combination of forward and reverse primers from Tables 1 and 2.\n  2. PCR reaction setup:\n  2 µL First-strand template\n1 µL Forward Primer\n1 µL Reverse Primer\n5 µL 10X HF Buffer\n1 µL dNTPs\n0.5 µL Phusion polymerase\nx µL H2O to 50 µL\n3. PCR reactions are run under standard PCR conditions:\n  98ºC 5 min\n35 cycles of:\n98ºC 15 sec\nxºC for 30 sec*\n72ºC for ~45 sec/kb\n72ºC 10 min\n8ºC Hold\nAnnealing temperature is primer-dependent, but for most SARS-CoV primers in Tables 1 and 2, annealing temperatures 52-55ºC will work.\nConfirmation of PCR products and sequencing:\n1. Run PCR products \\(5 µL/reaction) on a 0.8% agarose/1X TAE gel to verify PCR success.\n  2. Purify PCR products with PCR purification kit of choice \\(the Qiagen PCR Purification Kit works well).\n  3. PCR products can be diluted to 150-200 µL/reaction to ensure that enough product is present for assembling sequencing reactions.",
+    "4. Assemble sequencing reactions according to the primer/amplicon combinations outlined in Table 3.."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

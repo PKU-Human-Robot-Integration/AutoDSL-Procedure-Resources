@@ -1,0 +1,16 @@
+{
+  "id": 5377,
+  "origin_website": "Bio",
+  "title": "miRNA Characterization from the Extracellular Vesicles",
+  "procedures": [
+    "Cell cultureProstate normal human stromal fibroblast cells, SON was stably transduced with miR-409 lentiviral particles. Stromal cells were derived from a patient. Stromal cells were cultured at a concentration of 3 x 105 cells in 6 well plates, and maintained in T-medium. The stromal cells were maintained in T-medium with exosome depleted FBS media supplement for 72 h. The conditioned media was collected, and used to extract EVs. Extraction of exosomesThe conditioned media (CM) from the cells was centrifuged for 15 min. at 3,000 x g to remove cellular debris. The supernatant (5 ml) was used for extracting EVs using the Exo-Quick-TC for tissue culture media. Exo-Quick-TC (1 ml) was mixed with 5 ml of CM, and the tube was inverted 3 times and kept at 4 °C overnight.The next day the solution was centrifuged at 13,000 rpm for 2 min. The supernatant was removed and the exosome pellet was used. Lysis buffer (350 μl) from SeraMir exosome RNA purification kit was added to the exosome pellet and vortexed for 15 sec. The solution was placed at RT for 5 min.miRNA extractionSeraMir exosome RNA purification kit was used to extract miRNA from EVs as per manufacturer’s instructions. The RNA concentration and purity were measured using a Nanodrop spectrophotometer.miRNA detectionMiRNA was detected separately for hsa-miR-409-5p, hsa-miR-409-3p and RNU6B. Equal amounts of miRNA (25 ng) were added to the reaction. Procedure was followed as per the manufacturer’s instructions.Reverse transcription: The reverse transcription mix was made as described below (see Recipes). The RT reaction was as follows: 16 °C-30 min, 42 °C- 30 min, 85 °C-5 min.Quantitative real-time PCR (RT-PCR): The RT-PCR reaction was performed as described below (see Recipes). Assays were run in duplicates.",
+    "The reaction mixtures were put into the MicroAmp Optical 96 well reaction plate and sealed with a MicroAmp® optical adhesive tape. The assay was run in an Applied Biosystems 7500 Real-Time PCR machine, using the Taqman software, under standard run speed and using a reaction volume of 10 µl. The Ct values were used to determine the relative fold change and the results were normalized to RNU6B. The differential miRNA expression from the vesicular fraction was determined and plotted in a graph."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

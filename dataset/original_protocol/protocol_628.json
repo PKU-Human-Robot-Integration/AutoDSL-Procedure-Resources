@@ -1,0 +1,16 @@
+{
+  "id": 666,
+  "origin_website": "Nature",
+  "title": "Celigo-based cell-counting and viability assay for mammalian cells",
+  "procedures": [
+    "Make the staining solution:\no 8 µM Hoechst, 0.4 µg/mL PI in complete media \\(CD CHO + 8 mM L-Glutamine)\nPipet 3 uL cell suspension to wells in the 96-well plate \\(a multi-channel pipette can be used)\n     o Remember to resuspend cells before pipetting\nAdd 200 uL staining solution to each well \\(a multi-channel pipette can be used)\nPipet 150 uL up and down three times in each well \\(a multi-channel pipette can be used)\n     o Aspirate at a steady pace\n     o Dispense at a relatively fast pace to ensure proper mixing\n     o Perform each pipetting step at different spots on the bottom of the well\nIncubate at room temperature in the dark for 40 min to allow the cells to sediment and for the Hoechst stain to increase in intensity\n     o Hoechst and PI stains are stable for at least two hours.\n-Scan wells on the Celigo using the mask \\(blue channel; Hoechst) and target 1 \\(red channel; PI) application.\n     o Use fixed exposure time and gain settings for the red channel.\nUse a fixed gate that divide PI positive and negative cells\n     o Make sure to have healthy cells \\(wt/parental/host cell line) in one well so you know that your PI-gate is dividing healthy and dead cells correctly. \nNotes:\nEquations:\n Viability=\"PI-negative cells in the well\"/\"total cells in the well\" \n VCD=\"total cells in the well\"**1000/3**Viability\nWorking range for healthy as well as stressed/dying \\(long-term cultures) cells:\n 2e5-2e6  total cells/mL\n The wide linear dynamic range in the paper only applies to healthy cells."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 221,
+  "origin_website": "Nature",
+  "title": "Standardized environmental enrichment for rodents in Marlau cage",
+  "procedures": [
+    "Marlau™ cage setup Timing 7-10 minutes per cage \n1 Place the ground floor box on a flat surface using both handles. The side containing water bottles should be facing you \\(Fig.2). \n2 Insert the plastic wall into the stripes designed to separate the ground floor into two sections, the G1 on the left and the G2 on the right.\nCAUTION: The doors of the plastic walls are designed to open in only one direction and this should be done from G1 to G2.\n3 Insert the 3 running wheels on the rear side of the G2 and place the red rectangular house on the G2 ground on the magnetic sites to stabilize it.\n4 Fill the G2 ground with autoclaved bedding material to a height of 2-3 cm.\n5 Add the climbing ladder on the right side of the running wheels in G2. \n6 Add the pellet feeder into the rectangular hole on the front side of G1. \n7 Place the slide tunnel into the G1 section on the left side of the pellet feeder.\n8 Add the water bottles to the G2 front side.\n9 Add food pellets in the feeder and also in the G1 section.\nCAUTION: When possible, spread food pellets throughout the bedding material of G1 to give rodents the opportunity to develop their foraging behavior and allow them to pick up these food pellets and eat anywhere in the cage. This will help increase the perception of control on their environment and thereafter their well-being.\n10 Add paper wool in G1 and aspen wood wool in G2. \n11 Pile up the upper floor box on the ground floor box.\n12 Place the maze on the ground of the upper floor.",
+    "CRITICAL STEP: Be careful to correctly position the maze since it has two sides. When the maze A1 is indicated, it means that the side 1 should be facing the climbing ladder. See “maze configuration change” section.\n13 Fill the maze with autoclaved bedding material to a height of 1 cm.\n14 Put all rats in the G2 section near the climbing ladder.\nCAUTION: when enrichment starts at weaning, rats and mice are placed with their dams into the cage. Dams are positioned in the G1, while young animals are placed in the G2. Dams are maintained in the cage for 48 hours. The first week, the maze placed on Monday remains until Friday.\n15 Cover the cage with its lid.\nMaze configuration change Timing 3-5 minutes per cage\n1 Indentify the next maze configuration. \nCRITICAL STEP: On each maze, the number 1 has been added to one side, and the number 2 to the other side. When the terms “A1” or “D2” are employed, it signifies that side 1 of maze A, or side 2 of maze D, is positioned facing the climbing ladder, respectively. Thus, be careful to position the right number facing the climbing ladder. When using multiple cages, “Appendix A” in the supplementary data can be helpful for maze configuration change.\n2 Uncover the lid, remove the former maze and add the new one. \nCRITICAL STEP: You may need to remove animals from the maze before changing it. Thus, prepare a large conventional cage to put animals in during the change procedure.\n3 Fill the maze with autoclaved bedding material to a height of 1 cm.\n4 Cover the cage with its lid.\nBedding material, maze configuration changes and cleaning Timing 30-45 minutes per cage",
+    "1 Prepare a large conventional cage to put all rats or mice in during the cleaning step.\n2 Uncover the lid, and move all animals to the conventional cage.\n3 Remove the upper floor, and place all remaining animals in the conventional cage.\n4 Remove all items from the ground floor and all the bedding material. \n5 Wash and dry all items.\n6 Repeat Steps 1-15 from the “Marlau™ cage setup” section.\n7 Repeat this procedure once per week."
+  ],
+  "subjectAreas": [
+    "Chemical Biology",
+    "Cell Biology",
+    "Drug Discovery",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

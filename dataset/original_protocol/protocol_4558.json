@@ -1,0 +1,17 @@
+{
+  "id": 4806,
+  "origin_website": "Bio",
+  "title": "Detection of Mitogen-activated Protein Kinase (MAPK) Activation upon Exogenous Chemical Application in <em>Arabidopsis</em> Protoplasts",
+  "procedures": [
+    "Arabidopsis protoplast isolation and chemical treatmentChoose five week old and well-expanded leaves for protoplast isolation. Use a fresh sharp razor blade to cut <0.5 mm leaf strips and transfer them into the freshly prepared filtered enzyme solution (see Recipes for enzyme solution preparation) (around 20 leaves in 10 ml). Dip them completely into the solution by using a pair of flat-tip forceps. 20 leaves should yield 8-10 ml protoplast suspension for the assay (2 x 105 protoplast/ml). The general outline of protoplast isolation technique is shown in Figure 2. Vacuum-infiltrate leaf strips for 30 min in the dark using a desiccator (covered with a black cloth to prevent any possible effect of light on protoplast).Continue the digestion, without shaking, in the dark for at least 2.5 h at 20-22 °C.Gently shake the enzyme solution for 30 min on a lab shaker at 70-100 rpm at room temperature to release the protoplasts (solution should turn green and at least half of the leaf strips should become transparent). Add 10 ml W5 solution per 10 ml enzyme solution. Carefully filter suspension through a nylon mesh (100 µm) into 12 ml cell culture tubes on ice.Centrifuge the protoplast suspension for 1 min at 200 x g (4 °C) and remove as much supernatant as possible using a narrow bottom 5 ml tip.Add 2 ml of W5 solution to the tubes and resuspend the protoplast by gently inverting the tubes.Invert tube and immediately take 8 µl to determine protoplast concentration with haemocytometer. Dilute the protoplast with W5 solution to the working concentration of 2 x 105 protoplast/ml.Leave protoplasts on ice for 40 min in the dark. Protoplasts settle on the bottom of the tube by gravity. Remove supernatant from protoplast pellet and wash again with 2 ml W5 solution.",
+    "Leave on ice for another 40 min (in the dark). Treat 300 µl protoplasts with an equal volume of kinetin stocks to get the required final concentration of 1 to 25 µM used in this experiment. This step can be performed in 1.5 or 2 ml microcentrifuge tubes as well. Mix well and incubate overnight at 22 °C in the dark.Pellet protoplasts by short pulse centrifuging and remove as much supernatant as possible. Immediately freeze samples in liquid nitrogen.Add 12 µl SDS-loading buffer to frozen protoplast pellets, thaw while vortexing vigorously.Boil for 5 min at 95 °C and run on freshly made 10% SDS-PAGE.Immunoblotting with anti p44/42- ERK (extracellular signal-regulated kinase) antibody Transfer the proteins from the gel to nitrocellulose membrane using semi-dry blotting apparatus at 25 V, 130 mA for 1 h at room temperature.Block membrane with protein free blocking solution (PFBS) for 1 h at room temperature.Incubate p42/44 ERK antibody (1:1,000 dilution) in PFBS overnight at 4 °C.Wash the membrane 4 times in 0.1x TBST buffer for 5 min each at room temperature.Add Pierce Goat anti-rabbit HRP-conjugate antibody (1:5,000 dilution) in PFBS and incubate for 1 h at room temperature.Wash the membrane 4 times with 0.1x TBST for 5 min each.Develop the membrane using the normal ECL kit as per manufacturer’s instructions."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

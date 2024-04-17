@@ -1,0 +1,24 @@
+{
+  "id": 211,
+  "origin_website": "Nature",
+  "title": "Targeted transduction of cells/tissue in vivo",
+  "procedures": [
+    "In vivo ViroMag \nThe amount of virus you need to inject is closely correlated to your viral preparation, the route of injection, the target tissue and your preliminary in vitro studies. The In vivo ViroMag and saline solutions should be at room temperature. You may use 10 to 20 µL of In vivo ViroMag per 1x106 infectious viral particles. Do not exceed recommended volumes for injection.\n1. Reagents preparation. Immediately before use, vortex In vivo ViroMag vial. Add suitable amount of In vivo ViroMag to a sterile microtube\n  Note: If required In vivo ViroMag can be diluted with deionized water only. Discard the diluted In vivo ViroMag after use.\n2. Complexes formation. Add your virus preparation to the tube containing the In vivo ViroMag reagent and mix immediately by pipetting up & down. Incubate 15-30 min at room temperature.\n  \n3. Injection.\n  a. Place the magnet on your targeted tissue\nb. Slowly inject the complexes \nc. Let the magnet stand from 5 min to 1 h \nNotes for intracerebroventricular or intratumoral injections: Place the magnet few seconds after complexes injection. Dye e.g. Fast Green FCF can be added to the complexes solution for a better monitoring of the injection.\n4. Monitor gene expression at the appropriate time point.\n  \nImportant notes: \n• Do not inject more than 1 mL of In vivo ViroMag per animal.\n• Do not inject complexes if precipitate has formed"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Genetics",
+    "Molecular Biology",
+    "Microbiology",
+    "Developmental Biology",
+    "Nanoscience And Technology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

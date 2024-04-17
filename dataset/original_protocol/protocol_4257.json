@@ -1,0 +1,15 @@
+{
+  "id": 4469,
+  "origin_website": "Bio",
+  "title": "Dye-uptake Experiment through Connexin Hemichannels",
+  "procedures": [
+    "Cells were grown at 37 °C and 10% CO2 in a humid environment (incubator) and passaged according to standard protocols.    Cells were seeded on acid-washed cover slips of desired size (e.g. 24 well plates) (see Recipes) or glass-bottom dishes the day before the experiment and used at 70 % confluency.   A stock solution of HBSS devoid of Ca2+ containing ethidium bromide (e.g. 5 μM) was prepared to make sure that all samples were exposed to exactly the same concentration of dye.   Cells were carefully washed twice with warm (37 °C) HBSS and once with warm HBSS devoid of Ca2+. For negative controls, only HBSS was used. To wash, carefully aspirate the medium or buffer, replace with fresh buffer, carefully pipet up and down once or twice, and replace with fresh buffer.    Cells were loaded with pre-warmed 5 μM ethidium bromide in HBSS devoid of Ca2+ (to induce hemichannel opening) for 10 min at 37 °C. For negative controls pre-warmed 5 μM ethidium bromide in HBSS containing Ca2+ was used.   The supernatant was discarded and cells washed with warm HBSS containing Ca2+ to induce hemichannel closure and thereby trap the dye in the cytosol.   Images were acquired within 30 min (the ethidium bromide signal was stable during this period) at 37 °C and 40x magnification. Make sure enough separate fields within a sample are acquired and prepare sufficient independent repeats for quantification. Please refer to Notes for the settings of the fluorescence microscope.   Intracellular ethidium bromide-fluorescence of single cells was quantified using an image analysis software. The background fluorescence was subtracted for every field."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

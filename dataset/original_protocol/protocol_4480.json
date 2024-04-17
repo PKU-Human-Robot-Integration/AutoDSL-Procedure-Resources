@@ -1,0 +1,17 @@
+{
+  "id": 4720,
+  "origin_website": "Bio",
+  "title": "Non-invasive Intratracheal Instillation in Mice",
+  "procedures": [
+    "This protocol describes the procedure for the direct visual instillation method for intratracheal (i.t.) instillation (Su et al., 2004) of LPS.Preparation All protocols using live animals must be approved by an Institutional Animal Care and Use Committee and must follow officially approved procedures for the care and use of laboratory animals. Furthermore, experimental animals treated with biohazard materials should be handled and disposed using recommended animal biosafety procedures. When appropriate, the person(s) handling the animals must have official certification for performing procedures on animals and for submitting protocols for ethical approval.Weigh the animal on a balance to calculate the LPS dose required for each mouse. In an Eppendorf tube, prepare the desired LPS solution (diluted in PBS) in a volume not to exceed 50 μl. The LPS concentration will vary depending on the experimental goals, but is usually between 1 mg/kg (mild lung injury) and 10 mg/kg (severe lung injury). Stock solutions of LPS can be prepared, aliquoted, and frozen at -80 °C to help standardize instillations.Attach 1 inch (2.5 cm) of PE-10 tubing to the insulin needle and syringe and load it with the LPS solution. Importantly, syringe should be pre-loaded with at least 50 μl of air to insure that all of the liquid volume is expelled from the needle. Anesthetize animals with Ketamine (50-80 mg/kg) and Xylazine (8-12 mg/kg) injected intraperitoneal using insulin syringes. The anesthetics may be mixed in the same syringe. This anesthetic dose should maintain anesthesia for 20-30 min.Intratracheal InstillationCheck the level of anesthesia using a paw pinch stimulus a few minutes after delivery of the anesthetics. Once adequate anesthesia is observed, suspend the mouse by its incisors in the supine position on the intubating platform (Figure 2A).Turn on the fiber-optic illuminator and position it over the trachea.",
+    "(Figure 2A-B)Using curved blunt-ended forceps, carefully grasp the tongue and in a upward and leftward motion, position the tongue to gain visualization of the larynx. Hands-free binocular magnifiers can be used for improved visualization of the larynx.Position the fiber-optic light source to trans-illuminate the tracheal opening Insert the PE-10 tubing (attached to the insulin needle and syringe) 0.5-1 cm into the trachea and instill the LPS solution (volume not to exceed 50 µl). To avoid the intratracheal instillate from escaping the trachea, leave the PE-10 tubing in place for 5 sec.Maintain the mouse in the same position on the intubating platform for at least 30 sec.Remove the mouse and place it prone on a heating pad for recovery. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150620/20150620201752_7714.jpgFigure 2. A-B. Mouse positioned on the intubation platform. C. Bronchoalveolar lavage (BAL) accumulation of white blood cells (WBC) 48 h after LPS instillation at dose of 5 mg/kg. WBCs were quantified with a Coulter Counter."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

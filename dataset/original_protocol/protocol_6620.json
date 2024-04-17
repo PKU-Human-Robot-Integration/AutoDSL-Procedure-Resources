@@ -1,0 +1,15 @@
+{
+  "id": 6980,
+  "origin_website": "Bio",
+  "title": "Determination of Intracellular Ca<sup>2+</sup> Concentration in the Human Pathogens Trypanosomatids<em> Leishmania mexicana</em> and <em>Trypanosoma cruzi </em>by the Use of the Fluorescent Ca<sup>2+</sup> Indicator Fura-2",
+  "procedures": [
+    "Stock solutions/BuffersDigitonin (MW: 1229.3 g/mol) stock at 5 mM in distilled water.EGTA (MW: 380.35 g/mol) stock at 500 mM (pH 8) in distilled water.Fura-2 AM (MW: 1001.86 g/mol) stock at 1 mM in DMSO.Modified Tyrode’s loading buffer (MTLB) (see Recipes).MTLB without Ca2+ (see Recipes).Probenecid (MW: 285.36 g/mol) stock at 1 M in DMSO. Parasite loading with Fura-2 AMCount parasites using a Neubauer chamber and calculate the title.Collect 1 x 108 parasites at exponential phase by centrifugation at 600 x g for 2.5 min and discard the supernatant.Wash twice with 500 µl of MTLB at 29 °C and discard supernatant.Resuspend the parasites in 500 µl MTLB and add 1 µl Fura-2 AM (1:1,000 from stock to final concentration 1 µM), 1.2 µl probenecid (3:1,250) from stock to final concentration 2.4 mM), and 1.25 µlpluronic acid (1:400 from stock to final concentration 0.05%).Incubate the parasites at 29 °C at darkness with continuous stirring for 2 h.Wash Fura-2 loaded parasites with 500 µl of loading buffer, in either the presence or absence of Ca2+.Transfer 500 µl of the parasite suspension to a quartz cuvette and place it in a spectrofluorometer with gentle stirring at 29 °C.Adjust the spectrofluorometer at 340 and 380 nm for excitation (Ex) and at 510 nm for emission (Em).Start measurement using FL WinLab software.ControlsTo end the experiment, add the followings reagents (the data they generated are needed for analysis of results):When the monitor trace is stable (constant slope), meaning that Ca2+ is no changing further add digitonin at 30 µM to obtain the maximal ratio of fluorescence (Rmax).Wait until the monitor trace is stable again and add EGTA at 10 mM to obtain the minimal ratio of fluorescence (Rmin)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

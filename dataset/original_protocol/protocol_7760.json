@@ -1,0 +1,16 @@
+{
+  "id": 8163,
+  "origin_website": "Bio",
+  "title": "Immunolabeling of Proteins <em>in situ</em> in <em>Escherichia coli</em> K12 Strains",
+  "procedures": [
+    "Permeabilization of the cells   Escherichia coli cells (LMC500 strains) are grown in medium at 28-42 °C and fixed in 2.8% FA and 0.04% GA as follows: 12.2 ml culture with OD450 of 0.2 (or OD600 of 0.3) is mixed by addition of a pre-mixture of 1 ml 37% FA and 21 μl 25% GA while shaking in the water bath used for growth. Transfer the culture to 50 ml Greiner centrifuge tubes. Note: It is recommended keeping the OD600 below 0.3 for optimal exponential growth in rich medium and the OD450 below 0.2 for minimal medium.   Incubate15 min at room temperature (RT) standing and centrifuge at 4,000 x g for 10 min at RT.   Wash the cells once in 1 volume PBS (pH 7.2).   Resuspend the pellet in 150 μl PBS pH 7.2 and transfer the cells to 500 μl Eppendorf tubes.   Pellet the cells by centrifugation at 4,500 x g (7,000 rpm) for 5 min (RT or 4 °C) and wash twice in 150 μl PBS (pH 7.2). The cells can be stored up to a month at 4 °C.   All subsequent steps are performed in 150 μl (less is also possible) and all centrifugation steps are at 4,500 x g (7,000 rpm) for 5 min at RT or 4 °C.   Incubate the cells in 0.1% Triton X-100/PBS pH 7.2 standing for 45 min at RT.   Wash the cells three times in PBS (pH 7.2).   Incubate the cells in PBS (pH 7.2) containing 100 μg/ml lysozyme and 5 mM EDTA for 45 min (or 30 min in case of cell wall mutants) at room temperature.    Wash the cells three times in PBS (pH 7.2).       Labeling procedure   Block non-specific binding sites by incubating the cells standing or shaking in 0.5% (w/v) blocking reagents in PBS (pH 7.",
+    "2) for 30 min at 37 °C.   Incubate with primary antibody (rule of thumb 10 times more concentrated than needed for immunoblotting) diluted in blocking buffer, 1-2 h at 37 °C in shaking incubator (minimal incubation time 30 min, maximal incubation time over night at 4 °C depending on the antibodies).   Wash the cells three times in PBS (pH 7.2) containing 0.05% (v/v) Tween-20.   Incubate with secondary antibody donkey-α-rabbit-CY3 (guarantee no cross reactivity against E. coli) diluted in blocking buffer (1:600) for 30 min at 37 °C. Note: Centrifuge the antibody in blocking solution for 1 min at max speed to remove clumps of dye before adding it to the cells.   Wash the cells three times in 150 μl PBS (pH 7.2)/0.05% Tween-20.   Wash the cells once in in 150 μl PBS.   Resuspend the cells in PBS. Notes:    Adjust the volume to the amount of cells (usually 20 μl), i.e. the cell concentration should be high enough for the microscopic analysis.   Antisera against E. coli proteins can very conveniently be separated from contaminating IgG by incubating the serum against a strain that has the gene of interest deleted using the same procedure as above. Subsequently the non-bound IgG is used for the incubation with the wild type strain. If the protein of interest is essential, the serum has to be affinity purified against the pure protein of interest."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

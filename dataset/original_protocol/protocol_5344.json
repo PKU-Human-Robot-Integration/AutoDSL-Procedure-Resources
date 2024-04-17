@@ -1,0 +1,17 @@
+{
+  "id": 5674,
+  "origin_website": "Bio",
+  "title": "5-Hydroxymethylcytosine (5-hmC) Specific Enrichment",
+  "procedures": [
+    "Fragment purified genomic DNA into short fragments depending on different genome-wide sequencing platforms (usually sonicated to 300 bp). Follow the manual from Covaris to set up the fragmentation program for 300 bp. DNA buffer for sonication can be TE (10 mM Tris pH 8.0, 1 mM EDTA), EB (10 mM Tris pH 8.5) or water.Verify the size distribution of the fragmented genomic DNA on 2% agarose gel using 100-bp DNA marker. Measure the DNA concentration after fragmentation using Nanodrop or by fluorometric quantification of dsDNA, ideal concentration should be higher than 600 ng/μl.Concentrate the DNA if necessary by 10 kDa Amicon Ultra-0.5 ml Centrifugal Filters or ethanol precipitation. Measure DNA concentration again after concentration using Nanodrop.Use appropriate starting DNA amounts and set up the reaction according to the following conditions (for brain tissue).table:\n﻿0,1,2\nComponent,Volume,Final Concentration\nWater,_ μl,\n10x β-GT reaction buffer,2 μl,1x\nup to 10 μg genomic DNA,_ μl,up to 500 ng/μl\nUDP-6-N3-Glc (3 mM),0.67 μl,100 μM\nβ-GT (40 μM),1 μl,2 μM\nTotal volume,20 μl,",
+    "Mix by pipetting and incubate in a 37 °C water bath for 1 h.Clean up the reaction with QIAquick Nucleotide Removal Kit, using 10 μg DNA per column. Elute with 30 μl water per column and combine.Dissolve 10 mg DBCO-S-S-PEG3-Biotin conjugate in 384 μl DMSO to make 30 mM stock solution and store at -80 °C. Dilute stock solution with DMSO to make 4.5 mM working solution and store at -20 °C. Stock solution is stable at -80 °C for years. Working solution is stable at -20 °C for 3 months.Add DBCO-S-S-PEG3-Biotin conjugate working solution in the eluted DNA solution from step 6) to a final concentration of 150 μM (i.e. 1 μl of working solution per 30 μl DNA solution).Mix by pipetting and incubate in a 37 °C water bath for 1 h.Clean up the reaction with QIAquick Nucleotide Removal Kit, using 10 μg DNA per column. Elute with at least 30 μl water per column and combine. The ideal combined elution volume is 100 μl, maximum volume is 150 μl.Measure DNA concentration using Nanodrop, calculate the DNA recovery.Wash 50 μl of Dynabeads MyOne Streptavidin C1 three times with 100 μl of 1x B&W buffer following its manual. Separate the beads with a magnetic stand and resuspend the beads in 100 μl of 2x B&W buffer.Save 10 ng DNA from step 11), add the rest (100 to 150 μl) to the resuspended beads from the previous step.Incubate for 15 min at room temperature with gentle rotation on a Labquake tube shaker.Separate the beads with a magnetic stand and wash the beads three times with 200 μl of 1x B&W buffer.Elute the DNA by incubating the beads in 50 μl freshly prepared 100 mM DTT. for 2 h at room temperature with gentle rotation on a Labquake tube shaker.",
+    "Separate the beads with a magnetic stand. Aspirate the eluent and load to a Micro Bio-Spin 6 Column following its instruction to remove the DTT.Purify the eluted DNA from previous step by Qiagen MinElute PCR Purification Kit and elute DNA in 10 μl EB buffer. Quantify DNA using Qubit Fluorometer. The DNA is ready for downstream genome-wide sequencing library preparation."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

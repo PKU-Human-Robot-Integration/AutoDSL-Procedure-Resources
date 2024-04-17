@@ -1,0 +1,16 @@
+{
+  "id": 6852,
+  "origin_website": "Bio",
+  "title": "Mouse Adipose Tissue Protein Extraction",
+  "procedures": [
+    "Mouse adipose tissue harvestingHarvest adipose tissues [including inguinal/subcutaneous white fat pads (sWAT), visceral/epididymal white fat pads (eWAT), interscapular brown fat pads (BAT), etc., as shown in Figure 1, details see article (Mann et al., 2014)] and snap freeze in liquid nitrogen.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200528/20200528105203_7315.jpgFigure 1. Mouse fat pads harvested in different locations. A. Subcutaneous WAT (sWAT). B. Interscapular brown AT (BAT). C. Epidydimal WAT (eWAT).Tissue homogenizingAdd 0.5 ml RIPA buffer without Triton X-100 (~100 mg adipose tissue in a 2.0-ml tube with one stainless steel bead) with protease inhibitor and homogenize using the TissueLyser II (Qiagen) at the highest frequency for 3-5 min until clear. Keep on ice.Spin down at 6,000 x g for 15 min at 4 °C.Carefully remove the fat cake (refers to the white lipid layer on top of the aqueous layer as shown in Figure 2) and resuspend the loose pellet.Note: Alternatively, use the pipette tip to penetrate the fat cake and transfer the solution and the pellet to a new 1.5-ml tube.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200528/20200528105226_0667.jpgFigure 2. Fat cakes in different samples. After homogenization and centrifugation, fat cakes, indicated by arrows, are the white lipid layers on top of the aqueous layers in sWAT, BAT and eWAT samples.Tissue lysis and centrifugingAdd Triton X-100 to a final concentration of 1% (v/v), mix well, and keep on ice.Incubate at 4 °C for 30-60 min.Centrifuge at 12,000 x g for 15 min at 4 °C.Remove upper layer of lipid and transfer the supernatant to a new 1.5-ml tube.Optional but recommended: Repeat Steps C3 and C4 for twice to get rid of maximum amount of lipid.Store the extracted samples at -80 °C until further BCA concentration measurement (summarized in Table 1).Table 1. Protein concentration from different fat padsimgsrc:https://en-cdn.bio-protocol.org/attached/image/20200528/20200528105248_7899.pngPerform Western Blotting (see Figure 3) or other applications.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200528/20200528105335_9766.jpgFigure 3.",
+    "Representative Western blot images of protein samples extracted from AT. A total of 15 μg protein in each sample was loaded on an SDS-PAGE gel. Adiponectin and an internal control β-actin in sWAT (left), eWAT (middle) and BAT (right) were probed."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

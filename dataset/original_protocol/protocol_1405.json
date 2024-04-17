@@ -1,0 +1,15 @@
+{
+  "id": 1504,
+  "origin_website": "Nature",
+  "title": "<p>In vitro fertilization of mouse oocytes</p>",
+  "procedures": [
+    "<p>1. Sperm is either thawed from a cryopreserved stock or extracted fresh from the cauda epipidymis of the male mouse and incubated for 30 min. at 37 °C in TYH medium.</p><p><br></p><p>2. Cumuli containing oocytes are transferred to a 90 µL HTF medium drop on a petri dish, covered by mineral oil (NidOil).</p><p><br></p><p>3. 10 µl sperm suspension are added to the HTF drop and the IVF dish is incubated at 37 °C for 4-5 hours. Afterwards, fertilization is assessed by second polar body formation.</p><p><br></p><p>4. Sperm thawing and IVF procedures as well as TYH and HTF media preparation are performed according to the protocols described at</p><p><a href=\"https://www.infrafrontier.eu/knowledgebase/protocols/cryopreservation-protocols\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.infrafrontier.eu/knowledgebase/protocols/cryopreservation-protocols</a></p><p><br></p><p>5. Following successful IVF, the zygotes are supplemented with fresh KSOM Embryomax media everyday until E5.5</p>"
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

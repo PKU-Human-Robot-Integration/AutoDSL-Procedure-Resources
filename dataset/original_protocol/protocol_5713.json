@@ -1,0 +1,16 @@
+{
+  "id": 6058,
+  "origin_website": "Bio",
+  "title": "Isolation of Human Blood Progenitor and Stem Cells from Peripheral Blood by Magnetic Bead ",
+  "procedures": [
+    "Peripheral blood mononuclear cells (PBMCs) separation   Under tissue culture hood, add equal volume of 2% dextran solution and blood sample and incubate it at room temperature for 45 min (elimination of majority of erythrocytes).   Collect the supernatant and centrifuge at 1,600 rpm (ROTANA 460RF, rotor 5624 Hettich) for 10 min.   Discard the supernatant and re-suspend the pellet, containing lymphocytes and granulocytes, in 10 ml PBS with 0.1% EDTA.   Add 7.5 ml ficoll solution to a suitable centrifuge tube and carefully top it with 10 ml cell suspension from step A3.   Centrifuge at 2,200 rpm for 20 min.   After centrifugation there are three phases: Upper one containing plasma and platelets. The whitish layer containing the mononuclear cells and the lower phase and pellet containing the granulocytes.   Discard upper aqueous phase containing plasma and collect the whitish layer containing PBMCs (around 2 ml) and re-suspend it in 50 ml of PBS with 0.1% EDTA.   Count the PBMCs.   Centrifuge the PBMCs at 1,200 rpm for 10 min and re-suspend 1 x 108 cells in 300 μl of PBS with 0.1% EDTA. If you have 5 x 107 cells, you need to resuspend in 150 μl of PBS with 0.1% EDTA.      CD34 magnetic labeling   Add CD34 MicroBeads and FcR blocking reagent (100 μl each for 1 x 108 cells) to 300 μl of PBMCs suspension. The FcR blocking reagent is used to avoid non specific labeling.   Mix well and incubate at 4 °C for 30 min (or overnight with 30% FCS).      Magnetic separation with auto MACS separator   Add 10 ml PBS 0.1% EDTA to magnetic beads labeled cells and centrifuge them at 1,200 rpm for 10 min.   Discard supernatant and re-suspend the cells in PBS with 0.1% EDTA (500 μl for 1x 108 cells).",
+    "Filter the cells using 30 μm nylon mesh to exclude the cell clumps and rinse the tube and filter with additional 500 μl PBS with 0.1% EDTA to collect maximum cells.   Pass the cells through auto MACS separator as explained in user manual (CD34 MicroBead kit human).   After separation, collect CD34+ cells and determine cell number.   Wash the cells with 5-10 ml PBS 0.1% EDTA at 1,200 rpm for 10 min at room temperature.   Once washed re-suspend cells in appropriate cell culture medium or freeze them for later use.      CD34+ cells purity assessment   Take 10 x 103 cells from step C 4 and re-suspend them in 100 μl of PBS.   Add 1 μl of APC-conjugated mouse anti-human CD34 antibody.   Incubate for 15-20 min at 4 °C in dark.   Wash the cells with 500 μl PBS at 1,200 rpm for 10 min.   Discard the supernatant and re-suspend the cells in 300 μl PBS.   Pass them through a flow cytometer and analyze the cells for APC labeling excluding dead cells and debris using scatter signals."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

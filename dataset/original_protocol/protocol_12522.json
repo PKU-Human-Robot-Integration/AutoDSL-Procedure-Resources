@@ -1,0 +1,15 @@
+{
+  "id": 14888,
+  "origin_website": "Jove",
+  "title": "Extracting Venom from the Parasitoid Wasp Trichogramma dendrolimi Using an Artificial Host",
+  "procedures": [
+    "1. Insect rearing\nFeed Corcyra cephalonica on corn flour at a temperature of 26 ± 1°C and a relative humidity of 40% ± 10%.\nBreed T. dendrolimi strain from the Jilin insectary indoors using the eggs of Corcyra cephalonica as hosts. Feed wasp adults 10% sucrose water in Drosophila tubes at a temperature of 26 ± 1 °C, relative humidity of 70% ± 10%, light (L): dark (D) period of 14 h: 10 h.\n2. Preparation of polyethylene plastic film egg cards\nTake a polyethylene plastic film with a length of 16 cm, a width of 12 cm, and a thickness of 20 µm. Press out 30 semicircular protrusions with a diameter of 2-3 mm and a height of approximately 3 mm using a glass grinding rod according to the standard PCR plate layout of 96 holes.\n\tNOTE: The process of pressing out 30 semicircular protrusions using a glass grinding rod needs to be done paying attention to the pressure because too hard a press will puncture the plastic and contaminate the extracted venomless grinding rod.\nDisinfect the pressed polyethylene plastic film by exposing both sides to ultraviolet (UV) light for 1 h.\nAdd a small amount of 10% polyvinyl alcohol to the semicircular surface.\n3. Trichogramma dendrolimi parasitism\nAfter CO2 anesthesia, place T. dendrolimi female wasps into a collection box, and the number of wasps was ~3000.\nPlace the convex side of the film egg card toward the collection box and secure the edges with a rubber band.\nAdd 4 µL of amino acid solution (6 g/L leucine, 4 g/L phenylalanine, 4.25 g/L histidine) to each semicircular protrusion. Cover it with a flat polyethylene plastic film 16 cm long and 12 cm wide. Use a rubber band to tightly cover the collection box with two sheets of plastic.",
+    "Let T. dendrolimi wasps parasitize freely for 4-8 h and provide 10% sucrose water through wetted cotton.\n4. Collecting T. dendrolimi  venom\nObtain the parasitized amino acid solution from the inner protrusion of the artificial egg card and transfer it to the cap of 1.5 mL tubes.\nCover the tube cap with a 10 µm nylon net with a 25 mm diameter, fasten the nylon net and centrifuge tube tightly. Place the centrifuge tube upright for short centrifugation using a mini-centrifuge (1360 x g) for 10 s and collect the filtered solution (~100 µL of T. dendrolimi venom).\nMeasure the concentration of collected T. dendrolimi venom using a Bicinchoninic acid (BCA) assay kit (Table of Materials).\nStore the venom at -80 °C for further analyses.\n5. SDS-PAGE analyses\nAdd 30 µL of T. dendrolimi venom to 10 µL of 4x sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) sample loading buffer (Table of Materials) and heat at 95 °C for 10 min.\nPerform SDS-PAGE gel run at 130 V for 120 min.\nStain and decolorize the SDS-PAGE gel using the protein staining apparatus (Table of Materials).\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

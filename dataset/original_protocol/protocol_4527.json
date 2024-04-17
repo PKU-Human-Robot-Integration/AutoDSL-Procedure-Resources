@@ -1,0 +1,16 @@
+{
+  "id": 4772,
+  "origin_website": "Bio",
+  "title": "Evaluation of Nodulation Speed by <em>Sinorhizobium</em> Strains",
+  "procedures": [
+    "Medicago seed sterilization   Place the seeds in a 15 ml plastic falcon tube. Add 3 ml of concentrated sulfuric acid for 5-8 min with occasional mixing.   Rapidly remove the acid with pipet, and wash 4 times with sterilized water.   Soak the seeds in 10% sodium hypochlorite for 90 sec.   Rinse 8 times with sterile water.   Place the seeds on sterile filter paper disk in a petri dish and soak with 2 ml of sterile water.   Place the seeds in the refrigerator at 4 °C (in the dark) for 3- 5 days.   Move seeds to room temperature and incubate (in the dark) for 1 day to pre-germinate (1-1.5 cm root length).      Sinorhizobium strains   Sinorhizobium meliloti strains are grown in TY medium with 0.1 % initial inoculum to the exponential growth state (~ 2 days) at 30 °C, with shaking (200 rpm).   Centrifuge the culture at 8,000 x g for 10 min and wash once with sterile 0.85% NaCl.   The culture should be diluted to 107 cells/ml or an OD600 0.7 with sterile 0.85% NaCl.      Plant growth conditions and inoculation   Plant growth pouches should be wetted with water and sterilize at 121 °C for 15 min.   Add 2-4 pregerminated seedlings from the step A7 per pouch, with plant roots protruding through holes in the paper pouch tray.    Add 6 ml fahraeus medium.   Grow pouches in growth chamber at 25 °C with 16 h light conditions and 21 °C for 8 h dark conditions. Humidity should be between 50-70%. Light conditions should be 200-350 µmol/m2/s.   Cover the roots with aluminum foil and place pouches in a container.   Inoculate seedlings in pouches after 1 day with 1.0 ml of suspended culture immediately after step 10 using sterile pipette.",
+    "Mark the location of the root tip on the surface of the growth pouch using a sharpie marker.      Nodule analysis   Examine pouches each day for the presence and number of nodules on each plant. Record the date when the first nodule formed and the number of nodules daily. Plot the number of plants nodulated (Y-axis) by days at the end of experiment.   After three weeks of growth remove the pouches from the growth chamber.   Count the nodules and measure the distance (in mm) that each nodule is relative to the root mark at the time of inoculation. Nodules above the root tip mark are designated as + mm and those below the root tip mark as - mm. Those at the root tip mark are designated as 0 mm. Plot the number of nodules (Y-axis) versus distance from root tip mark in a histogram. Those rhizobia with the majority of nodules above the root tip mark formed nodules earlier than those below the mark and are thought to be more competitive for nodulation."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

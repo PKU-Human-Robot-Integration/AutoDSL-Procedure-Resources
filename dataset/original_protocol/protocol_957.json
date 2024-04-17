@@ -1,0 +1,15 @@
+{
+  "id": 1021,
+  "origin_website": "Nature",
+  "title": "Finding set of \"core genes\" for Nematoda, Trematoda and Cestoda",
+  "procedures": [
+    "Building the NOGs and TROGs:\n1. The full proteomes of twelve nematode species, four trematode species, one cestode and several eukaryotic outgroups are clustered using OrthoMCL<sup>2</sup>.\n  2. NOGs are defined as clusters containing at least one member from each of the twelve included nematode species.\n  3. TROGs are defined as clusters containing at least one member from each of the four included trematode species.\n  4. An HMM is built for each cluster using HMMER \\(v2.3.2)<sup>3</sup> which can be used for training gene prediction software.\n  \nFor the associated publication, the CEOGs were defined using a different set of cluster input since the OrthoMCL input for the steps above only include a single cestode:\n1. The full proteomes of four cestode species and several eukaryotic outgroups were clustered using OrthoMCL.\n  2. CEOGs are the groups containing at least one member from each of the four included cestode species.\n  3. An HMM is built for each clustering using HMMER \\(v2.3.2)<sup>3</sup> which can be used for training gene prediction software."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

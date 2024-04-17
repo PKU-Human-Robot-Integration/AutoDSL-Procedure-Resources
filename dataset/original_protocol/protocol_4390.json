@@ -1,0 +1,14 @@
+{
+  "id": 4614,
+  "origin_website": "Bio",
+  "title": "<em>In vitro</em> Chitin Binding Assay",
+  "procedures": [
+    "Wash the chitin beads as follows   Vortex the chitin beads before pipetting.    Wash the desired amount of beads solution (100 µl per experiment) twice with 5 volumes of chitin binding buffer. This washing step is performed by gravity flow by leaving the sample 5 min at room temperature.      Binding assay   Prepare a 200 µl solution of chitin-binding buffer containing the purified CbpD protein at 60 µg/ml (total fraction). For that, 1.5 µl of purified CbpD at 8 mg/ml in 50 mM Tris pH 8, 300 mM NaCl, 250 mM imidazole was mixed with 198. 5 µl of chitin binding buffer.    Add 100 µl of pre-washed chitin beads in chitin-binding buffer to the purified protein solution.   Incubate the sample on a laboratory rotating wheel for 90 min at 4 °C.   After gravity flow separation, collect the supernatant (unbound fraction).   Wash the beads (bound fraction) twice with 200 µl of chitin binding buffer by gravity flow.   Analyse 15 μl of Total (equivalent to 0.9 μg), Unbound and Bound fractions by SDS-PAGE followed by Coomassie blue staining and/or immunoblotting (see Figure 1)."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

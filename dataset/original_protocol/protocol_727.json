@@ -1,0 +1,17 @@
+{
+  "id": 770,
+  "origin_website": "Nature",
+  "title": "MATQ-seq protocol",
+  "procedures": [
+    "1. Cell lysis\n  Lysis solution:\n0.2% Triton-X \\(Sigma) in DEPC H<sub>2</sub>O 1μL\n0.1mM DTT \\(Life Technologies) 0.05μL\nRnaseOUT \\(Life Technologies) 0.05μL\nPrimer**** mix 0.4μL \\(PAGE purified from IDT; GAT27dT 1.5uM, GAT275N3G 5uM, GAT275N3T 5uM)\n10Mm each dNTP 0.1μL\nPipette single cell in lysis solution, briefly centrifuge, then put on PCR block 72ºC 3min, then quickly put on ice for at least 1min.\n2. Reverse transcription\n  \nAdd RT mix containing:\n5X RT buffer \\(Life Technologies) 0.8μL\n0.1mM DTT 0.2μL\nRnaseOUT 0.1μL\nSuperscript III \\(Life Technologies) 0.15μL\nRnase-free H<sub>2</sub>O 1.15μL\nMix well by pipetting with low retention tips\nRun following program:\n10 cycles of\n8ºC  12s\n15ºC  45s\n20ºC  45s\n30ºC  30s\n42ºC  2min\n50ºC  3min\nEnd cycles\n50ºC  15min\n4 ºC  Forever\n3. Digestion of primers \n  50ºC  1min\nAdd 0.2μL T4 DNA polymerase \\(New England Biolabs) at 37ºC, mix well\n37ºC 40min\n75ºC 20min\n37ºC 40min\n80ºC  20min\n4 ºC  Forever\n4. RNA digestion\n  Add 0.1μL RnaseH \\(New England Biolabs), 0.1μL RnaseI \\(New England Biolabs), mix well\n37ºC 15min\n72ºC 15min\n4 ºC Forever\n5. Tailing\n  make following TdT mix:\n10X TdT buffer \\(New England Biolabs)  0.4μL\n100mM dCTP \\(Life Technologies)  0.4μL\nTdT terminal transferase \\(New England Biolabs)  0.1μL\nH<sub>2</sub>O 3.1μL\nAdd the TdT mix into sample, mix well\n37ºC  15min\n72ºC  15min\n4 ºC  Forever\n6. Second strand synthesis \n  Make following 2nd  stand mix:\n10X Thermopol \\(New England Biolabs)  1.5μL\ndNTP \\(10uM each)  1.25μL\n10uM GAT21 6n3G pimer**** 1.25μL \nH<sub>2</sub>O  12μL\nAdd the mix into sample, heat the block to \n95ºC  1min\n48ºC hold, add Deepvent exo- DNA polymerase \\(New England Biolabs) 0.4μL, mix well\n10 cycles of\n48ºC  20s\n72ºC  1min\nEnd  cycles\n72ºC  2min\n4 ºC  Forever\n7. Amplification\n  \n10X Thermopol Buffer  13μL \n100uM GAT27 primer****   0.8μL\n10mM each dNTP  3μL\nPCR grade water 116μL",
+    "Deepvent exo- DNA polymerase 3μL\nSplit into 4 PCR tubes\n95ºC  30s\n24 cycles of\n95 ºC  15s\n62 ºC  20s\n72 ºC  2min\nEnd cycles\n72 ºC  5min\n4 ºC Forever\nUse Qiagen PCR purification kit to purify the end product\n8. 3NGAT24 Double strand conversion \\(For better cluster identification during sequencing)\n  \n200ng of amplified cDNA\n10X Thermopol buffer 5μL\ndNTP 1.25μL\n100Mm 3NGAT24 primer****  0.25μL\nDeepvent exo- DNA polymerase 1μL\nAdd H<sub>2</sub>O to total 50 μL\n95ºC  30s\n20 cycles of\n62 ºC  20s\n72 ºC  1 min\nEnd cycles\n72 ºC  3min\n95ºC  30s\n20 cycles of\n62 ºC  20s\n72 ºC  1 min\nEnd cycles\n72 ºC  3min\n4 ºC  Forever\nUse 1.2X Ampure XP beads \\(60 μL) to purify\n**** Primer sequence \\(Integrated DNA Technologies, PAGE purified):\nGAT27dT: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN TTTTTTTTTTTTTTTTTTTT\nGAT27 5N3G: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN GGG\nGAT27 5N3T: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN TTT\nGAT21 6N3G: GAT GGT TGA GGA TGT GTG GAG NNNNNN GGG\nGAT27 PCR:  GTG AGT GAT GGT TGA GGA TGT GTG GAG\n3NGAT24: NNN AGT GAT GGT TGA GGA TGT GTG GAG"
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

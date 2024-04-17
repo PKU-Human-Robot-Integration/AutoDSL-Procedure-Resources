@@ -1,0 +1,17 @@
+{
+  "id": 4490,
+  "origin_website": "Bio",
+  "title": "Generation of Aβ-specific T cell lines and <em>in vivo</em> Transfer",
+  "procedures": [
+    "Dissolve Aβ1-42 peptide in HPLC-grade water to provide a 12 mg/ml stock solution, which is diluted to 2 mg/ml using sterile PBS and allowed to aggregate for 48 h at 37 °C and with agitation of 200 rpm. Aβ1-42 is used immediately or stored at -20 °C.Immunize C57BL/6 mice by subcutaneous injection into the rear footpad with Aβ1-42 (75 μg/mouse) and CpG (25 μg/mouse) in a total volume of 50 μl i.e. 25 μl per foot.Administer a sec (booster) immunization with the same doses of antigen and adjuvant after 21 days. After a further 7 days, sacrifice the mice and remove the popliteal lymph nodes (the draining lymph node; see Figure 1) and spleens.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140919/20140919023321_1706.jpgFigure 1. A schematic of popliteal lymph nodeDissociate lymph node and spleen tissue through a sterile 70 μm nylon mesh filter, wash with complete RPMI and centrifuged at 280 x g for 5 min and perform a cell count.Stimulate the cells at 2 x 106 cells per ml with Aβ1-42 (25 μg/ml) in the presence of cytokines and antibodies depending on the type of cell line required. To generate Th1 cells, the cells from the lymph nodes and spleens are stimulated with Aβ1-42 (25 μg/ml) and IL-12 (10 ng/ml). Th2 cells are amplified using dexamethasone (1 x 10-8 M), IL-4 (10 ng/ml), and anti-IFNγ (5 mg/ml), and Th17 cells are generated with IL-1 (10 ng/ml), IL-23 (10 ng/ml) and anti-IFNγ (5 mg/ml).After 4 days, add IL-2 (5 ng/ml) to the Th1 and Th2 cell cultures, or medium only to the Th17 cells and incubation continued for a further 7 days.Wash cells with complete RPMI, centrifuge at 280 x g for 5 min and count.",
+    "Confirm that cells are polarized to Th1, Th2 or Th17 either by performing intracellular cytokine staining for IFN-γ, IL-5 or IL-17 and FACS analysis or by assessing the quantity of these cyokines in supernatants by ELISA.Inject cells i.p. into recipient mice (typically 1.5 x 107 cells/mouse) in 100 μl serum-free medium or PBS."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

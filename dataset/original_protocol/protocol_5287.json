@@ -1,0 +1,16 @@
+{
+  "id": 5614,
+  "origin_website": "Bio",
+  "title": "A Simple and Rapid Assay for Measuring Phytoalexin Pisatin, an Indicator of Plant Defense Response in Pea (<em>Pisum sativum</em> L.)",
+  "procedures": [
+    "Preparation of elicitors The selection of elicitors is by design open to innovation. Follow the directions of manufactures for solubility procedures. Water soluble compounds dissolved at near neutral pH are preferred. When solubility depends on ethanol, DMSO etc., there must be suitable control applications with only the respective solvent. Incompatible pathogen can be a positive control for an inducer of nonhost resistance. See Note 2 in detail.   Preparation of pod halves   Harvest pods and remove calyx as shown in Figure 1. Hold these pods in a sterile deionized water reservoir to keep the tissue moist.   Select uniform sized and conditioned pea pods from their water reservoir.   Separate the pod halves with a smooth spatula avoiding wounding as much as possible.   Fresh weight of pod halves is determined.   Lay endocarp (inner) surface layer up in a Petri dish (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170626/20170626010739_5588.jpg Figure 1. Pea endocarp. The inside layer (endocarp) of an immature pea pod is cuticle-free tissue capable of responding rapidly to microbes or elicitor compounds. Right picture shows endocarp tissues treated in an elicitor solution in Petri dishes. Incubation is performed in a plastic container with wet paper towels to maintain humidity.      Application of elicitors   Apply 25 µl of elicitor candidate solution and lightly distribute over the entire surface with a glass rod. For the control, apply the same solvent used for dissolving the elicitor.   Treated pods are retained in a plastic container with wet paper towels (Figure 1) to maintain humidity and then incubate in the dark or moderate light for up to 24 h.     Extraction and measurement of pisatin   Pods are transferred to 30 ml glass vials using forceps and immersed in 5 ml of hexane for 4 h in the dark. Typically, 400 mg fresh weight per 5 ml of hexane.",
+    "The hexane is decanted off into 30 ml beakers and the hexane evaporated in the air stream of a hood in low light because pisatin is not stable in bright light (typically light strength in the lab is not incandescent).   One milliliter of 95% ethanol is added to the residue and read at 309 nm in a cuvette using spectrophotometer.   To insure purity, a UV spectrum is measured in the range of 220-320 nm to verify the characteristic pisatin spectrum (Figure 2). See Note 3 in detail.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170626/20170626010930_9155.jpg Figure 2. Pisatin spectrum. UV spectrum in the range of 220-320 nm was run to verify the purity of pisatin."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

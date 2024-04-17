@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "origin_website": "Nature",
+  "title": "Hydrodynamics-based gene transduction",
+  "procedures": [
+    "1. Dilute the plasmid DNA with sterile PBS right before injection. The final concentration of the DNA should be calculated from the total amount of DNA/mouse.\n  2. Take 2 ml of the solution into a 3 ml syringe and put a 27-gauge needle to the syringe. Avoid any air bubbles in the syringe. \n  3. Warm up a mouse using a Heatlamp for 1-2 minutes. \n  4. Fix the mouse in a Mouse Tail Illuminator.\n  5. Inject the DNA solution from the tail vein in 5-7 seconds and put the mouse back into the cage. Mice may become less active transiently, but recover within 10 minutes."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

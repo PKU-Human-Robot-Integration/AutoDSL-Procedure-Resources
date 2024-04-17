@@ -1,0 +1,18 @@
+{
+  "id": 662,
+  "origin_website": "Nature",
+  "title": "Multiple-target tracing \\(MTT) algorithm probes molecular dynamics at cell surface",
+  "procedures": [
+    "**I. Labeling cell surface molecules with Qdots**\n1. Plate subconfluent cells on sterilized 18 mm round coverslips and allow for spreading in the incubator overnight.\n  2. Dilute the biotinylated antibody in culture medium, supplemented with 100&#xD7; biotin. Mix with equimolar amount of streptavidin-Qdots \\(typically 10 nM each), to avoid presence of several antibodies per Qdot. Final volume should be adapted to the minimal volume allowed with the chamber \\(typically 500 &#xB5;l).\n  3. Incubate the antibody-Qdot mix for 15 min at 37&#xB0;C.\n  4. Mount coverslips from the culture well, one at a time in the observation chamber.\n  5. Incubate cells for 15 min at 37&#xB0;C in antibody-Qdot mix. Using culture medium supplemented with serum prevents unspecific binding of Qdots to the coverslip.\n  6. Wash thoroughly three times with HBSS to remove unbound Qdots.\n  7. Image up to 30 min in 500 &#xB5;l HBSS-Hepes, on the microscope stage at 37&#xB0;C.\n  \n**II. Image acquisition**\n8. Warm the microscope stage at 37&#xB0;C and the fluorescence lamp at least 1 h prior to measurements.\n  9. Select isolated and properly spread cells. Visual quality check should be performed both with transmitted and fluorescence illumination.\n  10. First acquire a DIC image of the cell before recording stacks and save it as TIFF, with the same name as the corresponding subsequent stack\\(s), in a local subfolder named **dic**. Carefully following these conventions for naming files is required for the algorithm batch analysis.\n  11. Record stacks of single-molecule images using a dedicated fluorescence microscopy setup \\(see **Equipment**). Each stack typically consists of 300 images, taken using frame transfer at 36 ms time-lag, in full frame \\(512 &#xD7; 512 pixels).\n  12. At the end of the stack acquisition, record another DIC image to check for the absence of noticeable photodamage.\n  \n**III. Analysis of single-molecule data with MTT**",
+    "13. Launch either Octave or Matlab; before the first run, the folders containing the MTT codes, **detect_part_v2**, **utils_MTT** and **carto**, must be added to the Octave/Matlab path.\n  14. Navigate to your data directory.\n  15. If necessary, tracing parameters such as D<sub>max</sub> \\(maximum expected diffusion for unconstrained motion) can be adjusted by editing the **MTT_param.m** script \\(**Fig. 1**). This parameter is the only one being directly related to the biological problem.\n  16. Execute the **detect_reconnex_22.m** script to start a fully automatic analysis \\(**Fig. 2**).\n  17. Output data \\(parameters, means and variances) can be read using scripts such as **fread_data_spt.m** for further analyses, such as:\n  A. Statistical analyses \\(i.e. distribution of parameters such as displacements or intensities, plot of mean square displacement, etc&#x2026;)\nB. Generating dynamic maps of confinement levels<sup>14-17</sup> using **carto_moviev3.m** \\(**Fig. 3**). Movies can be built from individual images using the ImageJ freeware \\(NIH)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

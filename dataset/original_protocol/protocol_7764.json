@@ -1,0 +1,16 @@
+{
+  "id": 8167,
+  "origin_website": "Bio",
+  "title": "Reverse Zymmogram Analysis for the Detection of Protease Inhibitor Activity",
+  "procedures": [
+    "Preparation of the gelatin-SDS-PAGE gelClean and completely dry glass plates, combs, spacers (0.75-1 mm), and assemble the gel cassette.Dissolve 1% gelatin in dH2O by heating, and keep warm to avoid gelling.Prepare the 12.5% separating gel, replacing the corresponding volume of water with the gelatin solution to a final concentration of 0.1%. Mix well and quickly transfer to the casting chamber to avoid the uneven gelling of the gelatin. Add a small layer of water or isopropanol prior to polymerization to level the gel. Once the gel has polymerized remove the water or isopropanol layer and dry off as much as possible by using a filter paper. Prepare and pour the stacking solution into the casting chamber and insert the comb.Sample Preparation.Add the same volume of 2x protein sample loading buffer to each protein extract to be tested, and mix. Do not heat at any time. Use a protein-based protease inhibitor as a positive control for the reaction, such as: aprotinin for subtilisin, or trypsin inhibitor for trypsin and load it at a similar concentration to the protein samples tested.Electrophoresis. Performed at 100 V for approximately 2.5 h at 4 °C.Eliminating SDS from the gel. SDS in the gel may interfere with activity of the protease inhibitor to be tested, so it must be removed from gel before treating the gel with the protease. Removal is carried out by:Rinsing twice with 30 ml of 2.5% (v/v) Triton X-100 solution, for 10 min each with agitation.Rinsing twice with 30 ml of 2.5% (v/v) Triton X-100 + 50 mM Tris-HCl (pH 7.4) solution, for 10 min each with agitation.Rinsing with 30 ml of 50 mM Tris-HCl (pH 7.4), for 10 min with agitation. For protein digestion, incubate the gel for 2 h at 37 °C, in a buffer solution containing 1.",
+    "4 U of subtilisin in 50 ml of 50 mM Tris-HCl (pH 7.4), 200 mM NaCl.For fixation, place the gel in a 10% methanol, 10% acetic acid solution with gentle shaking for 30 min. Discard the solution.Detection of proteolysis inhibitors. Stain the gel with Coomassie Brilliant Blue, by adding approximately 100 ml of stain solution and leaving it in an orbital shaker overnight. Discard the stain and rinse the gel with water until the background gel becomes clear, which indicates the efficient degradation of the copolymerized gelatin. The presence of stained bands indicates areas where gelatin was protected from degradation by the activity of a protease inhibitor (hence “protection bands”).Commonly a twin gel, lacking gelatin is run in parallel as a control.If an antibody for the tested protease inhibitor is available, the digested gel can be transferred and an immunoblot assay can be performed."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

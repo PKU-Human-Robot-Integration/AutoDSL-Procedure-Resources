@@ -1,0 +1,15 @@
+{
+  "id": 7874,
+  "origin_website": "Bio",
+  "title": "A Standardized Protocol for Early-life Stress-induced Social Defeat in Mice",
+  "procedures": [
+    "Aggression screening Introduce a novel C57BL/6 mouse (8–16 weeks old) into the home cage of single-housed CD1 mouse (4–6 months old).Record attack latencies of CD1 mice during a 3 min testing session.Repeat the procedure for three consecutive days, using different C57BL/6 mouse for each CD1 mouse each day.Select CD1 mice that attacked within 60 s for at least two consecutive days as aggressors.Resect the gonads of selected CD1 aggressors (refer to Sophocleous and Idris, 2019) using surgical scissors and sutures and isoflurane, to avoid harmful behaviors against experimental mice in subsequent experiments.Reuse CD1 aggressors for different pup litters for no longer than three months.Early-life social defeat paradigm Randomly assign mouse pup litters to control and experimental groups at postnatal day 15 (PD 15).Introduce each pup of the experimental group into the home cage of an unfamiliar CD1 aggressor for a session of 30 min.Place the pup litters back in their home cages with dams.Repeat the aggression with different resident home cages every day from PD 15 to PD 24.Keep pups in the control group undisturbed from PD 15 to PD 24.Raise all experimental mice individually in their cage after the 10 day social defeat for a month.Social interaction test (SIT) Conduct the SIT on PD 55 between 10:00 and 14:00.No target trial: introduce experimental and control mice into the arena while the wire mesh enclosure is empty for 300 s.Analyze the time that experimental mice spend in the social interaction and corner zones with EthoVision XT.Remove the experimental mice from the arena and place them into their home cage for 1 min.Target trial: place an unfamiliar CD1 mouse into the wire mesh enclosure of the arena.Introduce experimental mice into the arena for another 300 s.",
+    "Analyze the time that experimental mice spend in social interaction zone and corner zones with EthoVision XT.Clean the arena and wire mech enclosure with odorless cleaning solution and wipe dry.Open field test (OFT) Conduct the OFT on PD 56 between 10:00 and 14:00.Introduce each experimental mice into the arena for 10 min.Analyze the time that experimental mice spend in the central and corner zones of the open field arena with EthoVision XT.Analyze the total distance traveled by experimental mice with EthoVision XT.Clean the arena with odorless cleaning solution and wipe dry."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

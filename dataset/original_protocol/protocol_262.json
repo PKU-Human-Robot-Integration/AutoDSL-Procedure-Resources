@@ -1,0 +1,15 @@
+{
+  "id": 277,
+  "origin_website": "Nature",
+  "title": "Noble Agar Assay for Self-Renewal",
+  "procedures": [
+    "1. Prepare stock of 1.8% noble agar in sterile deionized water.\n   1a. Add 1.8 g noble agar to 100ml deionized water.\n 1b. Autoclave at 121°C for 15 min.\n 1c. Keep this solution in a 55°C water bath until ready to use.\n2. Prepare 2X DMEM.\n   2a. Add 1X DMEM powder \\(originally intended to make 1L solution) into 500ml deionized water.\n 2b. Sterile filter this solution and place at 37°C \\(to prevent premature solidification of noble agar when noble agar is added).\n3. Prepare cancer cells \\(to be mixed into top layer of noble agar in Step 5).\n   3a. Wash cancer cell cultures twice in 1X PBS. \n 3b. Detach cells \\(for cultured cell lines) or dissociate cells \\(for primary tumors) using trypsin-EDTA, harvest via centrifugation, and count cells.\n 3c. Dilute appropriately to add log10-fold dilutions of cells to 1.33ml sterile PBS in microcentrifuge tubes. For example, add 1 cell to a tube with 1.33ml PBS, add 10 cells to a tube with 1.33ml PBS, add 100 cells to a tube with 1.33ml PBS, etc.\n 3d. Set this cell solution aside until ready to seed \\(see step 5).\n4. Plate the bottom agar \\(final concentration 0.6% noble agar, 1X DMEM, total volume 4 ml) into 60mm Petri dishes as follows:\n   4a. In a sterile 10ml tube, mix 2ml of 2X DMEM with 1.33ml of 1.8% noble agar and 0.67ml sterile deionized water.\n 4b. Immediately pour this 4ml solution onto 60mm Petri plates. Perform in triplicates.\n 4c. Allow plates to solidify at 37°C for 10 min.\n5. Plate the top agar \\(final concentration 0.3% noble agar, 1X DMEM, total volume 4 ml) as follows:\n   5a. In a sterile 10ml tube, Mix 2ml of 2X DMEM with 0.67ml of 1.8% noble agar and 1.33ml cell solution from Step 3c).",
+    "5b. Immediately pour this 4ml solution onto the bottom layer of 60mm Petri plates from Step 4. Perform in triplicates.\n6. Place plates at 37°C overnight to allow for colony formation.\n  \n7. Using a microscope, count the number of colonies on each 60mm plate.\n         7a. Determine the tumorigenic efficiency based on the number of cells plated:\n Efficiency = \\(# of colonies)/\\(# of cells plated) x 100%\n       7b. Determine the types of progeny produced \\(qualitative assessment by visualization)."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8087,
+  "origin_website": "Bio",
+  "title": "Labeling of Precursor Granule Cells in the Cerebellum by <em>ex vivo</em> Electroporation",
+  "procedures": [
+    "A.   Preparation of micropipettes for DNA injection    Pull the capillary glass using the puller with a single pull. Adjust the puller setting to make the capillary taper approximately 10-20 mm. When using P-97, start with the following setting: Heat equal of the Ramp value, Pull 0, Vel 40 and Time 200.   Cut out 1/3 – 1/2 of the tips of the pulled pipettes using the forceps.     B.  DNA preparation    Prepare plasmids using the Plasmid Maxi Kit and elute DNA with distilled water. The concentration of the DNA should be 4-5 μg/μl for storage.    For injection, the final concentration of DNA should be 2 μg/μl. Add 1/10 volume of 10x HBS, 1/10 volume 1% fast green (final 0.1%) and water to the DNA solution to adjust the concentration.      C. Electroporation    Attach a micropipette to an aspirator tube assembly and draw 10 μl of DNA -solution into the pipette (Figure 1).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130612/20130612005010_1319.jpg Figure 1. An aspirator tube and a glass capillary     Remove a whole-brain from a mouse (postnatal days 7-9) and put it into an ice-cold PBS in a 10-cm petri dish.   Remove the forebrain and the brain stem using the forceps. If the cerebellum is planned to be used for organotypic culture, the meninges should not be removed in order to keep the cellular layers intact. If the cerebellum is to be further processed for dissociated culture, the meninges should be removed to avoid glial cell overgrowth.   Observe the cerebellum under a dissecting microscope. Inject the DNA solution (2 -3 μl/fissure) into the cerebellar fissures by mouth pipetting (Figure 2). Inject into at least 2 or 3 fissures, starting from those in the vermis. If high transfection efficiency is required, inject into as many fissures as possible.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130612/20130612005130_1913.jpg Figure 2.",
+    "Injection of plasmid DNA solution into cerebellar fissures    Place the forceps-type electrodes so that cerebellum is in between the two electrode planes. The two planes should be positioned parallel to the fissures of the cerebellar vermis. They should be held about 3-5 mm apart from the cerebellum surface (Figure 3).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130612/20130612005218_4890.jpg Figure 3. Placement of electrodes    Apply electric pulses; 99.9 V, ON 50 msec, OFF 450 msec, 5 pulses. Adjust the voltage value depending on the outcome. When the transfection efficiency is too low, the voltage should be increased up 120 V. When the transfection efficacy is too high or when the number of dying cells is too high, the voltage setting should be decreased.   The cerebellum can be further processed for either organotypic slice or dissociated cultures (please see reference 1 for the images showing the labeled granule cells)."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Molecular Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

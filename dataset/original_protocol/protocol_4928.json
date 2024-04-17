@@ -1,0 +1,16 @@
+{
+  "id": 5242,
+  "origin_website": "Bio",
+  "title": "Assay to Evaluate BAL Fluid Regulation of Fibroblast α-SMA Expression",
+  "procedures": [
+    "Seed fibroblasts at a density of 1 x 106 per well of a 6-well cell culture plate in a total volume of 1 ml. Allow cells to adhere to cell culture plate (2-6 h).   Harvest bronchoalveolar lavage (BAL) fluid from mice (Han and Ziegler, 2013). Mice can be treated with bleomycin (1.75 U/kg) or saline as a negative control. Determine the protein concentration of bronchoalveolar lavage (BAL) fluid. Using RPMI 1640 media, normalize all BAL samples to the same protein concentration in a total volume of 1 ml.  Notes:    Typically, 0.5-1 ml of BAL fluid is used and RPMI is used to normalize the protein concentration to a final total volume of 1 ml.   Alternatively, this assay can be performed in vitro using conditioned media from macrophage cell lines or bone marrow derived macrophages. Harvest the conditioned media from macrophages post-transfection or post-treatment, using 1 million cells per 1 ml of media.    Remove media from fibroblasts and rinse with 1.5 ml room temperature 1x PBS, add normalized BAL fluid to fibroblasts.    Incubate fibroblasts with BAL fluid for 24 h in a cell culture incubator, 37 °C, 5% CO2: 95% air atmosphere.   Harvest fibroblasts by lysing cells in lysis buffer (see Recipes).    Determine α-SMA expression by immunoblot analysis. The expression of α-SMA protein was determined by Western blotting using 20 μg of total cellular protein. After blocking in 5% milk, the membranes were probed with mouse α-SMA primary antibody using a 1:3,000 dilution in Tris buffered saline containing 0.1% Tween 20, the membranes were incubated with the anti-mouse secondary antibody (1:2,000) in antibody dilution buffer for 1 h."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

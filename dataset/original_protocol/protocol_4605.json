@@ -1,0 +1,15 @@
+{
+  "id": 4861,
+  "origin_website": "Bio",
+  "title": "Culture of Megakaryocytes from Human Peripheral Blood Mononuclear Cells",
+  "procedures": [
+    "imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151103/20151103014102_9172.jpgimgsrc:https://en-cdn.bio-protocol.org/attached/image/20151103/20151103014120_6700.jpgFigure 3. PBMC-derived megakaryocyte culture variations. A. Fresh vs. Phase I-frozen PBMC-derived megakaryocyte cultures: Flow cytometry analysis. A cocktail of antibodies against megakaryocyte surface markers is used to distinguish differentiation stages in human megakaryocyte cultures. The profiles from both conditions (Fresh vs. Phase I-Frozen) look similar and suggest that megakaryocytes can be successfully grown with this culture method, which allows freezing of cultures during the first days of culture Phase I. B. Cell morphology of cultures derived fromCD34+ sorted cells instead of PBMCs. Cells were observed under the bright field microscope and pictures were taken. The morphology of megakaryocytes from cultured CD34+ sorted cells is similar to that from cultured total PBMCs.BSA gradientIf you need to collect a purer fraction of megakaryocytes (since the cultures are always heterogeneous), you can do a BSA gradient to collect the bigger cells by sedimentation and proceed with the enriched fraction for further analysis.A BSA gradient (0%, 1.5% and 3%) can be used to further isolate relatively bigger size megakaryocytes as depicted in Figure 4. If the amount of cells is above 10 million, perform the BSA gradient on a 50 ml tube with 5 ml volume for each layer. If the amount of cells is lower than10 million, perform the BSA gradient on a 15 ml tube with 3 ml volume for each layer.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20151103/20151103014248_6386.jpgFigure 4. Enrichment of cultured megakaryocytes using a BSA gradient. Cells from the Phase III medium were allowed to sediment through a BSA gradient for 15-30 min. Megakaryocytes will pellet at the bottom and can be collected in PBS.Allow cells to sediment for 15-30 min at 0 x g (no centrifugation) so that megakaryocytes will pellet at the bottom of the tube.",
+    "Collect megakaryocytes with PBS, wash once again at low speed (100 x g or 700 rpm) and proceed further with the downstream analysis.Alternatively, megakaryocytes can be retrieved by magnetic separation (EasySepTM Magnet) based on positive selection using an antibody (e.g. CD41-FITC) or by FACS sorting depending on the downstream experimental procedure.Flow cytometry based megakaryocyte differentiationBasic flow cytometry analysis can be performed using a cocktail of antibodies that allow the analysis of the differentiation stages of megakaryocytes in culture. Figures 2-3 show examples of the gating strategies, and the sequence of expression of surface markers during megakaryocyte differentiation."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

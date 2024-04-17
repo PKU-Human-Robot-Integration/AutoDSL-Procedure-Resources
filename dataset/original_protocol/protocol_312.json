@@ -1,0 +1,19 @@
+{
+  "id": 329,
+  "origin_website": "Nature",
+  "title": "_Ex vivo_ BIN1/Amphiphysin 2-induced tubulation of membranes, and visualization of Dynamin 2 recruitment to the membrane tubules",
+  "procedures": [
+    "**Transfection**\n1. Inoculate COS-1 cells in a 75 cm<sup>2</sup> cell culture flask and grow in DMEM + 1g/L glucose + 5% FCS to 100% confluence. Dilute the cells 1:4 in same medium and spread on 22 mm<sup>2</sup> glasses into 6 wells tissue culture plate. Let them adhere and grow 5 hrs at 37&#xB0;C.\n  \n2. Mix in this order 100 microl. DMEM \\(without glucose nor FCS) with 3 microl. Fugene-6 transfection reagent and 1 microg. of plasmids DNA encoding the proteins of interest, pEGFP-BIN1 iso 8 and pSG5 Myc-tagged-DNM2 in this study. Incubate 10 min at room temperature, then add to cells in 1 ml DMEM + 1g/L glucose + 5% FCS. Incubate overnight at 37&#xB0;C.\n  \n**Immunofluorescence**\n3. Wash cells with PBS once, then fix the cells with 4% paraformaldehyde 20 min to overnight at 4&#xB0;C. \n  \n4. Quench with NH<sub>4</sub>Cl 50mM 15 min.\n  \n5. Wash cells with PBS 5 min before permeabilisation with PBS + 0.2% Triton 10 min. Wash cells with PBS 5 min.\n  \n6. Saturate non specific immunoglobulin binding sites with PBS +  0.1% Triton + 10% FCS for 1 hr. Wash cells with PBS 5 min.\n  \n7. Dilute primary antibody \\(anti-Myc) 1:400 in PBS + 0.1% Triton + 3% FCS. Transfer the 22 mm<sup>2</sup> glasses carrying cells into a humid chamber \\(parafilm surrounded by water drops is enough) to avoid drying of the small volumes during the following incubations. This procedure allows the use of a small amount of antibodies, as a drop covering the cells on the glasses. Incubate cells on 22 mm<sup>2</sup> glasses with primary antibody dilution for 1 hr at room temperature. Wash cells three times with PBS + 0.1% Triton  for 5-10 min.",
+    "8. Dilute secondary antibody \\(Goat anti Mouse Cy3) 1:200 in PBS + 0.1% Triton + 3% FCS, and incubate on cells for 45 min at room temperature. \n  \n9. Wash cells three times with PBS + 0.1% Triton  for 5-10 min, then once with PBS for 5-10 min. Mount glasses on microscope slides \\(cells facing the slides) with a drop of anti-fading solution, that keeps cells from drying and protect from fluorescence fading.\n  \n10. Use a confocal microscope with an Argon 488 excitation to visualize the GFP-BIN1 positive membrane tubules and a HeNe 543 excitation for the red Myc-DNM2 localization."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

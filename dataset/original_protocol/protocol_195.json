@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "origin_website": "Nature",
+  "title": "Purification of His-tagged membrane proteins from detergent-solubilized membranes",
+  "procedures": [
+    "1. Prepare solubilized membranes according to our protocol: Preparation of detergent-solubilized membranes from Escherichia coli or start with frozen membranes from 1 l culture by solubilizing in 1% DDM, 20 mM Tris-HCl, pH 8.0, 300 mM NaCl, 10% glycerol, 0.01% NaN3 for 2 h at 4˚C under gentle agitation \\(final volume: 7 ml) and subsequent ultracentrifugation at 100,000g \\(4˚C, 50 min).\n  \n2. Dilute the supernatant 2-fold with Washing Buffer \\(20 mM Tris-HCl, pH 8, 300 mM NaCl, 0.04% DDM, 5 mM histidine, 10% glycerol, 0.01% NaN3) and bind for 2 h at 4 °C to Ni-NTA Superflow beads \\(Qiagen; 0.5 ml bed volume).\n  \n3. Load the beads onto a gravity flow column \\(Wizard Midicolumn, Promega), wash with washing buffer \\(20 ml), and elute with the same buffer containing 200 mM histidine.\n  \n4. Collect fractions of the eluate \\(e.g. 250 µl fractions) and identify the fractions containing the purified target protein by SDS-PAGE.\n  \n5. Purified protein can be used e.g. for SPA-binding experiments after removing the histidine by desalting columns."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

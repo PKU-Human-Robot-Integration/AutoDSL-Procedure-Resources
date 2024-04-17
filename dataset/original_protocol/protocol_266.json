@@ -1,0 +1,16 @@
+{
+  "id": 281,
+  "origin_website": "Nature",
+  "title": "Mass Spectrometry Imaging of Invisible Micro-Patterns on Graphene Substrate",
+  "procedures": [
+    "1. Preparation of engineered graphene films\n  a. The graphene film was obtained by filtration of solvent dispersed graphene sheets at a concentration of 1 mg/mL.\nb. The selected area of graphene film was scanned with pulsed nitrogen laser with wavelength of 337 nm \\(200 Hz). It’s noted the area can be adjusted.\nc. The spot-to-spot distance was set to be 30 µm and 500 shots were taken at each spot. The laser intensity was set to be 50% \\(about 121.8 µJ for 100%).\n2. Preparation of micro-patterns\n  a. Diluted analytes \\(DOTAP) solutions were prepared in a step-wise manner. The solution should be stocked in -20 ºC fridge before use.\nb. The stamp \\(Figure 1a) was dipped into the solution and then pressed onto the engineered graphene film to mark the pattern. It’s noted that such pattern is invisible on the stamped paper \\(Figure 1b) and can only be subsequently constructed by 2D matrix-free MS imaging technique.\n3. Matrix-free LDI MS imaging\n  a. In the imaging set up, the spot-to-spot distance was set to be 50 µm and 50 laser shots were taken with laser intensity of 36% at each spot.  The nitrogen laser \\(337 nm) was applied at a repetition rate of 200 Hz. A full mass spectrum ranging from 200 to 2000 m/z was acquired for every pixel at an x-y step-size of 50 μm.\nb. Imaging data was stored in the FlexImaging data format \\(Bruker Bioscience). 2D image construction and statistical analysis were executed using custom-made scripts in the FlexImaging software \\(Bruker Biosicence, AUS). Peak finding and integration was performed for each pixel to select peaks at specific m/z of 380 and 662. Peaks were integrated using a 0.3 Da window."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

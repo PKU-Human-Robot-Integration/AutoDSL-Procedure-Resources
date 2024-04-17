@@ -1,0 +1,15 @@
+{
+  "id": 5653,
+  "origin_website": "Bio",
+  "title": "Aldicarb-induced Paralysis Assay to Determine Defects in  Synaptic Transmission in <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "For the routine maintenance of worms, see Stiernagle, T. Maintenance of C. elegans (Stiernagle, 2006).Prepare NGM agar plates containing 1 mM aldicarb (see Recipes) at least one day before the assay and store at 4 °C until use. Regular NGM agar plates for the routine maintenance should be seeded with OP50 E. coli and be available before the assay. Pick 30-40 L4 stage wild-type N2 and mutants of interest onto separate NGM plates seeded with OP50 E. coli (but not containing aldicarb), and culture them at 20 °C for 20 to 24 h.Use forceps to pick up a copper ring and dip into 70% ethanol. Flame the copper ring for a few seconds and immediately place it on the aldicarb-containing NGM agar plate. The copper ring will be lightly embedded in the agar surface of the plate (Figure 1). This will corral worms inside the ring. Place 3 copper rings on each assay plate and add 10 μl of OP50 E. coli (OD600 = 1.2) at the center of the ring. Bacteria help keep the worms around the center of the ring. Let the plates dry for 30 min. Three genotypes can be assayed on the same plate.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170712/20170712222451_1596.jpgFigure 1. A representative image of a copper ring embedded agar plate. Three copper rings are placed on a 60 mm NGM agar plate, and 10 μl of OP50 is added at the center of the ring.Transfer 20-30 worms of each genotype from step 3 to the center of each ring. Record the number of worms placed in each ring. Stagger worm transfer every 2-3 min so that all 3 genotypes are examined within a 10-min interval. Observe the worms in a 10-min interval.",
+    "If there are worms not moving, then gently prod their heads with a platinum wire until they move (Videos 1 and 2). If they fail to move their head in response to even harsh touch, then remove them from the plate and record. Continue until no worm is left. Make sure that all of the worms are accounted for throughout the assay.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. A video recording of responses of worms with different genotypes in the presence of aldicarb. The video (120 frames) was recorded for 4 min after 50 min incubation on an aldicarb plate. * indicates the paralyzed worms. WT: wild-type animals, slo-1: slo-1(eg142lf), mutant: an uncharacterized mutant.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 2. A video recording shows paralyzed worms that do not respond to harsh touch"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

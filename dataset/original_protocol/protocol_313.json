@@ -1,0 +1,20 @@
+{
+  "id": 330,
+  "origin_website": "Nature",
+  "title": "Processing and Characterization of Monodisperse Silicon Colloids",
+  "procedures": [
+    "**Monodispersed as prepared a-Si:H colloids with low refractive index.**\n\\(The model synthesis described below targets at the a-Si particles with 25% hydrogen content and average diameter of 430 nm.)\n_Step 1: Synthesis preparation_ \na) Set the Variac to 70% power and preheat the brass block 60 °C above the desired reaction temperature \\(i. e., 485 °C in this case), with an empty reactor inside the brass heating block to maintain good thermocouple contact.\nb) Clean the titanium reactor and the plug with chloroform and dry in the fumehood.\nc) Put the reactor and the plug into the ante-chamber of the glovebox. Take 3 cycles of exhaustion and at least 10 minutes for each cycle. \nd) Prepare an ice bath in a bucket. The water level should be lower than the height of the reactor.\n_Step 2: Loading reagents_ \na) Move the reactor and the plug to the glovebox.\nb) Measure 5.8 mL of n-Hexane and 18 μL of trisilane and add to the reactor. Put on the plug and tighten with a wrench.\n\\(This operation should be done immediately to avoid any evaporation of trisilane.)\nc) Remove the reactor from the glovebox and further tighten the plug with the vice and the wrench.\n_Step 3: Synthesis._\na) Remove the empty reactor from the preheated brass block and place in the loaded reaction vessel. \nb) Change the temperature setting to the desired reaction temperature \\(425 °C), and start the timer.\n\\(The temperature detected by the thermocouple will drop the desired reaction temperature and return within 3 min. Long stabilization time \\(> 3 min) usually leads to lower hydrogen content of particles.)\nc) After 10 min, remove the reactor from the heating block with tongs and submerge in the ice bath to quench to room temperature.\n_Step 4: Purification._",
+    "a) After the reaction vessel cools to room temperature, open the reactor with a wrench and collect the product with a glass pipette. \nb) Centrifuge the product at 8000 rpm for 5 min to precipitate the particles.\nc) Discard the supernatant, redisperse the product in 5 mL of chloroform with sonication, and centrifuge again.\nd) Discard the supernatant, redisperse the particles in chloroform. The dispersion is typically stored under ambient conditions.\n**High vacuum annealing to obtain monodisperse high refractive index silicon colloids** \n_Step 5: vacuum annealing_\na) Evaporate the solvent from the a-Si:H colloidal suspension by heating it in an oven at 120 °C.\nb) Put the dried a-Si:H particles into a chamber.\nc) Make high vacuum within the chamber using turbo-molecular vacuum pump.\nd) Annealing the chamber with oven to a certain temperature for one hour \\(200 °C - 600 °C in our experiments).\ne) Let the chamber cool down slowly \\(around 1 °C /min) to room temperature under vacuum environment.\nf) Rediperse silicon colloids in chloroform.\n**Optical characterization**\n_Step 6: Spectrum measurement_\na) Set up the home-made confocal microscope combined with a spectrometer coupler working in NIR region. A graph of the setup is shown in Figure 2. \nb) Place a drop of silicon colloid suspension drop on a glass substrate and wait for the chloroform to evaporate.\nc) Put the glass substrate onto the sample holder of the confocal microscope and focus the sample.\nd) Select a single particle and close the confocal aperture of the setup. Only the sample whose image falls inside the aperture area can be measured.\ne) Tune the designed spectrometer coupler of the setup, and optimize the signal-noise ratio of the setup. The designed spectrometer coupler is shown inside the Figure 2.",
+    "f) Measure the spectra once the InGaAs detector is cooled down with liquid nitrogen."
+  ],
+  "subjectAreas": [
+    "Physics",
+    "Biological Techniques",
+    "Materials Science",
+    "Synthetic Chemistry",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

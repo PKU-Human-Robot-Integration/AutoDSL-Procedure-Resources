@@ -1,0 +1,17 @@
+{
+  "id": 4277,
+  "origin_website": "Bio",
+  "title": "Isolation of Multipotent Stromal Cells from Mouse Bone Marrow",
+  "procedures": [
+    "Under culture hood, flush tibia and femora from one 6-8 weeks old mouse with FBS-free DMEM in a dish with DMEM previously warm at 37 °C (see Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p>  Video 1. Mouse-bone marrow collection With a syringe and needle, aspirate and eject 2-3 times the bonne marrow to disrupt it.Transfer in a 50 ml conical tube.Centrifuge 10 min at 430 x g at 4 °C.Resuspend the pellet with DMEM supplemented with 15% FBS and Penicillin/Streptomycin at a density of 106 cells/ml.Plate 1 x 107 cells (10 ml) in a T25 flask.Incubate at 37 °C-5 % CO2 for 7-10 days without changing medium.Remove the supernatant in order to keep only adherent cells and wash the flask 2 times with 5 ml of PBS.Trypsinize cells for expansion. For cells trypsinization: add 0.5 ml of trypsin on the rinsed cells. Wait 3 to 5 min until cells peel off the plastic surface. Transfer cells in a 15 ml tube and add quickly 10 ml of DMEM containing 10% FBS in order to inhibit trypsin action. After 7 - 10 days, assess the phenotype of the growing adherent cells by flow cytometry.Stain cells with fluorescein isothiocyanate (FITC)-labeled anti-CD45 (clone 30-F11) and with allophycocyanine (APC)-labeled anti-CD31 (clone MEC133). These antibody should be diluted 1/200. Cells should be negative for these two markers as CD45 is a hematopoietic cells marker, and CD31 is an endothelial cells marker.Stain cells with APC-labeled anti-CD44 (clone IM7), phycoerythrin (PE)-labeled anti-CD105 (clone MJ7/18) and with FITC-labeled anti-CD90 (clone 5E10), all used at a 1/200 dilution. Cells should be positive for these three markers."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

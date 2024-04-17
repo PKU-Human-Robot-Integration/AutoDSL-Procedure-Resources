@@ -1,0 +1,16 @@
+{
+  "id": 4247,
+  "origin_website": "Bio",
+  "title": "Virulence Studies of <em>Clostridium difficile</em>",
+  "procedures": [
+    "Weigh each hamster.   Gavage 100 μl clindamycin to each hamster (30 mg clindamycin / kg body weight). Note: Dilute the stock clindamycin to the appropriate concentration using DMEM.   After 5 days, gavage 100 μl C. difficile spores.  Notes:     Depending on the strain of C. difficile used, the infectious dose can vary. However, in several strains, inoculation with approximately 100 spores will result in lethal disease.    There are several methods to ensure reproducible infectious doses [e.g. suspending spores in phosphate buffered saline (PBS)]. Our laboratory uses Teflon-coated tubes to reduce spore adherence. Other laboratories can get reproducible infectious doses in water.     Closely monitor animals for signs of infection including: wet tail, poor fur coat, lethargy, loss of 15% body weight. Note: Signs of disease are commonly observed in 2 – 4 days post infection. Be sure to closely monitor the animals for the above symptoms. Moribund animals can succumb to disease quickly.   Humanly euthanize moribund animals, in accordance with your protocol that was approved by your Institutional Care and Animal Use Committee (IACUC). Score the time required to reach a moribund state."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

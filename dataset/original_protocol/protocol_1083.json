@@ -1,0 +1,15 @@
+{
+  "id": 1156,
+  "origin_website": "Nature",
+  "title": "<p>Impact of meteorological conditions and air pollution on Covid-19 pandemic transmission in Lombardy region, Northern Italy</p>",
+  "procedures": [
+    "<p>1.&nbsp;Calculate the Absolute Humidity and Water Vapor concentration using the Relative Humidity, Temperature,</p><p> and Pressure variables from data. </p><p>2.&nbsp;Use the MATLAB function [rho<em>,pval] = corr(X, Y, 'Type', 'Spearman') </em>and compute the Spearman rank correlation (rho). X = Intensive Care Unit patients daily Case Anomaly; Y = Meteorology and Pollution Variables.</p><p>3. Use the MATLAB function [tau<em>,pval] = corr(X, Y, 'Type', 'Kendall') </em>and compute the Kendall rank correlation (tau). X = Intensive Care Unit patients daily Case Anomaly; Y = Meteorology and Pollution Variables. </p><p>4.&nbsp;Compute  the correlation coefficient and the p-value for each meteorological and air-pollution variables of Table 5</p>"
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Environmental Sciences"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

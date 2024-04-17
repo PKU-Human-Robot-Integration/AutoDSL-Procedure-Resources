@@ -1,0 +1,15 @@
+{
+  "id": 6136,
+  "origin_website": "Bio",
+  "title": "Protocols to Study Declarative Memory Formation in Mice and Humans: Optogenetics and Translational Behavioral Approaches",
+  "procedures": [
+    "We used a virtual analog of the radial-maze task for mice. The virtual maze was designed and automatized to make the test as similar as possible as the one used with the mice (Figure 6A and Video 1).<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. The subject is placed in front of a computer and uses a keyboard to navigate in a 3D virtual 12-arms maze. The maze is composed of 12 arms to which access is limited by doors. There are steps at the end of each arm leading to a platform that can contain a reward (coin). Stage 1In the acquisition phase of the task, each subject is faced with successive presentations of six pairs of adjacent arms and required to visit one of the two arms during each trial. In each pair, one arm always contains a reward (virtual coin) at its end, while the other arm never contains any reward. Training continues until reaching the acquisition criterion (when the number of incorrect choices of the non-rewarded arm is less than 2 over 12 consecutive trials), and a minimum of 6 trials by pair or maximum of 20 trials by pair are performed.Stage 2 Once the acquisition criterion is reached, then subject the participant to the probe test in which nothing is modified except that the arms are presented in new sets of pairs (recombination of previous pairs) to assess the flexibility of memory expression. Divide the young and aged participants into three inter-trial interval conditions (0, 20, or 40 sec) for the acquisition phase on the basis of their performance in the Grober and Buschke test, such that the mean score in this classical test of declarative memory is similar among the ITI conditions in each age group. Participants who failed to reach the acquisition criterion are rejected from the experiment.",
+    "Results obtained from the flexibility probe are presented in Figure 6B (adapted from Sellami et al., 2017).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20180613/20180613234605_5495.jpgFigure 6. Age-associated decline in flexible/declarative memory depends on temporal binding in humans: the virtual radial-maze task. A. Procedure of the ‘by pair’ two-stage discrimination learning paradigm in the virtual analog of the radial maze; B. In the flexibility probe, there was an age-related impairment dependent on the inter-trial interval (ITI) condition under which the task was acquired. Thus, the age-related loss of flexibility is due to a reduction of temporal binding capability. ***P < 0.001. Data presented are means ± SEM."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

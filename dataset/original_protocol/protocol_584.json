@@ -1,0 +1,15 @@
+{
+  "id": 620,
+  "origin_website": "Nature",
+  "title": "Detection of LacZ expression by FACS-Gal analysis",
+  "procedures": [
+    "1. Prepare single cell suspension.\n  a) Harvest bone marrow cells by flushing femur with ice-cold bone marrow harvesting medium.\nb) Filter the suspended cells through 70&#xB5;m cell strainer while keeping cells on ice.\nc) Count the cell concentration.\nd) Centrifuge the filtered cells at 1500rpm for 5-10 min. \ne) Resuspend the cells with HBSS+ staining buffer \\(HBSS+, ~2&#xD7;10^7 cells/mL if possible).\n2. Load FDG into cells.\n  a) Aliquot 100&#xB5;l suspended cells for staining. Prepare controls including unstained control, single color controls for FACS compensation.\nb) Prepare 2mM FDG working solution by diluting 20mM FDG stock solution with ice-cold distilled water. Prepare working FDG control solution by diluting FDG control stock solution by 1:10. Aliquote 100&#xB5;L FDG working solution or control solution to amber tubes. \nc) Prepare 15mL tubes with 2mL HBSS+ buffer and keep on ice.\nd) Make sure all the sets of cell sample tubes, FDG tubes and 2mL HBSS+ tubes are ready for the following steps.\ne) Prewarm cell sample tubes and corresponding FDG \\(or control) tubes in 37&#xBA;C water bath for 10min. 2mL HBSS+ tubes are kept on ice during loading.\nf) Follow the FDG loading strategy shown in Figure 1 to load FDG into cells. Transfer prewarmed cells into corresponding FDG tubes. Mix thoroughly. Return to 37&#xBA;C bath for exactly 1 min. Stop the FDG loading at the end of one min by transferring mixture into 2mL ice-cold HBSS+.\ng) Keep on ice for 1.5 hours to allow accumulation of FITC release from FDG in LacZ+ cells.\nh) Centrifuge at 1500rpm for 7 minutes, discard supernatant and resuspend cell pellets with 100&#xB5;L ice-cold HBSS+ buffer.\n3. Stain cells with antibodies.\n  a) Add 2&#xB5;l antibodies to cells and slowly rock at 4&#xBA;C for 15 min.",
+    "b) Centrifuge at 1500rpm for 5-10 min, discard supernatants and resuspend cell pellets with 200ul ice-cold HBSS+.\nc) Add 7&#xB5;l 7-AAD solution to 200&#xB5;l cells\n4. Perform FACS analysis.\n  a) Adjust voltage.\nb) Run compensation.\nc) Run samples and collect FACS data.\nd) Analyze your FACS data."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

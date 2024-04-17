@@ -1,0 +1,15 @@
+{
+  "id": 6995,
+  "origin_website": "Bio",
+  "title": "A Protocol for Flavonols, Kaempferol and Quercetin, Staining in Plant Root Tips",
+  "procedures": [
+    "Plant growth and DPBA staining procedureHere, Arabidopsis thaliana is used. However, this protocol can be applied for other plants as well. Grow plants on MS medium supplemented with 2% sucrose and 1.2% phyto-agar for 5 days (Figure 1). The growth chamber conditions were 22 ± 1 °C, long-day (16 h light/8 h dark), and light intensity 100 μmol m−2 s−1.Note: After seeding, remember to place the medium plates vertically in the growth chamber. Thereby, the roots grow on the surface of the medium and intact root tip samples can be obtained. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20200922/20200922191508_0960.jpgFigure 1. Five-day-old Arabidopsis seedlings. Scale bar = 5 mm.Add 1 ml of DPBA staining solution (Recipe 1) to each micro-tube.Use a clean tweezers to carefully transfer the 5-day-old Arabidopsis seedlings to the micro-tube containing DPBA staining solution (5 seedlings/micro-tube).Place the micro-tube in the rotator and rotate for 5 min at room temperature.Stop the rotator, transfer the micro-tube to a rack and remove the DPBA staining solution.Note: At this step, carefully use a pipette to remove the DPBA staining solution and try to not damage the plants, especially the root tips. For washing, add 1.5 ml of distilled water to each micro-tube. Place the micro-tube in the rotator and rotate for 2 min at room temperature.Stop the rotator, transfer the micro-tube to a rack and remove water.Repeat Steps A6 and A7 two more times.Note: After washing, can keep the plants in water and try to detect immediately. Do not leave the samples staying in water for longer than 30 min. Transfer the seedlings to a microscope slide, cover it and detect the flavonols accumulation in the root tips by a confocal microscope.Confocal microscopyFor DPBA-kaempferol, apply the emission spectrum (475-500 nm).For DPBA-quercetin, apply the emission spectrum (585-619 nm).Remember to take an additional bright field picture for control."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

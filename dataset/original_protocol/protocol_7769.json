@@ -1,0 +1,15 @@
+{
+  "id": 8172,
+  "origin_website": "Bio",
+  "title": "Drug Sensitivity Assay of <em>Xanthomonas citri</em> subsp. <em>citri</em> Using REMA Plate Method",
+  "procedures": [
+    "Prepare stock solutions of chemicals (dried-powder samples) dissolving in 10% in DMSO (diluted in sterile water).Add 100 μl of water to columns 1 and 12 to avoid evaporation (Table 1).Dilute the stock solutions in LB medium directly in a 96-well plates using a 2-fold scheme (final volume of 100 μl per a well); after serial dilution, the most concentrated sample should have maximum 1% DMSO.Cells were grown in LB medium at 30 °C under rotation (200 rpm) until OD600 0.6 ( log phase).Add 10 μl of bacterial inoculum (standardized to 105 CFU/well).Negative control: 1% DMSO dissolved in LB.Positive control: Kanamycin at 15.6 μg/ml.Table 1. Example for setup of REMA 96-well assay plateimgsrc:https://en-cdn.bio-protocol.org/attached/image/20130813/20130813234152_9121.jpgIncubate the test plates at 30 °C for 6 h. Add 15 μl of a 0.01% (w/v) resazurin solution, and incubate at 30 °C for 2 h.Measure fluorescence at 530 nm (excitation) and 590 nm (emission) using a fluorescence scanning.Percentage of inhibition is defined as:[(average FU negative control) - (average FU test)]/(average FU negative control) x 100FU: Fluorescence Unitsimgsrc:https://en-cdn.bio-protocol.org/attached/image/20130812/20130812041705_5394.jpgFigure 1. Example for calculation of growth inhibition Note: Three independent experiments should be conducted, and the data is used to construct plots of chemical concentration versus cell growth inhibition in order to determine the MIC* (Figure 1).*The minimum inhibitory concentration (MIC) is defined as the lowest concentration of the antibiotic able to inhibit the growth of 90% of organisms."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

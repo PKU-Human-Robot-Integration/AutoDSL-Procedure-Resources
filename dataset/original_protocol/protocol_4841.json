@@ -1,0 +1,17 @@
+{
+  "id": 5149,
+  "origin_website": "Bio",
+  "title": "Immunofluorescence Staining on Mouse Embryonic Brain Sections",
+  "procedures": [
+    "Perfuse embryos (E15-19) with 4% paraformaldehyde. Dissect out the brains and postfix in 4% paraformaldehyde overnight.In plastic cryomolds, embed brains in O.C.T., with the olfactory bulb facing downward.In an ice bucket, carefully drop some dry ice into 100 ml ethanol. When the bubbles stop popping, carefully transfer the mold into the dry ice-cooled ethanol. Watch the orientation of the brain before the O.C.T. freezes. Avoid splashing of ethanol into the mold. When the O.C.T. blocks completely freeze, store the block in -20 °C. The tissues are OK at -20 °C for two months, but best staining results are obtained on freshly frozen tissues.Section brains in cryostat sectioning machine, 10-20 μm thick. Attach brains to SuperFrost Plus slides. Air dry the sections for 20 min. The sections can be stored at -20 °C for two months, but best staining results are obtained on freshly cut tissues. Perform the following staining procedure in a dark humidified chamber.Wash with PBS, 3 times to clear out of the O.C.T. (Optional: For BrdU staining, brain sections were incubated in 4 N hydrochloric acid for 2 h at room temperature (RT) to unmask the antigen, followed by three washes in PBS).Slightly dry the slides, but make sure the tissue sections are kept wet. Use PAP pen to circle the four edges of the slides so that the staining solutions are confined in the circle. Add blocking buffer to the slides. Make sure that all tissue sections are covered with blocking buffer. Incubate at RT, 1 h. Aspirate blocking buffer, add primary antibody diluted in blocking buffer. Incubate at RT, 1 h (Or 4 °C, overnight). If more than one antibody is used in the staining, can add them simultaneously.Wash with PBS, 3 times, 5 min each.",
+    "Add 2nd antibody diluted in blocking buffer, Incubate at RT, 1 h. If more than one antibody are used in the staining, can add the 2nd antibodies simultaneously. Don’t overstain with 2nd antibody!!Wash with PBS, 3 times, 5 min each. Stain the nuclei with Hoechst33258 (final concentration 1 μg/ml in PBS), at RT, 10 min.Wash with PBS, 3 times, 5 min each.Mount in antifade reagent."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 150,
+  "origin_website": "Nature",
+  "title": "Whole Mount X-gal Staining",
+  "procedures": [
+    "**β-gal staining of whole mount intestine.** \n1. Isolate the Intestine and flush with cold PLP fixative \\(2% paraformaldehyde, 75mM Lysine, 75mM Na2HPO4, 10mM NaIO4). \n  2. Cut the intestines longitudinally and wash in PBS \\(137mM NaCl, 2.7mM KCl, 8mM Na2HPO4, 1.5mM KH2PO4, pH 7.4). \n  3. Cut the intestines into sixths and pin in a dish with villi facing up. \n  4. Incubated in cold PLP fix for 1 hour shaking at room temp. \n  5. Wash in PBS and incubate in DTT solution \\(20mM DTT, 20% ethanol, 150mM Tris pH 8.0) for 45 min shaking at room temp. \n  6. Wash in PBS and incubate in β-gal staining solution \\(2mM X-gal, 4mM K4Fe\\(CN)6, 4mM K3Fe\\(CN)6, 2mM MgCl2 in PBS) overnight shaking in the dark at 4°C. \n  7. Lastly, wash the pinned intestines  PBS and used for whole mount analysis or further processing for sectioning.\n  **Scoring of β-gal+ foci in whole mount intestine.** \nAfter staining the intestines for β-gal, the number of positive villi score under a Leica MZ6 dissecting microscope at 20X power, a 25mm2 field of view. The field of view represented 1/28 of each strip of small intestine, thus 1/168 of the entire small intestine \\(each strip was 1/6 of the entire small intestine). The 25mm2 field of view represented 1200 villi, which extrapolates to 201,600 villi in the entire small intestine. The number of β-gal+ villi were counted in each field of view and at least 20 β-gal+ foci were counted for each third of the small intestine. Nearby β-gal+ foci were considered independent if not arising from the same crypt and surrounded by non-staining crypts. Adenomas, which involved multiple villi, were scored by whole mount and in cross sections. Microadenomas, which involved a single villus, were determined by scoring cross sections."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

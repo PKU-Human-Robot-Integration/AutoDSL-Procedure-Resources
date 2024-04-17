@@ -1,0 +1,18 @@
+{
+  "id": 8129,
+  "origin_website": "Bio",
+  "title": "Endosomal pH Measurement in Bone Marrow Derived Dendritic Cells",
+  "procedures": [
+    "Detach bone marrow-derived dendritic cells (BMDCs) with 1x PBS-5 mM EDTA (10 min at 37 °C). Wash the cells with 1x PBS twice by centrifugation at 367 x g for 10 min.Count cells. A total of 3 x 106 cells are required for pH measurement at different time points (kinetics of 10 min, 20 min, 30 min and 60 min for example). Additionally, 6 x 106 cells are needed to acquire the pH standard curve.For measurement of pH at different time points, resuspend the cells in 100 μl total volume of prewarmed conditioned complete medium containing 1 mg/ml of fluorescein- and 0.5 mg/ml Alexa-647-labeled 40,000 MW dextrans. Pulse cells in a water bath set at 37 °C for 10 min.Stop the reaction by adding a large volume (1 ml) of cold 1x PBS-1% BSA and wash cells extensively (6 times) with the same buffer to get rid of the non-internalised dextrans.After washing, resuspend the cells in prewarmed conditioned complete medium (1 ml) and incubate at 37 °C for different time points (chase). The pulse (10 min) corresponds to early endosomes (EE), the chase of 40 min corresponds to intermediate endosomes (IE) and the 110 min of chase corresponds to the lysosomes. Stop the reaction each time by immediately adding cold PBS and placing the tubes on ice.Rapidly, analyse the cells by FACS, via a FL1/FL4 gate selective for cells that have endocytosed both fluorescent probes and determine the ratio of the mean fluorescence intensity (MFI) emission between the two probes.For the pH standard curve, resuspend the cells in 200 μl total volume of prewarmed conditioned complete medium containing 1 mg/ml of fluorescein- and 0.5 mg/ml Alexa-647-labeled 40,000 MW dextrans and pulse the cells in a water bath set at 37 °C for 20 min.",
+    "Repeat step 5 and split cells into nine 1.5 ml Eppendorf tubes for a pH measurement ranging from 4 to 8. Prepare several buffers that differ in pH by 0.5 units using prewarmed CO2 independent medium. Adjust the pH with citric acid or NaOH.Resuspend each cell pellet in a different pH solution supplemented with 0.001% of Triton X-100 to slightly permeabilise the cells and to give access to the external prefixed pH solution into the cell.Analyse immediately by FACS and determine the ratio of the mean fluorescence intensity (MFI) emission between the two fluorescent probes at each pH. Make the standard curve by plotting the different MFI ratio values that correspond to each pH and apply this formula to the MFI ratio values obtained before (steps 1-8, Figure 1). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20171229/20171229012611_1202.jpg Figure 1. Kinetic of endo-lysosomal pH in BMDCs pulsed with a mixed of fluorescein- and Alexa-647-labeled 40,000 MW dextrans for 10 min and then chased for different times"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

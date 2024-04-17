@@ -1,0 +1,16 @@
+{
+  "id": 4470,
+  "origin_website": "Bio",
+  "title": "Purification of the GfsA-3x FLAG Protein Expressed in <em>Aspergillus nidulans</em>",
+  "procedures": [
+    "Streak Aspergillus nidulans conidia from frozen stock onto Minimal medium (MM) plate and cultivate for 3 days at 30 °C.Collect the formed conidia with a spreader.Spread Aspergillus nidulans conidia (1 x 105) onto MM plates and cultivate for 3 days at 30 °C.Inoculate the collected conidia (2 x 107) into 100 ml of MM in 500-ml Sakaguchi flasks. Shake the flasks at 126 rpm at 30 °C for 24 h.Collect the mycelial cells by paper filtration.Wash the cells twice with approximately 30 ml of distilled water.Note: Cells can easily be crushed by wringing wet cells out to dry using a scoopula after this step as much as possible.Grind cells (25 g of wet cells) into a fine powder in liquid nitrogen using a mortar and pestle. Resuspend the lysed cells in 100 ml of buffer A containing CompleteTM protease inhibitor cocktail (EDTA-free).Remove cell debris by centrifugation with an angle rotor at 10,000 x g for 10 min. Centrifuge the supernatant at 100,000 x g for 45 min using an ultracentrifuge.Resuspend the resultant pellet in 10 ml of buffer A containing 0.5% CHAPSO using a spatula. Note: Pilot experiments are needed to determine the suitable conditions under which the detergents solubilize the target protein. Gently mix the sample for 1 h using a rotator to obtain solubilized membrane proteins.Centrifuge the sample at 100,000 x g for 30 min using an ultracentrifuge.Collect the supernatant (approximately 10 ml) into a 15-ml plastic centrifuge tube.Add mouse-IgG-agarose (100 µl) to the supernatant and gently shake the mixture for 1 h (Video 1).    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Shaking the mixture using a rotator  Remove the mouse-IgG-agarose by centrifugation with a swing rotor at 1,400 x g for 10 min.",
+    "Add 200 µl anti-FLAG M2 affinity gel to the supernatant and gently shake the resultant mixture for 1 h.Collect the Anti-FLAG M2 affinity gel by centrifugation with a swing rotor at 1,400 x g for 10 min.Gently remove the supernatant with an aspirator. Resuspend the resultant agarose with 15 ml of buffer A containing 0.1% CHAPSO.Repeat steps 18-20 five times.Elute GfsA protein with 20 µl of buffer A with 0.1% CHAPSO containing 0.5 µg/µl 3x FLAG peptide.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140831/20140831184819_8212.jpgFigure 1. Purification of GfsA-3xFLAG protein. A total of 0.5 mg (silver staining) proteins were separated by 5%-20% SDS-PAGE, and were then assayed by silver staining. GfsA-3xFLAG was detected as a 67 kDa protein. Asterisk indicates a degradation product or insufficiently N-glycosylated product of GfsA-3xFLAG."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

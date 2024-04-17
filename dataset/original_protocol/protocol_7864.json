@@ -1,0 +1,18 @@
+{
+  "id": 8273,
+  "origin_website": "Bio",
+  "title": "Implantation of Dkk-1-soaked Beads into the Neural Tube of Chicken Embryos",
+  "procedures": [
+    "Fertilized chick (Gallus gallus) was incubated at 37 °C in a forced-air incubator. Chick embryos were developed until stage HH10 according to Hamburger and Hamilton (1951).Glass micropipets were prepared using a Bunsen burner. One side of the micropipet was introduced into a silicon tube that was used to aspirate solution while picking up each bead (Figure 1A-D). Tungsten wire was joined to a Pasteur pipet to handle easily (Figure 1E).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131031/20131031033300_3212.jpgFigure 1. Micropipets preparation. C-D. Tight part of Pasteur pipets was used to prepare micropipets. E. Wide part was used as a handle for the tungsten wire.Use forceps to selective heparin acrylic beads based on their size. A grid inserted in one ocular of the operating microscope was used to select beads of ~40 μm. Afterwards, beads were rinsed in PBS and then soaked in a solution of 25 μg/ml of Dkk-1 protein in PBS/0.1% BSA or in PBS overnight (o/n) at 4 °C. An opening in the shell was made with scissors. To counterstained the embryos in ovo, inject Indian ink (diluted 1:1 in Tyrode supplemented) under the blastoderm by a glass micropipet made with a Bunsen burner. The vitelline membrane that covers the embryo is slipped out with tungsten wire on the spot where microsurgery was to be performed (see Video 1).    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Counterstaining of chicken embryos in ovo  A grid with concentric circles was inserted in one ocular of the operating microscope. The working magnification used during microsurgery was 40x. This grid was positioned in relation to the embryo: the vertical axis followed the embryo ventral midline; the transversal axis was positioned by crossing the optic-diencephalic angle at both sides (Figure 2A) (Garcia-Lopez et al., 2004).Afterwards, the soaked-beads were cut to obtain half-beads using forceps.",
+    "Then they were rinsed in PBS several times and one soaked half-bead implanted in the right side of the neural tube of embryos (Figure 2B). For control experiments, beads were soaked in PBS in the same manner.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131031/20131031033350_0853.jpgFigure 2. Bead-implanting procedure. A. Schematic representation of the grid positioned in relation to the embryo. B. Dkk-1 (black asterisk) or PBS-soaked beads were implanted into the prospective zona limitans intrathalamica of chick embryos at HH10. Abbreviations: Di, diencephalon; Mes, mesencephalon; Rh, rhombencephalon; Tel, telencephalon.When the operation was completed, the opening in the eggshell was sealed with a piece of tape and incubated in horizontal position until the stage selected for fixation."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

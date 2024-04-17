@@ -1,0 +1,14 @@
+{
+  "id": 5529,
+  "origin_website": "Bio",
+  "title": "Locomotor Assay in <em>Drosophila melanogaster</em>",
+  "procedures": [
+    "Set the environmental illuminance (provided by the fluorescent lamp) to be 1,000-1,300 Lux, the temperature to be 24 ± 1 °C and the humidity to be 40-60%.Transfer the flies into the empty vial and anesthetize them on ice for 10 min.Transfer one fly to each culture dish, and let the flies recover from the anesthesia for at least 10 min.Record the locomotion of the flies for 2 min with the web camera equipped with a visible light filter (Figures 1A and 1D; Video1). The fly is light up and the background is dark (Figure 1B). The angle of the infrared LEDs should be adjusted before recording to reduce the reflection on the dish.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170512/20170512000021_5477.jpgFigure 1. Locomotor assay in Drosophila melanogaster. A. The schematic diagram of the locomotor assay; B. A photo of the dish with a fly inside; C. The motion trial of a recorded fly; D. A photo of the setup.    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Recording of the locomotor behavior of the flies"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

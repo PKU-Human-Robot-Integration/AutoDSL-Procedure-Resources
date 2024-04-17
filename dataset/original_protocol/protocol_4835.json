@@ -1,0 +1,14 @@
+{
+  "id": 5140,
+  "origin_website": "Bio",
+  "title": "Isolation of Joint-infiltrating Cells",
+  "procedures": [
+    "Euthanize mice. Sterilize mouse skin with 70% ethanol and peel off the skin of ankles using scissors and tweezers (Figure 1). Be careful not to leave any skin.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160823/20160823230627_5234.jpgFigure 1. Peel off the skin of ankles Cut out the leg at 0.7 cm above the ankle joint using scissors, and discard the finger portion (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160823/20160823230718_0987.jpgFigure 2. Cut out ankles Wash ankle portion in 2 ml RPMI 1640.Flush out bone marrow cells using a 27-gauge needle and 1 ml syringe filled with RPMI 1640 and discard the bone marrow cells. Put bone marrow-removed ankles in 4 ml of digestion medium on a 6-well plate (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160823/20160823230819_0948.jpgFigure 3. Put ankles in digestion mediumChop up ankles with scissors to 3-4 mm sized chunks (Figure 4).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160823/20160823230933_8345.jpg Figure 4. Chop up ankles Incubate ankles in a 6-well plate with gentle shaking by Mini-shaker for 1 h at 37 °C under 5% CO2.Place a cell strainer in a 50 ml tube. Then, transfer the medium with digested ankle pieces onto the cell strainer.Remove the plunger from a 10 ml syringe. Mash the residues of ankle pieces using the black rubber end of the plunger.Add 10 ml 10% FBS/RPMI 1640.Centrifuge at 1,500 rpm (400 x g) for 5 min at 4 °C.Discard the supernatant and resuspend the cell pellet in FACS solution.Count viable cells. Representative data are shown below (Figure 5).Perform FACS analysis. Representative data are shown below (Figure 6)."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

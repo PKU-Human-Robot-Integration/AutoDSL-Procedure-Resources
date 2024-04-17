@@ -1,0 +1,22 @@
+{
+  "id": 130,
+  "origin_website": "Nature",
+  "title": "Alpha-L beta-2 integrin activation on MonoMac6 cells",
+  "procedures": [
+    "1. Keep MonoMac6 cells \\(5&#xD7;10<sup>5</sup> cells/mL) on ice in assay buffer until use.\n  2. Add one volume of assay buffer containing 100 ng/mL MIF \\(final concentration: 50 ng/mL) or canonical chemokine plus 2 mM Ca<sup>2+</sup>/Mg<sup>2+</sup> \\(final concentration: 1 mM Ca<sup>2+</sup>/Mg<sup>2+</sup>) and incubate at 37 &#x2DA;C up to 30 min. \n  3. Negative control: incubate one sample \\(5&#xD7;10<sup>5</sup> cells/mL) without stimulus for 30 min at 37 &#x2DA;C.\n  4. Positive control: incubate one sample \\(5&#xD7;10<sup>5</sup> cells/mL) with 3 mM Mg<sup>2+</sup> and 1 mM EGTA\n  5. Withdraw samples at different times and add to one volume 4% PFA \\(final concentration: 2%) \n  6. Wash cells with PBS and incubate with the monoclonal antibody 327C \\(10 &#xB5;g/mL) for 30 min.\n  7. Wash cells with PBS and incubate with anti-mouse-IgG FITC conjugate for another 30 min.\n  8. Measure the mean fluorescent intensity \\(MFI) of each sample via FACS as described by Shamri et al.<sup>2</sup>. The MFI corresponds with the integrin activation."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

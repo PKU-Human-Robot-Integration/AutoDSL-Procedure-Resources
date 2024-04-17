@@ -1,0 +1,15 @@
+{
+  "id": 9806,
+  "origin_website": "Jove",
+  "title": "Real-time Tracking of DNA Fragment Separation by Smartphone",
+  "procedures": [
+    "1. Basic Design of the SGE Chip\nUse any transparent plastic, such as polymethylmethacrylate (PMMA) or polycarbonate.\n\tNote: The SGE chip is demonstrated in Figure 1B. The SGE chip consists of cylindrical holes for the TBE buffer, channels for DNA separation, and two lanes embedded along the holes for the electrode.\nFabricate arrays of SGE channels in the PMMA block using a laser engraving machine.\n\tNote: The geometric parameters of the chip are dependent upon the size of the DNA to be separated. For example, the optimal channel parameters for the SGE chip are 2.5 mm x 4.0 mm x 90 mm (width x depth x length) if the DNA fragment is smaller than 1,000 bp.\nBased on the SGE design, fabricate combs to create the wells in the chip for loading the DNA sample.\n2. Preparation of the Agarose Gel\nPrepare 0.5× TBE by mixing 10× TBE (1× TBE = 89 mM Tris, 89 mM boric acid, and 2 mM EDTA; pH 8.4) and distilled water in a 1:19 ratio.\nPrepare 1.0% agarose gel for the separation of 100-bp DNA ladders.\n\tNote: The concentration of agarose in 0.5x TBE buffer is dependent upon the sizes of the DNA fragments to be separated.\nPlace 0.1 g of agarose into a flask and add 10 mL of 0.5x TBE buffer.\n\tNote: The volume of the prepared solution should be less than 1/3 of the capacity of the flask.\nSeal the flask with preservative film and then heat the agarose/buffer mixture in a microwave (medium, 1.0 min). Prior to putting the flask into the microwave, make some holes in the preservative film in case of an explosion.\nPour 2.7 mL of melted agarose solution into 4 channels of the SGE chip. Place the comb into the agarose solution to create the wells.",
+    "Note: The melted agarose solution will cool down to the gel state at room temperature 3 min later.\nRemove the comb from the gels and add 0.9 mL of 0.5x TBE buffer to cover the gel.\n3. Running the Electrophoresis in the SGE Chip\nTurn on the LED light source and place a 425 to 505 nm bandpass filter above the light source.\nMix 14.4 µL of a 100 bp DNA ladder and 1.6 µL of SYBR Green using a vortexer.\nLoad 4 µL of mixture into each well of the agarose gel in the SGE chip (Figure 2).\nPut the electrode into the two lanes of the SGE chip.\nPlace a 550 to 700 nm bandpass filter above the SGE chip.\nSwitch on the power source. Set the electric voltage to 180 V (20 V/cm). Turn on the smartphone to record the DNA fragment separation process (Figure 3).\nWhen the electrophoresis is finished 10 min later, turn off the power source and the LED light.\nClean the SGE chip.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

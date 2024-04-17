@@ -1,0 +1,15 @@
+{
+  "id": 5170,
+  "origin_website": "Bio",
+  "title": "Skin TRITC Painting to Track Dendritic Cells Migrating to the Lymph Nodes",
+  "procedures": [
+    "Preparing TRITC solutionNote: TRITC solution is prepared fresh prior to use. Weigh a small amount (e.g., 0.1 μg) of TRITC crystals onto a square Parafilm. The amount of TRITC prepared is dependent on the volume required for use (see step B7).Dissolve in 1 μl DMSO per 0.1 μg of TRITC on Parafilm.Prepare acetone in an Eppendorf tube and transfer the dissolved TRITC/DMSO solution into the acetone to dilute to 0.5-1% (v/v) (e.g., 1-2 μl TRITC/DMSO in 200 μl acetone).Mix tube thoroughly with a pipette. TRITC paintingAnaesthetize a mouse (e.g., C57BL/6) with Ketamine/Xylazine (10 μl per g bodyweight) via intraperitoneal injection.Notes:This procedure should be applicable to all mouse strains used for research.All procedures involving animals must be performed according to approved institutional, regional or national protocols (as applicable) by appropriately trained and certified personnel. Lay sedated mouse onto heat pad and apply one drop of eye gel to each eye.Shave the flank skin of the mouse using clippers.Note: We have tested this method on the flank/back skin of mice, however it should be applicable to all other skin sites after appropriate depilation.Apply Veet to shaved skin for 2 min to thoroughly depilate hair. Wipe off the cream with tissue paper or gauze.Clean the exposed skin with tissue paper or gauze soaked with water, and dry the skin with dry tissue paper.With a felt-tip marker and ruler, mark the area on skin to be painted (Figure 1, left). To prevent ink from being absorbed where TRITC is applied, mark the skin ~2-3 mm wider than the desired size.With a P20 pipette, mix the TRITC solution thoroughly and slowly apply onto the intended area, drop-by-drop (Figure 1, right. We use 10 μl dye/acetone mix for a ~1 cm2 diameter painting site. The volume to be used should be scaled accordingly).",
+    "The dye should be absorbed into the skin within a few seconds.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160911/20160911234503_5045.jpgFigure 1. Preparing mouse for dye painting. Shave and clean the flank skin of mouse, mark the intended area for painting (left) and apply the dye/acetone mix slowly with a pipette onto the skin (right).Lay mouse by its side to allow the painted site to dry (approximately 10-15 min). Leave the mouse on the heat pad until awake (approximately 1 h until recovered from anesthesia).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160911/20160911234600_2574.jpgFigure 2. TRITC-painted mouse. Dye/acetone mix should be absorbed relatively quickly into the skin. Leave mouse by its side, on heat pad, to allow the painted site to dry.Downstream applications include detection of migratory cells in draining LN using flow cytometry, immunofluorescence microscopy or two-photon intravital microscopy (Figure 3, see Notes 1 and 2 below)."
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

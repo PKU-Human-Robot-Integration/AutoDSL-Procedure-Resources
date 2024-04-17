@@ -1,0 +1,19 @@
+{
+  "id": 1098,
+  "origin_website": "Nature",
+  "title": "Gene expression analysis in yeast cells",
+  "procedures": [
+    "Sample collection\n1. Collect approximately 2 × 108 cells from exponential growing yeast cultures \n  \n2. Pellet cells by centrifugation at 4000xg at 4ºC and wash once with cold RNase-free water\n  \n3. Cells can be stored at -20ºC \n  \nLysis and RNA extraction\n4. Resuspend cells with 500 μL of LETS buffer\n  \n5. Add one volume of saturated phenol \\(pH 4.5) and 200 μL of glass beads\n  \n6.  Broke cells in a FastPrep Precellys24 \\(Bertin technologies) \n  \n7. Centrifuge cells at 13400xg for 5 min at 4°C \n  \n8. Transfer the aqueous phase to a new eppendorf\n  \n9. Add one volume of phenol:chloroform \\(5:1) \n  \n10. Centrifuge cells at 13400g for 10 min at 4°C \n  \n11. Repeat steps 8 to 10\n  \n12. Transfer the aqueous phase to a new eppendorf \n  \n13. Add one volume of chloroform:isoamylic alcohol \\(24:1) \n  \n14. Precipitate the RNA overnight with one volume of 5 M lithium chloride at -80°C.\n  \n15.  Centrifuge cells at 13400xg for 15 min at 4°C \n  \n16. Wash the precipitate was with 70% ethanol\n  \n17. Centrifuge cells at 13400xg for 15 min at 4°C to collect the RNA\n  \n18. Resuspend RNA pellet with 200 μL of RNase-free water \n  \n19. Re-precipitate RNA at -80°C for 3h adding Na Acetate 0.3M and two volumes of ethanol \n  \n20. Centrifuge cells at 13400g for 15 min at 4°C \n  \n21. Wash the precipitate was with 70% ethanol\n  \n22. Centrifuge cells at 13400xg for 15 min at 4°C to collect the RNA\n  \n23. Resuspend RNA pellet in 30-50 μL of RNase-free water\n  \n24. RNA was quantified by measuring the absorbance at 260 nm with NanoDrop 2000 Spectophotometer® \\(Thermo scientific)\n  \n25. Load 1 μg of RNA in a 1% TAE agarose gel and run the electrophoresis 15 minutes at 120V to check the purified RNA and the sample integrity\n   \ncDNA synthesis",
+    "26. Incubate 5 μg of RNA with Turbo DNase \\(Ambion) for 1 hour at 37°C \n  \n27. Inactivate DNase by incubating the sample 10 minutes at 75°C in 15 mM EDTA\n  \n28.  Incubate 1 μg of this RNA with 100 pmoles of oligo dT 5 minutes at 70°C\n  \n29.  Transfer the sample to ice for 10 minutes\n  \n30. Incubated 5 min at 25ºC, 60 min at 42ºC and 5 min at 72ºC with Improm-II® Reverse Transcriptase and Recombinant RNasin® \\(Promega) following the manufacturer instructions\n   \n31. Transfer the sample to ice\n  \n32. The cDNA was analized by semiquantitative RT-PCR or by quantitative RT-PCR in a DNA Engine Peltier Termal Cycler \\(Bio Rad) using the SYBR® Premix Ex TaqTM Tli RNase H Plus Green with ROX \\(Takara)"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Cell Biology",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8155,
+  "origin_website": "Bio",
+  "title": "Assay of Blood Brain Barrier and Placental Barrier Permeability",
+  "procedures": [
+    "2% Evans Blue dye was dissolved in normal saline (0.85% sodium chloride). 500 μl of dye containing recombinant protein was injected intravenously in the tail vein of fourteen days pregnant Sprague Dawley rats. Recombinant protein in the range 50-500 μg was used to identify the threshold value needed for the breach of both the barriers. Un-injected animals were used for the normalization of the data.One hour after inoculation all the rats including the un-injected ones were anaesthetized and dissected immediately to avoid any blood clotting; complete uterus and the brain were removed carefully in normal saline. The fetal tissues; uterus, placenta, amniotic membrane and embryo were separated cautiously and collected in PBS to measure the weight of these organs separately. Each fetal tissue was measured by weight and then homogenized in 200 μl of PBS (pH 7.4), the final volume was measured again and the mg/ml concentration was calculated. The homogenized tissue was centrifuged at ~9,000 x g at 4 °C for 15 min and the clear supernatant was collected. The absorbance of Evans blue dye was measured at OD590nm from the brain as well as fetal tissues associated with blood-brain barrier and placental barrier respectively. The absorbance (OD) per mg of tissue weight was determined from the supernatant at 590 nm for the quantitative analysis of Evans blue dye. Absorbance was considered as an average of four animals and the actual absorbance was calculated after normalizing the background values from the un-injected control set of tissues.Figure 1 explains the breach of these blood barriers in the presence of the recombinant protein, whereas no breach was observed in the absence of the recombinant protein.",
+    "If the blood barriers breaches, the absorbance was found to be higher and the dye permeability was observed, whereas if the blood barrier is intact then the absorbance was comparatively lower and no permeability was observed for the dye.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130729/20130729014009_6147.jpgFigure 1. Quantification of Evans blue dye (OD at 590) present (within an hour) in brain and different fetal tissue isolates from 14 day pregnant Sprague Dawley rats injected intravenously without and with recombinant Nef and ASK-1 protein. (A) Brain (B) Uterus (C) Placenta (D) Amniotic membrane. Three different bars in each set represent 0, 250 and 500 μg of recombinant Nef and 500 μg of ASK-1 injected intravenously along with Evans blue dye in the experimental animals. As data represent ±SEM of 3 separate experiments in duplicate and changes were considered as significant at *p ≤ 0.05,**p ≤ 0.01 and ***p ≤ 0.001."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

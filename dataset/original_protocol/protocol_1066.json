@@ -1,0 +1,20 @@
+{
+  "id": 1138,
+  "origin_website": "Nature",
+  "title": "Cell-attached capacitance measurements at release sites of a central nerve terminal",
+  "procedures": [
+    "1) Prepare parasigittal brainstem slices \\(200 &#x3BC;m thick) containing the medial nucleus of the trapezoid body from 6-8 days old Wistar rats using a vibratome<sup>2</sup>. \n2) Position brain slices in the recording chamber.  Select a large calyx \\(aboout 1-2&#x3BC;m in thickness) on the surface of the slice \\(Fig. 1, left). Use a large pipette \\(1-2M&#x3A9;) to form a loose patch on the postsynapse membrane \\(Fig. 1, middle left). Suck the postsynaptic neuronal cell body into the pipette by applying a strong suction to the pipette, and pull away the pipette. As a result, the cell body of the postsynaptic neuron should be pulled out \\(Fig. 1, middle right). This should expose the calyx membrane that was originally opposing the postsynaptic neuron. \n3) Using a polished pipette \\(4-6 M&#x3A9;) heavily coated with sylgard near the tip, form a cell-attached patch at the exposed presynaptic membrane, which presumably contains release sites. \n4) After forming a high resistance \\(&gt; 10 G&#x3A9;) seal, stop the perfusion system, and lower the bath solution level to just above the slice, which helps to reduce noise. \n5)  Make cell-attached capacitance measurements with an SR830 2-phase lock-in amplifier \\(Stanford Research Systems, Stanford, CA) coupled to an EPC-8 patch-clamp amplifier \\(HEKA electronics, Lambrecht, Germany)<sup>1,3,4</sup>. A 20 KHz sine wave \\(rms: 200 mV) should be superimposed on a command potential of 0 mV. The in-phase \\(real or Re, corresponding to conductance) and the 90<sup>o</sup> out-of-phase \\(imaginary, Im, corresponding to capacitance) current outputs of the lock-in amplifier should be low-pass filtered at 0.1-1 ms \\(24 dB), digitized at 16  bits, and read into a Macintosh computer.",
+    "6) For an EPC-8 amplifier, set the gain at 50 mV/pA, C<sub>slow</sub> and G<sub>slow</sub> should be 0.2 pF and 0.2 &#x3BC;S, respectively, and C<sub>fast</sub> and ?<sub>fast</sub> pF should be adjusted to minimize the sinusoidal current. The current output of the EPC-8 amplifier should be connected to the lock-in amplifier input through a 10:1 voltage divider.\n7) During cell-attached capacitance measurements, the initial phase setting of the lock-in amplifier should be approximately adjusted to null the changes in Re trace induced by dithering a 100-fF calibration installed in the capacitance compensation circuit of EPC-8. Apply a gentle suction of the membrane via the pipette every 100-200 s during each patch of cell-attached recordings. Use the transient capacitance increase caused by the gentle suction to correct phase errors offline \\(Fig. 2a). After the experiment, correct phase errors  by re-computing Re and Im traces with the phase shift varied in 2&#xB0; increments until the projection in the Re trace during a gentle suction \\(Fig. 2a, left) is eliminated \\(Fig. 2b, left). This phase adjustment should also eliminate the visible, persistent change in Re trace associated with the non-flicker up-steps in the Im trace of the same patch \\(Fig. 2a-b, right). With the phase adjustment described above, we occasionally observed flickers in Re trace without accompanying a change in Im trace \\(Fig. 2c), which might reflect  openings and closings of a single ion channel."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

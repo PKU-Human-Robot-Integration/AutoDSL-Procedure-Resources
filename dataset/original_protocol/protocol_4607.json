@@ -1,0 +1,14 @@
+{
+  "id": 4863,
+  "origin_website": "Bio",
+  "title": "Assessment of Brown Adipocyte Thermogenic Function by High-throughput Respirometry",
+  "procedures": [
+    "Prepare cells as described in steps 1-2 of intact brown adipocyte respiration protocol.On the day of experiment, thaw 1x MAS and pre-made substrate solutions described in Recipes section 1.Prepare 10x solutions of inhibitors in 1x MAS. If using fatty acid substrates, prepare them freshly as described in Recipes section 2b.Soak the cartridge for at least 3 h in CO2-free incubator before loading. Load ports: 50 μl in Port A, 55 μl in Port B, 60 μl in Port C, 65 μl in Port D and calibrate cartridge.Prepare 7.5 nM PMP in 1x MAS in a volume sufficient for 450 μl per well.Gently wash cells with 1x MAS buffer one time.Completely evacuate wash and add 450 μl 1x MAS with 7.5 nM PMP. Incubation in CO2-free incubator is not necessary.  Immediately load the plate and run seahorse assay with 3 min mix and 2 min measurement (no wait). Make 2-3 measurements per condition. Do not exceed 1 h of assay time preceding Antimycin A injection as mitochondrial integrity will be compromised."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

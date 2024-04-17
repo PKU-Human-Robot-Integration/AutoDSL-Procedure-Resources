@@ -1,0 +1,16 @@
+{
+  "id": 5243,
+  "origin_website": "Bio",
+  "title": "Determination of H<sub>2</sub>O<sub>2</sub> Generation by pHPA Assay",
+  "procedures": [
+    "Prepare pHPA buffer (see Recipes) Prepare H2O2 standard curve (see Figure 1)Note: Prepared in pHPA buffer prior to the assay (The buffer cannot be stored for subsequent measurements, make fresh at time of use).8-12 standards in duplicate or triplicate.Load standards into 96-well plate.Highest concentration of H2O2: 2 µM (2 µl of 1 mM H2O2 working stock solution/ml pHPA buffer)Serial dilution: 50%#wells/standard: 2 or 3µl/well: 200 imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161109/20161109190958_8567.jpgFigure 1. Schematic of 96-well plate with 12 standards (in duplicate) and samples (in triplicate)Prepare samplesSample isolationSamples can be whole cells, freshly isolated mitochondria or membrane fractions from various cell types (i.e., macrophages, fibroblasts, bronchoalveolar lavage cells, etc.). Mitochondrial isolation:1) Lyse 10 million macrophages in (100 µl) mitochondrial buffer (see Recipes). Lysis is performed using Kontes Pellet Pestle Motor for 30 sec to homogenize each sample.2) Centrifuge at 2,000 x g for 10 min at 4 °C, save supernatant at 4 °C.3) Pellet is lysed and centrifuged [repeat steps 1) and 2)].4) The two supernatants are pooled and centrifuged at 12,000 x g for 15 min at 4 °C.5) The pellet is resuspended in (50 µl) mitochondrial buffer without sucrose [same as in 1) but do not add sucrose].Each sample should be run in duplicate or triplicate.Load samples into 96-well plate: Use 5-20 µg protein or 50,000-100,000 cells per wellSuspend sample in pHPA buffer, mix wellLoad 200 µl/well in duplicatePositive controls may be added (i.e., treat cells with 100 μM antimycin A).Negative controls may be added (i.e., treat cells with 10 μM MitoTempo).Run assay in plate readerPre-warm plate reader to 37 °C.Insert plate. Run kinetic assay, typically for 4 h with a read every 5-10 min.Use an excitation wavelength of 320 nm and emission of 400 nm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

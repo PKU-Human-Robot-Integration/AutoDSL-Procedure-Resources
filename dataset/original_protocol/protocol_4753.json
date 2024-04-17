@@ -1,0 +1,15 @@
+{
+  "id": 5051,
+  "origin_website": "Bio",
+  "title": "Differential and Simultaneous Visualization of Cells and Airspaces in Plant Leaves",
+  "procedures": [
+    "Preparation of staining solution Add 0.318 mg of Nile Red and 100 ml of silicone oil (KF96L-1.0 cs or KF96L-1.5 cs) to a container. The final concentration of this solution is 10 μM. About 100 samples can be prepared from this amount of staining solution if you use 1.5 ml microtubes for staining. Tightly seal the container with Parafilm M®.(Optional) Sonicate the suspended Nile Red using a sonication bath (10 min, 100 kHz) to make Nile Red dissolved faster.Wrap the container with aluminum foil, place the tube on a tube rotator and rotate for 1-2 d.(Optional) Undissolved dye can be removed via filtration or centrifugation.Staining Remove a small (5 x 5 ~ 10 x 10 mm) section of the leaf tissue to be examined.Note: When you conduct time-lapse imaging, skip this step and stain a whole plant.Add the specimen and staining solution to an incubation container.Incubate specimen in staining solution for 5 min (adaxial side) or 15 min (abaxial side). Slide preparationPrepare slides according to Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160602/20160602183635_9470.jpgFigure 1. Procedure of slide preparationMicroscopyThe steps B-C fill airspaces with Nile Red in silicone oil. Image airspaces (excitation wavelength 488, emission wavelength 490-560) and cells (excitation wavelength 561, emission wavelength 563-639). Representative data is shown in Figure 2.(Optional) Procedures for time-lapse imaging After observation, shake the plants in silicone oil (KF96L-1.0 cs) gently at 30~60 rpm for 1 min twice to remove Nile Red. Put the plants on culture beds until the next observation. Repeat the steps B-E. Representative data of time-lapse imaging is shown in Figure 3.Image segmentation You can extract shapes of cells and airspaces from acquired 3D images by using DSLT_Demo. Step by step instructions for segmentation are available at http://dslt.bot.kyoto-u.ac.jp/DSLT_manual_v111.pdf[href=http://dslt.bot.kyoto-u.ac.jp/DSLT_manual_v111.pdf]."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

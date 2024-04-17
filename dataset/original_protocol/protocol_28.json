@@ -1,0 +1,17 @@
+{
+  "id": 28,
+  "origin_website": "Nature",
+  "title": "Simplified behavioural tests for transient social memory in male mice and dams",
+  "procedures": [
+    "**A. Social behaviour for a 1-min confrontation in male mice.**\nDay 1: Housing. TIMING 10 min\n1. At age 40&#x2013;50 d, transfer mice from group to individual housing for 5 d to permit establishment of a home-cage territory.\n  CRITICAL STEP 1 \n \nDay 5: Recording investigation time. TIMING 1 min\n2. Begin the first trial by introducing a stimulus female into the home cage of a male mouse for a 1-min interaction. Record investigation time of the female by the male mouse. At the end of the 1-min trial, remove the stimulus animal and return to an individual holding cage. Score behaviour during experiments and  record behaviour on a videotape.  Scoring should be done by trained raters \\(inter-rater reliability &gt;90%).\n  CRITICAL STEP 2\nRepeating step 2 TIMING 11 min\n3. For the second encounter, after a 10-min inter-exposure interval, introduce the same stimulus female to each male for 1 min. Record the investigation time of the female by the male mouse. Remove the stimulus animal and return to the individual holding cage.\n  \nRepeating step 2 TIMING 11 min\n4. For the third recognition trial, after a 10-min inter-exposure interval, introduce the same stimulus animal to each subject for 1 min. Record investigation time of the female by the male mouse.\n  CRITICAL STEP 3\nRepeating step 2 TIMING 11 min\n5. For the fourth encounter, after a 10-min inter-exposure interval, introduce the same female to each male.\n  \nSame step with a new stimulus TIMING 11 min\n6. In the fifth &#x201C;dishabituation&#x201D; trial, introduce a different stimulus female to the same male mouse for 1 min, after a 10-min inter-exposure interval. Record the investigation time of the female by the male. Remove the stimulus animal to the individual holding cage.\n  \n**B  Pup retrieval behaviour by dams in home cages.**",
+    "Day 1: Birth confirmation TIMING 5 min\n1. Record births each morning. First observe each new dam for 5 min with minimal disruption. Confirm that it is capable of building a typical nest and the pups are in the nest and being nurtured by the dam. \n  \nDay 2: Retrieving test TIMING 20 min\n2. Remove all of the pups from the nest and keep temporarily in a holding cage.\n  3. Return five of the dam&#x2019;s own pups to the dam&#x2019;s cage and place at the opposite side from the nest. \n  4. Observe the dam continually, and record latency to retrieve each pup to the nest. Each dam should be observed for up to 3 min. \n  5. Repeat step 4 &#xD7; 3 times.\n  CRITICAL STEP 4"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

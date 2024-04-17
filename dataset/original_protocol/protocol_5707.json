@@ -1,0 +1,17 @@
+{
+  "id": 6051,
+  "origin_website": "Bio",
+  "title": "Analysis of Mitochondrial Structure in the Body Wall Muscle of <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "Growth and synchronization of nematode populationAnimals with mitoGFP, (ccIs4251) are grown and synchronized to L4 larval (for MitotrackerTM) or young adult (for TMRE) stage (~42 and ~54 h respectively, after putting down synchronized L1s on seeded NGM plates) for imaging as described in Part I Procedure A. Staining the animals with mitochondrially targeted dyesWash animals off the plates along with OP50 into 15 ml centrifuge tubes.Add MitotrackerTM or TMRE to a final concentration of 1 μg/ml or 200 nM in M9, respectively. Nutate these animals in 1 μg/ml of MitotrackerTM or 200 nM of TMRE for 6 h at 20 °C in the dark.Wash these animals with M9 four times and put them down on OP50 seeded NGM plates using the protocol described above.Destain MitotrackerTM and TMRE by allowing the stained animals to forage on seeded plates overnight or for 1 h in the dark at 20 °C, respectively. Note: Stain and destain animals on a staggering timescale so that each strain experiences similar staining and destaining times.Mounting the animals for imaging (Figure 1B)Make 3% agarose solution in M9 and use it to make ~18 mm diameter agarose pad. Add five drops of polystyrene beads solution (~0.5 μl each drop); one at the center and 4 diametrically opposite to each other (Figure 1B). Add one worm to each of the drops for 5 nematodes/slide. This will limit the impact of photobleaching.Gently place a coverslip on top the animals and use a fingernail to gently nudge the coverslip about 0.5 mm to ‘roll’ the nematodes onto their back. Now seal the edges of the coverslip with clear nail polish and the slide is ready for imaging on the Zeiss AxioObserver microscope equipped with an Andor Clara CCD camera using Metamorph software.",
+    "Imaging the mounted animalsLocate nematodes on the slide using the 10x objective and then switch over to the 63x oil objective to capture images.Capture the green fluorescent image of body wall muscle mitochondria in the transgenic animals at a point between the pharynx and vulva. Now switch over to the red fluorescence filter set and capture the dye staining in the same area. Each animal should have two images associated with it; the mitochondria as labeled by the transgenic mitochondrially targeted GFP and the mitochondria as labeled by the mitochondrially targeted dyes. Move clockwise and go to the next worm on the slide, repeating imaging protocol.Imaging parameters such as the settings of the microscope and camera (magnification and exposure time (240 msec) should be kept the same during the imaging process).Save these images and use them for data analysis under blinded conditions."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

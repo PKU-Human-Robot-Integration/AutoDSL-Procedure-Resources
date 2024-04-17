@@ -1,0 +1,14 @@
+{
+  "id": 659,
+  "origin_website": "Nature",
+  "title": "Isolation of murine lamina propria CD11c+ cells",
+  "procedures": [
+    "1.  Anesthetize mice with 10x-diluted pentobarbital \\(250 &#x3BC;l/mouse) and open their peritoneal and pleural cavities.\n  \n2.  Perfuse the mice systemically with 10 ml of HBSS containing 20 mM EDTA via the left ventricle using 21-gauge butterfly needle connected to Peristaltic pump P-1.  The pump should be set to a very slow rate at the beginning, and gradually increase the speed to high, and allow perfusion until the liver completely loses its color.\n  \n3.  After perfusion, collect the entire colon or small intestine excluding the cecum, open longitudinally and wash in PBS to remove fecal contents.\n  \n4.  Wipe colons with paper towel, and collect into a 2 ml screw cup tube containing 2 ml of HBSS containing 2 mM EDTA.\n  \n5.  Shake at 4,800 rpm for 50 seconds by the Mini Beadbeater to remove epithelial cells.\n  \n6.  Wash with PBS and remove the muscle layers by tweezers under stereomicroscope.\n  \n7.  After cutting into small pieces, incubate the tissue pieces in 25 ml of RPMI1640 containing 4 % FBS, 1 mg/ml collagenase type II, 1 mg/ml dispase, 40 &#x3BC;g/ml DNase-I and antibiotics for 1 hr at 37 &#xB0;C in shaking water bath.\n  \n8.  After digestion, centrifuge the samples at 1800 rpm for 5min at 4&#xB0;C.\n  \n9.  Remove the supernatant, suspend in 10ml of HBSS containing 5mM EDTA, and incubate at 37 &#xB0;C for 5 min.\n  \n10.  After filtration of digested tissue with 40 &#x3BC;m cell strainer, wash the isolated cells twice with MACS buffer.\n  \n11.  Purify CD11c-positive cells twice using CD11c MicroBeads according to the manufacturer&#x2019;s instructions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

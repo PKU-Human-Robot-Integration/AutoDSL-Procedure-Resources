@@ -1,0 +1,15 @@
+{
+  "id": 4991,
+  "origin_website": "Bio",
+  "title": "Detection of Protein Oxidative Activity Using Reduced RNase A",
+  "procedures": [
+    "Preparation of proteins for assay (approx 1 week) (Chim et al., 2013)Purify proteins.Note: We overexpressed proteins by autoinduction (Studier, 2005) and then purified by affinity chromatography using the NGC chromatography system (see Optional materials).To obtain higher purity, load your proteins onto size exclusion columns and elute with PBS.Determine the amount of protein by nanodrop.Oxidize proteins with 50 mM oxidized glutathione (GSSG) and incubate for 1 h at RT (5-7 mg in 1 ml).Exchange buffer on desalting columns according to manufacturer’s guidelines.Determine the amount of protein by nanodrop.Follow the Ellman assay to confirm proper redox state.Concentrate if necessary (using protein concentration columns). For this assay you need approx 3 mg/ml.Use fresh or in the next couple of days.Reduction and denaturation of RNase A (2 days) (Daniels et al., 2010) Resuspend 10 mg of RNase A in 1 ml of reduction buffer (in 1.5 ml tube).Note: 10 mg of RNase A permit to perform approx. 20 assays.Incubate overnight at RT without shaking.Desalinate on columns and elute with PBS (according to manufacturer’s guidelines).Determine the amount of protein by nanodrop. If necessary, concentrate (for Ellman assay you need 2.5 mg/ml of RNase A).Follow the Ellman assay to confirm proper redox state.Use the same day.Oxidative folding of reduced RNase A (1 day) (Daniels et al., 2010)Prepare 2x reaction buffer.Prepare mixture of protein and reduced RNase A in a volume of 100 μl (add PBS if necessary) in a 96-well plate (40 μM protein and 20 μM RNase A).Note: With concentration of 2.5 mg/ml you need to add 11 μl to the well to achieve 20 μM of RNase A.Add 100 μl of 2x reaction buffer to the mixture of protein and RNase A; mix gently by pipetting up and down.Insert plate into the plate reader and start program."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

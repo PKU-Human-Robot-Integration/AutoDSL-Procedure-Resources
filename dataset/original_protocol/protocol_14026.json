@@ -1,0 +1,15 @@
+{
+  "id": 17852,
+  "origin_website": "Jove",
+  "title": "Integration of Brain Tissue Saturation Monitoring in Cardiopulmonary Exercise Testing in Patients with Heart Failure",
+  "procedures": [
+    "The following protocol was approved by the ethics committee in Chang Gung Memorial Hospital, Linkou, Taiwan. The exercise test was carried out in an air-conditioned laboratory with an atmospheric temperature of 22-25 °C, pressure of 755 to 770 Torr, and relative humidity of 55-65%. Before each test, the gas analyzer was calibrated following the manufacturer's instructions using room air and a gas mixture of known concentration (FO2: 0.12; FCO2: 0.05; N2 as balance). The turbine flow meter of the system was calibrated by the 2-point method with 0.2 L/s and 2 L/s by an automatically-pumping system.\n1. Preparation: Placement of sensors and recorders\nClean the forehead twice with an alcohol pad to remove sweat and dirt from the skin.\nPlace NIRS sensors on the forehead bilaterally. Use a large sensor in which the distance between emitter and detector is 5 cm. The estimated measuring depth is 2.5 cm. Ensure that the sensors are securely attached.\nAttach patches of electrocardiography to the anterior chest, bilateral acromioclavicular joints, and lower back.\nHave the patient sit on the bicycle ergometer.\nPlace the armband of the sphygmomanometer.\nInstruct the patient to wear the mask for the gas analysis. Make sure that no gas leaks through the brim of the mask.\nPlace the sensors of the pulse oximeter on the patient's ear lobe and index finger.\n2. CPET and SctO2 monitoring\nTell the patient to rest for at least 2 min to obtain a stable baseline value, including SctO2 and respiratory exchange ratio.\nHave the patient complete the warm-up stage at a work rate of 10 W for 1 min on the cycle ergometer.",
+    "Increase the rate by 10 W/min and ask the patient to pedal at around 60 rpm until failing to keep up with a cadence >50 rpm despite strong encouragement (symptom-limited exercise testing).\nAverage the SctO2 value every second automatically from data scanned at the frequency of 100 Hz.\nMeasure the blood pressure every 2 min automatically by the sphygmomanometer.\nAnalyze the gas component breath by breath, including VO2 and end-tidal carbon dioxide pressure (PETCO2).\nHave the patient complete the recovery stage at a work rate of 0 W for 2-6 min.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

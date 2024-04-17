@@ -1,0 +1,15 @@
+{
+  "id": 197,
+  "origin_website": "Nature",
+  "title": "Measurement of neuron soma size by fluorescent Nissl stain",
+  "procedures": [
+    "1. Sacrifice mouse\n  2. Transcardially perfuse with 50ml of 5u/ml heparin PBS, followed by at least 50ml of 4% PFA in PBS, until the limbs and neck are difficult to move.\n  3. Remove brain from skull, and place in a scintillation vial filled with 4% PFA in PBS.\n  4. Incubate for 2 days on a shaker at 4C.\n  5. Remove the 4% PFA in PBS, and replace with 30% sucrose in PBS. The brain should now be floating; incubate at 4C until the brain sinks to the bottom of the scintillation vial, indicating it has been permeated by sucrose and is now cryoprotected.\n  6. Place a small beaker filled with 2-methylbutane in a bed of dry ice, and allow to cool for 15-20min.\n  7. Using forceps, drop the fixed, cryoprotected brain into the 2-methylbutane.\n  8. Freeze for 2min.\n  9. Remove the brain with forceps, and either save for later use by wrapping in foil and storing at -80C, or immediately prepare for cryosectioning.\n  10. To prepare for cryosectioning, mount the brain in a plastic mold on a cryostat chuck with OCT compound. Freeze the brain in OCT compound at -80C, and then equilibrate the mounted brain on the chuck to -20C inside the cryostat.\n  11. Slice the brain into 20um sections, and store the sections in 0.1% sodium azide in PBS at 4C until use. Sections should be used as soon as possible when stored by this method.\n  12. When ready to perform the Nissl stain, start by incubating the sections in 0.1% Triton X-100 PBS in 24 well plates for 10min at RT to permeabilize the tissue. All incubations and washes should be done on a shaker to ensure even exposure of the tissue.\n  13. Wash 2x in PBS for 5min each at RT.",
+    "14. Incubate in Neurotrace Fluorescent Nissl Stain diluted in PBS for 20min at RT. The exact dilution should be titrated individually depending on your tissue and which fluorophore you select for the Nissl stain. Suggested dilutions are given in the product manual. A 1:40 diltion of Neurotrace Fluorescent Nissl Stain 530/615 Red in PBS works well in our hands.\n  15. Incubate in 0.1% Triton X-100 PBS for 10min RT.\n  16. Wash 2x in PBS for 5min each at RT.\n  17. Mount sections onto glass slides with aqueous mounting medium.\n  18. Allow mounting medium to harden.\n  19. Image your neurons of interest using a confocal microscope.\n  20. Using Image J and a computer graphics tablet, outline the neurons with the freehand tool and measure their area using the \"Measure and Label\" command. This will mark already measured neurons to prevent double measurements."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

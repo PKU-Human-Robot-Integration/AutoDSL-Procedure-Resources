@@ -1,0 +1,16 @@
+{
+  "id": 5682,
+  "origin_website": "Bio",
+  "title": "Membrane Lipid Screen to Identify Molecular Targets of Biomolecules",
+  "procedures": [
+    "Screen to identify specific membrane lipid binding by biomolecules of interestPurify or obtain the biomolecule of interest. Note: Ensure the protein is tagged, for example with a 6-His tag. Place lipid strips in a small gel incubation tray, and block lipid strips with 10 ml blocking buffer (see Recipes) at room temperature for one hour.Notes: See the ‘Notes’ section for a description of the lipid component of the lipid strips.The buffer and pH used depend on the biomolecule tested. For example, acidic conditions could be used if the biomolecule functions in an acidic environment. Also, use enough buffer to cover the lipid strip.Wash three times, for five minutes each, with 10 ml wash buffer (see Recipes).Note: Suggestions on the duration of washing, blocking and incubation times is described in the Notes section.Incubate the membrane lipid strips with the protein or biomolecule in 10 ml blocking buffer for one hour at room temperature. Note: The concentration of protein used is determined empirically, and is usually at the low micromolar to nanomolar concentrations.Wash three times, for five minutes each, with 10 ml wash buffer.Incubate the membrane lipid strips with a primary antibody against the tagged protein or biomolecule in 10 ml blocking buffer for one hour at room temperature. Notes:  The primary antibody could be against the protein tag or specific to the protein or biomolecule.The concentration of primary antibody used is specified by the manufacturer.Wash three times, for five minutes each, with 10 ml wash buffer.Incubate the membrane lipid strips with a peroxidase conjugated secondary antibody, against the primary antibody, in 10 ml blocking buffer for one hour at room temperature. Note: The concentration of secondary antibody used is specified by the manufacturer.Use the ECL Prime Western Blotting Detection Kit to detect the peroxidase conjugated secondary antibody.",
+    "Image the chemiluminescence using a fluorescent image analyser (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170728/20170728005942_5353.jpgFigure 1. Lipid strips probed with PfCelTOS or controls. A. Lipid strip probed with PfCelTOS, followed by primary antibody to CelTOS and a secondary antibody conjugated with peroxidase for visualization. PfCelTOS specifically bound to phosphatidic acid (Jimah et al., 2016). B. Lipid strip probed with primary antibody against His-tag and a secondary antibody conjugated with peroxidase for visualization. Neither the primary or secondary antibody bound to the lipid strip."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

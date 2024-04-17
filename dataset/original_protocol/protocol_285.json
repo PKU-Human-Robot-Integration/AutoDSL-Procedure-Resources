@@ -1,0 +1,26 @@
+{
+  "id": 301,
+  "origin_website": "Nature",
+  "title": "Embalmed visceral material multidisciplinary analysis",
+  "procedures": [
+    "Sampling: One to five percent of the total weight is recommended, with a minimum of 2 grams. Decontaminated or sterile surgery instruments are necessary.\nPreliminary macroscopic examination is completed with binocular lenses \\(magnification ×20 and ×40).\nOptical microscope analysis of any 0.1 gram of any sample is carried out as follows: after a short rehydration and decalcification of 30 minutes in a solution of 10% NaCl diluted in pure water plus 100 μL of 100% acetic acid, 200 μL from the supernatant is sampled. This liquid is then centrifuged \\(1000 turns per minute for 10 minutes) in order to obtain one spot per slide \\(Superfrost®). A total of four slides can be obtained, two coloured by the technique of Hematein-Eosin-Saffran \\(HES), two for further cyto-immuno-chemistry analysis. In a case of muscle sample, the confirmation of the tissue origin can be obtained using Biogenex® antibodies anti-myosin \\(human) MG1 and anti-myoglobine \\(human) MY32): antigen retrieval is performed according to the laboratory recommendations for primary antibodies, then slides are washed in de-ionised water, neutralized of endogenous peroxydase using peroxydase block for 5 minutes, washed in TBS for 2 × 5 minutes, incubated with protein block for 5 minutes, washed in TBS for 2 × 5 minutes, incubated with optimally diluted primary antibodies according to the laboratory recommendations, washed in TBS for 2 × 5 minutes, incubated with post-primary block for 30 minutes, washed in TBS for 2 × 5 minutes, incubated with NovoLink® polymer for 30 minutes, washed in TBS for 2 × 5 minutes with gentle rocking, developed peroxydase activity with DAB working solution for 5 minutes, washed in water, counterstained with hematein, washed in water for 5 minutes, dehydrated, cleared and mounted.",
+    "Palynological analysis are performed as many 0.5 gram as possible, and prepared as follows: attack by KOH 5% without heating in order to destruct vegetal tissues without affecting pollen grains. After centrifugation and rinsing, the final dried residue is diluted within glycerol providing a total volume of 100 μl, being separated into two parts of 50 μl each put between slides and cover glasses. The two slides are completely examined at optical microscope \\(x250). Each pollen grain is observed at magnification ×1000 for the detailed examination of its morphology and its identification.\nScanning electron microscope analysis is performed on at least two 0.25 gram samples for morphology observations and chemical analyses, using a Zeiss® Supra 55 vp with an energy-dispersive X-ray spectrometer Bruker® SDD detector. The field-effect “gun” microscope \\(FE-SEM) operates at 0.5–30 kV. High-resolution observations are obtained by 2 secondary electron detectors: an in-lens SE detector, and an Everhart-Thornley SE detector. To maintain the integrity of the samples, measurements are taken without the usual deposits of carbon or gold at the surface of the sample.",
+    "Elemental analysis is performed on at least a 0.75 mg sample. Techniques used are: Inductively Coupled Plasma Mass Spectrometry \\(ICP-MS) \\(Elan DRCe quadrupole spectrometer, Perkin Elmer®, Les Ulis, France) and Inductively Coupled Plasma Atomic Emission Spectrometry \\(ICP-OES) \\(JY 24, Horiba Jobin Yvon®, Longjumeau, France). For both techniques, samples are first mineralized with hot concentrated nitric acid \\(Nitric acid 65% Suprapur®, VWR, Fontenay-sous-Bois, France) and completed with ultra pure water \\(MilliQ®, Millipore, Molsheim, France) to obtain a final volume of 0.5 mL. In order to detect elements of interest, a fast semi-quantitative analysis of all elements of the periodic table with the ICP-MS TotalQuant method is first effectuated. Nine elements are thereafter quantitatively measured: Pb, Sn, Sb, Cu, Bi, Hg by ICP-MS and Fe, Ca and Al by ICP-OES.\nMolecular analysis are carried out on at least two 0.5 mg samples. SPME \\(Solid Phase MicroExtraction) is used to trap organic volatile compounds from the samples and gas chromatography/mass spectrometry \\(GC/MS) analysis is carried out in order to identify them. Samples are also directly placed in a glass liner into the injector of the chromatograph and organic components are directly desorbed at 300°C during five minutes \\(detail of equipment: GC/MS Agilent 6890 fitted with the Mass spectrometer 5973 mounted with an adapted purge and trap technique; Gerstel® Combipal with the CIS4 injector)."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biochemistry",
+    "Biological Techniques",
+    "Plant Sciences",
+    "Drug Discovery",
+    "Structural Biology",
+    "Microbiology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Ecology & Environmental Biology",
+    "Bioengineering & Technology"
+  ]
+}

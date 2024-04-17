@@ -1,0 +1,17 @@
+{
+  "id": 897,
+  "origin_website": "Nature",
+  "title": "Passive induction of experimental autoimmune encephalomyelitis by activated or tolerogenic dendritic cells",
+  "procedures": [
+    "**Preparation and characterization of bone marrow-derived dendritic cells**\nBone marrow-derived dendritic cells \\(BMDCs) were expanded from hematopoietic progenitors isolated from C57BL/6 mice.<sup>13</sup> After red cell lysis with ACK buffer, progenitors were cultured in RPMI-1640 plus L-glutamine, 10% FBS, 50 nM β-mercaptoethanol, and 5% penicillin/streptomycin. Fresh medium with 15 ng/ml of GM-CSF and 10 ng/ml of IL-4 were added to cultures on day 0, 3, and 5. BMDCs were harvested on day 7 and analyzed by flow cytometry for CD11c expression \\(70-80% of the expanded cell population, **Figure 2**). \n**Preparation of mature or tolerogenic DCs**\nBMDCs were harvested on day 7 and pre-treated with the absence or presence of CDDO-DFPA \\(400 nM) for 4 hours before LPS \\(100 ng/ml) treatment for 24 hours. BMDCs were then treated with MOG \\(35-55) \\(100 μg/ml) for 4 hours prior to the administration.\n**Induction and evaluation of EAE**\nEAE was induced in 8-10 week old female C57BL/6 mice. Methods for passive induction of EAE by ex vivo expanded BMDCs were adopted from previously described protocol.<sup>14</sup> In brief, mice received 2×10<sup>6</sup> LPS-stimulated, MOG-pulsed CD11c+ BMDCs at a total volume of 200 μL injected subcutaneously \\(100μ L into each hind leg). On the day of BMDC transfer and 48 hours later, each mouse also received 200 ng of pertussis toxin \\(PTX), and DCs were injected into C57BL/6 mice once each week for four consecutive weeks. Mice were monitored daily for survival and symptoms of EAE, using standard criteria \\(**Video 1**).<sup>12</sup>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Developmental Biology",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

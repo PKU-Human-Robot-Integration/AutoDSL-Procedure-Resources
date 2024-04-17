@@ -1,0 +1,18 @@
+{
+  "id": 950,
+  "origin_website": "Nature",
+  "title": "Production of polyclonal antibodies against protein antigens purified by electroelution from SDS-polyacrylamide gel",
+  "procedures": [
+    "1. Transform protease-deficient _E. coli_ strain \\(e.g., BL21) with a plasmid expression vector carrying cDNA or cDNA fragment of interest.\n  2. Spread transformation on appropriate LB medium plate and incubate overnight at 37°C.\n  3. Inoculate 5 ml of LB medium with a single colony of _E. coli_ cells and incubate overnight at 37°C with shaking.\n  4. Inoculate 50 ml of LB medium in 250 ml E-flask with 500 &#x3BC;l of culture \\(dilution 1:100) and grow at 37°C with shaking until the absorbance at 600 nm reaches 0.5-0.7.\n  5. Add the suitable inducer for the expression of the protein of interest according to the plasmid vector used \\[e.g., 0.5 mM \\(final concentration) IPTG ] and incubate for an additional 2 h.\n  6. Centrifuge the cell culture at 7,700g for 10 min at 4°C, discard the supernatant, and wash the pellet with 1X Phosphate-Buffered Saline \\(PBS).\n  7. Suspend the cell pellet by adding 50 &#x3BC;l of 1X PBS per ml of culture.\n  8. Sonicate on ice in short bursts to disrupt the cells until a partial clearing of the suspension is observed.\n  9. Add an appropriate aliquot of SDS-PAGE Loading Buffer to the cell homogenate and load 100-150 &#x3BC;l per well on a large \\(e.g., 18 X 20 cm) SDS-polyacrylamide gel as in **Fig. 1a**.\n  10. Run gel according to standard methods until maximum separation of the protein of interest is obtained.\n  11. Cut two vertical strips on the sides of the gel as ilustrated in **Fig. 1b** and stain them in 0.3% Coomassie Blue/10% acetic acid for 5 min. Leave the rest of the gel sitting in running buffer.",
+    "12. Discolour strips in 30% ethanol/10% acetic acid solution, realign them to the gel sides, and cut a long horizontal slice at the level of the band of interest as shown in **Fig. 1c**.\n  13. Cut the long strip into 1-cm pieces and place them vertically into the mini elution chamber of the S&amp;S BIOTRAP device \\(Schleicher and Schuell) \\(**Fig. 2**). A number of gel pieces sufficient to fill the elution chamber can be inserted to keep them upright \\(if you cannot proceed immediately to electroelution, the strip pieces can be stored at -20°C for few days).\n  14. Perform electroelution as specified by the manufacturer at 200 V for 4 h using 15 mM ammonium bicarbonate as the elution buffer.\n  15. After elution is completed, remove eluate from trap chamber using a Pasteur pipette and store it at -80°C until use.\n  16. Load an aliquot of elution product on mini SDS-polyacrylamide gel along with bovine serum albumin \\(BSA) of known concentration to evaluate quantity and purity of the purified protein \\(**Fig. 3**). \n  17. If necessary, purified proteins may be concentrated to the required concentration using suitable centrifugal filters \\(e.g., Millipore Amicon) and/or lyophilized and stored at -80°C.\n  18. Finally, purified proteins in ammonium bicarbonate buffer or lyophilized may be inoculated in rabbits using standard protocols to produce polyclonal antibodies."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

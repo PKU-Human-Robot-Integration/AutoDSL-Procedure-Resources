@@ -1,0 +1,17 @@
+{
+  "id": 525,
+  "origin_website": "Nature",
+  "title": "Metabolite Identification in Candida albicans",
+  "procedures": [
+    "1. Suspend frozen yeast cell pellets from 500-ml cultures  in 5 ml lysis solution \\(200 mM ammonium acetate, 1× Complete protease inhibitor cocktail \\[Roche], and 1 mM EGTA). \n  2. Add  glass beads \\(Sigma) equal amount to that of pellet to facilitate cell lysis by vortexing for 15 cycles \\(1 min of vortexing and 1 min of resting on ice), followed by centrifugation at 13,400 × g for 30 min. \n  3. Subject the supernatants to TAP as described by Rao et al. in 2013  with some modifications. \n  4. In the first round of purification, incubate cell lysates with 50 ul of anti-FLAG M2 agarose \\(Sigma) for 2 h at 4°C.\n  5. Perform a second round of purification with Ni-nitrilotriacetic acid \\(NTA) agarose \\(Qiagen) for 1 h at 4°C. \n  6. Wash the beads once for 5 min in 300 mM ammonium acetate and once for 5 min in 150 mM ammonium acetate. \n  7. To extract the protein-bound metabolites , add 60 ul of pure methanol to the beads twice, and incubate the beads at room temperature for 10 min. \n  8. Immediately transfer the methanol extract to a Waters Max Recovery glass vial and analyse by mass spectrometry. \n  9. Boil the beads in 50 ul of 1× SDS sample buffer for 5 min, and analyse 15 ul of the supernatant on a 12% SDS-PAGE gel, followed by a silver staining reagent \\(Bio-Rad).",
+    "UPLC-coupled ESI mass spectrometry.The mass spectrometry system used in this study comprised an Acquity ultraperformance liquid chromatograph \\(UPLC) system and a Synapt G2 mass spectrometer equipped with an electrospray ionization \\(ESI) probe \\(Waters Co., Milford, MA). For each run, load 10 μl of metabolite extract onto a C18 column using a binary solvent gradient of 5% to 95% methanol in water for 12 min and 95% methanol for another 5 min. Keep The collection mass range 100 to 1,200 m/z in profile scan mode to avoid missing uncommon mass adducts. Keep the  probe and source temperatures  500°C and 130°C, respectively. Process the data  though MarkerLynx software, version 4.1 \\(Waters Co., Milford, MA) ."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

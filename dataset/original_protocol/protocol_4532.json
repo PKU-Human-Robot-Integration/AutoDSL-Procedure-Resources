@@ -1,0 +1,16 @@
+{
+  "id": 4777,
+  "origin_website": "Bio",
+  "title": "High-throughput Quantification of Ammonium Content in <em>Arabidopsis</em>",
+  "procedures": [
+    "Standard curve   Prepare dilutions from the 10 mM NH4+ stock in a 0.05 mM - 1 mM range and use ultrapure water as blank. For example: blank; 0.05 mM; 0.1 mM; 0.2 mM; 0.4 mM; 0.6 mM; 0.8 mM; 1 mM.      Material harvest and homogenization   In a 96 deepwell (1.2 ml) plate, place 2 glass beads (4 mm diameter) into each well.   Weight approximately 20 mg of fresh leaves or roots and place them in a microplate deepwell half-submerged in liquid nitrogen. Store at -80 °C until use.   Grind frozen tissue with a TissueLyser two times for 60 sec at 27 Hz frequency. The plates are coupled to the TissueLyser with the TissueLyser Adapter Set 2 x 96. (Ensure sealing of the wells during homogenization).      Extraction   Add 500 μl ultrapure water per well.   Grind again as in step B3 (make sure the water is not frozen before grinding).   Incubate samples at 80 °C in a drying oven for 10 min (the incubation can be also done in a water bath).   Centrifuge the plate at 4,000 rpm and 4 °C for 20 min in a plate centrifuge.   Recover supernatants (400 μl) in a new 96 deepwell plate and keep the samples on ice.      Ammonium content measurement   Place 50 µl of extract (or 50 µl of standards for the calibration curve) per well, in a 96 well spectrophotometer microplate.    Add 100 µl of Solution A, 50 µl of Solution B and finally 100 µl of Solution C to every sample.   Make blank using 50 µl of water instead of the plant extract.   Incubate 30 min at room temperature.   Read absorbance at 635 nm in a spectrophotometer (Figure 1).   Making three technical replicates per sample or standard is recommended.    imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150821/20150821165747_5841.jpg Figure 1. Representative ammonium standard curve.",
+    "When ammonium content is higher than 1 nmol NH4+ per microliter of reaction mixture absorbance starts to get saturated. Linear regression is performed before arriving to saturation."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

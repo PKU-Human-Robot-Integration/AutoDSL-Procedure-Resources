@@ -1,0 +1,18 @@
+{
+  "id": 764,
+  "origin_website": "Nature",
+  "title": "Co-immunoprecipitation of Platelet Factor 4 and RANTES from human platelets",
+  "procedures": [
+    "1. Obtain fresh platelets from the local bloodbank or from healthy volunteers by venipuncture. Make sure to get informed consent from the volunteers.\n  2. Isolate and wash platelets using standard methods \\(e.g. differential centrifugation; beyond the scope of this protocol).\n  3. Take an equivalent of platelets to 20 mL of blood as starting material. This corresponds to approx. 500x10<sup>7</sup> platelets.\n  4. After washing, pellet the platelets \\(10 minutes at 2000g) and suspend in 1 mL of lysis buffer. Keep on ice.\n  5. Sonicate the platelet lysate 3 times 1 second at 25% amplitude on ice.\n  6. Centrifuge the lysate for 10 minutes at 4,000g \\(4&#xB0;C) and remove the floating lipid plug using a MACS pre separation filter.\n  7. Centrifuge the lysate for 20 minutes at 20,000g \\(4&#xB0;C) and keep the supernatant.\n  8. Add 100 &#x3BC;l of protein G magnetic beads and incubate on ice for 30 minutes. Pre-clearing.\n  9. Some of the magnetic beads may have formed aggregates due to the high protein content and may clog the columns. These may be removed by centrifuging 30 seconds at 20,000g.\n  10. Prepare a molecular MACS column by priming with 200 &#x3BC;l of lysis buffer. Pass the lysate over the column and collect the flowthrough as precleared lysate.\n  11. Split the precleared lysate in two equal portions. To one portion 2 &#x3BC;g of the specific anti-CCL5 or anti-CXCL4 antibody is added. To the other the corresponding non-specific control antibody is added. Mix very well, then add 50 &#x3BC;l of protein G magnetic beads to each portion. Mix again and incubate on ice for at least 30 minutes.\n  12. Prepare the molecular MACS columns by priming with 200 &#x3BC;l of lysis buffer. Discard the flowthrough.",
+    "13. Mix the antibody/bead-treated lysates again and pipet them into the molecular MACS columns. Use one column for each portion. Let the columns empty by gravity flow at ambient temperature. The flowthrough may be collected for analysis purposes. \n  14. Wash the columns 3 times with lysis buffer and one time with 20 mM Tris pH 7.5. Discard flowthrough. Warm the SDS sample buffer at 95 &#xB0;C in the meantime.\n  15. To elute the CXCL4/CC5 complex first add 20 &#x3BC;l of hot SDS sample buffer and wait for 5 minutes. Collect any fluid that exits the column in a clean tube.\n  16. Add 50 &#x3BC;l of hot SDS sample buffer. Collect any fluid that exits the column in a clean tube. The samples can be stored at this point.\n  17. Analyze the samples on a ready gradient gel \\(8-16%). Blot using your favorite standard methods onto nitrocellulose. Block with the mixture of polymer-based Roti Block and milk for at least 1 hour at room temperature.\n  18. In our hands, the biotinylated antibodies listed in the Reagents section above worked best, in combination with StreptABC complex.\n  19. Strip the blot using stripping buffer and analyse using the other biotinylated antibody. \n  20. Western Blotting can be performed using the standard techniques in the lab and we will not elaborate on the detailed procedure beyond the antibodies, developing and blocking reagents used."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

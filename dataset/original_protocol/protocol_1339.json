@@ -1,0 +1,14 @@
+{
+  "id": 1435,
+  "origin_website": "Nature",
+  "title": "<p><u>Quantification of Translation efficiencies</u></p>",
+  "procedures": [
+    "<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grow the cells in the medium/under the conditions of interest. The determination of translational efficiencies via Northern blot analyses and reporter gene assays is only meaningful when both transcript levels and protein levels are in steady state, e.g. during exponential growth. It is noteworthy that transcript half-lives and protein half-lives are very different. For example, the average transcript half-life in <em>E. coli</em> is 2-3 minutes and in <em>H. salinarum</em> is about 8 minutes. In contrast, proteins are stable at least for hours. For the determination of translation efficiencies under non-steady state conditions, it is necessary to use a strictly regulated promoter, induce transcription under the condition of interest, and then quantify the transcript and protein levels.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform RNA Isolation and Northern blot analysis for the fusion transcript between the transcript of interest and the transcript of the reporter gene. A probe against the reporter gene can be used for all transcripts of interest. The relative transcript levels can be quantified using the program ImageJ. The method has been deposited to the Protocol Exchange and has the doi <strong>10.21203/rs.2.11264/v1</strong>.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform enzyme assay for the chosen reporter gene to quantify the volume activity (U/ml or nkat/ml).</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quantify the protein concentration, e.g. by using the BCA assay (mg/ml)</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calculate of the specific enzyme activity by dividing the volume activity with the protein concentration (U/mg or nkat/mg). The methos has been deposited to the Protocol Exchange for two reporter enzymes for <em>E. coli</em> and one reporter enzyme for <em>H. volcanii</em>, which have got the following DOIs:</p><p>Reporter enzyme dihydrofolate reductase for <em>H. volcanii</em>: <strong>10.21203/rs.2.11263/v1</strong></p><p>Reporter enzyme beta-glucoronisase for <em>E. coli</em>: <strong>10.21203/rs.2.10596/v1</strong></p><p>Reporter enzyme glycerol-3-phosphate dehydrogenase for <em>E. coli</em>: <strong>10.21203/rs.2.10595/v1</strong></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For calculation of the translation efficiencies the specific enzyme activity is divided by the transcript level:</p><p>Translation efficiency = specific enzyme activity / transcript level</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

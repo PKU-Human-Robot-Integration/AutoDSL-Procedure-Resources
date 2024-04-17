@@ -1,0 +1,15 @@
+{
+  "id": 4498,
+  "origin_website": "Bio",
+  "title": "Novel Object Recognition for Studying Memory in Mice",
+  "procedures": [
+    "Notes: The novel object recognition test is a non-forced recognition memory test. Any stresses or clues for mice can increase the variability of the results. It is very important to minimize the stimulation from environment and the objects and to make mice acclimating. Before testing, one pingpong ball is put into the home cage for a week to decrease mice’s stress induced by novel object. If the mice have not been subjected to any test, transfer them in an empty cage for 5 min per day for at least 3 days to reduce their stress responses in the future task. The plexiglas boxes and objects are cleaned by cleaning solutions and air-dried for 3 min before usage. The entire exploration process of mice is recorded using camera and stored in computer.Day 1-2: HabituationMice are first transported to preparing area, which is a place near for the operative space for 10 min. Then the mice are put into the apparatus for analysis for 10 min to              acclimate the manipulations and environment for decreasing their stress.This procedure is carried out for two days.Day 3: Training daySimilar to Day 1 and 2, mice are first transported to preparing area, which is a place near for the operative space for 10 min. Two identical objects are placed in the plexiglas boxes as indicated in Figure 1 for mice to explore for 10 min.Day 4: Testing day All the processes are the same as the Day 3, except that one of old objects is randomly replaced with a new different object (Video 1).    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Novel object  AnalysisThe exploration time is counted by the period that mice stay on the circle area indicated in Figure 1.If the total of exploration time is less than 20 sec, mouse is likely under the stress.",
+    "The data should be excluded. If the total of exploration time is more than 5 min, the recorded film              needs to be checked by person. For instance, mouse may stand on the              object or grooms on the circle area. The result should also be excluded. The preference rates are measured by dividing the total              exploration time by the time to explore object. The formula to calculate              the object preference is: the preference % = time to explore the              individual object / total exploration time to objects x 100%. An example of novel object recognition is shown in Figure 2. At Day 3,              the exploration times for two identical objects are similar (around              50%). At Day 4, animals show higher preference to the novel object. The              mean of preference to the novel object is higher than 50% (~60% is              commonly found). The one-way ANOVA using Prism is used for statistic              analysis. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140930/20140930185536_4701.jpgFigure 2. The object preference at Day 3 and Day 4 of wild-type mice (*P < 0.05)"
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

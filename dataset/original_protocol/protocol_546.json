@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "origin_website": "Nature",
+  "title": "Bile Sample Collection for the analysis of extracellular RNA",
+  "procedures": [
+    "1. Bile is collected from drainage bags from patients with an indwelling biliary tube into a sterile collection bottle.\n  2. Centrifuge for 10 minutes at 3000g at 4°C to remove any cellular sediment and debris.\n  3. Aliquot into 1 ml aliquots in microcentrifuge tubes.\n  4. Store at -20°C."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

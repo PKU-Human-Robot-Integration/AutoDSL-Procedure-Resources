@@ -1,0 +1,17 @@
+{
+  "id": 846,
+  "origin_website": "Nature",
+  "title": "Behavioural assay for olfactory plasticity in <em>C. elegans</em>",
+  "procedures": [
+    "1. 4 days before the assay, pick about 6 adults \\(depending on the brood size of strains; 6 adults are suitable for WT) to NGM plates, where the bacterial strain NA22 is seeded. \n  \n2. Collect well-fed animals in microfuge tubes and wash 3 times with Wash buffer to remove bacteria and larval worms. After the last wash, remove as much of the supernatant as possible.\n  \n3. Add 100 &#x3BC;l of 10<sup>-4</sup> dilutions of odorants in water into the tubes for the odorant pre-exposure.\n  \n4. During the odorant pre-exposure, prepare assay plates with the format drawn in Fig. 1a. Spot 1 &#x3BC;l each of odorant and 0.5 &#x3BC;l each of 1 M sodium azide on two points at one end of the plates, and spot only sodium azide on the other side. \n  \n5. After 5 min of pre-exposure, add 1 ml of Wash buffer and centrifuge for 5 seconds at 100 g.\n  \n6. Suck animals settled at the bottom and spot about 50 animals at the center of an assay plate. The number of animals spotted on a plate is critical, because when a greater number of animals are spotted, they tend to form clumps and fail to leave the origin.\n  \n7. Remove excess liquid with Kimwipes, and at the same time disperse the animals gently along the midline of the plates, so that they do not form clumps.\n  \n8. Incubate for 30 min at 23 &#xB1; 1 &#xBA;C. Keeping the temperature in this range is critical, because the chemtaxis behaviour is strongly influenced by temperature.",
+    "9. After 30 min, count the number of animals in areas A or B \\(Fig. 1a), while animals that remain within 0.5 cm of the midline are not counted to exclude immotile animals from consideration. Calculate the chemotaxis index as \\(N<sub>A</sub> &#x2013; N<sub>B</sub>) / \\(N<sub>A</sub> + N<sub>B</sub>)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

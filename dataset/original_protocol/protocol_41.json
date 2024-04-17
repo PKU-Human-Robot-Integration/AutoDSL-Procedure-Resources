@@ -1,0 +1,22 @@
+{
+  "id": 41,
+  "origin_website": "Nature",
+  "title": "Directed yeast two hybrid screening for MEKK1 interaction partners",
+  "procedures": [
+    "**Transformation**\n**1** Inoculate 10 ml of YPAD medium with a single Y190 colony and incubate overnight at 30 &#x2DA;C. 55 ml of fresh YPAD are then cultured overnight to an OD<sub>600</sub> of 0.3. Cells are then incubated by shaking at 200 RPM and 30 &#x2DA;C until they reach an OD<sub>600</sub> of 0.7.\n**2** Harvest cells at 2000 RPM for 5 min at room temperature. \n**3** Aspirate the media, wash cells in sterile water, and spin at 2000 RPM at 25 &#x2dA;C for 5 min. \n**4** Aspirate water and resuspend cells in 1 ml of 0.1 M LiAc and transfer suspension to a fresh microfuge tube. Pellet cells at 6000 RPM for 15 s and aspirate the supernatant. Next, resuspend the pellet in 500 &#x3BC;l of 100 mM LiAc. \n**5** Boil a 1 ml sample of ssDNA \\(2.0 mg/ml) and chill on ice. Mix the yeast cell suspension and transfer 50 &#x3BC;l samples into fresh tubes for the interactions to be tested.\n**6** Pellet cells at 6000 RPM and aspirate supernatant. \n**7** Add the following gently over the cell pellet: 240 &#x3BC;l of PEG 3350 \\(50% w/v), 36 &#x3BC;l of 1.0 M LiAc, 25 &#x3BC;g of ssDNA \\(2.0 mg/ml), and 50 &#x3BC;l sterile water containing plasmid DNA for the interaction screen \\(0.1 &#x2013; 2.0 &#x3BC;g). Vortex mixture until cell pellet is completely mixed into suspension. \n**8** Incubate the suspension at 30 &#x2DA;C for 30 min. Transform the yeast by heat shock at 42 &#x2DA;C for 15 min, mix suspension carefully and pellet cells at 6000 RPM for 15 s.\n**9** Finally, resuspend yeast cells in 200 &#x3BC;l of sterile water for plating.\n**Plating and selection**\n**10** Plate yeast onto SC minus plates \\(-LEU, -TRP) and grow at 30 &#x2DA;C for 3 &#x2013; 5 days.",
+    "**11** Streak single colonies onto SC minus plates \\(-LEU, -HIS, -TRP) supplemented with 50 mM 3AT and 20 &#x3BC;g/ml X-gal. \n**12** Yeast are then grown for 3 &#x2013; 5 days and scored for growth and color change."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Computational Biology And Bioinformatics",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 412,
+  "origin_website": "Nature",
+  "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(3) Western Blot Analysis",
+  "procedures": [
+    "**Stimulation with Cytokines and preparation of whole cell extracts**\n1|  Grow cells as indicated above upto 80% confluent.\n2|  Replace medium with starvation medium \\(1% BSA) and starve for 2 h \n3|  Stimulate starved cells with cytokines or growth factors as described avove. \n4|  After stimulation, rinse cells with ice-cold PBS.\n5|  Following steps should be done on ice or at 4 &#xB0;C using ice cold buffers.\n6|  Add 0.6 ml of lysis buffer \\(with freshly added inhibitors) to a 100 mm cell culture plate.\n7|  Scrape plate with a cell scraper. \n8|  Using 2 ml pipette or syringe fitted with 21 gauge needle, transfer lysate to chilled microcentrifuge tube.\n9|  Wash the plate once with 0.3 ml of lysis buffer and combine with first lysate.\n10|  Pass through the 21 gauge needle to shear the DNA.\n11|  Add fresh 10 &#xB5;l stock PMSF \\(10 mg/ml) and incubate on ice for 30 minutes.\n12|  Microcentrifuge cell lysate \\(Max speed in microfuge) for 30 minutes at 4&#xB0; C.\n13|  Collect supernatant in a fresh tube\n14|  Centrifuge supernatant again for 10 minutes. The supernatant fluid is the total cell lysate.\n15|  Aliquot sample for freeze at -70&#xB0;C\n16|  Quantitate protein extract by photometry\n**Electrophoresis**\n1|  Use approximately 20-50 &#x3BC;g of purified protein, nuclear or whole cell extract \n2|  Mix with 4X Nupage sample buffer \\(i.e make it 1X with respect to buffer).\n3|  Denature proteins \\(10 min at 70 degrees) in loading buffer with reducing reagent and vortex to mix\n4|  Wash wells and load 10-20&#x3BC;l of sample.\n5|  Run at 200 V until the first blue band is at the bottom \\(35-50 min).\n6|  Semi-Dry Transfer Using Immobilin-P Membrane\n7|  Soak gel in transfer buffer for 15 minutes \\(with 3 buffer changes).",
+    "8|  Wet membrane in 100% methanol for 15 seconds\n9|  Wet membrane in H<sub>2</sub>O for 2 minutes\n10|  Wet membrane in transfer buffer for at least 5 minutes\n**Semi-Dry Transfer Assembly**\n1|  Wet two sheet of thick filter paper in transfer buffer \n2|  Place on semi-dry blotter.\n3|  place the treated membrane on top of buffered filter papers\n4|  place the gel on top of the membrane\n5|  Wet two thick filter papers in transfer buffer and place on top of the gel\n6|  Run at 16-20 V \\(200 mAmp), for approx. 30 min. Don&#x2019;t exceed 25 V\n**Hybridization**\n1|  Rinse membrane in water \\(2X)\n2|  Incubate 1 hr with 5% MLK/0.05% Tween 20/PBS \\(MTB) without Mg/Ca++ at RT\n3|  Incubate with primary Ab in MTB \\(0.1-1 &#x3BC;g per ml) at 4 &#xB0;C overnight\n4|  Rinse in water \\(2X)\n5|  Incubate with anti-rabbit or anti-mouse HRP \\(1: 10,000-25,000 dilution) at RT for 1 hour\n6|  Rinse with PBS+0.05% Tween 20 twice and wash for 10 min at RT \\(3 times).\n**Detection with ECL-plus** \n1|  Remove detection reagents and allow to equilibrate at room temperature before opening\n2|  Mix detection solutions A and solution B in a ratio of 40:1\\(Total volume 0.1ml/cm<sup>2</sup>)\n3|  Pipette detection solution on the membrane and incubate for 5 min at room temperature.\n4|  Place on Saran Wrap\n5|  Autoradiograph."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Biological Techniques",
+    "Genetics",
+    "Molecular Biology",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

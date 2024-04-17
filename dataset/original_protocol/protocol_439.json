@@ -1,0 +1,15 @@
+{
+  "id": 467,
+  "origin_website": "Nature",
+  "title": "A protocol for in vivo magnetisation of mice colon and application of physiological mechanical deformations to study mechanotransduction in tumour growth pressure",
+  "procedures": [
+    "1. Magnetisation of the mouse colon and in vivo mechanical deformation \\(Fig.1)\n  \n1.1. Anesthetise mice with isofluorane \\(2% for maintenance and 1.5% for induction in oxygen).\n1.2. Place a strong magnet of 0.12T \\(3mm diameter) stapled on the back of the mice in front of the colon \\(the magnet is 7+/-1mm distant from the distal colon).\n1.3. Dilute the Rhodamine fluorescently labelled Ultra-Magnetic Liposomes \\(UMLs) in a 10mM Hepes pH 7.4, 20mM Na3Citrate, 108mM NaCl buffer solution to a final concentration of 0.1M and inject them intravenously \\(in the lateral caudal veins of the tail) in mice of 3-4 months-age \\(the stabilisation of UML in the circulation is allowed by surface PEGylation, and the confinement maintenance of superparamagnetic nanocrystals of maghemite \\(γFe2O3) after extravasation in the colon tissue is ensured by liposomes encapsulation). \n1.4. Leave mice recover from the anesthesia and take care of them until sacrifice to remove colon.\n2. Acoustic analysis\n  \nMeasure the strain, as well as the Young's modulus of the colon, ex-vivo using acoustic strain imaging \\[21] and SWE\\[ 19], respectively.\nAcoustic strain imaging\n2.1. Embed a distal colon explant in an agar-gelatin phantom \\(2%A-5%G). Fix the ultrasonic probe on one side of the phantom and approach a small magnet axially towards the colon by a support \\(Extended Data Fig.2a, f). To measure the axial deformation \\(along y-direction), acquire an ultrasonic image a) before and b) after the magnet is displaced \\(strain imaging). The magnetic force induces tissue strain and this is measured by estimating local tissue displacement along y-direction from the first acquisition to the second one. The strain applied to the colon was systematically deduced from the strain measured in the colon in agar, subtracted by the strain applied to the agar alone.",
+    "Approach the magnet slowly at a 1cm distance from the colon within the imaged area. Then, move the magnet from 1 cm to 7 mm from the colon by 500μm steps. Observed fluctuations reflect local strain heterogeneities, showing the existence of 100μm acoustic resolution domains of strain ranging from 2.2% to 6.4% \\(Fig. 1b). \nYoung's modulus \\(E) quantitative imaging \n2.2. To image quantitative tissue stiffness use shear wave elastography \\(SWE) as follows: a) induce a remote and tiny palpation \\(tens of µm) by the acoustic radiation force of an initial focused ultrasonic beam; b) this radiation force generates a shear wave propagating along x-direction \\(Extended Data Fig.2e). Map tissue displacements induced by this shear wave by performing ultrafast ultrasonic imaging. The local shear wave speed is linked to stiffness."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

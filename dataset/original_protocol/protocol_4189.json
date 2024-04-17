@@ -1,0 +1,16 @@
+{
+  "id": 4396,
+  "origin_website": "Bio",
+  "title": "A SYBR Green-based Real Time RT-PCR Assay for Detection of the Emerging H7N9 Virus",
+  "procedures": [
+    "Virus isolationMDCK cells were cultured in Eagle's Minimum Essential Medium (EMEM) containing 10% heat-inactivated fetal bovine serum (FBS) in a T-25 cell culture flask and incubated at 37 °C under a humidified atmosphere with 5% CO2.Disperse the respiratory specimens (throat-swabs, sputum and tracheal aspirate) maintained in the viral transportation medium by vortex for 1 min. Sputum was pre-diluted with an equal volume of PBS solution prior to a vortex procedure.When the MDCK cells grew to 85% confluence, 0.5 ml of the respiratory specimens positive for H7N9 virus infection was inoculated into cells.Cytopathic effects were observed every day by microscopy.When 90% of MDCK cells experienced cytopathic effects (Figure 1), the cell culture supernatants were harvested by centrifuge at 2,000 rpm for 10 min and stored at -70 °C until use.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706203605_3014.jpgFigure 1. Rounding of infected cells, fusion with adjacent cells to form a syncytia and ultimate lysis, as compared with non-infected cells. A: Non-infected cells; B: Cells with cytopathic effects.200 μl of cell culture supernatants was subjected to RNA extraction. Purified viral nucleic acid was used as assay control.RNA extractionViral RNA was extracted from 200 μl of cell culture supernatants or respiratory specimens using QIAsymphony Virus/Bacteria Mini Kit combined with the QIAsymphony SP instrument, following the manufacturer’s instructions.The extracted RNA was eluted in 60 μl of nuclease-free water. RNA integrity was analyzed by agarose gel electrophoresis and then stored at -70 °C until use.SYBR green-based real time RT-PCR assayThe one-step real time quantitative RT-PCR assays were performed to amplify the HA and NA genes of H7N9 virus respectively using SuperScript III Platinum SYBR Green One-Step qRT-PCR kit. The assay was run in duplicate or triplicate for each unknown sample.The assay was carried out in a 10 μl reaction mixture containing:5 μl of 2x SYBR Green Reaction Mix0.8 μM of each primer0.",
+    "2 μl of ROX Reference Dye (500 nM)0.2 μl of SuperScript III RT/Platinum Taq Mix1 μl of purified RNAx μl of nuclease-free waterThe optimized thermal cycling conditions were as follows:A reverse transcription step at 50 °C for 10 minAn initial denaturation step at 95 °C for 5 min40 cycles of PCR amplification at 95 °C for 15 sec, 60 °C for 20 sec, and 72 °C for 30 sec, followed by a melting curve analysis program according to the instrument documentation.Finally, data were collected and results were analyzed with the use of Sequence Detection System Software v2.3. The Tm values of H7 and N9 specific amplicons were 80.77 and 81.20, respectively."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

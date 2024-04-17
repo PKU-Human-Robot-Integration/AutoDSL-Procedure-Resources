@@ -1,0 +1,15 @@
+{
+  "id": 8297,
+  "origin_website": "Bio",
+  "title": "Mitochondrial Transmembrane Potential (ψ<sub>m</sub>) Assay Using TMRM",
+  "procedures": [
+    "For quantitative real-time analysis   Cells are plated at 50% cell confluence.    Cells are incubated for 30 min at 37 °C in phenol-red free HBSS with 10 mM HEPES, 20 nM TMRM, 2 μM cyclosporine-H, inhibitor of multidrug resistance pump activity but not of the permeability transition pore (multi drug resistance pump activity can affect the mitochondrial lloading with TMRM) and 2 μg/ml Hoechst 33342, nuclear dye that can be used in living cells.    Sequential images were taken before (3 time points) and after 4 μM FCCP (3 time points) was injected in a motorized way for TMRM (535 nm excitation filter; 600 nm emission) and Hoechst 33342 (360 nm excitation filter; 460 nm emission) in different fields (4 fields acquired for each well and 6 wells for each experimental condition) every 3 min with an IN CELL Analyzer 1000.    Images are automatically analyzed with IN Cell Investigator Analysis software to measure the TMRM intensity. Fluorescence intensity is measured on the average of 10 points randomly selected for each field at the first and the last time point, the background corresponding to an area without cell is removed for each field.   The fluorescence intensity measured at the last time point (after applying FCCP) is normalized by the fluorescence intensity measured at the first time point of the experiment.      For FACS analysis   Cells are plated at 50% confluence.   Cells are trypsinized (at least 2 millions of cells).   Cells are centrifuged for 5 min at G-force 13,62.   Cells are washed in PBS, resuspended in phenol-red free HBSS with 10 mM HEPES and counted.",
+    "Cells (300,000 cells per tube, each condition done in triplicate) are resuspended the in phenol-red free HBSS with 10 mM HEPES and 20 nM TMRM in the presence of 2 μM of the multidrug resistance pump inhibitor cyclosporine-H and incubated for 30 min at 37 °C. In parallel, cells are incubated 5 min in the same conditions with an uncoupling agent, 4 μM FCCP, to measure the specific mitochondria staining.    FACS analysis for TMRM was performed on BD FACScan with CellQuest software and analysed using FlowJo software. Fluorescence intensity of TMRM was calculated by gating on live cells.   The intensity of the fluorescence with FCCP was normalized by the intensity without FCCP in order to rule out the possibility that the difference of the intensity is only or mainly caused by the cell sizes."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

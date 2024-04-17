@@ -1,0 +1,16 @@
+{
+  "id": 431,
+  "origin_website": "Nature",
+  "title": "_In vitro_ histone deubiquitination assay",
+  "procedures": [
+    "1. Incubate stable cells expressing Flag-H2A and HA-ubiquitin with buffer A \\(0.25 M sucrose, 60 mM KCl, 15 mM NaCl, 10 mM MES, pH 6.5, 5 mM MgCl2, 1 mM CaCl2, 0.5% Triton X-100, 1 mM DTT, 0.1 mM PMSF) to release nuclei.\n  2. Subject the released nuclei to micrococcal nuclease \\(Sigma) digestion in buffer B \\(10 mM Tris-HCl, pH 8.0, 100 mM NaCl, 2 mM MgCl2, 0.3 M sucrose, 1 mM PMSF, 5 mM CaCl2) to generate mononucleosomes. \n  3. Extract these nucleosomes from nuclei with buffer containing 20 mM Tris-HCl, pH 7.9, 10 mM EDTA, and 0.5 M NaCl. 4. After dialysis against histone storage buffer \\(10 mM Hepes-KOH, pH 7.5, 1 mM EDTA, 10 mM KCl, 0.1 mM PMSF, 0.05% NP40, 10 % glycerol), subject these nucleosomes to immunoprecipitation \\(IP) with anti-Flag antibody and subject the eluate from Flag IP to IP with anti-HA antibody. \n  5. Dialyze the eluate from the anti-HA IP, which contains the uH2A-containing nucleosomes, against histone storage buffer. \n  6. To obtain uH2A-containing core histones, mononucleosomes, and oligonucleosomes, micrococcal nuclease \\(Sigma) controll digestion to generate nucleosomal arrays ranging from 1 to 15 nucleosomes. \n  7. Separate mononucleosomes and oligonucleosomes \\(5-10) by a sucrose gradient \\(5-30%) and verify by measuring the length of DNA fragments extracted from these nucleosomes. \n  8. Prepare uH2A-containing core histones by removing DNA components from these nucleosomes with a hydroxyapatite column.  \n  \n**Deubiquitination reactions** \n9. Incubate 1.5 microgram of nucleosomes with protein fractions derived from HeLa cells in deubiquitination reaction buffer \\(100 mM Tris-HCl, pH 8.0, 1 mM EDTA, 0.1 mM PMSF, 1 mM DTT, 1 &#xB5;g/mL aprotinin, 1 &#xB5;g/mL leupeptin and 1 &#xB5;g/mL pepstatin A) at 37&#x2DA;C for 45 min or as indicated.",
+    "10. Terminate the reaction by addition of SDS-PAGE sample loading buffer and proteins were resolved on SDS-PAGE and blotted with the anti-HA antibody."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

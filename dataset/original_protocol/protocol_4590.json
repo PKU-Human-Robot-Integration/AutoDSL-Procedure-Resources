@@ -1,0 +1,16 @@
+{
+  "id": 4844,
+  "origin_website": "Bio",
+  "title": "Rat Aortic Ring Model to Assay Angiogenesis <em>ex vivo</em>",
+  "procedures": [
+    "The day beforeWrapped dissecting board in 2 aluminium foilsSterilize: Beaker, magnetic bar, blades and dissecting materialsPut in a fridge: 200 µl tips box, Cell culture plates 48 well On the dayAortic ring preparationSacrifice rat by CO2 inhalation and decapitation.Fix the rat on his back on a dissecting board.Disinfect skin with 80% ethanol.Make a Y-shape incision.Open the abdominal cavity.Cut the sternal plate and the diaphragm with scissors to expose the thoracic cavity.Displace the intestines, liver, stomach and spleen to the right side.Remove the lungs.The aorta is visible along the vertebral column.Excise the aorta starting at the point where abdominal aorta divides into two arteries up to the aortic arch using scissors placed parallel to the vertebral column and tweezers (do not stretch and mechanically damage the aorta).Transfer the aorta to a Petri dish filled with serum-free EBM-2 medium supplemented with 1% P/S on ice. All of the following steps will be performed under sterile conditions.Prior to pinning the aorta to the dissecting board remove the first sheet of aluminium foil and make sure that the aorta doesn’t dry by regularly adding serum-free EBM-2 medium + P/S.Under a dissecting microscope, remove the periaortic fibroadipose tissue, stumps of collateral vessels and blood clots with Vannas-Tübingen spring scissors and microdissection forceps.When the aorta is clean, transfer it to a clean Petri dish containing cold serum-free EBM-2 medium and keep it on ice.Prepare the collagen mix before cross-sectioning the thoracic aorta.Whilst in the Petri dish, Cross-section the thoracic aorta into rings that are 1 to 2 mm in length (20 to 25 rings/aorta) using a razor blade.Discard the aortic arch and the abdominal part of the aorta.Replace the medium 5 times with cold serum-free EBM-2 medium in the Petri-dish to rinse the rings.",
+    "Embedding of aortic rings in collagen gelsHomogenously spread 200 µl of collagen solution onto the bottom of each well in a pre-chilled 48-well plate using pre-chilled tips.Put the plate into a CO2 incubator (37 °C) for 30 min to allow polymerization.Take a ring with a forceps.Dry the ring by carefully dabbing it on the side of an empty Petri dish.Place the ring in the middle of the well at the top of the polymerized collagen.Repeat this process for all the rings, but be as quick as possible to make sure the rings do not dry out.Add a second layer of 200 µl collagen mix at the top of the aorta ring using pre-chilled tips.Place the plate back in the incubator.After 30 min, add 500 µl of serum-free EBM-2 medium supplemented or not with the drug of interest.QuantificationQuantification of microvessel outgrowth is done manually from pictures obtained after 7-8 days of culture with a 2.5x magnification on an inverted microscope. The quantification involves counting the number of vessels and branch points (Nicosia and Ottinetti, 1990). A visualization of the counting process is presented in Aplin et al. (2008)."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

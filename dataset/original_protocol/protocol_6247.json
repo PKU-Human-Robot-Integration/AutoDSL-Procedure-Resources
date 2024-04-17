@@ -1,0 +1,17 @@
+{
+  "id": 6603,
+  "origin_website": "Bio",
+  "title": "Quantitation of TLR4 Internalization in Response to LPS in Thioglycollate  Elicited Peritoneal Mouse Macrophages by Flow Cytometry",
+  "procedures": [
+    "Day 1 Collect macrophages from previously thioglycollate injected animals by peritoneal lavage using 2 x 10 ml of sterile saline, using the 10 ml syringe with an 18 G needle attached. We usually pool peritoneal exudates from 2-5 littermates of the same gender to ensure sufficient yield for all controls and time points. A typical protocol can be found here: https://www.jove.com/video/1488/isolation-of-mouse-peritoneal-cavity-cells.[href=https://www.jove.com/video/1488/isolation-of-mouse-peritoneal-cavity-cells] Pellet cells by centrifugation at 93-218 x g (1,000 rpm on a Thermo Scientific TX-750 4 rotor) for 10 min, and resuspend in culture media. Count cells using a hemocytometer (or cell counter) and add 1 x 106-1.5 x 106 Thioglycollate elicited peritoneal macrophages (TEPMs) to each sterile FACS tube in 1.5 ml culture media (see Recipes below). A typical experiment includes three time points in unstimulated and three timepoints in stimulated macrophages. For each timepoint, you can set up tubes as following:1) A tube for unstained control, 2) A tube for isotype control, 3) A tube for unstimulated control with TLR4 antibody stain, 4) A tube for LPS stimulation with TLR4 antibody stain, 5) single-color controls if cells are to be co-stained with other cell markers, and 6) A tube for dual color stain if using. Lightly recap FACS tubes to allow gas exchange in the incubator.Allow TEPM to rest overnight in a 37 °C incubator with 5% CO2.Day 2 The following morning, add 100 ng/ml ultrapure E. coli K235 LPS to each tube to be used to measure TLR4 internalization (excepting unstimulated controls). Lightly recap FACS tubes and return to the 37 °C incubator during stimulation.At appropriate time points, transfer each tube of control or LPS stimulated TEPMs to an ice bath and add two volumes ice-cold culture media or FACS buffer (see Recipes below) to arrest TLR4 internalization.",
+    "Pellet cells in a pre-cooled swing bucket by centrifuging at 112-264 x g (1,100 rpm on TX-750 4 rotor) for 5-10 min. Note: For this and all subsequent washes: decant media, resuspend cells by gently running the flow tubes over an empty tube rack, and immediately return to ice bucket. If more time points will be collected, resuspend these cells in ice-cold culture media and keep on ice until the last samples are removed from the incubator. Wash cells twice more with ice-cold FACS buffer. Resuspend in 100 μl final volume of ice-cold FACS buffer.Add 2 μg αFC CD16/32–(approx. 4 μl of Biolegend #101302) Ab and incubate for 15 min on ice. This prevents FC mediated nonspecific antibody binding.Add 0.5 μg PE labeled anti-TLR4 Ab or Isotype control (optional: co-stain with other antibodies to aid in identification of cellular subsets) and incubate for 30 min on ice.Wash cells 3 x with ice-cold FACS buffer.Wash 1 x with ice-cold PBS.Either proceed to Flow Cytometry run immediately or fix cells using 1% PFA (final concentration) in 100 μl PBS. Resuspend cells in 0.5-1.0 ml PBS and pass samples through a 70 μm cell strainer into a clean flow tube (not required to be sterile) to remove clumps just prior to running on a flow cytometer."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

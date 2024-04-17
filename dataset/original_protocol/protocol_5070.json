@@ -1,0 +1,15 @@
+{
+  "id": 5392,
+  "origin_website": "Bio",
+  "title": "Olfactory Habituation-dishabituation Test (Mouse)",
+  "procedures": [
+    "Before the test dayFor this test, mice should be used only once to avoid confounding of data, based on the learning and memory. During five days before the test, mice are habituated to the experimental condition. The same experimenter gently handles each mouse with latex gloves on for 10 min per day during the five consecutive days in the experimental room.On the test dayTests are done during the light phase of 12 h light/dark cycle in the test room, in which, the weak light (< 5 lux) is used for indirect lighting. Prepare a series of odor solutions diluted with deionized water (e.g., 10-4, 10-5, 10-6 and 10-7 in the case of eugenol), and set up the apparatus described in Equipment section in the test room (Figure 1). The mouse is transferred from their home cage to the test cage. Supply the clean air to the test cage, to which have been habituated for 15 min (Figure 2A; habituation). Because the mice often excrete their feces and urine several times in the test cage, especially in the beginning of habituation phase, clean the floor using paper towels every 5 min (three times) to prevent such odors from diffusion in the test cage.Continuously supply the clean air to the test cage for 3 min (Figure 2A; 1st trial). Record the mouse behavior with a digital video camera during the 1st and 2nd trials.Switch the air flow and the mice are exposed to the odor for 3 min (Figure 2A; 2nd trial). The tested mouse is returned to their home cage. Carefully clean the test cage using paper towels with 70% ethanol. Supply the clean air for 5 min to the test cage to clear the odor from the connecting tube between the olfactometer and test cage.",
+    "Start the next test using another mouse.The recorded videos are analyzed, as described below.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170227/20170227035251_5545.jpgFigure 2. Schema of the experimental procedure. A. Schema of the experimental procedure; B. Investigation time is defined as the time when the nose entered the 2.5-cm square area near the gas port (blue dotted line)."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

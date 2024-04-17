@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "origin_website": "Nature",
+  "title": "A highly-sensitive sandwich ELISA procedure based on one-step antibody immobilization for potential _in vitro_ diagnostics",
+  "procedures": [
+    "**Ab immobilization and BSA blocking   TIMING 1 h**\n1. Mix anti-HFA capture Ab \\(8 µg mL<sup>-1</sup>) with 1% \\(v/v) APTES in the ratio of 1:1 \\(v/v). Incubate each of the desired wells of a 96-well MTP with 100 μL of the freshly prepared anti-HFA capture Ab solution, with a final concentration of 4 µg mL<sup>-1</sup> in 0.5% APTES, for 30 min at RT. Wash five times with 300 μL of 0.1M PBS, pH 7.4. Washing can also be performed with an automatic plate washer. \n  2. Block the Ab-bound wells with 300 µL of 1% \\(w/v) BSA for 30 min at 37°C followed by extensive PBS washing \\(as mentioned in step 1).  **CRITICAL STEP** Use filtered BSA to remove any microbial or other contaminants. **?TROUBLESHOOTING**\n  \n**HFA sandwich ELISA    TIMING 2 h 45 min**\n3. Add 100 µL of varying HFA concentrations \\(4.9 pg mL<sup>-1</sup>-20 ng mL<sup>-1</sup>) to different BSA-blocked wells. Incubate for 1 h at 37°C and wash extensively with PBS \\(as stated in step 1).\n  4. Add 100 µL of biotinylated anti-HFA Ab \\(200 ng mL<sup>-1</sup>) in each of the HFA-captured wells. Incubate for 1 h at 37 °C and wash extensively with PBS \\(as mentioned in step 1).\n  5. Add 100 µL of streptavidin-HRP conjugate \\(diluted 1:200) to the biotinylated anti-HFA Ab treated wells. Incubate for 20 min at 37°C and wash extensively with PBS \\(as mentioned in step 1). **?TROUBLESHOOTING** \n  6. Add 100 µL of TMB-H<sub>2</sub>O<sub>2</sub> mixture to each of these wells and incubate at RT to develop color for 20 min. **?TROUBLESHOOTING**\n  7. Stop the enzyme-substrate reaction by adding 50 µL of 1 N H<sub>2</sub>SO<sub>4</sub> to each well.",
+    "8. Determine the absorbance at a primary wavelength of 450 nm taking 540 nm as the reference wavelength in the Tecan Infinite M200 Pro microplate reader.  **CRITICAL STEP** Determine the absorbance within 10 min of stopping the enzyme substrate reaction."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4579,
+  "origin_website": "Bio",
+  "title": "Fluorescence-linked Antigen Quantification (FLAQ) Assay for Fast Quantification of HIV-1 p24<sup>Gag</sup>",
+  "procedures": [
+    "Preparation of the FLAQ beads coated with p24Gag HIV-1 IIIB polyclonal antibodies Pipet 1 ml of Sphero Protein A Polystyrene Particles (referred hereafter as beads) into an Eppendorf tube. Centrifuge for 2 min at 12,000 rpm to pellet the beads. Remove supernatant.Add 1 ml of 1x PBS to beads pellet and centrifuge at 12,000 rpm for 2 min.Resuspend the beads pellet with 80 µl of the commercial vial of human anti-p24Gag HIV-1 IIIB polyclonal antibodies sold at the concentration 1 mg/ml. Pipet three times up and down and incubate for 15 min at room temperature on a rotating mixer.Centrifuge for 2 min at 12,000 rpm to pellet the beads. Remove and keep aside the antibody-containing supernatant.Add 1 ml of 1x PBS to the beads pellet. Centrifuge for 2 min at 12,000 rpm. Add another 1 ml of 1x PBS.Centrifuge for 2 min at 12,000 rpm. Add to the beads pellet 100 µl of a 1x PBS solution containing 4.8 mg/ml of Human normal IgG blocking reagent. Mix well by pipetting up and down 3 times.Incubate for 15 min at room temp on the rotating mixer.Centrifuge for 2 min at 12,000 rpm to pellet the beads. Discard the supernatant.Wash the beads twice with 1 ml of 10 mg/ml of BSA in PBS, spinning 2 min at 12,000 rpm each time.Resuspend the beads in 1 ml of 10 mg/ml of BSA in PBS and store these “FLAQ beads” at 4 °C. Repeat steps A1-17 using the supernatant containing p24Gag HIV-1 IIIB polyclonal antibodies from step 7 (Note 1).Measuring p24Gag content in viral preparationsResuspend the Abcam p24Gag protein in FACS buffer at 8 µg/ml. Aliquot and freeze.Prepare 200 µl of the Abcam p24Gag protein standard by serial dilution ½ in FACS buffer with 0.5% Triton-X100.",
+    "Typically we perform 8 serial dilutions ranging from 10 ng/ml to 78.12 pg/ml. Harvest viral supernatants and prepare dilutions in FACS buffer supplemented with 0.5% Triton-X100 (Note 2). 160 µl per sample will be required. Prepare a mix containing the following per sample:0.5µl KC57 conjugated to RD1 or FITC0.5 µl FLAQ beads 39 µl FACS buffer 0.5% Triton X-100Transfer 160 µl of the standards and the viral supernatants to a 96 well V-bottom plate.Add 40 µl of the reagent mix to each well and mix.Incubate at 37 °C for 1 h.Centrifuge each plate at 2,000 rpm for 2 min. Do not use plate sealers at this step to avoid well-to-well contamination due to the low superficial tension of the FACS buffer supplemented with 0.5% Triton X-100. Discard the supernatants and wash beads once with 150 µl of FACS buffer.Resuspend the beads in each well in 100 µl of FACS buffer containing 1% PFA.Acquire samples on a flow cytometer, which will create files with an FCS extension. FCS files are flow cytometry standard files containing all the specifications needed to completely describe experimental data flow sets. Analyze the fcs files to obtain the median fluorescence intensities of the beads by the FITC or PE detectors for experiments with KC-57 conjugated with FITC or RD1, respectively. Plot the median fluorescence in the PE channel (x axis) against the concentration of p24Gag in the standard (y axis) in Excel. After adding the trendline, determine the equation that fits the standard curve the best and calculate the concentration (y value) of the unknown."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

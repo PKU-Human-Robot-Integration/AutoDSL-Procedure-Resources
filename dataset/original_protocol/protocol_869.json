@@ -1,0 +1,15 @@
+{
+  "id": 926,
+  "origin_website": "Nature",
+  "title": "Vorum silver stain method",
+  "procedures": [
+    "Vorum Silver Stain Method\n1) Fix 2-18 hrs. \\(50% MeOH/12% HoAc, 0.05% formalin), 1 liter/gel \n2) Wash three times in 35% EtOH/water for 20 min \n3) Wash twice in distilled water for 10 minutes \n4) Sensitize 2 min with 0.5L of 100 mM sodium thiosulfate, 30 mM potassium ferricyanide \n5) Wash in 0.5 L water for 10 min. four times\n6) Stain 20 min. with 1 L 0.2% silver nitrate, 0.076% formalin\n7) Wash in water 1 min. twice\n8) Develop till dark enough with 1 L of 6% sodium carbonate, 0.05% formalin, 0.0004% sodium thiosulfate\n9) Stop 5 min. with 1 L of 50% MeOH/12% HoAC\n10) Store in 1% HoAc/water Desiderio Silver Destain\n11) Water 5 min \\(3X) \n12) Destain whole gel 15 min. with 1:1 v/v 30mM potassium ferricyanide and 100 mM\nsodium thiosulfate prepared fresh \n13) Water 5 min. \\(10X) \n14) Proceed to Vorum procedure and fix for 2 hrs and redo silver stain\n*Destain is useful if background darkens faster than the protein bands or if the gel is not stopped quickly enough and is generally too dark."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

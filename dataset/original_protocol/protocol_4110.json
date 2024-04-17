@@ -1,0 +1,18 @@
+{
+  "id": 4316,
+  "origin_website": "Bio",
+  "title": "Adenosine A<sub>2A</sub> Receptor Ligand Binding Experiments by Using Real-time Single-cell FRET",
+  "procedures": [
+    "Two days before the experiment, the cells (i.e. HEK-293 cells) were seeded onto 18 mm diameter glass coverslips and transiently transfected with an A2AR construct tagged with the CFP at its N-terminal tail (A2ARCFP) (Figure 1).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140312/20140312222256_5658.jpg Figure 1. Cell surface localisation of the A2ARCFP construct. HEK-293 cells were transiently transfected with A2ARCFP, fixed and analyzed by confocal microscopy. The A2ARCFP was mainly targeted to the cell surface and scarcely accumulated at the intracellular level (Fernández-Dueñas et al., 2013). Scale bar: 10 µm    The day of the experiment the transiently transfected cells were mounted in an Attofluor holder and placed on an inverted Axio Observer microscope equipped with a 63x oil immersion objective and a dual-emission photometry system.    Then, cells were continuously superfused with a FRET-compatible A2AR fluorescent ligand (i.e. MRS5424) (Fernández-Dueñas et al., 2012) dissolved in HBSS and applied with the aid of a focal drug application system.    A Polychrome V was used as the light source in our dual-emission photometry system. Upon excitation with the corresponding donor excitation wavelength (i.e. A2ARCFP) the fluorescent signals of the donor and acceptor fluorophores were detected by avalanche photodiodes and digitized using a Digidata 1440A analog/digital converter.    pCLAMP and GraphPad Prism softwares were used for data collection and analysis.    Accordingly, a FRET signal was measured upon donor (i.e. A2ARCFP) excitation at 430 ± 10 nm [beam splitter dichroic long-pass (DCLP) 460 nm] and an illumination time set to 10 ms at 10 Hz. Then, the emission light intensities were determined at 535 ± 15 nm (F535; MRS5424 emission) and 480 ± 20 nm (F480; A2ARCFP emission) with a beam splitter DCLP of 505 nm. No corrections for spillover between channels or direct MRS5424 excitation were made.",
+    "The increase in FRET ratio (F535/F480) was fitted to the equation: r(t) = A x (1 - e-t/τ), where τ is the time constant (in seconds) and A is the magnitude of the FRET signal (Figure 2). When necessary for calculating τ, agonist-independent changes in FRET due to photobleaching were subtracted (Fernández-Dueñas et al., 2012, Fernández-Dueñas et al., 2013).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140318/20140318024611_1038.jpg Figure 2. Example of FRET ratio fitting. Time-resolved changes in A2ARCFP and MRS5424 fluorescence emission signals in single cells transfected with A2ARCFP (see Figure 1). The ratio (blue trace) of the emission intensities of the MRS5424 (F535) and CFP (F480) in response to MRS5424 application was recorded from single HEK293 cells expressing the A2ARCFP (see Figure 1). Shown are the changes induced by rapid superfusion with 2 μM MRS5424. The increase of the ratio F535/F480 was fitted by a simple monoexponential curve (r(t) = A x (1 - e-t/τ)) using the GraphPad Prism software which gave a time constant (τ) in this experiment of 14 ± 1 sec. This assay is well suited for competitive ligand binding experiments using non-fluorescent compounds (Fernández-Dueñas et al., 2012, Fernández-Dueñas et al., 2013)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

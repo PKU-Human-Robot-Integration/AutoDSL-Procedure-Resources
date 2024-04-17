@@ -1,0 +1,16 @@
+{
+  "id": 5704,
+  "origin_website": "Bio",
+  "title": "Isolation of Guard-cell Enriched Tissue for RNA Extraction",
+  "procedures": [
+    "Collect leaves from 4-7 week old Arabidopsis plants grown in soil at 12 h/12 h photoperiod, use 17-18 plants and 4-5 leaves per plant. If plants are smaller in size, use more leaves per plant.Remove the central vein (midrib) by razor blade. Collect about 1.0-1.5 g of leaves without midribs for the following procedures (Figure 2).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170801/20170801191441_5283.jpgFigure 2. Midrib is cut and removed with the razor bladePut the cut leaf blades in blender with 250 ml cold Milli-Q water and a handful of crushed ice.Blend 1 min (program 2 for the Braun blender), pour through mesh placed in a plastic embroidery hoop. Note: Pouring through mesh should be done slowly, so that the guard cell enriched fragments are collected in the middle of the mesh. This is especially important at step 7 after which the sample is collected.Wash the mesh with cold Milli-Q water above the blender cup so that the guard cell enriched fragments are transferred inside the blender cup. Add cold Milli-Q water up to 250 ml and handful of crushed ice.Blend 1 min (program 2), pour through mesh placed in a plastic embroidery hoop.Wash the mesh with cold Milli-Q water above the blender cup so that the guard cell enriched fragments are transferred inside the blender cup. Add cold Milli-Q water up to 250 ml and handful of crushed ice.Blend 1 min (program 2), pour through mesh placed in a plastic embroidery hoop.Remove the remaining dark green tissue fragments (small leaf pieces that have not been blended) from the light green epidermal fraction.Dry the underside of the mesh from excess water with paper towel about 10-15 sec and use a small spatula or plastic spoon to carefully scrape the sample into a 1.5 ml tube or aluminum foil (Figure 3).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170801/20170801191532_8264.jpgFigure 3.",
+    "Guard cell enriched sample that is collected into a 1.5 ml tubeFreeze the sample in liquid nitrogen and keep at -80 °C. Alternatively, the sample can be immediately ground in mortar with liquid nitrogen and the powder used for RNA isolation.Note: If an estimation of guard cell enrichment is required, one easy control is to harvest a whole leaf sample from the same plants used for guard cell enrichment and freeze in liquid nitrogen and store at -80 °C. RNA can then be extracted in parallel with the guard cell samples. The level of guard cell enrichment can be estimated by real time quantitative PCR using guard cell preferentially expressed genes e.g., HT1 (AT1G62400), OST1 (AT4G33950) or GORK (AT5G37500)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

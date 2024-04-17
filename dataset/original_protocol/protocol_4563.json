@@ -1,0 +1,15 @@
+{
+  "id": 4812,
+  "origin_website": "Bio",
+  "title": "Pyridine Hemochromagen Assay for Determining the Concentration of Heme in Purified Protein Solutions",
+  "procedures": [
+    "The volumes shown below can be scaled up or down as desired, as long as the concentrations stay the same.Set the spectrophotometer to ≤ 2 nm SBW (if adjustable) and data interval at 1 nm between 500 and 600 nm (at least). The assay is not strongly temperature sensitive; room temperature works well.Blank the spectrophotometer with Solution I mixed 1:1 with whichever buffer your protein sample is in. Empty cuvette. Add 0.5 ml Solution I to 0.5 ml of your heme-containing sample and mix well. Scan this mixture; this is your oxidized sample.Add 10 μl Solution III to your oxidized sample and mix well. The sample should turn a reddish color. Scan immediately and again every minute until the absorbance peak no longer increases; this should take no more than 5 min. The scan with the highest peak is the reduced spectrum. Using the extinction coefficients in Table 1, and taking into account your dilution factors, calculate the concentration of heme in your original sample using Beer's law, A = ε c l (Absorbance = extinction coefficient x concentration x pathlength). You can use the absolute absorbance of the reduced sample, or the difference spectrum. Table 1. Extinction coefficients for pyridine hemochromogens table:\n﻿0,1,2,3,4\nCompound,Wavelength,ε (mM-1 cm-1),Solvent,Ref.\nPyr2-heme b Reduced,557 nm,34.7,\"NaOH, 10-40% pyr.\",\"Paul et al., 1953\"\n\"Pyr2-heme b, Red. - Oxid.\",557 nm min 540 nm,23.98,\"NaOH, 10-40% pyr.\",\"Berry and Trumpower, 1987\"\n\"Pyr2-heme a, Red. - Oxid.\",587 nm min 620 nm,23.98,\"NaOH, 10-40% pyr.\",\"Berry and Trumpower, 1987\"\nPyr2-heme c Reduced,550 nm,30.27,\"NaOH, 10-40% pyr.\",\"Berry and Trumpower, 1987\"\n\"Pyr2-heme c, Red. - Oxid.\",550 nm min 535 nm,23.97,\"NaOH, 10-40% pyr.\",\"Berry and Trumpower, 1987\"",
+    "To determine the extinction coefficient of the heme when it is bound to your native protein, you will also need a high quality scan of the protein sample in a suitable buffer. Using Beer's law and the sample heme concentration, calculate ε for the heme absorbance peaks of your native protein."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5220,
+  "origin_website": "Bio",
+  "title": "Microglial Phagocytosis Assay",
+  "procedures": [
+    "Coat coverslips with 10 μg/ml PDL (250 μl/well for a 24-well plate well) for 2 h at room temperature. Wash the coverslips with distilled water 3 times and aspirate the water before use.Note: Extra coated plates could be stored at 4 °C for months. Prepare purified primary microglial cells. Seed microglia onto coverslips at a density of 50,000 cells/cm2. Put the cultures into an incubator containing 5% CO2 and 100% humidity at 37 °C. Microglia attach to the wells within 2 h of seeding. Replenish the wells with fresh, pre-warmed microglial culture medium (No. 14 in ‘Materials and Reagents’ and No. 1 in ‘Recipes’) after cells are attached. Replace cultures into the incubator.Allow 24 h for the microglial cells to recover, after which the cells will be ready for the phagocytosis assay the following day. If using fluorescent beads:Pre-opsonize aqueous green fluorescent latex beads in FBS for 1 h at 37 °C. The ratio of beads to FBS is 1:5. Dilute the bead-containing FBS with DMEM to reach the final concentrations for beads and FBS in DMEM of 0.01% (v/v) and 0.05% (v/v), respectively. If using fluorescent Aβ42:Prepare the fluorescent Aβ42 stock solution according to the manufacturer’s recommendations. We dissolve the peptide in DMSO to obtain a 0.1 mM stock (200x). Dilute the reconstituted Aβ42 peptides in DMEM to reach a final concentration of 500 nM and incubate the solution at 37 °C for 1 h to promote Aβ42 aggregation.Replace microglial conditioned culture media with beads- or Aβ-containing DMEM and incubate cultures at 37 °C for 1 h. For a well of a 24-well plate, we add 250 μl beads- or Aβ-containing DMEM.Wash cultures thoroughly with ice-cold PBS 5 times and then fix the cells using 4% PFA for 15 min.",
+    "Perform immunohistochemistry for microglial proteins which can mark cell shape and counterstain the culture with DAPI. We visualize green fluorescent beads and FAM-Aβ with the green channel and use the red channel for Iba1 staining (Figures 1 and 2).Note: Iba1 works well in our hands. It not only demonstrates cell morphology but also excludes other cell types since it is a microglial-specific marker. You should use a secondary antibody detectable by a different channel than the fluorescent beads or Aβ.Image the microglial culture using a confocal microscope. For latex beads, we recommend imaging at low to medium magnification (10x or 20x) so that more cells can be imaged in one field. For Aβ42, we recommend imaging at medium or high magnification (e.g., 20x or 40x) to maintain sufficient resolution for visualizing the Aβ signal. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030194909_1343.jpgFigure 1. Microglial phagocytosis assay using fluorescent latex beads. White arrowheads point to phagocytic microglial cells containing beads inside the cell body. Scale bar = 50 μm.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20161030/20161030194950_4119.jpgFigure 2. Microglial phagocytosis assay using fluorescent Aβ42. Scale bar = 50 μm."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

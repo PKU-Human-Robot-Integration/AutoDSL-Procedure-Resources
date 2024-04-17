@@ -1,0 +1,16 @@
+{
+  "id": 4248,
+  "origin_website": "Bio",
+  "title": "Preparation of Adult Mouse Muscle Stem Cells",
+  "procedures": [
+    "Remove skeletal muscle of interest (tibialis anterior, Soleus/gastrocnemlus, or quadriceps) from adult mice, and clean the hair tendon and fat with a fine scissor.Place muscle into a 50 ml conical tube and add two volume of collagenase digestion medium (1 g of muscle into 2 ml of digestion medium). Gently agitate the tube at 37 °C for 30 min to 1.5 h. The digestion time depends on if the muscle is from neonatal, adult or aged animals. During the digestion, regularly check the muscle under microscope until the muscle start to lossen up and single myofibers are separated. After digestion, stop the collagenase with 5 ml of growth medium and directly transfer the dissociated muscle into 100 mm cell culture dishes.Triturate up and down to disrupt the muscle with broken end glass pipets (the pore size of the broken end is around 5 mm in diameter), until all the muscle can easily pass through the pipette. The dissociation of muscle tissue to single myofibers can be confirmed under microscope.Tilt the plate to pool the tissue suspension, and transfer it into new tubes.If muscle is not completely dissociated, add 5 ml of growth medium and repeat steps 5 and 6.Spin down dissociated muscle fibers suspension at 100 x g for 3 min. Muscle fibers will be settled and formed a pellet.Discard supernatant (or spin at 500 x g for 5 min to collect mononuclear cells), and re-suspend the myofibers in 5 ml of growth medium.Repeat step 7 and 8 twice to remove all the mononuclear cells and small fiber fragments.Add 15 ml of collagenase II/Dispase II solution to 5 ml of myofiber suspension, digest the fibers at 37 °C for 1 h with gentle agitation. The long incubation time will make sure the myofibers are completely digested.",
+    "Votex the digested fiber pellet for at least 1 min, then pass all the digested cells through 40 μm filter.Centrifuge digested cells at 500 x g for 5 min to pellet satellite cells. Wash the cell pellet with PBS twice to remove all the enzyme.Resuspend satellite cells in growth medium (~10ml for 1,000,000 cells), and preplate cells in uncoated plate for 20 min to remove fibroblast contamination.Collect unattached cells in growth medium for further application, such as cell culture and FACS (Chapman et al., 2013; Conboy et al., 2010).The quality and purity of isolated muscle stem cells could be analyzed with immunostaining of myogenic markers, such as Pax7 and Myf5 (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131214/20131214052959_6647.jpgFigure 1. Immunostaining of isolated muscle stem cells"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

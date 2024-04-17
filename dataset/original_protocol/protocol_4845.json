@@ -1,0 +1,17 @@
+{
+  "id": 5154,
+  "origin_website": "Bio",
+  "title": "Analysis of Enteric Neural Crest Cell Migration Using Heterotopic Grafts of Embryonic Guts",
+  "procedures": [
+    "Mate mature mice (≥ 2-month old) overnight and check for the presence of a vaginal plug the next morning. Noon of the day a vaginal plug is observed is considered embryonic day (e) 0.5. A typical experiment requires one wildtype couple and one couple bearing the mutation to study.Twelve days later, euthanize isoflurane-anesthetized pregnant female(s) via CO2 inhalation.Use 70% ethanol to spray the mouse abdomen and open it with dissecting scissors to access the uterus.Remove the uterus into a glass petri dish containing 15 ml of sterile ice-cold PBS and cut it between individual embryos.Working on each embryo separately in another glass petri dish filled with 15 ml of ice-cold PBS, use fine forceps to remove the uterine muscle layers under a dissecting microscope (Figure 1 - step 1 and Video 1). Open the extra-embryonic membranes to access the embryo by taking care not to sever the developing intestines that are intertwined with the blood vessels connecting the embryo to the placenta/extra-embryonic membranes (Figure 1 - step 2 and Video 1). Cut embryo's head which can be used for PCR-based genotyping if necessary and open the abdominal cavity (Figure 1 - steps 3-4 and Video 1). After removing the liver, cut the esophagus and pull the whole gastrointestinal tract out of the abdominal cavity while being careful not to damage the colon still attached to the anus (Figure 1 - step 5 and Video 1). Cut at the anus to free the gastrointestinal tract. The stomach and cecum will allow keeping track of sample's orientation (Figure 1 - step 6 and Video 1).     <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Whole dissection procedure   Transfer each sample into a well of a 24-well plate containing 1 ml of sterile PBS and kept on ice.",
+    "If PCR genotyping is required, be careful to match intestine and head numbers for each sample. Assemble each graft by depositing and juxtaposing donor (wildtype or mutant) and host (wildtype or mutant) tissues onto a small 13 mm nitrocellulose membrane in a glass petri dish containing 15 ml of sterile ice-cold PBS. Prepare each half of a graft in a sequential manner, so that the first half has already adhered to the filter before processing the second half. Take care to respect the normal rostro-caudal orientation (esophagus to anus) of both the donor and host tissues in the assembled graft. Host tissue from a selected sample is prepared by cutting a ~0.5 cm section of the most caudal hindgut whereas donor tissue is prepared from another sample by cutting a ~0.5 cm section of the midgut just upstream of the cecum.Transfer each graft-bearing filter in a chamber of an 8-chamber slide containing 250 µl of DMEM/F12 supplemented with 10% FBS and penicillin/streptomycin (Figure 2A). After 24 h of culture (37 °C, 5% CO2), colonization of aneural hindgut tissues by midgut-derived ENCCs is quantified by measuring the distance separating the most distal ENCC from the midgut-hindgut graft junction (Figure 2B)."
+  ],
+  "subjectAreas": [
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

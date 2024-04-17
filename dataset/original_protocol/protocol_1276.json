@@ -1,0 +1,14 @@
+{
+  "id": 1361,
+  "origin_website": "Nature",
+  "title": "<p>Whole Cell PatchClamp Electrophysiology in Opsin-Expressing Brain Slice with Visible Lights or UCNPs</p>",
+  "procedures": [
+    "<p>1. Mouse was anesthetized with isoflurane.</p><p>2. Mouse was perfused with 4℃ ACSF.</p><p>3. Brain was cut and immersed in uniform ice-ACSF mixtures.</p><p>4. Brain was dissected, dehydrated and glued on to a plate as soon as possible.</p><p>5. Brain was transferred into uniform ice-ACSF mixtures bubbled with carbogen (95% oxygen and 5% carbon dioxide).</p><p>6. 250-um-thick slices were obtained and transferred into 37℃ ACSF.</p><p>7. Thick-walled borosilicate glass (Sutter BF150-86-10) electrodes were pulled (Sutter P97) to a resistance of 5-7 MΩ.</p><p>8. Fill the electrodes with internal solution.</p><p>9. Electrode was moved to approach the neuron.</p><p>10. The neuron was patched.</p><p>11. For visible light, it was filtered to 470 nm, 546 nm and 665 nm through microscope. Light power was controlled through X-cite Illuminators and light pulse was adjust to 1s. </p><p>12. For NIR lasers (808 nm, 980 nm and 1532 nm) , they were delivered through Optical fiber.</p><p>13. UCNPs illuminant were fixed in the form of transparent polymethylpropanamide (PMMA) film. </p><p>14. Specifically to preparation, 1 mL UCNPs stock solution were re-dispersed to 4 mL chloroform with With 0.40 g dissolved PMMA. The solid UCNP film was then obtained by dripping solution on the cover glass and completely evaporating the chloroform solvent. </p><p>15. The brain slice was placed onto the UCNP film.</p><p>16. The activity was recorded.</p>"
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

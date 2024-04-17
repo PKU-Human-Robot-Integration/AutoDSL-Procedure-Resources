@@ -1,0 +1,23 @@
+{
+  "id": 178,
+  "origin_website": "Nature",
+  "title": "A rapid assay for the biological evaluation of helicase activity.",
+  "procedures": [
+    "1) Setup the annealing reaction\nOligonucleotides     1:1 Molar \nHEPES     2 mM\nNaCl     0.05 M\nEDTA     0.1 mM\nSDS     0.01% \\(w/v)\nPrepare for annealing by heating the oligonucleotide mix at 100°C for 5 min.\nIncubate at 65°C for 30 min.\nIncubate at 22°C for 4 h to allow gradual annealing. \nStore the annealed NS3 helicase substrate at  20°C \n^ Critical step\n2) Neutravidin Coating of the 96-well plates\nPrepare a stock solution of neutravidin at a ﬁnal concentration of 1 mg/ml in phosphate buffered saline \\(1 M PBS - pH 7.0)\nEach of the 96 wells is coated overnight at 4°C with 100 μl/well of a 5 μg/ml neutravidin solution in 0.5 M sodium carbonate buffer pH 9.3. Plates  are then washed three times with 100μl/well of PBS and air-dried at room temperature. \n3) Blocking with BSA\nWells are subsequently blocked upon addition of 100 μl of a 0.1% \\(w/v) BSA solution followed by incubation at 22°C for 2 h. Plates are then washed three times with 200 μl/well of PBS, air-dried at room temperature and stored at 4°C with desiccant.\n^ Critical step\n4) Substrate Application in the 96-well plate\nFor standard assays, mix 75 μl of 1 M phosphate buffer \\(PBS) pH 7.0, containing 1 M NaCl with 2.5 ng of the partially annealed DNA duplex for each well. Then incubate at 22°C for 4 h. Finally, wash each well twice with 200 μl PBS and once with 200 μl of 50 mM Tris HCl pH 7.5, 50 mM NaCl.  All solutions should be pre-warmed to 37°C. \n^ Critical step\n5) Helicase Reaction",
+    "Helicase reactions are initiated upon addition of 90 μl of the reaction mix consisting of 11 nM of puriﬁed full-length HCV NS3 protein, 25 mM 4-morpholine-propanesulphonic acid \\(MOPS) pH 7.0, 5 mM ATP, 2 mM DTT, 3 mM MnCl2, and 100 μg/ml of BSA to the wells in which 2.5 ng of DNA substrate has been previously applied. For negative controls, the reaction mix is lacking ATP. Reactions should be carried out for 60 min at 37°C. Wells should then be washed twice with 200 μl of 150 mM NaCl and dried at room temperature for 15 min. \n6) Activity determination – chemiluminescence preparation\nThe wells of the multi-well plate are washed for 5 min with detection washing buffer \\(0.1 M maleic acid, 0.15 M NaCl, 0.3%, Tween20, pH 7.5). Then each well is filled up with blocking solution \\(10% BSA \\(w/v) 0.1 M maleic acid, 0.15 M NaCl, pH 7.5) for 30 min followed by a 30 min incubation in 20 μl Antibody solution \\(anti-Dig, Roche, 1:10,000 solution of the antibody -75 mU/ml- in Blocking solution). The wells are washed twice with 100 μl of detection buffer \\(0.1 M Tris-HCl, 0.1 M NaCl, pH 9.5). Then 20 μl of detection buffer is applied for equilibration. 1 μl of chemiluminescence substrate \\(CSPD – 0.25 mM) working solution is applied to each well and the plates are incubated for 5 min at 17oC. The wells are then drained and incubated at 37oC for 30 min to allow for any remaining solution to evaporate. The luminescence continues for approximately 48 hours with a constant-intensity phase lasting  24 hours. The remaining DIG label in each well of the 96 well-plate is counted for 10 min against controls \\(one of which lacks  protein and the other lacks ATP) in a luminescence multi-well plate reader.",
+    "^ Critical step\nCRITICAL STEPS:\nStep 1: Choice of oligonucleotides.  The oligonucleotides used in this protocol are those described by Hicham Alaoui-Ismaili et al. \\(4), modified by DIG labelling of the release strand.  Other sequences are possible but a 3’ single stranded region in the substrate appears to be required to initiate strand displacement \\(6).\nStep 3: During the blocking step it is important to ensure that all potential binding sites are occupied, to prevent direct binding of the detection antibody to the well in step 6.  The wells should be filled with blocking solution to achieve full coating of the plate.\nStep 4: Pre-warming the solutions allows reactions to proceed at their optimum temperatures and avoids rate changes due to temperature equilibration.\nStep 6: Reaction wells should be completely filled up with blocking solution in order to ensure that the whole well has been blocked, thus preventing non-specific binding of any components of the detection system."
+  ],
+  "subjectAreas": [
+    "Biotechnology",
+    "Biochemistry",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Computational Biology And Bioinformatics",
+    "Structural Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

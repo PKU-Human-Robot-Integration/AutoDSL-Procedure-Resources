@@ -1,0 +1,14 @@
+{
+  "id": 5987,
+  "origin_website": "Bio",
+  "title": "Flight and Climbing Assay for Assessing Motor Functions in <em>Drosophila</em>",
+  "procedures": [
+    "Freshly eclosed flies of either sex should be collected in vials with standard corn meal media in batches of 10 and aged for 3-4 days.Transfer a batch of 10 flies (non anaesthetised) to the glass cylinder by tapping the vial with the flies on the pounding pad, immediately removing the cotton plug, inverting the flies into the glass cylinder, tapping hard and closing the cylinder with a fresh cotton plug.Allow the flies to get accustomed to the new environment for 3-4 min. Keep the stop watch ready, tap the measuring cylinder with 10 flies 3 times gently making sure all the flies reach the bottom of the cylinder and immediately turn on the stop watch (Video 3).    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 3. Climbing assay with a batch of 10 flies  Count the number of flies that cross the 8 cm mark within 12 sec. Repeat the experiment twice more with the same set of flies with an interval of 3-4 min in between trials and calculate the average climbing ability for the single batch of flies. Wipe the cylinder with dry tissue paper once the assay is done for one genotype. Wash the cylinder with water once the entire set of experiments are done for a day and let it dry. Make sure not to use soap, any other detergent or ethanol for cleaning.A minimum of 3 batches of 10 flies should be tested per genotype, each batch tested 3 times in total."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

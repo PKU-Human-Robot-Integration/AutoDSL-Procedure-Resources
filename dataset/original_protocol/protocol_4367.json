@@ -1,0 +1,17 @@
+{
+  "id": 4587,
+  "origin_website": "Bio",
+  "title": "Analysis of Protein Stability by the Cycloheximide Chase Assay",
+  "procedures": [
+    "Determine the time course of cycloheximide chase beforehand. There can be great variation among proteins. For an unfamiliar protein, it is recommended to start with a 4-hour interval and chase till 24 h. Cycloheximide may cause cytotoxicity to certain cells if cells are exposed to it over 20-24 h. It has been known that Slug is a labile protein with a T1/2 of about 40 min (Wang et al., 2009). CL1-5 cells stably overexpressing Flag-tagged wtSlug and non-phosphorylatable Slug-4SA were prepared using lentiviral transduction (Kao et al., 2014). Cells were grown in complete medium with 400 μg/ml G418. To compare the turnover of wtSlug and Slug-4SA, these stable cells were subjected to the cycloheximide chase assay.Seed about 6 x 105 cells in 35-mm dishes and have them incubated in a CO2 incubator overnight. After 12-h incubation, remove the medium and add complete medium with 300 μg/ml* cycloheximide (dissolved in DMSO) into each dish. *The concentration of cycloheximide depends on the cell line used. For CL1-5 cells, 300 μg/ml cyclcoheximide does not cause apoptosis within the time course of the chase assay. It is recommended to start a cell line test with different concentrations of cycloheximide (ranging from 50-300 μg/ml) for a least 8-h chase. For transfected cells, to avoid the sub-efficient cycloheximide concentrations, the expression of tagged proteins should be determined in the absence or presence of different concentrations of cycloheximide by Western blot at 24 h after transfection. Prepare the protein lysis buffer with freshly-added protease inhibitor. About 200 μl of lysis buffer is needed for one 35-mm dish. Lyse t = 0 h cells with the protein lysis buffer and store the lysates in a -80 °C freezer. Collect lysates at other time points (t = 1, 2, 3, 6 h) according to the experimental design.",
+    "After all the lysates have been collected, sonicate the protein lysates with a sonicator for 10 times (1 sec/time) on ice. Centrifuge lysates at 12,000 rpm at 4 °C for 30 min. Collect and transfer the supernatants to new tubes with corresponding labels. Determine protein concentrations by the BCA protein assay kit.Take 50 μg of proteins, add 5x sample buffer, and incubate samples at 100 °C for 10 min.Analyze the results by the SDS-PAGE assay and Western blotting (anti-Flag M2 antibodies with 1:5,000 dilution; β-actin antibodies with 1:10,000 dilution). Quantify the Western bands of Flag and β-actin in triplicates using MetaMorph Software or other equivalent softwares."
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

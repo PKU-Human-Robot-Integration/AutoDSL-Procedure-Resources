@@ -1,0 +1,16 @@
+{
+  "id": 5317,
+  "origin_website": "Bio",
+  "title": "Fluorescence <em>in situ</em> Localization of Gene Expression Using a <em>lacZ</em> Reporter  in the Heterocyst-forming Cyanobacterium <em>Anabaena variabilis</em>",
+  "procedures": [
+    "Culture growthStarting from colonies on agar plates, inoculate strains of A. variabilis or Anabaena sp. PCC 7120 containing lacZ fusions (constructed as described in Pratte and Thiel, 2016) in AA/8 containing 5 mM NH4Cl and 10 mM TES, pH 7.2 and antibiotics, when necessary. Shake cultures at 170 rpm at 30 °C in 100-120 μE/m2 s light and allow to grow for about 10 generations (3-4 days).Two days prior to nitrogen-stepdown, dilute cultures 1:100 in AA/8 containing 5 mM NH4Cl and 10 mM TES, pH 7.2 and allow them to continue growing at 30 °C with shaking and light to an OD720 of 0.1-0.2. Cyanobacteria should be actively growing for several generations so that they differentiate heterocysts well after the removal of fixed nitrogen. Consistency in growth conditions improves the reproducibility of β-galactosidase production in the cultures.Wash actively growing (step A2) cyanobacterial cultures 3 x in AA/8 to remove nitrogen. Resuspend cultures to an OD720 of < 0.1 in 125-ml flask containing 50 ml AA/8 with (+N) or without (-N) 5 mM NH4Cl and 10 mM TES, pH 7.2 and grow for 24 h with light and shaking. Check cultures for heterocysts prior to starting in situ localization assays.In situ localizationSpin down 2-5 ml culture in 1.7 ml Eppendorf tube for 5 min at 16,000 x g in microfuge.Wash cells twice with 500 µl water to remove growth medium.Fix cells in 500 µl 0.04% glutaraldehyde at 25 °C for 15 min.Centrifuge cells for 1 min at 16,000 x g in microfuge and remove glutaraldehyde solution.Wash pellet twice with 500 µl water to remove residual glutaraldehyde.Resuspend pellet in 30 µl of substrate - 100 µM 5-dodecanoylaminefluorescein di-β-d galactopyranosine (C12-FDG) in 25% DMSO and incubate in the dark at 37 °C for 30 min.",
+    "Centrifuge cells for 1 min at 16,000 x g in microfuge and remove substrate.Wash pellet twice with 500 µl water to remove residual substrate.Note: This step is important to achieve low background fluorescence.Resuspend pellet in 20 µl of antifade solution to keep the fluorescence stable. Keep cells in the dark until visualizing on microscope. Proceed immediately to imaging.Add ~2 µl of prepared cells to microscope slide with cover slip and visualize on a Zeiss Confocal LSM700 using a plan Apochromat 63x/1.4 Oil DIC M27 objective. Expression of lacZ in cells was visualized using excitation (488 nm) and emission (400-557 nm) wavelengths (from an argon ion laser) specific to detect fluorescein fluorescence, while cyanobacterial autofluorescence was visualized using excitation (561 nm) and emission (565-700 nm) wavelengths to detect cyanobacterial phycobiliprotein fluorescence. Typically we observe hundreds of filaments and then choose fields with sufficient representative filaments for imaging."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

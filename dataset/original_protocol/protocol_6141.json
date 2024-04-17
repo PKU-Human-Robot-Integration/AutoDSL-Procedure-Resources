@@ -1,0 +1,15 @@
+{
+  "id": 6496,
+  "origin_website": "Bio",
+  "title": "Determining Oxidative Damage by Lipid Peroxidation Assay in Rat Serum",
+  "procedures": [
+    "The flow chart in Figure 1 shows all the steps described in this protocol.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20190613/20190613190751_9751.jpgFigure 1. Schematic diagram of the assay procedure Reconstitute a bottle of TBA with 7.5 ml glacial acetic acid followed by adjusting with ddH2O to make 25 ml TBA solution.Dilute 10 μl of 4.17 M MDA standard in 407 μl of ddH2O to make 0.1 M MDA standard.Dilute 10 μl of 0.1 M MDA standard in 490 μl of ddH2O to make 2 mM MDA standard.Use 2 mM MDA standard to generate MDA standard curve dilutions (Recipe 1).Mix 20 μl of serum with 500 μl of 42 mM sulfuric acid.Add 125 μl of PTA followed by vortexing. Centrifuge at 13,000 x g at room temperature for 5 min.Add 200 μl of BHT to 10 ml of ddH2O in a separate tube followed by vortexing. Collect and resuspend serum pellet with 102 μl of BHT/ddH2O on ice.Adjust the final volume to 200 μl with ddH2O followed by vortexing.Incubate at 37 °C for 2 h.Mix 600 μl of TBA solution with 200 μl MDA standard/serum sample to generate 800 μl of MDA-TBA adduct.Incubate at 95 °C for 1 h and then place on ice bath for 15 min.Pipette 200 μl of MDA-TBA adduct into a 96-well microplate in duplicate.Measure the absorbance at a wavelength of 532 nm on the microplate reader.Establish the standard curve using the serial dilutions of MDA standard.Calculate MDA concentrations in serum samples."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

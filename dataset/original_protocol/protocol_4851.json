@@ -1,0 +1,16 @@
+{
+  "id": 5162,
+  "origin_website": "Bio",
+  "title": "Killer Cell Ig-like Receptors (KIR)-Binding Assay for Tumor Cells",
+  "procedures": [
+    "Human tumor cells are cultured in fresh RPMI medium at a cell density ≥ 0.5-0.7 x 106 cells/ml in an incubator at 37 °C, 5% CO2. For each experiment are required 0.5 x 106 tumor cells.Wash adherent cells with PBS (5 ml) and detach cells by adding 833 μM EDTA (1 ml for T25 flask and 2 ml for T75 flask) for 3-5 min in an incubator at 37 °C, 5% CO2.Wash cells twice with PBS (2 x 5 ml in 15 ml tube) by centrifugation at 468 x g for 7 min and re-suspend them in cold FACS buffer.Count total viable cell number with Trypan-blue exclusion method.Seed cells in round-bottom 96 well plates at a cell density of 1 x 106 cells/well. Prepare 1 well for the control (without KIR-Fc fusion-proteins) and 1 well for each fusion protein to be tested.Spin cells at 832 x g for 2 min at 4 °C. Discard the supernatant and add 100 µl/well of cold FACS buffer containing single KIR-Fc fusion proteins (KIR2DL1-Fc, KIR2DL3-Fc, and KIR3DL1-Fc) diluted 1:5 and 100 μl of cold FACS buffer with none in control cells.Incubate for 1 h at 4 °C.Wash cells with 150 µl of cold FACS buffer and centrifuge at 832 x g at 4 °C.Discard the supernatant and re-suspend cells in 50 µl of cold FACS buffer containing Goat anti-Human secondary antibody, RPE conjugate antibody (diluted 1:100) and mix carefully avoiding formation of bubbles.Incubate for 25 min on ice in the dark.Wash cells with 150 µl of cold FACS buffer and centrifuge at 832 x g at 4 °C.Discard the supernatant and re-suspended cells in 150 µl of cold FACS buffer in FACS tubes and perform flow cytometric analysis.",
+    "Viable human single cells will be selected by gating in forward scatter versus side scatter dot plot and the binding of KIR-Fc fusion proteins will be evaluated by mean fluorescence intensity (Figure 1).Acquire data using DIVA software and analyse using FlowJo software.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20160918/20160918181019_8249.jpgFigure 1. KIR3DL1 binding to DAOY cells. Flow cytometric analysis of KIR3DL1-Fc fusion protein binding to DAOY cells (blue line). Isotype-matched negative control antibody is displayed as the red line."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

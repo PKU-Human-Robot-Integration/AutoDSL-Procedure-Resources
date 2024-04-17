@@ -1,0 +1,22 @@
+{
+  "id": 425,
+  "origin_website": "Nature",
+  "title": "Enzymatic measurements for the detection of trypsin and carboxypeptidase A inhibitory activity",
+  "procedures": [
+    "**Trypsin inhibitory activity assay**\n   1. Incubate in a quartz cell 10 &#x3BC;l of biological sample \\(from each re-dissolved chromatographic fraction) with 50 &#x3BC;l trypsin \\(33 &#x3BC;g ml<sup>-1</sup> in 20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) and 790 &#x3BC;l activity buffer \\(20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) for 3 min at room temperature.\n   2. Repeat Step 1 in another quartz cell and add 10 &#x3BC;l activity buffer \\(20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) instead of biological sample in order to obtain the control sample.\n   3. Add 150 &#x3BC;l of the substrate N-benzoyl-arginine ethyl ester hydrochloride to each quartz cell \\(see REAGENTS).\n   4. Gently mix all the quartz cells and measure the absorbance change at 254 nm and 25 &#xB0;C over 2 min, producing 240 time points \\(signal averaging time = 0.5 s).\n   5. Control slopes should be 0.050 &#xB1; 0.003 units of absorbance \\(U.Abs.) per min.\n   6. Biological samples yielding slopes below 0.035 U.Abs. per min are taken for intensity fading MS assays.\n**Carboxypeptidase A inhibitory activity assay**\n   1. Incubate in a quartz cell 10 &#x3BC;l biological sample \\(from each re-dissolved chromatographic fraction) with 2 &#x3BC;l carboxypeptidase A \\(35 &#x3BC;g ml<sup>-1</sup> in 20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) and 978 &#x3BC;l activity buffer \\(20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) for 3 min at room temperature.\n   2. Repeat Step 1 in another quartz cell and add 10 &#x3BC;l activity buffer \\(50 mM Tri-HCl buffer, 100 mM NaCl, pH 7.5) instead of biological sample in order to obtain the control sample.\n   3. Add 10 &#x3BC;l of the substrate N-\\(4-methoxyphenylazoformyl)-Phe-OH to each quartz cell \\(see REAGENTS).",
+    "4. Gently mix all the quartz cells and measure the absorbance change at 350 nm and 25 &#xB0;C over 3 min, producing 360 time points \\(signal averaging time = 0.5 s).\n   5. Control slopes should be 0.12 &#xB1; 0.02 U.Abs. per min.\n   6. Biological samples yielding slopes below 0.060 U.Abs. per min are taken for 'intensity fading MS' assays."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Biological Techniques",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics",
+    "Structural Biology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

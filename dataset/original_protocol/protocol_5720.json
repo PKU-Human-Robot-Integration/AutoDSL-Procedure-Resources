@@ -1,0 +1,16 @@
+{
+  "id": 6065,
+  "origin_website": "Bio",
+  "title": "FACS-based Glucose Uptake Assay of Mouse Embryonic Fibroblasts and  Breast Cancer Cells Using 2-NBDG Probe",
+  "procedures": [
+    "2-NBDG uptake assay for MEFsMouse embryonic fibroblasts (MEFs) are isolated from the embryos of C57BL/6 WT mouse (13.5 days) (Dong et al., 2015). Culture the MEF cells until reaching 80-90% confluence in 10 cm Petri dishes with DMEM growth medium in a humidified cell culture incubator (37 °C, 5% CO2). Note: Don’t use MEFs beyond passage 3. MEFs usually become senescent at about passage 4 to 5. Remove culture medium and wash cells one time with 10 ml 1x PBS. Note: Use room temperature or pre-warmed 1x PBS from Step A3 to Step A9. Using chilled 1x PBS after Step A9.Trypsinize cells using 4 ml of 0.05% trypsin-EDTA for 3 min at 37 °C.Transfer cells to 15 ml polystyrene centrifuge tubes.Harvest cells at 200 x g for 5 min by centrifugation.Wash pelleted cells one time with 5 ml 1x PBS.Count cells using a hemocytometer chamber.Incubate 1 x 106 MEF cells in a 37 °C water bath for 2 h with 1 ml of PBS containing 100 μM 2-NBDG. Incubate the same number of MEFs in the water bath with 1 ml PBS without 2-NBDG as a negative control.Pellet the cells at 200 x g for 5 min by centrifugation. After washing the cells with chilled 1x PBS, the cells are pelleted at 200 x g for 5 min by centrifugation.Resuspend cells in 0.5 ml of ice-cold 1x PBS with 2% FBS.Note: Always keep cells on ice after this step.Filter cells through a 35 µm nylon mesh (the cell-strainer cap of the 5 ml round-bottom polystyrene tubes) to obtain a uniform single-cell suspension in a 5 ml tube.Keep the samples on ice until analysis on a flow cytometer.Perform flow cytometric analysis on a FACSCalibur flow cytometer. Acquire 10,000 single-cell events per reaction.Analyze fluorescence intensity using FlowJo software.",
+    "2-NBDG uptake assay for breast cancer cellsUsing the same procedure as MEFs’ uptake assay except incubating 1 x 106 MCF7 cells in a 37 °C water bath only for 30 min (instead of two hours for MEFs) with 1 ml of PBS containing 100 μM 2-NBDG. Note: Cancer cells increase glycolysis even in the presence of adequate oxygen. To compensate the reduced energy yield due to aerobic glycolysis, there is massive glucose uptake in cancer cells. Glucose transporters (GLUTs) are responsible for constitutive transportation of glucose into cells. Breast tumor and the other tumor cell lines showed higher expression levels of GLUTs 1 to 4 compared to mouse fibroblasts (Maddalena et al., 2015). This is one possible reason why cancer cells have the higher capacity of retaining glucose compared to normal fibroblasts. The other reasons include mitochondria defects and altered PI3K–Akt–mTOR signaling pathway in cancer cells."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

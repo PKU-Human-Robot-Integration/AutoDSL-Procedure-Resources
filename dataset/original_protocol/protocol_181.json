@@ -1,0 +1,15 @@
+{
+  "id": 186,
+  "origin_website": "Nature",
+  "title": "Standardized Relative Quantification of Immunofluorescence Tissue Staining",
+  "procedures": [
+    "1. Perform a standard immunofluorescent staining of the samples of choice. Stain for a single protein or carry out double immunofluorescence combining suitable secondary antibodies \\(e.g. Protein X-red, Protein Y-green) and always stain nuclei with DAPI or Hoechst 33342.\n  2. Take standard confocal images \\(at least fife frames for each sample).\n  3. Perform immunofluorescence quantification using ImageJ software as detailed as follows:\n  • Define Regions of Interest \\(ROI, see Fig. 1) using the Polygon or the Freehand selection tool, delimiting tumor tissue from stroma or adjacent regions.\n• Split the image into the two or three color channels \\(RGB Merge/split function) to obtain one image per channel.\n• First, to determine the average number of cells present in the previously defined ROI, use the Measure option in the program’s ROI Manager, to assess the integrated density value \\(IDV) for the blue channel \\(Hoechst 33342 or DAPI staining). \n• Using the Elliptical selection tool mark at least ten representative nuclei, covering the different sizes and intensities throughout the ROI. Then determine the IDV for all the selected nuclei and calculate the mean nucleus value.\n• Divide the blue channel IDV by the mean nucleus value. The resulting value corresponds to the average number of cells present in each respective ROI.\n• Next, to quantify individual Protein X \\(red) content per nucleus, open the Image calculator from the Process menu. \n• Create a merged image combining the red channel image with the blue channel image using the operator AND. The merged picture shows nuclear localized Protein X.\n• Measure the IDV of the respective ROI in this newly created merged image and divide it by the average number of cells calculated before. This represents the Protein X content per nucleus.",
+    "• Analogously, repeat this procedure with the green channel image to obtain the Protein Y content per nucleus.\n• The same way, to get the Protein X and Y colocalization signal value, use the Image calculator and the AND operator with the previously merged images of red/blue and green/blue channels. Then repeat the division between IDV the particular ROI and the average number of cells.\n• Represent the obtained values in scattered plots representing the level of expression for each protein per cell nucleus analyzed, noted as relative units \\(r. u.) indicating mean and 95% confidence interval.\n• Do suitable statistics, such as the non-parametric Kruskal-Wallis test that is used to compare three or more groups of unpaired values that did not follow any particular distribution. Thereby, Dunn’s multiple comparison post-test serves to identify the significance \\(P value)of differences in the sum of ranks between each pair of groups of values."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

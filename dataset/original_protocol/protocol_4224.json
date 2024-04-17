@@ -1,0 +1,15 @@
+{
+  "id": 4433,
+  "origin_website": "Bio",
+  "title": "Bone Resorption Assay",
+  "procedures": [
+    "Osteoclasts were plated (250,000 cells/well) in the presence and absence of calvarial osteoblasts in 96-well plates, previously equipped with bone slices. Cells were cultured in appropriate media for at least 14 days at 37 °C. After this time cells were washed twice with PBS and removed from bone slices via ultrasonication in 250 µl of 70% isopropanol for at least 15 min at high power. Note: A volume of 250 µl of 70% isopropanol before ultrasonication makes it easier to get rid of the cells.Resorption pit formation was visualized by 100 µl toluidine blue (1%; dissolved in water) staining for 2 min at RT.The slices were then rinsed with 250 µl MilliQ water at least 5 times to wash out residues. Resorption pits are now stained in dark blue (Figure 1) and resorption area can be quantified via Osteomeasure System or resorption pits/well can be counted via light microscopy.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140717/20140717001450_5692.jpgFigure 1. Resorption pit formation"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

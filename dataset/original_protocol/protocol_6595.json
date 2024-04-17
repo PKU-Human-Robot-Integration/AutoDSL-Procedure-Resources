@@ -1,0 +1,15 @@
+{
+  "id": 6954,
+  "origin_website": "Bio",
+  "title": "Protocol for Apoptosis Assay by Flow Cytometry Using Annexin V Staining Method",
+  "procedures": [
+    "Seed cells (1 x 106 cells) in a T25 culture flask (in triplicate for experiments) and three T25 culture flask for control (unstained, Annexin only, and propidium iodide only)   After 48 h incubation, collect the supernatant (floating apoptotic cells) and trypsinize the adherent cells (~2 x 106 cells) from each T25 flask (combine respective floating and trypsinized cells resulting in six tubes).   Wash the collected cells twice with PBS and centrifuge (670 x g, 5 min, RT).    Re-suspend each pellet (~2 x 106 cells) in PBS (400 μl).  For experimental cells (Triplicate) - (400 μl of cells + 100 μl of incubation buffer with 2 μl of Annexin [1 mg/ml] and 2 μl of propidium iodide [1 mg/ml]). For control cells Control 1: (Unstained) - (without any stain (400 μl of cells + 100 μl of incubation buffer) Control 2: (Annexin V only) - (400 μl of cells + 100 μl of incubation buffer with 2 μl of Annexin (1 mg/ml)) Control 3: (Propidium iodide only) - (400 μl of cells + 100 μl of incubation buffer with 2 μl of Propidium iodide (1 mg/ml))   Analyze the cells using a flow cytometry without washing the cells Cells that were propidium iodide (PI) negative and Annexin V negative are considered healthy, cells, PI negative and Annexin V positive cells are considered apoptotic, and cells that are positive to both PI and Annexin V considered necrotic (Figure 1).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130228/20130228083411_9609.jpg Figure 1."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 605,
+  "origin_website": "Nature",
+  "title": "Enrichment of extracellular vesicles using Millipore membrane filters",
+  "procedures": [
+    "**For cell culture supernatant:**\n1. Transfer supernatant media<sup>1</sup> from cell culture flask to a 50 mL conical tube.\n  2. Screw the Steriflip unit onto the top, open end of the sample tube.  Secure tightly.\n  3. Invert the assembly and secure in a tube base or rack.\n  4. Attach a regulated vacuum source to the vacuum port on the side of the Steriflip unit. Turn on the vacuum to draw solution through the membrane and into the empty tube.\n  5. Detach the Steriflip device and cap sample.  Store filtered sample at 4°C or proceed with microvesicles enrichment.\n  6. Add 2 mL PBS to the AU-15 filter, cap and centrifuge for 10 minutes at 4000 xg minutes in a swinging bucket rotor.\n  7. Remove unfiltered PBS from the bottom of the filter device.  Aspirate filtrate from the collection tube.\n  8. Add 15 mL sample to the AU-15 filter and cap the device.\n  9. Centrifuge at for 30 minutes at 4000 xg. There should be ~500 μl sample remaining in the upper chamber.\n  10. Remove device from the centrifuge and empty the collection tube.  \n  11. Add 14 mL PBS to the filter device and gently pipette sample multiple times to mix. \n  12. Centrifuge at for 30 minutes at 4000 xg.\n  13. Recover concentrated sample from the upper chamber of the filter device. \n  \n**For serum or plasma:**\n1. Add 500 μl PBS to the AU-0.5 filter, cap, and centrifuge for 10 minutes at 14,000 xg.\n  2. Reverse the device and centrifuge for 2 minutes at 1000 xg to remove the residual PBS.\n  3. Aspirate PBS from the collection tube.\n  4. Transfer 200 μl sample and 300 μl PBS to the AU-0.5 filter and cap the device.",
+    "5. Centrifuge for 30 minutes at 14,000 xg. There should be ~15 μl sample remaining in the upper chamber.\n  6. Remove device from the centrifuge and empty the collection tube.  \n  7. Add 0.5 mL PBS to the filter device and gently pipette sample multiple times to mix. \n  8. Centrifuge for 30 minutes at 14,000 xg.\n  9. Place filter upside down in a fresh microcentrifuge tube.\n  10.  Centrifuge for 2 minutes at 2000 xg to transfer the sample to the tube."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

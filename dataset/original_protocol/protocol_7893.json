@@ -1,0 +1,16 @@
+{
+  "id": 8304,
+  "origin_website": "Bio",
+  "title": "Longitudinal Bioluminescent Quantification of Three Dimensional Cell Growth",
+  "procedures": [
+    "Cells are grown in DMEM supplemented with 10% FBS and Pen/Strep (full growth media).   Cells are harvested from actively proliferating, sub-confluent 2D culture dishes.   Cells are trypsinized, washed in excess full-growth media, and pelleted by gentle centrifugation. Afterward, the resulting cell pellets are resuspended and allowed to recover in full growth media for 2 h.   During this time, coat the 96-well dish with 50 μl of 100% Cultrex per well and allow to gel at 37 °C. Note: Cultrex must be maintained on ice at all times to prevent solidification of the matrices that transpires as the gel warms to >4 °C.   Count the cells using the hemocytometer and dilute them to 1,000 cells in 150 μl of full growth media, which is supplemented with 4% Cultrex. Thoroughly mix cells and media/4% Cultrex solution and subsequently plate the cells on top of the solidified Cultrex cushions. Note: The 4% Cultrex solutions do not solidify, and as such, cells contained within these mixtures will readily attach to solidified Cultrex cushions, thereby permitting top layer media changes and/or replacements throughout the experiment.   Prior to plating the cells, other compounds such as growth factors or chemical inhibitors may be mixed with the cells and 4% Cultrex solutions. Each experimental condition should be plated in triplicate.  Note: All test compounds must be screened initially by short-term exposure to verify that these agents do not directly impact the expression of CMV-driven luciferase and/or the activity of luciferase:luciferin reactions.   Two hours after plating the cells, obtain initial time zero (T0) luminescence readings by adding 2 μl of D-luciferin (15 mg/ml) and gently tap the side of the plate to mix.",
+    "Note: Culture lid is open while in the plate reader, and as such, it is imperative that the plate reader remain clean and well-sanitized, and potentially be located in a laminar flow hood to prevent unwanted cell contamination. Culture medium does not need to be replaced at this time.    Place culture in a 37 °C incubator with 5% CO2.   Four days after plating, multicellular organoids will have begun to form. Obtain a second luminescence reading as described in step 7. Afterward, change and refresh all media and experimental test components, being extremely careful not to disrupt the cells and solidified Cultrex cushion. Note: At this point, therapeutic protocols can be initiated to monitor the anticancer activities of various chemotherapies against established organoids.   For all experimental conditions, repeat steps 7-9 at days 8 and 11 post-plating.  Note: These time points may vary depending dramatically based on the relative growth characteristics of the cell line under study. As such, longitudinal luciferase readings, dosing regiments, and cell plating densities need to be determined empirically for each cell line to be studied to maximize signal-to-noise ratios.   Use Excel to normalize each luminescence value to the initial T0 value derived after plating cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

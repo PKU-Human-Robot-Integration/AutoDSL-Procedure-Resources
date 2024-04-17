@@ -1,0 +1,15 @@
+{
+  "id": 8236,
+  "origin_website": "Bio",
+  "title": "Bioassay of Extracts of the Endophytic Fungi",
+  "procedures": [
+    "Solvent extracts from endophytic fungi were tested against Sclerotinia sclerotiorum a well known plant pathogenic fungus.   30 mg of dried extract was dissolved in 800 μl of methanol.    200 and 400 μl of the dissolved extract were added to 30 ml of molten PDA media, mixed and then poured equally into three 10 cm Petri plates to obtain 250 and 500 μg/ml extract concentrations, respectively.    To obtain 1,000 μg/ml concentration, 30 mg of dried extracts were dissolved in 400 μl of methanol and 400 μl were added to 30 ml of molten PDA.    Control growth plates contained 400 μl of methanol.    S.sclerotiorum was inoculated at the centre of the plate and radial growth was measured at 48 h intervals till the control plate attained the full growth.    Per cent growth inhibitions (%GI) of the extracts were calculated relative to the growth on the control plate. %GI = {(A-B)/A} x 100 Where A = Growth of plant pathogenic fungus in control plate           B = Growth of plant pathogenic fungus plates supplemented with extract from    endophytic fungus"
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

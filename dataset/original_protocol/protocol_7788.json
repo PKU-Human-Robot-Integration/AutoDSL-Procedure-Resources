@@ -1,0 +1,16 @@
+{
+  "id": 8194,
+  "origin_website": "Bio",
+  "title": "Plant Endo-β-mannanase Activity Assay",
+  "procedures": [
+    "Samples (~ 10 g developing xylem or leaves from one-year-old poplar) are ground in liquid nitrogen to a fine powder and homogenized at 4 °C in 1.5-volume fold of extraction buffer for 1 h (strong enzymatic activity can be detected in developing xylem).The homogenate is centrifuged at 10,000 x g for 30 min at 4 °C. The supernatant is then passed through a 10,000 Mr cut-off filter and dehydrated to < 500 μl, then the protein is diluted to ~1 μg/μl in 0.1 M sodium acetate buffer (pH 5.0) at 4 °C. The protein extraction is measured by BCA Reagent using bovine serum albumin as a standard. 200 μl of reaction mixture containing 100 μl of 1% AZC L-galactomannan (w/v, in 0.1 M sodium acetate buffer, pH 5.0) and 20 μg of extracted proteins or heated inactive proteins (100 °C 10 min, as control) is incubated at 40 °C for 2 h with continuous shake.The reaction mixture is boiled at 100 °C for 5 min and centrifuged at 12,000 x g for 5 min. The absorbance (A) of the supernatant at 590 nm is determined. The background values (A0) obtained using heated inactive proteins are subtracted from values (A1) obtained using active extract (A = A1 - A0).StandardizationEnzyme activity of a serial dilutions of a commercial Aspergillus niger endo-β-mannanase (E-BMANN, Megazyme) is determined under the conditions: 200 μl of reaction mixture containing 100 μl of 1% AZC L-galactomannan and E-BMANN is incubated at 40 °C for 2 h. A standard curve correlated with E-BMANN activity is shown in Figure 1. For absorbance values in a range of 0.05~0.9, these values can be calculated by reference to the equation: Y = SX + C. Where: Y = endo-β-Mannanase activity (in micro-Units/assay, i.e.",
+    "per 200 μl) S = Slope of the calibration graph X = Absorbance of the reaction at 590 nm (A) C = Intercept on the Y-axis According to the manufacturer’s instruction, one Unit of activity is defined as the amount of enzyme required to release one micromole of mannose reducing-sugar equivalents per minute under the defined assay conditions (1 micro-Unit = 1 pmol/min). Calculation of enzyme activity: endo-β-Mannanase activity in the sample is determined by reference to the standard curve to convert absorbance values to micro-Units per assay (Y), then further to micro-Units per μg protein (Y/[20 μg protein], pmol/min/[μg protein]).imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130828/20130828043343_9275.jpgFigure 1. Endo-β-mannanase standard curve on the commercial endo-β-mannanase."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

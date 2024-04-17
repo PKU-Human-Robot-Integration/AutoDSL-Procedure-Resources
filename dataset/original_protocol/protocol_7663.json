@@ -1,0 +1,16 @@
+{
+  "id": 8066,
+  "origin_website": "Bio",
+  "title": "Northwestern Blot of Protein-RNA Interaction from Young Rice Panicles",
+  "procedures": [
+    "RNA isolation and end-labeling of total and mRNATotal RNA was isolated from young panicles of wild type plants with Trizol kit. ~0.5 g tissue was used to isolate ~500 μg of total RNA and 200 μg total RNA was used to purify ~2 μg mRNA using Oligotex mRNA Mini Kit. Nanodrop was used for final RNA quantitation (~2 μg/μl for total RNA; ~20 ng/μl for mRNA). 5 μg total RNA and 1 μg mRNA were first treated with FastAP Thermosensitive Alkaline Phosphatase (10 U) at 37 °C for 1 h to remove 5’-phosphate group according to manufacturer’s protocol. The total and mRNAs were end-labeled with [γ-32P]-ATP using 1 μl (10 U) T4 Polynucleotide kinase at 37 °C for 30 min. Labeled RNAs were separated from unincorporated label by gel filtration on Sephadex G-50 column.Northwestern blot assayGST-LGD1 fusion protein was extracted from E. coli  harboring pGEX-4T-1 GST expression vector according to manufacturer’s protocol.The proteins were separated on 12% SDS PAGE under denaturing conditions, and transferred to PVDF Immobilon-P membrane and detected using the SNAP i.d. protein detection system as follows. For the Western blot, the primary anti-GST antibody (1:2,000) and secondary HRP (horseradish peroxidase)-conjugated antibody (1:3,000) were used for the enhanced chemiluminescence (ECL) detection.SuperSignal West Pico Chemiluminescence was employed to detect western signals according to the manufacturer’s instructions.For the Northwestern, recombinant proteins separated on 12% SDS PAGE under denaturing conditions were transferred to PVDF Immobilon-P membrane.The proteins were then renatured on the blots overnight at 4 °C in a renaturation buffer containing 0.1 M Tris HCl (pH 7.5) and 0.1% (v/v) NP-40. Blots were washed 4 times 15 min each in renaturation buffer and incubated 5 min at room temperature in blocking buffer.",
+    "Blots were hybridized overnight at 4 °C in blocking buffer (without BSA) in the presence of labeled total and mRNAs. Finally, the blots were washed 4 times 5 min each in blocking buffer (without BSA and Triton) and autoradiographed to obtain the signal as seen in Figure 1."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

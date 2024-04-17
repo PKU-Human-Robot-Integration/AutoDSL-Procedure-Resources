@@ -1,0 +1,15 @@
+{
+  "id": 1176,
+  "origin_website": "Nature",
+  "title": "<p>5-hydroxymethyl Cytosine (5hmC) enrichment</p>",
+  "procedures": [
+    "<p><strong>cfDNA&nbsp;isolation </strong></p><p>1. cfDNA is isolated using the QIAamp Circulating Nucleic Acid Kit (QIAGEN, Germantown, MD) following the manufacturer’s protocol except the omission of carrier RNA during cfDNA extraction.</p><p>2. 4 milliliter of plasma is lysed for 30 minutes prior to collection of nucleic acids.</p><p>3. Eluates are collected in a volume of 60 µl elution buffer.</p><p>4. All cfDNA eluates are&nbsp;quantified by Bioanalyzer dsDNA High Sensitivity assay (Agilent Technologies, Santa Clara, CA).</p><p>5. Qubit dsDNA High Sensitivity Assay (Thermo Fisher Scientific, Waltham, MA)&nbsp;is employed to ensure the absence of contaminating high molecular weight DNA emanating from white blood cell lysis.</p><p><br></p><p><strong>Tissue and genomic DNA processing </strong></p><p>1. All tissue samples are stored in H media for the interval between surgical resection and laboratory processing.</p><p>2. Each sample is weighed and aliquoted into sections of approximately 35 mg.</p><p>3. Each resulting subsection is briefly incubated on dry ice, then homogenized in 500 µl RLT Buffer Plus using a Tissue Lyser LT (QIAGEN Germantown, MD) at 50 Hz for two minutes.</p><p>* Resulting homogenates can be stored at -80C until DNA extraction.</p><p>4. Genomic DNA is extracted using DNeasy Blood &amp; Tissue Kit (QIAGEN Germantown, MD) according to manufacturer instructions.</p><p>5. Genomic DNA eluates are quantified using the Qubit dsDNA High Sensitivity assay (Thermo Fisher Scientific, Waltham, MA) and stored at -20°C until further processing.</p><p>6. Prior to sequencing library construction, genomic DNA is fragmented to a modal 150 base pair size using an ME220 focused ultrasonicator (Covaris, Woburn, MA).</p><p>7. Modal fragmented DNA sizes are verified using the TapeStation 2200 dsDNA high sensitivity assay (Agilent Technologies, Santa Clara, CA).</p><p>8. Fragmented DNA is quantified by Bioanalyzer dsDNA High Sensitivity assay (Agilent Technologies, Santa Clara, CA) and Qubit dsDNA High Sensitivity Assay (Thermo Fisher Scientific, Waltham, MA).</p><p><strong>&nbsp;</strong></p><p><strong>5-hydroxymethyl Cytosine (5hmC) enrichment assay</strong></p><p>1.",
+    "cfDNA is normalized to 10 ng total input for each assay and ligated to sequencing adapters.</p><p>2. 5hmC bases are biotinylated via a two-step chemistry and subsequently enriched by binding to Dynabeads M270 Streptavidin (Thermo Fisher Scientific, Waltham, MA). </p><p>3. All libraries are quantified by Bioanalyzer dsDNA High Sensitivity assay (Agilent Technologies, Santa Clara, CA) and Qubit dsDNA High Sensitivity Assay (Thermo Fisher Scientific, Waltham, MA), then normalized in preparation for sequencing.</p>"
+  ],
+  "subjectAreas": [
+    "Biomarkers"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

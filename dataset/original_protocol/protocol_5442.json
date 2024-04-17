@@ -1,0 +1,16 @@
+{
+  "id": 5773,
+  "origin_website": "Bio",
+  "title": "Detection of Reactive Oxygen Species (ROS) in Cyanobacteria Using the Oxidant-sensing Probe 2’,7’-Dichlorodihydrofluorescein Diacetate (DCFH-DA)",
+  "procedures": [
+    "A flow chart of the sample preparation is shown in Figure 2.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170830/20170830210412_0440.jpgFigure 2. Flow chart showing various steps involved in the protocol Transfer 100 ml of cyanobacterial culture to sterile glass Petri-dishes with the help of a measuring cylinder. Cover the Petri dishes with a 295 nm UV cut-off filter and transfer them to a UV light treatment chamber.Irradiate the cyanobacteria with UV-A, UV-B and PAR and maintain the temperature of the chamber at 25 ± 2 °C to avoid a heating effect. Mix the culture with a glass rod at regular intervals or use magnetic stirrer (15-20 rpm) to avoid self-shading of the cells. After desired time intervals (hereafter 12 h and 24 h), take 5 ml of sample and harvest cells by centrifugation at 9,050 x g for 20 min at room temperature.Resuspend the cell pellet in 1 ml phosphate buffer (see Recipes).Add 2.5 µl of 2 mM 2’,7’-dichlorodihydrofluorescein diacetate (DCFH-DA) solubilized in ethanol (see Recipes) to the sample mixture. Incubate the sample mixture on a shaker (15 rpm) at room temperature in the dark for 1 h. After 1 h incubationFor fluorescence microscopy: Take a clean glass slide and add 30 µl of culture. Cover the cells with a glass cover slip. Seal the slide with nail varnish to avoid drying out. Cells were visualized under a fluorescence microscope using an excitation wavelength of 488 nm and emission was detected in the range of 500-600 nm (Figure 3). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170830/20170830210757_9526.jpgFigure 3. Fluorescence images of UV-A + UV-B + PAR exposed Nostoc sp. strain HKAR-2 showing green DCF fluorescence after reaction with ROS. Negative control (containing DCFH-DA only; showing the basal level of fluorescence) (A); fluorescence at 0 h (B); 12 h UV-A + UV-B + PAR exposure (C); 24 h UV-A + UV-B + PAR exposure (D).",
+    "PAR: Photosynthetically active radiation. Scale bar =10 µm.For fluorescence spectroscopy: 3 ml of liquid sample was added to a cuvette for fluorescence spectrophotometric analysis (Figure 4). The cuvette was placed in fluorescence spectrophotometer and the sample was excited at 485 nm. Emission was recorded in the range of 500-600 nm. The exposure time was limited to 600 msec to reduce the damage of cells. Fluorescence was measured in terms of emitted fluorescence intensity after different durations of stress exposure.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170830/20170830210906_2280.jpgFigure 4. Fluorescence intensity of DCF after reaction with ROS generated due to varying duration of UV-A + UV-B + PAR exposure in Nostoc sp. strain HKAR-2 (means ± SD, n = 3). Control: Untreated sample. PAR: Photosynthetically active radiation."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

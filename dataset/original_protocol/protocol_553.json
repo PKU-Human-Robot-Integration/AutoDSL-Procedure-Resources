@@ -1,0 +1,17 @@
+{
+  "id": 589,
+  "origin_website": "Nature",
+  "title": "The _Lemna_ Toxicity Test: Guideline of a New Test System Based on Root Re-Growth",
+  "procedures": [
+    "**1. Preparation of medium**\n1.1 To prepare 1 L of Steinberg medium, the necessary reagents and respective quantities are outlined in **Table 1**. Stock solutions are added to 938 mL of distilled water.\n1.2 Chemicals must be reagent-grade. The medium is stirred until all the contents are dissolved. **CAUTION** The pH of liquid media should be adjusted to 6.9 ± 0.1with either HCl or NaOH at strengths ≤ 1 M after adding distilled water to each stock solution.\n**2. Preparation of toxicant solution and test dilutions**\n2.1 Test dilutions\nTest dilutions can be prepared in volumetric flasks and then distributed to the replicate test vessels. Test vessels are left at room temperature for 1 hour to allow equilibrium of the medium and toxicant.\n2.2 Selection of test concentrations\nSet the concentration of the test substances using half dilution of the medium and the toxicity test solution. In cases of uncertainty about sample toxicity, it is beneficial to run a range-finding test for choosing concentrations of definitive test. A wide range of concentrations \\(e.g., ≥ an order of magnitude) should assist in selection of the concentrations for the definitive test.\nIn case the test solution is an effluent or liquid material, set the concentration to 0, 6.25, 12.5, 25.0, 50.0, and 100%. The concentration should be selected so that different levels \\(4-5 sections) of growth can occur in the range of less than 10% to over 90%. It is best to choose the range of concentrations through preliminary experiments, which includes broad range of concentrations.\n2.3 Control\nAll experiments require a negative control with the identical culture medium, test conditions and procedures, but exclude the test substance.\n**3. Transfer of test organisms**",
+    "Sort out fronds of duckweed that are dark green and consist of two or three identical leaves attached; The roots of selected fronds are excised using stainless steel scissors \\(**Fig. 1a,b**); Place individual rootless plants in each cell of a 24-well plates by using tweezers \\(**Fig. 1c,d**)\n**4. Culture**\nAs a standard condition, the test organism is cultured at 25℃ with continuous white light of 90-100 μmol·m<sup>-2</sup>·s<sup>-1</sup>. The duration of the _Lemna* root growth inhibition test is 72 hours. \n**5. Methods of measurements**\nAfter 72 h of culture, harvest all plants and place them on glass slides and measure the length of the longest roots using an image analyzer **\\(Fig. 2)**. An individual plant generally has 2-3 fronds each with one root."
+  ],
+  "subjectAreas": [
+    "Plant Sciences",
+    "Drug Discovery"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Ecology & Environmental Biology"
+  ]
+}

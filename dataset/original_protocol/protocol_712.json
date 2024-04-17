@@ -1,0 +1,14 @@
+{
+  "id": 754,
+  "origin_website": "Nature",
+  "title": "JEG3 transplantation assay",
+  "procedures": [
+    "**JEG3 transplantation assay.**\n1)  Maintaining four week old NUDE mice \\(3 mice per group) in pathogen-limited conditions, inoculate subcutaneously in the back region below the neck with JEG3 cells \\(2.5 x 106 cells in RPMI); either alone or mixed with different NK subpopulations \\(1 x 10^6  in RPMI). The total injection volume should be 200 &#xB5;l. \n2)  To study the effects of VEGF and PLGF neutralization on tumor growth, together with cell inoculums, give mice Flt1-Fc or CTLA4-Fc as a control \\(50 &#xB5;g per mouse; R&amp;D Systems Inc.). \n3)  Re-inject a similar amount of NK cells with or without Flt1-Fc or CTLA4-Fc molecules subcutaneously in the same injection site on day 10 and 20 after the initial injection. \n4)  Sacrifice the mice on day 30 and determine tumor weight and size. The latter can be estimated in square millimeters as the product of 2-dimensional measurements \\(longest perpendicular length and width). \n5)  Prepare paraffin sections from the tumor samples obtained and determine microscopic vascular area in sections stained with anti-Von Willebrand  and hematoxylin at 150X original magnifications. \n6)  Transfer captured images and quantify by using the National Institutes of Health image software \\(public domain software; available at http://rsb.info.nih.gov/nih-image/) according to the accompanying instructions. \n7)  Identify blood vessels based on morphological identification by a pathologist and staining of endothelial cells with anti-Von Willebrand. Measure diameters as the minimum axis of the best fit-ellipse to the lumen. 10 images from each experimental subgroup should be chosen for the analysis and eventually averaged to give a representative vascular area 46. All measurements should be determined in a blinded way by two operators on two different occasions."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

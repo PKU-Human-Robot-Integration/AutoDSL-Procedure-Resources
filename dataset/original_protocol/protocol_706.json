@@ -1,0 +1,19 @@
+{
+  "id": 748,
+  "origin_website": "Nature",
+  "title": "AP-MALDI MSI of lipids in mouse brain tissue sections",
+  "procedures": [
+    "**1) Cryosectioning**\na) Fix mouse brain on cryosectioning holder.\nb) Cut 20 µm tissue sections at -25°C and transfer these onto glass slides before measurement or store the slides at -80°C until measurement.\n**2) MALDI matrix application**\na) Fix sample on a MALDI target plate with double sided sticker and mark the region of interest  with a colored pen.\nb) Dissolve matrix \\(DHB 30 mg/ml; CHCA 7 mg/ml) in 1 ml 1:1 \\(v/v) acetone/water mixture containing 0.1% TFA. \nc) Apply 80 µl matrix solution using a pneumatic sprayer system with a flow rate of 10 µl/min, sample rotation speed of 350 rpm and a gas pressure of 1 bar. \nd) Check matrix layer quality, crystal size and homogenous coverage with an optical microscope.\n**3) AP-MALDI MSI**\na) Calibrate m/z  scale of mass spectrometer.\nb) Mount MALDI target with sample on the target support of the AP-SMALDI MSI source.\nc) Search region of interest  with the optical sample observation camera.\nd) Set the mass spectrometer to a mass range of m/z 300-1200 and fix injection time to 500 ms. Apply 4 kV to the MALDI target and set laser settings to 30 laser pulses per spot/pixel with a repetition rate of 60 Hz. \ne) Focus laser outside the region of interest by maximizing the intensity and simultaneously lowering the laser pulse energy. Identify the focal plane by inspection of the resulting MALDI mass spectra: If the signal to noise ratio is well-above 3 for as many compounds as possible for a minimal laser energy setting the focal plane is reached.",
+    "f) Set the step size \\(lateral resolution) of the measurement \\(e.g. 10 µm) and the corresponding number of pixels \\(e.g. 500x500) in the control software of the AP-SMALDI MSI source in order to measure the region of interest. Adjust laser pulse energy to a value that allows to measure with the set lateral resolution.\ne) Start data acquisition and the MSI experiment in the control software of the MSI source.\n**4) Data evaluation and representation**\na) Load mass spectrometric data and imaging data with the MIRION<sup>12</sup> imaging software. \nb) Set image bin width to m/z ±0.01.\nc) Export all relevant images with their corresponding intensity weighted centroid m/z value as **.jpg and as a **.csv file, respectively. \nd) Combine three different ion images into a red-green-blue \\(RGB) overlay image. Generate all MS images without further image processing steps such as smoothing or interpolation. Normalize MS images to the base pixel \\(highest intensity) per image \\(m/z bin).\ne) Import the m/z value list \\(*.csv file) into a data base \\(e.g. METLIN <sup>13</sup> database) and search for data base entries with a search window of 2 ppm for accurate mass compound assignment.\n**5) H&E stain for histological classification after MSI** \na) Dehydrate the sample in ethanol and gradually increase the demineralized water content: 100% ethanol for 2 min, 70% ethanol for 2 min, 40% ethanol for 2 min, demineralized water for 2 min.\nb) Stain sample with hematoxylin for 12 min.\nc)Wash the sample with tap water for 10 min followed by demineralized water for 5 min.\nd) Apply 1% aqueous Eosin Y solution to the sample for 1 min. \ne) Differentiate in demineralized water and gradually increase the ethanol content: demineralized water for 2 min, 40% ethanol for 2 min, 70% ethanol for 2 min and 100% ethanol for 2 min.",
+    "f) Rinse the sample with Xylol for 2 min.\nh) Fixate the sample with eukitt between glass slides."
+  ],
+  "subjectAreas": [
+    "Chemistry",
+    "Biological Techniques",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

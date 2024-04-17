@@ -1,0 +1,16 @@
+{
+  "id": 518,
+  "origin_website": "Nature",
+  "title": "Prediction of allergenic proteins and mapping of IgE epitopes in allergens",
+  "procedures": [
+    "To run prediction, follow these stepwise instructions. \nStep 1: Type the following URL address in your web browser \"http://www.imtech.res.in/raghava/algpred\":http://www.imtech.res.in/raghava/algpred\nStep 2: The user is required to fill the sequence submission form. A brief description of each of the field is as follows: \nProtein sequence name: This is an optional field.\nPaste protein sequence in plain or standard format: Paste the query protein sequence in one of the standard format \\(FASTA, EMBL, PIR etc.) or amino acid sequence only in single letter code.\nOr Upload sequence file: The user can also upload the query sequence directly from a file.\nNOTE: Care should be taken that the server accepts input from either of two options, not both.\nInput sequence format: The user has to select the appropriate format according to the input sequence.\nStep 3: Users can select one or more approaches at a time in a submission form as mentioned below:\n i) Mapping of IgE epitopes and PID: The server searches known IgE epitopes in query protein sequence and will assign as allergen if any segment have high similarity with any known epitope. If there is a known epitope\\(s), then mapping of the epitope\\(s) is performed in the query sequence. The specificity of this approach is very high but the disadvantage is it has low sensitivity, as not all IgE epitopes of all allergens are known.\nii)MEME/MAST motif: The input query protein sequence searched in MEME matrices created by using allergen sequences. The specificity of this approach is high with low sensitivity.\niii)SVM module based on amino acid composition: The SVM module is generated using amino acid composition of protein sequence of allergens and nonallergens. The threshold value used is -0.4. At this value sensitivity and specificity of this method is 88.87% and 81.86% respectively, using fivefold cross-validation.",
+    "iv)SVM module based on dipeptide composition: The SVM module is generated using dipeptide composition of protein sequence of allergens and nonallergens. The threshold value used is -0.2. At this value sensitivity and specificity of this method is 82.78% and 85.00% respectively, using fivefold cross-validation.\nv)Blast search on allergen representative peptides \\(ARPs):  The query protein sequence search the database of 2890 allergen representative peptides \\(ARPs), obtained from Bjorklund et al 2005. If there is a hit, then it will assign as allergen and the ARP is shown in the result field. The accuracy of this method is very high with high sensitivity as well as specificity.\nvi)Hyprid approach: The query protein sequence is assign as allergen if any one of the methods \\( SVM composition based +mapping of  IgE epitopes + ARPs BLAST + MEME/MAST)  predicts it as allergen.\nStep 4: Finally click on \"Submit\" button\nOne Submission filled form is shown in Figure 1"
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

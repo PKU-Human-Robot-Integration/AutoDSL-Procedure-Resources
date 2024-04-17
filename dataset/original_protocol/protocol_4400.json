@@ -1,0 +1,16 @@
+{
+  "id": 4624,
+  "origin_website": "Bio",
+  "title": "Isolation of Polysome-bound mRNA from Rice Solid Tissues Amenable for RT-PCR and Profiling Experiments",
+  "procedures": [
+    "Preparation of sucrose gradients Prepare 50 ml of 50% (w/v) sucrose solution by mixing 36.7 ml of sucrose (2 M) and 13.3 ml of 10x sucrose salts. Filter solutions with 0.22 μm filter.Prepare 50 ml of 35% (w/v) sucrose solution by mixing 25.6 ml of sucrose (2 M) and 24.4 ml of 10x sucrose salts. Filter solutions with 0.22 μm filter.Prepare 62 ml of 20% (w/v) sucrose solution by mixing 18.2 ml of sucrose (2 M) and 43.8 ml of 10x sucrose salts. Filter solutions with 0.22 μm filter.For one gradient, carefully add 1.85 ml of the 50% sucrose solution, 3.65 ml of the 35%, 3.65 ml of the 20% (w/v) and again 1.35 ml of 20% (w/v) to Beckman tubes (12 ml total volume). Prepare gradients at least one day before cell lysis to allow gradient to diffuse overnight at 4 °C.Cover the tube with parafilm and incubate at 4 °C overnight. Alternatively, sucrose gradients can be stored at -80 °C indefinitely.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150303/20150303004249_5994.jpgFigure 1. Sucrose gradients. Distribution of the sucrose layers (sucrose concentrations shown as percent weight per volume on right).Isolation and polysome profiling30-day-old rice roots or shoots were harvested, frozen and ground to powder in liquid nitrogen.150 mg of powder was combined with 1.2 ml of chilled polysome buffer. Debris was removed by centrifugation at 16,000 x g for 15 min at 4 °C. Aliquots of the resulting supernatant were transferred (about 500 μl) to a new pre-chilled 1.5 ml tube. Measure OD260nm for each sample using NanoDrop.Load the same OD amount of lysate onto each gradient on to 20 to 50% (w/w) continuous sucrose gradients. Keep 10% of lysates as an input to determine the cytosolic steady-state mRNA levels.Weight and balance each gradient before ultracentrifugation.",
+    "Centrifuge at 175,000 x g for 165 min at 4 °C using SW41Ti rotor in a Beckman Coulter. While the samples are centrifuging, clean fraction collector with warm MilliQ water containing a bit of RNase decontamination solution.Carefully remove tubes from the rotor and place them at 4 °C until they are ready for running.Switch on computer, pump, UV-Vis Spectrophotometer and fraction collector. Set pump at 2.3 ml/min and the fraction collector by time. Place 10 ml tubes on fraction collector.Open Cary WinUV software.Fractions were collected from the bottom to the top of the gradient with continuous monitoring of the absorbance at 254 nm. Run chasing solution [20% (w/v) sucrose] with bromophenol blue through the system until it reaches the needle. Make sure to see at least one drop coming out of the needle such that no bubbles are introduced into the gradient.Begin running the chasing solution through the gradient. Run solution with the pump at 2.3 ml/min.Click on acquire data button and press run on the fraction collector.Place fractions on dry ice.Polysomal RNA extractionAdd 4 ml of Trizol reagent to each tube Isolate RNA according to manufacturer’s Trizol protocol.Measure the RNA concentration of each fraction or input."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

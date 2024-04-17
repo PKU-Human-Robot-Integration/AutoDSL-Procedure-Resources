@@ -1,0 +1,17 @@
+{
+  "id": 403,
+  "origin_website": "Nature",
+  "title": "Assays of nucleosome assembly and the inhibition of histone acetyltransferase activity. \\(9) Plasmid super-coiling assay; and \\(10) Nucleosome assembly on a fragment of 5S DNA",
+  "procedures": [
+    "**Plasmid Super-Coiling Assay**<sup>1,2</sup>\n1.   In our experiments, we mixed 2 pmol of core histones from HeLa cells \\(see &#x201C;Preparation of Core Histones by FPLC&#x201D;) with 4 pmol or 8 pmol of GST or GST-JDP2, respectively, in the assembly buffer \\(tube A).  The instructions that follow refer to a generalized assay. \n  2.   Incubate the reaction mixture at 30 &#xB0;C for 30 min.\n  3.   In parallel, mix 100 ng of plasmid DNA \\(see Note 1) and 5 units of topoisomerase I in topoisomerase I reaction buffer and incubate at 37 &#xB0;C for 30 min \\(tube B).\n  4.   Combine the topoisomerase I-relaxed circular DNA \\(in tube B) and core histones \\(in tube A) that were pre-incubated with, in our experiments, GST or GST-JDP2 in 50 &#x3BC;l of assembly buffer.\n  5.   Incubate the mixture at 37 &#xB0;C for 1 h.\n  6.   Add an equal volume of 2x stop buffer and continue incubation at 37 &#x2B0;C for 30 min.\n  7.   Extract the plasmid DNA with phenol, chloroform and isoamyl alcohol.\n  8.   Precipitate the DNA in cold ethanol.\n  9.   Fractionate the purified DNA by electrophoresis on a 1.2% agarose gel \\(see Note 2), and visualize by staining with ethidium bromide \\(Figure 1). \n    \n**Nucleosome Assembly on a Fragment of 5S DNA<sup>3</sup>**\n1.   Prepare 200 ng of a 197-bp-long fragment of 5S DNA by digestion of pB100-Uless/Strider DNA with EcoR I \\(see Note 3).\n  2.   Incubate the DNA in 10 &#x3BC;l of reaction buffer at 37 &#xB0;C for 1 h with or without 200 ng of core histones that have been pre-incubated with increasing concentrations of, for example, either human His-TAF-1&#xF062;&#xF020;or GST-JDP2.  \n  3.   Fractionate samples on a 5% non-denaturing polyacrylamide gel in TBS buffer and visualize reaction products by staining with ethidium bromide or SYBR Gold \\(see Note 4).",
+    "4.   Excise gel portions that correspond to mononucleosomes.  Allow them to equilibrate at room temperature for 15 min in the standard buffer for SDS-PAGE, prepared with 0.1 % SDS.\n  5.   Transfer proteins to an ImmobilonTM membrane \\(PVPF membrane; Millipore Corp., Bedford, MA, USA).\n  6.   Analyze proteins by Western blotting with antibodies against histone H3 \\(Figure 2)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Genetics",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

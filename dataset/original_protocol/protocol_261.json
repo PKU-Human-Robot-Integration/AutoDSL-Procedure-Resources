@@ -1,0 +1,15 @@
+{
+  "id": 276,
+  "origin_website": "Nature",
+  "title": "Direct differentiation of hepatic stem-like WB cells into insulin-producing cells using small molecules",
+  "procedures": [
+    "Cell culture.\n1. WB cells grow in DMEM supplemented with 10% FBS and 11.1 mM D-glucose, 100 U/ml penicillin, and 100 μg/ml STZ.\n  2. INS-1 cells grow in 1640 medium.\n  Induction of WB cells into IPCs.\nIn the first step :chromatin remodeling\n1. 6-well plates plate WB cells in a basal medium at a density of 2 x 105 per well containing knockout-serum DMEM and the main components: 1mM β-mercaptoethanol, 1% non-essential amino acids, 1% B27 supplement, 2 mM L-glutamine, 2% N2 supplement, 20 ng/ml fibroblast growth factor, 20 ng/ml epidermal growth factor, 100 U/ml penicillin, and 100 mg/ml STZ.\n  2. 5 μM 5-AZA treat with Cells for 48 hours.\n  3.100 nM TSA treat with cells for 24 hours.\nIn the second step :induction and differentiation\n4. Cells grow in DMEM with 1 g/L glucose, 1x ITS , 2 μM RA and the main components for 7 days and induce to Pdx-1 expressed cells \\(WB-A cells).\n  In the last step \\(maturation)\n5. 10 mM nicotinamide in the main components without fibroblast growth factor and epidermal growth factor treat WB-A cells for 7 days to induce to IPCs.\n  Glucose-stimulated insulin release assay in WB-A cells and IPCs in vitro.\n6. Serum-free DMEM with low glucose incubate cells.\n  7. Serum-free medium containing 0.5% bovine serum albumin and 5.5 mM glucose starve WB-A cells and IPCs overnight and 25 mM glucose stimulate with for 2 hours.\n  TEM in IPCs in vitro.\n8. A single intraperitoneal injection of STZ at 65 mg/kg body weight inject to WB-A cells \\(n=6) and WB \\(n=6) cells and 50 μl PBS \\(n=3)\n  9. When blood glucose reached levels >16.7 mmol/L, DM rats receive 1x 106 WB-A \\(n=6) cells/rat in 50 μl PBS, and negative controls receive 50 μl PBS \\(n=3).",
+    "10. Samples receive assay of fasting blood glucose levels every 3 days in samples obtained from the tail vein using a blood glucose test meter and strips.\n  11. Three of the six WB-A cell-implanted rats undergo nephrectomy at day 36. The others undergo nephrectomy at day 60 posttransplantation to assess metabolic activity of the transplanted WB-A cells.\n  IPGTT and glucose-stimulated insulin release assay in vivo.\n12. After 6 h of fasting, samples receive assay of fasting glucose and insulin levels from venous blood from small tail clips.\n  13. Three groups inject 2 g/kg body glucose intraperitoneally. Blood glucose values were obtained at 15, 30, 60, 90, 120 min. Insulin values were obtained at 30, 60, 90, 120, 150, 180min. \n  Histology and immunofluorescence.\n14. 4% paraformaldehyde for 48 hours at 4ºC fix explanted tissues and rat pancreas tissues in samples overnight in a 30% sucrose solution, and embedded with embedding medium. Sections were stained with HE.\n  15. Cells and sections receive performation of immunofluorescence of insulin."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

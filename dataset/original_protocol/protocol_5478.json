@@ -1,0 +1,14 @@
+{
+  "id": 5811,
+  "origin_website": "Bio",
+  "title": "Purification of His-ubiquitin Proteins from Mammalian Cells",
+  "procedures": [
+    "Seed 1 x 106 cells on 10 cm tissue culture plates.   After 8-12 h (around 40% of confluency) cells were transfect with 0.8 μg of plasmid for the His tag protein.   4 h before stop the culture add proteasome inhibitor MG-132 to a final concentration of 25 μM.    48 h after transfection aspirate the medium and wash the cells twice with pre-chilled PBS (cell can be keeping freezing on the plates at -80 °C until the day of the purification).   Scrape cell with 1 ml of lysis buffer and transfer it in 1.5 ml eppendorf tube.    Sonicate cells on ice twice for 10 sec with 1 min break (the sonicator probe should go under the lysate surface to avoid foaming but taking care do not touch the walls of the eppendorf tube).   Spin cells 10 min at 11,000 rpm at 4 °C.    Transfer the supernant in to 15 ml falcon tube and add 4 ml more of lysis buffer.   Add 75 μl of Ni2+-NTA-agarose beads pre-equilibrate with lysis buffer (take 150 μl of Ni2+-NTA-agarose bead and spin 2 min at 4,000 rpm, discard the supernant and wash with 150 μl of lysis buffer four times, last time add 75 μl of lysis buffer and use).    Incubate for 4 h at RT with gently agitation.   Wash the beads at RT incubating 5 min with the following buffers:   Once in lysis buffer.    Once in wash buffer.   Twice in wash buffer plus 0.1% Triton X-100 (spin 2 min at 4,000 rpm each time to recover the beads).     Elute products by incubating beads in 75 μl of elution buffer for 20 min at RT with gentle agitation.    Spin the beads and transfer supernant in to an eppendorf.   Add 4x laemmeli buffer and boil for western blot analysis."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

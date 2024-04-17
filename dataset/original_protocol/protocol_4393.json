@@ -1,0 +1,16 @@
+{
+  "id": 4617,
+  "origin_website": "Bio",
+  "title": "Transmission Electron Microscopy for Tobacco Chloroplast Ultrastructure",
+  "procedures": [
+    "Cut and trim tobacco leaf with a razor blade to 2 mm x 4 mm size, cover the leaf with lens tissue and tie it with needle and spread which can protect the sample and facilitate the fixation and the following steps (because the sample is easily floating and covered with lens tissue will facilitate sinking during fixation), then put it into 2% glutaraldehyde in a glass tube.   Vacuum the glutaraldehyde tube by vacuum equipment until no air bubble is coming out, and exhaust slowly to let the fix solution go into leaf tissue.    Fix in 2% glutaraldehyde for 2 h at room temperature.   Wash with 0.1 M PBS for 4~5 times and each time for 20~30 min.   Fix in 1% osmium tetroxide for 2 h.   Wash with distilled water for 30 min during which change the distilled water 5~8 times.   Add 50% ethanol and incubate for 10 min.   Discard 50% ethanol, add 70% ethanol and seal with Parafilm, keep overnight.   Discard 70% ethanol, add 90% ethanol for 10 min.   Discard 90% ethanol, wash with 100% ethanol for 3 times and each time for 10 min.   Add propylene oxide for 2 times and each time for 5 min.   Put the leaf sample into propylene oxide: Quetol 812 resin = 1:1 (v/v) and covered with aluminum foil overnight.   Change to Quetol 812 resin and keep for 24 h.   Embed the leaf sample horizontally with Quetol 812 resin on the Plastic flat embedding mold, and put into 60 °C for 48 h.   Cut to thin sections (70~100 nm) with a diamond knife on an ultramicrotome, and the thin sections are gathered on a copper grid which is specially used for transmission electron microscope observation (Figure 1).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150215/20150215171615_3980.jpg Figure 1. A picture of copper grid with sample sections.",
+    "The red circle indicated the sample sections.     Stain with 2% (w/v) uranyl acetate for 40 min by putting copper grid with the sample (the sample side is downward) in staining solution and keep for 40 min, the following steps 16-18 are same.   Wash with distilled water in a beaker for 3 times and each time for 10 min gently.   Stain with 3% (w/v) lead citrate for 2~3 min.   Wash with distilled water in a beaker for 3 times and each time for 10 min gently.   Put on filter paper to make it dry and keep into the case.   Observe the samples on a transmission electron microscope at 80 kv, and take photos. The sample image of chloroplast can be found in Figure 6 in the Wang et al. (2014) ."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8077,
+  "origin_website": "Bio",
+  "title": "Quantification of Cell Corpses, Cell Death Occurrence, Cell Corpse Duration",
+  "procedures": [
+    "Quantification of cell corpsesC. elegans is grown on NGM agar plates carrying a lawn of bacterial and kept at 20 °C. Embryos are randomly picked from NGM agar plates containing mix-staged worms and mounted on slides with agar pads in M9 and covered with coverslips. Cell corpses are observed using a Zeiss Axioimager M1 microscope equipped with DIC at 20 °C. Cell corpses are identified by the “raised button” morphology and quantified in the head region of living embryos either at the six different embryonic stages (comma, 1.5-fold, 2-fold, 2.5-fold, 3-fold, 4-fold) for a time course analysis (Figure 2) or at the 4-fold embryonic stage. 15 embryos are counted at each embryonic stage for each strain.imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130422/20130422062013_2243.pngFigure 1.Seven Apoptotic cells (arrows) which appear as “raised button” objects in a C. elegans embryo are shown. Some apoptotic cells are not visible at this focus plane. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20130422/20130422054115_2794.pngFigure 2.Time-course analysis of cell corpses during embryonic development was performed in wild-type (N2, open bar), nrf-5(qx16) (black bar), or nrf-5(sa513) (gray bar). At least 15 embryos were scored at each stage. Data are shown as mean+SEM. Data derived from N2 and nrf-5(qx16) or N2 and nrf-5(sa513) were compared by unpaired t test. **P < 0.0001; all other points had P > 0.05.Monitor the occurrence of embryonic cell death and cell corpse durationC. elegans embryos at the two-cell stage are mounted on slides with agar pads in M9 and coverslips are sealed with Vaseline. Images in a 20 micron z series (0.5 micron per section) were captured every 1 min for 8 h using a Zeiss Axioimager M1 microscope equipped with an AxioCam monochrome digital camera (Carl Zeiss). Images are processed and viewed using AxiovisionRel 4.7 software (Carl Zeiss).",
+    "Embryonic cell deaths are followed during 200-370 min after the first embryonic cleavage by the appearance of the “raised button” morphology of cell corpses. The duration of cell corpses is determined by following the appearance and disappearance (no button-like morphology can be seen) of apoptotic cells. At least three embryos from each strain are followed and quantified. The standard error of the mean (SEM) is used as y error bars for bar charts plotted from the mean value of the data. Data derived from different genetic backgrounds were compared by Student’s two way unpaired t-test. Data were considered statistically different at P < 0.05."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

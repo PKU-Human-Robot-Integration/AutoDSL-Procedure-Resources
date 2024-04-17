@@ -1,0 +1,16 @@
+{
+  "id": 5096,
+  "origin_website": "Bio",
+  "title": "Clonogenic Assay",
+  "procedures": [
+    "Cell preparation:   Culture the cells according to the requirement (e.g., GBM cell lines, U87, U251, SF188, etc).   Remove medium, and then rinse cells with 10 ml PBS.   Add 4 ml 0.25% trypsin to the cells and incubate at 37 °C for 1-5 min until the cells appear round.   Add 10 ml medium with 10% FBS, and detach the cells by pipetting.   Count the cells using a hemocytometer. Note: It is critical to get a relatively accurate number for the cells.   Prepare desired seeding concentration, and then seed cell into dishes or 6-well plates.      Assay setup: Cell can be plated either before or after the treatment.   Plating before treatment:   Harvest cells and plate an appropriate number of cells per dish or per well on a 6-well plate, at least in duplicate. The number of cells for seeding should be determined by the aggressiveness of the treatment. Incubate cells for a few hours in a CO2 incubator at 37 °C and allow them to attach to the plate/dish.   Treat the cells as necessary with chemicals (e.g., 1-100 μM), radiation (e.g., 2-10 Gy) or a combination of both.   Incubate the cells in a CO2 incubator at 37 °C for 1-3 weeks until cells in control plates have formed colonies that are of a substantially good size (50 cells per colony is the minimum for scoring).     Plating after treatment:   Harvest cells after treatment. Fifty or up to 50 x 104 cells can be plated. Prepare serial dilutions with different numbers of cells, should the effects of the treatments be unclear. For radiation treatment, the cells can be plated immediately after treatment or re-plated later. It is always better to keep the cells on ice before re-plating.",
+    "Incubate the cells in a CO2 incubator at 37 °C for 1-3 weeks until cells in control plates have formed colonies with substantially good size (50 cells per colony is the minimum for scoring).        Fixation and staining:   Remove medium, and then rinse cells with 10 ml PBS.   Remove PBS and add 2-3 ml of fixation solution and leave the dishes/plates at room temperature (RT) for 5 min.   Remove fixation solution.   Add 0.5% crystal violet solution and incubate at RT for 2 h.   Add 10 ml medium with 10% FBS, and detach the cells by pipetting.   Remove crystal violet carefully and immerse the dishes/plates in tap water to rinse off crystal violet.   Air-dry the dishes/plates on a table cloth at RT for up to a few days.      Data analysis:   Count number of colonies with a stereomicroscope.     Calculate plating efficiency (PE) and surviving fraction (SF). PE = no. of colonies formed/ no. of cells seeded x 100% SF = no. of colonies formed after treatment/ no. of cells seeded x PE"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

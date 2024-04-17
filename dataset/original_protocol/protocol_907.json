@@ -1,0 +1,15 @@
+{
+  "id": 966,
+  "origin_website": "Nature",
+  "title": "Designing Hybrid Nanotubes Wires for Highly Efficient Bioelectrochemical Devices",
+  "procedures": [
+    "**Fiber Synthesis.** \n1) Purify CNTs by acid treatment before making fibers. Typically, heat 250 mg of CNTs at 200 ºC in oven for 8 h, then placed in a flask. Pour 1 L concentrated HCl \\(37%, v/v) into the flask and incubate for 4 h under agitation. \\(The color of the solution became yellow because of the dissolution of Fe<sup>3+</sup> ions)\n2) After suction filtration, wash the tubes several times with deionized water and lyophilize.\n3) Make the CNT fibers by a particle coagulation spinning \\(PCS) process.\\(5,6) Disperse CNT in a aqueous solutions of SDS \\(1.0 wt %) and sonicate.\n \n4) Inject a relatively concentrated aqueous CNT suspension \\(0.3 wt %) through a cylindrical syringe in the co-flowing stream of a coagulating bath containing polyvinyl alcohol \\(PVA) solution \\(5 %, wt %). As a result, the CNTs aggregate and form gel like fibers.  \n5) Wash the gel fibers several times with pure water in order to remove most of the surfactant and some fraction of PVA. \n6) Pull out the fibers out of water and dry.\n7) Heat the fibers at a temperature of 600 ºC for 2 h under argon atmosphere to completely remove the PVA.  \n**Electrodes preparation.**  Make the CNF electrode as follows: \n1) Place a single fiber in a 1-mm polycarbonate groove.\n2) Fix one end of the fiber with epoxy, and connect electrically the other end to a copper wire with conductive carbon paint.\n3) Let the the carbon paint dry and then insulate with a layer of epoxy. \n4) Prior to coating the bioelectrocatalysts, make the CNF hydrophilic by plasmas oxidation \\(1 Torr O<sub>2</sub> plasma, 20 min)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Nanoscience And Technology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5724,
+  "origin_website": "Bio",
+  "title": "RNA Extraction from RNase-Rich Senescing Leaf Samples",
+  "procedures": [
+    "0.2-0.5 g sample tissue ground in liquid N2 (better grinding ensures a higher RNA yield).Add to 15-ml Corning centrifuge tube containing 5 ml EB (2.5 ml EB if sample is less than 0.2 g), vortex 2 min at room temperature.Add 0.5 ml 2 M NaAcetate (pH 4.0) to the tube, vortex 1 min at room temperature.Add 5 ml H2O-saturated phenol, vortex 1 min at room temperature.Add 1 ml chloroform, vortex 1 min at room temperature.Spin 10 min at 10,000 x g, 4 °C (8,000 rpm, JS13.1 rotor), transfer aqueous phase to a new 15-ml Corning centrifuge tube.Add equal vol. isopropanol to the new tube, screw cap and mix by inverting several times, keep the tube at -20 °C for >1 h.Spin 10 min at 3,000 x g, 4 °C (4,500 rpm JS13.1), discard supernatant.Add 2 ml CES or TES to redissolve pellet.Add 2 ml chloroform, vortex 1 min at room temperature.Spin 10 min at 3,000 x g, 4 °C, transfer aqueous to new tube.Add 1/10 vol. 2 M NaAcetate (pH 5.0), equal vol. isopropanol, pellet by spinning 10 min at 3,000 x g, 4 °C.Wash the pellet with 75% and 100% ethanol, respectively, air dry the pellet, and dissolve the pellet with 50-200 μl DEPC-treated CES or TES (for RT PCR or other analyses involving enzymes, DEPC-treated CE or TE without SDS should be used). The total RNA yield from senescent leaves is low, so a reduced final volume is suggested."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

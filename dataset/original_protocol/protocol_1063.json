@@ -1,0 +1,21 @@
+{
+  "id": 1135,
+  "origin_website": "Nature",
+  "title": "Bead aggregation assay to demonstrate the clustering of postsynaptic proteins by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+  "procedures": [
+    "**Neuron transfection**\n1. Transfect cultured neurons with a form of NGL-2 in which EGFP was tagged to the N terminus \\(EGFP-NGL-2) at DIV 14, and incubate for 2 days.\n  \n**Preparation of EGFP antibody-coated beads**\n2. Mix 5 &#x3BC;g of biotin-conjugated EGFP antibodies \\(Rockland) and 2 &#x3BC;L of neutravidin-conjugated FluoSphere beads \\(Molecular Probes; 1 &#x3BC;m diameter), and incubate for 1 h.\n  \n3. Increase the volume of the mixture to 1 mL by adding Hank&#x2019;s balanced salt solution \\(HBSS), and centrifuge at 13,000 rpm for 1 min in a microcentrifuge.\n  \n4. Carefully remove the supernatant, and resuspend the precipitates in 100 &#x3BC;L of conditioned media where neurons were growing.\n  \n**Bead-induced aggregation of NGL-2**\n5. Place the coverslips containing transfected neurons \\(DIV16) face-up on 6-well \\(or larger) dishes. Save the conditioned media for Step 7.\n  \n6. Add 100 &#x3BC;L of the resuspended beads onto the neurons and incubate at 37 <sup>o</sup>C for 30 min. \n  \n7. Wash the neurons twice with HBSS, and place the coverslip back into the culture media.\n  \n8. After 24 h of incubation, fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies.\n  \n**Image acquisition and quantitation**\n9. Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging.\n  \n10. For quantitation, manually trace the boundaries of the beads. Copy a boundary to a nearby dendritic area for normalization. \n  \n11. An average immunofluorescence intensity of a synaptic marker from a bead area was measured and normalized to that from a nearby control area."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Cell Biology",
+    "Biological Techniques",
+    "Computational Biology And Bioinformatics",
+    "Developmental Biology",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

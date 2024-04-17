@@ -1,0 +1,15 @@
+{
+  "id": 17079,
+  "origin_website": "Jove",
+  "title": "Fast Inspection of Quality of Indigo Naturalis by Multiple Light Scattering",
+  "procedures": [
+    "1. Preparation of test sample\nSet up four different batches of Indigo Naturalis herbal powder for the test. Pass each sample through the seventh sieve and ninth sieve in turn and collect the sample between the seventh and ninth sieve5.\n\tNOTE: The average aperture size of the seventh sieve is 125 µm ± 5.8 µm. The average aperture size of the ninth sieve is 75 µm ± 4.1 µm.\nAccurately weigh 0.2 g of the sample (Indigo Naturalis powder) on a weighing paper and set it aside.\n2. Sample addition\nBuild an iron support stand and put an iron ring with a 5 cm diameter funnel on it.\nUse a pipette to add 20 mL of pure water to the sample glass bottle (bottom diameter 2.6 cm, height 6 cm). Place the sample glass bottle directly under the funnel so that the lower edge of the funnel is flush with the mouth of the bottle.\n\tNOTE: Clean the exterior of the sample glass vial with a clean, non-abrasive paper towel and inspect the glass surface for visible marks. If there are, change the glass bottle. Be careful not to spill when adding liquid.\nRelease the sample at a height of 80 cm from the lower edge of the funnel so that it can slide freely along the funnel into the sample bottle.\n3. Instrument operation\nTurn on the Turbiscan Lab instrument and warm it up for 30 min.\nCreate the file. Click the Create file button in the top menu (or the New file function in the File menu) to create a new empty measurement file. Define its name and save location (by default, the data folder is located at: \"C:/users/admin/Formulaction/FAnalyser/Data\".",
+    "Click the Show Turbiscan Lab Temperature button in the top menu to set the instrument target temperature to 25 °C.\n\tNOTE: The instrument temperature is influenced by the room temperature, so be careful to adjust the ambient temperature.\nClick Program Scan in the top menu to enter the setup analysis program. Add the program to the list, and in the taskbar, add 30 s as a cycle and 21 scans to the analysis sequence. Select this analysis program for all subsequent measurements.\nMove the prepared sample vial into the measurement system. After setting up the program, click Start to start the measurement.\n\tNOTE: Be careful not to shake the glass bottle when moving and only move it slightly.\nAfter data acquisition, click on the list of calculated parameters to automatically calculate TSI.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

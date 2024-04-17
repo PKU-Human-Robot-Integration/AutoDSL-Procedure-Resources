@@ -1,0 +1,18 @@
+{
+  "id": 1009,
+  "origin_website": "Nature",
+  "title": "Isolation of deletion alleles of C. elegans by G4-DNA induced mutagenesis",
+  "procedures": [
+    "1. Clone out 96 single dog-1 animals onto 96  6 cm petridishes, and grow these plates till starvation.\n  2. **Optional**: Rinse off half the plate and freeze the animals. Keep these as a backup for this or for future isolations of \\(other) G4 deletion alleles.\n  3. Rinse off half of the worms in M9 buffer and transfer these to 96 well PCR plates in duplicate. Remove supernatant.\n  4. Add 50 μL lysis buffer \\(50 mM KCl; 2.5% mM MgCl2,; 10 mM Tris-HCl \\(pH=8); 0.45% Nonidet P40; 0.45% Tween-20; 0.01% gelatin and 200 μg ml-1 proteinase K) to the worm pellet.\n  5. Lyse worm pellets at 60oC for 60 minutes, and inactivate proteinase K for 30 minutes at 95oC. Some non-dissolved pellet may remain.\n  6. Perform nested PCRs on 1 μL lysis mix in a total volume of 10 μL. As a control, also perform the PCR on lysed wild type \\(N2) worms and on a blank \\(no DNA) sample. PCR conditions are as follows:\n  o PCR reaction: 1x PCR buffer \\(50 mM KCl, 10 mM Tris-HCl pH8.3 and 1.5 mM MgCl2); 0.5 mM dNTPs, 0.5 μM of each primer and 0.025 U ml-1 Taq polymerase\no PCR Program: 1 minute 95oC; 35 cycles of 20 seconds 95oC, 40 seconds 58oC, 1 minute 72oC; 3 minutes 72oC.\no Nested PCR: Transfer 0.2 μL mix from the first PCR \\(primers 1 and 4) into the second PCR \\(primers 2 and 3) as a template \\(e.g. by using a 384-well hedge). \n7. Load 5 μL of the second PCR on a 1% agarose gel, where duplicates run next to each other. Search for duplicates that have a band of identical size. This is called a “positive population” and contains a candidate germline mutation.",
+    "8. Chunk the plate corresponding to the positive population into 12 pieces onto fresh 6 cm plates. Grow till starvation and repeat the procedure from step 3-7. As a positive control, include the lysis DNA from the previous, positive round.\n  9. If one or more of these plates result in a deletion product of identical size to the original positive sample, then transfer ~10 worms of this plate to 48 new 6 cm plates. Grow till starvation and repeat step 3-7. If several samples are positive for the germline deletion, proceed to step 10. If no samples are positive, return to the original \\(frozen) plate and start the procedure again. Increasing the number of populations should also increase deletion allele isolation efficiency.\n  10. Return to the plate out of 48 that contains the positive population, and clone out 48 single worms from this plate on fresh plates. Grow till starvation and repeat step 4-8. Alternatively, grow a few days, then pick the mother into 10 μL lysis buffer and perform PCRs on this sample.\n  11. A positive population from step 10, initiated from a single animal, may still be heterozygous for the deletion allele. To verify this, perform the nested PCR on ~15 individual animals from the positive population. Only if all individuals are positive for the deletion, the population is likely homozygous \\(this can be confirmed by designing primers that are within the deleted segment and verify that this DNA is lost from these animals). If not, clone out >6 animals from the positive population and perform the nested PCR on 12 F1 progeny animals for each of these.\n  12. The remaining 5 μL from the PCR reaction can be used to sequence the deletion.",
+    "13. Cross the new strain several times back to N2 to remove dog-1\\(gk10)  and possible secondary mutations."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Genetics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

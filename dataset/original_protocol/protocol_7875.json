@@ -1,0 +1,17 @@
+{
+  "id": 8285,
+  "origin_website": "Bio",
+  "title": "<em>Shigella</em> IpaD and IpaB Surface Localizations",
+  "procedures": [
+    "Preparation of bacterial samples   Launch overnight precultures in TSB (37 °C with shaking) from Congo Red (CR) positives colonies of Shigella on CR agar plates.   Dilute 1: 100 precultures in fresh TSB (for volume see step A3) and incubate at 37 °C with shaking until an OD600 ≈ 1.5 is reached. (Medium must be filtered or autoclaved with stirring to avoid glucose caramelization which interferes with type III secretion.)   Harvest 2 x 108 bacteria per tested conditions at 2,000 x g for 4 min at room temperature (RT) (OD600 of 1 correspond to approximately 5 x 108 bacteria).   Wash twice with 500 μl of ice-cold PBS with 0.1% Triton X-100 (centrifugation conditions as in step A3). Be careful when you take out the liquid supernatant as the pellet can detach gradually all along the procedure.   Resuspend in 500 μl of ice-cold PBS with 0.1% Triton X-100 and add 500 μl of PBS + PFA (4%) to fix bacteria.    Mix by inversion and incubate 20 min at RT.   Add 50 μl Tris HCl 1 M (pH 7.5), mix by inversion and incubate 5 min at RT to quench the cross-linker.   Harvest bacteria at 10,000 x g for 2 min at RT (All further centrifugation steps are performed with these parameters.).   Wash once with 1 ml PBS + 0.1% Triton X-100 and once with 1 ml PBS.      Immunological staining   Harvest bacteria and resuspend in 500 μl of the blocking solution (PBS + 4% BSA).   Incubate bacteria on rotator mixer 1 h at 4 °C.   Harvest bacteria and resuspend in 250 μl PBS + 4% BSA with mouse sera diluted 1: 100. Sera were from Swiss mice immunized with GST-IpaD131-332 (Schiavolin et al., 2013) or His-IpgC + IpaB (Page et al., 1999).",
+    "Negative controls for IpaD and IpaB localizations are respectively an IpaD protein lacking its last residues which do not bind the needle tip (Espina et al., 2006) and an ipaD KO mutant where IpaB is not retained at the tip (Veenendaal et al., 2007). In both cases secreted IpaD or IpaB do not interfere with the assay.   Incubate overnight at 4 °C with agitation.   Add 750 μl PBS to bacteria and then wash twice with 1 ml PBS. All further steps are made in the dark to preserve fluorescent properties of the secondary antibody. Microtubes or rack are covered with aluminum foil.   Resuspend in 250 μl of PBS + 4% BSA with goat CF647-conjugated anti-mouse IgG antibody diluted 1: 500.   Agitate 1 h or longer at 4 °C (incubation time may last overnight).    Add 750 μl PBS to bacteria and then wash twice with 1 ml PBS.   Resuspend bacterial pellet in 500 μl of PBS and dilute 1: 10 in FACS polystyrene tube.   Analyze by flow cytometry with a four-colour FACS Calibur cytometer for instance (you will find examples of results in the supporting information of the third reference (Schiavolin et al., 2013) available for free on Mol. Microbiol. website).    Parameters used (no compensation): table:",
+    "﻿0,1,2\ndetectors,voltage,mode\nFSC,E02,Log\nSSC,366,Log\nFL4,800,Log"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

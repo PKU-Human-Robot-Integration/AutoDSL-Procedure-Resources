@@ -1,0 +1,15 @@
+{
+  "id": 8027,
+  "origin_website": "Bio",
+  "title": "Studying Cell Migration (Random and Wound Healing) Parameters with Imaging and MATLAB Analysis",
+  "procedures": [
+    "Plate coating and cell seeding Add 100 μL of collagen I (30 μg/mL, diluted in PBS) to the 96-well black/clear-bottom plate and put the plate in a 37 °C, 95% humidity incubator for 30–40 min.Rinse the plate with 100 μL of PBS and aspirate the liquid in the plate thoroughly before use.After that, plate SAS cells onto the plate. (The cell number should be controlled to 90%–100% confluency on the day performing cell migration.)(Optional) Cells were infected with lentiviruses for 24 h and selected with antibiotics for 24–48 h.Nucleus staining Stain the cells with 1 μg/mL of Hoechst 33342 at 37 °C for 1 h for SAS cells.Scratching (for wound-healing assay only) Change the medium to 100 μL of pre-warmed PBS.Scratch the cells with a scratcher (move the scratcher back and forth twice). This method is for a full 96-well plate and can be replaced by using toothpicks or 200 μL tips if only part of the 96 well plate is used.After wound-scratching, wash the cells with 100 μL of PBS twice to remove cell fragments.Drug treatment Change the medium to serum-free DMEM medium (for SAS cells) containing cell migration supplements and drugs (we used trametinib 100 nM or DMSO).Imaging Place the cells in an acrylic incubator at 32 °C for SAS cells. The acrylic incubator is a chamber with CO2 circulation [the temperature is lower than normal incubation (37 °C) to optimize the migration speed for analysis].Use Nikon Eclipse Ti microscope for live-cell imaging. Take images every 10 min for a duration of 6–10 h. Our script is designed for pictures taken by 4× objective."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4613,
+  "origin_website": "Bio",
+  "title": "Separation of Microspores from Anthers of <em>Lilium longiflorum</em> (Lily) and Subsequent RNA Extraction",
+  "procedures": [
+    "Microspore collectionApproximately 25 anthers of young lily buds (3.5 cm) are transversely sliced close to the edge of an anther with a scalpel.The locular fluid (microspore) is collected in a 1.5 ml Eppendorf        tube containing 200 μl of 10 mM sodium acetate buffer (pH 5.2) from the        cutting site using a tweezer that gently squeezes out the fluid by        moving along the surface of the anther to the cutting side.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Separation of Microspore Centrifuge at 7,000 rpm (4,600 x g) for 5 min.Decant the supernatant and the pellet (microspore) in the tube is saved for RNA extraction.RNA isolationImmerse the Eppendorf tube that contains the microspore pellet in liquid nitrogen.Transfer the frozen microspores (0.2 g) into mortar and pestle in liquid nitrogen and grind the sample into powder.Work in the fume hood. The tissue powder is added by 1 ml of a mix        of hot (~80 °C) extraction buffer/phenol (1:1) and continually ground in        a mortar in liquid nitrogen.After melting, the solution of sample mixture is transferred to a 1.5 ml Eppendorf tube.Add 0.2 ml of chloroform/isoamylalcohol (24:1, v/v) into an        Eppendorf tube, close the lid, and hand-shake the tube vigorously for 30        sec. Centrifuge the sample at 12,000 rpm (13,500 x g) for 5 min at 4 °C.Transfer the solution of the upper phase to a new Eppendorf tube and add an equal volume of 4 M LiCl.Precipitate RNA at -80 °C for 2 h or -20 °C overnight (approximately 16 h) (Note 1).Centrifuge at 12,000 rpm for 10 min at 4 °C.Decant the supernatant.The RNA pellet is dissolved in 0.4 ml of RNase-free water by pipetting up and down for several times.Add 1/10 volume (40 μl) of 3 M sodium acetate (pH 5.2) and 1 volume (0.4 ml) of isopropanol.",
+    "Precipitate RNA at -80 °C for 2 h or -20 °C overnight (approximately 16 h) (Note 1).Centrifuge at 12,000 rpm for 5 min at 4 °C.Decant the supernatant.Wash pellet with 0.6~1 ml of 75% ethanol by pipetting up and down for several times.Centrifuge at 12,000 rpm for 5 min at 4 °C.Decant the supernatant.Shortly dry the RNA pellet by speed vacuum.Dissolve RNA with an appropriate amount of RNase-free water (usually 20 μl or less) and incubate at 55-60 °C for 10 min.The RNA sample is stored at -80 °C."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

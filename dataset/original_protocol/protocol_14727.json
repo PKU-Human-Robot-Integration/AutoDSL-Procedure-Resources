@@ -1,0 +1,15 @@
+{
+  "id": 18553,
+  "origin_website": "Jove",
+  "title": "A Versatile, Behavioral Method to Investigate Thyroid Hormone Effects on Cerebellar Function",
+  "procedures": [
+    "The animal experimentation protocol in the present study was approved by the Animal Care and Experimentation Committee of Gunma University. All procedures for the care and treatment of animals were performed according to the Japanese Act on the Welfare and Management of Animals and the Guidelines for the Proper Conduct of Animal Experiments issued by the Science Council of Japan. The assembly drawing of the apparatus can be found in Figure 1.\n1. Ladder setup\nHorizontal ladder test (Figure 2C left)\n\t\nInsert aluminum sticks (2 mm diameter) into holes on the plexiglass walls.\n\t\tNOTE: The interval distance varies according to body size depending on the strain or sex of the tested mouse (see Table 1).\nAdjust the width of the ladder rungs by widening or narrowing the distance of the plexiglass walls.\n\t\tNOTE: The width may vary according to the body size depending on the strain or sex of the tested mouse (see Table 1).\nZigzag ladder test (Figure 2C right)\n\t\nInsert aluminum sticks (2 mm diameter) into every third hole in the horizontal and vertical directions on the plexiglass walls.\n\t\tNOTE: The interval distance varies by body size depending on the strain or sex of the tested mouse (see Table 1).\nAdjust the width of the ladder rungs by widening or narrowing the distance of the plexiglass walls.\n\t\t​NOTE: The width may vary depending on the body size, strain, or sex of the tested mouse (see Table 1).\nPlace the dark chamber in the target site.\nPlace the cushion (can be made of a plastic bag stuffed with buffer materials) 30 cm below the ladder setup for safety.\n2. Habituation (Day 0)\nNOTE: It is recommended to take at least 1 day for habituating the mice to the ladder setup.",
+    "Place the mouse at the edge of the ladder (starting point).\nUsing an air puff, encourage the mouse to move forward on the ladder rung.\nRepeat until the mouse gets habituated to walk on the ladder rungs.\n3. Measurement of motor performance\nPlace the mouse at the edge of the ladder (starting point).\nRecord the time to complete crossing the ladder and the number of foot slips when the mice fail to place their paws or slip after placement on the aluminum sticks (see Figure 2D). If possible, record the video to check the missteps afterward.\nAfter a 15 min interval, repeat the measurement (4-5 trials per day).\nRepeat the experiment for 3-4 days for assessing motor learning.\n4. Analysis\nCalculate the average value of time and foot slips per day.\nCompare the average value between the groups.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Behavior"
+  ],
+  "bigAreas": [
+    "Ecology & Environmental Biology"
+  ]
+}

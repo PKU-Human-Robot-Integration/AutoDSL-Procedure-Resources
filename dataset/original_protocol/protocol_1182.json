@@ -1,0 +1,18 @@
+{
+  "id": 1262,
+  "origin_website": "Nature",
+  "title": "<p>Preparation of live cell samples for fluorescence spectroscopy and computational super-resolution imaging</p>",
+  "procedures": [
+    "<p>1. Wipe the biosafety cabinet thoroughly with 70% ethanol. Also spray and wipe down all items taken inside the cabinet with 70% ethanol.</p><p>2. Warm all media and solutions to 37°C in a water bath before use.</p><p>3. Culture CHO-K1 (Chinese Hamster Ovary) cells (<a href=\"https://www.atcc.org/products/all/CCL-61.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">CCL-61</a>) in DMEM (high glucose with L-glutamine, without sodium pyruvate) supplemented with 1% penicillin-streptomycin and 10% FBS at 37 °C in a 5% (v/v) CO<sub>2</sub> environment. Once the culture is ~90% confluent it can be used for transfection.</p><p>4. Remove the spent media from the culture flask and discard.</p><p>5. Wash the flask twice with 5 ml PBS (without Ca<sup>2+</sup> and Mg<sup>2+</sup>).</p><p>6. Add 2 ml Trypsin-EDTA (1X) and incubate the flask at 37°C for 5-15 minutes to detach the cells.</p><p>7. Add 5 ml culture media (containing serum) to the flask to inhibit trypsin.</p><p>8. Collect the media containing the detached cells in a falcon tube and centrifuge at 200 ×&nbsp;g for 3 minutes.</p><p>9. Discard the supernatant and resuspend the cell pellet in 5 ml PBS.</p><p>10. Count the cells using a cell counter.</p><p>11. Aliquot the required number of cells (typically 0.5-1 million) into falcon tubes and centrifuge at 200 ×&nbsp;g for 3 minutes.</p><p>12. Discard the supernatant and resuspend the cell pellet in R buffer (Neon Transfection Kit).</p><p>13. Mix suitable amounts of plasmids with the cells for transfection.</p><p>14. Electroporate the cells using Neon Transfection system according to the manufacturer’s protocol (electroporation settings: pulse voltage = 1,000 V, pulse width = 30 ms, and pulse no. = 2).</p><p>15. After transfection, seed the cells onto glass bottom culture dishes containing DMEM (supplemented with 10% FBS; no antibiotics).</p><p>16. Incubate the cells at 37°C and 5% CO<sub>2</sub> for 36-48 hours before experiments.</p><p>17. Observe the cells under a fluorescence microscope to check for fluorescence and determine whether the transfection was successful.</p><p>18.",
+    "Remove the spent media and wash 2-3 times with 1X HBSS. Then add DMEM not containing phenol red (Imaging DMEM) to reduce background fluorescence.</p><p><em>Note</em>: If cell starvation is required, do not supplement the Imaging DMEM with FBS. Also, if a 5% CO<sub>2</sub> environment cannot be maintained on the microscope setup, supplement the Imaging DMEM with HEPES.</p><p>19. The transfected cells can now be used for experiments.</p><p>20. If any ligand stimulation or drug treatment needs to be done, prepare suitable concentration of the drug or ligand in Imaging DMEM and add the solution to the cell culture dish.</p>"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology",
+    "Biophysics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

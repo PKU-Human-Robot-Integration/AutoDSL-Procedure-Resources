@@ -1,0 +1,16 @@
+{
+  "id": 8069,
+  "origin_website": "Bio",
+  "title": "Isolation and Culture of Mouse Bone Marrow-derived Macrophages (BMM’phi’)",
+  "procedures": [
+    "Preparation of L-cell conditioned medium: culture L929 cells with initial 50% confluence in RPMI + 10% FBS for 5 days, collect the medium and filter with 0.22 μm filter, aliquot and store at -20 °C. Note: Incubate FBS at 50 °C for 30 min before using.Prepare bone marrow growth medium and BMM’phi’ growth medium (see Recipes).Isolation of mouse bone marrow cells.Sacrifice mouse and immerse mouse in 75% ethanol.Clip the skin mid-back and remove the skin from the lower part of the body.Remove tissue from legs with scissors and dissect away from body.Clean remaining tissue from the pelvic and femoral bones and separate at knee joint. Be careful not to break the bones. It is important to make sure that all the tissue is removed from the bones since cells associated with this can contaminate the marrow preparation and potentially overgrow the macrophages.Immerse the bones in 75% ethanol for 5 min, then immerse them in DPBS for 5 min and leave them in RPMI+P/S until the next step.Cut off each end of bone.Using a 27 g needle/1 ml syringe filled with bone marrow growth medium; expel the bone marrow from both ends of the bone with a jet of medium directed into a 15 ml cell culture dish. Change medium every 3 days. While in culture, some of the cells become attached, while many of them still grow in suspension, so spin-down and re-culture those cells in new dishes. After about 10 days, almost all cells become attached BMM’phi’s, and then BMM’phi’ growth medium is used for further culture and tests."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

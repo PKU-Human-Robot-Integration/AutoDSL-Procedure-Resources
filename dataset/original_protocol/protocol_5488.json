@@ -1,0 +1,15 @@
+{
+  "id": 5822,
+  "origin_website": "Bio",
+  "title": "Isolation of Rice Embryo Single Cell Type using Laser Capture Microdissection (LCM) ",
+  "procedures": [
+    "Crytosectioning, fixation and dehydration of rice embryos   Dissect rice embryo from the seeds under the microscope.    Fix samples immediately on ice in fixation solution containing 75% (v/v) ethanol and 25% (v/v) acetic acid. The samples were left in the vials at 4 °C over night.   Dehydrate the tissue in a series of ethanol concentrations (v/v) in order, 70%, 85%, 95%, 100%, each for 1 h at room temperature, followed by ethanol: histoclear (3:1, v/v), followed by ethanol: histoclear (1:1), ethanol: histoclear (1:3) and 100% histoclear treatment each for 1 h.    Incubate the dehydrated samples in histoclear over night at 60 degree and then infiltrate with paraffin at 60 degree over 2 days, replacing histoclear with paraffin every 12 h.    After embedding in paraffin, cut the embryo in 7 μm thick sections with a rotary microtome and place on RNase-free glass slides and store in darkness at 4 degree under dehydrating conditions with drierites.    Deparaffinize sections in histoclear at room temperature for two changes of 10 min and air-dried before LCM.      LCM   Perform laser-capture microdissection using the Pix-Cell LCM system. After deparaffinizing and drying the tissues, laser-capture microdissect the interesting cells according to the manufacturer’s instructions.    Based on the cell size diameters, the embryo organ cell types were isolated using 15 μm laser beam, laser power settings were 100 mW, and laser pulse durations were 2.5 ms. Embryo organ cell types were successfully identified and removed from heterogenous tissue by comparison of the difference among the images of the tissue before captured, the images of the tissue after removal of the harvested cells and the images of the cells captured on the cap. Generally, between 5 to 8 slides were processed each LCM caps and non-specific tissue were removed from the LCM cap using a Post-It note. See figure below.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140922/20140922194505_8128.jpg"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

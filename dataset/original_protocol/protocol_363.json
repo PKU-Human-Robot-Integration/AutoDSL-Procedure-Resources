@@ -1,0 +1,15 @@
+{
+  "id": 387,
+  "origin_website": "Nature",
+  "title": "Assays of nucleosome assembly and the inhibition of histone acetyltransferase activity.  \\(2) Isolation and labeling of DNA fragments",
+  "procedures": [
+    "1. Digest ~20 mg of pB100-Uless/strider plasmid DNA with EcoR 1 and treat the digest with calf intestinal alkaline phosphatase \\(Takara Biotech. Co.) at 37 &#x2103; for 60 min.  Purify the DNA by ethanol precipitation and remove excess salt by gently rinsing the pellet with ice-cold 70% ethanol.     \n  2. Radiolabel the 5'-end of the site of restriction cleavage using T4 polynucleotide kinase and \\[&#x3B3;-32P]ATP by standard methods.  Remove unincorporated radiolabeled ATP with a Sephadex G-50 microcolumn, with subsequent ethanol precipitation as above.\n  3.  Digest radiolabeled DNA with EcoR l, to liberate the 197-bp end-labeled DNA fragment.\n  4.   Isolate the end-labeled DNA fragment on a preparative 5% nondenaturing polyacrylamide gel in 1x TBE.\n  5.   After autoradiography of the wet gel, excise the radiolabeled band and crush the gel slice in an Eppendorf tube with a siliconized glass rod or pestle.\n  6.   Add ~300 mL of elution buffer to the crushed gel, resuspend the fragments of gel in TE buffer and incubate the mixture at 37 &#x2103; to elute the end-labeled DNA fragment.\n  7.   Filter the mixture with a MicropureTM separator \\(Sartorius AG, G&#xF6;ttingen, Germany) to remove gel pieces.  After extraction of DNA with a mixture of phenol, chloroform and isoamyl alcohol, precipitate the radiolabeled DNA fragment in ethanol.  Resuspend the fragment in TE buffer."
+  ],
+  "subjectAreas": [
+    "Genetics",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

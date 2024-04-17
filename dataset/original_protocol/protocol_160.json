@@ -1,0 +1,14 @@
+{
+  "id": 165,
+  "origin_website": "Nature",
+  "title": "<em>In vitro</em> functional analyses of T and B cells, DCs and macrophages.",
+  "procedures": [
+    "**For proliferation assays** \n1. Stimulate T cells stimulated with anti-CD3&#x3B5; \\(Pharmingen), anti-CD28 \\(Pharmingen), PMA \\(10 ng/ml) plus ionomycin \\(1 &#x3BC;M), and SEB \\(5-500 ng/ml, SC BioScience) together with irradiated syngeneic spleen cells. Stimulate purified B cells with anti-IgM F\\(ab&#x2019;)2 fragment \\(Jackson ImmunoResearch), anti-CD40, rmIL-4 \\(R&amp;D Systems), LPS and CpG-DNA). \n  2. After 2 or 3 days pulse  the culture with 1 &#x3BC;Ci of \\[<sup>3</sup>H]-thymidine \\(Amersham) for 8 h and harvest the cells. Measure \\[<sup>3</sup>H]-thymidine incorporation with Microbeta \\(Perkin-Elmer) or Matrix 96 \\(Packard).\n  \n**For cytokine production assays**\nAssay the culture supernatants of CD4+ and CD8+ T cells in triplicate for the production of IFN-&#x3B3; by ELISA \\(R&amp;D Systems). \n**For allogenic T cell response**\nCulture purified T cells \\(5 x 10<sup>4</sup>) from C57BL/6 mice for 48 h with irradiated \\(30 Gy) spleen cells \\(2.5 x 10<sup>5</sup>) from BALB/c mice, and measure \\[<sup>3</sup>H]-thymidine incorporation in a similar manner.\n**For BMDCs or macrophage functional assay** \n1. Stimulate BMDCs or macrophages with immobilized anti-CD16, anti-TREM-1, anti-OSCAR or anti-MAIR-II, or isotype-control rat IgGs in the presence of 10 &#x3BC;g/ml of soluble mouse gamma globulin as a FcR-blocker, or with Zymosan or oxidized-zymosan. \n  2. Collect the culture supernatant and analyze for IL-2, TNF, IL-6 and IL-12 production using respective ELISA kits \\(BD Bioscience)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 272,
+  "origin_website": "Nature",
+  "title": "A high throughput DNA extraction method from chemotypically heterogeneous plant species",
+  "procedures": [
+    "1. Turn on a water bath and set temperature at 65°C.\n  2. Grind plant material with mortar and pestle in the presence of extraction buffer \\[200 mM Tris-HCL \\(pH 8.0), 200 mM NaCl and 25 mM EDTA, and 1% PVP]. Transfer the homogenate to 1.5 ml micro-centrifuge tube and vortex for 30 seconds after adding of 10% SDS solution.\n  3. Incubate the tube in a water bath at 65°C for 20-40 minutes and mix the contents 2-3 times by inverting the tubes. Centrifuge at 17,000 rpm for 10 minutes, which separates the homogenate into two parts.\n  4. Take the upper aqueous phase into a new tube and mix with an equal volume of phenol: chloroform: isoamyl alcohol \\(25:24:1, v/v/v). Shake the tube well for 5 minutes and centrifuge at 12,000 rpm for 10 minutes. \n  5. Collect the supernatant into a fresh tube and add 1/5<sup>th</sup> volume 2 M NaCl and 2 volume pre-chilled ethanol. Keep the tube at -20ºC for 10 minutes to precipitate DNA.\n  6. Spool the DNA and transfer to another tube. Wash the spooled DNA with 70% ethanol \\(2-3 times) and air dry under laminar flow chamber for 10-15 minutes. \n  7. Dissolve the dry pellet in nuclease free water or TE buffer \\(pH 8.0). Store DNA at 4ºC or -20ºC."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

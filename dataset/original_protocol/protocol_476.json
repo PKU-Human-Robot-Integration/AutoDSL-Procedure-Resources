@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "origin_website": "Nature",
+  "title": "MSM Trace Element \\(TE) solution",
+  "procedures": [
+    "For 100x Stock TE solution:\n1100 mg/l FeCl<sub>3</sub> x6H<sub>2</sub>O\n50 mg/l CuSO<sub>4</sub> x5H<sub>2</sub>O\n200 mg/l HBO<sub>3</sub>\n200 mg/l MnSO<sub>4</sub> xH<sub>2</sub>O\n80 mg/l Na<sub>2</sub>MoO<sub>4</sub> x2H<sub>2</sub>O\n60 mg/l CoCl<sub>2</sub> x6H<sub>2</sub>O\n90 mg/l ZnSO<sub>4</sub> x7H<sub>2</sub>O\n10 mg/l Na<sub>2</sub>SeO<sub>4</sub>\n- Add the constituents into a final volume of 1 liter of water \\(pH pre-adjusted to around 2.5), one at a time, dissolving before adding the next.\n- Adjust the pH to 1.5 with sulfuric acid \\(and/or sodium hydroxide)\n-sterile filter"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

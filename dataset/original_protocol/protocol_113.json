@@ -1,0 +1,15 @@
+{
+  "id": 117,
+  "origin_website": "Nature",
+  "title": "A method for labeling polyacrylamide gels",
+  "procedures": [
+    "1. Take the short plate and label on the side of the plate facing the long plate, using a laboratory permanent marker. You can write down the percentage of the gel for example 10% or 12%, followed by a numbering system such as #1 \\(Figure 1a).\n  \n2. To be able to read the label well and to avoid labeling over the protein band observable after staining and de-staining steps, the label should be placed on the bottom corner of the short plate which will be facing inwards towards the long plate \\(Figure 1a).\n  \n3. Then the plates should be sandwiched as normal \\(Figure 1b) and the resolving and stacking solutions poured in between the plates to make the gel.\n  \n4. After the gel is made and post electrophoresis, what will become apparent is that the label gets transferred to the gel permanently, which is neither affected by staining nor de-staining procedures \\(Figure 1c) and can even be transferred onto blotting paper such as nictrocellulose paper depending on how strong the labeling was on the gel in the first instance and yet be retained on the gel used for blotting \\(Figure 1d)."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 553,
+  "origin_website": "Nature",
+  "title": "A method for quantifying phonotaxis in the concave-eared torrent frog",
+  "procedures": [
+    "**Call recordings and sound analysis** \n1. &#x25B2; CRITICAL STEP Catch females of O. tormota at night, kept individually in an open-top plastic container with a gauze cover. \n  2. Use an ultrasonic microphone and PC Tape system and/or a digital audio recorder with a microphone for picking up calls. \n   \\! CAUTION It is difficult to record rare vocalizations from female frogs.\n3. Save call records as wave files, analyze and display using the SELENA software, and determine which calls are produced by males or females.\n  ? TROUBLESHOOTING\n**Acoustic playback experiments**\n1. &#x25B2; CRITICAL STEP Select a recorded female call and store it on the flash memory of a Play unit for indoor study, or an MP3 player for field tests. \n  2. Broadcast the female call through a Play unit with audible and ultrasonic loudspeakers, or MP3 player with a speaker \\(FE87E) positioned 1 m away from a frog in the field or on an indoor arena at the level of ~80-90 dB SPL.\n  3. According to experimental need, digitally filter the call \\(low- or high-pass with a cutoff frequency of 20 kHz; slope 100 dB per octave), and then broadcast filtered calls through either an audible or ultrasonic loudspeaker or both at various playback levels.\n  4. &#x25B2; CRITICAL STEP Carry out acoustic playback experiments at night in field, or in a quiet and darkened indoor room, ~1 km from the frog&#x2019;s natural habitat. Present playback stimuli at the rate of 1 call/15 s over a 5-minute period. Indoor playback experiments are made under dim infrared illumination.\n  \n**Audio/video recording and data analysis** \n1. Place an isolated male frog on an indoor arena \\(3.5 x 4.5 m; i.e., the release site) under a removable glass cover \\(inside diameter: 8.5 cm), 1 m in front of the loudspeaker.",
+    "2. Use the PC Tape system or a digital audio recorder with a microphone mounted on a tripod and placed 10 cm from the loudspeaker to record frog&#x2019;s vocalizations and stimuli. \n  3. Use an infrared videorecorder under infrared illumination to record males&#x2019; phonotactic movements and vocalizations. Only receptive males show high accurate phonotaxis. ? TROUBLESHOOTING\n  4. Playback the videotaped record of the experiment and extract audio signals from video files using a software \\(e.g., Cool Edit Pro 2.0). \n  5. Depict scaled tracings of each male frog from videotaped records. \n  6. &#x25B2; CRITICAL STEP Measure the frog hop distance \\(D, in cm) and azimuthal angle \\(alpha, in degrees); the latter was calculated using the formula alpha = arcsin d/D, where d is the vertical length from the hop landing site to the line between the hop start site and the center of loudspeaker in cm. Calculate the index of straightness for males&#x2019; phonotactic movements. \n  7. All data on latency of antiphonal responses, distance of a hop, azimuthal angle and index of straightness are statistically tested to quantify unambiguous phonotactic behaviors. \n  ? TROUBLESHOOTING"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology"
+  ]
+}

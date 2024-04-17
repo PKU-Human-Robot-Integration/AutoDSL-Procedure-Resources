@@ -1,0 +1,16 @@
+{
+  "id": 4606,
+  "origin_website": "Bio",
+  "title": "Hanging Drop Aggregation Assay of Breast Cancer Cells",
+  "procedures": [
+    "Plate T-47D and MCF7 cells in complete medium and let them grow to reach a confluency of 80%.    Remove the complete medium from culture dish and add 0.05% trypsin for 3-5 min after PBS washing. As soon as cells have detached, collect cells by adding complete medium.    After spinning down (1,000 x g for 5 min), count the cells using a haemocytometer and adjust cell concentration to 2.0 x 106 cells/ml# in complete culture medium.    Carefully deposit cells in 30 μl drops on the inner side of a 100 mm dish lid. It is possible to place at least 30 drops per lid (Figure 1A).   Turn the lid of the plate upside down and place on top of the plate filled with 10 ml PBS (to humidify the culture chamber after distribution of the drops) (Figure 1B). Cells under the force of gravity will be aggregated at the bottom of the hanging drop. Make sure avoid placing the drops close to the plate edges and drops are placed sufficiently apart so as to not touch.    Monitor the drops daily and incubate until either cell sheets or aggregates have formed, and photograph cell clusters at the endpoint of experiment* by a microscopy within 20 min. Adjust the lighting and focus to provide the most contrast between the 3D structure and background**.    Collect cell clusters by wide end of tips (100 µl pipette tip cut widely 5-6 mm from the end), and disburse them by pipetting up and down at least 7 times following with a wash of PBS supplemented with 10% fetal bovine serum.    Count single cells released from the clusters using a haemocytometer.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20150202/20150202204239_6349.jpg Figure 1. A. 30 μl drops on the inner side of a 100 mm dish lid; B.",
+    "lid with drops upside down and on top of the plate filled with 10 ml PBS."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

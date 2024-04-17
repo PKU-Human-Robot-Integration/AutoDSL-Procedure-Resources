@@ -1,0 +1,14 @@
+{
+  "id": 4417,
+  "origin_website": "Bio",
+  "title": "Murine <em>in vitro</em> Memory T Cell Differentiation",
+  "procedures": [
+    "CD44hiCD62Llo Memory T cell differentiation proceeds under sterile tissue culture conditions   Euthanize a OT-1 CD8 TCR transgenic mouse and take spleen, and (optional) lymph nodes.   Splenocytes are RBC lysed followed by washing with PBS twice.       OT-1 TCR stimulation with cognate peptide antigen   Resuspend cells in 1 ml of T cell media and add OVA257-264 synthetic peptide to 1 µM.   Incubate in the 5% CO2 at 37 °C for 1 h.   Spin down cells at 1,500 rpm for 3 min at 4 °C and wash once with T cell media.   Resuspend cells in 12 ml of T cell media and plate 1ml/well of a 24 well plate.   Incubate in the 5% CO2 at 37 °C for 2 days.   Harvest the cells by pipetting up and down, and pellet cells.   Resuspend cells in 5 ml of T cell media, and load on to 2.5 ml of Ficoll.   Spin down at 400 x g for 15 min at 4 °C.   Transfer live cells on the interphase to a new 15 ml tube and fill up the tube with T cell media.    Spin down cells at 1,500 rpm for 3 min at 4 °C.      Memory T cell culture in the presence of IL-15   Resuspend cells in 24 ml of T cell media containing rmIL15 (20 ng/ml). Culture cells in T75 flask for four days.   Harvest and pellet cells for Ficoll gradient (repeat steps 9-12).    Resuspend cells in 40 ml of T cell media containing rmIL15 (20 ng/ml). Culture in T75 flask for two days.   Staining cells with anti-CD44 and CD62L antibodies in staining buffer for 15 min on ice.    Wash with staining buffer twice, then proceeds flow cytometry analysis.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140706/20140706182226_2477.jpg Figure 1. CD44 and CD62L expression of differentiated memory T cells"
+  ],
+  "subjectAreas": [
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

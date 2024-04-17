@@ -1,0 +1,15 @@
+{
+  "id": 9499,
+  "origin_website": "Jove",
+  "title": "Manual Drainage of the Zebrafish Embryonic Brain Ventricles",
+  "procedures": [
+    "1. Preparing Microinjection Needles and Cell Tram\nFill Eppendorf CellTram oil microinjector apparatus with mineral oil according to manufacturer's instructions.\nPrepare microinjection needles by pulling capillary tubes using Sutter instruments needle puller.\nMount needle on micromanipulator connected to Eppendorf CellTram.\nCarefully break the tip of the needle. For uniform tip size, measure with a micrometer, or compare to a reference needle.\nFill the length of the needle with oil, using the CellTram to push oil down the length, being careful to avoid any bubbles.\n2. Preparing the Embryos\nPoke holes in a 1% agarose coated dish with a 1-200 μl pipette tip, and remove agarose plugs. Fill dish with embryo media (made according to Westerfield25).\nUsing forceps, dechorionate embryos under stereomicroscope.\nTransfer dechorionated embryos into agarose coated dish.\nTo anesthetize embryos, add Tricaine (0.1 mg/ml) to agarose dish until embryos stop moving (made according to Westerfield25).\n3. Draining the eCSF\nOrient the embryos with their tails in the holes of the agarose and their posterior sides closest to the micromanipulator, allowing for visualization of the dorsal side of the brain.\nPosition the needle at the rhombomere 0/1 hinge-point or the widest point of hindbrain ventricle (Figure 1A).\nCarefully pierce roof plate of hindbrain ventricle being sure not to go through the depth of the brain into the yolk.\nDrain the eCSF using the CellTram and collect fluid in microinjection needle. Be careful to avoid any cells.\n4. Collecting the eCSF for Composition Analysis\nOnce the eCSF is collected in the needle, carefully stop suction from the CellTram.\nMove the dish out from under the needle and carefully position the needle into a tube containing the desired buffer.\nUsing the CellTram, drain the eCSF out of the needle into the buffer trying to avoid contaminating the solution with oil.",
+    "In order to remove cells that you have aspirated along with the eCSF, spin eCSF at 10,000 x g. Collect uncontaminated eCSF (supernatant) and store at -80 °C until ready for further analysis.\n5. Reintroduction of Selected Factors\nDrain the eCSF every 2 hr during desired time interval, since the fluid is replenished within that time period. Between drainage time-points, remove the needle and store the embryos at 28.5 °C or desired temperature.\nLoad second micropipette needle with test factor.\nPlace needle into micromanipulator attached to microinjector.\nAdjust injection volume to 1 nl by measuring the drop size in oil and adjusting injection time and pressure.\nInject 1-2 nl into brain ventricles as described previously26.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

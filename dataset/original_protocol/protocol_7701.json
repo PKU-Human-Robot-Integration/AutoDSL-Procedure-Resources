@@ -1,0 +1,14 @@
+{
+  "id": 8104,
+  "origin_website": "Bio",
+  "title": "Structural Based Strategy for Predicting Transcription Factor Binding Sites ",
+  "procedures": [
+    "If you are confident of your TF/DNA complex 3D structure, then you can use tFIRE default function pre-trained by all available TF/DNA structures in the PDB database. You can also construct your own energy function with tFIRE by several non-homology structures. You can use the PISCES server (Wang and Dunbrack, 2003) (http://dunbrack.fccc.edu/PISCES.php[href=http://dunbrack.fccc.edu/PISCES.php]) that this server will give you a subset of your input structure list (PDB id) that each protein in the subset has little homology to another.If you are not confident of your TF/DNA structure, you can train tFIRE with a single structure and subsequently predict PWMs using tFIRE."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

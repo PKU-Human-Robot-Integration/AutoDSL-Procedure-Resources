@@ -1,0 +1,16 @@
+{
+  "id": 7409,
+  "origin_website": "Bio",
+  "title": "Enrichment of Cytoplasmic RNA Granules from <i>Arabidopsis</i> Seedlings",
+  "procedures": [
+    "OverviewThis protocol allows for the simple and fast enrichment of RG fractions (albeit crude) from plant samples. Briefly, the RG fractions are separated and dissolved by continuous centrifugation with RG lysis buffer. The enriched RG fractions can be subsequently subjected to RNA-seq and protein analysis (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4212/bioprotoc-11-21-4212-g001.jpgFigure 1. Scheme of RNA granule enrichment Plant preparationPlace 100 μl of ddm1-2 seeds in a 1.5 ml microcentrifuge tube.Add 1 ml of sterilization solution to seeds and vortex for 4 min (see Recipe 1).Discard the solution.Wash the seed with 1 ml of 100% ethanol.Vortex for 1 min and discard the ethanol.Repeat Steps B4 and B5.Prepare a sheet of filter paper and pipet the seeds onto the paper.Let the ethanol evaporate for 3 min.Pick up the paper and sprinkle the seeds onto half-strength Murashige and Skoog medium (see Recipe 2).Wrap the plate with parafilm and place it into a 4°C chamber for 2 days.Transfer the plate into a growth chamber set at 22°C and under 16 h light/8 h dark cycles for 10 days.Notes:  Any plant samples in addition to Arabidopsis seedlings can be used for this protocol. Perform seed sterilization on a clean bench (wipe down with 70% ethanol before use). RNA granule enrichmentGrind 2 g of seedlings into a fine powder in liquid nitrogen using a precooled mortar and pestle.Collect the samples (approximately 5 ml) into a 50 ml tube and resuspend in 5 ml of RG lysis buffer (see Recipe 3).Filter the resulting slurry through four layers of Miracloth in a funnel to a 50 ml conical tube and centrifuge at 850 × g for 5 min at 4°C to pellet cell debris.Transfer the supernatant to a new 50 ml tube and add 5 ml of RG lysis buffer.",
+    "Centrifuge at 4,000 × g for 10 min at 4°C and discard the supernatant.Resuspend the pellet in 2 ml of RG lysis buffer. Centrifuge at 18,000 × g for 10 min at 4°C.Resuspend the pellet in 2 ml of RG lysis buffer, vortex, and centrifuge at 18,000 × g at 4°C for 10 min.Discard the supernatant and resuspend the pellets gently in 1 ml of RG lysis buffer. Centrifuge at 850 × g for 10 min at 4°C.Transfer the supernatant (enriched with RGs) into a 1.5 ml microcentrifuge tube without disturbing any residue and keep it in a freezer until use.Note: We recommend using the fluorescence-tagged RG-marker plant lines to quickly check for successful RG enrichment. RNA analysisThe final RG fraction resulting from the protocol described above can be subjected to regular RNA extraction and subsequently tested for either targeted RNA analyses using RT-qPCR or transcriptome-wide profiling with RNA-seq.Note: Refer to Kim et al. (2021) for suggestions on any RG-specific marker genes."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

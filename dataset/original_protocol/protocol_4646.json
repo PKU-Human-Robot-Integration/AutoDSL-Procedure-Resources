@@ -1,0 +1,15 @@
+{
+  "id": 4923,
+  "origin_website": "Bio",
+  "title": "Biotinylation of Cell Surface Proteins",
+  "procedures": [
+    "Prepare PLO solution: Add 90 mg PLO into 180 ml borate buffer (dissolve 1.668 g borate acid in 180 ml H2O and adjust pH to 8.3 using NaOH), and sterilize by filtering through 0.22 μm filters.Coat 12-well plates with PLO solution at room temperature overnight in the culture hood (1 ml per well). Wash three times with sterile water on the second day before cell plating.Plate HEK293 cells on poly-ornithine coated 12-well plates and transfect as needed.On the day of cell harvest, dissolve Sulfo-NHS-SS-Biotin in PBS/CaCl2/MgCl2 at 0.5 mg ml-1 and store on ice.Wash cells with 1 ml ice-cold PBS/CaCl2/MgCl2 twice.BiotinylationAdd 0.3 ml of 0.5 mg/ml Sulfo-NHS-SS-biotin solution.Incubate on ice for 30 min, with occasional shaking.Wash three times with ice-cold quenching solution and incubate 5 min before each solution removal to allow neutralization of uncrosslinked reagents.Lyse cells with 120 μl IP buffer and incubate 10 min on ice.Transfer all contents of each well into a 1.5-ml tube and spin at Vmax (about 14,000 rpm) on a 4 °C desktop centrifuge for 10 min.Save 10 μl supernatant (added 10 μl 4x loading buffer) as offers.Mix 100 μl supernatants with 50 μl 50% slurry of immobilized Neutravidin and rotate for 2-3 h at 4 °C.Spin 1 min at 5,000 rpm in a 4 °C centrifuge. Remove the supernatant and wash the beads with 1 ml IP buffer by rotating the mixture for 5 min in the 4 °C room. Wash three times in total.After the final wash, remove the supernatant and add 25 μl 4x loading buffer to the beads.",
+    "Mix well and put the tubes in a 65 °C water bath for 10 min to denature proteins (65 °C is chosen because we find that in boiling water, many membrane proteins form aggregates, which results in failure of proteins to migrate into acrylamide gels). Load 10 μl for western blot analysis."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

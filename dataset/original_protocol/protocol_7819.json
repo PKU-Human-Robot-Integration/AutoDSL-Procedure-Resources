@@ -1,0 +1,15 @@
+{
+  "id": 8227,
+  "origin_website": "Bio",
+  "title": "Preparation of Arabinogalactan Glycoproteins from Plant Tissue",
+  "procedures": [
+    "Freeze ~10 to 100 g plant tissue in liquid nitrogen.Pulverise frozen fresh tissue to a fine powder in a cold blender/coffee mill.Stir tissue in 2% w/v CaCl2 for 2-3 h at RT (2 ml for each gram of tissue).Centrifuge 30 minutes at ~10,000 x g (e.g. minifuge at RT)。Assay 10, 50 and 100 μl aliquots to estimate total AGP in extract (see Notes).Add a slight excess (see Notes) of Yariv reagent to the remaining extract.Allow to precipitate at least 1 h or overnight at RT.Collect precipitate by low speed centrifugation (10 min at 2,000 x g).Resuspend precipitate in 1.5 ml distilled water.Transfer to 2 ml Sarstedt tube (with screw cap).Add ~25 mg Na metabisulphite (final conc. 70 mM) to reduce the diazo linkage (top up with H2O to exlude oxygen which otherwise results in the formation of elemental sulfur).Cap tube tightly and heat at ~50 °C until decolourised (5-20 min).Transfer to small (~5 ml) dialysis bag; stir overnight at RT in 500 ml distilled H2O and change H2O three times.Freeze dialysate in liquid nitrogen, lyophilise, then and weigh the product. (AGP yields vary from 30-300 μg AGP/g fresh weight depending on tissue source) (see Notes).Validate classical AGPs by size and composition:Gel filtration on Superose-6 (Lamport, et al., 2006). Hydroxyproline content (Kivirikko and Liesmaa, 1959).Uronic acid content (Blumenkrantz and Asboe-Hansen, 1973).Bound calcium via colourimetry (Gindler and King, 1972) or ICPMS (inductively coupled plasma mass spectroscopy) (Lamport and Varnai, 2013).Amino acid and sugar analyses."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

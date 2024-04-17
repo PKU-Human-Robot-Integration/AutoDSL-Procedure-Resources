@@ -1,0 +1,16 @@
+{
+  "id": 5907,
+  "origin_website": "Bio",
+  "title": "Mast Cell Dependent Airway Hyperresponsiveness (AHR)",
+  "procedures": [
+    "Priming and challenge   Mice were immunized by intraperitoneally injection of OVA (10 μg/mouse) eight times at 2-day intervals (priming) for 2 week.   On day 26 after the last injection, mice were treated with aerosolized OVA (1%) for 20 min per day (challenge).   Repeat an aerosol challenge on day 27 and 28.      Measurement of airway responsiveness   On day 30, 36 h after the last aerosol challenge, mice were anesthetized with a pentobarbital (50 mg/kg) intraperitoneally.   Cannula was inserted by opening a direct airway through an incision in the trachea (see Figure1).   Stepwise increases in acetylcholine dose (0.6 to 20 mg/ml) were given with an ultrasonic nebulizer.   Airway opening pressure was recorded continuously. ＊The data were expressed as the provocative concentration 150 (PC150), the concentration at which airway pressure was 150% of its baseline value. PC150 was calculated by log-linear interpolation for individual animals.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140924/20140924081058_3254.jpg Figure 1. Cannula was inserted into a direct airway through an incision in the trachea after opening      Bronchoalveolar lavage and cell counting   Mice were given a lethal dose of pentobarbital (120 mg/kg, i.p.), and the lungs were gently lavaged three times with PBS at a pressure of 25 cm H2O via the tracheal cannula.   Total cell counts were determined by light microscopy.   The lavage fluid was centrifuged at 800 rpm for 5 min at 4 °C.   The cell pellet was resuspended in saline, and cytospin preparations were made.   Differential counts on 200 cells were performed by light microscopy using Wright-Giemsa stain."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Immunology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

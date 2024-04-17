@@ -1,0 +1,16 @@
+{
+  "id": 4804,
+  "origin_website": "Bio",
+  "title": "Electron Paramagnetic Resonance (EPR) Spectroscopy to Detect Reactive Oxygen Species in <em>Staphylococcus aureus</em>",
+  "procedures": [
+    "To obtain starter culture, inoculate a single colony of S. aureus into 3 ml sterile TSB supplemented with 14 mM glucose and incubate overnight in a 37 °C shaker-incubator adjusted to 250 rpm.   Inoculate 25 ml sterile TSB (suppl. with 35 mM glucose) in a 250 ml flask with starter culture to a final OD600 of 0.06 and incubate in a 37 °C shaker-incubator adjusted to 250 rpm for a period of 72 h.   Following the 72 h incubation period, 10 OD600 units (~7 x 109 cfu/ml) is harvested in a 1.5 ml Eppendorf tube and suspended in 1 ml of ice cold KDD buffer. The bacterial suspension is placed on ice until further use.   Prior to EPR measurements, the ROS sensitive spin probe CMH (working stock ~4 mM prepared in KDD buffer) is added to a final concentration of 200 µM in 1 ml bacterial suspension (step 3), briefly vortexed (2 sec) and allowed to stand at room temperature for 15 min.   The bacterial suspension (50 µl) is then transferred into micropipettes by capillary action and sealed at the distal end using Critoseal, immediately prior to EPR analysis.   EPR acquisition parameters are as follows: Field sweep width, 60 gauss; microwave frequency, 9.75 kHz; microwave power, 21.9 mW; modulation amplitude, 2.37 gauss; conversion time, 10.24 ms; time constant, 40.96 ms.   Record 2-D spectra and average 10 scans for each sample to reduce background noise. Quantitation of EPR spectra and baseline correction can be accomplished using Bruker WinEPR Data Processing software.",
+    "To identify the contribution of superoxide (O2−) and hydroxyl radicals (OH˙) to the overall EPR spectra, SOD (400 units), an O2− scavenging antioxidant enzyme and/or DMTU (20 mM), a OH˙ scavenger, may be added to the bacterial suspension (step 3) prior to the addition of CMH and incubated at room temperature for 15 min. Continue with step 4 of this protocol. Note: It is crucial to have a negative control (step 4; KDD buffer containing 200 µM CMH) when acquiring EPR signals. This control will report the degree of auto-oxidation CMH has undergone over the period of the experiment."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

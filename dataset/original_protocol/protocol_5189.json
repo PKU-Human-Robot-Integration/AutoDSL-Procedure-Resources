@@ -1,0 +1,17 @@
+{
+  "id": 5515,
+  "origin_website": "Bio",
+  "title": "Quantitative Enzyme-linked Immunosorbent Assay (ELISA) to Measure Serum Levels of Murine  Anti-cardiolipin Antibodies",
+  "procedures": [
+    "Add 100 μl/well of 75 μg/ml cartiolipin in ethanol to an Immunlon 2HB plate and allow it to dry at room temperature.   Add 100 μl of blocking solution per well and block the plate at room temperature (RT) for 90 min. Note: FBS is the source of beta glycoprotein I.    Discard the blocking solution and wash the plate four times with 120 μl/well PBS. Note: Washes can be done with an ELISA plate washer or by manually pipeting in and out PBS.   Dilute the mouse serum in 1% BSA in PBS and add 100 μl/well in duplicates or triplicates to the plate. Note: A 1:500 dilution generally gave us optimal results of serum levels of anti-cardiolipin in 12-22 week old male and female NZW x BXSB F1 mice. Titration is recommended to achieve optimal detection.   Make serial dilutions of a high titer serum sample and add the serial dilution to the plate.   Incubate the plate at 37 °C for 2 h.   Discard the diluted serum and wash the plate with 1x PBS-Tween 10 times.   Add 100 μl/well of HRP conjugated goat anti-mouse isotype specific antibodies (1/4,000 in 1% BSA/PBS) to the plate and incubate at 37 °C for 1 h.   Wash the plate with 1x PBS-Tween 10 times.   Add 100 μl/well of 1:1 mix of ABTS Peroxidase Substrate Solution A and B to the plate.    Develop the plate at RT in dark. Incubation times will vary depending on your assay.   Stop the reaction by adding 100 μl/well of ABTS Peroxidase Stop Solution.  Note: The plate needs to be read within 30 min once the reaction is stopped.   Read the plate using an ELISA reader with a wavelength of 410 nm.",
+    "Calculate the concentration of the serum samples using the standard curve established with the serial dilutions of the high titer serum sample."
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

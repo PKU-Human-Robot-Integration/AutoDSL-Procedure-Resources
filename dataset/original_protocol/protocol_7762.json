@@ -1,0 +1,15 @@
+{
+  "id": 8165,
+  "origin_website": "Bio",
+  "title": "Protein Flotation Assay to Isolate Lipids Rafts from Soft Tissue or Cells",
+  "procedures": [
+    "Extract appropriate tissue homogenates for 2 h on ice in cold lysis buffer (total protein: 1 mg in 1 ml). Soft tissue (or cell pellet) is hand-disrupted in microcentrifuge tubes with a pestle. Pestle end mates well with 1.5 ml microtubes and shaft allows gentle manual back-and-forth rotation.Assemble the gradientPrepare all solutions extemporaneously and kept on ice.Prepare a 30% Optiprep® solution in gradient buffer (1 volume of Optiprep® in 1 volume gradient buffer).Prepare a 5% Optiprep® solution in gradient buffer (1 volume of Optiprep® in 11 volumes gradient buffer).Mix the extracts (1 ml in lysis buffer) with two volumes (2 ml) of cold 60% Optiprep® to reach a final concentration of 40%.Load the extracts (3 ml in 40% Optiprep®) at the bottom of the ultracentrifuge tubes, add very slowly 6 ml of 30% Optiprep® onto the lysate and then add very slowly 2.5 ml of 5% Optiprep® onto the 30% Optiprep®. Note: It is important to avoid mixing of the interfaces. A good way is to let the pipet tip barely touch the surface and slowly overlay the solution while the tip is brought up along the side of the tube.Make sure the tubes (including buckets and caps) are equilibrated. Put the tubes in the buckets of the Sorvall TH-641 rotor pre-cooled at 4 °C, and screw the caps on the buckets. Spin at 100,000 x g for 24 h at 4 °C.Analyze the gradientCollect the fractions (1 ml) by gentle and slow aspiration from the meniscus at the top of the tube with an automatic 1 ml pipette, making sure that the tip of the pipette follows the lowering meniscus. Rafts should be present within the low-density fractions 2 to 4 which is the interface between the 30 and the 5% density.",
+    "The equivalent of 300 μl is precipitated by the methanol/chloroform method and processed for Western Blotting. The fractions can be stored at -80 °C for up to 6 months. The protocol used for precipitation is that described in Aboulaich (2011)[href=http://www.bio-protocol.org/wenzhang.aspx?id=40].Always check on the distribution of raft markers in the gradient to confirm that the centrifugation has achieved a satisfactory resolution and recovery of rafts, Flotillin-1 which has been shown to be enriched in lipid rafts is the most widely used. For brain tissue, we have used prion protein which is also present in lipid rafts."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

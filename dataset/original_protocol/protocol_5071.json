@@ -1,0 +1,17 @@
+{
+  "id": 5393,
+  "origin_website": "Bio",
+  "title": "Ca<sup>2+</sup> Measurements in Mammalian Cells with Aequorin-based Probes",
+  "procedures": [
+    "Day 1 Plate cells on 12 mm round glass coverslips, in a 24-well plate at 30-50% confluence (about 70,000 cells/well) and let them grow in their specific medium (Figure 2). Pre-treatment of coverslips with gelatin, collagen or poly-lysine to increase cell adherence is not mandatory, but could be recommended for specific cell types.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170307/20170307013846_9366.jpg Figure 2. Different mammalian cell lines. MDA-MB-231 (A), MDA-MB-468 (B) and BT-549 (C) breast cancer cell lines at around 40% confluence.    Day 2 Transfect cells with the proper aequorin-expressing plasmids, according to the expected free [Ca2+] present in the subcellular compartment (Brini et al., 1995; Brini, 2008). Choose the best transfection/infection protocol depending on the targeted cell type. In this example protocol, Aequorin-wt and mitochondrial mutated aequorin (Asp119Ala) are used.    Day 3   24 h after transfection remove medium from the cell plate.    Wash cells with KRB solution once.   Incubate cells at 37 °C for 90 min with 5 µM coelenterazine in 200 µl KRB solution.   Transfer a coverslip containing the transfected cells to the perfusion chamber. Fix the perfusion chamber in close proximity to the photomultiplier (2-3 mm distance) (Figure 3).    Continuously perfuse cells with KRB, at 37 °C in a water bath. Agonists and other drugs should be added to the same solution.   Switch on the photomultiplier and start recording the light emission, ideally with a time span of 1 sec (the output of the amplifier-discriminator is captured by the photon-counting unit connected to a Windows-based computer).   As soon as the background values are stable, stimulate cells with an appropriate agonist concentration, in order to induce Ca2+ release from the endoplasmic reticulum (ER).   Follow light emission until suppression of Ca2+ signals.   Terminate the experiment by lysing cells with the digitonin solution, thus discharging the remaining aequorin pool.",
+    "Proceed with data analysis and calibration, as described below.  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170301/20170301095942_9452.jpg Figure 3. Experimental procedure. The coverslip coated with transfected cells is moved from the plate (A) to the perfusion chamber (B). The perfusion chamber is then placed near the photomultiplier (C)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Molecular Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "origin_website": "Nature",
+  "title": "Gel-elongation assay for type II fatty acid synthesis",
+  "procedures": [
+    "1) FASII gel-elongation assay was done by preincubating 0.25 - 2 &#xB5;g of _E. coli_ or _S. aureus_ lysate with a serial dilution of inhibitors at room temperature for 20 min in 50 &#xB5;l of buffer containing 100 mM sodium phosphate \\(pH 7.0), 5 mM EDTA, 1 mM NADPH, 1 mM NADH, 150 &#xB5;M DTT, 5 mM &#xDF;-mercaptoethanol, 20 &#xB5;M acetyl-CoA or n-octanoyl-CoA or any other acyl-CoA as needed, 4% DMSO, and 8 &#xB5;M of ACP pretreated with DTT. \n2) The reaction was initiated by addition of 10 &#xB5;l of water-diluted \\[C-14]malonyl-CoA, which gave a final concentration of 4 &#xB5;M malonyl-CoA. \n3) The reaction was incubated at 37&#xB0;C for 30 min for _E. coli_ lysate and 60 min for _S. aureus_ lysate. \n4) After the reaction, 10 &#xB5;l \\(plus 10 &#xB5;l 2X native sample buffer) of each sample was directly applied to a l6% polyacrylamide gel containing a range of 0.4 M to 4 M urea as needed. \n5) The gel was resolved and transfered to a polyvinylidene difluoride \\(PVDF) membrane, exposed to Phosphor Screen and visualized by using a PhosphorImager scanner."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Chemical Biology",
+    "Drug Discovery",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics",
+    "Bioengineering & Technology"
+  ]
+}

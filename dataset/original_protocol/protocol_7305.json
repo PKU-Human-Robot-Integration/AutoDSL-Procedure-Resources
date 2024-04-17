@@ -1,0 +1,16 @@
+{
+  "id": 7688,
+  "origin_website": "Bio",
+  "title": "<sup>14</sup>C-paraquat Efflux Assay in <i>Arabidopsis</i> Mesophyll Protoplasts",
+  "procedures": [
+    "Isolate protoplasts according to Yoo et al. (2007) and suspend in cold W5 solution (see Recipes).Count the protoplasts with a cell counter to estimate their concentration. Centrifuge at 40 × g and 4 °C for 2 min. Decant the supernatant and resuspend the protoplasts in cold W5 solution to approximately 3 × 106 protoplasts/mL. This protoplast preparation is ready for 14C-paraquat loading (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4512/bioprotoc-12-18-4512-g001.jpgFigure 1. Experimental scheme of 14C-paraquat loading into and efflux out of Arabidopsis mesophyll protoplasts.  Thaw out 14C-paraquat (3.1 mM, 0.1 μCi/μL) and dilute 10 times with W5 solution at room temperature.Add the same volume of diluted 14C-paraquat solution to the protoplast preparation, to obtain a final concentration of 3 μM 14C-paraquat. Incubate for 1 h at room temperature to load paraquat into the protoplasts.Centrifuge the protoplasts at 40 × g and 4 °C for 2 min. Discard the supernatant with the unloaded 14C-paraquat and wash the protoplasts with 15 mL of cold W5 solution 2–3 times.Resuspend the protoplasts in 13 mL of W5 solution at room temperature and immediately initiate the paraquat efflux assay.At different time points (0, 10, 20, and 40 min) after W5 solution resuspension, transfer 1 mL of protoplasts suspension into a 2 mL round-bottom centrifuge tube. Take at least three replicates at each time point.Immediately centrifuge the aliquoted samples (40 × g, 2 min, 4 °C). Transfer the supernatant to a scintillation vial. Resuspend the protoplast pellet in 1 mL of W5 solution and transfer it to a scintillation vial. Then add 5 mL of scintillation fluid to each sample. Detect radioactivity on a liquid scintillation counter.Analyze and present data as shown in Figure 2.Note: 14C-paraquat waste was disposed according to the University’s safety management of isotopes. imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4512/bioprotoc-12-18-4512-g002.jpgFigure 2. Data analyses and presentation.",
+    "(A) Calculation of 14C-paraquat retention in protoplasts at different time points.t=i: time of 14C-paraquat protoplasts efflux (0, 10, 20, and 40 min).CPMt=i: mean value of 14C-paraquat radioactivity retention in protoplasts at different time points.CPMt=0: mean value of 14C-paraquat radioactivity retention in protoplasts at the initial time.At=i: percentage of 14C-paraquat radioactivity retention in protoplasts at different time points relative to the initial time.(B) Paraquat retention in the protoplasts, measured in the Col-0 and DTX6 overexpression line (OE-13) (Xia et al., 2021). Paraquat retention was defined as a percentage of the 14C-paraquat loaded in the protoplasts. Values are mean ± SD (n = 3). Different letters indicate significant differences (P < 0.05; one-way ANOVA)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Plant Science"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

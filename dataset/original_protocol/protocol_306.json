@@ -1,0 +1,15 @@
+{
+  "id": 322,
+  "origin_website": "Nature",
+  "title": "Measurement of the red blood cell lysis by bacterial hemolysin",
+  "procedures": [
+    "The RBC lysis by bacterial hemolysin is measured as described<sub>1</sub> with modification. \n1. Collect the RBCs into heparinized tubes. \n  2. Wash the RBC two times by gentle resuspension with 10 times volume of pyrogen free saline \\(0.9% NaCl), and centrifugation at 1000 x g for 10 min at room temperature. \n  3. Gently resuspend the RBC pellet with pyrogen free saline and dilute the RBC to 0.8% \\(v/v).  \n  4. Culture the bacteria under test according to protocol #4, and adjust the population to 10<sup>7</sup> cfu/ml. \n  5. Incubate the washed RBC with equal volume of bacteria at room temperature under steady rotation at 6 rpm. \n  6. Set up pyrogen-free saline \\(0.9%) as the negative control, and 1% Triton-X100 in saline as the positive control.  \n  7. At time intervals, retrieve aliquots of the reaction mixture and pellet the RBC by centrifuging at 1000 x g for 10 min at room temperature. \n  8. Transfer the supernatant into 96 well microtitre plate.  Monitor the absorbance at 404 nm with ELISA-reader as an indication of the hemoglobin released into the supernatant."
+  ],
+  "subjectAreas": [
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

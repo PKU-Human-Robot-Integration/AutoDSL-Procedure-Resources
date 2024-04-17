@@ -1,0 +1,16 @@
+{
+  "id": 5683,
+  "origin_website": "Bio",
+  "title": "Measurement of Energy-dependent Rhodamine 6G Efflux in Yeast Species",
+  "procedures": [
+    "Transfer a yeast colony from an agar plate with a sterile inoculation loop, and inoculate into 10 ml YEPD medium (see Recipes). Incubate the culture in an incubation shaker at 150 rpm, at 28 °C for 20 h. (see Note 1) Determine the cell number using haemocytometer. Add 1 ml (total amount of 5 x 108 cells) from overnight culture into 100 ml fresh YEPD medium.Incubate the cells in an incubation shaker at 150 rpm for 1.5-2 h at 28 °C until they reach the exponential phase (1 x 107 cells/ml). Monitor the cell density by counting the cell number in a haemocytometer. Harvest the cells by centrifugation at 3,000 x g for 5 min at laboratory temperature and discard the supernatant.Wash the cell pellet twice with 50 ml of sterile distilled water (room temperature, RT), then with 50 ml HEPES/NaOH (RT, see Recipes) assay buffer, vortex. Collect the cells by centrifugation (3000 x g, 5 min, RT).Resuspend the cell pellet (total cell number 109) in 50 ml HEPES/NaOH assay buffer (RT) containing 2-deoxy-D-glucose (2 mM) and R6G (10 µM) (see Recipes and Note 2).Incubate the cell suspension in an incubation shaker at 150 rpm for 2 h at 28 °C. Harvest the cells by centrifugation (3,000 x g; 5 min; 4 °C) and wash the pellet with 50 ml sterile distilled water (4 °C) first, then with 50 ml HEPES/NaOH (4 °C) assay buffer.Resuspend the pellet in 50 ml HEPES/NaOH (4 °C) assay buffer to 108 cells/ml.Transfer 5 ml of the cell suspension into a new 50 ml centrifuge tube and add 500 µl of glucose from a 20 mM stock solution (see Recipes) to a final concentration of 2 mM. For negative control experiment, glucose is not supplemented in the culture medium (see Note 3).",
+    "At specified time intervals (0, 5, 10, 15, 20, 30 min, etc.), transfer 400 µl of cell suspension to a microcentrifuge tube and harvest cells by centrifugation at 10,000 x g, 1 min, 4 °C.Transfer 100 µl of supernatant into microtiter plate well. Supernatant is sufficient for three technical replicates. Store the samples on ice until the end of experiment.Measure the R6G fluorescence of the samples at laboratory temperature using the spectrofluorometer (the excitation wavelength of 515 nm; emission wavelength of 555 nm)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

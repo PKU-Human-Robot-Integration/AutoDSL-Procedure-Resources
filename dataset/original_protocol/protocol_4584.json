@@ -1,0 +1,16 @@
+{
+  "id": 4837,
+  "origin_website": "Bio",
+  "title": "Bacterial Porphyrin Extraction and Quantification by LC/MS/MS Analysis",
+  "procedures": [
+    "For the porphyrin extraction (adapted from Nakayashiki and Inokuchi, 1997) Culture bacterial cells until a final cell suspension equivalent to 100 ml with an A600 of 0.4.Harvest the cells by centrifugation at 7,000 x g at 4 °C for 10 min and wash the pellet in 20 ml pre-chilled 0.05 M Tris pH 8.2-2 mM EDTA.Resuspend the cells in 10 ml of the same buffer.Measure the A600 of the culture suspension and adjust to equalize the A600 of each sample by adding Tris-EDTA buffer.Spin down cells at 7,000 x g at 4 °C for 10 min. Resuspend the cell pellets in 1 ml ethyl acetate/acetic acid (3:1, v/v).Lyse the cells by sonication for 2 min with power 3 on ice.Remove the cell debris by centrifugation at 7,000 x g at 4 °C for 10 min and then transfer supernatant to a fresh tube.Add 1 ml H2O, vortex, and centrifuge at 7,000 x g for 5 min. Remove and discard the aqueous top layer.Repeat step 8.Add 100 µl of 3 M HCl to solubilize the porphyrins.Centrifuge after vigorous vortexing before transferring upper layer containing the water-soluble porphyrins into a fresh Eppendorf tube.For the LC/MS/MS analysis Perform the LC separation with Zorbax SB-Aq column.Use 0.1% formic acid in water as mobile phase A and 0.1% formic acid in acetonitrile as mobile phase B.Use a flow rate of 0.3 ml/min.Perform a stepwise elution as follows: 0-1 min 100% A, then gradually decrease down to 5% A until min 10. Maintain 5% A until min 18 and then increase to 100% A until min 19. Maintain 100% A until the end (min 24).Set the autosampler at 5 °C.Inject sample (1 μl) from step 11 above.Acquire the mass spectra with positive electrospray ionization (ESI) with the ion spray voltage set at 5,500 V.",
+    "Set the source temperature at 450 °C.Set the curtain gas, ion source gas 1, and ion source gas 2 at 32, 65, and 50, respectively.Use multiple reactions monitoring (MRM) to monitor coproporphyrin III (m/z 655.4 --> m/z 596.3) and protoporphyrin IX (m/z 563.2 -->  m/z 504.1). Use 1 µg of the porphyrin standards for the initial tests.Measure the peak areas of the resulting chromatograms with Analyst 1.6. Note that this is a qualitative assessment. A standard curve using the corresponding porphyrin references is required to obtain absolute values."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

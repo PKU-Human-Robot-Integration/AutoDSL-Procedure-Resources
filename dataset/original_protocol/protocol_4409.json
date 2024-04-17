@@ -1,0 +1,16 @@
+{
+  "id": 4633,
+  "origin_website": "Bio",
+  "title": "Neutrophil Isolation from the Intestines",
+  "procedures": [
+    "After removal, the small intestine was freed from surrounding connective tissue and cut open longitudinally in order to wash out feces by ice-cold PBS.    To focus on lamina propria leukocytes, the intraepithelial leukocytes and the epithelial layer were removed by use of cell-dissociation buffer (CD buffer). Note: Several factors including tissue type and pH influence the effectiveness of cell dissociation procedures.Here, we used EDTA as a chelator and HEPES as a buffer component for gentle cell dissociation.   The intestines were incubated with 10 ml CD buffer for 10 min at 37 °C and 100 rpm.   The samples were intensively vortexed, the intestine was transferred into 10 ml fresh CD buffer and the incubation for 10 min at 37 °C and 100 rpm was repeated.    The samples were intensively vortexed, the intestines were cut into small pieces with a scalpel and 5 ml of digestion solution was added.    The samples were incubated for 20 min at 37 °C and 100 rpm, vortexed, let the undigested tissue collect at the ground by sedimentation and carefully transferred the liquid phase in an ice-cold collection tube.    Another 5 ml of digestion solution was added to undigested intestinal tissue, the incubation for 20 min at 37 °C and 100 rpm and the liquid phase collection cycle were repeated another two times.   Intestinal leukocytes containing neutrophils were separated from stromal cells (which were dislodged from the lamina propria along with the leukocytes) with a percoll gradient.   The digested intestines were centrifuged at 4 °C (10 min, 450 x g), the supernatant was discarded carefully and the pellet was resuspended in 5 ml 40% percoll.    This suspension was carefully loaded on 5 ml 80% percoll in a 15 ml tube, creating a 40%/ 80% gradient with a sharp border.",
+    "The gradient was centrifuged at 4 °C (20 min, 700 x g) with a gentle acceleration and without using the brakes of the centrifuge.    The interphase (approximately 5 ml), containing lamina propria leukocytes, was harvested. Out of a small intestine of one healthy mouse up to 10 million leukocytes can be isolated.   Cells should be washed with PBS to clean out the residue percoll.   The purity of the cells can be checked by a flow cytometric staining and analysis."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

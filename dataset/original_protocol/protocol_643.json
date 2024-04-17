@@ -1,0 +1,19 @@
+{
+  "id": 681,
+  "origin_website": "Nature",
+  "title": "Live-cell luciferase assay of drug resistant cells",
+  "procedures": [
+    "1. Culture cells in 96-well plate by time point. \n  2. Equilibrate the plate to room temperature for 30 min.\n  3. Prepare control wells containing medium without cells for background. \n  4. Add a volume of luciferin solution equal to the volume of cell culture medium in a well \\(luciferin solution \\(vol.) : cell culture medium \\(vol.) = 1 : 1).\n  5. Mix the contents of plate by gently shaking for 5 sec.\n  6. Immediately detect the luminescence with a luminescent plate reader. Suitable measurement time is 1~10 sec depending on equipment type."
+  ],
+  "subjectAreas": [
+    "Chemical Biology",
+    "Developmental Biology",
+    "Cell Biology",
+    "Drug Discovery"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

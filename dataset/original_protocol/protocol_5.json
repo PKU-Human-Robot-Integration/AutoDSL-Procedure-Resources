@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "origin_website": "Nature",
+  "title": "Immunohistochemistry protocol for &#x3B3;H2AX detection \\(formalin-fixed paraffin-embedded sections)",
+  "procedures": [
+    "1.Deparaffinize tissue sections in Histolemon 2X10 min\n2.Hydrate tissue sections through graded alcohol series \\(100%,95%,70%, H<sub>2</sub>O) 1X5 min\n3.Incubate the slides in EDTA for 50 min at 95&#xB0;C for antigen unmasking \n4.Cool the slides for 20 min at room temperature \\(RT), then wash once in H<sub>2</sub>O\n5. Incubate the slides in 3% H<sub>2</sub>O<sub>2</sub> for 5 min at RT for quenching of endogenous peroxidases\n  6.Wash twice in TBS 1X\n7.Preincubate the slides with Ab mix for 20 min at RT \n8.Incubate the slides ON at 4&#x2DA;C with anti-&#x3B3;H2AX diluted in Ab mix at indicated concentration, then wash twice in TBS 1X\n9. Incubate the slides with secondary antibody  for 30 min at RT, then wash twice in TBS 1X\n  10. Incubate the slides in peroxidase substrate solution for 5 min at RT. \n  11.Block the reaction in H<sub>2</sub>O, counterstain with Hematoxilin 15 sec and wash the slides  in running H<sub>2</sub>0\n12.Dehydrate tissue sections through graded alcohol series and mount with Eukitt\n13.Positive \\(irradiated skin) and negative \\(not irradiated skin) controls were included in each experiment"
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

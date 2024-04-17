@@ -1,0 +1,15 @@
+{
+  "id": 6810,
+  "origin_website": "Bio",
+  "title": "Single Cell Migration Assay Using Human Breast Cancer MDA-MB-231 Cell Line",
+  "procedures": [
+    "Cell cultureWarm up DMEM S+ media to 37 °C.Thaw MDA-MB-231 cells to 37 °C.Transfer 1 ml of thawed MDA-MB-231 cells to 3 ml of DMEM S+ media and centrifuge (with appropriate balance) for 3 min at 300 x g.Aspirate supernatant and resuspend cells in MDA-MB-231 cells in 10 ml of DMEM S+ and plate on 10 cm dish.Incubate cells at 37 °C and 5% CO2 until 70% confluency (2-3 days).Single cell migration assayWarm up DMEM S+ media, trypsin, and PBS to 37 °C.Coat 24-well plate with 10 μg/ml Collagen-I solution (100 μl) for 1 h at room temperature and wash with PBS (leave PBS in well to prevent drying).Aspirate media from MDA-MB-231 cell culture dish.Wash cells with PBS and aspirate PBS.Add 1 ml of trypsin and incubate in 37 °C and 5% CO2 for 5 min.Pick up trypsinized cells with 3 ml of DMEM S+ and centrifuge for 3 min with appropriate balance at 300 x g.Aspirate supernatant and resuspend cells in 4 ml of DMEM S+.Take 10 μl of cell suspension and pipette into hemocytometer.Count cells.Aspirate PBS off collagen coated 24-well plate.Resuspend cell suspension again by inverting tube a few times or pipetting.Plate 20,000 cells into 24-well and allow to attach overnight at 37 °C and 5% CO2.Allow live-cell imaging environmental chamber warm up on microscope stage with empty 24-well plate for at least 1 h to equilibrate microscope temperature.Replace empty plate with cell plated 24-well and allow to equilibrate for 1 h.Select multiple fields with 5-10 single cells (not touching other cells) and set time-lapse imaging for 2 h at 1 frame per minute using phase-contrast.Initiate time-lapse imaging and save files."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

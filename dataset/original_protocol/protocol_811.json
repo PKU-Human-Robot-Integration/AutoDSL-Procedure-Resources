@@ -1,0 +1,18 @@
+{
+  "id": 863,
+  "origin_website": "Nature",
+  "title": "IL-4 <em>in situ</em> staining",
+  "procedures": [
+    "1. Obtain serial frozen tissue sections 4-8&#x3BC;m thick on glass microscope slides.\n  2. Fix slides in chilled acetone for 10 minutes in a crystal slide jar.  For all other washes, plastic slide incubation chambers are sufficient.\n  3. Air dry slides, and outline tissue section with a hydrophobic marker.\n  4. Rehydrate the tissue but submerging the slide in PBS for 10-30 seconds.\n  5. Apply antibody cocktail.  Slides should be placed tissue side up in a dark box humidified with a wet paper towel.  The antibody cocktail should cover the entire region outlined by the hydrophobic marker.  For every staining run, a serial tissue section should be stained with the isotype control cocktail.  Incubate at room temperature for 45 minutes.\n  6. After this incubation, blot off excess staining cocktail carefully avoiding touching the tissue itself, and rinse the slide in PBS with gentle, manual shaking for 10-30 seconds.  \n  7. Wash slides in detergent wash solution with gentle manual shaking for 10-30 seconds.  Repeat this wash step once in fresh detergent wash solution.\n  8. Wash slides in PBS with gentle, manual shaking for 10-30 seconds.\n  9. Wash slides in dH<sub>2</sub>O with gentle, manual shaking for 10-30 seconds.\n  10.   Add a drop of Fluoromount G to the tissue section.  Avoid bubbles by administering the Fluoromount G with a transfer pipet.  Carefully apply a coverslip, so the Fluoromount G is evenly distributed underneath without bubbles.\n  11.   The stained slides can be imaged immediately.  However, they can be stored, tissue side up, in a dark box at 4&#x2DA;C.",
+    "12.   CRITICAL STEP.  For imaging the slides, the Alexa 488 fluors can be visualized using FITC excitation and emission filters.  It is important to use identical exposure times and image normalization settings for the IL-4 and isotype images.  Specific conditions depend on the fluorescent microscopy equipment available.   IL-4 protein staining \\(shown below, panel C) is punctuate, while minimal staining is detected in a serial section stained with isotype control antibodies \\(panel D)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

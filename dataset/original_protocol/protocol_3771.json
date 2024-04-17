@@ -1,0 +1,19 @@
+{
+  "id": 3974,
+  "origin_website": "Cell",
+  "title": "A qualitative IgG ELISA for detection of SARS-CoV-2-specific antibodies in Syrian hamster serum samples",
+  "procedures": [
+    "Step-by-step method details\nStep-by-step method details\nCoating of microtiter plates\nTiming: 1 day\nDilute the inactivated SARS-CoV-2 antigen to make a concentration of 2 μg/100 μL with 1× phosphate-buffered saline (PBS) (pH 7.2 to 7.4, 0.01 M).\nCoat 96-well polystyrene microtiter ELISA plates with 100 μl of the diluted SARS-CoV-2 antigen per well in rows A to D and the negative control antigen in rows E to H\nKeep the antigen-coated plates for 16–18 h at 4°C.\nAfter coating, block the wells with liquid plate sealer for two hours at room temperature (25°C–30°C). Aspirate and store the plate at 2°C–8 °C.\nWash the plates three times before use with 0.01 M PBS, pH 7.2–7.4 with 0.1% Tween-20 (PBST).\nCritical: It is important to check the pH of the coating buffer.\nAssay protocol\nTiming: 2 h 30 min\nPrepare positive and negative controls for the assay\nBlood collection from hamsters: Anaesthetize the hamsters prior to blood collection using isoflurane. Perform blood collection (0.25 mL) through retroorbital route. Allow the blood sample to clot at room temperature for 30 min and centrifuge the sample at 177 g for 10 min to separate serum. Aliquot the separated serum and store it at −20°C.\nCollect positive serum from hamsters infected by SARS-CoV-2 virus and negative control serum from uninfected hamsters. (Mohandas et al., 2021[href=https://www.wicell.org#bib2])\nDilute hamster IgG positive and negative serum samples to be tested prior to initiating the test.\nDilute the hamster sera to 1:100 with the sample diluent.\nAdd 100 μl of 1:100 diluted serum samples to the coated microtiter plate and incubate at 37°C for one hour.\nAfter incubation, wash the plates three times with PBST.\nAdd 100 μl of anti-hamster IgG horseradish peroxidase (HRP; 1:3000 diluted with stabilzyme) per well and incubate the plate for one hour at 37°C.",
+    "Critical: It is important to confirm the dilutions of the serum samples and conjugated antibodies\nAfter incubation, wash the plates three times with PBST.\nAdd 100 μl of 3,3’,5,5’-tetramethylbenzidine (TMB) substrate per well and incubate for 10 min at 25°C–28°C.\nNote: Follow the exact incubation time.\nStop the reaction using 2M sulfuric acid.\nMeasure the absorbance values at 450 nm using an ELISA reader.\nDetermination of cut-off value for the assay is as follows.\nSample is considered to be positive if optical Density (O.D) of the sample is more than the average O.D of negative control + 0.2 and OD of sample with positive antigen divided by OD of sample with negative antigen.>1.5.\nSample is considered to be negative if O.D of the sample is less than the average O.D of negative control +0.2 and the ratio of OD of sample with positive antigen divided by OD of sample with negative antigen. <1.5."
+  ],
+  "subjectAreas": [
+    "Model Organisms",
+    "Immunology",
+    "Microbiology",
+    "Antibody"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7162,
+  "origin_website": "Bio",
+  "title": "Retention Using Selective Hooks (RUSH) Cargo Sorting Assay for Live-cell Vesicle Tracking in the Secretory Pathway Using HeLa Cells",
+  "procedures": [
+    "Cell culture and plasmid transfectionAll steps involving cell culture must be performed in a laminar flow hoodSeed 3 × 104 HeLa cells in an ibidi 35 mm µ-dish using 2 ml DMEM complete medium. Prepare at least 3-5 dishes per experiment.Incubate the cells at 37 °C, 5% CO2 for 24 h.Set up PEI transfection reaction (Per dish/well: 200 µl OptiMEM + 2 µg RUSH construct, e.g., pIRESneo3-SS-Str-KDEL-MMP2-SBP-EGFP + 15 µl 50 mM PEI solution).Vortex the transfection reaction and incubate it at room temperature for 20 min.Add dropwise to the cells and incubate at 37 °C, 5% CO2 for 24 h.Live-cell imagingSet up the incubation chamber for live-cell imaging. Pre-heat the chamber for at least 2 h before starting the experiment.Remove medium from cells and wash once with 1× DPBS.Add 1 ml DMEM high glucose, HEPES, no phenol red.Bring the cells to the incubation chamber and focus fluorescent cells on multiple fields of views. Adjust exposure time to 50 % of maximum fluorescent intensity as the signal will increase while cargo is compacted at the Golgi. Figure 2 depicts an example of a field of view at time 0.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e3958/bioprotoc-11-06-3958-g002.jpgFigure 2. HeLa cells transiently expressing an MMP2-RUSH construct. Wide-field deconvoluted microscopy image of a selected field of view for the recording of MMP2 vesicle trafficking. The image corresponds to the first time frame of the video (t=0). The red square highlights the cell showed in Video 1. Scale bar: 20 µm.<p>imgsrc:https://bio-protocol.org/javascript:;</p> Video 1. Live-cell microscopy of MMP2eGFP trafficking. The video depicts the cell highlighted in Figure 1 with a red square. It nicely shows the Golgi compaction after 20 min of biotin incubation and the budding of vesicles from the Golgi at 35 min after biotin addition.Optional: Acquire Z-stacks at 0.35 µm step sizes to image multiple planes.",
+    "Add 1 ml DMEM high glucose, HEPES, no phenol red supplemented with 80 µM Biotin to the dish on top of the cells to reach a final biotin concentration of 40 µM (1:1 dilution).Immediately start acquisition at 1 min time frames for 45 min.Repeat the procedure using a new dish every time until at least 10-15 cells are imaged.Imaging analysisLive-cellDeconvolute the image sequences using the softWoRx software. It is also possible to perform image deconvolution during the data analysis using Fiji (see plugins Deconvolve 3D and Deconvolution Lab).Save files as *.dv. Video 1 shows the sequence of 45 1-min time frames for MMP2 RUSH in HeLa cells."
+  ],
+  "subjectAreas": [
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

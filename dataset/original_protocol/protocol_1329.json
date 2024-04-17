@@ -1,0 +1,14 @@
+{
+  "id": 1424,
+  "origin_website": "Nature",
+  "title": "<p>Planarian Fission Induction Protocol</p>",
+  "procedures": [
+    "<p>1.&nbsp;&nbsp;&nbsp;Maintain clonal CIW4 <em>Schmidtea mediterranea </em>in 1X Montjuic salts in a recirculatory culture system in the dark at 20C (Fig 1).</p><p><br></p><p>2.&nbsp;&nbsp;&nbsp;Feed animals with beef liver every 3 days with beef liver paste for at least 9 days. When animals reach 5mm in length they will begin to fission and increase the periodicity of this behavior as they grow larger. Typically animals of 10mm length or longer are ideal.</p><p><br></p><p>3.&nbsp;&nbsp;&nbsp;Remove animals from re-circulation culture system and wash 5-10 times with fresh 1X Montjuic salts.</p><p><br></p><p>4.&nbsp;&nbsp;&nbsp;Place individual animals in 150mm x 25mm tissue culture dishes with 50mL 1X Montjuic salts.</p><p><br></p><p>5.&nbsp;&nbsp;&nbsp;Measure animal length and place dishes in Sanyo Incubator in the dark at 20C (Fig 2).</p><p><br></p><p>6.&nbsp;&nbsp;&nbsp;Every day check the dishes to count fissions and remove the fission progeny (Fig 2). Removal is not necessary but makes daily scoring much easier. Replace 1X Montjuic salt media weekly.</p><p><br></p><p>7.&nbsp;&nbsp;&nbsp;For data analysis, divide the number of daily cumulative fissions by initial body length and then normalized to the average of the control RNAi fissions (Fig 2).</p>"
+  ],
+  "subjectAreas": [
+    "Developmental Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

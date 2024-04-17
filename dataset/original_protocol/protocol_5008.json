@@ -1,0 +1,16 @@
+{
+  "id": 5327,
+  "origin_website": "Bio",
+  "title": "Measurements of Free-swimming Speed of Motile <em>Salmonella</em> Cells in Liquid Media",
+  "procedures": [
+    "Note: Carry out procedures at ca. 23 °C unless otherwise specified. Pick a single colony from L-broth agar plate and inoculate it into 5 ml of fresh TB.Incubate overnight at 30 °C with shaking at 150 rpm.Inoculate 50 µl of overnight culture of Salmonella SJW1103 and MMHI0117 strains into 5 ml of fresh TB and incubate at 30 °C for 5 h with shaking at 150 rpm. (The cell density reaches an OD600 of ca. 1.0-1.2.)Transfer 100 µl of the culture into a 1.5 ml Eppendorf tube.Collect the cells by centrifugation (6,000 x g, 2 min). Suspend the cell pellet in 1.0 ml of fresh TB.Centrifuge at 6,000 x g for 2 min.Discard supernatant.Repeat steps 4-6.Resuspend the cells in 1.0 ml of fresh TB. Make a tunnel slide by sandwiching double-sided tape between glass slide (bottom side) and 18 x 18 mm coverslip (top side) (see Figure 1 and Video 1). imgsrc:https://en-cdn.bio-protocol.org/attached/image/20170102/20170102170915_7404.jpgFigure 1. Tunnel slide for observation of bacteria cells under optical microscopy. Double-sided tapes are sandwiched between a glass slide (bottom side) and an 18 x 18 mm coverslip (top side). Cells are added to the space between the glass slide and the coverslip. Observation area is magnified in a circle.    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 1. Preparation for a tunnel slide   Add the cell suspension to the tunnel slide and absorb excess medium with a piece of filter paper.Set the tunnel slide on the stage of a phase contrast microscope.Select a 40x objective lens.Observe motile cells under the phase contrast microscope.    <p>imgsrc:https://bio-protocol.org/javascript:;</p>   Video 2. Free-swimming of Salmonella cells   Record a movie of motile cells for 10-30 sec with a hard-disk video recorder.Move a field of view under the microscope.Repeat steps 14 and 15 more than 5 times.Capture an image of an objective micrometer in the same setting.",
+    "Tansfer the movies recorded on the hard-disk video recorder to a DVD."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

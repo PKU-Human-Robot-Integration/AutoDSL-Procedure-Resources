@@ -1,0 +1,17 @@
+{
+  "id": 7100,
+  "origin_website": "Bio",
+  "title": "Evaluation of Toxicity with Brine Shrimp Assay",
+  "procedures": [
+    "1 g cysts of Artemia salina are soaked in 500 ml natural fresh water for one hour in a 2 L separating funnel. The funnel should not be covered on top.17 g of sea salt are dissolved in the 500 ml natural freshwater water above.Facilitate the funnel with good aeration using an air pump at room temperature and under continuous illumination for 48 h (Figure 1).imgsrc:https://en-cdn.bio-protocol.org/attached/image/e3895/bioprotoc-11-02-3895-g001.jpgFigure 1. The nauplii incubation apparatus After 48 h hatching, the nauplii released from the egg shells.Collect nauplii at the bright side of the funnel (near the light source) by using a micropipette.Transfer the separated larvae above in a small beaker containing NaCl 0.9%.Introduce an aliquot (0.5 ml) from a small beaker about 10 to 20 nauplii to each well of 24-well plate. The total volume of the well of 24-well plate will be 1ml NaCl 0.9%.Test the metallodrug at three concentrations, with a range of, for example 0.05, 0.5 and 5 μΜ with three replicates per concentration. The IC50 value of the metallodrug towards the cancerous cell lines should be in this range of the tested concentrations. When an antibacterial or a fungicidal compound is tested, then the tested concentration should be the MIC and 2× MIC, 4× MIC values. In the case of hydrogel materials, discs with a diameter of 9 mm were added to each well.The final volume of each well is 1 ml with NaCl 0.9% and the presence of the metallodrug.Maintain the plates at 25°C in an incubator.Examine, after 24 h the brine shrimps, using a stereoscope.Larvae were considered alive if they exhibit internal or external movement during 10 s of observation.Repeat each experiment three times.",
+    "Note: During the decapsulation of Artemia cyst, continuous aeration, using an air pump, should be done for proper hatching of the embryo, at 25 °C with simultaneously continuous illumination. For the acceptability of the test, up to 10% of mortality was admitted in the control."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

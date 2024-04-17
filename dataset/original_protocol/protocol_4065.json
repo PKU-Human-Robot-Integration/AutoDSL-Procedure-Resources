@@ -1,0 +1,16 @@
+{
+  "id": 4269,
+  "origin_website": "Bio",
+  "title": "Biochemical Assays for MTase Activity",
+  "procedures": [
+    "Synthesis of RNA cap structure as substrates. The nascent RNA transcribed in vitro possesses a 5' triphosphate end. Two RNA capping systems are used to synthesize cap structure as the substrates of MTase.   Combine 1-10 µg RNA and RNase free water up to 12.5 µl of total reaction volume.   To heat to denature the in vitro transcribed RNA, incubate the tube at 65 °C for 10 min, and transfer the tube to ice immediately.   Combine the following reaction components in the order given: table:\n﻿0,1\nCap-0 cap structure (m7GpppN-RNA),Cap-0 cap structure (m7GpppN-RNA)\nHeat denatured RNA,12.5 µl\n10x Bodicon Capping Buffer,2 µl\n10 mM GTP,2 µl\n3 mM SAM,1 µl\nRNase inhibitor 40 U/µl,0.5 µl\nBodicon Capping Enzyme (10 U/µl),2 µl\nTotal,20 µl\nNon-methylated Cap-0 cap structure (GpppN-RNA),Non-methylated Cap-0 cap structure (GpppN-RNA)\nHeat denatured RNA,12.5 µl\n10x Bodicon Capping Buffer,2 µl\n10 mM GTP,2 µl\nInorganic pyrophospatase 0.1 U/µl,1 µl\nRNase inhibitor 40 U/µl,0.5 µl\nBodicon Capping Enzyme (10 U/µl),2 µl\nTotal,20 µl\n   Incubate at 37 °C for 2 h.   Purify the RNA substrates by using phenol-chloroform extraction and ethanol precipitation methods.     Prepare 10x MTase Buffer. The MTase buffer may be changed depending on different interested MTases.   Combine the following reaction components in the order given for MTase assays: table:\n﻿0,1\nPurified MTases,1 µg\n10x MTase Buffer,3 μl\nGpppN-RNA or m7GpppN-RNA,2 μg\n3 mM SAM,0.5 μl\n\"[3H]-SAM (67.3 Ci/mmol, 0.5 μCi/μl)\",1 μl\nRNase inhibitor 40 U/μl,1 μl\nRNase free water,up to 30 μl\nTotal,30 μl",
+    "Incubate the reaction at 30-37 °C depending on different MTases for 1.5 h.   Transfer the tubes onto ice and add equal volume (30 μl) of 0.2% SDS, 20 mM EDTA.   Keep the tubes on ice, add 1 ml of 10 mM NH4HCO3 (pH 8.5).   Prepare 1 ml DEAE Sephadex column and equilibrated with 10 ml 10 mM NH4HCO3 (pH 8.5).   Load the samples onto the equilibrated column.   Wash the column with 10 ml of 10 mM NH4HCO3 (pH 8.5), 100 mM NaCl.   Elute the samples with 1.5 ml of 10 mM NH4HCO3 (pH 8.5), 400 mM NaCl.   Add equal volume scintillation liquid, mix well by vortexing and measure the signal using Liquid scintillation counter. The counting signal of [3H], which is transformed from [3H]-SAM to RNA substrates, represents the activity of tested MTases."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

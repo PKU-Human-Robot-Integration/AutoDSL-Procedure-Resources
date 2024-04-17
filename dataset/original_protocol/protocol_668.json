@@ -1,0 +1,15 @@
+{
+  "id": 708,
+  "origin_website": "Nature",
+  "title": "Preparation and culture of cytotrophoblasts",
+  "procedures": [
+    "1)  Isolate and purify cytotrophoblasts as previously described <sup>1</sup> with some modifications.\n2)  Place placental tissue in ice-cold saline and process within the hour. \n3)  Rinse the placental tissue with PBS \\(phosphate buffered saline) and cut away the soft villous material from connective tissue and vessels. \n4)  Incubate the villous tissue for 30 minutes at 37<sup>o</sup>C in HBSS \\(Hank's balanced salt solution) containing 0.125% trypsin type XII-S \\(Sigma, St. Louis, MO), 3 mM EDTA and 0.2 mg/ml deoxyribonuclease I \\(Sigma, St. Louis, MO, USA).  \n5)  Isolate the dissociated cells by centrifugation, resuspend in medium and layer over a discontinuous Percoll \\(Pharmacia, Sweden) gradient \\(15% to 70%) prepared in HBSS. \n6)  Collect the middle bands of the gradient \\(35% to 55%), containing the cytotrophoblasts, and wash several times with culture media \\(DMEM: F12\\(HAM) in a 1:1 ratio) and 15% heat- inactivated FCS. \n7)  Remove the remaining leukocytes as previously described <sup>1</sup>.\n8)  Maintain cell cultures in culture media at 37<sup>o</sup>C and 5% CO<sub>2</sub> in a humidified incubator. \\(Nuaire, Plymouth, MN) \n9)  Plate trophoblasts on 24 well plates precoated with 75% growth factor reduced Matrigel \\(BD Biosciences, Bedford, MA) and incubate in media as described above.\n10)  After 5 days remove trophoblasts by scraping the plates and treating with trypsin-EDTA and use for analysis. \n11)  Obtain extra-villous trophoblasts from decidual samples that were trimmed into 1mm pieces and enzymatically digested for 20 minutes by shaking in 37<sup>o</sup>C, with 1.5 mg type I DNase and 24 mg type IV collagenase \\(Sigma) present in 15 ml of RPMI-1640 medium. \n12)  Repeat this procedure three times. \n13)  Collect the supernatants, centrifuge and incubate overnight in tissue culture dishes in DMEM medium with supplements. \n14)  Remove non adherent cells, and remove the remaining adherent cells with a short treatment with trypsin-EDTA.",
+    "15)  Sort purified HLA-G+ extra-villous trophoblasts from the adherent decidual fraction with monoclonal mouse anti-human HLA-G specific antibodies \\(mouse IgG1 MEM-G/09 and MEM-G/13B clones all produced and kindly provided by Dr. Horejsi, Prague, Czech Republic) <sup>2</sup>.  \n16)  Perform intracellular staining on purified trophoblasts with a Cytofix-cytoperm kit \\(Pharmingen) and with mouse anti-human Cytokeratin 7 \\(mouse IgG1 clone OV-TL 12/30) and mouse anti-human vimentin \\(mouse IgG2a clone Vim 3B4) and matching isotype controls \\(all obtained from DakoCytomation,  Glostrup, Denmark)."
+  ],
+  "subjectAreas": [
+    "Biological Techniques"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology"
+  ]
+}

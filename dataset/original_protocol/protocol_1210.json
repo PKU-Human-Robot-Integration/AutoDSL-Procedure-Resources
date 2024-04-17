@@ -1,0 +1,17 @@
+{
+  "id": 1292,
+  "origin_website": "Nature",
+  "title": "<p>Fixation of microorganisms with paraformaldehyde for TLR stimulation.</p>",
+  "procedures": [
+    "<p>1. Grow an O/N culture (approximately 200mL) in liquid medium (bacteria or yeast) in a shaker at the optimal temperature for the particular microorganism.</p><p>2. Split the culture in 10 tubes, (each with 20mL) and centrifuge to pellet the cells (1minute at maximum speed).</p><p>3. Ressuspend each pellet in 20mL of PBS 1x.</p><p>4. Repeat the centrifugation and wash steps twice.</p><p>5. Centrifuge again and ressuspend the cells in 1mL of 4% PFA solution.</p><p>NOTE! PFA is toxic, perform this step in a fume hood.</p><p>6. Incubate 5 minutes at RT.</p><p>7. Centrifuge again and ressuspend the cells in 1mL of PBS.</p><p>8. Combine all the tubes into one cell suspension.</p><p>9. Read optical density at 600 nm (OD600) in a Nanodrop spectrophotometer.</p><p>NOTE! Mix the cell suspension well before measuring.</p><p>10. Calculate the concentration of the bacterial or yeast suspension.</p><p>(This can be done using a standard curve previously obtained by measuring the OD600 of a series of dilutions of the microbial culture and by plating those cultures in agar plates and counting the cell numbers).</p><p><br></p><p>&nbsp;</p>"
+  ],
+  "subjectAreas": [
+    "Immunology",
+    "Biochemistry",
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

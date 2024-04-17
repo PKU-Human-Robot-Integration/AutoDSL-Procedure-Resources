@@ -1,0 +1,16 @@
+{
+  "id": 5755,
+  "origin_website": "Bio",
+  "title": "Sterol Analysis in <em>Kluyveromyces lactis</em>",
+  "procedures": [
+    "Use an inoculation loop to transfer a tip of a single colony from an agar plate into 100 ml of sterile liquid YEPD medium (see Recipes). Incubate the culture in a shaker at 150 rpm at 28 °C to reach the exponential phase (1 x 107 cells/ml). Monitor the cell density by counting the cell number in a haemocytometer.Harvest the cells by centrifugation at 3,000 x g for 5 min at room temperature (RT) and discard the supernatant.Wash the cell pellets with deionized water (RT) and harvest the cells by centrifugation (3,000 x g, 5 min, RT).Resuspend the cell pellets in deionized water (RT) to a concentration of 1 x 109 cells in 1 ml of water. Transfer 1 ml of cell suspension into a new polypropylene 15 ml tube.Add 1 ml of sterile glass beads to the tube and cool 3 min on ice. Break the pre-cooled cells in vortex 6 x 60 sec at 2,500 rpm with 1 min cooling on ice between the breaking runs (see Note 2).Transfer broken cell suspension (without any glass beads) with glass Pasteur pipette to 20 ml Pyrex glass tube with Teflon cup.Add 3 ml of methanolic KOH solution and incubate for 2 h at 70 °C (see Notes 3 and 4).Cool the mixture, add 3 ml of n-hexane and mix well (10 sec) on a vortex mixer.Separate the organic and water phases at RT by centrifugation for 5 min at 3,000 x g.Transfer the upper organic phase with glass Pasteur pipette to a clean Pyrex glass tube with Teflon cup.Re-extract the water phase with 3 ml of n-hexane, collect the upper phase separated by centrifugation (5 min, 3,000 x g, RT) and join both organic phases.",
+    "Evaporate n-hexane from the joined organic phases under the stream of nitrogen going into the tube for 10 min at RT, 3 bar. For HPLC analysis of non-saponifiable lipids (sterols), dissolve dry lipid extract equivalent of 1 x 109 cells in 1 ml of solvent (e.g., n-hexane or acetone) (see Note 5).Load 10 μl aliquot on the C18 column using automatic sampler. Ergosterol is separated with 95% methanol and 5% water as the mobile phase, flow 0.8 ml/min. Column temperature is set to 25 °C (see Note 6).Ergosterol is detected using UV-Vis detector at 280 nm."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

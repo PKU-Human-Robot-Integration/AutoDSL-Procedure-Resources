@@ -1,0 +1,16 @@
+{
+  "id": 5019,
+  "origin_website": "Bio",
+  "title": "Visualization of Intracellular Tyrosinase Activity <em>in vitro</em>",
+  "procedures": [
+    "Prepare coverslips for the following treatments: 1x PBS and/or D-DOPA (negative control), L-DOPA and L-DOPA with copper. For this, add four sterile coverslips to four wells of 6 well plate using forceps. Note: Copper is essential for tyrosinase activity in melanocytes and addition of copper to the fixed cells will allow visualizing tyrosinase activity in the secretory compartments such as endosomes and Golgi and enhance its activity in the melanosomes (Setty et al., 2008).Coat the coverslips with a thin layer of Matrigel using 0.1% Matrigel matrix solution and dry the coverslips at room temperature for 15-30 min. Wash the coverslips thrice with 1x PBS (2-3 ml each, room temperature).Seed the mouse melanocytes approximately 0.5-0.8 x 106 in each well of 6 well plate or 60-70% confluence in any dish and incubate at 37 °C in 10% CO2 incubator.Fix the cells after 24 h with 4% formaldehyde in 1x PBS (room temperature) for 30 min.Wash the cells thrice with 1x PBS (room temperature).Incubate the cells with the following freshly prepared solutions at 37 °C for 2 h.a.1x PBS and/or 0.1% D-DOPA in 1x PBS (negative control)b.0.1% L-DOPA in 1x PBSc.0.1% L-DOPA in 1x PBS with 20 μM copper sulphate (co-factor for tyrosinase)Remove the solutions and repeat the incubation with the respective solutions. Note: L-DOPA in PBS or water undergoes auto-oxidation and turns black after few hours. Moreover, this oxidation results in loss of active L-DOPA substrate in the solution and thus, repetition of this step with freshly made solutions will improve the activity of tyrosinase. Wash the cells thrice with 1x PBS. Mount the coverslips with mounting medium on glass slides and image under the bright field microscope (Figure 1).Keep the bright field exposure time and settings identical for all the samples (Figure 1).",
+    "Compare the bright field images of L-DOPA or L-DOPA+copper treated melanocytes with 1x PBS or D-DOPA. The images can be analyzed for differences in signal intensity and number of pigment granules, as well as their distribution within the cells. Note: The increase in pigment granule number and intensity in melanocytes treated with L-DOPA or L-DOPA+copper (observe higher granule intensity compared to L-DOPA) is indicative to the presence of active tyrosinase in both intracellular vesicles and endocytic organelles including melanosomes (Setty et al., 2008)."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

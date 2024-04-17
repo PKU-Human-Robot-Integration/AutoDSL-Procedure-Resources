@@ -1,0 +1,15 @@
+{
+  "id": 7414,
+  "origin_website": "Bio",
+  "title": "Determination of Fungal Tolerance Index to Heavy Metals and Heavy Metal Resistance Tests",
+  "procedures": [
+    "Heavy metal stocks and culture mediaPrepare stocks under sterile conditions in six different concentrations: 2.5 mM, 5 mM, 7.5 mM, 10 mM, 15 mM, and 20 mM of Cr(III), Hg(II), and Pb(II).Dissolve the meal salts for each concentration in distilled water, filter sterilize using 0.22 µm filters, and store at room temperature until use (up to 3 months).Prepare PDA solid media in Erlenmeyer flasks using distilled water and sterilize by autoclaving (121°C and 15 psi pressure for 20 min). One flask of agar per heavy metal concentration and one without heavy metal solutions, to use as a control for each fungal isolate, are needed.After sterilization, let the agar cool at 50°C and add the heavy metal solutions under sterile conditions. Pour 20 ml of supplemented agar per Petri dish. Store at 4°C until use (up to 3 months).Cultivation methodsUnder sterile conditions, inoculate fungal isolates (1 × 106 conidia/ml) on PDA without heavy metal supplementation and incubate for 14 days at 28°C to induce conidiation (pre-grown state).Punch out agar blocks of fresh mycelium from the edge of the colony using a 5 mm diameter sterile stainless steel punch after the first incubation time (pre-grown state). This step should be performed in the microbiological safety cabinet. Several plugs per strain are necessary depending on the number of plates with different heavy metal concentrations.Inoculate the plates with different concentrations of heavy metals and the control in the center with one plug per plate and incubate at 28°C for 14 days.Six replicates should be done for each fungus and heavy metal concentration and for control cultures. Representative fungal growth of two isolates is displayed in Figure 1.imgsrc:https://en-cdn.bio-protocol.org/attached/image/e4218/bioprotoc-11-21-4218-g001.jpgFigure 1. Fungal heavy metal resistance at four different concentrations after 14 days of incubation on PDA. The figure displays Periconia citlaltepetlensis (top) and Alternaria sp.",
+    "growth (bottom) without heavy metals (A, F) and in the presence of Cr(III) at 2.5 mM (B, G), 5 mM (C, H), 7.5 mM (D, I), or 10 mM (E, J).Minimum inhibitory concentrations and tolerance indexAfter inoculation, perform daily measurements of colony size with caliper.Calculate the radial growth based on five measurements (in millimeters) during 14 days of growth by subtracting the initial diameter (5 mm) of the plug (Figure 2 and Table 1)."
+  ],
+  "subjectAreas": [
+    "Microbiology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

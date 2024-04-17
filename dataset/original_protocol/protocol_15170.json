@@ -1,0 +1,15 @@
+{
+  "id": 18996,
+  "origin_website": "Jove",
+  "title": "Modified Technique for Coronary Artery Ligation in Mice",
+  "procedures": [
+    "1. Protocol Text\nBefore proceeding to surgery, anesthetize a male mouse (C57BL/6) that is 6 weeks of age or older by inhalation of 2-5% isoflurane. Perform a toe pinch to confirm that the animal is sufficiently anesthetized.\nThe unconscious mouse is placed on its back on a warm pad to maintain a constant temperature of 37 °C. The precordial chest on the left side is shaved.\nSecure the mouse to an intubation device with an isoflurane-filled chamber. Insert a tube of 0.2 inner diameter into the mouse's trachea through mouth, then place the intubated mouse on an aseptic surgical area (37 °C by a temperature controller) and connect the endotracheal tube to a ventilator (rate of 120 per min, pressure of 4-6 mmH2O); disinfect the area with betadine and 75% ethanol .\nApply ophthalmic ointment to the mouse's eyes. Place standard ECG electrodes on the paws and connect the mouse to the ECG recorder.\nUse sterile scissors to make a 1.5 cm incision along the mid-axillary line. Scissors are used rather than a scalpel to avoid injury to the underlying tissue in mice. Then, use blunt-tip vessel scissors to dissect and retract the precordial muscle from the chest wall.\nPerform a left thoracotomy between the third and fourth ribs to visualize the anterior surface of the heart and left lung\nFurther retract the thoracic wall using a suitable retractor in order to improve visualization and accessibility. Remove the pericardium by using toothed forceps and blunt-tipped scissors.",
+    "Ligate the left coronary artery by placing the needle (attached with 7-0 ethilon suture) beneath the artery with a band of myocardium between the ligature and the artery. A successful occlusion of coronary artery is verified by hypokinesis/akinesis of the anterior left ventricular wall and by the alterations of ECG recording (e.g. ST segment elevation, QRS broadening)\nClose the chest by placing two stitches (6-0 ethilon suture) on the third and fourth ribs.\nUse 5-0 ethilon suture to close the skin.\nFor post-operative analgesia, administer a single intraperitoneal injection of buprenorphine (0.05 mg/kg). The animals will spontaneously recover within 2-5 min after stopping isoflurane anesthesia. Finally, place the mouse in a warm cage and provide 0.6 mg/ml of buprenorphine in the drinking water to prevent post-operative distress. Closely monitor the mouse for the first 24 hours after surgery.\nEchocardiography is performed to evaluate cardiac function 3 days after myocardial infarction. Successful procedure is verified by akinesia in the anterior left ventricular wall (see the enclosed video in Results). At the end of the experiment, the heart will be collected and stored in -80 °C for further investigations. i.e. gene expression.\nSubscription Required. Please recommend JoVE to your librarian."
+  ],
+  "subjectAreas": [
+    "Medicine"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research"
+  ]
+}

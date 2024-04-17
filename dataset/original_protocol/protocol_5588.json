@@ -1,0 +1,15 @@
+{
+  "id": 5929,
+  "origin_website": "Bio",
+  "title": "RhoGTPase Activation Assay",
+  "procedures": [
+    "Lyse cell samples by incubating in RIPA buffer supplemented with 1% Triton X-100 at 4 °C for 2 h. Centrifuge at 18,000 x g for 10 min. at 4 °C and collect the cleared crude cell lysate.   Transfer 15 μl of GSH-sepharose into 100 μl of GST pull-down core buffer in a 1.5 ml Eppendorf tube. Mix well and spin at 835 x g for 1 min. at room temperature. Decant the supernatant and save the washed GSH-sepharose for pre-clearing the samples (step 3).   Pre-clear 100 μg of crude cell lysates by adding into 300 μl of GST pull-down buffer (prepared by supplementing core buffer with 0.1% Triton X-100, 1 mM DTT, and 1x protease inhibitors) containing the washed GSH-sepharose (prepared in step 2). Incubate with agitation at 4 °C for 1 h. Note: If multiple samples, first bring up 100 μg lysate to equal volume with corresponding lysis buffer to ensure equal input.    Centrifuge at 835 x g for 1 min at 4 °C. Transfer supernatant to a new 1.5 ml tube without disturbing the sepharose. Save an aliquot of the pre-cleared lysate as “sample input”.   Add to the supernatant 30 μl glutathione beads bound with 30 μg GST-Rhotekin (for RhoA-GTP assay) or GST-PAK1 (for Rac1- and Cdc42-GTP assays). A “GST only” control is similarly prepared by adding GST pre-bound sepharose. Mix well and incubate at 4 °C for 2 to 3 h with rocking.    Centrifuge at 835 x g for 1 min at 4 °C to pellet the sepharose beads.   Aspirate the supernatant (optional: Save supernatant for quality control of pull-down reaction).   Wash the pelleted sepharose beads by adding 300 μl 1x PBS at 4 °C.",
+    "Spin at 835 x g for 1 min at 4 °C and aspirate supernatant (Optional: Save supernatant as “first wash” for quality control of washing step).   Repeat washing. Save supernatant as “second wash” (Optional).   Boil the beads in sample loading buffer for 5 min. and spin to harvest the pull-down proteins.   Resolve the eluted proteins and an aliquot of cell/tissue lysates (sample input) by SDS-PAGE (10% or 12% gel). An aliquot of the “supernatant”, “first wash” and “second wash” collected above can also be included for quality control.   Western blot analysis is then performed using anti-RhoA, Rac1, or Cdc42 antibodies to detect active (pull-down) and total (input) GTPases. The blot is also probed with anti-GST antibody to confirm successful GST pull down at comparable efficiency across samples. Note: Both Rhotekin and PAK1 preferentially bind to active (GTP-bound form) RhoA and Rac1/Cdc42, respectively. Quality control of these reagents can be performed by incubating GST-Rhotekin (or GST-PAK1) with recombinant RhoA (or Rac1/Cdc42) that has been preloaded with GDP or nonhydrolyzable GTP-γS."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

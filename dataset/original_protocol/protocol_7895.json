@@ -1,0 +1,17 @@
+{
+  "id": 8306,
+  "origin_website": "Bio",
+  "title": "Preparation of Outer Membrane Vesicle from <em>Escherichia coli</em>",
+  "procedures": [
+    "A single colony of E. coli is transferred to 5 ml of LB broth.   The bacteria are incubated in an orbital bacteria shaking incubator at 200 rpm at 37 °C overnight (8 h).   LB broth of 500 ml is inoculated with 1/100 volume of the overnight cultured cells. Notes:    Use 2 L flask when culturing 500 ml. Also, since 1/100 volume of 5 ml is 50 μl, before inoculation, increase the volume by adding about 900 μl of fresh LB medium to reduce cell loss.   The yield of OMVs in terms of protein amount is 100 μg per 1 liter of E. coli culture.      The cells are grown for 12 h at 200 rpm at 37 °C.   The cells are pelleted at 5,000 x g for 15 min.   The supernatant fraction is collected and pelleted again at 5,000 x g for 15 min.   The supernatant is collected and filtered through a bottle top filter of pore size 0.45 μm using a vacuum pump.   The filtered supernatant is concentrated to 50-fold by ultra-filtration with a Quixstand Benchtop System using a 100 kDa hollow-fiber membrane. Note: Because the yield of OMVs is very low, in order to obtain a visible pellet after ultracentrifugation, the total volume of bacteria culture should be more than 5-7 liters. However, depending on the amount of OMV needed, the volume of bacteria culture could be reduced as well as the degree of concentration.  Ex. 7 L of bacteria culture supernatant is concentrated to give about 280 ml of the concentrated supernatant to be filled in the total of four ultra-centrifuge tube (70 ml each).    The concentrated supernatant is filtered once again through a 0.22 μm vacuum filter to remove any remaining debris or bacteria.",
+    "The resulting filtrate is subjected to ultra-centrifugation at 150,000 x g for 3 h at 4 °C.   The supernatant is removed and the pellet (purified OMV) is resuspended in PBS and stored at – 80 °C until use.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20131204/20131204074945_3977.jpg Figure 1. TEM image of E. coli OMV"
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

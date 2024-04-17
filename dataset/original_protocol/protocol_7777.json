@@ -1,0 +1,17 @@
+{
+  "id": 8182,
+  "origin_website": "Bio",
+  "title": "Quantitative Methylation Specific PCR (qMSP)",
+  "procedures": [
+    "Primer/probe design  Note: Primer/probe design is of major importance for the specificity of the reaction, i.e. to amplify only methylated bisulphite-converted target in the presence of excess unmethylated target. The primers should include 3-5 CG dinucleotides. The inclusion of at least two such CGs within the six 3’ end of the primer significantly increases specificity. This is in addition to the usual rules on primer stability, GC content and secondary structure avoidance apply in real time PCR assay design.   One μg DNA was converted by sodium bisulphite using the EZ DNA Methylation-GoldTM kit and following the supplier’s protocol but eluting in 50 μl elution buffer (instead of the recommended 10 μl).    The qMSP reactions contained 1x TaqMan® Universal Master Mix II non-UNG, 250 nM probe, 300-900 nM primers (Table 1) and 2 μl eluate from the bisulphite treated DNA sample.  Note: The primer concentration is an important determinant of analytical sensitivity/specificity and has to be ascertained experimentally In other words the analytical sensitivity threshold is set to the dilution that has an overlapping 95% Confidence Interval with the unmethylated control reaction. In practical terms, the highest sensitivity one can use is the one that is always at least 2 ΔCt. lower than the unmethylated control.   Table 1. Primer-probe concentrations for oligo mixes table:\n﻿0,1,2,3\nPrimer/probe mix,Final concentration (nM),Final concentration (nM),Final concentration (nM)\nPrimer/probe mix,Fwd primer,Rev Primer,Probe\np16,700,700,250\nTERT,250,250,250\nRASSF1,700,700,250\nTMEFF2,900,900,250\nCYGB,300,300,250\nRARb,500,500,250\nDAPK1,250,250,250\np73,250,250,250\nWT1,750,750,250\nCDH13,250,250,250\nACTB,900,900,250",
+    "PCR plates were sealed and span at 4,000 x g for 1 min prior to be placed in the thermal cycler in order to bring all the reaction volume to the bottom and ensure removal of bubbles from the reaction mix.   The reactions were performed in duplicate on a 7500 FAST real time cycler under the following thermal profile: 95 °C for 10 min activation step followed by 50 cycles consisted of denaturation at 95 °C for 15 sec, annealing and extension at 58 °C–65 °C (Table 2, depending on the assay) for 1 min.  Table 2. Annealing information for qMSP optimised conditions table:\n﻿0,1,2\nGenes,Annealing temp (°C),Time (sec)\np16,60,60\nRASSF1,60,60\nCYGB,64,5\nCYGB,61,55\nRARB,65,5\nRARB,62,55\nTERT,65,5\nTERT,62.5,55\nWT,62,60\nWT,62,60\nACTB,58,20\nACTB,60,40\nCDH13,64,5\nCDH13,61,55\nDAPK,65,5\nDAPK,62.5,55\nP73,65,5\nP73,62.5,55\nTMEFF,58,20\nTMEFF,60,40"
+  ],
+  "subjectAreas": [
+    "Molecular Biology",
+    "Systems Biology",
+    "Cancer Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

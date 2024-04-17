@@ -1,0 +1,15 @@
+{
+  "id": 4529,
+  "origin_website": "Bio",
+  "title": "PCR-RFLP Genotyping of Point Mutations in <em>Caenorhabditis elegans</em>",
+  "procedures": [
+    "Isolate genomic DNA with proteinase K digest.Tip 1. Typically, a large amount of PK lysis buffer is prepared (for the recipe, please refer to Caenorhabditis elegans/DNA/Single worm PCR) with supplement of proteinase K, and then small aliquots are stored (e.g., 1 ml) at -20 °C. This robust enzyme works well at a range from 20 μg/ml to 100 μg/ml, and the key is to activate it at 60 °C for ~1 h and then kill it at 95 °C for ~15 min or so. You do not want to see proteinase K torture your Taq enzyme during the subsequent PCR reaction.Tip 2. I prefer to pick reasonable numbers (e.g, 10) of gravid adult animals and stick them into a PCR tube with PK lysis buffer (e.g, 20 μl). It does not hurt to use more than 1 worm per PCR reaction (genomic DNA from ~1/2 worm works just fine for most robust PCR genotyping). For PCR-RFLP, it’d be better to use more than 1 worm per reaction (e.g., 5 to 10). However, too much DNA template, in some cases, may inhibit your PCR reactions.Perform a standard PCR, 20 μl per reaction.Set up the PCR, by adding the following component into a thin-wall PCR tube on ice in this order:table:\n﻿0,1\nDNAase-free ddH2O,11.0 μl\ndNTP mix (10 mM each),\"0.4 μl (final, 200 μM each)\"\nForward primer (10 μM),\"0.4 μl (final, 0.2 μM each)\"\nReverse primer (10 μM),\"0.4 μl (final, 0.2 μM each)\"\nPCR buffer (10x),\"2.0 μl (final, 1x)\"\nMgCl2 (50 mM),\"0.8 μl (final, 2.0 mM)\"\nWorm lysates (20 μl),2.0 μl\nTaq (5 U/μl),\"0.1 μl (final, 0.5 U per reaction)\"\nRun PCR (put the tube on the block when it is hot):table:\n﻿0,1\n1 cycle,\"94 °C, 3 min\"\n30 cycles,\"94 °C, 10 sec; 58 °C, 30 sec; 72 °C, 30 sec\"",
+    "1 cycle,\"72 °C, 10 min\"\nDigest with respective enzymes, 37 °C, O/N. Prepare multiplex (N+2) for N reactions:table:\n﻿0,1\nddH2O,2.5 μl\n10x buffer,2.5 μl\nEnzyme (5 U/μl to 20 U/μl),0.2 μl\nAliquot 5.0 μl into each PCR tube.Resolve O/N digest of PCR products on 2.0%-2.5% agarose gel.For daf-2(1370):Bands expected from Nco I-digest (NEB buffer 3): Wild-type, 202-bp; mutation, 234-bp.For daf-2(1368):Bands expected from Acl I-digest (NEB buffer 4 + BSA): Wild-type, 215-bp; mutation, 186-bp.Tip 3. Due to the small difference between the sizes of products, it is recommended to run the gel for a long time. Always add wild-type and mutants with known genotypes as controls. Ethidium bromide migrates toward cathode (-), just the opposite to the direction of DNA migration. To help subsequent visualization of DNA under UV light, it would be advised to add a few microliter of ethidium bromide (10 mg/ml) into the electrophoresis buffer near the anode (+)."
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

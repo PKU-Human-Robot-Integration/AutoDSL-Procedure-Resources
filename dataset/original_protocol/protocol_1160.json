@@ -1,0 +1,15 @@
+{
+  "id": 1239,
+  "origin_website": "Nature",
+  "title": "<p>Rolling circle amplification with electrochemical detection assay for SARS-CoV-2&nbsp;</p>",
+  "procedures": [
+    "<p><strong>RCA assay</strong></p><p>&nbsp;</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prepare ligation solution by mixing 4 mL of 10X DNA ligase buffer, 1 mL of 5U/mL T4 DNA ligase, and 32.6 mL sterile water. <strong>Tip:</strong> Briefly centrifuge to eliminate the air bubbles. </p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add 0.6 mL of 1 mM circular DNA template and 1.8 mL of target DNA/cDNA/RNA in the tube.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incubate the reaction tube at room temperature for 10 min. Then, heat it at 65°C for 5 min to deactivate the enzyme. The ligation product is called as Padlock DNA. <strong>Tip:</strong> The ligation product can be stored at 4°C until use.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a new reaction tube, prepare the mixture of 1 mL dNTPs, 1 mL of 10X phi29 polymerase buffer, 0.1 mL of phi29 DNA polymerase (10U/µL), and 4.9 mL sterile water.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add 3 mL of the Padlock DNA into the reaction tube in step 4.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incubate the tube at 30°C for 30 min. Then, perform heat inactivation at 95°C for 5 min. The reaction product is the RCA amplicons. </p><p>&nbsp;</p><p><strong>&nbsp;</strong></p><p><strong>One-step hybridization </strong></p><p><strong>&nbsp;</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add 2 mL of capture probe-conjugated magnetic bead particles, 20 mL of reporter probe modified with redox label and 18 mL of RCA amplicons into a tube.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mix well and incubate at 50°C for 30 min. </p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, apply a magnet to the side of the tube for 1.5 min to separate the solid-solution phase.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pipette out the supernatant and add 400 mL of 20 mM PBS-Tween to wash the pellet. <strong>Tip: </strong>Keep the magnet in place while performing the washing step.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pipette out the supernatant and add 400 mL of 20 mM PBS to wash the pellet. Repeat this step twice.<strong> Tip: </strong>Keep the magnet in place while performing the washing step.</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resuspended the washed pellet with 150 mL of 0.1 M PB/KCl (pH 7.0). </p><p><br></p><p><strong>Electrochemical detection</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pipette 30 mL of the hybridization reaction onto the screen-printed carbon electrode.</p><p>2.",
+    "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform differential pulse voltammetry (DPV) by scanning from -0.8 to -0.05 V, with a step potential of 0.01 V, modulation amplitude of 0.1 V with an interval time of 0.01 sec, and 0.1V/s scan rate.&nbsp;</p><p><br></p>"
+  ],
+  "subjectAreas": [
+    "Molecular Biology"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

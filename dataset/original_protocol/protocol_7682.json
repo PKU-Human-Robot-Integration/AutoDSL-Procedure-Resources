@@ -1,0 +1,14 @@
+{
+  "id": 8085,
+  "origin_website": "Bio",
+  "title": "Insulin Tolerance Test and Hyperinsulinemic-euglycemic Clamp",
+  "procedures": [
+    "C57BL/6J mice were fasted for 6 h and then injected intraperitoneally with insulin (1 U per kg of body weight), and blood glucose concentrations were monitored over time using a Contour blood glucometer on a drop of blood from the tip of the tail. Mice were cannulated in the lateral cerebral ventricle and catheterized in the right internal jugular vein for the hyperinsulinemic-euglycemic clamp (Figure 1) (Thrivikraman et al., 2002). Intravenous infusion of [3-3H] glucose (5 μCi bolus, 0.05 μCi/min) was used.Human insulin (16 mU/kg) was injected intravenously as a bolus, followed by continuous infusion at 2.5 mU/kg/min. Tail blood glucose was measured by glucometer at 10 min intervals, and 20% glucose was infused to maintain blood glucose at euglycemic levels (120 to 140 mg/dl of plasma glucose levels). After steady state had been maintained for 1 h, the glucose uptake in various tissues was determined by injecting 2-deoxy-D-[1-14C] glucose (2-[14C]DG) (10 mCi) 45 min before the end of clamps (the catheter was used for the injection). During the final 50 min of basal and clamp infusions, 20 μl blood samples were collected at 10 min intervals for measurement of [3H] glucose, [3H] H2O and 2-[14C]DG from the tail vein. Samples were stored in -20 °C. imgsrc:https://en-cdn.bio-protocol.org/attached/image/20141201/20141201205435_7076.jpgFigure 1. Right internal jugular vein catheterization. A catheter is placed in the right jugular vein for the infusion of glucose and insulin."
+  ],
+  "subjectAreas": [
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

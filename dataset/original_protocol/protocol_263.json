@@ -1,0 +1,16 @@
+{
+  "id": 278,
+  "origin_website": "Nature",
+  "title": "Time-Lapse Video Microscopy for Assessment of Self-Renewal and Division Kinetics",
+  "procedures": [
+    "1. Beginning with heterogeneous population of cancer cells, obtain fresh sorted cancer cell populations immediately after FACS. Keep cells in phenol red-free media.\n  2. In 100mm vacuum gas plasma-treated plates, seed cancer cells at 5-10% confluency.\n  3. Incubate cells at standard culture conditions of 37°C, 5% CO2.\n  4. Allow 4-8 hours for cells to adhere.\n  5. Using AxioCam MRm camera and Axiovert 200 M fluorescence microscope, acquire first image \\(time point zero) using both brightfield and fluorescence filters.\n  6. Set microscope to acquire images every 10 minutes for a period of 72 hours. Image acquisition intervals will vary based on expected doubling times of cells from particular tissues of origin.\n  7. Assemble movie of individual images using ImageJ Java-based software.\n  8. Analyze cell cycle division kinetics and asymmetric vs. symmetric stem cell division:\n       a. Observe for anaphase in the parent cell to track individual cell divisions. Record the time to first division \\(doubling time).\n     b. Observe for anaphase in the daughter cells from the original parent cell. Record the time to first division of these daughter cells.\n     c. Determine if there are significant differences in doubling times between the different subsets of cells and between the two daughters from a single parent stem cell from each subset.\n     d. If using a fluorescent reporter-based approach to identify subsets expressing stem cell genes, observe for asymmetric versus symmetric distribution of fluorescence in the daughter cell after division of the parent cell. This may indicate retention or disappearance of stem cell properties in the daughter cells.\n     e. Note for cell death in the daughter cells."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Cell Biology"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

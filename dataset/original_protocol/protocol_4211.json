@@ -1,0 +1,15 @@
+{
+  "id": 4420,
+  "origin_website": "Bio",
+  "title": "Extraction of Ions from Leaf Sections",
+  "procedures": [
+    "Barley plants are germinated on moist filter paper for 2-3 days and then seedlings are grown in hydroponic culture for 7-8 days.   Leaves are sampled using scissors and forceps and weighed.   Samples are cut into small pieces, then put into 2 ml plastic tubes with 7 mm zirconia beads and frozen in liquid nitrogen.   Frozen leaves are crushed to a powder using a sample crusher.   1 ml distilled water is added to each sample which is then homogenized on a vortex mixer at the maximum speed (e.g. 3,000 rpm) until the mixture becomes uniform.   Samples are centrifuged at 20,400 x g for 10 min at 4 °C. The supernatant is put into a 1.5 ml plastic tube and boiled at 100 °C for 7 min with a dry thermo unit to denature enzymes like phosphatases in Nagai et al. (2013). If samples are heated for longer than 7 min, some metabolites may begin to be degraded.   Samples are cooled on ice and again centrifuged at 20,400 x g for 10 min at 4 °C.   The supernatant is sucked into a 1 ml syringe, and then filtered through a 0.45 µm filter to remove debris.   The filtrates are stored at -20 °C until measurement.   Ion levels in each sample are determined with an ion chromatogram."
+  ],
+  "subjectAreas": [
+    "Plant Science",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4327,
+  "origin_website": "Bio",
+  "title": "Isolation and Culture of Neurospheres for the Study of Pathogenesis of Prion Disease",
+  "procedures": [
+    "Dissect the brain from newborn mice under Laminar flow hood (Figure 1). Spray 70% ethanol upon newborn mice and cut the head (Figure 2A). Make small incisions (Figure 2B, arrows) and remove the skin. Then, carefully remove the skull with forceps and expose the brain (Figure 2C).  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140312/20140312050216_1146.jpg Figure 1. Dissecting equipments arranged in a Laminar flow hood  imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140312/20140312050235_1466.jpg Figure 2. Dissection procedures to obtain neonatal mouse brain    Scoop the brain by a small spatula and place them in ice cold HBSS (10 ml in 100 mm dish, Figure 3A). By using fine forceps, remove meninges under dissecting microscope (Figure 3B-C).   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140312/20140312050304_7554.jpg Figure 3. Removal of meninges (B: arrow) from neonatal mouse brain under dissecting microscope. After removal of meninges, the brain becomes whitish color (C).    Place cortices in sterilized disposable micro homogenizer and centrifuge at 5000 x g for 30 sec at 4 °C.   Pipet the minced tissue with 2 ml of D-PBS containing 1 mM EDTA, 100 μg/ml trypsin, and 400 μg/ml DNase I until evenly homogenized and place them in a 15 ml Conical Centrifuge Tube.   Incubate for 15 min at 37 °C in an incubator with constant agitation using a reciprocal shaker at 50 rpm. Add 1 ml of FBS, then gently pipet up and down to help the dissociation by using aerosol resistant tip to avoid contamination. Stand tubes for 2 min at 25 °C and collect supernatant by pipetting. Avoid to suck any visible tissue fragments.   Centrifuge cell suspensions at 200 × g for 5 min at 25 °C and resuspend the pellet in Neurosphere basal medium (10 ml) by pipetting.   Centrifuge the cell suspension at 200 x g for 5 min at 25 °C.",
+    "Discard the supernatant, resuspend in 5 ml of Neurosphere basal medium at 25 °C and transfer it into Nunc 60 mm dishes with HydroCell Surface. Culture the cells at 37 °C in humidified CO2 incubator (5% CO2-95% air).   Refill 0.5 ml of Neurosphere basal medium everyday.   After 5-7 days, neurospheres with variable sizes (50-100 μm in diameter) are formed in the culture (Figure 4). Centrifuge neurosphere suspensions at 200 × g for 5 min at 25 °C, discard the supernatant, and resuspend in 2 ml of Accutase at 37 °C for 10 min.   imgsrc:https://en-cdn.bio-protocol.org/attached/image/20140312/20140312050412_9120.jpg Figure 4. Neurosphere formation in Neurosphere basal medium after 5 days of culture. Scale bar = 100 μm     Gently pipet up and down (about ten times) using aerosol resistant tip to dissociate into single cells. Check the cells under microscope for successful dissociation. Add 12 ml of HBSS and centrifuge at 200 x g for 5 min at 25 °C. Resuspend the pellet in 10 ml of Neurosphere basal medium at 25 °C and subculture into new Nunc 60mm dishes with HydroCell Surface at 1:4 split ratio (i.e. 25% of the harvested cells are seeded into the new dish with same size). Refill 0.5 ml of Neurosphere basal medium everyday. The neurospheres are subcultured at 4-6 day intervals."
+  ],
+  "subjectAreas": [
+    "Cell Biology",
+    "Stem Cell",
+    "Neuroscience"
+  ],
+  "bigAreas": [
+    "Biomedical & Clinical Research",
+    "Molecular Biology & Genetics"
+  ]
+}

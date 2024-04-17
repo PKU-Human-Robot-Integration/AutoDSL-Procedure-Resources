@@ -1,0 +1,17 @@
+{
+  "id": 433,
+  "origin_website": "Nature",
+  "title": "Immunofluorescence staining for studying histone deubiquitination",
+  "procedures": [
+    "Perform immunofluorescence staining performed essentially as described \\(Perez-Burgos et al., 2003). \n1. Treat HeLa cells \\(70&#x2013;80% confluence) with nocodazole \\(400 ng/ml, Sigma) vernight.\n  2. Collect by trypsinization. \n  3. Resuspend cells in hypotonic buffer \\(10 mM Tris-HCl, pH 7.5, 10 mM NaCl, 5 mM MgCl2) and incubate at 37&#xB0;C for 15 min.  \n  4. Add 1/10 volume of 3% Tween 20 and centrifuge the cells onto Superfrost slides using a Shandon Cytospin3 \\(Shandon, UK) for 5 min at 1000 rpm. \n  5. After centrifugation, incubate the slides with KCM-T solution \\(10 mM Tris, pH 8.0, 120 mM KCl, 20 mM NaCl, 0.5 mM EDTA, 0.1% Tween 20) containing 0.1% Triton X-100 at RT for 10 min. \n  6. After washing with KCM-T buffer \\(without Triton X-100) for three times, fix the cells in freshly prepared 4% para-formaldehyde \\(in PBS, pH 7.4) at RT for 10 min. \n  7. After washing with KCM-T buffer for three times, block the slides with KCM-T buffer containing 2.5% BSA and 10% goat serum at RT for 30 min. \n  8. Incubate the slides with  primary antibody \\(1:200 dilution, Anti-phospho-Histone H3-Ser10, Mitosis Marker, Upstate, Catalog # 06-570; 1: 500, Anti-ubiquityl-Histone H2A, clone E6C5, Upstate, Catalog # 05-678) at RT for 1 h.  \n  9. After washing the slides with KCM-T buffer for three times, incubate them with secondary antibodies at 1:500 dilutions \\(FITC conjugated goat anti-rabbit IgG, Texas Red conjugated goat anti-mouse IgG, Santa Cruz) for an additional 1 hr. \n  10. After washing the slides with  KCM-T for three times and followed by washing with PBS for one more time, add DAPI at a concentration of 0.5 &#x3BC;g/ml and incubate for 1 min. \n  11. After washing with PBS twice and water once, mount the slides with vectorshield mounting media \\(Vector Laboratories). \n  12. Capture images with an Olympus microscope with 20&#xD7;objective."
+  ],
+  "subjectAreas": [
+    "Biological Techniques",
+    "Biochemistry",
+    "Computational Biology And Bioinformatics"
+  ],
+  "bigAreas": [
+    "Bioengineering & Technology",
+    "Molecular Biology & Genetics"
+  ]
+}

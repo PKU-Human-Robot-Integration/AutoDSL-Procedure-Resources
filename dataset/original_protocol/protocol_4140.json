@@ -1,0 +1,16 @@
+{
+  "id": 4346,
+  "origin_website": "Bio",
+  "title": "Zonal Sedimentation Analysis on Sucrose Gradients",
+  "procedures": [
+    "Zonal sedimentation on a sucrose gradientSimultaneously load 6 µg of recHA3 and 60 µg of each protein standard by pipetting them (use a 10 µl tip connected to a pipettor) just below the top of a 5-25% sucrose gradient containing a 60% sucrose cushion.Ultracentrifuge the sucrose gradient for 16 h at 35,000 rpm, 4 °C.Place the tube containing the sucrose gradient in a tightly fitted rack to avoid any undesired movement.Carefully place a 1 ml tip connected to a pipettor just below the top of the sucrose gradient. Manually collect fractions of 250 µl by slow pipetting.Transfer fractions to new 1.5 ml micro-centrifuge tubes.Repeat steps A4 and A6 until the sucrose gradient is completely fractionated.Combine 15 µl of each fraction with 5 µl of 4x LDS sample buffer.Boil samples for 5 min.SDS-PAGE and Western blottingLoad 15 µl of every sample onto protein mini-gels.Run for ~1 h at constant 50 mA/gel.Transfer proteins to nitrocellulose membranes for ~1 h at constant 300 mA.Stain membranes with 10 ml 0.1% Ponceau S solution in 5% acetic acid for 5 min. Rinse membranes with water. At this point, it is possible to see the protein standards on the stained membranes.Scan or take a picture of the stained membranes. Block membranes with 10 ml 5% nonfat milk/1x PBS for 30 min at room temperature.Wash membranes with 10 ml 0.5% Tween-20/1x PBS for 10 min at room temperature with vigorous shaking.Incubate membranes with 10 ml neat mouse hybridoma supernatant containing the anti-HA antibody for at least 2 h at room temperature with slow rocking.Wash membranes 3 times with 10 ml 0.5% Tween-20/1x PBS for 10 min at room temperature with vigorous shaking.Incubate membranes with 10 ml anti-mouse HRP-conjugated antibody diluted 1:3,000 in 5% nonfat milk/1x PBS for 1 h at room temperature with slow rocking.",
+    "Wash membranes 3 times with 10 ml 0.5% Tween-20/1x PBS for 10 min at room temperature with vigorous shaking.Incubate membranes with 5 ml SuperSignal West Pico chemiluminescent substrate for 5 min at room temperature with slow rocking.Expose films to membranes at room temperature.Develop films using a Kodak X-OMAT 2000A processor or equivalent.Please refer to Figure 5 on our prior publication (Magadan et al., 2013) for representative results and conclusions.Calculation of the recHA3 molecular sizeMeasure the intensity of each protein standard band on stained membranes with Ponceau S using the Image J software. Then, plot the distribution of the protein standards on the different sucrose gradient fractions.Repeat step C1 measuring the distribution of recHA3 obtained by Western blotting.By comparing both plots, it is evident that recHA3 (~200 kDa) sediments as discrete peaks immediately following the fractions containing aldolase (158 kDa)."
+  ],
+  "subjectAreas": [
+    "Microbiology",
+    "Biochemistry"
+  ],
+  "bigAreas": [
+    "Molecular Biology & Genetics"
+  ]
+}
